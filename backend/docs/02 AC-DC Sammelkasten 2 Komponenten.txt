@@ -1,0 +1,227 @@
+(0:00:00 - 0:00:08)
+Nämlich den Komponenten. Ihr habt es gerade schon gesagt, alles was genannt wurde ist drin. Und das gucken wir uns jetzt im Detail an.
+
+(0:00:08 - 0:00:21)
+Wie machen wir das? Also würden wir uns gemeinsam hier in Berlin treffen, hätten wir so einen Anschlusskasten hier und würden jetzt da drin rum schrauben. Virtuell haben wir es versucht, so gut wie möglich nachzubauen. Und zwar seht das hinter mir erst mal.
+
+(0:00:22 - 0:00:42)
+Das ist ein 3D Modell von so einem Generator Anschlusskasten. Habe ich hier schon. Genau. 
+
+Ich schiebe mal das 3D Modell weg. Jetzt machen wir es erst mal mit Bildern und verweisen gerne auf die Firma Weidmüller. Die hat das zur Verfügung gestellt und sagen dazu, dass das ein wunderbares Beispiel ist für das, was wir jetzt alles gleich zeigen würden.
+
+(0:00:43 - 0:00:50)
+Und das geht auch mit anderen Herstellern. So, wir machen es jetzt an diesem Beispiel. Und deswegen seht ihr dieses Bild hinter mir jetzt immer wieder.
+
+(0:00:51 - 0:01:01)
+Und das 3D Modell kommt später auch noch mal, um ein bisschen genauer auf so ein paar Einzelheiten aufzugehen. Aber so sieht der erst mal in Summe aus. Wir werden auch später noch eine 360 Grad Tour machen.
+
+(0:01:01 - 0:01:10)
+Da kann sich jeder selber mal drin umgucken und gehen jetzt auf den DC Hauptschalter. Der war auch genannt vorhin. Das heißt daher schon mal herzlichen Glückwunsch.
+
+(0:01:10 - 0:01:16)
+Das war genau richtig. Den erachten offensichtlich auch wir als wichtig. Wo ist er? Kann jeder jetzt immer selber mitdenken.
+
+(0:01:16 - 0:01:21)
+Wo ist er in dem Bild? Und wir zoomen dann mal rein. Da ist er. Das ist der DC Hauptschalter.
+
+(0:01:21 - 0:01:28)
+Sieht man ja schon. Da ist ein Schalter dran. So, was ist wichtig? Für die Spezifikation würde ich aufschreiben.
+
+(0:01:28 - 0:01:43)
+Das muss einer für spezielle Anwendungen DC System sein, weil wir befinden uns ja natürlich im DC System. Dann sage ich jetzt mal Spannungsbereiche bis 1500 Volt sind für mich üblich. Also 1000 Volt würde ich nicht mehr ausschreiben.
+
+(0:01:44 - 0:01:50)
+Im Grunde sind wir jetzt bei 1500 Volt System. Man muss darauf achten. Dafür muss der Schalter spezifiziert sein.
+
+(0:01:51 - 0:01:55)
+Die Norm würde ich immer reinschreiben. Auf die gehen wir auf gar keinen Fall ein. Das soll sich ja der Schaltschrankbauer durchlesen.
+
+(0:01:55 - 0:02:05)
+Aber Niederspannung, Schaltgeräte, Norm, die würde ich benennen. Und dann sind schon viele Rahmenbedingungen definiert von so einem Kasten. Den Nennstrom beachten.
+
+(0:02:05 - 0:02:12)
+Da gehen wir auf die elektrische Auslegung später ja genauer ein. Also klar, Spannung hatten wir jetzt schon. Jetzt kommt der Strom.
+
+(0:02:12 - 0:02:23)
+Das sind ja schon mal die zwei wichtigsten Kenndaten vom Elektroplaner und den Nennstrom von diesem Schalter. Aber von dem ganzen Kasten in Summe muss er beachten. Eine Stellungsmeldung kann man machen.
+
+(0:02:23 - 0:02:34)
+Man sieht das hier in dem Bild auch tatsächlich, diese roten kleinen Drähte da an der Seite. Das ist eine Stellungsmeldung, Überwachung. Also könnte man im Monitoring abbilden, ob der gerade eingeschaltet ist oder ausgeschaltet.
+
+(0:02:35 - 0:02:43)
+Und Achtung für alle, die auch ein bisschen in der Schutztechnik unterwegs sind. Machen wir ja auch einige Braindays dann noch dazu. Achtung, das ist ein Trennschalter.
+
+(0:02:43 - 0:02:48)
+Auch das wurde genannt vorhin. Das ist eine Trennstelle. Dieser Schalter hat keine Schutzfunktion.
+
+(0:02:49 - 0:02:58)
+Mehr brauche ich dazu, glaube ich, nicht sagen. Erster Punkt Hauptschalter abgeschlossen. Jetzt gehen wir in die Stringüberwachung.
+
+(0:02:58 - 0:03:11)
+Das heißt, da ist irgendwie so eine Überwachungseinheit drin. Die kann natürlich völlig unterschiedlich sein. Aber hier in unserem Beispiel ist sie das, was macht diese Überwachungseinheit? Wenn ich es erst mal übergeordnet beschreiben darf.
+
+(0:03:11 - 0:03:15)
+Also sie kommuniziert erst mal mit der Leitwarte. Das ist wichtig. Das muss man beachten.
+
+(0:03:16 - 0:03:27)
+Das würde ich in die Spezifikation reinschreiben, wie ich kommunizieren möchte mit diesen Boxen. Und dann muss ich natürlich auch eine Kommunikationsleitung vorbereiten. Dann muss ich eine sinnvolle Adressvorgabe beachten.
+
+(0:03:27 - 0:03:38)
+Wir schreiben da immer so eine IP-Adressliste, RS-485, wie auch immer. Das muss ich halt wissen, wie die adressiert werden. Und dann schreibe ich mir das sauber auf, dass sie nicht am Ende alle auf einmal die gleiche Adresse haben.
+
+(0:03:40 - 0:03:55)
+So was macht eigentlich die Stringüberwachung? Sie misst die Stringströme. Zeige ich später auch noch mal, wie sie das genau macht. Aber klar, wir wollen erst mal von jedem String den Strom messen und die Systemspannung messen, also nicht von jedem String.
+
+(0:03:56 - 0:04:10)
+Ja, wer letzte Woche oder im Studium aufgepasst hat, das würde auch gar keinen Sinn machen, die Spannung von jedem String zu messen. Sie sind nämlich parallel geschaltet und dann hat man am Ende sowieso die gleiche Spannung. Also man misst einen Spannungswert, aber man misst jeden String Strom.
+
+(0:04:11 - 0:04:21)
+Die Temperatur kann man machen, finde ich gut. Dann hat man da schon mal einen Hintergrund, ob das Ganze überlastet wird oder nicht. Und die Schalterstellung hatte ich schon gesagt.
+
+(0:04:22 - 0:04:29)
+Überspannungsableiter wurde auch mehrfach genannt. Der kommt gleich noch. Aber grundsätzlich kann man ihn auch überwachen, halte ich für super sinnvoll.
+
+(0:04:29 - 0:04:47)
+Wenn wir das machen können, dann sieht das O&M automatisiert mit einer SMS oder was auch immer. Der ist kaputt, der hat ausgelöst, der muss ausgetauscht werden. Der Ausgang, das ist ein bisschen eher mechanisch und doch auch elektrisch, weil die Anzahl der DC Hauptkabel definieren wir.
+
+(0:04:47 - 0:04:53)
+Also damit meine ich jetzt nicht Plus und Minus. Das meine ich nicht. Aber gut, so geht es schon mal los, sondern man kann parallele Systeme aufbauen.
+
+(0:04:54 - 0:05:07)
+Hier wäre jetzt ein Plus, ein Minus, also nicht parallel setzen, sondern ein System einsetzen. Wenn man mal zwei Systeme aufbaut, darauf will ich ja hier hinaus mit diesem Bild, dann würde jetzt dieser Gag nicht passen. Da hätte man einen Fehler gemacht.
+
+(0:05:08 - 0:05:26)
+Querschnitt und Durchmesser beachten. Ganz typisches Problem, wo man denkt, man hat alles richtig gemacht und dann ruft die Bausteller und sagt, die Kabel passen nicht durch. Also das lohnt sich, da noch mal im Detail vorher drüber zu gucken, ob der Querschnitt beziehungsweise der daraus resultierende Durchmesser des Kabels dadurch passen wird.
+
+(0:05:28 - 0:05:43)
+Positionierung innen und außen. Damit meine ich, zeige ich später noch mal genauer, dass die Kabel in der Flucht von ihren Anschlusspunkten eingeführt werden und dass man sie außen auch gut abfangen kann. Der Überspannungsableiter, den hatte vorhin auch jemand gleich reingepfeffert.
+
+(0:05:43 - 0:05:54)
+Hier ist er. Der ist absolut zwingend erforderlich. Das sind auch typische Anwendungen oder spezielle Überspannungsableiter, die man hier einsetzen kann.
+
+(0:05:54 - 0:06:10)
+Also man muss den Spannungsbereich beachten. Da hatten wir ja gerade die DC-Spannung 1500 Volt. Dann haben wir eine Überwachung sowohl der DC-Eingänge oder nicht Überwachung, Entschuldigung, sondern eher einen Schutz, eine Schutzfunktion für die DC-Eingänge.
+
+(0:06:10 - 0:06:31)
+Und man kann auch die Kommunikation nicht mit diesem, sondern mit einem anderen ebenfalls gegen Überspannung absichern. In der Norm 011712, das ist eine der großen Solarnormen, die muss jeder bitte kennen. Also wenn ich irgendwie, na gut, nicht mich fragen, aber wenn ihr euch gegenseitig fragt, welche Solarnorm kennt ihr, dann muss die dabei sein.
+
+(0:06:31 - 0:06:41)
+Und da würde auch drinstehen, dass der Überspannungsableiter hier Pflicht ist. Das ist noch mal eine andere Norm. Da wird definiert, wie der auszuführen ist.
+
+(0:06:42 - 0:06:56)
+So, dann geht es wieder ein Schrittchen weiter in den DC-Sicherungshalter. Da ist er, also da sind die Sicherungen drin und da haben wir auch ein paar Bullet Points aufgeschrieben. Na gut, die P2X, also Berührungsschutz sehen wir später auch noch.
+
+(0:06:57 - 0:07:14)
+Da darf man nicht irgendwie einfach hinfassen dürfen, weil da drin ist eben Spannung. Für mich wichtig wäre wirklich, dass ich mir vorher überlege, wie will ich meine Stringkabel anschließen? Man kann das klemmen, man kann das schrauben, man kann MC4-Stecker da reinstecken, man kann ADN-Hülsen nutzen. Es gibt verschiedenste Varianten.
+
+(0:07:14 - 0:07:27)
+Ich habe jetzt mal Schrauben unterstrichen, weil ich das in meinen letzten Projekten so gemacht habe. Aber das ist mehr eine Abstimmungssache mit Bauleitern oder Montagefirmen. Da kommen diese Sicherungen rein, die sieht man auch gleich noch mal.
+
+(0:07:28 - 0:07:53)
+Das machen wir gleich noch mal mehr im Detail, aber auch diese normiert. Man könnte also diese Liste, die ich hier aufgeschrieben habe, durchaus mal als Spezifikationsgrundlage nehmen, wenn man das noch mal einmal in eine Liste schreibt, kann man das, finde ich, schon fast verwenden, um an die Hersteller zu schicken. So, beim Sicherungshalter Minus haben wir extra ein Kapitel sozusagen benannt, um da auch so schön zoomen zu können.
+
+(0:07:53 - 0:08:01)
+Also Achtung, da muss also auch ein Sicherungshalter rein. Plus und Minus müssen abgesichert werden. Das steht auch in dieser 712er-Norm drin.
+
+(0:08:01 - 0:08:07)
+Ganz früher war das mal, glaube ich, nur an einem Pol. Das machen wir schon lange nicht mehr. Also beide Pole werden immer abgesichert.
+
+(0:08:07 - 0:08:27)
+Deswegen sind es hier auch zwei von diesen Sicherungshalter-Batterien sozusagen. Natürlich die Anzahl der Stringkabel beachten, also zu viele Sicherungshalter wäre noch okay, zu wenig wäre nicht okay. Und unten sieht man die Durchführung hier mal von den Stringkabeln, also Querschnitt und Durchmesser bitte beachten, damit die Kabel auch reinpassen.
+
+(0:08:29 - 0:08:42)
+So, da haben wir noch zwei, drei vor uns, glaube ich. Ja, genau, jetzt setzen wir mal die Sicherungen ein. Da zoomen wir noch weiter rein und jetzt ziehen wir sozusagen virtuell das Ding mal raus, dann sieht das so aus.
+
+(0:08:42 - 0:08:56)
+Und wer gute Augen hat, der kann auch schon erkennen, wie diese Sicherung jetzt definiert ist. Aber Definition, Auslegung von Stringsicherung, das machen wir nächste Woche. Heute machen wir das nicht.
+
+(0:08:56 - 0:09:13)
+Jetzt nehmen wir mal an, wir haben die richtige dimensioniert. Jetzt könnte man jetzt hier überprüfen, ob man auch die richtige da eingesetzt hat. Also in dieser Norm, das ist jetzt eine europäische, da gibt es auch eine deutsche Ableitung, werden die Sicherungen angegeben und spezifiziert.
+
+(0:09:14 - 0:09:25)
+Dieses GPV, darauf kann man achten, ist also eine spezielle PV-Sicherung. Da geht es um Auslösecharakteristiken. Dimensioniert, genau, werden sie nach der 712, hatte ich vorhin schon genannt.
+
+(0:09:25 - 0:09:35)
+Und jetzt nochmal, finde ich, ein sinnvoller Hinweis. Man sieht das auch ein bisschen, wenn man gut reinguckt, auf die Kennzeichnung der Sicherung in dem Bild. Da ist ein Diodensymbol dargestellt.
+
+(0:09:35 - 0:09:48)
+Das bedeutet, da ist tatsächlich eine Diode drin verbaut in dieser Sicherung und die schützt gegen Verpolung. Also wenn man jetzt das falschrum einsetzen würde, dann kommt kein Stromfluss zustande. Die Diode schützt gegen Verpolung.
+
+(0:09:51 - 0:10:04)
+Der DC-Stromwandler, ich hatte ihn vorhin schon mal kurz genannt und hier ist er jetzt in unserem Beispiel, ist das halt so ein blauer Stromwandler. Wichtig ist, die Stringkabel müssen da durch. Das hat er richtig gemacht, der Hersteller von dieser Box.
+
+(0:10:04 - 0:10:28)
+Und dann kann der den Strom messen. Da haben wir, glaube ich, nur einen Punkt Genauigkeitsklasse, haben wir es genannt. Genau. 
+
+Und dass wir jeden String einzeln überwachen würden. Also man kann ja auch Teams bilden. Man hat das mal gemacht, damit es ein bisschen billiger wird, dass man immer zwei gemeinsam überwacht, weil man gesagt hat, na ja, wenn einer ausfällt, dann misst er ja nur noch die Hälfte von seinen Teamkollegen und dann ist klar, dass einer ausgefallen ist.
+
+(0:10:28 - 0:10:35)
+Also in der Logik konnte man da ein bisschen Geld sparen. Ich würde versuchen, jeden String einzeln zu messen. Nach dem Motto, das ist Stand der Technik.
+
+(0:10:37 - 0:10:49)
+Die Sammelschiene hat auch einer reingerufen. Interessant, weil da wäre ich jetzt nicht als erstes draufgekommen, aber da ist sie. Also dann werden jetzt die Stringkabel hier gesammelt und über den DC-Trennschalter nach außen geführt.
+
+(0:10:49 - 0:10:55)
+Auch da passt man darauf auf, dass man den nicht berühren darf. Also hier im Bild ist kein Berührungsschutz drin. Der wurde demontiert nur fürs Bild.
+
+(0:10:55 - 0:11:04)
+In Realität muss da so eine Plexiglasscheibe drüber sein. Ja, jetzt wird es richtig, richtig detailliert, aber auch ganz interessant. Habe ich auch schon gelernt in der Realität.
+
+(0:11:05 - 0:11:10)
+Die sind tatsächlich wichtig. Druckentlastungsventile. Also da drin fließt ständig Strom und dann mal kein Strom.
+
+(0:11:10 - 0:11:24)
+Draußen wird es immer kalt und warm und feucht und trocken. Das heißt, das Ding braucht Druckentlastungsventile, damit sich in keine Feuchtigkeit ausbreitet. Feuchtigkeit und Elektrotechnik, das passt ja nun wirklich nie zusammen.
+
+(0:11:24 - 0:11:34)
+Und deswegen sind die sehr sinnvoll. Und uns ist eingefallen, die sollen freistehen bleiben. Also da nix, irgendwie kein Plan davor hängen oder so, damit die überhaupt funktionieren können.
+
+(0:11:36 - 0:11:53)
+So das Gehäuse, ein nicht elektrotechnischer Teil, aber ich mache es trotzdem gern ganz kurz. So sieht er jetzt vielleicht ein bisschen von weiter vorne fotografiert aus, damit man das Gehäuse ein bisschen besser sehen kann. Und da gibt es aus unserer Sicht so dieses GFRP, das ist so typisch.
+
+(0:11:53 - 0:11:58)
+Aber es gibt auch andere. Also man kann auch eine Metallbox bauen. Das hat sich aus unserer Sicht aber nicht durchgesetzt.
+
+(0:11:58 - 0:12:10)
+Das sind mehr so diese diese Plastikeinheiten, weil sie dann ehrlich gesagt halt einfach auch günstiger sind. Und die Schutzklasse, die ist wichtig. Jetzt sieht man es IP 65 würde ich empfehlen.
+
+(0:12:10 - 0:12:16)
+Das ist halt eine sehr hohe Schutzklasse. Aber das ist jetzt von außen eben gedacht. Also Schutz vor Staub eintritt.
+
+(0:12:16 - 0:12:24)
+Da kann gar nix rein. Keine Maus, keine Hand und eben auch kein Staub. Und gegen Wasser macht es ja auch Sinn, weil der ja draußen gehängt ist.
+
+(0:12:25 - 0:12:34)
+Dass davor Wasserstrahlen schützt, heißt da die 5 bei Wasser. Das heißt IP 65 ist sicher. Ein Schließsystem kann man sich überlegen.
+
+(0:12:34 - 0:12:52)
+Entweder so ein ganz normaler Badschlüssel oder richtig mit Zylinder. Das würde ich sagen, ist projektspezifisch abzustimmen. Als letzten Punkt Punkt 12 springen wir jetzt noch mal in die Verdrahtung, sozusagen, weil wir auch unser 3D Modell unbedingt auch mal anwenden wollten.
+
+(0:12:52 - 0:13:01)
+Also so sieht das Ding sozusagen dreidimensional aus. Jetzt kann ich damit machen, was ich will. Und deswegen drehe ich es jetzt erst mal und fange jetzt mal an, Stringkabel einzuführen.
+
+(0:13:01 - 0:13:16)
+Das mache ich einfach mal hier. So fangen links oben an mit meinem ersten Minuspol. Achtung, da kommt er schon. 
+
+Das ist mein Minuskabel. Und jetzt will ich darauf hinweisen, kommt auch gleich der Text, dass der dazugehörige Pluspol nicht direkt daneben ist. Das ist aus unserer Sicht sinnvoll.
+
+(0:13:16 - 0:13:26)
+So sind die Kästen meistens auch gebaut. Deswegen man sieht es hier finde ich sehr deutlich. Der ist jetzt also zwei Reihen übersprungen, damit Plus und Minus halt nicht direkt nebeneinander stehen.
+
+(0:13:26 - 0:13:37)
+Wenn es jetzt doch mal irgendwie eine Isolation defekt hat, dann hat man zumindest noch zwei, drei Zentimeter Abstand dazwischen. Also Plus- und Minuspol räumlich trennen. Und jetzt kann man sich das überlegen.
+
+(0:13:38 - 0:13:46)
+Ich mache es so. Achtung, das ist also mein ganzes Minusteam. Und rot hier mein ganzes Plusteam.
+
+(0:13:46 - 0:13:58)
+Und dann ergibt sich daraus eine Logik für den Elektriker, der das installieren soll. Und ich schreibe dann vielleicht auch noch die Stringnummern dazu. Genau so würde ich so einen String Belegungsplan für den Gag zeichnen.
+
+(0:13:59 - 0:14:17)
+Achtung, nicht nebeneinander legen, Plus und Minus, sondern räumlich trennen. Das ist auch so gewollt, weil jetzt zum Beispiel diesen Gag, man sieht es jetzt gleich, wir führen das mal weiter. Dieser Pluspol würde jetzt hinter der ersten Sicherungsbatterie nach oben gehen, zu dieser Plus-Sicherungsbatterie.
+
+(0:14:17 - 0:14:42)
+Dann geht das oben durch den Stromwander durch zur Sammelschiene, durch den Trennschalter runter und wieder raus über das DC-Hauptkabel. Und dann jetzt hier der Minuspol, blau, der geht auf den vorderen Sicherungshalter und dann muss der auch nicht durch die Stringüberwachung, sondern der kommt direkt zum Halter und wieder über das DC-Hauptkabel raus. Das würdet ihr machen, wenn ihr ein Elektron wärt.
+
+(0:14:42 - 0:14:45)
+So wäre der Weg durch unseren Gag.

@@ -1,0 +1,188 @@
+(0:00:00 - 0:00:15)
+Also wir legen los, warum? Das Warum ist immer der Einstieg bei uns. Und warum machen wir das? Sicherheit, Sicherstellung der Netzstabilität. Das steht hier immer bei uns ganz oben.
+
+(0:00:15 - 0:00:27)
+Wir wollen ja mit unseren erneuerbaren Energien das Netz stabil halten. Wenn wir irgendwann mal auf die 100% gehen, dann sind es nun mal wir, die das Netz stabil halten. Und da gibt es dann das Verhalten der Wechselrichter.
+
+(0:00:27 - 0:00:44)
+Aber eben auch das Verhalten von so Anlagen im Kurzschlussfall oder wie sich dann eben die Schutztechnik verhalten muss, um eben nicht gleich das ganze Netz auszuschalten, wenn wir ein Problem in der Steckdose haben. Versorgungssicherheit steht dahinter. Der Kurzschluss in der Steckdose soll nicht das ganze Wohngebiet abschalten.
+
+(0:00:45 - 0:00:53)
+Sonst ist die Versorgung sicherlich nicht sichergestellt für alle, sondern höchst fragil. Und das prüfen wir im Grunde genommen. Wir schützen Komponenten.
+
+(0:00:53 - 0:01:24)
+Jede Komponente kann den Kurzschlussstrom erst mal vertragen für eine kurze Zeit, aber eben nicht über eine lange Zeit. Und das ermitteln wir, das schauen wir uns an und sehen dann eben, dass der Kurzschluss schnell genug ausgeschaltet wird, damit die einzelnen Komponenten nicht beschädigt werden und ein Kurzschluss nicht große Kabelstrecken, viele Transformatoren beschädigt, sondern eben nur das Teil, was dann ohnehin schon beschädigt ist. Wir schauen uns das Ganze an für den Erdschluss und Kurzschluss.
+
+(0:01:24 - 0:01:38)
+Das sind erst mal zwei Wörter, zwei Begriffe, die wir später noch genauer erklären werden. Erdschluss, Kurzschluss, es gibt noch viele andere. Wir vereinfachen hier viele, viele Dinge, weil es sonst natürlich viel zu aufwendig, viel zu umfangreich wird.
+
+(0:01:38 - 0:01:56)
+Aber diese Begriffe Kurzschluss, Erdschluss, die nehmt einfach schon mal mit. Selektivität ist genau das, was ich eben schon angedeutet habe. Ihr macht einen Kurzschluss zu Hause in der Steckdose und dann soll hoffentlich nicht das Umspannwerk abschalten, sondern dann schaltet erst mal die Sicherung in eurem Verteilerkasten ab und die Steckdose ist aus.
+
+(0:01:57 - 0:02:13)
+Wenn dann vielleicht die übergeordnete Sicherung auslöst, dann ist euer ganzes Haus dunkel, dann ist schon irgendwas nicht so richtig rund gelaufen. Und wenn es dann bis in die Trafostation geht und das Wohngebiet oder eure ganze Straße dunkel ist, dann sind schon viele, viele Sachen schief gelaufen. Und genau das verhindern wir hier.
+
+(0:02:13 - 0:02:22)
+Und das nennen wir Selektivität. Die Schutzeinrichtung, die am nächsten an dem Fehlerfall ist, die soll im Grunde genommen zunächst ausschalten. Das ist Selektivität.
+
+(0:02:23 - 0:02:51)
+Hohe Komplexität hat das Ganze natürlich dann bekommen, vor allem, wenn wir große Solarparks betrachten, mit vielen verschiedenen Schutzrelais, mit vielen verschiedenen Komponenten, mit verschiedenen Kurzschlussströmen an allen Stellen des Parks. Minimal, maximal, das zeigen wir euch gleich. Das kann man jetzt nicht mehr einfach per, es gibt schon Leute, die das können, aber das ist jetzt sinnvoll, da eine Software zu verwenden, mit der man sowas dann berechnet und dann eben auch diese Staffelpläne erstellt.
+
+(0:02:51 - 0:03:14)
+Das ist dann jetzt genau der Punkt Netzberechnung erforderlich. Das machen wir dann softwaregestützt und eben nicht mehr per Hand, weil das dann zu aufwendig und zu komplex ist. Wir machen das, habe ich gesagt, und damit meine ich auch wir als Planer oder eben den Anschlussnehmer, der sich eben darum kümmern muss, dass sein Solarpark eben diese Netzberechnung bekommt, diese Schutzstaffelung bekommt.
+
+(0:03:14 - 0:03:31)
+Und dann haben wir noch die Zertifizierstelle aufgeführt, die prüft das Ganze dann noch. Also die Zertifizierstelle erwartet ja von uns einen Schutzplan, einen Staffelplan und den müssen wir erst mal erstellen. Also die Zertifizierstelle wird uns nicht sagen, welche Schutzeinstellungen wir vorzunehmen haben, sondern wir machen das.
+
+(0:03:31 - 0:03:45)
+Die Zertifizierstelle nimmt sich unser Dokument und prüft dann, ob das so in Ordnung ist, was wir da uns überlegt haben. Und das Ganze ist dann natürlich giftgrün hier eingefärbt. Wichtig für die Anlagenzertifizierung.
+
+(0:03:45 - 0:03:58)
+Das spannt jetzt hoffentlich hier mal wieder diesen langen Bogen von der Sicherstellung der Netzstabilität ganz oben bis zum Anlagenzertifikat, was wir dann jetzt hier erhalten. Und das ist im Grunde genommen der Kern. Dafür tun wir das.
+
+(0:03:59 - 0:04:16)
+Und dadurch, dass wir dieses tolle Prinzip der Anlagenzertifizierung haben, bin ich auch fest davon überzeugt, dass wir diese Netzstabilität dann dadurch, gerade dadurch, sicherstellen können. So, Netzberechnung war eben das Stichwort. Wir schauen uns das mal an.
+
+(0:04:16 - 0:04:31)
+Das haben wir erst mal in zwei Bereiche untergliedert. Der erste Bereich, den wir erst mal rausstellen wollen, um den geht es heute nicht so ganz im Detail oder geht es eben nicht, sondern es geht gleich um den anderen. Aber der erste Teil der Netzberechnung ist eben erst mal eine Lastflussberechnung.
+
+(0:04:31 - 0:04:54)
+Da modelliert man so einen Solarpark. Man schaut sich dann da eher Wirkleistungsflüsse an und vielleicht Frequenzverhalten. Man schaut sich die Blindleistung an in so einem Solarpark und was macht die mit der Spannung am Netzanschlusspunkt? Wo bewegen wir uns da? Und vor allem ist das Ganze hier wichtig, die Auslegung der Komponenten, die wird hier im Normalbetrieb im Grunde genommen durchgeführt.
+
+(0:04:55 - 0:05:10)
+Hier geht es nicht um Störfälle, hier geht es nicht um Kurzschlüsse, sondern hier geht es wirklich um den Normalbetrieb des Solarparks. Und dafür machen wir Lastflussberechnung. Und wenn wir diesen Solarpark in der Software modelliert haben, können wir auf die Taste Lastflussberechnung drücken.
+
+(0:05:11 - 0:05:20)
+Und meistens ist es relativ wenig Aufwand, um auf die andere Taste zu drücken. Und dann kommen wir zu dem Bereich Kurzschlussberechnung. Und das ist heute unser Thema.
+
+(0:05:20 - 0:05:42)
+Da wollen wir wirklich im Detail darauf eingehen. Und diese Kurzschlussberechnung, die brauchen wir dann eben, um die Schutztechnik hinterher zu dimensionieren, um sie einzustellen, um dieses UMZ und AMZ, also unabhängigen Maximalstromzeitschutz oder eben den abhängigen Maximalstromzeitschutz einzustellen. Was das im Detail ist, ist dann wiederum ein bisschen anderer Brain Day.
+
+(0:05:42 - 0:06:13)
+Aber für heute erstmal Kurzschlussschutz, so würde ich es mal vereinfacht nennen, den können wir anhand dieser Kurzschlussberechnung erstmal besser einstellen, als wenn wir sie nicht hätten. Und die Auslegung der Komponenten erfolgt hier im Fehlerfall. Das heißt, dieser Kurzschluss ist natürlich kein Normalbetrieb, sondern der Kurzschluss, der passiert im Grunde genommen nur, wenn ein Fehler auftritt, wenn der Bagger in das Kabel haut, wenn vielleicht auch ein Nagetier sich mal durch das Kabel gekaut hat oder ähnliches.
+
+(0:06:13 - 0:06:21)
+Dann kommen wir in den Kurzschlussfall. Dann brauchen wir eben den Teil, den wir hier heute uns anschauen. Lastschlussberechnung machen wir nicht, ist grau.
+
+(0:06:21 - 0:06:51)
+Wir schauen uns Kurzschlussberechnung an. Und um da nochmal ein bisschen tiefer reinzugehen, beziehungsweise um ein bisschen herauszufinden, wie diese Kurzschlussberechnung stattzufinden hat und was es für Unterschiede gibt, brauchen wir jetzt erstmal einen ganz kleinen Exkurs in Netzform, weil die spielen vor allem bei einpoligen Fehlern, das ist nämlich schon mal vorweg immer eine wichtige Rolle. Auch dafür gibt es einen viel ausführlicheren Brain Day, wenn man da nochmal eintauchen will.
+
+(0:06:51 - 0:07:04)
+Es gibt niederohmige Sternpunkterdung, das nennt sich in der Mittel- und Hochspannung NOSPE. Es gibt isolierte Sternpunkte, das nennt sich dann OSPE. Und es gibt diese Resonanz-Sternpunktbehandlung, das nennt sich dann RESPE.
+
+(0:07:05 - 0:07:15)
+Ich würde jetzt erstmal das so stehen lassen. Ihr seht nachher an ein paar Diagrammen nochmal genauer, was das ist. Falls ihr das jetzt zum ersten Mal hört, kommt ihr gleich rein.
+
+(0:07:15 - 0:07:23)
+Aber das lassen wir erstmal so stehen. Wichtig für den einpoligen Erdschluss. Die andere Seite, das ist dann die Niederspannung.
+
+(0:07:24 - 0:07:33)
+Das physikalische Prinzip ist erstmal das gleiche. Auch da kann man Sternpunkte erden und das tut man auch. Und da nennt sich das dann ein wenig anders.
+
+(0:07:33 - 0:07:45)
+Es gibt dann vielleicht auch einen Neutraleiter, den man noch mitführt oder einen PE-Leiter oder kombiniert. Dann gibt es eben den geerdeten Sternpunkt. Das sind TNC, TNS, TNCS-Systeme, so nennen wir das.
+
+(0:07:45 - 0:07:57)
+Den isolierten Sternpunkt, das nennen wir in der Niederspannung IT-Netz. In der Mittelspannung, das Pendant, war die OSPE. Und wir haben den geerdeten Sternpunkt und den geerdeten Verbraucher, das TT-System.
+
+(0:07:58 - 0:08:07)
+Kommt mir ehrlich gesagt nicht so oft unter. Aber wir haben es hier der Vollständigkeit halber einfach mal mit aufgeführt. So, weiter geht's.
+
+(0:08:07 - 0:08:29)
+Wir schauen uns jetzt an die Formen der Erd- und Kurzschlüsse. Schon mal vorweggenommen, zuerst schauen wir uns den Kurzschluss an. Und wir wollen jetzt mal herausfinden oder einen Überblick geben, in welchen Netzformen es welche Arten von Kurzschluss, Erdschluss oder Erd-Kurzschluss gibt.
+
+(0:08:29 - 0:08:38)
+Also den Kurzschluss, den schauen wir uns mal an. Wir haben NOSPE, wir haben OSPE und wir haben RESPE. Und wir sagen jetzt erstmal der Kurzschluss.
+
+(0:08:38 - 0:08:50)
+Also Leiter, Leiter oder Leiter, Leiter, Leiter. Ein dreipoliger Kurzschluss, der findet erstmal in allen Netzformen statt. Das ist dann auch kein wesentlicher Unterschied.
+
+(0:08:51 - 0:09:07)
+Wir schauen da gleich nochmal ein bisschen ins Detail rein, wie das dann aussieht. Aber erstmal den Kurzschluss gibt es in allen Netzformen. Den Erdschluss und jetzt fehlt hier in diesem Wort, und das ist ja auch Absicht, weil so ist das Wording, bei Erdschluss fehlt jetzt dieser kurze Begriff kurz.
+
+(0:09:07 - 0:09:29)
+Also es ist jetzt ein Erdschluss, es ist kein Kurzschluss und auch kein Erd-Kurzschluss, sondern erstmal ein Erdschluss. Das bedeutet, eine Leitung fällt auf die Erde. Wir haben einen Erdschluss und diesen Erdschluss gibt es jetzt per Definition, per unserer Definition erstmal nicht in allen Netzformen, sondern in einem isolierten Netz und in einem kompensierten Netz, also OSPE und RESPE.
+
+(0:09:29 - 0:09:47)
+In diesen beiden Netzformen sprechen wir von Erdschluss und nicht von Kurzschluss. Seht ihr nachher, warum das so ist, was damit gemeint ist. Und der dritte Teilbereich, den wir herausgesucht haben oder den wir meinen, der für uns wichtig ist, ist der Erd-Kurzschluss.
+
+(0:09:47 - 0:10:04)
+Das ist jetzt nochmal eine Variation oder eine Mischung zwischen dem ersten und dem zweiten. Eine Leitung fällt wieder auf die Erde und dann gibt es nicht nur einen Erdschluss, sondern eben auch einen Kurzschluss. Also viel, viel höhere Ströme und das haben wir dann nur in der Netzform NOSPE.
+
+(0:10:04 - 0:10:19)
+Also niederohmig geerdeter Sternpunkt, da kommt es zum Kurzschluss. So, das erstmal vorweg, drei Formen, Kurzschluss, Erdschluss, Erd-Kurzschluss. Es gibt bestimmt noch andere Varianten dazwischen, zweipoliger Kurzschluss mit Erdberührung usw.
+
+(0:10:20 - 0:10:34)
+Vereinfacht lassen wir es erstmal bei diesen drei Formen, die wir jetzt hier haben. Und damit, glaube ich, habt ihr dann erstmal einen ganz guten Überblick, ein ganz gutes Bild davon, was passiert, warum das alles so wichtig ist. Also Kurzschluss, wir schauen uns das mal an in einer NOSPE.
+
+(0:10:36 - 0:10:59)
+Niederohmig geerdetes Netz, so sieht das aus, niederohmige Erdung des Sternpunktes, NOSPE, so nennt sich das, ihr seht das. Der Sternpunkt ist eben Richtung Erde geführt und zwar niederohmig. Das kann dann starr geerdet sein mit 0 Ohm Widerstand, das können auch mal 10, 20 Ohm sein, sodass man da eben den Erdfehler ein Stück weit steuern kann.
+
+(0:10:59 - 0:11:44)
+Wir gucken uns jetzt aber erstmal das erste Bild an und das ist ein dreipoliger Kurzschluss. Den zeichnen wir ein und dreipoliger Kurzschluss heißt erstmal zwischen Leiter 1, 2 und 3. Gibt jetzt eine leitende Verbindung, die Baggerschaufel hat einfach das Kabel durchschlagen, diese metallische Baggerschaufel steckt zwischen allen drei Phasen, also ein sauberer dreipoliger Erdschluss. Und dann fließt erstmal dieser IK3', also der dreipolige Kurzschlussstrom, fließt dann erstmal Richtung Fehlerstelle und nimmt das erstmal hin, der kommt noch viel häufiger, dieser IK3', wir zeigen auch später nochmal, was das genau bedeutet, wofür dieses Strichstrich dann steht.
+
+(0:11:44 - 0:12:11)
+Aber jetzt nimmt es erstmal hin, das ist erstmal der dreipolige Kurzschluss, der dann hier zum Fließen kommt Richtung Fehlerstelle. Der ist dann auch in diesem Fall sehr synchron, weil die Baggerschaufel hält ganz sauber alle drei Phasen zusammen, da fließen über alle drei Leiter die gleichen Ströme, also ein fast synchroner, stark vereinfachter Kurzschlussfall, den wir jetzt hier vorfinden in unserem Modell. Und dann fließt hier erstmal gar kein Strom über Erde.
+
+(0:12:11 - 0:13:02)
+Da ist dann diese Erdung gar nicht so relevant für uns, wir haben dreipoligen Fehler zwischen den Phasen, keine Erdberührung, kein Strom über Erde, ihr seht es an den gelben Pfeilen, der Strom ist allein in den Leitern. Wir gucken uns wieder in der Nospe einen anderen Fehler an, und das wäre jetzt der zweipolige Kurzschluss, den gibt es natürlich auch, die Baggerschaufel haut nur in Phase 1 und 2, und dann fließt ein Kurzschlussstrom zwischen den Phasen 1 und 2, der ist dann 180 Grad verdreht in diesen beiden Phasen, er hebt sich im Grunde genommen auf, wir haben keine Erdberührung, und deshalb kommt es auch hier nicht zu einem Strom, der über Erde fließt. Das alles ist jetzt erstmal wichtig zu verstehen, was es an Kurzschlüssen so gibt, wie die sich verhalten, damit man hinterher das alles hoffentlich ein bisschen besser versteht.
+
+(0:13:03 - 0:13:59)
+Also wir bleiben beim zweipoligen Kurzschluss, und springen jetzt in die andere Netzform, also in eine Ospe. Jetzt ist der Sternpunkt gar nicht mehr geerdet, der zweipolige Kurzschluss bleibt, und das ist, denke ich, jetzt gar nicht so sehr verwunderlich, die Physik in diesen beiden Leitern 1 und 2 ist die gleiche, 180 Grad Phasen verdreht, und es fließt kein Strom über Erde, wie soll er auch, der Sternpunkt ist ja auch gar nicht mehr geerdet, wir haben keine Erdberührung der Leiter, von daher fließt kein Strom über Erde. Wir gucken uns diesen gleichen zweipoligen Kurzschluss nochmal an, und schauen uns das in dem kompensierten Sternpunkt an, also Respe, und dann setzen wir jetzt die Patterson-Spule da rein, genau, hier ist sie, ist auch einstellbar, kann man eben so ein bisschen verdrosseln oder verstimmen, wenn man möchte, dafür steht der Pfeil, und der zweipolige Kurzschluss auch hier, gleiches Prinzip, kein Strom über Erde, reiner Kurzschluss in diesen beiden Leitern.
+
+(0:14:00 - 0:16:06)
+So, Kurzschluss haben wir durch, Kurzschluss, also vielleicht nochmal, um das zusammenzufassen, kein Strom über Erde, weil wir haben erstmal keine Erdberührung von unseren Phasen, und dann ist im Grunde genommen das auch relativ unabhängig davon, wie der Sternpunkt unseres Netzes geerdet ist, weil der Strom nicht über Erde fließt. Wir gehen zum nächsten Überpunkt, Erdschluss, und jetzt hatten wir eben gesagt, den Erdschluss, den gibt es jetzt nach unserer Definition erstmal im isolierten Netz, also OSPE, und das schauen wir uns dann hier erstmal an, und simulieren hier einfach mal einen einpoligen Fehler, ja, zack, da haut ein Fehler rein, die Leitung, der Leiter 3 kriegt irgendwie eine Verbindung zur Erde, das passiert schon mal, und jetzt haben wir einen geringen, geringer kapazitiver Fehlerstrom, schreiben wir hier rein, ja. Also erstmal könnte man ja jetzt davon ausgehen, hier fließt gar kein Strom, weil wir haben zwar eine Leiterverbindung gegen Erde, aber wir haben ja gar keinen Sternpunkt geerdet, wie soll sich da dann ein Stromkreis schließen? Ja, das ist erstmal ein kleines Mysterium für die, die es noch nie gesehen haben, aber es gibt eben kapazitive Erdfehlerströme, das heißt alle Leiter, alle Leitungen, haben im Grunde genommen eine Kapazität gegen Erde, und wenn sich jetzt ein Leiter, wenn jetzt ein Leiter im Grunde genommen auf die Erde fällt, oder Kontakt zur Erde bekommt, dann entladen sich diese Leiter-Erdkapazitäten, und dadurch entsteht ein geringer Strom, der ist dann aber abhängig von der Netzgröße, ja, ich nehme jetzt mal an, wir haben ein kleines Netz, ist auch abhängig vom Spannungsniveau, klar, aber erstmal sagen wir, ein kleines Netz haben wir hier, ein, zwei Kilometer, dann ist da ein sehr geringer kapazitiver Erdfehlerstrom vorhanden, den man dann nicht Kurzschluss nennt, das ist erstmal die Definition jetzt, und deshalb sagen wir Erdschluss und nicht Erdkurzschluss, es ist ein sehr geringer Strom, 5 Ampere, 10 Ampere, wir sagen immer, dass wir unter 30 bleiben wollen, weil das ist diese Löschgrenze, von der wir sprechen, der Lichtbogen wird sich von selbst wieder, wird wieder von selbst löschen, und deshalb ist es kein Kurzschluss, sondern eben ein Erdschluss.
+
+(0:16:07 - 0:17:17)
+Und er muss nicht abgeschaltet werden, das ist das ganz Wichtige hier, ja, also die Netzbetreiber nutzen das dann eben auch, wenn sie jetzt ein isoliertes, kleines Netz fahren, ein Leiter gegen Erde, sie detektieren diesen Erdschluss und sagen aber, ist okay, wir wissen jetzt, dass wir einen Erdschluss im Netz haben, wir fahren mal los und versuchen den zu finden und schalten dann den Fehlerteil raus, in aller Ruhe, das kann ruhig 2, 3, 4 Stunden dauern, und reparieren diese defekte Fehlerstelle dann wieder, um dann wieder einzuschalten, ja. Aber er muss nicht, wie bei einem Kurzschluss, innerhalb von kürzester Zeit automatisiert abgeschaltet werden. Jetzt schauen wir uns die Respe an, einpoliger Kurzschluss in der Respe, ja, und Respe brauchen wir jetzt, wenn, ihr habt das gesehen, das Netz hat sich, ich gehe nochmal zurück, das Netz hat sich jetzt oben rechts verlängert, ja, wir haben jetzt ein sehr, sehr großes Netz, 10, 20, 30, vielleicht 40 Kilometer Mittelspannungsnetz und dadurch haben wir jetzt eben ein Vielfaches an diesen Kapazitäten, die eben zwischen Leiter und Erde im Normalbetrieb vielleicht auch schon anliegen und im Fehlerfall sich dann eben entladen über diese Fehlerstelle.
+
+(0:17:19 - 0:18:10)
+Dadurch wird jetzt eben dieser kapazitive Erdfehlerstrom, ICE nennt man den auch, für die Bahnfahrer relativ leicht zu merken, ICE, wird dann so groß, dass er eben über diese 30 Ampere Löschgrenze, Fehlerstromlöschgrenze hinausgeht und dann muss man sich im Grunde genommen Gedanken machen, wie man, was man damit macht, wie geht man damit um, weil wir wollen ja nicht, dass dort ein Lichtbogen brennt, während wir in aller Ruhe den Fehler suchen, das ist nicht, das ist dann nichts in der Sache, weil dann kommt es natürlich zu großen Beschädigungen, zu Bränden und so weiter. Was hat man dann gemacht? Der Herr Petersen, wir haben ihn vorher glaube ich schon mal genannt, der hat sich das dann irgendwann mal überlegt, man kann diese kapazitiven Ströme kompensieren. Petersenspule, so heißt dieses Gerät und diese Petersenspule, die setzt man in den Sternpunkt des isolierten Netzes.
+
+(0:18:10 - 0:18:52)
+Jetzt haben wir nämlich genau dieses Respenetz, dieses kompensierte Netz durch diese Petersenspule im Sternpunkt und das führt eben dazu, dass diese kapazitiven Ströme über diese Spule, die Spule wirkt den Kapazitäten entgegen, im Grunde genommen aufgehoben werden. Ihr seht es, wir haben das einfach mal verschwinden lassen. Jetzt sind diese kapazitiven Erdfehlerströme viel, viel geringer geworden und wir sind jetzt, auf Null kompensiert man meistens nicht, weil wir wollen immer so ein paar Ampere haben, um den Fehler auch in der Richtung zu detektieren, aber wir haben das jetzt fast auf Null kompensiert über diese Petersenspule und der Fehlerstrom ist erstmal gering, der Erdfehlerstrom.
+
+(0:18:52 - 0:19:17)
+Deshalb ist es ein Erdschluss und kein Kurzschluss. Und jetzt sind wir wieder an der Stelle, wir haben jetzt ein großes Netz gebaut, wir haben geringe Fehlerströme, geringe Erdschlussströme und deshalb müssen wir auch dieses Netz wieder nicht abschalten. Und genau das ist jetzt auch der Grund, warum wir diese Form, diese Respe, dieses kompensierte Netz sehr, sehr häufig in Deutschland in der Mittelspannung finden.
+
+(0:19:18 - 0:19:50)
+Die Netze sind relativ groß und dann sitzt im Umspannwerk eben an dem 110 zu zum Beispiel 20 kV Trafo auf der 20 kV Seite meistens so eine Petersenspule und die kompensiert dann eben für dieses Netzgebiet Berlin zum Beispiel die kapazitiven Erdfehlerströme im einpoligen Fehlerfall. So, das war der Erdschluss und jetzt kommen wir noch zu dem letzten Oberpunkt. Genau, Erdschluss auch hier geringer Erdfehlerstrom.
+
+(0:19:50 - 0:19:55)
+Deshalb ist es eben der Erdschluss. Wir kommen zum Kurzschluss. Wir schieben uns den Kurzschluss hoch.
+
+(0:19:56 - 0:20:07)
+Der Kurzschluss, der Erd-Kurzschluss, so muss es richtig heißen. Also der Erd-Kurzschluss, den, wir haben es vorher gesagt, den finden wir in der NOSPE. Niederohmige Sternpunkterdung.
+
+(0:20:08 - 0:20:12)
+Wir gucken uns den einpoligen Kurzschluss an. Ja, hier ist er. Der einpolige Kurzschluss fließt jetzt.
+
+(0:20:13 - 0:20:29)
+Wir haben jetzt einen geschlossenen Stromkreis über diese niederohmige Sternpunkterdung. Dieser Widerstand, der da zu sehen ist, der kann auch tatsächlich gegen Null gehen. Null ist ja tatsächlich physikalisch gar nicht möglich, aber er kann gegen Null gehen.
+
+(0:20:29 - 0:20:50)
+Und je nachdem, wie groß dieser Widerstand ist, ist eben auch dann der Erd-Kurzschluss-Strom in diesem Netzsystem unterschiedlich groß. Also, grundsätzlich gilt, der Erdfehler-Strom sorgt für einen hohen Erdfehlerstrom. So muss es heißen.
+
+(0:20:50 - 0:21:03)
+Und deshalb nennen wir es Erd-Kurzschluss. Und der Widerstand in dieser Sternpunkterdung, der kann diesen Fehlerstrom dann begrenzen. Häufig sehen wir das, dass man den Erdfehlerstrom auf so 1000 Ampere begrenzt.
+
+(0:21:04 - 0:21:26)
+Das hilft uns dann natürlich, den Fehler sehr leicht zu detektieren, weil wir große Ströme haben, die dann in die entsprechenden Richtungen fließen. Sorgt aber auch gleichzeitig dafür, dass vielleicht der Schaden bei so einem einpoligen Fehler nicht gleich allzu groß ist. Also, je weniger Strom dort fließen kann, je weniger Energie durch so einen Erdfehler frei wird, desto geringer sind natürlich auch die Schäden, die dann stattfinden.
+
+(0:21:26 - 0:21:41)
+Und das ist dann so ein kleiner Kompromiss. Man baut dort einen Widerstand ein, eben diese Nospe, das sieht man auch bei unserem Rundgang, dass es da so einen Widerstand gibt, der begrenzt im Grunde den Strom. Wir können ihn gut detektieren und wir können ihn schnell abschalten.
+
+(0:21:42 - 0:21:50)
+Und die Fehler, die Schäden, die wir dann haben, sind meistens überschaubar. Genau. Abschaltung, das ist jetzt aber vorausgesetzt.
+
+(0:21:50 - 0:22:01)
+Wir können diesen Fehler nicht anstehen lassen. Wir müssen hier schon reagieren. Und für alle, die noch gar nicht in der Schutztechnik zu Hause sind, eine Sekunde ist eine lange, lange Zeit für Schutztechnik.
+
+(0:22:02 - 0:22:11)
+Wir sind da meistens in viel, viel schnelleren Abschaltzeiten unterwegs. So 100, 200, 300 Sekunden. 500 Millisekunden, das sind so übliche Werte, die man dann so ansetzt.
+
+(0:22:11 - 0:22:27)
+Also wir schalten schnell ab, damit die Schäden, die Lichtbögen, die dort Schäden verursachen, möglichst schnell ausgeschaltet sind. So, das jetzt nochmal in die Übersicht. Nospe, niederohmige Sternpunkterdung, hoher Erdfehlerstrom, deshalb ist es ein Kurzschluss.
+
+(0:22:27 - 0:22:36)
+Das hilft jetzt vielleicht, so ein bisschen aus der Netztechnik-Sicht, verschiedene Fehler mal greifen zu können und zu verstehen, warum reden wir denn von unterschiedlichen Sachen.

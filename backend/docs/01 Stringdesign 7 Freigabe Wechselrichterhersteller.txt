@@ -1,0 +1,23 @@
+(0:00:00 - 0:00:19)
+Also bei diesen allgemeinen Regeln wollte ich rüberbringen, ich hoffe es ist gelungen, dass es da ganz viele verschiedene Varianten gibt, wie man so eine Anlage bauen kann. Wenn der Wechselrichter-Typ sich ändert oder der Modul-Typ, dann geht das ja alles wieder von vorne los. Aber ich versuche in meinen Projekten mit so einer Priorisierungsreihenfolge mich mit dem Kernteam abzustimmen.
+
+(0:00:20 - 0:00:41)
+Und dann findet man auch auf, sagen wir mal, einer logischen Basis das für sich richtige Projekt. Letzte Minute, ich gehe kurz noch rein in die Freigabe vom Wechselrichter-Hersteller und danach haben wir in Menti auch noch immer am Schluss, herzlichen Dank und Tschüss. Und ihr könnt noch mal Fragen stellen, wenn ihr sie nicht parallel im Chat schon gestellt habt.
+
+(0:00:41 - 0:00:58)
+Aber die Wechselrichter-Hersteller-Freigabe will ich noch zeigen. Ich habe das bei uns so gemacht, erstmal ist sie projektspezifisch, jedes meiner Projekte kriegt von den Herstellern eine unterschriebene Freigabe. Ich sage das absolut langsam, weil das ist Arbeit, aber wir machen das so.
+
+(0:00:58 - 0:01:12)
+Das kommt in die Dokumentation, damit dann am Schluss auch keiner irgendwie auch nur ansatzweise Zweifel am String-Design haben kann. Da werden Modul- und Wechselrichter-Angaben dargestellt, ungefähr so. Wir haben uns ein Tool gebaut, das könnt ihr genauso machen.
+
+(0:01:13 - 0:01:27)
+Oder die Hersteller machen das ja auch manchmal selbst, dass sie das online anbieten und da stehen dann die Kenndaten drin, vom Modul und vom Wechselrichter. Drittens, die resolvierenden Parameter. Das sind die, die wir heute ausgerechnet haben.
+
+(0:01:27 - 0:01:39)
+Das muss man dann nicht mehr mit der Hand machen, das macht man mit so einem Excel-Tool. So sieht das bei uns aus. Und dann käme jetzt raus, das ist die Open-Circuit-Spannung für verschiedene Temperaturen und das ist der UMPP für verschiedene Temperaturen.
+
+(0:01:39 - 0:01:53)
+Und so würde ich das in meine Freigabe rein kopieren. Der Hersteller rechnet es meistens selber nochmal nach, aber dann hat er ja irgendwie vielleicht einen Anhaltspunkt von mir. Mit dem Ström- und dem DC-AC-Verhältnis machen wir das auch so.
+
+(0:01:53 - 0:02:18)
+Und dann brauche ich die Unterschrift vom Wechselrichter-Hersteller und das Ganze muss auf jeden Fall wieder unterschrieben zurückgekommen sein, bevor der Baustart überhaupt losgeht, weil sonst renne ich vielleicht hinten rein in ein Messer, das ich auf jeden Fall vermeiden will. Okay, Punkt 11, auch wenn ich eine Übung kurz übersprungen habe, sind wir durch. Ich würde nochmal in Menti gehen.

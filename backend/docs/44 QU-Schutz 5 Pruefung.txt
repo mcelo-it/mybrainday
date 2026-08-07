@@ -1,0 +1,272 @@
+(0:00:00 - 0:00:20)
+So, jetzt kommt der anspruchsvollere Teil, nämlich wir gehen jetzt in die Prüfung rein und schauen uns jetzt erst mal nochmal dieses Logikschema an. Das habt ihr heute schon zweimal gesehen, das weiß ich. Das ist aber auch wirklich absichtlich, dass wir es jetzt nochmal zeigen, weil wenn wir das gleich prüfen wollen, dann muss das für euch präsent sein, sage ich mal, dann müsst ihr es wirklich im Kopf haben.
+
+(0:00:24 - 0:00:46)
+Blindleistungsrichtungsunterspannungsschutz, das ist hier die Funktion, die wir testen wollen. Es gibt zwei Blindleistungsvarianten, ja, sowohl für den Bezug von Wirkenergie als auch für die Einspeisung von Wirkenergie gibt es dann eben Blindleistungsauslösebereiche. Das erste, jetzt gibt es dann diese zwei Varianten, konstante Blindleistung.
+
+(0:00:46 - 0:01:02)
+Jetzt habt ihr, glaube ich, gesehen, dass sich dieses kleine Schema, was da oben orange eingerahmt ist, leicht verändert hat. Das ist jetzt was Neues, das habt ihr so, glaube ich, jetzt noch nicht gesehen heute. Variante 1 und Variante 2, jetzt seht ihr, dass sich das so ein bisschen abschrägt und das ist der Blindleistungswinkel.
+
+(0:01:02 - 0:01:23)
+Muss man jetzt schon genau hingucken, dass man den Unterschied sieht, aber es gibt da eben den Unterschied, wir prüfen gleich den Winkel. Das heißt, diesen Logikbaustein müssen wir später prüfen und wir sagen euch dann, wie man das macht. Das Mindeststromkriterium ist da, auch das wird später geprüft und auch da natürlich klar, wir erklären euch, wie man das macht, so würde ich das jetzt mal nennen.
+
+(0:01:23 - 0:01:46)
+Und so seht ihr es jetzt auch unten dargestellt, das ist ein synchrones Drehstromsystem der Spannung, also das würde sich ja jetzt immer im Kreis drehen, so kann man sich das vorstellen. Der Winkel zwischen den Phasen wäre immer gleich. Und jetzt kommen noch die Sekundärströme dazu, auch hier gilt, Sekundärstrom der Wandler ist dann ja meistens 1 Ampere, primär hat man 100 oder in unserem Beispiel waren es, glaube ich, 200.
+
+(0:01:47 - 0:02:12)
+Hier vor Ort haben wir 75 zu 1 Wandler, merkt euch das vielleicht auch schon mal, 75 zu 1 ist hier unser Übersetzungsverhältnis an unserem Teststand gleich. Und jetzt speisen wir eben diese Sekundärströme ein, mit unterschiedlichen Beträgen, eben auch wie bei den Spannungen. Und wir würden jetzt mal 90 mA für Phase 1 nehmen, für Phase 2 100 mA und für Phase 3 110 mA.
+
+(0:02:13 - 0:02:31)
+Und wer jetzt schnell rechnen kann, der würde gleich sagen, Phase 2 wäre ja primär ein Zehntel von 75, also 7,5 Ampere. Das würde man dann hoffentlich später auch auf dem Relais irgendwann mal wieder sehen. Jetzt aber erst mal noch nicht.
+
+(0:02:32 - 0:02:59)
+Wir würden jetzt mal erst mal auch hier noch mal darstellen, so sind die Ströme dargestellt, die sehen, dass dann dieser Stern, der sieht jetzt genauso aus wie der der Spannung, also das ist phasenidentisch, Strom gleich Spannung. Das heißt, wir wären jetzt hier eine Bezugsanlage für das Schutzrelais. Und da steht jetzt auch genau, wir sind Bezug, also wir verbrauchen die Energie, gleiche Phasenlage.
+
+(0:02:59 - 0:03:20)
+Ich hatte es ja vorhin schon mal gesagt, wenn Strom und Spannung 180 Grad gedreht sind, dann sind wir reiner Wirkleistungseinspeiser. Jetzt sind wir reiner Wirkleistungsverbraucher, dass ihr das schon mal ein bisschen mitnehmt und verinnerlicht. Jetzt hat das Display des Relais umgeschaltet und jetzt könnt ihr hier auf dem Display Spannung und Ströme ablesen.
+
+(0:03:21 - 0:03:48)
+Und wir haben das jetzt mal so eingestellt, das Display, dass wir hier die Sekundärspannung sehen wollen. Das heißt, das Relais rechnet jetzt nicht um auf Primärwerte, sondern es sagt uns jetzt einfach, was es an seinen Eingängen misst. Und bei L1 misst es genau das, was wir einspeisen, bei L2 auch, also bei den Spannungseingängen UL1, UL2, UL3 haben wir genau die Werte, die wir einspeisen.
+
+(0:03:48 - 0:04:02)
+In der Realität variiert das natürlich, weil wir haben keine hundertprozentige Messgenauigkeit. Aber diese Tendenz, die ist immer klar zu erkennen. Spannung 1 ist ein bisschen kleiner, Spannung 2 ist ungefähr Nennspannung und Phase 3 ist ein bisschen größer.
+
+(0:04:02 - 0:04:19)
+Und genauso ist es jetzt bei den Strömen 90, 100, 110 Milliampere. Wie gesagt, plus minus ein paar Milliampere variieren die immer. Aber hier würde ich jetzt erst mal sagen, wir haben unser Prüfgerät richtig an das Relais angeschlossen.
+
+(0:04:19 - 0:04:37)
+Die Phasenlage passt erst mal, also die Verdrahtung ist in Ordnung. So, jetzt Daumen hoch, genau, das hat gut funktioniert, alles ist richtig. Und jetzt kann man natürlich noch das Wandlerverhältnis prüfen durch Primärwerte.
+
+(0:04:37 - 0:04:48)
+Also man kann jetzt einfach an dem Relais umschalten und sagen, zeige mir Primärwerte an. Und dann sieht man Primärwerte auf dem Display. Wir haben ein 20 kV Netz und wir haben 75 zu 1 Ampere Wandler.
+
+(0:04:49 - 0:05:06)
+Und jetzt würden wir hier diese Werte sehen. Also die Leiter Erdspannung primärseitig sind jetzt 11, 11,5, 12 kV. Und wer 20 kV durch Wurzel 3 rechnet, der kommt so ungefähr auf 11,55.
+
+(0:05:06 - 0:05:23)
+Also wir haben eine Leiter Erdspannung und jetzt kann man hier sagen, die Spannungen sind am Relais-Display richtig dargestellt. Das heißt auch das Wandlerverhältnis ist erst mal korrekt. Und bei den Stromwandlern 75 zu 1. Man kann gleich den Leiter 2 identifizieren.
+
+(0:05:24 - 0:05:33)
+Das hatte ich ja eben schon mal gesagt, da steht jetzt 7,75. Ja, das ist jetzt vielleicht eine gewisse Messungenauigkeit. Eigentlich müsste das genau 7,5 sein.
+
+(0:05:34 - 0:05:44)
+Aber ich sage, das ist eine Messungenauigkeit. Auch hier passt das Wandlerverhältnis. Oder es hat jemanden Wandler mit 77,5 Ampere zu 1 eingegeben.
+
+(0:05:44 - 0:05:58)
+Aber wie gesagt, es gibt Messungenauigkeiten und so wäre das dann hier eine Plausibilitätsprüfung. Das passt. So, jetzt haben wir im Prinzip geschaut, ob das Relais korrekt verdrahtet ist.
+
+(0:05:58 - 0:06:12)
+Die zweite Verdrahtungsprüfung, also läuft auch unter Verdrahtungsprüfung, wäre jetzt noch mal das richtige Zellpfeilsystem. Also werden die Leistungen, die wir einspeisen, auch korrekt dargestellt. Das ist schon gleich ein bisschen komplexer.
+
+(0:06:12 - 0:06:24)
+Also wir gucken uns das an. Der zweite Punkt unter Verdrahtungsprüfung, ich sage jetzt mal, da prüfen wir den Weg zu unserer Blindleistungslogik. Und jetzt speisen wir hier wieder ein.
+
+(0:06:26 - 0:06:42)
+Spannung, jetzt sind die Spannungen alle auf Nennspannung, auch alle synchron. Und wenn man jetzt weitergeht, haben wir Ströme. Wir haben jetzt mal eine Teillast ausgewählt mit 400 Milliampere, 1 Ampere oder 1000 Milliampere, wäre eben Volllast.
+
+(0:06:43 - 0:07:04)
+Und haben jetzt aber, das seht ihr auch gleich schon, den Winkel gedreht. Das heißt, jetzt noch seht ihr unten diese Sterne, dass die Phasen gleich sind. Aber wir haben jetzt den Strom gedreht und deshalb würde sich jetzt der Winkel unten auch drehen.
+
+(0:07:04 - 0:07:13)
+Achtung, Achtung, Achtung. Ja, jetzt dreht sich das Ganze. So, um 135 Grad hat sich jetzt der Strom gegenüber der Spannung gedreht.
+
+(0:07:14 - 0:07:35)
+Das heißt, wir haben jetzt keinen reinen Blindleistungsverbrauch mehr, sondern kommen jetzt in einen anderen Bereich. Und das ist jetzt hier unsere Quadranten. Wenn ihr jetzt komplex Strom und Spannung mal ausrechnen würdet, könntet ihr errechnen, dass jetzt die Wirkleistung negativ wird und die Blindleistung auch negativ.
+
+(0:07:35 - 0:07:52)
+Also wir sind unten links in dem Quadranten 3 in unserer Darstellung. Und wir arbeiten einspeisend, Wirkleistung und Spannung stützend mit der Blindleistung. So, und jetzt wollen wir natürlich am Ende sehen, was unser Relais anzeigt.
+
+(0:07:53 - 0:08:16)
+Wir gucken mal, ja, ich hätte jetzt vielleicht etwas anderes erwartet. Alle, die eben so richtig getippt haben in dem Menti, die hätten gesagt, P muss negativ sein, weil wir speisen ein und Q muss auch negativ sein, weil wir speisen ja spannungsstützend ein. Das ist jetzt hier genau so ein Punkt, wo man jetzt dasteht, irgendwas muss doch falsch sein.
+
+(0:08:16 - 0:08:28)
+Ich habe mir das vorher überlegt, was ich da erwarte bei der Prüfung. Ja, und irgendwas stimmt hier doch wohl nicht. Hm, und was machen wir jetzt? Jetzt gucken wir mal, genau, Daumen runter, das ist falsch, das Ergebnis, das ist ganz klar.
+
+(0:08:28 - 0:08:45)
+Und wenn ich jetzt mir nochmal meine Verdrahtung angucke, habe ich ja eben eigentlich geprüft, aber in der Zwischenzeit hat jetzt vielleicht doch einer nochmal an meiner Verdrahtung was geändert. Und ich sehe das jetzt schon mit geschultem Auge oben links an meiner Omikron. Ah, da kreuzen sich zwei Drähte, deshalb ist das doch irgendwie verkehrt.
+
+(0:08:45 - 0:08:58)
+Habt ihr das gesehen? Die zwei Drähte, die tausche ich jetzt, damit das vielleicht die Verdrahtungsprüfung dann nochmal geändert wird. Und jetzt ist die Verdrahtung vielleicht richtig. Zwischendurch musste einer was geändert haben.
+
+(0:08:58 - 0:09:08)
+Kann ich mir nicht anders vorstellen, weil wir haben ja die Phasenlage eben schon getestet. Aber da war einer dabei, vielleicht der Praktikant, der an meinem Prüfgerät einfach mal die Phasen getauscht hat. Ganz gemeiner Trick.
+
+(0:09:09 - 0:09:30)
+Und jetzt sehe ich, dass die Leistungen an meinem Schutzrelais so sind, wie ich sie mir vorher überlegt habe, wie ich sie erwartet habe. Negative Wirkleistung, negative Blindleistung. Jetzt weiß ich auch, dass mein Schutzrelais das richtige Zellpfeilsystem hinterlegt hat, die richtige Wandlerrichtung hinterlegt hat.
+
+(0:09:30 - 0:09:44)
+So könnte man jetzt erst mal weiterarbeiten und diese Prüfung als bestanden abhaken. Jetzt gehen wir in die Freigabeprüfung. Jetzt sehen wir eine Prüfung, so wie sie nachher auch in dem Prüfgerät gezeigt wird.
+
+(0:09:44 - 0:09:53)
+Wir gucken uns erst mal das Mindeststrom Kriterium an. Das ist jetzt der Baustein, der hier gehighlighted ist. Wie prüfen wir den? Zeigen wir euch jetzt.
+
+(0:09:53 - 0:10:02)
+Und zwar haben wir jetzt erst mal so eine Rampenfunktion. Viele kennen das schon. Eine Rampenfunktion für den Strom dargestellt.
+
+(0:10:02 - 0:10:22)
+Und ganz wichtig, wenn man so eine Rampenfunktion jetzt startet und in Freigabe Strom ermitteln will, dann muss man auf jeden Fall auch dafür sorgen, dass die anderen Kriterien schon erfüllt sind. Weil sonst würde das Relais bei 100 mA, die ja erwartet sind, gleich gar nicht reagieren. Also wir schauen uns jetzt erst noch mal an.
+
+(0:10:22 - 0:10:35)
+Unten in dieser Auswertelogik, in diesem kleinen Zeitstrahl, da seht ihr jetzt den Sollwert von 100 mA. 0,1 mal Wandler ist 100 mA. Und diesen Wert kriegt ihr aus euren neuen Bogen.
+
+(0:10:35 - 0:10:51)
+Das ist ja schon mal klar. Und wir ziehen unsere Linie da oben rein und nach der FNN-Kennrichtlinie gibt es dann natürlich auch einen Abweichungsbereich, den wir euch gleich zeigen mit zwei Prozent. Also zwei weitere Hinweise.
+
+(0:10:52 - 0:11:07)
+Spannungskriterium muss schon im Auslösebereich sein und das Blindstromkriterium auch. Weil sonst würden wir hier keinen Erfolg haben bei dieser Prüfung. Also erst wenn die anderen beiden Kriterien auch erfüllt sind und das machen wir jetzt so zu Beginn der Prüfung.
+
+(0:11:07 - 0:11:14)
+Spannung ist schon im Auslösebereich, Blindleistung auch. Und dann rampen wir den Strom hoch. Das ist jetzt hier der Trick, den wir machen.
+
+(0:11:15 - 0:11:24)
+Also nur das dritte Kriterium, der Freigabestrom, der ist noch nicht im Auslösebereich. Alle anderen sind sozusagen schon erfüllt. Das geben wir so vor.
+
+(0:11:25 - 0:11:32)
+Wir machen die Spannung zum Beispiel auf 82 Prozent. Gleichzeitig Blindleistungsbezug aus dem Netz. Und jetzt fehlt nur noch der Strom.
+
+(0:11:32 - 0:11:42)
+Und der wird jetzt hochgerammt bis 100 mA plus minus zwei Ampere. Das sind diese zwei Prozent aus der FNN. Und dann gucken wir mal, was passiert.
+
+(0:11:42 - 0:11:46)
+Hier ist noch mal die Toleranz dargestellt. Zack, die Rampe geht hoch. Das geht ganz schnell.
+
+(0:11:47 - 0:11:58)
+Jede Stufe sind 500 Millisekunden, also gleich live dauert das ein bisschen länger. Und oben bei 100 mA, da sehen wir jetzt hier die Auslösung. Zack, da kommt die.
+
+(0:11:58 - 0:12:13)
+Messen wir mit unserem Prüfgerät und das Prüfgerät sagt dann auch automatisch alles klar, bei 99 mA haben wir angeregt bzw. das Auslöse, den Auslösebefehl abgegeben. Und das ist, ich sag mal, innerhalb der Toleranz.
+
+(0:12:14 - 0:12:28)
+Zwei mA waren ja Toleranz und dann ist die Bewertung hier erst mal okay. Wir sind noch nicht ganz am Ende der Prüfung, weil jetzt kommt unten der Rückfallwert. Auch der wurde ja definiert im FNN Lastenheft.
+
+(0:12:28 - 0:12:35)
+95 Prozent soll der Rückfallwert sein. Das heißt 95 mA ist ja der richtige Wert. Plus minus zwei mA.
+
+(0:12:36 - 0:12:49)
+Und jetzt geht die Rampe rückwärts. Der Auslösestrahl geht sozusagen gleichzeitig mit und an irgendeiner Stelle fällt diese Auslösung ab. Und da kann man dann den Rückfallwert ermitteln.
+
+(0:12:50 - 0:13:07)
+Und der ist jetzt sagen wir mal 95 mA, also Nullabweichung und damit auch korrekt. Also das wäre jetzt die Prüfung des Mindeststromkriteriums. Und jetzt kommt als nächstes das Unterspannungskriterium.
+
+(0:13:08 - 0:13:12)
+Gehen wir direkt rein. Highlighten erst noch mal hier die Spannung. Die ist jetzt ja auch gelb.
+
+(0:13:12 - 0:13:27)
+Das sind jetzt die nächsten drei Funktionsblöcke, die wir prüfen. Und das geht dann eben auch mit einer ähnlichen Rampe. Und erst mal schauen wir uns unten die Sollwerte an.
+
+(0:13:27 - 0:13:38)
+85 Volt, das ist das, was wir aus dem E9 haben. Den Grenzwert tragen wir auch gleich ein und haben dann auch diese Abweichungen dazu. Hier steht jetzt erst mal 1 Volt Abweichung.
+
+(0:13:39 - 0:13:46)
+Okay, und die kommen aus dem Lastenheft. QU-Schutz tragen wir auch gleich ein. Markieren wir auch blau.
+
+(0:13:46 - 0:13:55)
+Dann geht sofort die Rampe los. Sie fährt runter. Auch hier ist natürlich jetzt gegeben, dass das Mindeststromkriterium erfüllt sein muss.
+
+(0:13:55 - 0:14:08)
+Vor Prüfbeginn und dass das Blindleistungskriterium erfüllt sein muss. Und dann fehlt eben nur noch, dass die Spannung reduziert wird bis 85 Prozent. Und dafür geht diese Rampe runter.
+
+(0:14:08 - 0:14:22)
+Das geht ruckzuck. Dann kommt die Auslösung und bei 84,9 Prozent kommt dann tatsächlich unser Auslösebefehl und danach bewertet es die Software auch gleich, sagt, das ist richtig. Das ist innerhalb der Toleranz.
+
+(0:14:23 - 0:14:33)
+Prüfung ist noch nicht zu Ende. Wir gehen in den Rückfallwert mit der Rampe 2. Die würde dann hochgehen. Und hier haben wir diese 102 Prozent Rückfallwert.
+
+(0:14:34 - 0:14:46)
+Und genau keine Abweichung nach oben, weil wir müssen innerhalb von zwei Prozent sein. Und jetzt kommt hier die Rampe hoch. Zack, da löst es dann wieder, fällt die Auslösung wieder zurück.
+
+(0:14:47 - 0:15:03)
+Und dann sind wir bei 86,7 und wir haben keine Abweichung und haben damit auch die zweite Prüfung erfüllt. Kriterium 1 bestanden, Kriterium 2 haben wir jetzt auch bestanden. So, also ihr seht, jetzt haben wir schon relativ viel hier grün.
+
+(0:15:04 - 0:15:20)
+Und jetzt würden wir in die PQ Prüfung springen. Bei der Spannung, das zeigen wir euch gleich im Live-Test. Da gibt es noch zusätzliche Tests, dass man auch wirklich die Verknüpfung, dass wirklich alle Spannungen unter 85 Prozent prüft.
+
+(0:15:20 - 0:15:32)
+Das zeigen wir euch dann einmal im Schnelldurchlauf. Ich finde, das geht jetzt hier ein bisschen zu weit ins Detail. Wir gucken jetzt noch mal die PQ Prüfung an und alles Weitere kriegt ihr dann nachher im Live-Test noch mal mit.
+
+(0:15:32 - 0:15:51)
+Also Prüfung Wirkleistungsabgabe macht man jetzt erst mal. Also man wäre jetzt, wenn man sich das gelb gehighlightete Diagramm anschaut, erst mal in dem linken Bereich Wirkleistungsabgabe. Also wir speisen ein und beziehen dann Blindleistung aus dem Netz.
+
+(0:15:51 - 0:16:03)
+So würde ich es hier mal definieren und starten mal die Prüfung. Hier geht es jetzt um einen Leistungswinkel. Ja, das ist ja, ja, ich glaube, das geht jetzt ein bisschen zu weit.
+
+(0:16:03 - 0:16:32)
+Aber hier geht es um die Verschiebung zwischen Wirk- und Blindleistung. Und für euch, glaube ich, wichtig 180 Grad ist dann eben reine Wirkleistungseinspeisung. Und je mehr der Winkel jetzt Richtung 177 Grad geht, was dann ja 3 Grad Verschiebung wäre, wäre dann mehr Blindleistungsbezug aus dem Netz und wir würden dann mit einer Auslösung rechnen.
+
+(0:16:33 - 0:16:52)
+So kann man das vielleicht kurz hier beschreiben. Also wir fahren eine Rampe wieder, die startet bei 180 Grad und der Sollwert 3 Grad Abweichung von minus 180 ist eben 177. Da gibt es eine Abweichung auch in der FNN, im Lastenheft FNN 2 Grad.
+
+(0:16:52 - 0:16:57)
+Ja, das erscheint erst mal viel. Ja, ein Wert von 3 Grad, 2 Grad Abweichung. Das ist eine Menge.
+
+(0:16:58 - 0:17:14)
+Wir sehen gleich, dass unser Relais hier deutlich genauer ist. Und jetzt würde man, hier seht ihr diesen großen Abweichungsbereich. Jetzt würde man eben den Winkel Schritt für Schritt verändern, bis man dann irgendwann bei 177 ungefähr ankommt.
+
+(0:17:14 - 0:17:32)
+Und dann ist unser Relais hat bei 176,9 dann ausgelöst. Also ein ganz bisschen nach den 177 Grad. Aber was natürlich bei 2 Grad zulässige Abweichung ist, das natürlich deutlich innerhalb der Toleranz.
+
+(0:17:32 - 0:17:44)
+Die Abweichung ist also gering und die Bewertung ist damit in Ordnung. Jetzt zeigen wir dazu noch mal den den Zeitstrahl, also wie unser Relais das misst. Wie gesagt, das passiert eigentlich zeitgleich mit dieser Rampe.
+
+(0:17:44 - 0:18:01)
+Und dann haben wir hier diese Auslösung und so messen wir dann eben den Wert. So, das Gleiche gibt es jetzt noch mal für die Wirkleistungsaufnahme. Also oben im Diagramm jetzt noch mal würde man auf die andere Seite wechseln, da wo der Pfeil mit Bezug draufsteht.
+
+(0:18:01 - 0:18:09)
+Und dann hätte man eben einen Winkel von 0 bis minus 3 Grad. Das dreht sich sozusagen hoch. Eben hatten wir es auf der anderen Seite hoch.
+
+(0:18:09 - 0:18:15)
+Und jetzt gucken wir uns das mal an. Also minus 3 Grad ist der Sollwert. Hier ist er eingetragen.
+
+(0:18:15 - 0:18:24)
+Die Abweichung dazu genau wie eben. Nur wir kommen jetzt aus der anderen Richtung. Wir kommen von 0 und gehen in Richtung minus 3 Grad.
+
+(0:18:24 - 0:18:36)
+Und hier haben wir jetzt ein Istwert von 2,9 Grad beispielsweise. Und das ist dann natürlich deutlich innerhalb der Toleranz. Und auch hier kriegen wir eine positive Bewertung, automatisiert von der Software mitgeteilt.
+
+(0:18:37 - 0:18:48)
+Ihr als Prüfer müsstet das natürlich immer noch mal hinterfragen. Hat die Software das richtig gemacht? Ihr seid am Ende dafür verantwortlich, nicht die Software. Hier zeigen wir euch noch mal das Auslösesignal dazu.
+
+(0:18:49 - 0:19:00)
+Und die Linie würde jetzt auch noch mal zurückfahren. Aber das ist jetzt hier ausgelassen. Zusätzliche Prüfung in Rush Blockade gehört dazu.
+
+(0:19:01 - 0:19:07)
+Blockade über Digitaleingänge und Wiederzuschaltung. Das überspringen wir jetzt hier. Das ist vielleicht gar nicht so relevant für euch.
+
+(0:19:08 - 0:19:15)
+Wichtig ist, dass der Prüfer das im Auge hat und das eben mit prüft. Aber hier geht das zu weit. Wir haben nur zwei Stunden.
+
+(0:19:16 - 0:19:36)
+Dann müssten wir zu lange hier prüfen. Der letzte Test, das ist der wichtigste, das ist die scharfe Auslösung. Da würde man jetzt natürlich noch mal prüfen, ob alle Funktionen wirklich mit der Unverknüpfung hinhauen und ob dann die Zeitrichtung richtig eingestellt ist und ob dann eben auch diese Wirklinie zum Leistungsschalter funktioniert.
+
+(0:19:38 - 0:19:48)
+Das machen wir hier noch mal einmal schnell in der einphasigen Darstellung. Also eigentlich hat man ja drei Ströme und Spannung, dreiphasig. Das würde aber in unser Diagramm nicht so richtig reinpassen.
+
+(0:19:48 - 0:20:02)
+Also wir machen jetzt so eine Art Vorfehler, sag ich mal. Da haben wir dann eine Spannung in grün, die jetzt, sag ich mal, im gesunden Bereich ist. Und nach zwei Sekunden würde sich dann etwas ändern.
+
+(0:20:02 - 0:20:09)
+Unten ganz klein seht ihr auch die Legende. Also das ist jetzt U-Leiter Erde. Und jetzt bricht die Spannung ein.
+
+(0:20:09 - 0:20:28)
+Wir sagen jetzt mal, das ist unter 85 Prozent und es entsteht auch gleich ein Strom, der Phasen verschoben ist zu der Spannung. Das heißt, wir haben Mindeststromkriterium, wir haben Spannungseinbruch und wir haben Blindleistung in die richtige beziehungsweise falsche Richtung. Richtige Richtung im Sinne der Auslösung, falsche Richtung im Sinne von Netzstabilität.
+
+(0:20:29 - 0:20:55)
+Und dann könnte man nach 500 Millisekunden, also von zwei Sekunden bis 2,5 Sekunden dann den Leistungsschalter Hilfskontakt messen. Ja, da seht ihr auch, der kommt jetzt nicht gleich bei 2,5 Sekunden, sondern noch mal ein Tacken danach und hätte dann, sag ich mal, erst mal gemessen bei T-Sol. Genau, T-Sol muss man sich jetzt hier genau angucken.
+
+(0:20:56 - 0:21:14)
+Das T-Sol startet jetzt sozusagen ab dem Nachfehler. Also das Relais hat ausgelöst und dann werden 100 Millisekunden die Gesamtzeit für Leistungsschalter und Schutzrelais. Und wir kommen auf eine Gesamtzeit von 75,4 Millisekunden.
+
+(0:21:17 - 0:21:30)
+Und das ist eine Abweichung, sag ich mal, von meiner Vorgabe von 24,6. So haben wir es erst mal aufgeschrieben und das ist in Ordnung. Also mein Ansatz ist hier, euch noch mal klarzumachen.
+
+(0:21:30 - 0:21:52)
+500 Millisekunden ist eigentlich die Auslösezeit vom Schutzrelais und ihr dürft maximal Schutzrelais plus Leistungsschalter 600 Millisekunden brauchen. Deshalb steht hier diese Sollzeit von 100 drin. Also nach dem Fehler, der, sag ich mal, jetzt schon 500 Millisekunden da war, dürfte maximal noch 100 Millisekunden brauchen, bis der Leistungsschalter aus ist.
+
+(0:21:53 - 0:22:07)
+Und das ist jetzt hier gegeben. Das zweite hätte man vielleicht sinnhafterweise zuerst darstellen können, wäre die Auslösung des Schutzrelais, das nach 500 Millisekunden auslösen soll. Das löst jetzt nach 525 Millisekunden aus.
+
+(0:22:08 - 0:22:24)
+Und Achtung, die Differenz zwischen dem Aussignal des Schutzrelais und der Gesamtzeit des Leistungsschalters, das wäre jetzt die Leistungsschalter Eigenzeit. Und die ist hier ungefähr 50 Millisekunden. Ihr seht da diesen kleinen Pfeil eingeblendet.
+
+(0:22:24 - 0:22:26)
+Das ist die Eigenzeit des Leistungsschalters.

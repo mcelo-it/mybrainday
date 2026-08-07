@@ -1,0 +1,47 @@
+(0:00:00 - 0:01:48)
+Wir schaffen es in die Materialien hinein und haben da jetzt, finde ich, schon eine Art, ehrlich gesagt, Super-Chapter. Aber es ist sinnvoll, um sozusagen jetzt noch mal das Gesamtsystem bewerten zu können. Also, wir wissen, was wir bauen müssen, wir wissen, wie wir es designt haben, wir kennen die einzelnen Komponenten und jetzt kommt aber immer so eine diffizile Frage, Schnittstellen. 
+
+Welche Komponenten darf ich denn überhaupt aneinander schalten und welche soll ich denn verwenden und warum? Jetzt haben wir mal die wichtigsten vier hier rausgesucht und sagen, dieser V2-Stahl, der hat eine, Achtung, hohe Lebensdauer und er hat einen hohen Korrosionsbeständigkeit. Wir machen nur die Vorteile hier, weil logischerweise der Vorteil gegenüber dem anderen, beim anderen der Nachteil ist. Also gut, der V2-Stahl hat eine hohe Lebensdauer und eine hohe Korrosionsbeständigkeit. 
+
+Jetzt kommt der V4-Stahl. Die Zahl ist schon höher und deswegen hat er auch eine höhere Lebensdauer jetzt eben gegenüber dem V2-Stahl und er hat die beste Korrosionsbeständigkeit, zumindest von den Materialien, die wir hier jetzt zeigen. Ist schon mal in beiden Belangen sozusagen dem V2-Stahl überlegen, ist dann vielleicht eine Kostenfrage. 
+
+Aber es geht ja um die Vorteile. Jetzt kommt der Kupfer. Warum denn nicht alles aus Kupfer? Hohe Strombelastbarkeit ist ein großer Vorteil. 
+
+Das kommt im letzten Kapitel gleich noch mit Berechnungen, da sieht man das. Also das Kupfer hat einfach einen höheren Strombelastbarkeitswert und wenn man dann eben rechnet, diese Stromfehler, Ströme, die da durchfließen, die Belastbarkeit der Materialien bewertet, dann braucht man für Kupfer kleinere Querschnitte als für die anderen. Das hat man auch immer in unseren Listen gesehen.
+
+(0:01:48 - 0:04:22)
+Das ist super, aber hier haben wir jetzt doch den Nachteil, glaube ich, nee, haben wir nicht dazu geführt. Also das hat die beste, die höchste Strombelastbarkeit. Wenn man Kupfer hat, ist das natürlich schon mal positiv. 
+
+Und dann gibt es noch den verzinkten Stahl und da ist der Vorteil, das ist die billigste Variante von diesen drei. Ich nehme es mal vorweg, Kupfer ist die teuerste. Dafür hat es aber jetzt eben nicht so eine gute Strombelastbarkeit. 
+
+Also da braucht man dann größere Querschnitte. Jetzt kann man immer mit den Bauleitern diskutieren, das machen wir auch schon immer. Ist es denn nicht besser, kleinere Querschnitte leichter zu verlegen? Aber der Einkauf sagt dann ja um Himmels Willen, dann ist das alles so viel teurer. 
+
+Also das sind jetzt erst mal die vier für uns wichtigsten Materialien, die man da so verwenden kann für Tiefenerder, für Bandstahl, für Potentialausgleich. Das ist erst mal grundsätzlich sozusagen möglich, verschiedene Materialien zu verwenden. Jetzt gucken wir auf zwei von diesen Vorteilen. 
+
+Erst mal auf die Strombelastbarkeit, die ich schon genannt hatte, bei Kupfer offensichtlich super. Und gucken uns die mal hier an. Also die Strombelastbarkeit in Ampere pro Quadratmillimeter, also wie viel Strom kann ich durch so ein Kupferkabel sozusagen leiten, ohne dass es kaputt geht. 
+
+In Abhängigkeit von der Dauer wird sowas immer angegeben, weil wenn ich das nur ganz kurz mache, das sieht man jetzt hier auch, wenn ich das nur ganz ganz kurz mache, dann kann ich viel mehr Strom drüber schießen, als wenn ich das eben im Dauerbetrieb lasse. Deswegen ist das so eine Kurve, die ich schon mal genannt hatte. Und Kupfer kann ich schon mal mehr als Stahl und das kann ich noch mehr als V4A. 
+
+Diese Kurve muss man wissen, wenn wir in der Berechnung später die Querschnitte ausrechnen. Machen wir mal an einem Beispiel, also 80 Millisekunden, dann wären das jetzt hier in dem Fall 650 Ampere pro Quadratmeter bei Kupfer. Wenn ich das eine Sekunde mache, ist das schon viel weniger, nur noch 180 Ampere. 
+
+Und wenn ich das aber für verzinkten Stahl mache, wollen wir hier mit den Punkten darstellen, dann komme ich noch weniger. Dann haben wir es für den V4A Stahl auch noch eingeführt. Also das, was wir sagen wollen ist, welches Material und teuer und billig und Querschnitt, aber am Ende geht es ja um Technik und zwar die Strombelastbarkeit muss man erst mal verstehen, wie die denn unterschiedlich ist für die verschiedenen Materialien. 
+
+Das haben wir jetzt in diesem Kennlinien gesehen und vertiefe ich auch gleich noch mal in so einer Beispielrechnung. Und den zweiten Punkt, den wir zeigen wollen hier, ist die Korrosionsbeständigkeit. Das mache ich ein ganz klein bisschen ausführlicher an so einer Tabelle, eine elektrochemische Spannungsreihe.
+
+(0:04:22 - 0:05:30)
+Das hatte ich ganz am Anfang, jetzt kommt der Bogen, vor fast zwei Stunden genannt, dass ich das sagen will an einem Bild, wenn man so will, oder an einer Darstellung, weil ich glaube, hier geht es nicht um Zahlen, sondern dass das besser im Kopf hängen bleibt, wenn man das mal so ein bisschen grafisch gesehen hat. Also wir haben jetzt hier ganz viele Materialien und der Punkt ist jetzt, dass das verschiedene Potenziale erst mal hat. Hier sind wir in der Chemie, Elektrochemie, also gehen wir da auf keinen Fall tiefer rein, sondern akzeptieren das erst mal. 
+
+Wasserstoff ist bei 0, das nivelliert das Ganze und dann gibt es Edel und Unedel, das sind die zwei Richtungen. Und damit man es irgendwie einfach grafisch jetzt gleich ein bisschen besser sehen kann, machen wir genau das Gleiche hier einfach noch mal so quergezogen, also in blauen Balken sieht man jetzt die Potenzialdifferenz der einzelnen Materialien gegenüber Wasserstoff. Wasserstoff einfach nur, weil das eben das Bezugspotenzial 0 hat. 
+
+Jetzt machen wir es für zwei Beispiele. Wir machen jetzt Kupfer und Aluminium nicht gegenüber Wasserstoff, sondern Kupfer gegenüber Aluminium. Also wir schließen Kupfer an Aluminium an und dann sehen wir hier wunderbar, das mal kurz ausgerechnet, dass das eine Potenzialdifferenz hat.
+
+(0:05:30 - 0:07:43)
+Und zwar 2 Volt. Das nehmen wir jetzt einfach mal so hin, dass das relativ viel ist, weil das eine ist weiter oben in der Tabelle, das andere ist ziemlich weit unten. Also die Potenzialdifferenz ist relativ groß und hier ist jetzt mal unser Aluminiumkabel an irgendwie so eine Kupfersammelschiene angeschlossen und was jetzt passiert ist, wenn ein Elektrolyt noch dazu kommt, Wasser, deswegen hatten wir das vorhin mit diesem Muhlbind noch genannt, also jetzt kommt irgendwie noch Wasser mit dazu, dann entsteht ein chemischer Prozess. 
+
+Also ja genau, da haben wir ein bisschen Wasser drauf geschüttet aus Versehen und jetzt gibt es einen chemischen Prozess. Elektronen und Ionen wandern, die werden dann, ich glaube vom niedrigeren zum höheren wandern und verabschieden sich sozusagen aus dem Ursprungsmaterial. Bei uns bildlich als Loch dargestellt. 
+
+Also das Aluminium verliert tatsächlich physisch an Material, so ein Loch bleibt zurück und was dann halt passiert und darum geht es jetzt eigentlich ist, dass halt der Widerstand, der Übergangswiderstand, den es nun mal gibt, der wird größer. Also die Korrosion führt dazu, dass der Übergangswiderstand größer wird und genau das wollen wir verhindern. Wenn wir jetzt also den Bogen zurückschlagen, müssen wir darauf achten, dass diese Materialien elektrochemisch miteinander umgehen können, gut auskommen miteinander, damit der Übergangswiderstand nicht größer wird durch Korrosion. 
+
+Die wichtigsten fünf ziehen wir hier mal raus, das ist mehr so ein Nachschlagewerk und machen jetzt quasi hier jedes gegen jedes, nur dass man es mal gesehen hat, wirklich, da bin ich jetzt nicht aus Versehen schnell, sondern das hatte ich mir vorgenommen, dass ich das schnell mache. Also einfach nur Zinn gegen Zinn, Aluminium gegen Aluminium und dann kommt da so eine Plus-Minus-Tabelle raus, was kann mit wem gut und dann nimmt man sich Aluminium und Kupfer, das Beispiel, das wir gerade hatten. Tiefrot machen wir auf keinen Fall deswegen Bimetall-Kabelschuhe, sondern wir machen zum Beispiel V4A mit V4A. 
+
+Das war ein einfaches Beispiel, die gleichen Materialien können immer miteinander, aber ja, also wenn wir V4A an V4A schließen, dann wird das grün und dann ist erst mal alles gut.

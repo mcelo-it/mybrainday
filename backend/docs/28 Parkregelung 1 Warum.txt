@@ -1,0 +1,73 @@
+(0:00:00 - 0:01:21)
+So, wir starten mit dem Thema Warum. Warum Parkregelung? Ich nehme es gleich mal vorweg, ich habe das Thema Warum Parkregelung in drei weitere Teilfragen unterteilt und komme dann am Schluss in einem Bogen, hoffentlich sinnhaft dazu zu erklären, warum wir dieses Thema für so wichtig halten. Die erste Teilfrage wäre sozusagen, ja was ist denn überhaupt Parkregelung? Und das wiederum unterteilen wir in zwei untergeordnete Kapitel. Einmal die Wirkleistung selbst als elektrische Kenngröße. Die würde man also regeln. Und warum macht man das? Weil man über die Wirkleistung die sogenannte Frequenzhaltung realisieren kann. Wie das geht, zeige ich hier mal ganz kurz, damit man den Zusammenhang vielleicht besser versteht und sich dann auch dadurch besser merken kann. Also wie funktioniert Frequenzhaltung? Wir haben hier ein Diagramm dargestellt. Die x-Achse ist das Verhältnis aus erzeugter Leistung zu verbrauchter Leistung. Das Verhältnis, das ist ganz wichtig, um das hier jetzt einfach nur im Verhältnis darstellen zu können, dass man die die grundlegende Logik dahinter verstehen kann. Und auf der y-Achse ist dann eben die Frequenz, die wir ja eben halten wollen, hier auch real durch soll. Also das nehme ich auch gleich mal vorweg.
+
+(0:01:21 - 0:02:05)
+Da wäre sozusagen der Schnittpunkt der beiden Achsen, das wäre sozusagen dann Realwert gleich Sollwert, also sozusagen das Ziel unserer Reise. Jetzt zeigen wir das noch mal ganz kurz mit Beispiel Zahlen. Rechts oben werdet ihr die gleich über mir aufblitzen sehen. Und dann nehmen wir mal den ersten Fall an. Also jetzt ist die erzeugte Leistung größer als die verbrauchte Leistung. Die Waage ist im Ungleichgewicht und daraus resultiert jetzt, dass die Frequenz, die tatsächlich in unseren Netzen auftritt, größer ist, als die dies sein soll. Ein Sollwert in Europa wären 50 Hertz. Und jetzt nehmen wir mal das Beispiel, jetzt könnte man zum Beispiel 50,5 Hertz sein. Also wenn wir 50,5 Hertz messen, ist das ein Indikator dafür, dass die erzeugte Leistung ein bisschen größer ist als die verbrauchte.
+
+(0:02:06 - 0:04:29)
+Wir sind auf der x-Achse, wir sind im ersten Quadranten, so würde man es technisch ausdrücken. Zweites Beispiel, also Gegenbeispiel, die Waage kippt in die andere Richtung. Jetzt ist die Erzeugung kleiner als der Verbrauch. Kann man sich vielleicht so vorstellen, Verbrauch bleibt gleich, aber es wird dunkel und dadurch weniger PV-Erzeugung. Jetzt rutscht der Punkt in die andere Richtung und die reale Frequenz wird kleiner sein als die dies sein soll. Also zum Beispiel haben wir hier dargestellt, 49,5 Hertz ist also auf die andere Seite gerutscht. Jetzt kommt der logische dritte Fall, die Waage ist gleich. Das ist ja das Ziel der Frequenzhaltung. Man hat es jetzt hingekriegt, das ist eine dynamische Regelung. Weltweit, ehrlich gesagt, findet das permanent statt. Das heißt, genau da an diesem orangenen Punkt ist man höchst selten. Das ist sozusagen eine statistische Geschichte. Man rutscht da immer so von links nach rechts darüber. Aber das ist das Ziel der Frequenzhaltung. Und hier nochmal der Bogen zurück. Man steuert das über die Wirkleistung und deswegen müssen unsere PV- und Windanlagen steuerbar sein, bezogen auf den Parameter Wirkleistung. Der zweite ist die Blindleistung. Haben wir dann auch schon alle zusammen. Also die zwei sind die zwei Wichtigen. Alles, was jetzt sozusagen komplex darum beschrieben wird, sind Rahmenbedingungen. Im Kern sind es immer diese zwei, Wirkleistung und Blindleistung. Und warum will man die Blindleistung steuern? Da wird also jetzt das Pendant zur Frequenz, die Spannung wird jetzt hier gehalten. Gleiches Prinzip, nur eben mit der Spannung. Also deswegen haben wir auch die gleichen Kennlinien dargestellt. 
+
+Nur sind die Achsen jetzt anders beschriftet. Also wenn ich die Blindleistung verändere, dann passiert was mit dem realen Spannungswert gegenüber dem Sollwert. Blindleistung gibt es Induktiv und Kapazitiv. 
+
+Haben wir in einem anderen Brain Day sehr detailliert beschrieben. Da kann man dann rüberspringen, wenn man sich nicht sicher mehr ist, welcher Quadrant eigentlich welcher ist. Aber gleiches Prinzip. 
+
+Erstmal so ein ungleicher Fall. Der wäre dann hier oben. Also die Spannung ist jetzt zum Beispiel bei 20,1 kV und unsere Sollspannung ist 20 kV. 
+
+Sind wir also ein bisschen drüber gerutscht. Demzufolge haben wir jetzt Blindleistung in diesem positiven Sinne, so wie wir es dargestellt haben. Und wenn wir ein Blindleistungsverhältnis sozusagen in die andere Richtung haben, dann geht die Spannung nach unten.
+
+(0:04:30 - 0:05:36)
+Und auch da dann wieder der Sollwert, den man unabhängig jetzt von meiner Betrachtungsweise, wenn wir uns als Netzbetreiber entscheiden, welchen Sollwert er sich da gerade so vorstellt. Aber wenn der Realwert gleich seinem Sollwert ist, dann hat er sozusagen die Waage getroffen. Und dazu, Bogen zurück, braucht er die Blindleistungsregelung. 
+
+Also jetzt haben wir erstmal gesagt, was wir da eigentlich regeln. Und dann finde ich, stellt sich die Frage, wer macht das überhaupt? Und da hatte ich es gerade schon gesagt, das macht jetzt erstmal grundsätzlich der Netzbetreiber. Also da gibt es verschiedenste in den Bundesländern, in der Bundesrepublik, europaweit, weltweit. 
+
+Jeder hat da so seinen Abschnitt und der ist jetzt verantwortlich, dass da Regelbefehle vorgegeben werden. Er entscheidet, welche er versendet. Also der Netzbetreiber ist ein ganz wichtiger Bestandteil von dieser von dieser Kette. 
+
+Dann aber auch der Direktvermarkter. Darauf gehe ich heute nicht weiter ein, ist für uns ein eigenes Thema. Aber auch der ist berechtigt, in Deutschland hier mit zu regeln.
+
+(0:05:36 - 0:06:51)
+Da gibt es dann auch Priorisierungsvorschriften. Ich sage später nochmal ganz kurz, wie die Priorisierungslogik da aufgebaut ist. Aber auch der Direktvermarkter hat Zugriff auf die Parkregelung. 
+
+Der spielt also auch mit. Und dann haben wir hier noch die Betriebsführer mit reingenommen. Finde ich ist auch wichtig. 
+
+Natürlich kann die Betriebsführung den Park steuern. Das mag ja zum Beispiel sinnhaft sein, wenn die an einem wunderbaren Sommertag eine Wartung machen wollen. Dann muss man ja nicht unbedingt hart abschalten, sondern man kann die Anlage vorher heruntersteuern oder regeln und dann arbeiten. 
+
+Also die drei spielen da irgendwie mit. Und dann haben wir noch eine dritte Frage reingesetzt. Wie geht das mit der Parkregelung? Also ich sage es mal so, die nächsten eine Stunde und 50 Minuten geht es ja genau darum. 
+
+Aber was ich hier erstmal grundlegend zusammenfassen wollte ist, ja wie baue ich es auf? Was brauche ich? Ich brauche, ganz wichtig, ich brauche ein Komponentenzertifikat. Auf die VDE-Anwendungsrichtlinie ist das hier 41 und dann haben wir es xx gemacht, weil das gibt es Niederspannungsebene 0,5, Mittelspannungsebene 10, Hochspannungsebene 20, Höchstspannungsebene 30. Also vier verschiedene Anwendungsrichtlinien, die da relevant sind, je nach Spannungsebene.
+
+(0:06:52 - 0:09:37)
+Deswegen haben wir es hier ausgexzt. Die geben vor, wie dieser Parkregelungstest auszuführen ist. Wir gehen da jetzt später in dem dritten Kapitel sehr sehr lange, sehr detailliert darauf ein. 
+
+Da werden nämlich Rahmenbedingungen beschrieben, aber auch ganz konkrete Vorgaben wie Abweichungen oder Regelgeschwindigkeiten. Und da steht zum Beispiel eben auch drin, dass der Parkregler zertifiziert sein muss. Er muss ein Komponentenzertifikat haben. 
+
+Dieses Zertifikat, das ist in Deutschland eine ganz tolle Geschichte. Also VDE ist einfach der deutsche Verband. Die haben das, finde ich, ganz hervorragend gemacht. 
+
+Die sagen jetzt, der Anlagenbetreiber kann das doch gar nicht bewerten, ob dieser Parkregler geeignet ist. Das ist viel zu komplex. Dafür gibt es Zertifizierstellen, die wiederum akkreditiert sind. 
+
+Die prüfen das. Und meine Aufgabe als Elektroplaner und ich denke dann auch eure wäre jetzt zum Beispiel, wir haben es hier mal rausgesucht, bei der FGW geht das. Das ist jetzt aber nur ein Beispiel. 
+
+Auf der Homepage, unten ist der Link, kann man sich jetzt eine Übersicht aussuchen von allen Parkreglern, die zertifiziert sind. Das ist eine relativ lange Tabelle. Deswegen haben die da auch Filter mit reingenommen und ich zeige jetzt einfach nur mal ein Beispiel. 
+
+Die haben das so gemacht, dass es da gültige, zurückgezogene oder abgelaufene Unterteilung gibt. Das ist natürlich sinnhaft, weil wenn ich mein neues Projekt plane und den gleichen Parkregler nehme, wie vor zwei Jahren, ist ja vielleicht das Komponentenzertifikat abgelaufen. Das weiß ich mal gar nicht so schnell. 
+
+Deswegen könnte man hier auf die Seite gehen, dann kann man hier zum Beispiel nach der Spannungsebene, also jetzt 4110 wäre Mittelspannung, filtern und dann filtert er einen raus, welche Parkregler jetzt für diese Anwendungsfall gerade aktuell ein gültiges Komponentenzertifikat haben. Also das ist ein ganz wichtiger Schritt, aber das ist so dermaßen basic, dass wir da nicht weiter darauf eingehen. Ich wollte es nur gesagt haben, weil das ist natürlich ein riesen Stolperstein, wenn sie später herausstellt, dass irgendwie da ein Zertifikat abgelaufen ist. 
+
+Also der Parkregler kann das jetzt erst mal. Das ist eine schöne Antwort auf die Frage, wie macht er das? Da können wir jetzt darauf vertrauen, dass er das kann, weil das zertifiziert ist. Dann haben wir noch das Thema Batterie mit reingenommen, ist aber auch in einem anderen Brain, der wird mal erklärt, wie so eine Batterie ausgelegt wird. 
+
+Grundsätzlich brauchen wir die aber, weil eben wichtig ist, so steht es auch in den technischen Vorgaben, dass nicht nur, weil die PV-Anlage abgeschaltet wird, auch die Parkregelung nicht mehr zugreifbar ist. Das ist nicht zulässig, sondern über eine gewisse Zeit muss die Parkregelung länger sozusagen im Betrieb sein, als der Park selbst, so könnte man es sagen. Ist ja eine übergeordnete Funktion, eine Steuereinheit und daher sollte sie länger Zugriff haben als die anderen Anlagenkomponenten.
+
+(0:09:37 - 0:10:25)
+Also ein wichtiger Punkt, deswegen einmal Bullet Point und hat man sich gemerkt, kommt heute nicht wieder, ist mehr so eine übergeordnete Information. Auf die Schnittstellen muss man dann achten, da haben wir glaube ich zwei oder sogar drei separate Braindings noch gemacht, wie genau man diese Schnittstellen auslegt, also damit die Kommunikation sowohl mit dem Gateway des Netbestreibers als auch mit den Komponenten des Parks richtig funktionieren. Hier nur ein Bullet Point, das machen wir heute nicht noch mal. 
+
+Und dann braucht man ein Regelungskonzept, das zeige ich gleich im nächsten Kapitel noch mal ausführlicher. Das finde ich ist ein ganz wichtiger Punkt, gleich am Anfang, weil dann hat man erst mal selbst, aber auch die Zertifizierstellen und die anderen Player unter der Frage, wer überhaupt eine Idee, wie man diese Parkregelung denn überhaupt umsetzen will. Daher haben wir das hier mit reingenommen.
+
+(0:10:25 - 0:11:54)
+So, jetzt nehme ich das erst noch mal weg, weil jetzt kommt nämlich hoffentlich der erfolgreiche Bogen zu dem, warum. Also wenn jetzt diese Fragen sozusagen erst mal grundsätzlich im Projekt beantwortet sind, dann bekommt man ein Anlagenzertifikat. Ich wiederhole mich, korrigiere mich noch mal ein bisschen, wenn sie positiv beantwortet sind, diese Fragen, die man hier sich selbst gestellt hat. 
+
+Also wenn man alles richtig gemacht hat, bekommt man ein Anlagenzertifikat. Ich möchte auch gerne noch mal betonen, dass ich das für eine enorm sinnvolle Anwendung in Deutschland halte. Auf diese Weise kann man sicher sein, dass die Planung auch den Vorgaben entspricht. 
+
+Jeder macht mal Fehler, aber wenn eine unabhängige Zertifizierstelle noch mal drauf guckt, ist das, denke ich, sehr sinnvoll im Sinne der Parkregelung und dadurch im Sinne der Stabilität der Netze. So, und wenn man das Anlagenzertifikat hat, dann folgt daraus irgendwann Monate später die Konfirmitätserklärung. Gleiches Spiel, halte ich für eine extrem sinnvolle Sache. 
+
+Und warum das jetzt eben so wichtig ist, ich highlighte das jetzt hier ja auch extra noch mal, ist, das ist für mich die Antwort auf die Frage, warum muss ich mich um Parkregelungen kümmern, weil ich ein Anlagenzertifikat und eine Konfirmitätserklärung haben möchte. Ich kriege die beiden Themen nur, wenn ich mich um die Parkregelung gekümmert habe, wenn ich verstanden habe, was ich da eigentlich machen soll und zwar nicht nur Planung, sondern auch korrekte Ausführung. Darauf gehen wir dann im vierten Kapitel ja ein. 
+
+Wie teste ich denn überhaupt so eine Parkregelung? Und wenn ich die nicht richtig getestet habe, ich meine gar nicht, ob sie funktioniert oder nicht, sondern wenn ich sie nicht richtig getestet habe, dann kriege ich auch keine Konfirmitätserklärung.

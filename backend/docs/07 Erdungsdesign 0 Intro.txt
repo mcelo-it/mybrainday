@@ -1,0 +1,14 @@
+(0:00:00 - 0:00:26)
+So, hallo und herzlich willkommen auch heute wieder zu einem neuen Brainday. Heute geht es um Erdungsdesign, um Erdung, ein großes Thema, das uns als Elektroplaner von Anbeginn an mit verfolgt und auch immer wieder in großen Teile in so einer PV-Planung mit einnimmt. Ein riesiges Thema, ehrlich gesagt, wir kriegen es heute auch wieder versprochen in zwei Stunden und eingepackt.
+
+(0:00:26 - 0:00:50)
+Aber man sieht es schon im Hintergrund, wir haben viele, viele Kapitel eingebaut. Ich lege direkt los, damit wir hinten raus ein bisschen mehr Zeit haben, um uns die vielen Details, die heute kommen, anzugucken. Wir starten wie gewohnt mit der Frage, warum? Das soll motivieren, den anderen sieben Kapiteln hoch konzentriert zu folgen.
+
+(0:00:51 - 0:01:35)
+Dann Thema Normen, ich habe nur ein paar aufgeschrieben, das machen wir immer so, die schon öfter mal dabei waren, wissen das. Wir lesen da nicht ellenlange Texte durch, sondern wir ziehen ein paar wichtige Infos raus und dann kann man sich, wenn man es mal braucht, vielleicht diese Übersicht angucken und dann mal im Detail nachlesen, wo diese Vorgaben alle so herkommen. Zum Beispiel Vorgaben für Komponenten, wir gucken uns also dann erst mal die wichtigsten Komponenten von so einem Erdungssystem in so einer PV-Anlage an, damit wir dann diese einsetzen können in so einem typischen Design, nehme ich gleich vorweg, wir haben da ein Beispiel aufgebaut, wir haben auch Zahlen draufgeschrieben, um es irgendwie realer zu machen, das gefällt uns einfach besser so, nicht zu eng nehmen, ich sage das dann auch erst mal noch, da kann man spielen, sage ich mal so.
+
+(0:01:37 - 0:02:23)
+Eine 360-Grad-Tour, auch die finde ich heute wieder großartig, wir gehen also tatsächlich virtuell ihr alleine und dann wir gemeinsam in eine Anlage und schauen uns so ein Erdungskonzept an und dann gibt es auch wieder gewohnt Fragen dazu. Wenn man so ein Ding gebaut hat, muss man es auch messen, das ist wichtig, deswegen zeige ich, wie man die wichtigsten Messungen macht und wie man sie dann auch sinnhaft aufschreibt. So und dann kommen noch zwei kleinere Kapitel hinten raus, weil dann ist, finde ich, das Größte schon geschafft, aber trotzdem immer wieder eine Frage, welches Material darf ich denn überhaupt nehmen, sehen wir dann, warum, erklären wir, ist es wichtig, auf den Materialtyp zu achten, was steckt überhaupt dahinter, finde ich besser, weil dann kann man sich das besser selbst herleiten und dadurch auch immer viel länger merken.
+
+(0:02:24 - 0:02:44)
+Gut und ganz am Schluss, faszinierend, weil sonst ist das eigentlich immer unser Hauptthema, glaube ich, so im Kern, heute ganz am Schluss, weil das bei Erdung superkomplex ist, es gibt eher Software-Tools, die sowas machen, wir machen kleine Berechnungen, damit man mal so ein Gefühl dafür bekommt, was da so passiert. Aber das kommt ganz am Schluss, mal gucken, ob wir bis dahin noch alle dabei sind.

@@ -1,0 +1,41 @@
+Und jetzt kommt noch mal der Punkt Analogiebetrachtung. Also Analogiebetrachtung, wir haben das eben schon mehrfach angesprochen. Das ist ein Thema, was von vielen Stationsherstellern in der Vergangenheit, so habe ich es zumindest erlebt, häufig mal so salopp dahergesagt wurde.
+
+Ja, ja, dann machen wir das eben mit einer Analogiebetrachtung. Im Moment ist das oft ein Thema, weil viele Schaltanlagen ja nicht so gut verfügbar sind am Markt. Man hat lange Lieferzeiten und dann kann man eben sagen, wir machen eine Analogiebetrachtung.
+
+Man kann es zumindest mal versuchen. Ich habe schon mehrfach, mehrfach erwähnt. So einfach ist das dann gar nicht.
+
+Man kann nicht einfach mal sagen, wir machen eine Analogiebetrachtung. Wir tauschen einfach die Schaltanlage aus und versuchen mal, das durchzuführen. Wichtig ist aber erst mal eine Analogiebetrachtung ist erst mal grundsätzlich möglich und dafür gibt es dann eben auch die zu Beginn genannte Norm, die DIN IEC TR 62271 312.
+
+Da ist erst mal klar definiert auf vielen, vielen Seiten, wie man eine Analogiebetrachtung durchführen kann. Und ein wichtiger Punkt, den man dann gleich am Anfang mal abprüfen sollte, ist, dass die Schaltanlage und so steht es eben in der Norm, dass die Schaltanlage die gleiche Schaltanlagenfamilie sein müsste und ein größeres Raumvolumen haben muss. Also das macht es hier schon mal sehr, sehr schwer, wenn man jetzt den Hersteller tauscht.
+
+Ist das dann noch die gleiche Familie? Wahrscheinlich nicht. Und dann ist es eben auch nicht mehr zulässig, hier einfach eine Analogiebetrachtung durchzuführen. Also das ist schwierig.
+
+Unterschiedliche Schaltanlagentypen sind auch tatsächlich nicht zulässig für eine Analogiebetrachtung. Das steht so drin in der Norm. Also da ist allerhöchste Vorsicht geboten, mit solchen Analogiebetrachtungen einfach mal loszulegen und zu hoffen, dass das dann auch wirklich funktioniert.
+
+Es gibt dann aber immer die Möglichkeit, dass der Netzbetreiber mitmacht. Das kann passieren. Aber hier ist natürlich auch wieder allerhöchste Vorsicht geboten.
+
+Lasst euch das schriftlich geben. Wenn die Netzbetreiber bereit sind, eine Analogiebetrachtung mitzugehen, zum Beispiel mit einem anderen Schaltanlagenhersteller, dann lasst euch das in jedem Fall schriftlich geben, weil ich denke, dass das erst mal nach dieser Norm nicht möglich ist. Aber manche Hersteller machen das und gehen dann eben, ich sage mal, außerhalb der Norm diesen Weg und akzeptieren Übergabenstationen mit einer Analogiebetrachtung, die dann aber eben nicht nach der Norm durchgeführt wird.
+
+Kann passieren. Habe ich schon gehört, dass das möglich ist. Aber trotzdem, wenn ihr den Weg geht, dann bitte, bitte allerhöchste Vorsicht und alles schriftlich festhalten.
+
+Sonst kommt es am Tag der Inbetriebnahme vielleicht wieder zu dem bösen Erwachen und ihr dürft da nicht einschalten. Es gibt dann eben noch mal für diese Analogiebetrachtung softwaregestützte Berechnungen. Auch hier holt euch Experten mit rein, wenn einzelne Kriterien nicht erfüllt sind, dass man das dann über eine Software versucht nachzuweisen.
+
+Das sind aber dann auch schon Wege, die man hier einschlägt, die in dem normalen Projektgeschäft, wo unsere Solarparks innerhalb von wenigen Monaten errichtet werden, die Inbetriebnahme gleich im Anschluss durchgeführt werden soll, dann immer, naja, ich sage mal, Punkte, die man vielleicht nicht gerne in so einem schnelllebigen Projektgeschäft hat und abarbeiten möchte und am Ende dann auch für mehr Probleme sorgen, als man sich das am Anfang immer so vorgestellt hat. So, die Punkte der Analogiebetrachtung, die haben wir jetzt hier noch mal ein wenig aufgeführt. Also der Störlichtbogenstrom, der Stoßstrom, der muss erst mal kleiner sein als das, was wir in unserem Störlichtbogenzertifikat tatsächlich mal geprüft hatten.
+
+Dann ist eine Analogiebetrachtung vielleicht möglich. Dann gibt es hier das Symbol gleich. Also die Familie der Hochspannungs- schaltanlage soll gleich sein.
+
+Der Aufbau der fabrikfertigen Station soll gleich sein. Die Kühlvorrichtung und Gasstromeinrichtung sollen gleich sein. Da soll es dann keine Abweichungen geben.
+
+Und das ist natürlich äußerst schwierig. Die Art des elektrischen Hochspannungsschutzes soll gleich sein. Und die Art der Hochspannungsverbindung soll eben auch gleich sein.
+
+Zudem zu der Station, die wir ja haben, prüfen lassen. Nur dann wäre eben eine Analogiebetrachtung möglich. Dann müssen eben die Rauminhalte des primären Ausdehnungsraum und des Hochspannungsschottraums größer sein als die geprüfte Station.
+
+Der Nettogesamtinhalt der Ausdehnungsräume muss eben auch größer sein. Also das sind hier viele, viele Punkte. Ich weiß gar nicht, ob man jetzt im Detail durchgehen muss.
+
+Aber ihr seht schon, das ist sehr, sehr aufwendig, hier wirklich eine Analogiebetrachtung anhand der Norm durchzuführen. Querschnitt der Belüftungsöffnung, Abstände der Hochspannungsschaltanlage und des Gehäuses, mechanische Festigkeiten und kürzester Strömungsfahrt heißer Gase müssen dann eben in der vergleichbaren Station erst mal besser sein als in der Station, die wir haben geprüft. Besser oder eben gleich.
+
+Und das, denke ich, verdeutlicht es hier ganz gut, so eine Analogiebetrachtung einfach mal durchzuführen. Das ist unheimlich komplex. Und ich würde davon grundsätzlich, wenn es irgendwie möglich ist, erst mal abraten und meinen Projektleiter darauf hinweisen, naja, wenn du das machen willst, dann liegen uns da erst mal viele, viele Steine im Weg.
+
+Und wir müssen da wirklich aufpassen, dass das am Ende mit der Inbetriebnahme so hinhaut, wie wir uns das vorstellen. Jetzt gehen wir wieder ins Menti und fragen die Punkte von vorher ab. Ich wünsche euch viel Glück.
+
+Wir sehen uns gleich bei menti.com.

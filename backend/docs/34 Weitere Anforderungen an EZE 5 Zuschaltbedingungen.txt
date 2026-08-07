@@ -1,0 +1,290 @@
+(0:00:00 - 0:00:10)
+Nächstes Kapitel. So, aber Schutzeinrichtung 10.3 haben wir jetzt gemacht, sind aber auch schon anderthalb Stunden um. Und jetzt kommen ja noch mal drei Teilkapitel.
+
+(0:00:10 - 0:00:19)
+Das machen wir aber viel, viel schneller. Da stehen aus meiner Sicht nicht so relevante Themen drin und die sind auch deutlich kürzer. Deswegen kriegen wir das auch hin.
+
+(0:00:21 - 0:00:28)
+Zuschaltbedingungen, Synchronisierung. Ja, das ist jetzt auch schutztechnikrelevantes Thema. Kommt jetzt, wenn man so will, ja als nächster Punkt.
+
+(0:00:28 - 0:00:42)
+Also wenn jetzt irgendwie die Schutz abgeschaltet hat, dann ist die Frage, darf der wieder zuschalten und sich synchronisieren? Und da steht erst mal ein Muss in der Norm. Deswegen habe ich das unterstrichen. Also das muss möglich sein.
+
+(0:00:42 - 0:00:49)
+Die Zuschaltung zwischen 90 und 110 Prozent. Das ist ganz wichtig. Das ist für mich so ein Spannungssymbol da.
+
+(0:00:49 - 0:01:00)
+Also in dem Bereich ist das kein dürfen, sondern da müssen die Wechselrichter ans Netz gehen können. Nur so sind die dann auch zertifiziert. Sonst hätten sie dieses Einheitenszertifikat nicht.
+
+(0:01:00 - 0:01:08)
+Und in diesem Frequenzband gilt das genauso. Und vielleicht als zweiten Schritt. Jetzt sagen wir mal, sie sind dann ja zugeschaltet.
+
+(0:01:08 - 0:01:13)
+Also es hat funktioniert. Sie sind wieder am Netz. Dann muss auch eine Einspeisung möglich sein.
+
+(0:01:14 - 0:01:22)
+Natürlich immer, wenn das Primärangebot überhaupt da ist. Aber das steht auch da so drin. Auch das habe ich mir nicht selber überlegt oder der Netzbetreiber, sondern das steht drin.
+
+(0:01:22 - 0:01:43)
+Also wenn wir wieder da sind, ja, das Netz ist wieder zurückgekehrt. Also dann muss aber auch wirklich zugeschaltet werden können, damit die Erzeugungseinheiten natürlich wieder das Netz stützen. So, dann haben wir hier die Zuschaltung nach einer Auslösung durch die Schutzeinrichtung.
+
+(0:01:43 - 0:01:50)
+So heißt es. Ich glaube, ich habe das jetzt irgendwie relativ schnell auch AWE genannt. Automatische Wiedereinschaltung, automatische Wiederzuschaltung.
+
+(0:01:51 - 0:02:04)
+Und da gilt erst mal generell Achtung am Netzanschlusspunkt nicht. Am Netzanschlusspunkt machen wir keine automatisierte Einschaltung, sondern da gilt das nur manuell. Finde ich, ist leicht zu begründen.
+
+(0:02:05 - 0:02:16)
+Da ist jetzt offensichtlich ein etwas größerer Fehler, sage ich mal, irgendwo aufgetreten. Und dann wollen wir erst mal mit dem Netzbetreiber sprechen, ob wir wieder zuschalten dürfen. Wir rufen den an und dann schalten wir manuell zu.
+
+(0:02:17 - 0:02:29)
+Jetzt brauche ich meinen Pointer wieder. Und der zweite Punkt sozusagen, die zweite Möglichkeit ist an der EZE. Achtung, da gehört auch der zwischengelagerte Schutz gehört dazu.
+
+(0:02:30 - 0:02:35)
+Und da ist die automatische Zuschaltung durchaus möglich. Da wird sie auch gemacht. Empfehle ich auch dringend.
+
+(0:02:36 - 0:02:44)
+Steht möglich. Ich empfehle es aber auf jeden Fall. Nur so kann man ja auch diese Wiederbelebung sozusagen automatisieren.
+
+(0:02:44 - 0:02:59)
+Wie funktioniert das? Man hat erst mal unten so eine ein und Gatter heißt das. Und das wurde aber negiert. Also das heißt, wenn ein Ausbefehl vom Schutzrelais anliegt, U größer, U kleiner, F größer, U kleiner.
+
+(0:03:01 - 0:03:11)
+Dann geht der Befehl sozusagen nicht weiter. Also dieses dieser Punkt, den ich dahin gemalt habe, bedeutet, dass man den ganzen Befehl negiert. Also diese Ausbefehle dürfen nicht anliegen.
+
+(0:03:12 - 0:03:22)
+Das ist vielleicht ja auch logisch. Sehen wir auch gleich in meinem nächsten praktischen Beispiel. Nur wenn der Fehler nicht mehr anliegt, kommt sozusagen das positive Signal, dass es wieder weitergehen kann.
+
+(0:03:22 - 0:03:32)
+Wir sind ja bei der Wiederzuschaltung. Zweite Bedingung ist, dass die Spannung mindestens bei 95 Prozent liegen. Der Nennspannung.
+
+(0:03:32 - 0:03:57)
+Das ist dann hier so eine und Logik und dass die Frequenz auch wieder in so einem schönen Band zwischen 49,9 und 50,1 zurückgekehrt ist. Wenn diese Bedingungen erfüllt sind und das eine, ich sage es ja nur, also der Ausbefehl darf eben nicht anliegen, aber die Spannung und Frequenzen sind wieder sauber. Dann geht es ins nächste und Gatter und es wird eine Zeitverzögerung eingestellt.
+
+(0:03:58 - 0:04:10)
+Um die geht es mir jetzt in den nächsten 10, 15, 20 Minuten noch mal im Kern. Das habe ich mir rausgesucht, dass diese Zeitverzögerung finde ich sinnvoll ist und wichtig. Die kann man dann in Wechselrichtern einstellen.
+
+(0:04:10 - 0:04:25)
+Man kann die am Zwischengelagerten in A-Schutz einstellen. Und die Frage müssen wir beantworten, welche Zeit denn da eingetragen wird. So, also dieses T1 sagt, die Norm sollte zwischen 10 und 30 Minuten liegen.
+
+(0:04:26 - 0:04:33)
+Und dann würde ich das genauso auch machen. Ich würde erst mal 10 Minuten in die erste Station einstellen. Und was man machen kann, ist eure Entscheidung.
+
+(0:04:33 - 0:04:45)
+Finde ich, entscheidet niemand anders. Vielleicht im Team mit dem Projektleiter oder dem O&M noch. Kann man Staffelungen einbauen, also dass die einzelnen Stationen leicht gestaffelt einschalten? Das kann man machen, muss man aber nicht.
+
+(0:04:45 - 0:05:01)
+So, und dann sage ich an der Stelle noch, Übersetzung vom Stufensteller beachte. Das machen wir aber auch in einem anderen Brain Day. Also bei diesen Spannungswerten ist das wichtig, dass der Stufensteller vom Trafo, wenn man so will, richtig eingestellt ist beziehungsweise die richtige Einstellung auch beachtet wird.
+
+(0:05:03 - 0:05:14)
+In der 41, 20 und 30 ist es noch ein bisschen anders, aber nur ein minimaler Unterschied. Da gibt es noch ein Signal von oben, wenn man so will. Also 20 und 30 sehr Hochspannung und Höchstspannung.
+
+(0:05:14 - 0:05:26)
+Da gibt es natürlich dann ein Umspannwerk. Und von dort muss es aus der Leittechnik auch nochmal ein separates Freigabesignal geben. Das haben wir auch schon so ausgeführt.
+
+(0:05:26 - 0:05:36)
+Das heißt, das ist kein Hexenwerk, das funktioniert. Das geht dann über den Parkregler. Und das ist halt nur eine zusätzliche, sagen wir mal so ein bisschen Schwierigkeit, die man noch in die Leittechnik integrieren muss.
+
+(0:05:36 - 0:05:58)
+Zack, also auch die Leittechnik muss übergeordnet sagen, jawohl, passt. Aber nicht bei der 41, 10, da das bitte einfach wieder vergessen. So, wie funktioniert so eine AWE, eine automatische Wiederzuschaltung? Ich habe ein Zeitdiagramm, ja, weil eine automatische Wiederzuschaltung bezieht sich ja immer auf eine zeitliche Abfolge.
+
+(0:05:58 - 0:06:07)
+Und mein Y-Achse ist die Spannung. Ich mache das mit sowohl relativen Werten als auch absoluten Werten. Mit 100 Volt ist es, glaube ich, am einfachsten.
+
+(0:06:08 - 0:06:17)
+So kann man das schnell mitrechnen. Das heißt, auf der linken Seite einmal unennen, bedeutet 100 Volt. Damit starte ich jetzt.
+
+(0:06:17 - 0:06:22)
+Also das sehen wir auch gleich in dem Video. Da werde ich das zeigen. Also warten Sie jetzt bitte gut auf.
+
+(0:06:22 - 0:06:30)
+Dann kann man das Video auch besser nachverfolgen. Also erst mal 1,0 UN. Das ist für mich natürlich eine saubere Netzspannung.
+
+(0:06:30 - 0:06:41)
+Das sind ja genau die Netzspannung. Da ist alles in Ordnung. Und was bedeutet das dann sozusagen für den Leistungsschalter? Den habe ich hier jetzt unten mit eingetragen.
+
+(0:06:41 - 0:06:58)
+Also wenn das Relais stelle ich nicht da, sondern nur den Leistungsschalter. Das heißt, wenn der der Spannungszustand sauber ist und das Relais in Ordnung, kann jetzt jeder selber mitdenken, ist der Leistungsschalter ein oder aus? Er muss ein sein. Also jedenfalls ist er das in meinem Beispiel.
+
+(0:06:59 - 0:07:05)
+Das ist der weiße Balken Leistungsschalter ein. Jetzt passiert aber ja was. Jetzt steigt dummerweise die Spannung im Netz.
+
+(0:07:06 - 0:07:12)
+Geht auch mit sinkenden Spannungen. Das ist völlig egal. Wir haben uns nur ein Beispiel rausgesucht und nach einer Zeit.
+
+(0:07:12 - 0:07:20)
+Also jetzt sind wir bei T2. Passiert ja was. Und an der Stelle ist jetzt 1,25 mal UNen erreicht.
+
+(0:07:20 - 0:07:34)
+125 Volt. Ihr erinnert euch, habt gerade das Relais so eingestellt, dass jetzt bei 125 Solz abschalten, sagen wir mal Verzögerungszeit 0 Sekunden. Also unmittelbar schaltet an der Stelle der Leistungsschalter ab.
+
+(0:07:35 - 0:07:41)
+Vorher ja noch nicht. Also auch wenn wir eine Überspannung gehen, haben wir noch nicht den Abschaltpunkt erreicht. Leistungsschalter bleibt also ein.
+
+(0:07:41 - 0:07:52)
+Aber hier in unserem Beispiel bleiben wir jetzt der Einfachheit halber in dem Fehlerfall genau bei 125 Volt. Also das ist ein Fehler. Deswegen dieses Symbol oben.
+
+(0:07:53 - 0:08:03)
+Und jetzt ganz. Ja, jetzt schaltet der Leistungsschalter aus. Das ist, glaube ich, die Botschaft, die ich im ersten Schritt übermitteln will.
+
+(0:08:03 - 0:08:10)
+Jetzt passiert ja auch wirklich was. Also zack, das Relais schaltet. Aber jetzt auch der Leistungsschalter springt von ein auf aus.
+
+(0:08:10 - 0:08:28)
+In unserem Beispiel nehmen wir das Warndreieck wieder weg, weil wir sagen, das Netz hat den Fehler irgendwie behoben. Dauert auch ein bisschen in unserem Beispiel zumindest geht die Spannung langsam wieder runter, dauert ein paar Sekunden, werdet ihr gleich sehen. Aber sie sinkt wieder von 125 runter auf die 100.
+
+(0:08:29 - 0:08:52)
+Und jetzt ist wichtig, dass also in dem Bereich natürlich erst mal der Leistungsschalter aus war. Aber jetzt ist für mein Beispiel der automatischen Wiederzuschaltung ganz wichtig, dass ich jetzt noch mal ein bisschen Nachlaufzeit brauche. Entschuldigung, muss ich mich korrigieren? Ich bringe einfach an der Stelle wieder in den gesunden Zustand.
+
+(0:08:52 - 0:09:05)
+Der Leistungsschalter schaltet wieder ein. Und jetzt kommt eben diese automatische Wiederzuschaltzeit. Das ist meine automatische Wiederzuschaltzeit.
+
+(0:09:05 - 0:09:13)
+Zwischen der Fehler sozusagen ist weg. Also ich gehe ja wieder unter die 125 Volt. Das ist das T3.
+
+(0:09:14 - 0:09:26)
+Also wenn ich, wenn der Fehlerwert die 125 Volt sind und ich fange wieder an zu sinken, springe ich sozusagen aus meinem Fehler raus. Das Relais wird wieder grün. Aber der Leistungsschalter unten schaltet noch nicht ein.
+
+(0:09:27 - 0:09:44)
+Da schaltet erst bei T4 ein und zwar nach Ablauf dieser T1 Zeit. Dass das jetzt hier auch wieder bei 1,0 ist, das ist ehrlich gesagt nicht gewollt. Das ist Zufall, sondern T1 in orange dargestellt ist die eingestellte Verzögerungszeit für die automatische Wiederzuschaltung.
+
+(0:09:46 - 0:10:02)
+Okay, ich glaube, es ist besser, wir zeigen das an einem Beispiel, wieder das Relais. Dazu muss man aber wissen, dass hier oben bei den LEDs grundsätzlich die Funktionen angezeigt werden. Also wenn jetzt hier rot leuchtet Q1, bedeutet das, dass U größer ausgelöst hat.
+
+(0:10:02 - 0:10:15)
+Also wenn die LED leuchtet, dann hat das LED ausgelöst, Entschuldigung, das Relais. Hier in der recht oberen Spalte sieht man, ob der Leistungsschalter auslösen soll. Das kann man jetzt gleich mal mitverfolgen.
+
+(0:10:15 - 0:10:29)
+Also rechts oben K1, K2 bedeutet, dass es überhaupt abschaltet und links davon die Funktionen sagen, warum es abgeschaltet hat. Und jetzt haben wir hier noch einen Leistungsschalter reingebaut. Der ist in Wirklichkeit ein bisschen größer.
+
+(0:10:29 - 0:10:37)
+Aber in unserem Versuchsstand haben wir den mal mit diesem Schütz nachgebildet. Das heißt, unten seht ihr jetzt hier nicht. Da ist eine LED.
+
+(0:10:37 - 0:10:46)
+Im Video seht das gleich. Und die sagt den Zustand des Leistungsschalters. So, jetzt gehen wir bitte einmal so in den Moment.
+
+(0:10:46 - 0:10:55)
+Ja, doch auf meinen Bildschirm. Genau, da kann ich nämlich zeigen. Ja, das Video dazu.
+
+(0:10:57 - 0:11:06)
+Und ich bitte auch meinen Kollegen, gleichzeitig noch dieses Video in den Chat zu stellen. Das kann sich jetzt jeder runterladen. Kann er natürlich parallel jetzt auch schon selber angucken.
+
+(0:11:07 - 0:11:13)
+Aber ich zeige es gerne einmal und dann stelle ich Fragen dazu. Und ich nehme das gleich mal vorweg. Die Fragen werden sein.
+
+(0:11:13 - 0:11:25)
+Welche Zeiten haben wir denn hier eingestellt? Also dieses T1 bis T4, das sollt ihr rauskriegen. Ich zeige das einfach nur mal im Beispiel. Da können alle zusammen drauf gucken und dann habt ihr wieder ein paar Minuten, um es euch selber anzugucken.
+
+(0:11:26 - 0:11:36)
+Aber ich starte mal das Video und Achtung, im Display seht ihr 100 Volt. Also alles in Ordnung. Wir haben ja eine Entspannung 100 Volt und K1 und K2 leuchten.
+
+(0:11:36 - 0:11:44)
+Das ist gut, weil das bedeutet, der Leistungsschalter darf geschlossen sein. Und das ist mein Leistungsschalter. Jetzt seht ihr auch das grüne LED.
+
+(0:11:45 - 0:11:52)
+Grün bedeutet, der ist geschlossen. Das muss man sich natürlich jetzt merken. Aber in diesem Fall, wir starten mit Alles ist in Ordnung.
+
+(0:11:53 - 0:12:00)
+Jetzt starte ich mal mein Video. So, alles ist in Ordnung. Ihr würdet dann hier unten auch die Zeiten jetzt mitlocken können.
+
+(0:12:00 - 0:12:07)
+T1 bis T4, das ist die Aufgabe. Also jetzt steigt die Spannung langsam an. Wir simulieren das hier.
+
+(0:12:07 - 0:12:16)
+Die Spannung steigt. 125 Volt ist unser Einstellwert. Und deswegen fürchte ich, wenn wir auf 125 zustößen, passiert was.
+
+(0:12:17 - 0:12:24)
+Zack, so, jetzt hat eine Funktion ausgelöst. Der Leistungsschalter ist aus. Totale Realität.
+
+(0:12:24 - 0:12:32)
+Genauso funktioniert das. Im besten Fall kriegt ihr jetzt sofort über das ONM was mitbeteilt. Und jetzt läuft schon die automatische Zeit rückwärts.
+
+(0:12:32 - 0:12:39)
+Da ist nicht so viel Zeit hier. Deswegen habe ich das alles sehr schnell da eingebaut. Und zack, die automatische Wiederzuschaltzeit ist abgelaufen.
+
+(0:12:39 - 0:12:48)
+Das war die Zeit, die da rückwärts gelaufen ist. Und die Fehlerfunktion ist weg. Und der Leistungsschalter hat wieder eingeschaltet.
+
+(0:12:49 - 0:13:09)
+Jetzt haben hoffentlich alle das Video und können es gleich selbst machen. Ich würde noch mal zurück in die PowerPoint bitten, damit ich sozusagen die Frage noch mal besser stellen kann, die ihr bitte beantwortet. Genau hier ist die Aufgabe noch mal dargestellt.
+
+(0:13:10 - 0:13:18)
+Ah, ja, ja, ja. Nächste wäre die Lösung. Also die Frage ist bitte T1, T2, T3 und T4.
+
+(0:13:19 - 0:13:34)
+Sagt mir aus dem Video, in dem es ablauft und unten Achtung, es fängt sozusagen für mich ist T0 hier nicht dargestellt. Das ist der Startpunkt. Also T1 ist nach einigen Sekunden, nachdem das Video gestartet ist und dann nicht die Differenzen, sondern die tatsächlichen Zeiten von dem Video.
+
+(0:13:35 - 0:13:41)
+Da gebe ich euch jetzt zwei, drei Minuten. Schaut euch das Video an und sagt mir nach wie viel Sekunden was passiert. Bis gleich.
+
+(0:13:43 - 0:13:49)
+Ich zeige es noch einmal. Es läuft auch schon. Also die Spannung ist sauber und jetzt Achtung.
+
+(0:13:49 - 0:13:57)
+Nach acht Sekunden war es glaube ich jetzt. Jetzt fängt die Spannung an, zu sich zu erhöhen. Das haben wir halt so simuliert.
+
+(0:13:57 - 0:14:08)
+Das ist für mich T1. Und jetzt, wenn 125 erreicht ist, das ist der eingestellte Fehlerwert im Relais, dann geht es in den Fehler. Zack, jetzt hat es umgeschaltet.
+
+(0:14:09 - 0:14:16)
+Das hier sozusagen Zuordnung ist nicht mehr da. Nach wieder ein paar Sekunden. Jetzt geht die Spannung wieder runter.
+
+(0:14:16 - 0:14:20)
+Das Relais ist wieder sauber. Es fängt an zu blinken. Das habe ich nicht erklärt, aber so sieht man das.
+
+(0:14:20 - 0:14:26)
+Es blinkt und die zehn Sekunden laufen rückwärts. Und jetzt sind die zehn Sekunden abgelaufen. Zack, es schaltet wieder zu.
+
+(0:14:27 - 0:14:46)
+Der Leistungsschalter ist wieder auf ein. Wenn man diese, sage ich mal, jetzt bitte gerne wieder in die PowerPoint, wenn man diese Werte, wie sie hier seht, auch im O&M Monitoring hätte, dann könnte das gut nachverfolgen. Unten habe ich das nur informativ noch dazu geschrieben.
+
+(0:14:46 - 0:14:51)
+Das waren diese LEDs. Also das Q1 Überspannung hat ausgelöst. Wäre vielleicht auch eine schöne Frage gewesen.
+
+(0:14:52 - 0:15:03)
+Ohne meine Rampe zu sehen, kann ich anhand der LEDs erkennen, welcher Fehlertyp denn überhaupt aufgetreten ist. Das waren bei den LEDs so. T1 ist K1 und K2 geschlossen.
+
+(0:15:03 - 0:15:08)
+Also das ist der Meldebefehl zum Leistungsschalter. Alles ist in Ordnung. Ab T2 nicht mehr.
+
+(0:15:08 - 0:15:23)
+Da haben wir den Fehler und Q1 und Q5 leuchten fest, sozusagen. Ab T3 ist es ein Blinken, weil der Fehler weg ist. Aber die AWE läuft und bei T4 sind die LEDs wieder aus.
+
+(0:15:23 - 0:15:32)
+K1, K2 leuchtet. So, das ist die Lösung. Gut, das war die AWE.
+
+(0:15:32 - 0:15:44)
+Ihr erinnert euch, ich kann ruhig so bleiben, die die Fragezeichen, die letzten sind jetzt also noch zu lösen. Jawohl, die Fragezeichen können weg. Wir haben es uns genau angeguckt.
+
+(0:15:45 - 0:15:58)
+Also wie es erst mal funktioniert. Und ich hatte gesagt, am Netzanschlusspunkt übergeordnet gibt es keine AWE, da wird es nicht zugelassen. Aber der Zwischengelagerte und auch der Eigenschutz, da ist das durchaus sinnvoll.
+
+(0:15:59 - 0:16:17)
+Ich finde das gut zu wissen und zu verstehen. Wenn Fragen gestellt werden, kann man sich ja selber durchdenken. Wenn an irgendwelchen Stellen die die Spannung mal wegfällt, kann man ja dem Kunden dann erklären, ob, wenn die Spannung wiederkommt, die automatische Zuschaltung dann ergreifen wird oder nicht.
+
+(0:16:17 - 0:16:38)
+Weil das ist eben ein Unterschied, ob das im Umspannwerk auf 110 KV ist oder 30 KV oder bei euch auf der Mittel- oder auf der Niederspannung Seite. Das ist dann eben ein Unterschied in der Wiederzuschalt-Logik. So, jetzt geht es relativ zügig Richtung Schluss, obwohl noch einige Kapitel offen sind.
+
+(0:16:38 - 0:16:53)
+Aber ihr werdet jetzt sehr häufig den Liegestuhl sehen, weil ich das für nicht so relevant halte. Deswegen zeigen wir es, gehen aber nicht weiter darauf ein, weil wir das noch teilweise nie gebraucht haben. Und dann würde ich einfach mal behaupten, wir brauchen es die meisten nicht in der Planung.
+
+(0:16:54 - 0:17:07)
+Also die Zuschaltung mithilfe von Synchronisierungseinrichtungen muss man sich erst mal fragen. Was ist das überhaupt? Der Wechselrichter selbst ist eine Synchronisierungseinheit. Er versteht sozusagen die Phasenlage und schaltet sich dann dementsprechend zu.
+
+(0:17:07 - 0:17:12)
+Er synchronisiert sich ganz alleine, ist also integriert. Daumen hoch. Brauchen wir überhaupt nichts machen.
+
+(0:17:12 - 0:17:24)
+Und bei Inselbetrieb. Also wenn ihr mal Inselbetriebanlagen plant, dann muss man da tiefer reinsteigen. Ansonsten Liegestuhl bei Inselbetrieb witzigerweise sogar sehr passend.
+
+(0:17:25 - 0:17:38)
+Zuschaltung von Asynchron-Generatoren haben wir nicht in der PV-Welt, deswegen gehen wir nicht darauf ein. Der Kuppelschalter. Da gibt es mehrere Möglichkeiten.
+
+(0:17:39 - 0:17:42)
+Einer ist ein Leistungsschalter. Es gibt aber auch Lasttrennschalter. Es gibt andere Möglichkeiten.
+
+(0:17:43 - 0:17:53)
+Das wird da kurz beschrieben, dass dem so ist. Aber vielleicht einzige wichtige Information. Es wird gesagt, es muss eine dreipolige galvanische Trennung geben.
+
+(0:17:53 - 0:18:03)
+Wir haben drei Phasen. Also das sind dreipolige Leistungsschalter. Das wird nicht irgendwie einzeln aufgetrennt, sondern wir haben ein Problem und dann schalten wir alle drei Phasen ab.

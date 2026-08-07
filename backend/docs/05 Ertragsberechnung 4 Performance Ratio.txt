@@ -1,0 +1,122 @@
+(0:00:00 - 0:00:12)
+Wir haben die Einflussfaktoren uns angeguckt. Jetzt geht es weiter und jetzt geht es in den Performance Ratio direkt rein. Dafür brauchen wir gar nicht die Einflussfaktoren im Detail.
+
+(0:00:13 - 0:00:31)
+Wir können jetzt, wenn man so will, mit dem Kopf wieder neu starten. Man hat mal verstanden, es gibt Einflussfaktoren, welchen Einfluss sie ungefähr haben. Aber jetzt gehen wir in den Performance Ratio rein und brauchen dafür diese ganzen kleinteiligen Logiken nicht, sondern ich zeige es nochmal in aller Ruhe.
+
+(0:00:31 - 0:00:46)
+Also Performance Ratio, Wirkungsgrad, kürzen wir immer mit PR ab. Ich führe das jetzt auch nicht ständig mit. Das habe ich vorhin einmal gezeigt. 
+
+Ihr wisst das. PR ist auch die Fachsprache bei uns in den Projekten. Wir hatten es vorhin schon mal kurz gezeigt.
+
+(0:00:46 - 0:00:59)
+Ich zeige es trotzdem noch einmal für die, die vielleicht später dazugekommen sind. Wir teilen die Energie, die wir im Zähler gemessen haben. Das ist die Ausgangsenergie, die eingespeiste Energie ins Netz.
+
+(0:01:00 - 0:01:09)
+Teilen wir durch die Eingangsenergie. Muss man sich jetzt auch merken. E-Eingang, das kommt auch später dann in den Übungen immer wieder.
+
+(0:01:10 - 0:01:19)
+Und jetzt haben wir es jetzt nochmal hier mathematisch dargestellt. So steht es auch in der Norm. Macht natürlich total Sinn, dass wir jetzt nicht unbedingt komplett greifen, sondern vielleicht auch einfach nochmal vertrauen.
+
+(0:01:19 - 0:01:31)
+Ist aber auch nichts Kompliziertes. Die Zählerenergie setzt sich sozusagen zusammen. Oder ist die Summe aus den einzelnen Leistungsmomentanwerten.
+
+(0:01:33 - 0:01:42)
+Multipliziert mit der Zeit. Ehrlich gesagt ist das die Grundlage der Elektrotechnik. Man multipliziert den Leistungswert mit einer Zeit.
+
+(0:01:42 - 0:01:48)
+Und dann kommt eine Energie raus. Wenn man das mit Stundenwerten macht, ist das sehr einfach. Weil das dann immer nur eins ist.
+
+(0:01:48 - 0:01:54)
+Also mal eine Stunde. So machen wir es auch gleich in der Übung. Aber in Realität hat man es ja vorhin gesehen.
+
+(0:01:54 - 0:01:59)
+Das können ja 5 Sekunden Sample Rate sein. Das können 5 Minuten Werte sein. Dann muss man da aufpassen.
+
+(0:02:00 - 0:02:07)
+Dann ist da noch ein Faktor drin. 5 Minuten, das wäre sozusagen ein Zwölftel von einer Stunde. Also dann ist dieses Tau unterschiedlich.
+
+(0:02:07 - 0:02:16)
+Fest steht Wirkleistung multipliziert mit der Zeit. Das ist dann Energie. Und oben also die Energie vom Zähler.
+
+(0:02:17 - 0:02:29)
+Unten passiert es sehr ähnlich, aber doch ein bisschen anders. Weil unten haben wir nicht einfach so die Leistung, die im Zähler mitgeschrieben wird. Sondern die theoretische Energie.
+
+(0:02:32 - 0:02:40)
+Die setzt sich zusammen aus der Summe. Und jetzt haben wir da noch ein bisschen Kleinteiliger drin. Einmal die Anlagenleistung.
+
+(0:02:40 - 0:02:49)
+Dann die Einstrahlung in Modulebene. Das würde ich hier auch noch mal betonen. Mir auch immer gar nicht so klar oder einfach nachvollziehbar.
+
+(0:02:49 - 0:03:00)
+Aber wir machen es genau so. Das ist der Einstrahlungswert in Modulebene. Also der Wert, den das Pyranometer gemessen hat, das in Modulebene installiert ist.
+
+(0:03:00 - 0:03:12)
+Wir installieren auch, so steht es auch in der Norm, Einstrahlungssensoren, Pyranometer, horizontal. Das hat Gründe, macht sehr viel Sinn. Wird so vorgegeben und auch gemacht.
+
+(0:03:12 - 0:03:23)
+Aber hier für diese Berechnung, die wir jetzt hier nehmen, auch in unserem Arbeitsalltag mache ich das genauso. Nämlich die Einstrahlungswerte vom Pyranometer in Modulebene. Das zeige ich später auch noch mal.
+
+(0:03:24 - 0:03:40)
+Da darf man natürlich nicht durcheinander kommen, weil das sind ja dann unterschiedliche Ergebnisse, die dabei rauskommen würden. Also wir multiplizieren die Anlagenleistung mit der gemessenen Einstrahlung in Modulebene mal die Zeit. Das Tau ist auch hier drin, muss auch vergleichbar sein.
+
+(0:03:40 - 0:03:49)
+Und teilen das dann aber noch mal durch die Referenzeinstrahlung STC. Das sind 1000 Watt pro Quadratmeter. Die darf man auch nicht vergessen.
+
+(0:03:49 - 0:03:57)
+Sonst sind aber auch die Einheiten da drin falsch. Das kann ja jeder mal in Excel selber so machen in aller Ruhe. Dann kann man es viel besser greifen, warum das eigentlich so ist, wie es ist.
+
+(0:03:58 - 0:04:13)
+Und dieses P0 nur als Anmerkung ist logisch und wichtig, weil das Ganze natürlich abhängig ist von der Anlagenleistung. Umso größer die Anlage, umso mehr Energie kommt vermeintlich raus. Wir schieben das zusammen.
+
+(0:04:13 - 0:04:23)
+Das brauchen wir später nämlich noch mehrfach. Und schieben es einmal kurz zur Seite, weil ich noch einen zeitlichen Effekt hier mitgeben möchte. Und dafür hatte ich Platz gebraucht.
+
+(0:04:23 - 0:04:40)
+Deswegen habe ich das kurz nach unten geschoben und zeige jetzt erst mal, dass wir das Ganze berechnen. Dieses PR, E-Zähler durch E-Eingang, das berechnen wir vor Projektstart mit einer Simulation. Also die zwei Sachen, die ich sagen will, habe ich beide in den Titel reingekriegt.
+
+(0:04:40 - 0:04:49)
+Wir machen das vor Projektstart und wir machen eine Simulation. Vor Projektstart kann ich ja nur simulieren. Dafür brauche ich eine Software, das ist völlig Usus.
+
+(0:04:49 - 0:04:53)
+Das machen, denke ich, alle so. Das ist Standard. Sonst kriegt man auch keinen Kredit von der Bank.
+
+(0:04:54 - 0:05:08)
+Und dafür nimmt man logischerweise Wetterdaten aus der Datenbank. Das ist jetzt nur ein Beispiel. Da werden noch viel mehr Parameter genommen, die man ja simulieren muss, annehmen muss, weil man ja keine realen hat, weil man ja vor dem Projektstart ist.
+
+(0:05:08 - 0:05:24)
+Also merken bitte, man nimmt Wetterdaten aus Datenbanken. Es gibt verschiedene Datenbanken und schon allein daran zeigt sich, wenn man andere Datenbanken nimmt, die für sein Projekt vermeintlich besser sind in der Simulation, dann hat man da schon den ersten Unterschied. Also erstmal Schritt Simulation.
+
+(0:05:25 - 0:05:54)
+Im zweiten Schritt erneute Simulation, also es ist immer noch eine Simulation, aber jetzt sind wir schon nach der Inbetriebnahme und ich habe das extra reingeschrieben in Klammern Garantie, weil jetzt wird es interessant. Also das wäre so ein simulierter Wert, den man vertraglich definieren muss, aber so kann man es machen, so kenne ich das als garantierten Wert. An dem messe ich mich, mein ganzes Team, das Projektteam misst sich an diesem simulierten Garantiewert.
+
+(0:05:56 - 0:06:05)
+Da haben wir auch ein paar Bullet Points. Man macht das jetzt wieder mit einer Software, aber jetzt ist ein wichtiger Unterschied. Das ist es jetzt, nachdem ich schon wieder so viel geredet habe, ist das der entscheidende Unterschied.
+
+(0:06:05 - 0:06:29)
+Man nimmt jetzt Messwerte aus dem Monitoring System, das sind reale Werte. Jetzt hat wirklich die Sonne geschieden oder eben nicht, es war schlechtes Wetter oder Hagel oder sonst was und die Temperaturen, da sind sie für den Korrekturfaktor, nehme ich auch mit aus einem realen Projekt, aus meinem Projekt und zwar jetzt wirklich der letzten drei Monate, September bis November oder so. Wichtigster Unterschied, deswegen haben wir ihn hier mit aufgenommen.
+
+(0:06:30 - 0:07:11)
+Jetzt kann man auch bereinigen, das hatte ich in dem Kapitel Norm mal ganz kurz gesagt, also jetzt war da eine Leistungsreduzierung durch den Direktvermarkter, durch den Netzbetreiber. Es gibt ungültige Daten, wenn sich da irgendwas verheddert oder verschluckt hat, das kann ich jetzt wunderbar machen, nehme ich die alle sehr schön raus, das ging im ersten Schritt ja gar nicht, weil ich konnte ja nicht wissen, ob er reduzieren wird oder nicht. Und, das ist eine Formsache in Mathematik, ich werde wahrscheinlich auch mitteln müssen, das wollten wir nur nicht verschweigen, weil das ist immer ein Zwischenschritt in meiner Arbeit, wir werden 5-Minuten-Werte wahrscheinlich locken zum Beispiel und dann aber zu 1-Stunden-Werten zusammenfassen, weil das die Simulationsprogramme auch so machen.
+
+(0:07:12 - 0:07:24)
+Und jetzt kommt der dritte Schritt, da muss ich auch gleich noch mal kurz aus dem Weg, Berechnung nach der Inbetriebnahme. Jetzt also Berechnung, Berechnung, nicht mehr Simulation. Das können wir in Excel machen, das machen wir auch gleich, das wird die Übung, die wir gleich zusammen machen.
+
+(0:07:25 - 0:07:51)
+Und dann nehmen wir jetzt zusätzlich zu den realen Einstrahlungswerte noch reale Zählerwerte, ging nicht zu schnell, sondern ich möchte ja wieder ins Bild kommen, ich mache genau das gleiche noch mal als Tabelle, fanden wir irgendwie einfacher in der Darstellung. Also gleiche Formeln, ich mache es noch mal, ich habe die nur seitlich verschoben, damit ich es schöner in der Tabelle zeigen kann. Zähler und Nenner, da sind sie, E-Zähler und E-Eingang.
+
+(0:07:51 - 0:08:36)
+Und jetzt sage ich den Unterschied. Theoretische Betrachtung der Energie, die aus dem Zähler rauskommt, und hier haben wir es noch mal mit einer Lupe dargestellt, diesen Wert meinen wir jetzt, diesen Einstrahlungswert in Modulebene, auch Theorie, kommt aus einer Datenbank, kann man nicht wissen, ist reine Theorie. Nach der Inbetriebnahme ist immer noch dieser Zählerwert-Theorie, das ist sozusagen nicht der Punkt, sondern man nimmt jetzt reale Wetterdaten, jetzt wird es aufs Projekt angepasst, sozusagen die ganze Geschichte, und jetzt habe ich meinen Garantiewert, jetzt kann ich sagen, als Anlagenbetreiber, vor allem als Bank kann ich sagen, also das sind jetzt reale Daten von eurer Anlage, ich simuliere jetzt die Zählerergebnisse und die müsst ihr dann auch einhalten.
+
+(0:08:36 - 0:09:30)
+Und jetzt machen wir das noch mal aber mit Excel. Ich, und zwar nehme ich die realen Werte aus dem Zähler, man muss schon mal aufpassen, dass man den richtigen Zähler nimmt, und auch, dass der richtig gezählt hat, die nehme ich jetzt, das ist der große Unterschied zu dem zweiten Schritt, und ich nehme die gleichen realen Einstrahlungsdaten und komme jetzt auf hoffentlich größere Werte als im zweiten Schritt. Also finde ich, für alle, die das in ihren Projekten machen müssen, jetzt entscheidender Punkt, in zwei Stunden Bildern, Gerede und Gespiele ist das der entscheidende Punkt, ihr müsst sozusagen dafür sorgen, dass der PR, den ihr real in eurer Anlage habt, und ich habe gerade gesagt, der wird anders berechnet, mit realen Messdaten aus dem Zähler und aus dem Pyranometer, der muss größer sein als der, den ihr vertraglich garantiert, und unserer Logik nach, so kenne ich es, wird der meistens definiert, so wie ich es hier gezeigt habe.
+
+(0:09:30 - 0:09:53)
+PR-Garantie nimmt reale Wetterdaten aus dem Projekt, damit diese Unbekannte aus irgendwelchen Datenbanken wegfällt, und aber theoretische Ertragsberechnungen, weil das ist ja genau der Punkt, man soll ja einen theoretischen, realen Ertrag mit einem theoretischen vergleichen. Okay, das nehmen wir alle mal mit und üben es auch gleich in unserer Excel. Gleich, gleich ist es soweit.
+
+(0:09:54 - 0:12:29)
+Vorher zeige ich hier nochmal ein Rechenbeispiel, vielleicht erstmal jetzt also Theorie ohne Zahlen, jetzt schiebe ich einfach Zahlen rein, und dann macht ihr gleich das Ganze selber nochmal, um es zu festigen. So kann das so aussehen. So eine Excel, so eine Übersicht, so was auch immer, also ich habe den 22.10. letzten Jahres um 12 Uhr, wir haben Stundenwerte, wir haben es also schon in Stundenwerte gemittelt, 12 Uhr, und da habe ich jetzt GTI und GHI, Horizontal und Total, dann müsst ihr euch bitte gleich überlegen, welchen ihr nehmt. 
+
+Ich sage ja nur, oben in der Legende steht Einstrahlung in Modulebene, Horizontal ist jetzt erstmal nicht Modulebene. Also würde man diese zwei Strahlungswerte zumindest mit aufnehmen und dann den Eingangsenergiewert berechnen, deswegen Fragezeichen, den Zähler habe ich schon, das habe ich mir aus meinem Zähler rausgesucht, und dann kann ich den PR berechnen. Zeige ich nochmal kurz, relativ grundlegende Mathematik, also aus diesem Formelzeichen oben nehme ich mir jetzt erstmal den Zähler raus, den habe ich ja wirklich gemessen, das ist mein realer Wert, E-Zähler, 581 Kilowattpeak habe ich abgelesen, am besten automatisiert, sonst ist ja gleich schon der erste Fehler drin. 
+
+Und unten muss ich mir das jetzt nochmal ausrechnen, also ich nehme meine Anlagenleistung, das ist das P0, das multipliziere ich mit meinem GTI, 260,5 Watt pro Quadratmeter, das Ganze mal eine Stunde, ich habe es mir einfach gemacht, wenn das jetzt 5 Minuten werden, dann müsstet ihr aufpassen, dass das einen Faktor 12 noch mit drin hat, weil 5 Minuten 12 mal in eine Stunde passen. Aber wir machen es jetzt mit einer Stunde und dann teilen wir das Ganze durch 1000 Watt pro Quadratmeter, das ist dieses GIref, und dann kommt da was raus, 581 durch 717. Ich ziehe jetzt erstmal, das ist dann natürlich automatisiert gleich, dieses 717, Achtung, darüber, damit ist mein erstes Fragezeichen gelöst, dann rechne ich mir diesen Bruch aus, 81,8, das ist mein PR in dieser Stunde und jetzt kommt der entscheidende letzte Stritt, auf den ich mich immer freue, muss ich ehrlich sagen, in diesen Projekten, ist es jetzt soweit, hat es funktioniert, dafür, ah, das haben wir nicht mehr reingekriegt, dann nehme ich ein Beispiel an, jetzt wäre das für mich vielleicht so, die PR-Garantie, sieht man hier, lese ich im Vertrag nach, steht 81,0%, und jetzt bin ich heilfroh, weil ich bin mit 81,8 größer als das, was ich garantiere.

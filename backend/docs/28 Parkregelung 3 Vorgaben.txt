@@ -1,0 +1,433 @@
+(0:00:00 - 0:00:21)
+So, wir kommen zum Kapitel Vorgaben. Da habe ich jetzt auch eine halbe Stunde vorgesehen und da heißt es jetzt Fokus, Fokus, Fokus, weil wir gehen in die Norm 41.10. Und ja, ich habe unglaublich viel schon ausgefiltert. Es bleiben trotzdem ungefähr 20 oder 30 Seiten technischem Inhalt.
+
+(0:00:21 - 0:00:32)
+Das machen wir jetzt auch so. Wir haben das so, finde ich, dynamisch, wie es irgendwie geht, animiert, um sozusagen alle am Ball zu halten. Eine halbe Stunde kriege ich bitte eure Aufmerksamkeit jetzt für die Norm.
+
+(0:00:33 - 0:00:46)
+Dann machen wir auch eine Pause und dann gehen wir ja auch in so einen realen Test mal mit rein. Okay, also Startpunkt ist Erzeugungsanlagen. Kapitel 10 ist das in der 41.10. Also Kapitel 10.
+
+(0:00:46 - 0:00:57)
+Das liest sich bitte übers Wochenende jeder zu Hause einmal durch. Zumindest Teile davon, welchen sage ich gleich. Aber das ist das wichtigste Kapitel für uns Elektroplaner von Erzeugungsanlagen.
+
+(0:00:58 - 0:01:16)
+Und das geht los mit dem Kapitel 10.1 Allgemeines. Da habe ich ein paar wichtige für mich Punkte rausgeschrieben, die jetzt für den Regelungstest vielleicht noch nicht mal so relevant sind, aber die, die in Summe einfach für so eine Planung ganz wichtig sind. Also da steht drin, dass das für Erzeugungsanlagen gilt, aber auch für Mischanlagen.
+
+(0:01:16 - 0:01:29)
+Das ist ja dann auch für alle Dachplaner wichtig, dass das genannt wird hier. Also den Leuten, die diese Normen schreiben, ist das durchaus bewusst, dass es auch für Mischanlagen gibt und für Speicher. Ich würde sagen, dem Speicher gehört die Zukunft.
+
+(0:01:30 - 0:01:54)
+Dann steht da drin, ganz, ganz oben, dass der Anlagenbetreiber für die Regelung verantwortlich ist. Und da sage ich jetzt gleich mal für die Planung, für die Umsetzung, für die Prüfung, für die Erhaltung der Regelung. Das ist ausschließlich der Anlagenbetreiber, der dafür verantwortlich ist, nicht der Netzbetreiber oder der Direktvermarkter, sondern wenn ihr als Planer jetzt für den Betreiber das umsetzen müsst, ist das eure Verantwortung.
+
+(0:01:54 - 0:02:02)
+Das steht gleich oben im ersten Kapitel drin. Da steht auch drin, dass der Netzbetreiber trennen darf. Das könnte man über so ein zähler Lastabwurf machen.
+
+(0:02:02 - 0:02:15)
+Aber eine Limitierung der Leistung kann man eben auch über den Parkregler machen. Also da muss man sich nicht überlegen, wieso macht er das? Warum darf er das? Das steht in der 41 drin, so drin. So und dann kommt auch schon gleich am Anfang diese Spannungshaltung.
+
+(0:02:15 - 0:02:39)
+Da kommt die Waage wieder, die ich vorhin gezeigt habe. Also Spannungshaltung ist Pflicht, steht da drin, weil wir unsere Netze auch in der Zukunft mit 100 Prozent erneuerbaren stabil halten wollen und müssen. Und deswegen ist hier die absolute Basis der Pyramide sozusagen, dass erst mal der der Normengeber sagt, dass die Spannungshaltung verpflichtend ist.
+
+(0:02:39 - 0:02:47)
+Das machen wir also nicht zum Spaß, sondern wir müssen das. Und es gibt zwei verschiedene Spannungshaltungen, dynamische und statische. Zeige ich später nochmal ganz kurz, was das ist.
+
+(0:02:47 - 0:02:59)
+Heute geht es um die, ja man muss es sich selber überlegen. Heute geht es um die statische und die dynamische machen wir dann in einem anderen Brainday. Also das steht so bei Allgemeines drin.
+
+(0:02:59 - 0:03:07)
+Jetzt könnt ihr euch links schon vorstellen. Da gibt es jetzt mehrere Kapitel, die da jetzt kolgen. 10.2 ist das Verhalten der Erzeugungsanlage am Netz.
+
+(0:03:08 - 0:03:15)
+Sage ich gleich mehr dazu. 10.3 ist Schutztechnik, da haben wir glaube ich vier oder fünf Braindays dazu. Aber die folgen dann auch dieser Norm.
+
+(0:03:15 - 0:03:24)
+Dann die 10.4 sind Zuschaltbedingungen. Wann darf ich überhaupt einschalten? 10.5 ist weitere Anforderungen. Da gehen wir heute auf gar keinen Fall darauf ein.
+
+(0:03:24 - 0:03:43)
+Und 10.6 habe ich der Form halber mit reingenommen, damit man mal sieht, wo sozusagen die Vorgaben der Regelungstechnik überhaupt herkommen. 10.6 ist Modelle. Da geht es darum, dass solche Parkregler auch mit Software nachgebildet werden, damit man das alles in theoretischen Netzberechnungen vorrechnen kann, muss man sagen.
+
+(0:03:43 - 0:03:57)
+Man rechnet es ja vorher, bevor man es umsetzt. Und deswegen müssen die, das steht da drin, alle Parkregler auch simulationsfähige Modelle zur Verfügung stellen können. So und worauf wollte ich eigentlich hinaus? Ich will darauf hinaus.
+
+(0:03:57 - 0:04:04)
+Heute geht es um die 10.2. Die anderen graue ich aus. Die machen wir ein andern Mal. Die sind genauso interessant und wichtig.
+
+(0:04:04 - 0:04:19)
+Aber Verhalten der Erzeugungsanlage im Netz. Kapitel 10.2. Da steht das alles drin, wie man eigentlich so ein Parkregler umsetzt, wie man ihn parametriert und wie man ihn am Ende testen sollte. Gibt es auch wieder Kapitelunterteilung.
+
+(0:04:20 - 0:04:33)
+Die gehen wir jetzt akribisch und aufmerksam durch. Beim Allgemeinen steht erst mal drin, dass das Primärenergieangebot nicht beeinflussbar ist. Als ich es gelesen habe, habe ich mich kurz gefragt, was die damit meinen.
+
+(0:04:33 - 0:04:44)
+Ich fand es aber im Nachgang sehr interessant. Also auch da ist dem Normgeber sehr bewusst, dass es sich um fluktuative Energieformen handelt. Wind, Wasser, Solar.
+
+(0:04:45 - 0:04:58)
+Das heißt, man kann nicht beeinflussen, wie das Primärenergie, also ob die Sonne scheint oder nicht. Das sehen wir später bei dem Wirkleistungstest, weil der soll bei relativ hohen Einstrahlungen, bei hohen Energiewerten, bei hohen Leistungsdaten gemacht werden. Und das ist nicht beeinflussbar.
+
+(0:04:58 - 0:05:11)
+Das ist denen auch klar. Deswegen haben sie es gleich am Anfang reingeschrieben. Da kann man sich zum Beispiel darauf berufen, wenn man diesen Parkregler-Test nicht hinkriegt, weil man mitten im Winter ist und dann überhaupt keine Einstrahlung und dementsprechend diese Regelungstests nicht machen kann.
+
+(0:05:11 - 0:05:32)
+Dann kann man sich gleich hier auf Kapitel Allgemeines beziehen und sagen, ich mache das dann im Sommer. So, dann steht da drin, dass man einen quasi stationären Betrieb in definierten Bereichen erforderlich ist. Was meine ich damit? Wir gehen ja jetzt später ins Detail, wie ich regle, also welche Kenndaten ich dazu angeben muss.
+
+(0:05:33 - 0:05:52)
+Und dazu muss man aber wissen, dass die in bestimmten Bereichen nur zu regeln haben. Also was ist denn überhaupt der Bereich, in dem ich meinen Wechselrichter abfahren können muss? Und das steht gleich am Anfang drin. Dafür gibt es sozusagen wiederum definierte Bereiche, die abhängig sind von verschiedenen Größen, zum Beispiel der Anlagengröße selbst.
+
+(0:05:53 - 0:06:05)
+Dann steht drin, dass man unseren Betrieb durchaus machen kann, ist aber genehmigungspflichtig, bei unseren Projekten bisher nicht relevant. Schwarzstartfähigkeit ist nicht erforderlich. Das steht da erst mal so drin.
+
+(0:06:07 - 0:06:14)
+So, dann kommt das nächste Kapitel. Da kommen wir jetzt schon zur Spannungshaltung. Darum geht es ja heute zu 50 Prozent.
+
+(0:06:14 - 0:06:25)
+Wer sich am Anfang gemerkt hat, wird jetzt erinnert sein. Also statische Spannungshaltung, Schrägstrich Blindleistungsbereitstellung. Sie benennen es in der Norm ja sogar so, wie ich es oben schon erklärt habe.
+
+(0:06:26 - 0:06:40)
+Also wenn jetzt langsame, das ist wichtig, langsame Spannungsänderungen im Netz stattfinden, dann soll die Anlage Blindleistung bereitstellen. Und natürlich in die richtige Richtung. Damit die Richtung stimmt, geben Sie hier das Verbraucherzellpfeilsystem an.
+
+(0:06:41 - 0:06:55)
+Haben wir auch in einem anderen Brainday mal erklärt, wie man diese Zellpfeilsysteme drehen kann oder definieren kann. Also hier wird es definiert. Der Export ist in Quadrant 2 und 3 unterregt, überregt definiert.
+
+(0:06:55 - 0:07:06)
+Extrem hilfreich. Ich glaube, ich habe es auch schon ein, zwei Mal gesagt. Wenn man also bei der Inbetriebnahme feststellt, dass man eine negative Wirkleistung hat, dann ist alles richtig.
+
+(0:07:06 - 0:07:22)
+Weil nach dem Verbraucherzellpfeilsystem wir sozusagen bei Einspeisen ins Netz nun mal ein Minus als Vorzeichen haben sollen. So steht es hier drin. Genau, dann ist die Spannungshaltung an sich abhängig von der installierten Wirkleistung.
+
+(0:07:22 - 0:07:28)
+Das wird bei Netzberechnungen wichtig. Das macht die Zertifizierstelle. Aber man kann es auch selber machen.
+
+(0:07:28 - 0:07:37)
+Man kann sie selber ausrechnen, welchen Bereichen man überhaupt fahren muss. Das ist eben abhängig von der installierten Wirkleistung. Und dann gibt es vier verschiedene Verfahren.
+
+(0:07:37 - 0:07:55)
+Das wird das Kernthema jetzt der nächsten 20 Minuten sein. Die zeige ich euch, diese vier, weil daraus kann der Netzbetreiber auswählen von diesen vier für die statische Spannungshaltung erst mal. So, wenn wir in das Kapitel reingehen, erst mal so allgemeine Sachen, bevor ich dann die vier Verfahren mal kurz zeige.
+
+(0:07:56 - 0:08:08)
+Grundsätzlich steht hier nochmal, dass der Anlagenbetreiber verantwortlich ist. Jetzt explizit für den Nachweis. Also wenn wir diesen Regelungstest machen, machen wir das nicht, weil wir es für sinnvoll halten, sondern weil wir es müssen und für sinnvoll halten.
+
+(0:08:10 - 0:08:16)
+Dann steht da drin, dass der Netzanschlusspunkt der Bezugspunkt ist. Ich nehme es vorweg. Wir haben ja auch immer Teilnehmer hier aus Mischanlagen.
+
+(0:08:17 - 0:08:35)
+Also sind meistens Dachanlagen, denke ich. Und auch darauf wird eingegangen in der Norm in der 4110. Da steht drin, dass es bei Mischanlagen abgestimmt werden kann mit dem Netzbetreiber, weil dann ist es sicherlich nicht sinnvoll, am Netzverknüpfungspunkt zu regeln, sondern dann kann man andere Punkte in dem System definieren.
+
+(0:08:35 - 0:08:44)
+Da steht dann auch drin, dass was passieren soll, wenn der Parkregler mal ausfällt, kann ja passieren. Das muss auch getestet werden. Also einfacher Fall nach vier Jahren.
+
+(0:08:45 - 0:08:55)
+Alles läuft wunderbar. Funktioniert der Regler einfach mal nicht und dann darf die Anlage nicht machen, was sie will, sondern es wird definiert. Es gibt mehrere Möglichkeiten.
+
+(0:08:55 - 0:09:06)
+Zum Beispiel die Anlage soll mit dem letzten erhaltenen Wert weiterfahren. Dann steht das hier drin und das muss auch getestet werden. Dann habe ich hier mal reingeschrieben, dass es eine sogenannte Umschaltung gibt.
+
+(0:09:07 - 0:09:24)
+Das ist auch üblich so. Also diese vier Verfahren, die wir oben sehen, die muss man nicht starr vorgeben und sich einmal entscheiden und den Rest des Anlagenlebens ist das dann so. Sondern man kann über das Gateway, über die Ansteuerung der Anlage auch umschalten zwischen den Verfahren.
+
+(0:09:24 - 0:09:46)
+So und dann steht da drin, dass die Regelung dem sogenannten PT1-Verhalten folgen soll. Für alle die, die das mal in der Uni hatten oder irgendwie sich vielleicht sogar hatten und noch daran erinnern können, ist das jetzt vielleicht ein bisschen langweilig. Für alle anderen zeige ich das jetzt einmal, weil das in den Regelungstests dann einfach wichtig ist und weil man das auch sehen kann.
+
+(0:09:46 - 0:09:57)
+Jetzt gehen wir schon ein bisschen ins Detail und deswegen nehmen wir uns so eine typische Kennlinie schon gleich her. Also wir haben die Zeitachse und wir haben eine sogenannte normierte Sprunghöhe. Was damit gemeint ist, zeige ich gleich.
+
+(0:09:57 - 0:10:06)
+Das ist also der Sprung des Sollwertes. Dann nehmen wir uns jetzt einfach mal ein Beispiel her. Also das Gateway, der PVA, gibt jetzt einen Sollwert vor.
+
+(0:10:06 - 0:10:17)
+Ich habe es nicht hingeschrieben, aber dann sage ich es jetzt einfach Wirkleistung 30 Prozent. Gehe ich jetzt mal als Beispiel so vor. Und jetzt normiert gesehen ist das dann sozusagen die 1 in der Achse.
+
+(0:10:17 - 0:10:30)
+Und das in orange gestrichelt ist jetzt unser Sollwertsprung. Also bei 0 Sekunden zack geht es hoch von 0 auf 1 bezogen auf den Sollwert. Und jetzt passiert in der Anlage folgendes.
+
+(0:10:31 - 0:10:42)
+Die Anlage regelt hinterher, dass es der grüne Wert, das ist der Istwert der Anlage auch wieder normiert. Deswegen ist das jetzt für alle Angaben richtig so. Und das, was wir hier sehen, ist ein sogenanntes PT1 Verhalten.
+
+(0:10:43 - 0:10:52)
+Also der Istwert des Wechselrichters folgt mit einem PT1 Verhalten. So steht das in der 4110 drin, habe ich ja gerade gesagt. So wird das dann auch zertifiziert.
+
+(0:10:53 - 0:11:05)
+Einheiten Zertifikate der Wechselrichter, Komponenten Zertifikat des Parkreglers. Da gucken die dann genau darauf, dass die das dann eben auch in dieser Weise ausführen. Bedeutet schrittweise und zeitverzögert.
+
+(0:11:05 - 0:11:14)
+Zeitverzögert finde ich, kann man sich ganz leicht vorstellen. Also das dauert ein bisschen, bis es passiert ist. Und schrittweise bedeutet das Gleiche auf der anderen Achse gespiegelt.
+
+(0:11:14 - 0:11:27)
+Also der springt nicht von 0 auf 1, sondern der läuft sozusagen ja langsam alle Zwischenbereiche einmal durch. So und dann gebe ich hier mal ein Beispiel rein. Die Zeitkonstante Tau ist wichtig.
+
+(0:11:27 - 0:11:36)
+Man sieht sie jetzt schon im Bild. Und die erste Konstante, die ich da reingezeichnet habe, steht bei 3,3 Sekunden. Das ist jetzt ein Beispiel, das wir so sehen.
+
+(0:11:36 - 0:11:43)
+Aber das kommt eben auch als Beispiel in der 4110. Das wird ganz oft so verwendet. Also 3,3 Sekunden ist gleich Tau.
+
+(0:11:43 - 0:11:56)
+Aber was bedeutet Tau? Da habe ich es hingeschrieben. Nach 3,3 Sekunden muss jetzt die Anlage 63 Prozent seines Sollwerts erreicht haben. Das ist sozusagen die erste Grundregel von PT1.
+
+(0:11:56 - 0:12:14)
+Und die zweite ist, dass es bei 3 Tau dann bei 95 Prozent sein muss. Das ist der zweite gestrichelte Bereich, den man hier sehen kann. Und auf diese Weise wird sozusagen mathematisch, ich nenne es mal die Regelgeschwindigkeit definiert.
+
+(0:12:14 - 0:12:19)
+Und dieses Tau, das ist variabel. Wir werden es später im R8-Bogen sehen. Man sieht es auch in den Tabs.
+
+(0:12:19 - 0:12:30)
+Man sieht es in der 4110. Also ihr oder spätestens derjenige, der die Parkregelung testet, muss dieses Tau wissen. Meinetwegen als Beispiel hier Tau gleich 3,3 Sekunden.
+
+(0:12:30 - 0:12:44)
+Diesen Wert muss man kennen. So jetzt haben wir hier, das haben wir hier nochmal anders dargestellt, aber das gleiche Prinzip. Also 63 Prozent ein Tau und bei 3 Tau 95 Prozent.
+
+(0:12:45 - 0:12:58)
+Jetzt habe ich unten in grün mal die Zeiten verändert, weil ich sage, ja, das Tau ist variabel und so würde sich das dann auswirken. Also wir haben jetzt Tau von 3,3 Sekunden auf 5 verändert. Und das wäre die Auswirkung.
+
+(0:12:58 - 0:13:11)
+Man kann es auch anders sagen. Die Regelgeschwindigkeit ist geringer beziehungsweise der Wechselrichter braucht jetzt länger, um den Sollwert zu erreichen. So dafür gibt es dann auch Toleranzen.
+
+(0:13:11 - 0:13:18)
+Das ist auch mit allen so, was man da so abgebildet hat. Hier haben wir die nochmal reingeschrieben. Auf die will ich jetzt nicht weiter eingehen.
+
+(0:13:18 - 0:13:31)
+Grundsätzlich stehen in den TABs und in der 41, in der Anwendungsrichtlinie auch die Toleranzen. Wenn man so einen Test wirklich bis zum Ende durchführt und bewerten will, muss man die kennen. Deswegen haben wir sie hier mal so reingezeichnet.
+
+(0:13:31 - 0:13:44)
+Aber das gilt für alle Prüfungen. Man muss Toleranzen definieren, sonst kann man den Ergebnis nicht bewerten. So, das war so ein PT1-Verhalten.
+
+(0:13:44 - 0:13:52)
+Ich bin einfach nochmal zurückgesprungen in die Übersicht, die ich vorher hatte. Das war der letzte Punkt unten. Also jetzt hat man, glaube ich, das PT1-Verhalten so ein bisschen verstanden.
+
+(0:13:52 - 0:14:07)
+So würde also der Wechselrichter, ist es ja bei uns, jetzt der Regelungsvorgabe folgen. So, das war das Kapitel Allgemein. Wir gehen ins nächste Kapitel.
+
+(0:14:07 - 0:14:21)
+Und das ist jetzt endlich mal das erste Verfahren. Ehrlich gesagt soll das unbedingt jetzt der Kern sein und im heutigen Brain Day. Diese vier A-Bis-D-Verfahren sind im Grunde das Ziel, wo wir hinsteuern wollen.
+
+(0:14:22 - 0:14:36)
+Wenn der eine oder andere jetzt noch nicht diese vier Kennlinien so gut kennt oder halt noch nie davon gehört hat, aber ab heute Nachmittag da mitreden kann, dann haben wir, finde ich, unser Ziel erreicht. Das ist das Kernthema. Vorher haben wir jetzt hingeführt, sage ich mal.
+
+(0:14:36 - 0:14:58)
+Und wenn ich die vier jetzt in der Viertelstunde durch habe, würden wir nach der Pause genau weiter über diese vier sprechen und da ins Detail gehen und ein bisschen üben. Deswegen jetzt aufpassen, damit man später dann in der Übung der Erste ist, der das Ergebnis kennt. A ist die Blindleistungsspannungskennlinie Q von U. Die heißen jetzt alle ziemlich ähnlich.
+
+(0:14:58 - 0:15:14)
+Deswegen ist das wichtig, auf die Details zu achten. Also Q von U ist die erste Variante. Nehmen wir uns als X-Achse jetzt U und als Y-Achsache logischerweise Q, weil genau diese Relation, ja, diese Kennlinie definiert.
+
+(0:15:15 - 0:15:35)
+Jetzt schreiben wir uns das in fast schon gewohnter Weise auch noch mal in tabellarischer Form oben mit und bauen sozusagen so langsam mal so eine typische Kennlinie auf. Auch noch mal der Hinweis, das ist jetzt aus der 41.10 so genau rausgenommen. Also als Erstes habe ich oben die 0,33 da mal reingeschrieben.
+
+(0:15:35 - 0:15:46)
+Also dieses Verhältnis Qmax zu installierter Wirkleistung. Das macht man absichtlich so, weil jede Anlage ist ja unterschiedlich groß. Das heißt, hier normiert man das Ganze auf die installierte Wirkleistung.
+
+(0:15:47 - 0:15:54)
+So muss man sich die Diagramme immer vorstellen. Ist jetzt der erste Wert 0,33. Das hat auch einen Grund, dass das so ist.
+
+(0:15:54 - 0:16:09)
+Auf den gehen wir jetzt aber nicht ein, sondern jetzt nehmen wir es einfach mal so hin, dass also der maximale Wert, den die, den ich untererregte Blindleistung liefern muss, ist 0,33. So geht das erst mal los. Da ist oben sozusagen mein Limit drin.
+
+(0:16:10 - 0:16:25)
+Und ich sage es noch mal, das sind normierte Werte. Also wenn man das jetzt gerne ja dann später mal auf sein aktuelles Projekt umrechnen will, dann klar, das muss man jetzt einfach multiplizieren mit seinen drei Megawatt zu Hause und dann stehen da ja tatsächliche Blindleistungswerte. Unten ist es das Gleiche.
+
+(0:16:25 - 0:16:33)
+Das ist normiert auf UC. Das UC kommt aus dem Datenabfragebogen. E8 könnten zum Beispiel 30 KV sein, jetzt nur als Beispiel.
+
+(0:16:33 - 0:16:43)
+Und dann wäre bei U zu UC gleich eins werden 30 KV dann richtig. Also könnte man seine Achse dann beschriften. Wir machen das absichtlich nicht, weil wir es ja allgemein halten wollen.
+
+(0:16:45 - 0:16:58)
+So der nächste Punkt, den ich mit reinführe, ist jetzt die maximale Spannung. Also max bezogen auf UC. Das ist jetzt der Wert, an dem bis bis dahin sich die Kennlinie verändern soll.
+
+(0:16:58 - 0:17:07)
+Also der maximale Spannungswert. Da nehmen wir jetzt 1,04, also 4 Prozent höher als die Nennspannung. Und schon haben wir unseren ersten Punkt.
+
+(0:17:08 - 0:17:12)
+Da ist er in Orange. Also so würde der jetzt definiert werden. Diese zwei Angaben brauchen wir.
+
+(0:17:12 - 0:17:22)
+Dann haben wir den ersten Punkt unserer Kennlinie definiert. Und dann macht die Norm das so, dass sie sozusagen den Nulldurchgang der X-Achse definiert. Also an der Stelle, an der keine Blindleistung geliefert werden soll.
+
+(0:17:22 - 0:17:34)
+Also weder kapazitiv noch induktiv, weder unterregt noch überregt. Dieser Punkt nennt sich UQ0, auch wieder normiert auf UC. Also wenn der Wert 1 ist, dann schneiden wir die X-Achse.
+
+(0:17:34 - 0:17:45)
+Und an der Stelle gibt es keine Blindleistung. Das ist der zweite Punkt, der definiert wird. Und jetzt sagt die Norm, na gut, wenn du zwei Punkte definiert hast und du sollst eine Kennlinie, eine Gerade bauen, dann reicht das jetzt schon.
+
+(0:17:46 - 0:17:55)
+Weil du kannst jetzt, da müsst ihr mir vertrauen, ihr könnt es aber auch mal nachrechnen. Aus den zwei Punkten eine Steigung berechnen und zack kann man hier seine Linie durchführen. Genauso wird das gemacht.
+
+(0:17:56 - 0:18:06)
+So wird das auch in den Parkreglern dann hinterlegt. Man braucht nur diese zwei Punkte Maximalpunkt und Nulldurchgang. Damit hat man die Kennlinie und beim Maximalwert sowohl oben als auch unten knickt das ja dann ab.
+
+(0:18:07 - 0:18:17)
+Weil wie gesagt, das sind die maximalen Werte. Mehr Blindleistung müssen wir ja nicht zur Verfügung stellen. So, dann würde man noch von einem Totband sprechen, das brauchen wir später in der Übung hier erst mal nicht.
+
+(0:18:17 - 0:18:32)
+Also der Wechselregler, der Parkregler, glaube ich, wird relativ verrückt, wenn er wirklich bei jeder Mikrowoltänderung reagieren müsste. Deswegen werden Totbänder, so heißt das, definiert. Und in diesem Bereich würde er dann noch nicht reagieren müssen.
+
+(0:18:32 - 0:18:43)
+Erst wenn man sozusagen über so einen gewissen Wert, über so einen Schwellwert springt, dann wird er gegensteuern. So, und dann gibt es noch eine Möglichkeit, das ist der dritte Wert. Bitte merken, weil die brauchen wir ja.
+
+(0:18:43 - 0:19:01)
+Also den ersten, das war jetzt diese 0,33, dann die 1,04, dann die 1,0 und jetzt kommt dieses Verhältnis nochmal anders dargestellt. Nur als Beispiel, dieses UQ0 habe ich jetzt verschoben. Jetzt ist es nicht mehr 1,0, sondern jetzt wäre es zum Beispiel in R8-Bogen 0,98.
+
+(0:19:01 - 0:19:15)
+Zack, dann schiebt sich diese Kennlinie darüber und dann würde jetzt der Parkregler dafür sorgen, dass die Wechselrichter auf dieser verschobenen Kennlinie steuern. So, zack, da haben wir unseren Pfeil drin. Alles klar, das war eins von vier.
+
+(0:19:15 - 0:19:24)
+Wir gehen zur nächsten Möglichkeit. Neues Projekt, jetzt wird endlich mal was anderes angekreuzt im R8-Bogen. Und zwar diese Kennlinie hier jetzt.
+
+(0:19:24 - 0:19:42)
+Blindleistung als Funktion der Wirkleistung sieht ein bisschen ähnlich aus. Gerade hatten wir Q von U, jetzt ist es Q von P. Also ist die X-Achse jetzt P, auch wieder normiert auf die installierte Leistung. Wir haben es aktuelle Wirkleistung genannt und da haben wir dann den Sollwert der Blindleistung.
+
+(0:19:42 - 0:19:47)
+Wir machen das gleiche Spiel. Oben setze ich die hin, auch wieder normiert. Und da haben wir schon unseren ersten Punkt.
+
+(0:19:48 - 0:19:58)
+So wird der nämlich dann im R8-Bogen oder in der Norm definiert. Also jetzt kommt auf dieser Kennlinie ein ähnliches Prinzip. Werden Punkte definiert, das wäre mal der erste.
+
+(0:19:59 - 0:20:06)
+Dann führen wir weiter. Den zweiten Punkt haben wir auch vorgegeben bekommen. Das wäre jetzt der bei minus 0,9 und die Linie.
+
+(0:20:06 - 0:20:15)
+Das ist die Kennlinie, auf der der Wechselrichter fahren wird. Ziehe ich einfach mit. Jetzt ist jeder Punkt so ein bisschen anders.
+
+(0:20:16 - 0:20:27)
+Aber das Prinzip ist immer das gleiche. Also wenn ich einfach diese Punkte weiterfahre, auf so einer typischen Kennlinie, dann würde das so aussehen. Toleranzband haben wir auch gleich mit reingenommen.
+
+(0:20:28 - 0:20:42)
+Typischer Wert ist 2%. Ich glaube, es ist auch so, dass wenn der Netzbetreiber nichts Neues oder Aktuelles aus der TAP zum Beispiel vorgibt, dann gelten die nach 41.10 und das wären 2%. Kann man sich auch für später nochmal merken.
+
+(0:20:43 - 0:20:45)
+Typischer Wert. Ich habe es schon mal gesagt. Ich finde das ganz wichtig.
+
+(0:20:46 - 0:21:01)
+Egal welches Prüfprotokoll man bekommt, man muss sich vorher am besten die Sollwerte und die Toleranzen überlegen. Sonst kann man Ergebnisse nicht bewerten. Und dann haben wir noch den zulässigen Bereiche reingemacht, weil das die Norm auch so macht.
+
+(0:21:01 - 0:21:17)
+Also man sieht schon mal, der Wechselrichter muss natürlich nur das können, also in projektspezifisch, was er auch grundsätzlich abfahren können muss. Dann haben wir den Rest der Tabelle noch mit reingenommen. Das war der zweite Streich.
+
+(0:21:17 - 0:21:34)
+Wir gehen weiter zu C. Die sogenannte Blindleistung mit Spannungsbegrenzungsfunktion. Da habe ich das erst mal jetzt für sich alleine so reingenommen, damit man es, damit man nicht überladen ist und das vielleicht erst mal sacken lassen kann. Also da steht das auch extra so drin.
+
+(0:21:34 - 0:21:52)
+Die Idee ist jetzt hier, dass es unabhängig ist von der aktuellen Wirkleistung. Das sieht man am besten dann auch wieder an so einer Kennlinie. Also wir haben hier wieder eine Spannung, sozusagen, die jetzt die Logik des Sollwertes vorgibt.
+
+(0:21:52 - 0:22:12)
+Und dann wieder unsere gewohnte Blindleistungsachse. Wieder die 0,33. Wäre meinetwegen die Hausaufgabe rauszufinden, warum der Wert genau so ist, wie er so ist. 
+
+Er ist richtig. Erklären wir aber ein anderes Mal. Die Werte wieder oben aus der Tabelle als Beispiel 0,94 und minus 0,33.
+
+(0:22:13 - 0:22:24)
+Gerne in aller Ruhe nochmal. Das kommt genau so dann aus dem E8-Bogen. Also wenn das da irgendwo nicht drinsteht, dann muss man das hinterfragen, warum es vielleicht vergessen wurde.
+
+(0:22:24 - 0:22:31)
+Diese Werte müsst ihr bekommen. Die müsst nicht ihr definieren. Und wenn ihr das erstmal gekriegt habt, dann sieht das vielleicht so aus.
+
+(0:22:31 - 0:22:41)
+Also 0,94, das war links unten der erste Kennwert. 0,96 ist der zweite. Dann 1,04 und dann 1,06.
+
+(0:22:41 - 0:23:04)
+Da sieht man schon einfach nur mit einer Kennlinie, so wie man es bei der Variante A hat, würde das hier nicht gehen. Deswegen werden hier Punkte vorgegeben, in dem Fall vier Stück. Also in dem Fall müsste jetzt der Wechselrichter erst Blindleistung liefern, wenn er außerhalb dieses 4 Prozent ist, das ja jetzt in dem Fall Spannungsbandes ist, erst danach muss er richtig loslegen.
+
+(0:23:04 - 0:23:22)
+Das ist so der große Unterschied zur Variante A. So und auch da gibt es dann wieder eine Möglichkeit, die Kennlinie zu verschieben. Diesmal aber in Richtung der Y-Achse. Das macht man mit diesem Qref-Wert.
+
+(0:23:22 - 0:23:43)
+Den würde man also auch im Parkregler genauso eintippen können. Also wenn man sagt, man will oder der Netzbetreiber will die Kennlinien nicht auf der Y-Achse am Wert 0 Blindleistung fahren, dann kann er das verschieben, sowohl in den unterregten Bereich als auch in den überregten Bereich. Das ist abhängig von seinem Netz.
+
+(0:23:44 - 0:24:03)
+Ich denke, das ist abhängig von den Lasten, die er da so hat in seinem Netzbereich. Und demzufolge kann er Netz abhängig, sozusagen Netzteil abhängig definieren, in welche Richtung er Unterstützung braucht. Und dann würde er das nach oben oder nach unten vorgeben über diesen Qref bezogen auf die installierte Wirkleistung.
+
+(0:24:05 - 0:24:16)
+So, das ist der Punkt C. Und dann haben wir noch den letzten. Das ist auch der einfachste, finde ich. Also wenn der kommt, dann muss man gar nicht groß nachdenken.
+
+(0:24:16 - 0:24:33)
+Das ist nämlich ein fester Cosinus 4. Wir haben trotzdem Diagramm draus gemacht, damit man jetzt irgendwie in der Logik alle vier Diagramme mal gesehen hat. Also das wäre jetzt ehrlich gesagt nur eine Kennlinie. Der ist unabhängig von aktueller Spannung und auch unabhängig von aktueller Leistung.
+
+(0:24:33 - 0:24:52)
+Das gleiche Prinzip ist aber auch hier bezogen auf diese maximalen Bereiche. Also der Wechselrichter muss nicht alles können, sondern da gibt es Vorgaben, die man über den Y-Achtbogen dann auch erhält und die Zertifizierstelle überprüft und jede Netzberechnung auch so ausrechnen kann. Und das haben wir hier gestrichelt, wieder reingerechnet.
+
+(0:24:52 - 0:25:29)
+Also in diesem Bereich kann der Netzbetreiber vorgeben, was er will. Und wenn er das jetzt eben festmacht mit Cosinus 4 gleich 1 zum Beispiel, dann, ne Entschuldigung, das wollte ich hier nicht darstellen, sondern im Beispiel 0,95, wenn man das jetzt zum Beispiel macht, wie man hier sehen kann auf der Linie mit Cosinus 4 gleich 0,95, dann würde das jetzt so aussehen. Was ich oben noch mit reingenommen habe, ist, wenn es überhaupt keine Vorgabe gibt über diesen Wert, dann steht in der 41 explizit drin, kann man den Cosinus 4 gleich 1 wählen und dann würde der hier einfach an der anderen Stelle die Linie sehen.
+
+(0:25:30 - 0:25:49)
+Die Verschiebung ist auch hier wieder möglich, jederzeit und in alle in dem Bereich definierten Richtungen. Also eine moderne Fernbürgtechnik kann das. Die übermittelt hatten wir auch in einem anderen Brain Day über einen Datenpunkt einfach diesen Cosinus 4 Wert und jetzt mal alle vier zusammengefasst.
+
+(0:25:49 - 0:26:07)
+Diese vier Varianten wäre es so. Der Netzbetreiber kann über seine, über sein Gateway, über seine Fernsteuerung sowohl zwischen den verschiedenen Varianten hin und her schalten, als auch dann noch in diesen Varianten die Parameter ändern. Zum Beispiel den Cosinus 4 könnte er also verstellen.
+
+(0:26:08 - 0:26:20)
+So, da sind auch Fehler-Toleranzen vorgegeben. Ich merke mir immer die 2 %, mit denen kann man schon mal nichts falsch machen. Das war das zweite Kapitel.
+
+(0:26:20 - 0:26:38)
+Ich versichere euch, die anderen gehen deutlich schneller, weil wir nämlich zum Beispiel bei der dynamischen Netzstützung uns jetzt nur diese Bullet Points angucken und dann nicht ins Detail gehen. Das machen wir in einem anderen Brain Day. Das ist ein ganz anderes Thema, ist für die Parkregelung jetzt hier, so wie wir sie heute machen, nicht relevant.
+
+(0:26:38 - 0:27:02)
+Ich sage nur, was drinsteht. Also die dynamische Netzstützung bezieht sich gegenüber der statischen Spannungshaltung, wie wir sie gerade hatten, darauf, dass es bei kurzzeitigen Spannungseinbrüchen keine Abschaltung geben darf. Kann auch sagen, dass es dieser Fault Right Through, FRT, dass die sowohl über als auch unter Spannungsverhalten im Netz durchfahren müssen, die Wechselrichter.
+
+(0:27:02 - 0:27:16)
+Man will nicht, dass die PV-Anlagen oder die Windanlagen sich vom Netz trennen, wenn es zu kurzzeitigen Spannungseinbrüchen kommt. Das ist also dynamische Netzstützung und gleichzeitig deswegen Stützung. Also dynamisch ist das, was ich gerade erzählt hatte.
+
+(0:27:16 - 0:27:47)
+Der zweite Teil Netzstützung bezieht sich darauf, dass, wenn das so ist, dann muss die Wechselrichter Blindleistung liefern, um halt mitzuhelfen, sozusagen den Fehler zu bereinigen, das Netz zu stabilisieren. Und weil wir ja heute über die Spannung, statische Spannungshaltung sprechen, den Punkt mit reingenommen. Also da steht drin, dass die dynamische, nicht die statische unterlaufen darf, sozusagen es darf es nicht beeinflussen.
+
+(0:27:47 - 0:27:59)
+So, dann kommen wir zum Kapitel Wirkleistungsabgabe. Das ist zweigeteilt. Der erste Punkt nennt sich Netzsicherheitsmanagement und auf den gehen wir jetzt noch fünf Minuten ein, weil der wird in einem Regelungstest auch abgeprüft.
+
+(0:28:00 - 0:28:10)
+Der zweite Teil wird nicht abgeprüft, deswegen gehen wir heute nicht darauf ein. Aber Netzsicherheitsmanagement, ja. Wo kommt das eigentlich her? Weil jetzt sind wir ja bei der Wirkleistungsregelung.
+
+(0:28:10 - 0:28:21)
+Wirkleistung ist vergütungsrelevant. Deswegen habe ich das ENWG da mit reingeschrieben. Da kommt das her, dass das zulässig ist, dass die Netzbetreiber die Wirkleistung abregeln dürfen.
+
+(0:28:22 - 0:28:29)
+Und wichtig, bei Mischanlagen steht auch wieder extra drin. Es geht um die Regelung der PV-Anlage. Das ist, finde ich, wichtig.
+
+(0:28:30 - 0:28:43)
+Es kann ja sein, dass eine Mischanlage mehr Verbrauch hat als Erzeugung. Dann gilt das aber trotzdem. Die Anlage darf trotzdem abgeregelt werden, auch wenn am Netzverknüpfungspunkt vielleicht ja gar nichts ankommt oder sogar Bezug herrscht.
+
+(0:28:44 - 0:28:50)
+So, und jetzt kommt das vom Direktvermarkter. Das hatte ich am Anfang schon. Bei mehreren Teilnehmern gilt der betragsmäßig kleinste Wert.
+
+(0:28:50 - 0:29:09)
+Finde ich auch interessant. Wir regeln, sage ich mal, in der Rangordnung nur nach unten. Das heißt, wenn der Direktvermarkter 30 Prozent grad vorgibt, weil der Strom halt gerade nicht teuer ist oder auf 0 Prozent sogar regelt ist, dann hat der Vorfahrt vom Netzbetreiber, der ja vielleicht nur auf 30 Prozent sendet.
+
+(0:29:10 - 0:29:18)
+Und auch wichtiger Punkt, zertifizierrelevant. Wir müssen diese Daten über 18 Monate speichern. Ich finde, in dem Kontext kann man sich vorstellen, warum das so ist.
+
+(0:29:18 - 0:29:35)
+Also wir müssen nachweisen können, wer hat denn da überhaupt geregelt? Ist es der Netzbetreiber oder der Direktvermarkter? Wenn es der Direktvermarkter macht, dann dürfen wir uns nicht beschweren beim Netzbetreiber. Wenn es der Netzbetreiber macht, dann hat man Anspruch auf die Differenz der Vergütung. Deswegen 18 Monate speichern.
+
+(0:29:35 - 0:29:49)
+Da ist man nachweispflichtig. So, wie sieht das aus? Das machen wir jetzt relativ kurz, weil ich glaube, dass jeder das schon mal gesehen hat und ansonsten ist es aber auch einfach nachzuvollziehen. Viel einfacher als vorhin, finde ich, die normierten Darstellungen.
+
+(0:29:49 - 0:29:58)
+Wir haben jetzt hier eine Zeitachse und wir haben die Wirkleistung. Um die geht es ja jetzt in Prozent. Und jetzt kommt mal der erste Soll hier unten in orange.
+
+(0:29:58 - 0:30:04)
+Die Vorgabe, der Sollwert 100 Prozent. So würde das aussehen. Zack, also über eine gewisse Zeit kommt das Signal 100 Prozent.
+
+(0:30:05 - 0:30:12)
+Jetzt sagt aber der Direktvermarkter oder der Netzbetreiber, ist egal. Als Beispiel. Man muss hier in Prozentstufen regeln können.
+
+(0:30:13 - 0:30:23)
+Aber das typische Beispiel, so würden wir es auch testen, ist 60 Prozent. Achtung, das ist der Sollwert. Der Sollwert hat kein PTR1-Verhalten, sondern der Sollwert, der geht ja jetzt zack runter.
+
+(0:30:23 - 0:30:28)
+60 Prozent und läuft auch wieder ein paar Sekunden. Jetzt geht es weiter. Irgendwie zu viel Energie im Netz.
+
+(0:30:28 - 0:30:43)
+Deswegen auf 30 Prozent runter geregelt. Und dann sagt der Direktvermarkter vielleicht noch, na um Gottes Willen, Strompreis negativ, also auf null Prozent runtergehen. Und dann am Ende, so macht es auch die Norm, springt das im Beispiel wieder auf 100 Prozent.
+
+(0:30:43 - 0:30:53)
+Das wäre auch so ein typischer Prüfablauf, aber jetzt erst mal schematisch dargestellt. Abweichungen sind auch hier dargegeben. Achtung, vorhin waren es immer so zwei Prozent.
+
+(0:30:54 - 0:31:05)
+Hier sind es fünf Prozent der installierten Wirkleistung. Und die Regelgeschwindigkeit ist ja so nochmal dargestellt. Es gibt eine Mindestregelgeschwindigkeit und eine Höchstregelgeschwindigkeit.
+
+(0:31:07 - 0:31:25)
+Und wie sieht das dann aus? Das ist jetzt nur so ungefähr, ungefähr, wenn man jetzt die Abweichung mit reinnimmt und diese Geschwindigkeiten, dann sieht das ungefähr so aus, das soll jetzt wirklich nur schematisch sein. Aber wir wollten einmal darstellen, dass der Sollwert und der Istwert nie übereinander liegen. Also wenn man reale Messergebnisse sieht, dann geht es schon eher so in diese Richtung.
+
+(0:31:29 - 0:31:45)
+So, der zweite Punkt ist die Wirkleistungsanpassung bei Über- und Unterfrequenz. Heute gehen wir da nicht darauf ein, weil das macht nicht der Parkregler, sondern das macht der Wechselrichter. Und das führt dazu, wenn die Frequenz höher zum Beispiel als 50,2 ist, dann gibt es eine automatische Netzstützung.
+
+(0:31:45 - 0:31:55)
+Aber das müssen wir nicht testen in dem Parkregler-Test. Deswegen habe ich es nur der Form halber hier mit reingenommen. Um die Übersicht sozusagen vollständig zu halten.
+
+(0:31:55 - 0:32:05)
+So, und dann das Kapitel Kurzschlussstrombeitrag ist das gleiche Prinzip. Gehen wir nicht darauf ein, ist nur der Form halber, dass ich in diesem Über-Kapitel 10.2 jetzt alle genannt habe.

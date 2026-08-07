@@ -1,0 +1,191 @@
+(0:00:00 - 0:00:17)
+Aber heute machen wir erst mal weiter mit den Mittelspannungskabeln. Da geht es direkt weiter und zwar auch wieder nach der Norm 6200. Das ist so diese typische Mittelspannungsnorm.
+
+(0:00:17 - 0:00:27)
+Und da gucken wir uns jetzt rein, welche Prüfungen nach der Verlegung empfohlen werden. Das, finde ich, ist ein spannender Block. Das muss natürlich jeder für sich selbst entscheiden.
+
+(0:00:27 - 0:00:36)
+Aber ich persönlich fand es interessant, weil das etwas relativ Unübliches ist. Für den meisten Elektroplaner. Deswegen kann man hier vielleicht jetzt nochmal ganz besonders gut zuhören.
+
+(0:00:36 - 0:00:55)
+Wie funktioniert so eine Mittelspannungskabelprüfung eigentlich? So und die wird erst mal unterteilt in einmal gibt es eine Spannungsprüfung und einmal gibt es Diagnose. Und für uns ist jetzt erst mal nur die Spannungsprüfung wichtig, weil das sind die Prüfungen, die vor Inbetriebnahme gemacht werden. Diagnose, da wird es sehr feinteilig.
+
+(0:00:55 - 0:01:03)
+Das macht man vielleicht, wenn man Fehler nicht findet. Das macht man vielleicht bei älteren Systemen, um die Qualität nochmal zu bewerten. Wir gucken heute in die Spannungsprüfung.
+
+(0:01:03 - 0:01:22)
+Das ist dann mehr so schwarz weiß. Und da unterscheiden wir in die Mantelprüfung, in die Isolationsprüfung und in die Zuordnungsprüfung. So und gerade zwischen Mantelprüfung und Isolationsprüfung bitte ich alle hier nach diesem Brainday klar unterscheiden zu können, was das genau bedeutet.
+
+(0:01:22 - 0:01:36)
+Es sind nur zwei und über die zwei wird dann immer vor Ort gesprochen. Und wenn man sich das jetzt merkt, dann kann man da super mitreden. Diagnose der Form halber, da gibt es Teilentladungsprüfung und Tangensdelta Prüfungen machen wir nicht.
+
+(0:01:37 - 0:01:45)
+Das machen spezielle Teams. Darauf gehen wir heute nicht ein, sondern die Spannungsprüfung. Dafür braucht man natürlich so ein Mittelspannungskabel über mir.
+
+(0:01:45 - 0:01:48)
+Man sieht es ganz gut. Der Schirm ist wichtig. Der Leiter ist wichtig.
+
+(0:01:48 - 0:02:04)
+Der Mantel ist wichtig und zwar für die Mantelprüfung. Dann zeige ich hier nochmal mit einem Pfeil, was der Mantel überhaupt ist. Also der Mantel ist die im Gegensatz zur Isolierung weiß in der Mitte relativ dünnhäutige sozusagen Beschichtung außenrum.
+
+(0:02:04 - 0:02:19)
+Das ist der Mantel und dann kommt danach auch schon der Schirm, hat also nichts mit Isolierung zu tun und hat auch nichts mit dem Leiter zu tun. Und für diese Mantelprüfung gibt es jetzt ein Ziel. Warum mache ich das? Ich will den mechanischen Schutz des Kabels prüfen, nicht den elektrischen.
+
+(0:02:19 - 0:02:35)
+Ich will den mechanischen Schutz überprüfen. Also den Mantel. Dafür, was muss ich machen? Lege ich eine Messspannung zwischen Schirm und Erde und ich muss darauf achten, dass es unsere Ausrufezeichen Symbolik hier.
+
+(0:02:35 - 0:02:48)
+Worauf muss ich achten? Ich muss den Schirm vorher von der Erde lösen. Ich zeige es kurz, so wie ich mir das vorstelle. Also wenn ich den Schirm gegen Erde messen will und zwar will ich da ja einen Isolationswert greifen.
+
+(0:02:48 - 0:03:05)
+Dann darf ich den Schirm nicht erden, weil ich will das ja sozusagen separat messen. Und die Einstellungen, die ich dafür vorgeben muss, ist einmal die Spannungsart. Das macht man üblicherweise mit Gleichspannung.
+
+(0:03:06 - 0:03:18)
+Das macht man üblicherweise mit einer 5KV Spannung. Also das ist, finde ich, jetzt schon mal ein ganz wichtiger Unterschied zu der Prüfung, die wir gleich im Anschluss zeigen. Das kann jetzt hier so ein 36 oder 30 KV System sein.
+
+(0:03:18 - 0:03:38)
+Das mag sein, aber diese Mantelprüfung macht man trotzdem nur mit 5KV. Und wie lange dauert so eine Prüfung? Also das kann eine Minute ungefähr dauern, weil da würde man sofort merken, ob es sozusagen Beschädigungen im Mantel gibt. So, so sieht das aus.
+
+(0:03:41 - 0:03:53)
+Genau, also ich messe mit so einem großen Messgerät. Das kann dann sozusagen auch nicht mehr jedes Gerät. Und lege einmal eine Messklemme an den Schirm an.
+
+(0:03:53 - 0:04:12)
+Und die andere Messklemme lege ich an meine Potentialausgleichsschiene in der Trafostation an. Und hier, finde ich, wird es jetzt noch mal deutlicher. Wenn ich jetzt meinen Schirm in der Trafostation an die Potentialausgleichsschiene aufgelegt hätte, so wie das ja im finalen Zustand dann gewünscht ist, dann würde ich ja hier gar nicht eine Potentialdifferenz messen können.
+
+(0:04:12 - 0:04:25)
+Dann würde ich hier keinen Isolationswiderstand, Entschuldigung. Und dann würde ich hier keinen Isolationswiderstand messen können. So, was wir aber zum Glück messen mit unserem Messgerät, sind 100 Megaohm.
+
+(0:04:25 - 0:04:44)
+Das heißt, die Prüfung ist völlig in Ordnung. Also zwischen Schirm und Erde haben wir eine ausreichende Isolierung geprüft. Das war erst mal die Mantelprüfung, also die Symbole vielleicht, die Icons könnt ihr euch merken.
+
+(0:04:44 - 0:04:58)
+So aufgefasst, finde ich, kann man super schnell dann in solchen Gesprächen reagieren. Wenn mal einer fragt, Mantelprüfung, wie viel Gravau soll man anlegen? Dann wäre hier für mich die Antwort. Das war der erste Schritt.
+
+(0:04:58 - 0:05:04)
+Den macht man, meine ich, auch als erstes. Und dann kommt die zweite Prüfung. Ich sage mal, die ist ein bisschen aufwendiger, die ist ein bisschen größer.
+
+(0:05:05 - 0:05:23)
+Die Isolationsprüfung. Also jetzt sieht man über mir, da ist jetzt auch der Leiter mit dazugekommen, weil jetzt geht es endlich mal sozusagen um den Leiter und um die weiße Isolation, die da um den Leiter herumgelegt ist. Also das Ziel ist jetzt nicht mehr die Mantelprüfung, sondern die Isolation zu prüfen.
+
+(0:05:24 - 0:05:37)
+Das wäre dann sozusagen, damit es keinen Durchschlag gibt später durch die Isolation. Und jetzt muss man wieder eine Messspannung anlegen, aber diesmal zwischen Leiter und den Schirm. Also vorhin war es Schirm gegen Erde.
+
+(0:05:37 - 0:05:52)
+Jetzt lege ich Leiter gegen Schirm meine Messspannung an. Da, das wollen wir darstellen, braucht man schon gleich einen ganzen Messwagen meistens. Das liegt daran, dass die Leitungen sehr lange, sehr große Kapazitäten darstellen.
+
+(0:05:52 - 0:06:04)
+Je nach Leitungslänge werden die immer größer. Und dann braucht man relativ viel Energie, um da überhaupt messen zu können. Und dann macht man das nicht mehr mit so einem kleinen Messgerät, das man im Kofferraum hat, sondern da braucht man dann schon so einen ganzen Messwagen.
+
+(0:06:04 - 0:06:15)
+Der wird dann immer angerufen und dann kommt er vorbei. Und dann weiß der Prüfer, der den ganzen Tag oder die ganze Woche, glaube ich, auch nur das macht, auch schon, was er tun muss. Also es ist eine sehr spezielle Geschichte.
+
+(0:06:15 - 0:06:35)
+Und wir wollten dieses Bild unbedingt mit reinkriegen, um zu verdeutlichen, dass das eine ganz spezielle Sache ist, weil für den Tag so ein Messwagen ist auch teuer. Muss man also alles vorbereitet haben, nicht dass der Unfallrichter der Dinge wieder abreißt. So, hier wäre dann auch wieder wichtig, etwas nicht zu erden.
+
+(0:06:35 - 0:06:49)
+Diesmal ist es aber der Leiter und das mag jetzt dem einen oder anderen sehr aufmerksamen Elektroplaner auffallen. Warum sollte ich denn überhaupt einen Leiter erden? Also in den Mittelspannungs-Schaltanlagen kann man das tun. Da gibt es einen Erdungsschalter.
+
+(0:06:50 - 0:07:10)
+Insofern wird jetzt der Kabelmesswagen verantwortliche. Erst mal alle Stationen ableiten, ablaufen und dafür sorgen, dass eine Prüfvorbereitung dementsprechend richtig ist. Was macht er dann? Er sagt, erst mal bei der Spannungsart stelle ich ein, zum Beispiel 0,1 Hertz.
+
+(0:07:10 - 0:07:15)
+Das nennt sich VLF. Was das ist, sage ich gleich noch. Aber das ist eine Besonderheit.
+
+(0:07:15 - 0:07:41)
+Jetzt bei dieser Isolationsprüfung nehme ich also nicht DC, nehme ich nicht, sondern ich nehme eine AC, also eine wechselspannungsbehaftete Spannungsart, also mit Frequenz größer 0, auch wenn sie sehr, sehr klein ist. 0,1 Hertz ist da wohl ein typischer Wert. Und ganz wichtig, das brauchen Sie auch in der Übung gleich noch, weil das so wichtig ist, die Spannungshöhe ist dreimal der U0.
+
+(0:07:41 - 0:07:46)
+Was das ist, zeigen wir auch gleich noch mal. So steht das in der Normvorgabe. Das ist sinnhaft.
+
+(0:07:46 - 0:07:51)
+Und dreimal U0 werden wir auch gleich sehen. Das ist schon ganz schön hoch. Aber ich zeige es gleich noch mal.
+
+(0:07:53 - 0:07:59)
+Prüfdauer, da steht was von 60 Minuten. Wir haben in der Erfahrung nach das oft reduziert. Warum, zeige ich auch gleich noch mal.
+
+(0:08:01 - 0:08:15)
+Also noch mal im Detail. Da kommt jetzt also nicht dieser Koffer, sondern da kommt jetzt der Messwagen und misst auch hier einen Isolationswiderstand zwischen jetzt dem Leiter und dem Schirm. Größer 100 Megaohren.
+
+(0:08:15 - 0:08:28)
+Alles gut. Sollte das kleiner sein, dann hat er eventuell, dann hat er einen Fehler und dann muss man den suchen. Ich habe versprochen, dieses VLF, das klingt immer ein bisschen komisch.
+
+(0:08:29 - 0:08:37)
+Und ich hatte es aber mal mir erklären lassen und fand es interessant. Deswegen zeige ich das noch mal hier ein bisschen detaillierter. Also wofür steht das erst mal? Das steht für Very Low Frequency.
+
+(0:08:38 - 0:09:03)
+Und der Hintergedanke dabei ist, als man früher auch diese Prüfung mit reiner DC Spannung gemacht hat, hat sich herausgestellt, dass man durch die Prüfung das Kabel sehr stark stresst. Das sieht man über mir so ein bisschen dargestellt. Also durch die Isolierung treibt man dann quasi so Watertrees oder Fehlerbäume sozusagen weiter voran, wie es im Detail passiert ist, finde ich jetzt auch gerade nicht so relevant.
+
+(0:09:04 - 0:09:22)
+Und ich kann es auch nicht so gut erklären wie wie andere. Ich will aber rüberbringen, dass man das nicht mehr mit DC macht, weil man dadurch diese Isolierung unnötig gestresst hat. Man treibt die Elektronen sozusagen immer in eine Richtung und dadurch verschlechtert man im Zweifel etwas, was man eigentlich prüfen will.
+
+(0:09:22 - 0:09:40)
+Und deswegen hat man irgendwann angefangen, eben eine niedrige Frequenz als Testspannung anzusetzen. Das nennt sich Very Low Frequency, weil die typische Frequenz, die man da verwendet, mit 0,1 Hertz sehr, sehr niedrig angesetzt ist. Und dann springen die Pole, die da verwendet werden, permanent hinterher.
+
+(0:09:41 - 0:10:00)
+Die Isolierung wird nicht mehr gestresst. Wann macht man das eigentlich? Wir machen es immer so bei Großanlagen einen Tag vor der Inbetriebnahme. Netzbetreiber machen das auch oft so, weil sonst kann man ja gar nicht sicher gehen, ob in der Zwischenzeit dann nicht vielleicht jemand noch rumgebastelt hat oder irgendwo noch mal mit dem Bagger aus Versehen reingehauen hat.
+
+(0:10:01 - 0:10:16)
+Die Spannungshöhe ist noch eine wichtige Sache. Also grundsätzlich gucken wir erst mal im Datenblatt, was wir überhaupt für Nennenwerte haben von unserem Mittelspannungskabel. Und da nimmt man dann die maximal zulässige Betriebsspannung raus.
+
+(0:10:16 - 0:10:25)
+Das sind so typische Werte. Also 36 kV ist maximal für das Kabel zulässig. Nicht zu verwechseln mit dem mit der nominalen Betriebsspannung.
+
+(0:10:25 - 0:10:36)
+Also das, was auf dem Datenblatt steht, ist meistens 30 in Klammern 36. Also dann habt ihr hier die Übersicht schon mal das Ganze unterteilt. Und jetzt mit einem Dreisatz kommt man sehr einfach auf dieses U0.
+
+(0:10:37 - 0:10:48)
+Also die Nennenbetriebsspannungen sind Leiter Leiter Angaben. Man muss erst mal durch Wurzel 3 teilen. Dann kommt man hier auf die Leiter Erde, also U0 Werte.
+
+(0:10:49 - 0:11:10)
+Und die, die sind nach Norm mal 3 zu nehmen, um dann auf die Prüfspannungen zu kommen. Wenn man das einmal, glaube ich, mitgenommen hat und sich diese Seite vielleicht in Erinnerung ruft, dann kann man in Zukunft auch wunderbar bei Spezifikationen angeben, wie denn das Kabel geprüft werden soll, weil man jetzt weiß, wo der Wert herkommt. Also ich habe ein 30 kV System.
+
+(0:11:10 - 0:11:21)
+Dann prüfe ich mit 54 Volt VLF. So und dann hatte ich das mit der Prüfdauer schon gesagt. Das habe ich mir mal aus einer Schulung mitgenommen.
+
+(0:11:21 - 0:11:27)
+Deswegen habe ich sie auch reingebracht. Also da steht 60 Minuten. Das hatte ich mal aus der Schulung so mitgenommen.
+
+(0:11:27 - 0:11:47)
+Das sind ungefähr Werte. Also man würde, wie man hier sieht, zu einer sehr hohen Wahrscheinlichkeit bereits nach 15 Minuten und dann vielleicht auch noch mal nach 30 Minuten die blauen Blöcke sind, dass den Kabelausfall feststellen können. Also nach 30 Minuten sind die blauen Blöcke dafür da, dass ich dann schon gesehen habe, das Kabel ist kaputt.
+
+(0:11:47 - 0:11:57)
+Ich sehe das also relativ schnell. Wenn ich jetzt noch weiter prüfe, sieht man schon, dann wird die Wahrscheinlichkeit immer kleiner, dass dann irgendwie noch mal ein Fehler auftritt. Deswegen kann man das weglassen.
+
+(0:11:58 - 0:12:06)
+Das spart natürlich Messzeit und damit Geld. Aber vor allem stresst so ein Test schon immer die Kabel. Man versucht, das möglichst zu reduzieren.
+
+(0:12:06 - 0:12:24)
+Und deswegen wäre hier unsere logische Rückfolge daraus, dass 30 Minuten ausreichend sind. So, dann gibt es noch eine Zuordnungsprüfung. Die ist einfach, weil die ist nicht ganz so elektrotechnisch.
+
+(0:12:24 - 0:12:30)
+Also da geht es drum. Ich will ja wieder mein Drehfeld richtig machen. Sagen wir mal ein Rechtsdrehfeld.
+
+(0:12:30 - 0:12:39)
+Das ist das Ziel. Das mache ich, indem ich durchklinge. Also man könnte auch elektrisch sagen, den Durchgangswiderstand messe und der soll möglichst klein sein.
+
+(0:12:40 - 0:12:51)
+Deswegen haben wir es in Anführungsstrichen dieses Wort durchklingeln gesetzt. Und Achtung, dazu macht es jetzt Sinn. Wir werden es auch gleich sehen, dass ich eine Phase erde.
+
+(0:12:52 - 0:13:10)
+So warum? Warum ist das wichtig? Also gegenüber so einem Niederspannungskabel sind die Mittelspannungskabel meistens einartig. Sieht man auch gleich noch besser und werden dann irgendwie so in so eine Trafostation eingeführt. Dann irgendwie 300 Meter weiter gibt es eine andere Trafostation.
+
+(0:13:10 - 0:13:26)
+Und da kommen jetzt auch wieder diese drei einzelnen Kabel an. Jetzt muss ich natürlich schon sichergehen, dass die zwei Enden, die ich ja nur noch sehe, irgendwie zusammengehören. Wie mache ich das? Dazu habe ich hier diese drei einzelnen Kabel mal auf beiden Seiten rausgesucht.
+
+(0:13:26 - 0:13:44)
+Und jetzt würde da der der Prüfer sozusagen nachweisen müssen, dass diese grünen Linien richtig sind. Und das macht er, indem er jetzt hier einmal auf der einen Seite, die ist ja 500 Meter entfernt, da kann er jetzt nicht zwei Prüfklemmen nutzen. Da würde er dann auf den Leiter gehen und auf den Schirm.
+
+(0:13:44 - 0:14:07)
+Und jetzt kommt das sozusagen der Trick mit mit der Erde auf der anderen Seite. Jetzt könnte er feststellen, dass hier kein genau kein Durchgang zur Verfügung steht, weil er auf der anderen Seite noch nicht diese Brücke gesetzt hat. Achtung, jetzt geht er auf die andere Seite rüber, da wo mein grüne Lampe ist oder meine Lupe und setzt da irgendwie eine Brücke auf.
+
+(0:14:07 - 0:14:17)
+Wie auch immer er das macht, das ist jetzt nicht so relevant. Man kann das halt erden, dieses System und zack, würde er jetzt einen Durchgang messen. Das System sagt Jawohl, jetzt hat es sich geändert.
+
+(0:14:17 - 0:14:34)
+Das muss also der Leiter 1 sein. Und jetzt habe ich, glaube ich, noch ein Gegenbeispiel mitgebracht. Wenn das verdreht wäre, hätte er in dem Fall wieder einen unendlichen Widerstand gemessen, weil beim Leiter 2, der jetzt ja da offensichtlich dranhängt, diese Brücke nicht sitzt.
+
+(0:14:35 - 0:14:52)
+Also so kann ich den Durchgang wunderbar danach noch mal prüfen und habe dann auch diese dritte Prüfung. Erfolgreich abgeschlossen. So, das ist einfach noch mal die Gesamtübersicht dazu.
+
+(0:14:53 - 0:15:01)
+Mehr sage ich dazu nicht. Vielleicht nimmt man sich diese Seite mal raus, wenn man irgendwie mal eine Frage zu Mittelspannungskabeln bekommt.

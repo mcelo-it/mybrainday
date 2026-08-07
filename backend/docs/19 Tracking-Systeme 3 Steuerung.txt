@@ -1,0 +1,220 @@
+(0:00:00 - 0:00:10)
+Weiter geht's. Als Nächstes gucken wir mal in das Kapitel Steuerung. Was meinen wir überhaupt mit Steuerung? Wir werden es gleich sehen.
+
+(0:00:10 - 0:00:32)
+Ich glaube, am besten erklärt sich es wie meistens, wenn man es einfach drauf los erklärt und einem praktischen Beispiel zeigt. Wir haben mehrere Funktionen, Modi vielleicht besser, mehrere Modi, die wir bei unserem Trecker System anwenden können. Das ist herstellerabhängig, bestimmt auch im Detail unterschiedlich.
+
+(0:00:32 - 0:00:45)
+Aber wir haben das jetzt mal versucht, so übergeordnet, sinnhaft zusammenzufassen. Und da wäre jetzt also dieser erste Steuerungs Modus wäre der Normalbetrieb. Also wir können, zeigen wir jetzt auch gleich mal.
+
+(0:00:46 - 0:01:06)
+Unsere Tracker haben wir hier zwei Reihen mitgebracht und die Masterbox haben wir auch dargestellt, weil die jetzt gleich wichtig wird. Da können wir jetzt erst mal zeigen, was im Normalbetrieb eigentlich passieren würde. Zack, nehmen wir unsere Masterbox und überlegen jetzt erst mal, was die da eigentlich machen soll.
+
+(0:01:07 - 0:01:41)
+Die Antwort steht direkt über mir. Sie soll die optimale Tracker Position finden, umsetzen. Genau. 
+
+Und das bedeutet der Sonne nachführen. So war ja am Anfang auch schon mal kurz beschrieben, glaube ich, überhaupt der Grundgedanke bei Tracker Systemen, dass man also jetzt in Ost-West Richtung sinnhafter Weise der Sonne nachlaufen kann. Gleichzeitig wäre vielleicht so eine Art Zusatzfunktion noch oder Aufgabe im Normalbetrieb soll der Tracker aufpassen, dass er sich nicht gegenseitig verschattet.
+
+(0:01:41 - 0:01:59)
+Das kann man parametrieren, programmieren. Da kann man sozusagen eine Optimierung damit betreiben. Und am Ende, wenn man das macht, ist natürlich das Ergebnis, dass man einen maximalen Ertrag erst mal aus diesem Normalbetrieb heraus erzeugt.
+
+(0:02:00 - 0:02:13)
+So, wie geht das? Also jetzt wissen wir erst mal, dass wir die optimale Tracker Position finden müssen. Aber wie macht er das, der Master sozusagen? Wir haben hier mal die Sonne dargestellt. Das wäre jetzt ja irgendwie mittags.
+
+(0:02:14 - 0:02:39)
+Und dann ist jetzt, glaube ich, ziemlich klar, dass diese Position so eine horizontale jetzt gerade die optimale Tracker Position wäre. Das ist aber ja nicht immer so, sondern das ist ja jetzt nur für einen kurzen Moment des Tages, sondern die Sonnenbahn ist natürlich der Punkt, auf den sich der Tracker konzentrieren muss. Und jetzt ist, finde ich, ein wichtiger Erkenntnis bei diesem ganzen System, dass der Master das berechnet.
+
+(0:02:40 - 0:02:51)
+Er misst es nicht. Er guckt nicht sozusagen auf den Himmel, wo wäre da also eine Sonne, sondern er berechnet das aus gewissen Daten. Das sind die Breiten und Längen gerade.
+
+(0:02:51 - 0:03:28)
+Man muss dem Master also sehr klar sagen, wo er sich befindet, sonst rechnet er falsch und er braucht die Datum und das Uhrzeit und das möglichst genau, weil dann kann er eben aus diesen astronomischen Angaben für jeden Platz, für jeden Moment in der ganzen Welt ausrechnen, welcher Winkel denn der optimale ist oder in anderen Worten, wo genau dann zu diesem Zeitpunkt auf der Welt die Sonne scheint. Warum macht man das so? Dann also gut, dann vielleicht, Entschuldigung, eins vorne ab für noch. Dann richtet der Master die Module dementsprechend aus, indem er die Motoren ansteuert.
+
+(0:03:28 - 0:03:48)
+Aber jetzt, jetzt, also warum macht er das? Er macht das so über die Rechnerei und nicht über irgendeinen Einstrahlungssensor, weil dann die optimierte Funktion auch bei Wolken oder auch bei Nebel oder wenn es besonders staubig ist, auf dem Sensor immer noch gegeben ist. Das ist natürlich ein Riesen Vorteil. Und deswegen kenne ich es auch nur so.
+
+(0:03:49 - 0:04:07)
+Und naja, wenn man sagt, der Vorteil ist, dass das also auch bei schlechtem Wetter funktioniert, dann kann man sich jetzt noch sagen, dann gibt es auch wie oft im Leben einen Nachteil. Der Nachteil wäre, die Zeitfehler würden zu einer Positionsabweichung führen. Das ist erstmal grundsätzlich so.
+
+(0:04:07 - 0:04:37)
+Auch Fehler bei der Breiten- oder Längenangabe würden zu Fehlern führen. Aber jetzt haben wir in unserem Beispiel mal gesagt, wenn man das jetzt um eine Minute die Uhr falsch stellt, dann hätte der so ungefähr 0,25 Grad sich falsch ausjustiert. Naja, und jetzt kann man das ja hochrechnen, wenn der jetzt zehn Minuten hinterher läuft oder eben sogar eine Stunde, dann wird der abweichende Winkel zum Optimum immer größer und grün gehighlighted würde das natürlich in Ertragsverlusten sich wiedergeben.
+
+(0:04:37 - 0:04:59)
+Also sind wir vielleicht bei einem ganz guten Bogen zum späteren Kapitel in Betriebnahme, dass solche Prüfungen ganz wichtig sind. Also nicht einfach einschalten und nach Hause gehen, sondern nochmal irgendwie nachprüfen, dass die Positionsabweichung möglichst gering ist. Ja, wie macht das noch? Also gut, haben wir, glaube ich, schon mehrfach gesagt.
+
+(0:05:00 - 0:05:22)
+Die Drehachse des Haupttreckers wäre jetzt bei uns Nord-Süd, damit er dann in Ost-West wiederum rotiert. Das kann man ja auch noch mal so mitnehmen. Diese ganzen Punkte mal so visualisiert dargestellt mit zwei Reihen in Wirklichkeit sind es oder Treckern in Wirklichkeit sind es vielleicht zehn, zwanzig oder dreißig, je nach System.
+
+(0:05:22 - 0:05:28)
+Aber da gibt es jetzt einen Master, den ihr da seht. Der hat jetzt also was ausgerechnet. Ich zeige es mal oben die Uhr.
+
+(0:05:28 - 0:05:35)
+Es ist irgendwie zwölf Uhr 25. Alles klar, so sind wir jetzt also im richtigen Bereich. Jetzt läuft aber die Zeit weiter.
+
+(0:05:36 - 0:05:54)
+Dementsprechend verändert sich auch der Sonnenwinkel. Jetzt in meinem Beispiel zehn Minuten später und der Master, der rechnet rum und der weiß das und dann schickt er eine Meldung an die Slaves, hat man bei Aufbau beschrieben. Jeder Motor hat da jetzt seinen Slave und das führt dann dazu, dass die Motoren nachlaufen.
+
+(0:05:55 - 0:06:11)
+Und dann gibt es eine geschlossene Regelkreiskette sinnhafterweise. Die zeigen wir hier auch noch mal ganz kurz. Als Rückmeldung kommt jetzt von dem Neigungssensor, den wir ja vorbildlich verbaut und kalibriert haben und die auch die Funktionen geprüft haben.
+
+(0:06:11 - 0:06:32)
+Die Rückmeldung, welche Neigung jetzt aktuell drin ist und dann kann der Master sagen Super, das war richtig so, wie ich die Tischreihen nachgeführt habe. Gut, das war der Normalbetrieb. Jetzt sagen wir aber, wir brauchen mal eine sogenannte Stow-Position.
+
+(0:06:32 - 0:06:50)
+Das Wort kann man sich merken und jetzt auch noch gleich zuhören, was damit gemeint ist. Die sogenannte Stow-Position. Was ist das erst mal? Also grundsätzlich geht es darum, dass man diese Tracker immer in eine Sicherheitsstellung bringen können muss.
+
+(0:06:50 - 0:06:57)
+Das ist erstmal grundsätzlich so. Und das würde sich dann Stow-Position nennen. Diese Sicherheitsstellung, die kann unterschiedlich sein.
+
+(0:06:57 - 0:07:18)
+Könnte ich vielleicht mal am Beispiel vielleicht erklären, wenn also die Windangriff Fläche möglichst reduziert werden soll. Das wäre dann so eine Sicherheitsstellung, weil zum Beispiel Sturm auftritt, dann kann die abhängig davon von der Windrichtung sein. Also die Stow-Position ist nicht immer klar definiert, sondern sie kann abhängig sein von anderen Parametern.
+
+(0:07:19 - 0:07:50)
+Das führt dann dazu, dass es möglichst wenig mechanische Belastung gibt. Und grundsätzlich ist es nicht nur der Wind, wie ich ihn gerade genannt hatte, sondern da geht es auch dem Schutz vor Schnee zum Beispiel oder Flutlasten haben wir gelernt, ist etwas sehr Spezielles. Aber wenn man so gewissen Wassersensoren anbringt, dann kann man das auch machen, dass sich die Tracker dann dementsprechend in eine etwas höhere Lage begeben, die Module und dann vor Hochwasser schützen.
+
+(0:07:52 - 0:08:07)
+Was ist das Ziel? Wir wollen die Module schützen und das Getriebe. Und wie machen wir das? Ist jetzt wiederum die nächste Frage, die wir da links highlighten. Also gut, erstmal Stow-Position erklärt, was man damit macht.
+
+(0:08:07 - 0:08:45)
+Nächste Frage, wie geht's? Wie komme ich in die Sicherheitsstellung eines für den Tracker? Da sind wir jetzt erst mal in dem Modus, dass das Ganze automatisch passiert. Wir kommen später nochmal zu so einer manuellen Führung, die ist jetzt aber explizit nicht gemeint, sondern bei dieser Stow-Position geht es aus eine automatische Auslösung und in unserem Fall würde das durch den Master passieren. Der Master wiederum haben wir bei den Komponenten auch gelernt, wäre das so, dass der von Sensoren Informationen bekommt, also gewisse Umweltdaten.
+
+(0:08:45 - 0:09:20)
+Zeigen wir mal den wichtigsten als Windrichtungssensor und das in Kombination mit dem Windgeschwindigkeitssensor führt dazu, dass er weiß, aus welcher Richtung der Wind kommt und auch wie stark er ist. Und wenn er jetzt also für eine gewisse Windrichtung und für eine gewisse Position des Trackers dann Grenzwerte überschreitet, dann kann dieser Tracker in die Sicherheitsstellung fahren. Zusätzlich haben wir das mal gemeint, gibt es projektabhängige Sensor-Integrationen, die sind für mich mehr so Level B, also Umgebungstemperatur, aber auch eben Hochwasser- oder Schneesensor.
+
+(0:09:20 - 0:09:48)
+Das sind zusätzliche Datenpunkte, die der Master da bekommen kann. Und bei Hochwasser ist es, denke ich, klar, sobald er feststellt, dass das Wasser eine gewisse Höhe erreicht, kann er dann also die Module in eine noch höhere Ebene bringen. Das wird im Controller ausgewertet und dann mit Grenzwerten verglichen, die da eingesetzt werden, und dann könnte der eben in die Sicherheitsposition fahren.
+
+(0:09:48 - 0:10:07)
+Getrieben durch den Master, zeige ich auch gleich noch mal. Finde ich auch hier wieder wichtig zu betonen, wie wichtig dann so eine Inbetriebnahme ist. Also man kann da unglaublich viele Wähler machen bei der Parametrierung, seien es irgendwie falsch gesetzte Grenzwerte oder sei es eine falsche Parametrierung oder Kalibrierung der Sensoren.
+
+(0:10:08 - 0:10:27)
+In unserem Beispiel, dann hat man es visualisiert, vielleicht noch mal besser fürs Abspeichern im Kopf, sieht man es jetzt noch mal das Ganze dargestellt. Hier kommt der Wind, der pustet jetzt meinetwegen aus östlicher Richtung. Dann stellt der Master fest, dass das ihm jetzt zu viel geworden ist.
+
+(0:10:28 - 0:10:47)
+Schickt eine Info, geht bitte in Stow-Position, sagt er allen Trackern, die machen das hier auch vorbildlich. Und der Neigungssensor schickt sozusagen wieder zurück, dass das auch passiert ist. Und gleichzeitig haben wir hier noch mal gezeigt, dass der Wind jetzt da weniger Angriffsfläche geboten bekommt.
+
+(0:10:48 - 0:11:02)
+Genau, das wären also erst mal die Stow-Position, was sie ist und wie man sie ausführt. Daumen hoch von meinem Master, das ist so schön. Die Windlast jetzt da aus den Segeln genommen haben.
+
+(0:11:05 - 0:11:16)
+Unser dritter Modus unserer Steuerung nennt sich bei uns manuell Betrieb. Sage ich auch kurz was dazu. Wir würden erst mal wieder erklären, was das eigentlich ist.
+
+(0:11:16 - 0:11:24)
+Und jetzt zeigen wir das hier auch so. In unserem Projektbeispiel wäre das so ein Control Panel. Auch schon kurz erklärt haben, was das so ist.
+
+(0:11:24 - 0:11:54)
+Aber jetzt gehen wir noch mal ins Detail mit unseren vielen Knöpfen, die wir da zeigen. Was kann jetzt also so ein Control Panel? Ich sage jetzt erst mal, grundsätzlich ist wichtig, dass das jetzt eben nicht mehr automatisiert über den Master läuft, sondern jetzt hat so ein Bedienpersonal vor Ort, zum Beispiel der Landwirt, die Möglichkeit, sozusagen in einer höheren Kommando Ebene Befehle vorzugeben. Und das macht er über so einen physischen Knopf, auf den er dann da drauf drückt, auf dem Control Panel, wie wir es genannt haben.
+
+(0:11:56 - 0:12:12)
+Das ist wichtig, weil der Landwirt jetzt die Tracker Position auch manuell anpassen können muss. Haben wir auch wieder ein schönes Beispiel gleich mitgebracht. Und dafür kriegt er verschiedene Tasten, damit er verschiedene Positionen manuell anfordern kann.
+
+(0:12:12 - 0:12:29)
+Also wie gesagt, mit einer höheren Befehls Ebene sozusagen als der Automatik Betrieb. Und warum braucht er das? Er braucht das, weil er ja mit seinem Traktor die Felder bestellen will und vielleicht auch für Wartungsarbeiten. Dann ist es nicht der Landwirt, sondern dann sind es die Elektriker, die kommen.
+
+(0:12:29 - 0:12:55)
+Aber das sind Aufgaben, die sozusagen außerhalb von dem Automatik Betrieb laufen und dafür dann ein manuell Betrieb notwendig wird. Wieder die Frage Wie kann man das jetzt umsetzen? Also die Tasten für die verschiedenen Positionen nehmen wir mal mit. Und jetzt haben wir vier Reihen daraus gemacht, weil man das dann besser erklären kann, was da jetzt für manuell Betriebs Modi wiederum möglich sind.
+
+(0:12:56 - 0:13:13)
+Also in diesem manuellen Betrieb sagen wir jetzt vier Beispiele, vier Knöpfe, auf die man drücken kann. Und wenn man jetzt den ersten Knopf gedrückt hat, den Normalbetrieb, dann sind wir wieder da, was wir eingangs im ersten Teil Kapitel schon lange erklärt haben. Dann sind wir im Normalbetrieb.
+
+(0:13:14 - 0:13:26)
+Also wenn man da drauf gedrückt hat, dann passiert genau das, was wir vorhin gesagt haben, automatischer Modus. Und der Master kann selber entscheiden, in welche Richtung er fahren will. So sieht das aus.
+
+(0:13:26 - 0:13:33)
+Er führt schön der Sonne hinterher. Hin und her haben wir jetzt schon ganz oft gesehen. Interessanter ist die zweite Geschichte.
+
+(0:13:34 - 0:13:39)
+Vielleicht will er mal in die horizontale Position fahren. Das zeigen wir jetzt hier auch gleich mal. Zack, zweiter Knopf.
+
+(0:13:40 - 0:13:51)
+Und wenn er den gedrückt hat, dann sieht das eher so aus. Unsere Module sind in horizontaler Position. Vielleicht ist das sinnvoll, weil der Landwirt hier mit Vieh arbeitet.
+
+(0:13:51 - 0:14:17)
+Vielleicht ist es auch für Wartungsarbeiten sinnvoll. Wie auch immer das Bedienpersonal hat also jetzt die Möglichkeit, hier manuell das ganze System in horizontale Positionen zu bringen und dadurch den Automatikbetrieb zu entkommen. Der dritte Modus, den wir hier zeigen wollen, nennt sich bei uns Agri PV 1. Warum 1? Und später kommt die 2, wird sich gleich zeigen.
+
+(0:14:17 - 0:14:35)
+Aber jetzt Achtung, jetzt gehen wir mal in den Agri PV Modus 1. So sieht er aus. Dritter Knopf. Jetzt hat er auf den gedrückt und jetzt gehen die sozusagen abwechselnd die Tischreihen in unterschiedliche Winkel, wenn man so will, gegengesetzt aufgestellt in den maximalen Winkel.
+
+(0:14:35 - 0:14:42)
+Jetzt in unserem Fall sind das 60 oder 70 Grad oder so. Aber halt ganz wichtig. Ich glaube, das sieht man ja auch gut entgegengesetzt.
+
+(0:14:42 - 0:15:11)
+Warum machen die das? Warum macht er das entgegengesetzt? Weil wenn der Landwirt, da kommt er mit seinem Traktor angefahren, wenn der Traktor jetzt landwirtschaftlich darin arbeiten will, ist dieser Modus sinnhaft, weil es für jede zweite Reihe, ich zeige es gleich, die maximalen Abstände und dadurch den größten Freiraum für seinen landwirtschaftlichen Betrieb bringt. Vielleicht mal so typische Größen da noch mit reingezeichnet. Ein Traktor ist ja auch groß.
+
+(0:15:11 - 0:15:30)
+Also das sind so, dass man so ein Gefühl dafür kriegt, das kann projektspezifisch abweichen, aber vielleicht zwei bis drei oder vier Meter Höhe. Die Abstände können sehr groß sein. 15 Meter, das ist deutlich mehr als bei so einer festangestellten Geschichte, aber ist abhängig von dem landwirtschaftlichen Betrieb.
+
+(0:15:30 - 0:15:38)
+Das hängt einfach davon ab, was da überhaupt gemacht wird. Wir wollten das nur mal so für so ein Gefühl reinbringen. Und genau 70, 60 Grad, das sind so übliche Anstellwinkel.
+
+(0:15:38 - 0:15:52)
+Es geht auch mehr. Aber wir wollten mal so ein typisches Beispiel zeigen. Und wenn man jetzt so ein Gefühl hat, wie so Tischreihen da aufgebaut werden können und wie groß so ein Traktor sein kann, dann wird jetzt Folgendes vielleicht ein bisschen deutlicher.
+
+(0:15:52 - 0:16:08)
+Wir wechseln die Perspektive. Wir gucken von oben drauf. Und wenn jetzt also der Landwirt da auf den dritten Knopf gedrückt hat, dann weiß er, dass er jetzt hier in dieser ersten, in der dritten und in der fünften Reihe sozusagen seinen landwirtschaftlichen Arbeiten nachgehen kann.
+
+(0:16:08 - 0:16:28)
+Also da durchfahren und dann, was auch immer er da so macht, pflanzen, düngen, ernten, wie auch immer. Er hat in der ersten, in der dritten und in der fünften Reihe also immer ungerade jetzt die maximalen Arbeitshöhen und Breiten vorgegeben bekommen. Und deswegen nutzt er die auch.
+
+(0:16:29 - 0:16:42)
+Da fragt man sich, was macht er jetzt mit der zweiten, vierten und sechsten Reihe, also mit den Geraden? Naja, genau. Und genau dafür gibt es dann den Agri-PV2-Modus. Also er drückt jetzt, nachdem er am anderen Ende angekommen ist.
+
+(0:16:42 - 0:16:54)
+Und Achtung, das wäre ja hinter mir an der Schulter. Da steht er jetzt mit dem Traktor. Da hat er jetzt hoffentlich auch so ein Bedienpanel installiert bekommen von dem aufmerksamen Elektroplaner.
+
+(0:16:54 - 0:17:05)
+Also da kann er jetzt kurz aussteigen aus seinem Traktor. Dann drückt er quasi dann auf den Knopf vier. Naja, und was machen jetzt die Tracker? Genau, die fahren jetzt in entgegengesetzte Winkel.
+
+(0:17:06 - 0:17:38)
+Und dann hat man genau für den Rückweg sozusagen seinen optimalen Arbeitsbereich vorbereitet. So würde man das also realisiert bekommen, dass man die immer besten Arbeitsweite für den Landwirt mit seinen großen Maschinen vorbereiten kann und er sinnhaft eine große Runde dabei dreht. Das war es mit den verschiedenen manuellen Betrieben.
+
+(0:17:38 - 0:17:51)
+Ich hatte es am Anfang schon gesagt. Ich hoffe, das wird bei so einem allgemeinen Thema auch klar, dass das Hersteller oder auch projektspezifisch anders gemacht werden kann. Aber ich denke, das sind dann Nuancen oder Teilgruppen.
+
+(0:17:51 - 0:18:11)
+Wir haben jetzt mal die vier wichtigsten Modi grundsätzlich hier so dargestellt. So, und als Letztes will ich in dem Kapitel Steuerung, geht es ja um Kommunikation, versuchen, das Thema Kommunikation auch noch mit reinzukriegen. Also Achtung, Punkt 1, 2 und 3, das waren jetzt so Modi, Betriebsformen sozusagen.
+
+(0:18:12 - 0:18:41)
+Und jetzt wollte man noch mal kurz darstellen, dass man das als Elektroplaner natürlich auch mit bedenken muss, wie überhaupt die Kommunikation in unserem Fall hier zwischen den Master und diesen Slaveboxen, die ich die ganze Zeit hier mit diesen grünen und blauen Briefen dargestellt hat, überhaupt wirklich realisieren kann. Und da gibt es bei uns, glaube ich, in unserer ganzen Brainday-Reihe mindestens vier oder fünf Module, die sich nur mit der Kommunikation an sich beschäftigen. Deswegen machen wir das jetzt natürlich auf gar keinen Fall.
+
+(0:18:41 - 0:18:59)
+Was wir hier noch machen, ist, dass es grundsätzlich mehrere Möglichkeiten gibt, diese Kommunikationsprotokolle zum Beispiel auszuführen. Also zum Beispiel mit RS485, wie das genau funktioniert und was man damit beachten muss. Schaut ihr euch in einem anderen Brainday an.
+
+(0:18:59 - 0:19:15)
+Aber hier will ich erst mal darauf hinaus, dass ein Vorteil von so einem System wäre, dass es wenig, sage ich jetzt erst mal, störungsanfällig ist. Weniger macht erst Sinn, wenn jetzt die anderen Beispiele noch kommen. Aber grundsätzlich ist das ein erprobtes System.
+
+(0:19:15 - 0:19:31)
+Das läuft über Hardwire, über Drähte, über Datenkabel und ist dadurch sehr wenig störungsanfällig. Es hat auch relativ geringe Kosten. Kommt ja immer darauf an, warum man es vergleicht.
+
+(0:19:31 - 0:19:43)
+Aber wir zeigen es gleich zu den anderen Kommunikationsvarianten. Hat das geringere, geringe Mehrkosten. Man braucht halt ein Datenkabel, das ihr jetzt auch noch vom Master bis zu allen Slaveboxen ziehen müsst.
+
+(0:19:44 - 0:20:02)
+Okay, wer es ein bisschen moderner machen möchte und vielleicht aber auch ein bisschen komplizierter, aber auf jeden Fall zukunftsorientiert, der nimmt Powerline Communication. Das ist ein System, das wir hier auch schon oft benutzt haben. Ich kenne auch viele Hersteller von Trackern, die das standardmäßig einsetzen.
+
+(0:20:02 - 0:20:18)
+Also das funktioniert dann so, dass der Befehl sozusagen in die Stow-Position zu gehen, zum Beispiel über die Leistungskabel transportiert wird. Großer Vorteil ist, man braucht kein zusätzliches Datenkabel. Das wäre also schon mal besser als bei RS485.
+
+(0:20:18 - 0:20:26)
+Und wir halten das für die Zukunftstechnologie. Wollen ja hier Vorteile aufzählen. Insofern wäre das für uns schon klar, gebe ich mal voraus.
+
+(0:20:26 - 0:20:34)
+Das wäre für mich gesetzt. Wenn das geht, würde ich das auch umsetzen. Was wir auch kennen, ist Wireless, nennt sich dann ZigBee.
+
+(0:20:34 - 0:20:51)
+Das hat sehr wenig Installationsaufwand, ist sehr einfach. Und da sagen wir aber nur Achtung, kritische Infrastruktur ist auch ein anderes Thema, ist auch ein anderer Brainday. Aber für mich ist das so als, ich sag mal, IT-Laie.
+
+(0:20:52 - 0:21:39)
+Ich könnte mir vorstellen, dass ich noch einfacher in so ein Wireless-System mich einhacken kann und dann die Tracker in die Position bringe, in die ich das jetzt gerade für lustig halte, als in eine Powerline-Communication oder in eine RS485, weil für die ersten zwei müsste ich ja zumindest mal auf das Betriebsgelände kommen, um mich dann wirklich physisch quasi da einbringen zu können. Also das sind so die drei großen Typen und ich wollte unbedingt zeigen, dass wir hier zukunftsorientiert denken, also Powerline, wenn das geht, ist das aus unserer Sicht die Kommunikationsart der Wahl. Ja, und wenn man nun das Protokoll, sag ich mal, definiert hat, dann würde ich auch unbedingt noch nicht vergessen wollen, sozusagen eine Netzwerktopologie aufzubauen.
+
+(0:21:39 - 0:22:07)
+Auch hierfür gibt es im Detail Schulungsblöcke, wo wir sagen, wie man sowas generell machen sollte. Aber an der Stelle nur der Hinweis, denkt dran, ihr habt da eure Datenboxen für eure Wechselrichter, für eure Einstrahlungssensoren, für irgendwelche Trafotemperaturen aufgebaut, wie man das immer so macht in den Projekten. Und jetzt muss man aber auch diese zusätzlichen Master- und Slave-Boxen von den Trackern ins Netzwerk integrieren.
+
+(0:22:07 - 0:22:25)
+Und das darf man erst mal grundsätzlich nicht vergessen. Und neben dem Hardwire sozusagen, das man dafür braucht, braucht man vielleicht noch ein eigenes zusätzliches LWL-Netzwerk. Man kann es auch integrieren in das Netzwerk des Monitoring-Systems.
+
+(0:22:26 - 0:22:57)
+Freie Planung finde ich da für die Planer, freie Wahl für die Planer. Aber unabhängig davon muss man es auch in eine gesamte IP-Adressliste integrieren und somit eine Gesamtübersicht aufbauen können für die Kommunikation dann sowohl der PV-Anlage, so wie man sie halt kennt, und der zusätzlichen Tracker. Ja, das war dann alles, was wir zum Thema Steuerung mitgeben wollten.
+
+(0:22:58 - 0:23:02)
+Und weiter geht's gleich als nächstes mit der Spannungsversorgung.

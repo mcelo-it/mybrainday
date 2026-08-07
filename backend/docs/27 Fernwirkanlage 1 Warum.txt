@@ -1,0 +1,140 @@
+(0:00:00 - 0:00:35)
+Wir starten mit der Frage, warum brauchen wir eigentlich eine Parkregelung? Da haben wir uns überlegt, dass wir ganz oben das Wort Netzstabilität hinsetzen. Das ist, ehrlich gesagt, im Gedankenkonstrukt wirklich ganz, ganz am Anfang, aber ich glaube, dass es am meisten hilft, sich jetzt zu motivieren oder zu merken, warum man eigentlich einen, wie wir sehen werden, sehr komplexen, sehr lang andauernden Prozess jetzt verstehen müssen, damit wir ihn später auch umsetzen können. Da sind viele Leute involviert, das ist keine triviale Aufgabe.
+
+(0:00:36 - 0:00:51)
+Und um das sozusagen zu begründen, geht es tatsächlich mit der Netzstabilität los. Also die brauchen wir, das ist ganz essentiell, nicht nur meinetwegen bei uns in Deutschland, sondern das ist natürlich völlig unabhängig vom Ort. Das Netz muss stabil bleiben.
+
+(0:00:51 - 0:01:05)
+Da haben wir uns drei Punkte aufgeschrieben, wie man das vielleicht machen kann, so eine Netzstabilität realisieren. Also das Erste ist erstmal die Frequenzhaltung, das sind bei uns 50 Hertz. Da versuchen wir immer, die konstant zu halten.
+
+(0:01:05 - 0:01:21)
+Wie geht das? Grundsätzlich ist es erstmal so, man muss den Wirkleistungsverbrauch und die Wirkleistungserzeugung in der Waage halten. Wenn man das schafft, dann bleibt man bei einer Nennfrequenz, die ist bei uns 50 Hertz. Und ich habe das hier so ein bisschen animiert, hier geht das mal hin und her.
+
+(0:01:21 - 0:01:36)
+Der Verbrauch und die Erzeugung, die sind ja immer ungleich. Das geht mal hoch, mal runter. Und das Ziel muss aber sein von meinetwegen so einem Verteilnetzbetreiber, dass das in der Waage bleibt, damit die Frequenz konstant bleibt.
+
+(0:01:37 - 0:01:49)
+Das war jetzt erstmal so ein bisschen bildlich dargestellt. Ich denke, die meisten kennen das Prinzip auch, aber jetzt hat man es vielleicht nochmal besser sozusagen bildlich gesehen. Und jetzt machen wir das Ganze nochmal technisch mit so einem Diagramm.
+
+(0:01:49 - 0:02:03)
+Also Wirkleistungserzeugung und Verbrauch setzen wir hier ins Verhältnis auf der x-Achse. Und auf der y-Achse schauen wir uns die Frequenz an und auch da ein Verhältnis. Dann ist es immer einfach, mit Nullen und Einsen darzustellen.
+
+(0:02:03 - 0:02:18)
+Das ist jetzt also die reale Frequenz, das, was wir wirklich messen würden an unserer Übergabestation zum Beispiel im Verhältnis zu dem, was es sein soll, sagen wir mal 50 Hertz. Jetzt gehen wir das mit drei Beispielen einfach mal durch. Ihr seht es über mir in der Tabelle.
+
+(0:02:18 - 0:02:27)
+Erstes Fallbeispiel. Die Waage ist nicht im Gleichgewicht. Also in unserem Beispiel ist die erzeugte Wirkleistung jetzt gerade größer als die verbrauchte.
+
+(0:02:28 - 0:02:34)
+Ganz viel Sonne, ganz viel Wind. Aber es ist der Ostersonntagnachmittag, glaube ich. Da ist immer nicht so viel Verbrauch.
+
+(0:02:35 - 0:02:49)
+Und demzufolge ist dann auch dieser Faktor aus realer Frequenz zu Sollfrequenz größer 1. Das wäre im Diagramm zum Beispiel hier. Wir haben mal eine Zahl hingeschrieben, damit man es sich besser vorstellen kann. Also 50,2 Hertz haben wir jetzt gerade im Netz.
+
+(0:02:49 - 0:03:04)
+Was macht jetzt der Netzbetreiber? Am Ende ist es natürlich seine Entscheidung. Aber sinnhafterweise würde er jetzt über die Fernwirkanlage die Wirkleistung reduzieren, Pfeil nach unten. Merkt euch das mal.
+
+(0:03:04 - 0:03:13)
+So wäre der grundlegende Zusammenhang. Die Frequenz ist ein bisschen zu hoch. Dann kann ich jetzt also so eine Solaranlage eigentlich ja relativ einfach drosseln.
+
+(0:03:13 - 0:03:21)
+Das würde er, denke ich, jetzt mal machen. Jetzt sagen wir mal in unserem Beispiel. Er hat es ein bisschen übertrieben, die Waage schlägt in die andere Seite aus.
+
+(0:03:21 - 0:03:36)
+Die reale Frequenz sinkt jetzt unter die 50 Hertz, ist also kleiner 1. Und das könnte jetzt also daran liegen, dass er jetzt zu viel Wirkleistung weggenommen hat. Dann verschiebt sich der Punkt nach da unten, 49,5 Hertz. Jetzt sind wir unter unserem Sollwert.
+
+(0:03:37 - 0:03:50)
+Was macht er? Sinnhafterweise regelt er wieder in die andere Richtung. Das nehme ich jetzt mal als Solar begeisterter hier gleich mal vorweg. Das ist einer der großen Nachteile unserer Technik.
+
+(0:03:50 - 0:04:00)
+Wenn jetzt eben gar nicht mehr Sonne erscheint, dann kann er das nicht. Das liegt in der Natur der Sache. Das sind die großen Themen im Moment Batteriespeicher oder Gaskraftwerke als Reservekraftwerke erhalten.
+
+(0:04:01 - 0:04:10)
+Also wenn er nicht genug Wind oder Solar gerade hat, dann kann er das nicht so einfach. Großes Thema gerade denke ich in der ganzen Energiewelt. Aber vom Grundsatz her wäre das die Lösung.
+
+(0:04:10 - 0:04:18)
+Er muss jetzt die Erzeugung erhöhen. Kann er ja vielleicht auch, weil er die Windräder gedrosselt hat. Jetzt kann er sie wieder hochfahren und dann schafft er folgendes.
+
+(0:04:19 - 0:04:30)
+Die Zielmarke ist erreicht. Die reale Frequenz ist gleich der Sollfrequenz. Wir treffen mit unserem orangenen Punkt im Diagramm genau die Zielmarke.
+
+(0:04:31 - 0:04:37)
+Und dann würde ich sagen, Daumen hoch. Grundsätzlich mag das jetzt erstmal das Ziel gewesen sein. Und so kann er das erreichen.
+
+(0:04:39 - 0:04:49)
+Zurück zum Thema, wenn man so will, Fernwirktechnik. Also diese Frequenzhaltung kann er natürlich nur realisieren, indem er wie beschrieben erstmal weiß, wie überhaupt die Frequenz ist. Das ist schon mal wichtig.
+
+(0:04:50 - 0:05:00)
+Und dann muss er aber ja auch agieren können. Das heißt, er muss der Anlage Befehle zuschalten können. Ähnliches Prinzip mit der Spannungshaltung ist sicherlich genauso wichtig wie die Frequenzhaltung.
+
+(0:05:00 - 0:05:08)
+Ähnliches Prinzip, weil am Ende ist es ein bisschen komplexer. Wenn es um Blindleistung geht, ist es immer so eine Sache. Wir haben es hier trotzdem mal genauso vereinfacht dargestellt.
+
+(0:05:08 - 0:05:22)
+Also übererregte und untererregte Blindleistung mag jetzt erstmal einfach gesehen in der Waagschale zu halten sein. Ich sage es nur ganz kurz. Vielleicht will der Netzbetreiber ja gar nicht jetzt gerade die Nennspannung haben.
+
+(0:05:22 - 0:05:29)
+Vielleicht will er ja bewusst die Spannung erhöhen. Das mag ja sein. Und dann kann er ganz bewusst hier sozusagen die Waagschale auch aus dem Ungleichgewicht führen.
+
+(0:05:29 - 0:05:42)
+Also an dieser Stelle, finde ich, muss es nicht zwangsläufig so sein, dass er unbedingt immer die Nennspannung treffen will. Das ist seine Entscheidung. Aber wichtig für uns aus Sinne der Fernwirktechnik ist, dass das eben grundsätzlich erstmal regeln kann.
+
+(0:05:43 - 0:05:55)
+Also was würde er hier machen? Ähnliches Spiel. Wir haben unsere Blindleistung und haben jetzt diesen Faktor wieder auf die Y-Achse gesetzt. Schauen uns das mal im Diagramm in der Tabelle an.
+
+(0:05:55 - 0:06:04)
+Erster Fall, genau wie gerade eben. Man hat jetzt etwas übererregte Blindleistung im Netz. Also sozusagen Überschuss, wenn man so will, übererregter Blindleistung.
+
+(0:06:05 - 0:06:14)
+Das Zählpfeilsystem muss dementsprechend definiert sein. Das ist ein anderer Brainday. Das nehmt ihr jetzt einfach mal so hin, bitte, dass das bei uns als übererregt definiert wurde.
+
+(0:06:14 - 0:06:30)
+Und dann ergibt sich daraus, dass die reale Spannung jetzt ein bisschen größer ist als die Nennspannung. Zum Beispiel 20,1 kV. Wenn er das gar nicht will, wenn er eine niedrigere Spannung will, kann er dagegen steuern, indem er jetzt diese übererregte Blindleistung kompensiert.
+
+(0:06:31 - 0:06:38)
+So eine PV-Anlage kann das, ein Windpark kann das. Da sind wir sehr, sehr gut aufgestellt. Da sind wir besser als manch konventionelles Kraftwerk.
+
+(0:06:38 - 0:06:45)
+Also da sind wir richtig gut. Das können wir eigentlich immer, wenn die Wechselrichter aktiv sind. Tagsüber würde ich sagen auf jeden Fall.
+
+(0:06:45 - 0:06:55)
+Nachts geht das auch mit so Spezialfunktionen wie QEd Night. Aber da sind jetzt andere Spezialthemen. Grundsätzlich sind wir hier richtig gut aufgestellt, können das Netz super stabilisieren.
+
+(0:06:58 - 0:07:12)
+Gegenbeispiel Fall 2. Da sind wir jetzt also mit der Spannung etwas zu niedrig. Wir steuern mit der Blindleistung in die andere Richtung dagegen und dann vermeintlich das Ziel erreicht. Wir sind genau bei unserer Nennspannung 20,0 kV meinetwegen.
+
+(0:07:12 - 0:07:22)
+Und dann geht der Daumen erstmal nach oben. Also ich hoffe, hier ist klar geworden, dass ich sagen will, der Netzbetreiber kann die Spannung halten. Er muss es auch.
+
+(0:07:22 - 0:07:35)
+Aber damit das realisieren kann, braucht er die Fernwirktechnik. Er braucht Informationen vom Netz und er muss die Anlage steuern können. So und jetzt kommt hier noch ein dritter Punkt dazu, den wir uns ausgedacht haben.
+
+(0:07:35 - 0:07:42)
+Übergeordnet haben wir es Störungsmeldung genannt. Also man könnte auch sagen Informationen. Er darf nicht blind sein in anderen Worten.
+
+(0:07:42 - 0:07:48)
+Der Netzbetreiber muss den Zustand seines Netzes kennen. Dazu gehören von dem ersten Punkt. Er muss die Frequenz kennen.
+
+(0:07:48 - 0:07:52)
+Zum Zweiten. Er muss die aktuelle Spannung in seinem Netz kennen. Und beim Dritten.
+
+(0:07:52 - 0:08:13)
+Das sind jetzt nochmal zusätzliche Infos, die er braucht, um das Gesamtsystem bewerten zu können. Haben wir unterteilt in stationsinterne Meldungen. Also er muss wissen, ist da gerade ein Kurzschluss? Wo ist der Kurzschluss? Haben wir vielleicht ein SF6 Gas Problem oder ist der Schalter eingeschaltet oder ausgeschaltet? Das sind zusätzliche Meldungen, die er braucht.
+
+(0:08:14 - 0:08:23)
+Und das haben wir zweigeteilt, weil wir kommen ja aus der PV-Welt. Dann gibt es jetzt auch noch externe, aus Sicht des Netzbetreibers sind das externe Meldungen. Zum Beispiel die Einstrahlung.
+
+(0:08:25 - 0:08:48)
+So, wenn er diese drei Sachen jetzt irgendwie bedient bekommt, um seine Netzstabilität zu halten, dann fragt man sich, wie kann er das in Kooperation mit unserer neu errichteten PV-Anlage machen? Und da sind wir jetzt beim Stichwort Signalaustausch. Also auf der einen Seite gibt es das Kraftwerk, auf der anderen Seite gibt es den Energieversorger oder den Netzbetreiber. Und die müssen jetzt Signale austauschen.
+
+(0:08:48 - 0:08:54)
+Hier will ich zeigen, das geht in zwei Richtungen. Das ist wichtig. Erstmal kriegt er Informationen von der PV-Anlage.
+
+(0:08:55 - 0:09:06)
+Also die aktuelle Frequenz, die aktuelle Spannung oder irgendeine Störungsmeldung. Und dann kann er aber auch in die andere Richtung Befehle senden. Das ist wichtig, ist ein zweiseitiger Austausch, ein beidseitiger Austausch.
+
+(0:09:06 - 0:09:16)
+Also A und B, beides müssen wir realisieren. Wie machen das? Jetzt haben wir einen 10-minütigen Bogen gespannt zu dem, was ich eigentlich wollte. Das machen wir mit der Fernwerkanlage.
+
+(0:09:17 - 0:09:26)
+Mit der Fernwerkanlage, ich schiebe sie mal in die Mitte, schaffen wir es also diese Signale auszutauschen, um dadurch eine Netzstabilität sicherstellen zu können.

@@ -1,0 +1,117 @@
+(0:00:00 - 0:00:15)
+Jetzt geht es in die Anmeldung E8. Das machen wir genauso wie die E1. Wir gucken uns das wirklich Schritt für Schritt an und wissen jetzt auch, warum in dieser Übersicht hinter mir kein E2, E3, E4, E5, E6 und E7 zu finden ist.
+
+(0:00:15 - 0:00:25)
+Der Grund ist, in der Chronologie brauchen wir jetzt als nächstes auch den E8. So, da jetzt haben wir die Gesamtübersicht. Dann machen wir das gleiche Prinzip.
+
+(0:00:26 - 0:00:36)
+Wir löschen den Rest raus und dann sehen wir nochmal, dass wir bei Schritt 1 und 2 haben. Wir müssen das nämlich zweimal machen. Das haben wir hier auch nochmal visuell ein bisschen besser dargestellt.
+
+(0:00:36 - 0:00:45)
+Jetzt rutscht das also von dem ersten Schritt Grobplanung auch in den Schritt Feinplanung. Das, was wir jetzt sehen, macht ihr zweimal. Gleich am Anfang für die Einspeisezusagen.
+
+(0:00:46 - 0:01:02)
+Und dann noch, finde ich, wichtiger, in meinem Berufsleben zumindest, nochmal nach der Feinplanung, nach Abschluss der Feinplanung, für die Anmeldung des E9-Bogens. Ja, und dieses Formblatt hat leider mehrere Seiten. Fünf Stück sind es, glaube ich.
+
+(0:01:03 - 0:01:22)
+Wir fangen einfach mal an mit der ersten Seite von 5. Einspeisenummer des Anschlussnehmers ist vorhanden, ja oder nein? Wir haben noch keine, also machen wir da ein Nein draus. Es wiederholt sich so ein bisschen, aber nicht eins zu eins. Die Anlagenanschrift wird gefragt.
+
+(0:01:22 - 0:01:29)
+Ich glaube, das haben wir schon erklärt. Machen wir einfach weiter. Anschlussnehmer, haben wir auch gesagt, ist der Vertragspartner.
+
+(0:01:29 - 0:01:38)
+Weiter geht's. Der Antragsteller ist interessanterweise ein anderes Wording als im E1. Warum, weiß ich nicht genau.
+
+(0:01:38 - 0:01:53)
+Aber wir glauben oder wir definieren für uns, dass da jetzt der Fachbetrieb eingetragen werden sollte. Also genau, der Ingenieurpartnerschaft hatten wir vorhin. Generalunternehmer könnten wir uns vielleicht auch nennen in dem Fall.
+
+(0:01:53 - 0:02:02)
+Also der soll da rein, ist meistens eben nicht der Anschlussnehmer. Dann kommt der Typ der Erzeugungsanlage. Da würde ich sagen, dass das relativ einfach ist.
+
+(0:02:03 - 0:02:16)
+Wir kreuzen Photovoltaik an, schieben das da rein und eine Dachfläche haben wir ja ausgegeben. Deswegen nehmen wir diese zwei Kreuze, also Photovoltaik und Dach und an der Stelle nur als Kommentar. Ihr seht da auch Freifläche.
+
+(0:02:17 - 0:02:31)
+Das ist super vorbereitet und ihr seht es auch links mittig unten. Links unten mittig steht schon Speicher. Der große Thema natürlich ist jetzt ja auch mittendrin statt nur dabei und wird die Zukunft deutlich mitbestimmen.
+
+(0:02:31 - 0:02:52)
+In den novellierten Bögen, die wir da gesehen haben für hoffentlich nächstes Jahr wird das auch nochmal deutlicher dargestellt. Also hier kann man dann auch mal Speicher ankreuzen, wenn man denn einen anmelden will. Das nächste ist Notstromaggregat ist für uns nicht relevant, weil wir jetzt kein Notstromaggregat anmelden wollen.
+
+(0:02:54 - 0:03:27)
+Wir planen mal eine Neuerrichtung, das deckt sich wie dem E1-Bogen, deswegen machen wir da einen Haken rein und gehen direkt weiter. So, und da haben wir vorhin so viel Zeit und Mühe verwendet, zu verstehen, zu erklären, zu berechnen, was der Unterschied ist zwischen PAV, E und Pinst, dass wir das zum Glück jetzt einfach übertragen können. Also, das haben wir schon geschafft. 
+
+Da stehen sie. Wir nehmen einfach wieder die gleichen Werte und schieben die rüber. Es gibt einen Unterschied, den ich hier sehen kann, das ist PDC.
+
+(0:03:27 - 0:04:37)
+Das haben wir hier mit reingenommen. 644,16 Kilowatt-Peak, sagen wir. Also das ist jetzt die Modulleistung und das ist ein-ein-eindeutig, weil die Einheit hinten Kilowatt-Peak sagt. 
+
+Also da gibt es für mich technisch gesehen keine Kompromisse. Das muss die Modulleistung sein, die natürlich immer grundlegend anders ist als die Wechselrichter, Wirk- oder Scheinleistung. Es sind jetzt also schon drei verschiedene oder vier. 
+
+Scheinleistung, Wirkleistung, DC-Leistung und dann nochmal Pinst und PAV unterschieden und hoffentlich gut erklärt. Dann die Einspeisung der Gesamtenergie in das Netz. Da sage ich jetzt in meinem Beispiel, bitte erlagen Sie mich fest, das ist ja projektspezifisch, sonst wäre das ja jetzt hier viel zu einfach, aber in meinem Beispiel ist das eine Dachanlage und da sage ich erst mal, ich will da nicht die Gesamtenergie ins Netz einspeisen. 
+
+Das hat auch was mit kaufmännischen Themen zu tun, aber das ist mein Beispiel und in der Freifläche oben finde ich, ist es ganz klar, da sage ich erst mal ja. Wenn das dann mit Batteriespeichern und Mischanlagen komplexer wird, anderes Thema. Wir machen es jetzt erst mal so und würden bei der Freifläche ja ankreuzen.
+
+(0:04:39 - 0:05:03)
+Inselbetrieb vorgesehen ist aus meiner Sicht immer nein in unseren Anwendungsfällen, das sind netzbetriebene Wechselrichter, die können gar nicht autark fahren, also kein Inselbetrieb. Teilnetzbetrieb haben wir auch nicht vor, das sind netzgeführte Wechselrichter, zumindest nicht in der 4110 relevant. Bei höheren Spannungsebenen kann da Rückfragen kommen, aber jetzt erst mal nein.
+
+(0:05:05 - 0:05:42)
+Schwarzstartfähigkeit haben wir nicht, wir sind netzgeführt, ohne Netz können wir nichts machen, wir können beim Wiederaufbau des Netzes nicht unterstützen. Trägerfrequenz in Nutzung des Kundenzwecks gesehen, sagen wir auch erst mal nein, da sind wir mal vorsichtig, wir wollen auch nicht zu viele Fragen kreieren. Dieses Powerline-Communication, das es in Freiflächen, denke ich, mittlerweile als Standard gibt, wäre dann aus unserer Sicht schon eine trägerfrequente Nutzung, ist aber parkintern, wird durch die Trafos glaube ich ins Netz quasi weggeblockt, das heißt, das ist für den Netzbetreiber nicht relevant, ich würde hier mit Nein ankreuzen.
+
+(0:05:43 - 0:06:13)
+Kurzbeschreibung nutze ich immer, um die Missverständnisse, die sich ein bisschen angedeutet haben, zu erklären, also Achtung, wir wollen eine neu errichtete Übergabestation und im Anlagenschema, im Single Line Diagram seht ihr die Details dazu und die Übergabestation ist fünf Kilometer entfernt, man kann das finde ich erst mal hier beschreiben, um da dem Netzbetreiber das Leben leichter zu machen. Der hat ja nicht nur euer Projekt, der hat ja auch noch andere Projekte. Wir schieben virtuell die nächste Seite nach vorne und springen auf die Seite 2, da sind wir schon.
+
+(0:06:14 - 0:06:36)
+Seite 2. Die Angaben zum Anschlussnehmer eigenen Netztransformator, wenn dieser vorhanden ist, also Anschlussnehmer eigenen Netztransformator. Ich würde jetzt mal sagen bei Dachanlagen Netztransformator Freiflächen nicht vorhanden. Ja, okay, genau.
+
+(0:06:37 - 0:07:34)
+Entschuldigung, also bei diesem Transformator geht es jetzt um den Transformator sozusagen zum Netzanschluss hin, bei Freiflächen hat man das meistens nicht, da würde ich sagen Mittelspannungsanschluss und da gibt es dann nur eine Übergabestation ohne Transformator, dann lasse ich das hier offen. Bei Dachanlagen ist das anders, da gibt es dann meistens oder kann es geben einen Netztransformator und dann würden diese Daten hier ausgefüllt werden, da machen wir mal ein Beispiel, gibt es eine ganze Schulungsreihe, die erklärt, welcher Wert hier eigentlich was bedeutet, deswegen haben wir das hier ja dann schon aus dem Ärmel geschüttelt, einfach da reingefügt. Wichtig ist nochmal, die Mittelspannungsrichtlinie gilt auch, wenn eure Dachanlage selbst sozusagen auf dem Dach ja dann ins Niederspannungssystem des Gebäudes einspeist, da gilt trotzdem die Mittelspannungsrichtlinie und genau dann brauchen die auch diese Trafodaten hier, das ist dann sozusagen der Netztransformator.
+
+(0:07:36 - 0:08:17)
+Also ist bei unserem Dach ja genau der Fall. Da muss man dann ein paar Details angeben, Sternpunktbehandlung, genau, Angaben zum Anschlussnehmer eigenen Mittelspannungsnetz, das ist nur wichtig, wenn man ein internes Mittelspannungsnetz hat, weiß ich nicht, BASF oder irgendein VW-Werk, die haben das dann, große Firmen haben interne Mittelspannungssysteme, dafür wäre das dann wichtig, da muss man dann auch einen Plan mit anhängen, aber jetzt für unsere Freifläche ist das nicht galvanisch getrennt und bei der Dachanlage bei meiner zumindest gibt es das gar nicht, deswegen würde ich da erstmal nichts machen, beziehungsweise den schematischen Überflächsplan anhängen. Das Anlagenschema.
+
+(0:08:19 - 0:10:14)
+Blindleistungskompensation ist höchst projektspezifisch, wenn ihr die Netzberechnung macht, ja, dann kommt vielleicht raus, dass es kaufmännisch Sinn macht, eine Kompensationsanlage einzubauen, sehr spannendes Thema, elektrotechnisch gesehen, aber wir machen erstmal nicht, zumindest nicht in unserem Berliner Neukölln haben wir jetzt gar keinen Platz für so eine Kompensationsanlage. Tonfrequenzsperre ist nicht erforderlich, weiter geht's. Die zweite Seite war also Netztransformator, nicht zu verwechseln, gerade bei Freiflächen mit den Transformatoren, die dann parkintern installiert werden, ich meine, die kommen jetzt dann. 
+
+Dritte Seite, dritte von fünf, da haben wir jetzt Fragestellungen zu den Wechselrichtern, wir machen zwei Wechselrichter, das hatten wir vorhin schon, die zwei hier drin, die sind baugleich, wenn ihr unterschiedliche Typen habt, müsst ihr das hier irgendwie tabellarisch angeben, haben wir jetzt aber nicht. Wir machen immer die gleichen und wir sagen, dass, was machen wir denn, genau, wir sagen, neu anzuschließende Erzeugungseinheit, Prototyp müsste man anklicken, wenn man sagt, dass der Wechselrichter noch kein Einheitenzertifikat hat, sondern unter Prototyp läuft, was das wiederum ist, erkläre ich jetzt an der Stelle auch nicht, aber ihr findet's raus, indem ihr den Wechselrichterhersteller nach dem Einheitenzertifikat fragt, wenn er es euch gibt, dann seid ihr nicht im Prototypenablauf. Hier wird gefragt, ob es schon ein Anlagengutachten gibt, also mit anderen Worten, ein Anlagenzertifikat steht da auch und wenn es schon eins gibt, weil wir eine Erweiterung machen oder Cablepooling wäre dann ja auch eine richtig, richtig spannende Sache, da müsstet ihr den Anlagenbetreiber von der PV-Anlage fragen, ob er es bitte mal sehen könnte, weil ihr braucht dann die Nummer und auf diesen Ansätzen dann aufsetzen zu können, also gleich ein Netzanschlusspunkt, Anlagengutachten bezieht sich auf Netzanschlusspunkte, würde man hier angeben, wenn es das schon gibt.
+
+(0:10:14 - 0:11:36)
+Bei uns ist das nicht so, ich habe Neuanlage angekreuzt, haben wir noch kein Anlagenzertifikat. Typische Wechselrichter sind Vollumrichter, Haken rein, weiter geht's. Das ist eine relativ simple Frage, wir machen es hier mal mit einem Beispiel, wir haben einen Hersteller hier und dann holt man sich das Datenblatt und dann sagt man sich, naja, also der heißt, wie heißt der? Ja genau, so heißt der jetzt und dann schiebt man das einfach mit da rein und hängt ja dann auch vielleicht noch das Datenblatt mit an, zumindest das Einheitenzertifikat, dann könnten die auch noch selber was rauslesen, aber das ist erstmal eine grundlegende Angabe, welche Wechselrichter ich denn installieren möchte. 
+
+Die Wechselrichter haben Daten, die holt man sich aus dem Datenblatt und der, finde ich, einzige strittige Wert ist hier der Kurzschlussstrom, der da unten angefragt wird, Anfangskurzschlusswechselstrom und Dauerkurzschlusswechselstrom, da kann man jetzt natürlich die Techniker vom Wechselrichterhersteller fragen und dann geben die auch da Antworten. Wir machen es so, wie es da angestellt ist, dargestellt ist, ich zeige es nochmal, also IK und auch das IK-Strich, da sagen wir einfach 110% vom Nennstrom und dann holt man sich den dann aus dem Datenblatt. Genau.
+
+(0:11:37 - 0:12:17)
+Werte aus dem Datenblatt übernehmen, weil wir das hier einfach mal im Beispiel zeigen, brauche ich auch gar nicht so viel drüber reden, glaube ich, so sieht dieses typische Datenblatt aus. Da steht jetzt eine Nennscheinleistung 400 KVA, dann steht da eine AC-Power, da haben wir es schon, 3200 kW, das ist das, was ich vorhin schon kurz gesagt hatte, wer gute Augen hat, hat es gesehen, der Co-Sinus-V ist hier mit 0,8 benannt worden, also würde ich das mir umrechnen auf die 4000 kW. Da ist der Strom, 3850 Ampere und jetzt mal 110% hätten wir 4,23 Kiloampere.
+
+(0:12:17 - 0:13:24)
+Da ist die Spannung, 600 Volt und zack fliegen die Daten rüber. Also Niederspannungsangaben sind das jetzt, der Netzverknüpfungspunkt hat einen anderen Wert, hier sind die Wechselrichterdaten gefragt. Gibt es ein Einheitenzertifikat? Selbstverständlich gibt es das und das kommt ja jetzt auch in unserer Liste vor und an der Stelle will ich nur kurz mal darauf hinweisen, dass ich ungefähr 25 Minuten über den E1 geredet habe, jetzt rede ich 25 Minuten über den E8 und das E13 und dann auch das E14, das hake ich hier in 25 Sekunden ab, weil ich zeige es hier, das sieht so aus in der VDE 4110 als Vorlage, aber ihr holt euch das einfach aus dem Internet oder fragt den Wechselrichterhersteller, der schickt euch das, das ist unkritisch, der hat das, der muss es haben, sonst würde ich einen anderen Wechselrichter nehmen und dann habt ihr dieses Deckblatt, das ein bisschen anders dann aussieht, wechselrichterbezogen, bei Logo ist halt das Logo drin, nehmt euch das aus dem Internet, zieht es rüber und damit ist dieser Punkt, der in der Liste steht, für euch schon abgehakt.
+
+(0:13:26 - 0:14:11)
+Kriegt wieder einen Namen bei mir, Anhang 4 sind wir mittlerweile und jetzt hängt der da auch mit drin. Nicht erforderlich, ist schon mal gut. Maschinentransformator, ja, Maschinentransformator bei einer Dachanlage sage ich jetzt mal gibt es den nicht, da haben wir unseren Netztransformator, den wir vorhin schon eingetragen haben, aber bei einer Freifläche ist das schon so, da hatten wir ja den Netztransformator nicht, sondern haben jetzt in unserem PV-Park, da steht 20 kV zu 0,8 kV solche Trafos verbaut, Daten rüberschieben, reinsetzen und die Inhalte jetzt gerade nicht hinterfragen, sondern nur sich merken, dass das ein anderer Trafo ist als vom Prinzip, von der Beschreibung, von der Definition her, als der oben genannte Netztransformator.
+
+(0:14:11 - 0:14:31)
+Also bei Freiflächen brauchen wir den, bei Dachanlagen bräuchten wir ihn jetzt hier eigentlich nicht. Wir sind auf Seite 4 angekommen. Speicher, für die Zukunft ja, gibt es eine eigene Schulungseinheit dazu, deswegen hier nicht zu finden.
+
+(0:14:32 - 0:14:52)
+Das war eine einfache Seite, ist einfach ein anderer Brainday. Weiter geht's, dann die letzte Seite, da wird nochmal eine Checkliste abgefragt. Erster Punkt, Lageplan haben wir ja gemacht, haben wir jetzt ganz aufwendig erstellt, alle möglichen Daten angegeben, können wir mit gutem Gewissen abhaken und weiter geht's.
+
+(0:14:53 - 0:15:24)
+Anlagenschema haben wir bisher nicht drüber gesprochen, beschreiben wir auch in einer 2-Stunden-Einheit im Detail, was das jetzt hinter mir ist, damit man das jetzt nicht einfach kopiert, sondern natürlich projektspezifisch richtig erstellt. Klar, muss man machen. Wir sind beim E8-Bogen Phase 2, da müssen die Angaben jetzt auch stimmen, sonst wird darauf bezogen, der E9-Bogen nicht richtig sein, darauf passiert dann ein falsches Anlagenzertifikat und dann hat man bei der Inbetriebnahme erstmal nicht alles richtig vorbereitet.
+
+(0:15:24 - 0:15:51)
+Also, die Angaben müssen stimmen, so sieht so ein Schema beispielhaft aus, wir erklären es an anderer Stelle mehr im Detail. Grüner Haken, Baugenehmigung würde ich mal sagen, haben wir oder brauchen wir nicht, eins von beiden, dann kann man auch einen grünen Haken dran machen. Genau, positiver Baubescheid ist für uns alternativ, beides, finde ich, ist nicht unbedingt zielführend, da ich das Erste angekreuzt habe, brauche ich das Zweite jetzt nicht.
+
+(0:15:53 - 0:16:30)
+Nachweis der Ernsthaftigkeit, kann man auch alternativ machen, jetzt haben wir da sogar ein und oder draus gemacht, ist für uns aber eine Alternativgeschichte, wenn Baugenehmigung, dann ist das ja eigentlich schon ein klarer Nachweis, dass man da ernsthaft interessiert ist, ansonsten kann man ja auch irgendwie so geschwärzt so eine Wechselrichter- oder Modulbestellung, wenn die projektspezifisch ist, anhängen. Ich glaube, da achten die vielleicht gar nicht so drauf, aber dann hat man es gemacht. Den zeitlichen Bauablaufplan hatten wir schon, der geplante Inbetriebssetzungstermin ist so wichtig, dass er hier nochmal abgefragt wird, jetzt vielleicht am besten den gleichen nehmen wie bei E1, sonst wirkt das natürlich ein bisschen komisch.
+
+(0:16:32 - 0:16:56)
+So, und hier steht das auch nochmal beschrieben, dass das Bestandteil der Netzverträglichkeitsprüfung durch den Netzbetreiber ist. Darüber hinaus steht da, dient es zusammen mit dem Netzbetreiber auszufüllenden Fragebogen als Grundlage zur Erstellung des Anlagenzertifikates. Also auch dieser E8-Bogen, so wie ihr ihn ausfüllt, wird bei der Zertifizierstelle eingereicht werden.
+
+(0:16:56 - 0:17:49)
+Die gucken da drauf, die vergleichen dann auch Werte, insofern hier wieder hohe Motivation, diesen E-Bogen richtig auszufüllen und nicht einfach mal schnell irgendwas reinzuschreiben, wenn man in der zweiten Phase ist. Beim ersten Mal, finde ich, ist das noch nicht so relevant, den würdet ihr nicht bei der Zertifizierstelle eingreifen. Und da steht es nochmal, Bearbeitungszeit läuft er neu. 
+
+Die Dramatik hatte ich, glaube ich, schon mehrfach dargestellt. Ja, wir unterschreiben, setzen den Namen rein und haben dann auch den E8-Bogen bewusst, wissend, was wir da tun, wunderbar ausgefüllt. Der Formhalber jetzt E14, aber das ist wie beim Einheitenzertifikat. 
+
+Wir zeigen nur dieses Deckblatt hier, einfach weil das easy ist. Die Zertifikate kommen vom Hersteller, zum Beispiel der Parkregler. Da fragt ihr den Hersteller, dass er euch das bitte schickt.
+
+(0:17:49 - 0:17:57)
+Deckblatt sieht dann auch wieder so aus. Ist ja von der Norm vorgegeben, wie es auszusehen hat und dann reicht ihr das ein. Also aus dem Internet runterladen und einreichen.

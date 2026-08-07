@@ -1,0 +1,113 @@
+(0:00:00 - 0:04:33)
+Als nächstes gucken wir uns mal an, welche Schaltgeräte wir in der Abteilung Monitoring so finden. Da würde man sie erst mal nicht erwarten, aber ich glaube vom Grundprinzip ist das schon so, dass wir auch da welche vorfinden. Wir gucken gleich mal rein, was wir damit meinen. 
+
+Also als erstes ein sogenannter Leitungsschutzschalter. Das ist also auch ein Schaltgerät. Wie immer zeigen wir erst mal, wo wir die finden würden. 
+
+Hier wieder die Parfumanlage, der Wechselrichter und so eine typische Trafostation, wie sie da so steht. Und dann machen wir da wieder eine Tür auf. Das ist die Niederspannungsseite, da ist das meistens zu finden. 
+
+Und da hatten wir vorhin ja jetzt hier schon unsere großen Lasttrennschaltleisten und auch den AC-Niederspannungshauptschalter da. Den hatten wir schon. Und jetzt gucken wir aber auf diese andere kleine weiße Box da, die da auch noch oben in der Ecke hängt. 
+
+Da ist meistens so eine, ich zoome da mal ran, Eigenbedarfsverteilung vorgesehen, weil man in der Station zum Beispiel auch noch Licht braucht oder andere Sachen. Also das ist mal so beispielhaft so dargestellt. Das ist jetzt also Niederspannung 230 Volt. 
+
+Ist das eigentlich immer über irgendeinen Eigenbedarfstransformator oft noch realisiert. Und dann macht man natürlich so eine Verteilung drauf, weil man braucht ja mehrere saubere Anschlussstellen. Wir haben mal fünf Sicherungen bei uns eingebaut. 
+
+Und jetzt zeige ich einfach mal hier die Sicherung 1, F1. Die wäre zum Beispiel, damit man da irgendeine Datenbox oder eine Monitoringbox, wie auch immer die dann am Ende heißt, anschließen kann. Bei der F2 sagen wir, da hängt die Stationsbeleuchtung dran. 
+
+Das ist auch immer ganz wichtig. Das kann man auch einfach mal ausprobieren. Wenn man die Tür öffnet, hat die meistens so einen Hilfskontakt und dann geht automatisch das Licht ein. 
+
+Das ist sehr hilfreich und wahrscheinlich ist es den meisten gar nicht aufgefallen, weil man ja eigentlich immer tagsüber da arbeitet. Und dann merkt man das gar nicht so richtig. Wenn man dann mal nachts die Tür aufmacht, dann merkt man das. 
+
+Also so eine Station hat auch immer eine Beleuchtung. Haben wir jetzt hier nicht gezeigt, aber vielleicht hat die auch Lüfter oder eben andere noch Hilfseinrichtungen, die hier ihren Eigenbedarf abgreifen. Ja, Spezialanwendung Tracker ist ein großes Thema. 
+
+In dem Brain Day Tracker gehen wir da auch sehr konkret, ich glaube in dem ganzen Kapitel, darauf ein. So ein Tracker hat ja Motoren, damit er sich sozusagen bewegen kann. Und die brauchen sogar relativ viel Stromleistung, ziehen viel Leistung. 
+
+Und dann haben wir jetzt hier mal nur so beispielhaft einen ganz kleinen Tracker-Motor, wenn man so will, reingebaut. Also das ist jetzt nur, damit man es beispielhaft gleich sieht, was dann so der Unterschied wäre. Also vielleicht ein ganz kleines Tracker-Motörchen wäre hier auch mit angeschlossen. 
+
+Reserve macht immer Sinn. Baut immer eine Reserve ein, weil sonst denkt ihr am Ende, ach jetzt habe ich ja noch eine Monitoring-Inbox oder sonst irgendwie eine Kommunikationseinheit und wäre doch gut gewesen, wenn ich noch eine Reserve vorgesehen hätte. Die machen wir immer rein. 
+
+So, und der F5. Der F5, das sieht man auch schon in dem Modell, der sieht anders aus. Der ist größer, der hat auch so ein rotes Fenster da oben. 
+
+Und der, das werden wir gleich sehen, aber ich sage es schon mal, der hat dann zusätzlich auch noch eine Funktion des FIs. So nennt sich das. Das sage ich gleich noch ein bisschen genauer. 
+
+Und das ist deshalb wichtig, weil der wiederum diese Steckdose, die wir da gezeigt haben, absichert. Da geht es um Personenschutz und bei der Steckdose braucht man das, weil da ist man ja ständig dran, steckt das rein und raus. Und da kann ja dann auch durchaus mal, wenn man da seinen Staubsauger oder seine Bohrmaschine da dran steckt, sein Laptop, es zu einem Fehler kommen und dann braucht man zusätzlich diese FI-Funktion. 
+
+So, deswegen sieht der F5 auch so ein bisschen anders aus. Das ist jetzt erstmal unsere Eigenbedarfsverteilung, so haben wir die aufgebaut. Und jetzt ziehen wir ihn raus, den Leitungsschutzschalter, um den es ja geht. 
+
+Also vielleicht müsst ihr den in eurer Transformator-Stationsspezifikation auch mit spezifizieren und deswegen gucken wir uns jetzt erstmal an, warum wir den eigentlich brauchen. Weil darauf aufbauend ja dann wieder so eine Spezifikation relativ einfach möglich ist. Also, der hat die berühmte Schutzfunktion, wir haben ja wieder grün gemacht, ihr erinnert euch natürlich, ganz am Anfang habe ich ja mal diese drei verschiedenen Funktionen so vorsortiert.
+
+(0:04:33 - 0:06:59)
+Also, der hat ganz klar, der hat eine Schutzfunktion und zwar schützt er die Leitung, die da angeschlossen ist, aber im Endeffekt ja auch dann die Geräte, die da hinten dran sind, der F1 zum Beispiel, da hängt eine Kommunikationsbox dran, also die schützt er dann gleich mit. Und das Ganze nennt sich LS-Funktion, L steht für Leitung und S steht dann für Schutz, Leitungsschutz, relativ einfach. Jetzt gibt es aber eben auch noch, deswegen reiten wir da ja so drauf rum, einen Personenschutz und den gibt es aber nur, wenn da eine FI-Funktion integriert ist. 
+
+FI heißt, zeige ich hier, F für Fehler und I steht für Strom, also die Stromstärke, also abhängig von der Stromstärke, Achtung, Erdfehler, Strom ist damit gemeint, das ist sehr sensibel, sehr sensitiv und dann würde der da auslösen, im Fehlerfall und dem Personenschutz gewährleisten. Und im 3D-Modell kann man es, finde ich, sehr gut darstellen, deswegen haben wir es natürlich auch absichtlich gemacht, der sieht ähnlich aus und doch anders und zwar sieht er ähnlich aus, weil der Teil der LS-Funktion, also dieses Leitungsschutz-Schalter, den ich erst erklärt hatte, damit integriert wurde in unser 3D-Modell, also vielleicht noch mal in Ruhe, ein bisschen sortierter. Es gibt eine LS-Funktion, eine Leitungsschutz-Funktion und es gibt eine FI-Funktion. 
+
+Das sind erstmal zwei verschiedene Funktionen, was aber oft gemacht wird, ist, dass beide in einem Schaltgerät kombiniert werden, ist dann eigentlich so ein Kombi-Gerät, man sagt trotzdem immer nur so ein bisschen salopp FI-Schalter, aber die Kombination ist in unserem 3D-Modell dargestellt und so kenne ich es auch, also diese F5, die ja die Steckdose schützt, die hat jetzt eine Kombination aus diesen zwei Funktionen. Okay, dann schaltet man auch noch an der Stelle, das ist auch noch eine Funktion, genau, kann man unter Last machen, Licht ist an und trotzdem kann man mal diese hier rausnehmen. Selektivität, auch das ist immer sinnvoll und ist dadurch auch gegeben, wenn man es richtig dimensioniert, das würde dann, sieht man später, über die Strom- und die Nennströme gehen, also man versucht natürlich nach oben hin, die Selektivität zu gewährleisten.
+
+(0:07:02 - 0:08:15)
+Sieht man wieder unsere genannte Eigenbedarfsverteilung und jetzt zeigen wir noch mal diese Tabelle über mir, weil zusätzlich zu Name und Anschluss wollen wir jetzt zeigen, wer von denen also eine FI-Funktion integriert hat und das ist bei F1 bis F4 nicht erforderlich, weil da in Anführungsstrichen nur Komponenten dranhängen. Bei der F5 ist es erforderlich, weil er sozusagen auf Personen dranhängen, also im Sinne von, dass die da aktiv was in die Steckdose reinstecken. Weiter geht's, was ist denn dann das Schutzobjekt? Diesmal haben wir welche, das ist gut, die Leitung wird geschützt, die Geräte, die irgendwie in den Boxen dahinter hängen und wenn eine FI-Funktion integriert ist, dann werden auch Personen geschützt. 
+
+So, was gibt es da für Typen? Naja, also ehrlich gesagt wiederhole ich es jetzt wahrscheinlich zum dritten Mal, aber so ist jetzt eben unsere Reihenfolge aufgebaut gewesen, deswegen ziehe ich es jetzt auch durch. Es gibt den LS, also den Leitungsschutzschalter mit dieser reinen LS-Funktion jetzt erstmal nur und der löst aus, abhängig vom Leitungsstrom. Warum das nicht ist, sehen wir gleich noch bei dieser FI-Funktion.
+
+(0:08:16 - 0:09:03)
+Aber also abhängig vom Leitungsstrom und von der sogenannten Charakteristik, die zeige ich auch gleich nochmal. Und dann hat er eine Norm, meinetwegen, nach der so Leitungsschutzschalter dimensioniert werden. Da gibt es einen Typ, okay, nehmen wir erstmal A und dann vier viel wichtiger. 
+
+Es gibt den Nennstrom, zum Beispiel 6 Ampere, zum Beispiel 10 oder 16 Ampere. Es gibt eben eine Charakteristik, das sind erstmal die typischen B, C und D. Auf die gehen wir auch gleich noch ein, aber jetzt habt ihr es erstmal gehört, dass es verschiedene Typen gibt. Also es gibt nicht, genau, es gibt diese drei. 
+
+Dann gibt es die Anzahl der Pole, die, die wir hier zeigen, das sind einpolige Leitungsschutzschalter. Also die haben immer den N plus einen Pol. Dreipolige zum Beispiel gibt es auch.
+
+(0:09:04 - 0:10:51)
+Die Nennspannung 230 Volt, bei einpoligen macht das Sinn und bei dreipoligen, wenn es dann eben 400 Volt. Dann haben die eine Kurzschlussfestigkeit. Und jetzt kommt nochmal, finde ich, ein sinnhafter Punkt. 
+
+Wenn man jetzt also auch noch die FI-Funktion integriert, dann hätte man zusätzlich eine Fehlerstromerkennung gegen Erde. Das ist der Trick bei diesem FI und die sieht man jetzt schon in der Einheit. Das sind jetzt Milliampere gegenüber dem Nennstrom davon 6 Ampere. 
+
+Also bei einem sehr sensibel eingestellten Fehlerstrom von 30 Milliampere würde der jetzt schon auslösen und genau das ist der Grund, warum das jetzt als Personenschutz gilt und der andere nicht. So, wie dimensionieren wir das? Es gibt erstmal wieder eine Norm, die sagt dann erstmal, ja, also ich glaube die 1,3, die kam jetzt von uns, weil wir das ja immer so machen. Wir bauen uns da immer einen Puffer ein. 
+
+Aber grundsätzlich gilt hier das Gleiche wie bei den anderen auch. Der Nennstrom oder der Betriebsstrom, der muss kleiner sein als der Nennstrom von diesem Leitungsschutzschalter und dann bauen wir immer noch diesen Puffer mit ein. Was wäre das jetzt? So eine Monitoringbox muss man abschätzen, aber 400 Watt sind schon relativ viel. 
+
+Also gut, dann hat man schon da einen Puffer drin, aber sagen wir mal, die hat 400 Watt, muss man eben abschätzen. Dann rechnet man das mal kurz zügig aus in den Betriebsstrom und dann wählt man eine Sicherung aus, die in dem Fall deutlich größer ist, aber so eine 6 Ampere Größe ist ein absoluter Standardwert. Ich glaube, ich habe eigentlich immer 6 oder 16 Ampere in meinen Verteilerboxen vorgesehen und dann stellen wir erstmal fest, dass die Regel gilt. 
+
+Passt, weiter geht's. Im dritten Schritt kommt dann eben was, was noch ein bisschen vielleicht aufwendiger ist oder man nicht so oft macht. Man wählt die Charakteristik aus.
+
+(0:10:51 - 0:13:41)
+Jetzt sagen wir gleich mal hier, weil es ja für die Monitoringbox ist und ich das weiß, dass wir die B-Charakteristik wählen, weil die ideal ist für Elektronik. Naja, und da fragt man sich dann, warum ist das eigentlich so? Und dann haben wir eine Kennlinie hier mal vorbereitet, anhand der man das besser verstehen kann. Dazu brauchen wir die Auslösezeit auf der Y-Achse und den Fehlerstrom auf der X-Achse. 
+
+Also daran kann man immer ganz gut aus der Schutztechnik erkennen, wann eigentlich so eine Sicherung dann oder so ein Leitungsschutzschalter überhaupt erstmal auslösen würde. Und das ist jetzt also so eine B-Charakteristik, so ist die in der Norm definiert. Und das für sich alleine sagt jetzt erstmal noch nicht so viel aus. 
+
+Aber wenn man jetzt eben die anderen Charakteristiken mit dazu nimmt, dann versteht man glaube ich den Unterschied. Und erstmal ganz wichtig, im oberen Bereich sehen wir auch gleich, was das ist. Das ist eine thermische Auslösung. 
+
+Da gibt es überhaupt keinen Unterschied. Also so eine 6-Ampere-Leitungsschutzschalter ist eben in diesem relativ niedrigen Fehlerstrombereichen gleich. Aber wenn es in die höheren Bereiche geht, dann sind die Charakteristiken C und jetzt zeige ich auch noch D, sozusagen weniger sensibel. 
+
+Der Hintergrund ist, dass es ja durchaus auch mal so kleine Stromfehlerspitzen vielleicht geben kann, die aber dann eben nur für ganz, ganz kurze Zeit vorhanden sind. Und dann würde C und D vermeintlich nicht auslösen, B aber schon, weil B halt relativ deutlich sensiblere Technik schützen muss. Also die Charakteristik B nehmen wir für Elektronik, weil die sensibel ist. 
+
+Und wir sehen es gleich, aber dann sage ich jetzt schon mal, C würde man nehmen für Trackersysteme. Das ist so ein Motor, der kann das. Und der hat dann zum Beispiel auch so einen kurzen Anlaufstrom, wenn er erstmal losfährt. 
+
+Und genau dafür ist das gedacht, dass dann dieser Leitungsschutzschalter nicht fehlerhaft auslöst, nur weil jetzt so ein Anlaufstrom mal kurz kommt. Und dafür ist dieser untere Bereich dann so unterschiedlich ausgelegt. Das machen die, indem die da am Anfang so einen thermischen Auslöser nutzen. 
+
+Und in dem unteren Bereich ist es eine magnetische Auslösung. Das ist einfach so, wie die das halt umsetzen, dass also dann in den höheren Fehlerstrombereichen verschiedene Auslösezeiten zum Tragen kommen. Jetzt hat man erklärt oder verstanden, warum wir die B-Charakteristik in diesem Fall brauchen und schreiben auch noch hin, C würde ich also nehmen bei einer USV und bei Trackern-Motoren.
+
+(0:13:43 - 0:18:22)
+Das vervollständigt jetzt auch unsere Liste. Die Charakteristik F1 ist B, F2 ist B, F3, da haben wir die C reingesetzt. F4 ist wieder B und F5 ist auch wieder B. Genau. 
+
+So, dann waren wir mit unserem Leitungsschutzschalter erstmal fertig und dann haben wir noch ein zweites drin. Dann sind wir beim Monitoring auch schon durch. Ein Koppelrelais. 
+
+Ja, das ist ein ganz, ganz kleines Schaltgerät sozusagen, kommt dann sinnhafterweise in unserem Brainday-Modul auch am Schluss. Wo finde ich das? Ganz einfach hier in so einer Datenbox, jetzt auch wieder nur exemplarisch dargestellt. Da wäre sowas zum Beispiel zu finden. 
+
+Also die findet man vielleicht auch innerhalb der TRAFO-Station. Das ist projektspezifisch, aber wir haben es jetzt mal so gemacht, dass diese Koppelrelais da drin verbaut sind und man kann so klein, dass man es gar nicht lesen kann, deswegen ziehen wir es erstmal raus. So sieht so ein Ding aus, so sieht so ein Koppelrelais aus, wie es funktioniert, sehen wir jetzt auch gleich. 
+
+Also das hätte dann jetzt in unserem Elektroschema hier vierfach dargestellt, sind es vier Stück und wichtig ist, dass die aus, wenn man so will, zwei Elementen bestehen. Einmal diese Spule, das wäre K1, K2, K3, K4, also das wären jetzt vier Koppelrelais, sagen wir mal K1 ist das 3D-Modell, das wir da dargestellt haben. Dann hätten wir hier also eine Spule K1 und die wiederum hat dann Hilfskontakte, die wenn diese Spule schaltet, dann auch die Hilfskontakte betätigt. 
+
+Entweder gibt es da Schließerkontakte oder Öffnerkontakte und in unserem Beispiel K1 wäre das jetzt ein Schließerkontakt und diese Hilfskontakte, die wiederum gehen auf die Monitoring-Einheit. Sehen wir gleich in dem Beispiel, ich glaube, dann erkläre ich es einfach nochmal, wie es genau funktioniert und dann kann man es sich besser vorstellen. Ja, da geht es auch schon los unser Beispiel. 
+
+Also wir hätten jetzt die Trafotemperaturwarnung, die kommt vom Transformator, der hat auch irgendwie so ein Schutzrelais, einen Schutzmechanismus eingebaut und dann wissen wir, dass von diesem Transformator also vier Signale übermittelt werden. Einmal eine Temperaturwarnung, eine Temperaturauslösung haben wir drin, zum Beispiel wenn der Ölstand niedrig ist, sagt er das auch oder wenn es eine Gaswarnung gibt. Das sind typische vier Signale, die haben wir uns nicht ausgedacht, sondern die gibt es eigentlich so immer. 
+
+So und jetzt in unserem Beispiel, deswegen habe ich es orange gemacht, hätte man also eine Trafotemperaturwarnung, die wir jetzt beispielhaft mal darstellen, deswegen auch unser Thermometer da und jetzt haben wir das rot gemacht und die Temperatur ist angestiegen und irgendwann kommt es zu dem Punkt, den wir eingestellt haben, zum Beispiel 70 Grad als Beispiel und was dann passiert ist, hier zeigen wir es nochmal, jetzt wird die Spule angesteuert, das K1, in dem der Kontakt sozusagen im Transformator geschlossen wird, das heißt jetzt zieht die Spule an, hat man auch im 3D-Modell gesehen, ich mache es einfach nochmal, weil es so cool ist. Zack, also jetzt kommt das Signal, 0, 230 Volt, schließt, das Relais zieht und was dann gleichzeitig passiert, so ist halt so ein Koppelrelais aufgebaut, da drüben werfe ich auch eine Lupe hin, dass dann der Hilfskontakt schließt und dann die Monitoring-Einheit ein 1-Signal kriegt, vorher war es eine 0, deswegen habe ich oben nochmal einen Thermometer reingebastelt, jetzt weiß die Monitoring-Einheit, ich habe eine Temperaturwarnung. So funktioniert so ein Koppelrelais. 
+
+So, warum brauche ich denn überhaupt ein Koppelrelais? Also gut, grundsätzlich, um halt solche Signale ins Monitoring zu bringen, aber ein bisschen detaillierter, um eine galvanische Trennung zu erzeugen, also man hat es gesehen, das waren 230 Volt, Signal war ja im Trafokreis, im Steuerkreis des Transformators und das will man jetzt nicht unbedingt direkt auf seine Monitoring-Einheit legen, die hat vielleicht nur 24 Volt Eingänge und dann kann man das mit so einem Koppelrelais eben koppeln, die zwei Kreise, man kann gleichzeitig auch das Signal verstärken und anpassen, sind aber tatsächlich drei verschiedene Sachen, die man dann, wenn man so will, gleichzeitig macht. Die Anpassung wäre ja, was ich gerade beschrieben hatte, von 230 Volt kriegt man das auf ein 24-Volt-System in der Monitoringbox. Das erhöht auch die Betriebssicherheit, also wenn man in einem Ding mal einen Fehler hat, wirkt das sich nicht auf den anderen Kreis aus.
+
+(0:18:23 - 0:18:48)
+Eine Schutzfunktion hat es eben nicht, deswegen sind wir da gleich schon durch. Und der Typ ist auch sehr simpel, wir zeigen da mal wieder so ein Beispiel, also das gibt es als 24 Volt, das gibt es als 230 Volt, wie in meinem Beispiel gerade, muss man halt nur darauf achten, dass man es richtig auslegt. Dann muss man definieren, wie viele Kontakte will man denn eigentlich, in meinem Beispiel waren es jetzt mal fünf Schließerkontakte und einen Öffner, gibt es aber verschiedene Varianten.
+
+(0:18:49 - 0:19:33)
+Satellationsspannung ist wichtig, dass man das auf C-Schienen stecken kann, das ist eigentlich üblich, macht man glaube ich immer so. Jetzt dimensioniere ich mal noch so ein Koppelrelais, das mache ich einfach, ehrlich gesagt, bei der Spannung, also eben 230 Volt oder 24 Volt DC, muss ich halt nachgucken, was da mein System so mit sich bringt. Beim Nennstrom wieder das übliche, das ist hier jetzt aber wirklich leicht geworden, vorhin bei Mittelspannung und DC-Stromkreisen bei meinen Vorteilmodulen, Strings, war das ein bisschen komplizierter, hier ist das sehr simpel, weil diese Strome, die da fließen, so klein sind, dass das meiner Meinung nach eigentlich immer funktioniert.
+
+(0:19:34 - 0:20:04)
+Aber die Grundlogik ist die gleiche, deswegen haben wir sie hier mitgenommen. Also Monitoring-Einheit Kapitel beendet, wir haben uns den Leitungsschutzschalter angeguckt, wir haben uns das Koppelrelais angeguckt, das sind beides typische Komponenten, die in jeder PV-Anlage zu finden sind, kommt irgendwie schon aus der Hauselektriker-Technik, insofern ist das nichts PV-spezifisches, aber wir haben es erklären wollen, weil wir es ja doch immer auch bei uns vorfinden. Und dann seht ihr jetzt nochmal diese Gesamtübersicht im Hintergrund, die wir da jetzt ja sehr akribisch durchgegangen sind.

@@ -1,0 +1,53 @@
+(0:00:00 - 0:00:22)
+Live-Versuchsstand. Genau, vom Grundsatz her, hier rechts neben mir habe ich einen Versuchsstand aufgebaut und da brauche ich dann gleich meinen Kollegen, der dann ein bisschen für mich hin und her steckt. Und wir stellen uns das folgende Szenario vor, du stehst in einer PV-Anlage und sollst die LWL-Verbindung zwischen zwei Stationen prüfen.
+
+(0:00:23 - 0:00:45)
+Und was wir hier machen ist, wir machen hier eine Zuordnungsprüfung, also wir haben hier einen Laser. Wir haben eine Übergabestation und eine Trafostation und entweder hat man gute Beine heute und kann laufen oder man hat eben einen Kollegen dabei. Dann steht der Kollege in der Übergabestation und ich stehe in der Trafostation.
+
+(0:00:46 - 0:01:50)
+Dann muss ich eben nicht so viel laufen und das beschleunigt natürlich diese Prüfung ungemein. Also der Kollege, der hat dann auch noch ein Patchkabel dabei, in unserem Fall LC-LC, weil die Spleißbox LC-Buchsen hat und der Laser hat auch eben einen LC-Anschluss und dann steckt er das da rein und steckt dann eben seine Testlaser, in dem Fall hat er zwei Testlaser dabei, rein in das Patchkabel und jetzt kann er natürlich diese Testlaser auch, ich glaube, wenn man zweimal drückt, dann macht er ein Blinklicht, wenn er einmal drückt, kommt eben ein kontinuierliches Licht raus und so kann man dann eben immer zwei Fasern oder ein Fasernpaar zusammen prüfen. Also wenn man jetzt dieses Patchkabel verfolgt, oben links geht dann eben das kontinuierliche Licht in die Faser, oben rechts in den Anschluss geht dann eben das Blinklicht wieder raus und so würde ich das dann auch auf der anderen Seite erwarten.
+
+(0:01:50 - 0:02:10)
+Hier sieht man das mal durchgehend leuchten, oben links, blinkend oben rechts. So, das ist eben der Versuchsaufbau. Ihr habt jetzt eine Excel-Tabelle bekommen, hoffentlich im Chat und soll dann gleich, wenn wir hier prüfen, die Ergebnisse aufnehmen.
+
+(0:02:11 - 0:02:45)
+Also ihr seid bereit mit der Excel-Tabelle, könnt dann auch gleich rein tippen und mein Kollege, der wird in Kürze mit der Prüfung anfangen. Dafür muss mein anderer Kollege schnell nochmal die Kamera überhaupt einschalten, damit wir überhaupt sehen, was jetzt wirklich live an dieser Spleißbox passiert. Wie sieht das aus, wenn da der Laser rauskommt oder das Laserlicht rauskommt? Genau, jetzt gleich haben wir die Kamera, dann erkläre ich einmal kurz den Teststand.
+
+(0:02:46 - 0:03:14)
+Genau, hier sehen wir das und wir haben jetzt oben diese Spleißkassette, da ist die Hand vom Kollegen schon, der hat jetzt das Patchkabel, von dem wir gesprochen haben, schon rausgezogen. Jetzt würde er das einfach mal oben in diese beiden Eingänge reinstecken und am anderen Ende des Patchkabels, da sind jetzt diese zwei Laser angebracht, vielleicht nochmal ein bisschen mehr nach rechts halten. Ja genau, so sehen diese Laser aus.
+
+(0:03:14 - 0:03:48)
+Das sind sehr, sehr einfache Geräte, die eben leuchten können oder blinken können. Und wir gehen jetzt in der PPT nochmal eine Folie weiter, weil die Aufgabe von dem Kollegen ist jetzt, dieses Gerät, diese Laser oben reinzustecken, hat er ja gemacht. Und jetzt müssten wir mit der Kamera an der anderen Spleißbox, da müssten wir jetzt mal ein bisschen reinzoomen, dann auch tatsächlich sehen, dass wir da ein Ergebnis bekommen an den oberen, wackelt ein bisschen, an den oberen Ausgängen.
+
+(0:03:48 - 0:03:59)
+So, wie man sieht, sieht man jetzt erst mal nichts. Ich würde jetzt dem Kollegen sagen, hast du die Prüfung schon gestartet? Und er sagt Nein. Ja, dann sage ich Los, starte die Prüfung.
+
+(0:04:00 - 0:04:43)
+Und wir haben jetzt oben rechts ein durchgehendes Leuchten. Das sieht man hier ganz deutlich. Es leuchtet. Ich sehe aber tatsächlich oben links jetzt noch nichts. Jetzt hat er beide Laser wieder ausgeschaltet. Ja, so, also, und jetzt notiert ihr bitte das Ergebnis und wir gehen dann gleich, wenn ihr es notiert habt, ich denke, das habt ihr jetzt geschafft, gehen wir zu der nächsten, zu dem nächsten Eingang in der Trafo-Station, in der Übergabestation und prüfen den Eingang B1, B2.
+
+(0:04:44 - 0:04:51)
+Erste Prüfung hatten wir hier. Ihr seht das in der PowerPoint parallel. Wir gehen jetzt eins runter und die Kamera hat es auch eingefangen.
+
+(0:04:52 - 0:05:03)
+Das hat der Kollege auch tatsächlich gerade live geändert. Und jetzt sehen wir an dem Ausgang in der Trafo-Station 1 das, was wir sehen. Ihr sollt das, ich bewerte das nicht für euch.
+
+(0:05:03 - 0:05:12)
+Ihr sollt das notieren und dann selbst bewerten. Später fragen wir das natürlich ab, ob ihr die richtigen Ergebnisse notiert habt. Dann gehen wir weiter.
+
+(0:05:13 - 0:05:26)
+Jetzt baut der Kollege um. Ich sitze in der PPT und ihr seht es live im Bild. Er steckt dann eben von den Eingängen 2 auf 3, genau.
+
+(0:05:28 - 0:05:42)
+Und jetzt sehen wir, dass an den Ausgängen hier auch etwas passiert. Und auch das bitte wieder notieren und dann bewerten, ob das richtig ist oder nicht. Jetzt gehen wir in der PPT noch mal eins runter.
+
+(0:05:42 - 0:05:47)
+Also wir stecken das Kabel noch einmal um. Wieder eins tiefer. Die Kamera geht mit.
+
+(0:05:49 - 0:06:07)
+Der Kollege steckt um. Das ist jetzt der vierte Eingang vielleicht in der Trafo-Station 1. Und hier sind wir jetzt am vierten Ausgang in der Trafo-Station 1. Ja, okay. Und hier sehen wir wieder ein Ergebnis.
+
+(0:06:07 - 0:06:14)
+Und das bitte auch wieder notieren. Und dann fragen wir das so im Menti ab. Und genau so würden wir tatsächlich so eine Zuordnungsprüfung durchführen.
+
+(0:06:14 - 0:06:24)
+Man kann das mit zwei Lasern machen. Man kann das natürlich auch mit einem Laser machen. Dann sind die Ergebnisse einfach etwas anders, aber natürlich auch gültig.

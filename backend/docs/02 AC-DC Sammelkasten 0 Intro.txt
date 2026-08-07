@@ -1,0 +1,29 @@
+(0:00:00 - 0:00:11)
+Herzlich willkommen zum heutigen Brain Day. Ich freue mich, dass ihr dabei seid zum heutigen Thema AC-Sammelkasten und DC-Sammelkasten. Also wir gucken uns heute an.
+
+(0:00:11 - 0:00:32)
+Erst die DC-Sammelkästen, das ist für uns eine Komponente, die sehr häufig vorkommt. Und in der Analogiebetrachtung machen wir dann ziemlich am Schluss noch den Sprung zu den AC-Sammelkästen. Jetzt gehen wir gleich mal in die Übersicht drüber.
+
+(0:00:33 - 0:00:42)
+So, da ist mein Pointer. Und ich erkläre kurz, was wir die nächsten zwei Stunden machen. Wie gewohnt, das machen wir jedes Mal so.
+
+(0:00:42 - 0:00:52)
+Schauen wir uns erstmal an, wozu brauchen wir eigentlich DC-Sammelkästen, wozu brauchen wir AC-Sammelkästen. Dann schauen wir uns die Komponenten an. Das nehme ich jetzt mal vorweg.
+
+(0:00:53 - 0:01:04)
+Das machen wir ausschließlich für den DC-Sammelkasten. Erstens, weil er bei uns häufiger vorkommt. Und zweitens, weil man dann aus den Grundlogiken auch auf die AC-Sammelkästen überleiten kann.
+
+(0:01:05 - 0:01:10)
+Wir machen eine elektrische Auslegung. Die mache ich erstmal. Ich zeige, wie ich das machen würde.
+
+(0:01:10 - 0:01:19)
+Und dann machen wir da auch noch eine kurze gemeinsame Übung. Deswegen Taschenrechner sind heute erforderlich. Aber ehrlich gesagt nur so für drei, vier bis fünf Minuten.
+
+(0:01:20 - 0:01:27)
+Dann gucken wir uns ein Datenblatt an. Auch das ausschließlich von einem DC-Sammelkasten. Das dafür aber sehr genau.
+
+(0:01:28 - 0:01:53)
+Dann mehr so der praktische Teil. Da haben wir ein paar Bilder mitgebracht und eine 360-Grad-Tour, sodass sich jeder selber mal die Montage von so einem Sammelkasten im Detail anschauen kann. Und als letztes, das werden fünf bis zehn Minuten am Schluss sein, versuchen wir nochmal die ganze Analogie von diesem gelernten Anwendungsfall eines DC-Sammelkastens auf so einen AC-Sammelkasten zu übertragen.
+
+(0:01:54 - 0:01:57)
+Aber das sehen wir dann später in diesem Kapitel.

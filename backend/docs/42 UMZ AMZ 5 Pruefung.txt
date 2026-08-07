@@ -1,0 +1,287 @@
+(0:00:00 - 0:00:31)
+Nach der Pause, super, es geht weiter, ich springe in das nächste Kapitel Überstromschutzprüfung. Wir gucken in das Kapitel Prüfung von Überstromschutz. Also, mit anderen Worten, jetzt habe ich da einen Relais, einen Leistungsschalter, eine Anlage, ich habe auch meine Einstellwerte, aber wie prüfe ich denn jetzt dann eigentlich das ganze System? Also, erstmal wichtig vorneweg, man macht so eine Schutzprüfung vor Ort.
+
+(0:00:32 - 0:01:16)
+Wir würden das nicht zulassen, dass man den Werkseinstellungen vertraut sozusagen, sondern es gibt nun mal das Argument, dass es da eigentlich immer im Raum steht ist, dass ja auch nochmal auf dem Transport irgendwas verruckelt sein kann, irgendein Auslösekontakt hat sich gelöst und aus der Erfahrung heraus ist das auch so, natürlich nicht bei jedem, aber reicht ja, wenn es bei jedem Fünfzigsten ist, weil dann das später auf dem Feld einfach nicht mehr richtig funktioniert. Also, wir machen vor Ort eine Schutzprüfung und wir wiederholen die alle vier Jahre, so steht es jedenfalls in den Richtlinien drin. Jeder, der nach vier Jahren mal auf einer Anlage war, die vielleicht nicht so gut gepflegt ist, stellt auch fest, wie anders das dann aussieht.
+
+(0:01:17 - 0:01:56)
+Also, da hat sich ein ganzes Tierreich oft entwickelt in so einer Trafostation und dann mag das schon auch mal so sein, dass da wiederum irgendein Auslösekontakt rausgerutscht ist, weil da sich Kleintiere dann eingenistet haben. Also, das macht man so in jedem Fall vielleicht sogar regelmäßiger. Und wenn man irgendwas ändert, dann auch, das ist immer wieder eine Frage in der Diskussion, ich sage jetzt erstmal grundsätzlich ja, wenn wir Einstellwerte ändern, dann prüft man auch erfahrene Kollegen, Schutztechniker, rutscht da mal in der Logik was durch, wenn sie irgendwas verändern, dann hat man doch wieder eine Nachkommastelle verdreht oder einen Auslösekontakt dann übersehen.
+
+(0:01:56 - 0:02:12)
+Insofern einfach nochmal prüfen. Am Ende ist die Schutztechnik sehr komplex und deswegen hilft es ausschließlich eine Prüfung, um alle Eventualitäten abzudecken. Also, so sieht unser Beispiel, das wir jetzt nutzen, aus.
+
+(0:02:12 - 0:02:39)
+Da ist ein Relais und ich schiebe das glaube ich auch gleich nochmal zur Seite. Vorher mache ich hier den Fehler rein, also in unserem Beispiel finde ich immer besser, an Beispielen ist sowas immer greifbarer. Da ist jetzt also ein Kurzschluss, sagen wir mal, am Transformator, auf der Mittelspannungsseite und das Schutzrelais und der Stromwunder dazu sind am anderen Kabelende im Umspannwerk, im Abgangsfeld vom Umspannwerk.
+
+(0:02:39 - 0:02:54)
+So wäre erstmal das Beispiel, das wir uns hier nehmen. Man kann das aber dann in der Logik adaptieren auf alle anderen Systeme. Das nehmen wir jetzt endgültig mal so mit, grauen den Rest auch aus, genau weil der nicht so wichtig ist, also auf diesen Bereich gucken wir jetzt mal.
+
+(0:02:54 - 0:03:13)
+Wie würde man das jetzt darstellen? Ich bringe wieder meine berühmte Zeitachse und meine Stromachse ins Spiel, hier sind sie und für die, die ganz aufmerksam sind, haben das schon gesehen. Das ist jetzt eine doppellogarithmische Darstellung, so macht man das. Deswegen geht das jetzt nicht mehr in Zehner-Schritten nach oben, sondern in Potenzschritten.
+
+(0:03:14 - 0:03:46)
+Das hilft bei der Darstellung, kann man ja vielleicht einfach mal selber aufzeichnen, dann wird man ganz schnell merken, dass bei Kurzschlussströmen, zum Beispiel 7000 Ampere, man da ein extrem großes Blatt Papier bräuchte, um das aufzuzeichnen gegenüber dem Nennstrom, dem Betriebsstrom, der vielleicht ja nur bei 100 Ampere liegt. Und um genau das ein bisschen sinnhafter darstellen zu können, bei der Zeit ist es das gleiche, Millisekunden gegenüber vielleicht einer halben Stunde, macht man das mit diesen doppellogarithmischen Darstellungen. Dann wird das einfach kompakter.
+
+(0:03:47 - 0:04:04)
+Wir fangen jetzt mal an. Wir machen jetzt den Schritt 1, Betriebsstrom. Wie ist der Betriebsstrom in diesem Kabelfeld, in diesem Kabelabgang vom Umspannwerk zu erwarten? Und das gebe ich jetzt hier mit 58 Ampere an.
+
+(0:04:04 - 0:04:21)
+Wir haben uns dafür entschieden, jetzt nicht kleinteiliger zu erklären, wo der herkommt, das sind, finde ich, andere Planungsschritte. Also kurz gesagt, man muss jetzt in der PV-Welt gucken, der Wechselrichter unten, was hat der für einen Nennstrom und wie viele davon hängen an diesem Abgang. Und dann bitte aber auch auf Mittelspannungsebene umrechnen.
+
+(0:04:21 - 0:04:33)
+Und dann kommen wir in unserem Beispiel jetzt mal auf 58 Ampere Betriebsstrom. Da zeichne ich ihn ein, da ist er ganz links in meiner X-Achse gestrichelt. Das ist der Standpunkt.
+
+(0:04:34 - 0:04:47)
+Im zweiten Schritt schaue ich mir die Dauerbelastbarkeit der zu schützenden Komponente an. Das ist bei mir, ich mache es hier gleich mal rein, das Mittelspannungskabel. Das wollen wir ja schützen, das wollen wir uns angucken.
+
+(0:04:48 - 0:05:06)
+Also der IN vom Mittelspannungskabel, also mit welchem Strom ist dieses Kabel dauerbelastbar. Und das haben wir uns in einem anderen Kurs angeguckt, wie man das nach Norm ausrechnet. Und da kommen wir für unser projektspezifisches Kabel auf 110 Ampere.
+
+(0:05:07 - 0:05:17)
+Zeichnen wir auch hier mit rein, da ist er. So, jetzt kommen die Regeln. Die Regel ist jetzt erstmal, finde ich, sehr naheliegend.
+
+(0:05:18 - 0:05:36)
+Deutlich fängt vielleicht einfach an, wenn man so will. Der Betriebsstrom muss kleiner sein als die Dauerbelastbarkeit des Mittelspannungskabels. Das ist das allererste, was ich aus so einem Schutzdiagramm herauslesen kann, ob diese erste Regel jetzt überhaupt befolgt wurde.
+
+(0:05:36 - 0:05:49)
+Also die Gerade der Dauerbelastbarkeit meiner Komponente muss rechts von der Gerade des Betriebsstroms liegen. In unserem Beispiel ist das erstmal so. Also Daumen hoch, bis jetzt haben wir alles richtig gemacht.
+
+(0:05:51 - 0:06:06)
+Dann gehen wir in den dritten Schritt. Wir definieren jetzt mal die Stufe 1. Ihr erinnert euch, im UMZ-Kapitel habe ich das erklärt, mit zwei Stufen, man kann auch mehr machen. Wir machen jetzt mal hier zwei Stufen, zwar genauso, wie ich es vorhin auch gezeigt habe, nur eben etwas detaillierter.
+
+(0:06:06 - 0:06:33)
+Also, wie wollen wir die erste Stufe auslegen? Dann folgen wir jetzt erstmal der ersten Regel. Daumen wert, dass man diese I größer, so steht das hier in den Indizes, also der erste Stufe vom Strom, ungefähr 10 bis 20 % größer einstellt als der Betriebsstrom. Das kommt einfach daher, dass der erst abschalten darf, wenn der Betriebsstrom überschritten wird.
+
+(0:06:33 - 0:07:00)
+Dann nimmt man sich Messungenauigkeiten vom Relais oder auch vielleicht von eurer Berechnung oder im Ausgang vom Wechselrichter her und sagt, mehr als 10 bis 20 % Messungenauigkeiten, das kann es auf keinen Fall sein. Alles darüber muss dann also ein Fehler sein. Dann nehme ich noch einen zweiten Punkt mit rein und sage, dass aber diese erste Stufe kleiner sein muss, als die Dauerstrombelastbarkeit meines Kabels.
+
+(0:07:00 - 0:07:21)
+Also, ich will, dass die erste Stufe früher detektiert, vielleicht dann auch abschaltet, als die Dauerbelastbarkeit meines Kabels ist. Deswegen liegt jetzt diese grüne Linie, ich habe es gerade im Diagramm eingezeichnet, seht ihr die? Zwischen den zwei hellblauen Linien. Da muss meine erste Stufe von meinem Schutzrelais rein.
+
+(0:07:22 - 0:07:38)
+Jetzt sagen wir erstmal so dahingesagt, dass wir das eher langsam machen wollen. Also eher langsam, das hilft natürlich keinem Schutztechniker, da brauchen wir natürlich Zahlen. Die genauen Zahlen kommen dann später aus der späteren Logik heraus.
+
+(0:07:38 - 0:07:49)
+Wir machen es jetzt eher langsam und ihr seht es ja an der Zeitachse, das sind jetzt ungefähr 10 Sekunden. Da liegt das jetzt drin, einen Moment, da schiebe ich es rein. Also das ist jetzt die 10 Sekunden gerade sozusagen.
+
+(0:07:49 - 0:08:02)
+Das ist in der Schutztechnik eher langsam. Erstmal Daumen hoch, weil wir haben unsere Regeln erfüllt, alles ist in Ordnung. Dann gehen wir weiter in den vierten Schritt.
+
+(0:08:02 - 0:08:26)
+Jetzt kommt nach der Dauerbelastbarkeit kommt die Bewertung des Kurzschlusses. Das ist einfach ein anderer Fehler, den wir jetzt betrachten und dafür braucht man eine Netzberechnung. Das kriegt man nicht anders hin, man kann das aus Erfahrungswerten von anderen Projekten meinetwegen rausziehen, aber verschiedene Netze, verschiedene Länder, verschiedene Netzbetreiber haben einfach unterschiedliche Topologien und dann auch verschiedene Kurzschlussströme, die dabei rauskommen.
+
+(0:08:26 - 0:08:40)
+Da müsst ihr euch abstimmen mit den Netzbetreibern und dann sinnhaft eine Netzberechnung machen. Dann kommt man auf wirklich richtige, valide Werte und zwar zwei Stück. Einmal den minimalen Kurzschluss, in unserem Beispiel 7,6 Kiloampere.
+
+(0:08:41 - 0:08:50)
+Da ist er. Und einmal den maximalen Kurzschlussstrom, 9,1 Kiloampere. Warum wir das beides brauchen, werdet ihr gleich sehen, aber es sind immer zwei Werte.
+
+(0:08:50 - 0:09:07)
+Also jetzt am Beispiel Übergabestation, Umspannwerk, der Netzbetreiber kann euch sagen, an seinem Netzverknüpfungspunkt wird im Kurzschlussfall der Kurzschluss zwischen diesen zwei Werten liegen. Das ist wichtig, beide Werte mitzukriegen. Also, schön orange in meinem Diagramm eingezeichnet.
+
+(0:09:07 - 0:09:22)
+Weiter geht's. Wenn ich jetzt im fünften Schritt meine zweite Stufe definiere, ich glaube, jetzt wird schon klar, die erste Stufe kümmert sich also um die Dauerbelastbarkeit, um den Überstrom. Die zweite Stufe kümmert sich jetzt hier um den Kurzschlussfall.
+
+(0:09:22 - 0:09:48)
+Wenn ich jetzt also die zweite Stufe definieren will, dann habe ich auch wieder Regeln. Erstmal, der Stromwert von der zweiten Stufe, der muss kleiner sein als der minimale Kurzschlussstrom, den wir gerade genannt haben. Also, wenn ich die minimalen Werte betrachte, das, was mindestens passiert, dann muss der die Stufe bitte vorher abschalten oder das Ganze als Fehler detektieren.
+
+(0:09:49 - 0:10:00)
+Das machen wir jetzt in unserem Beispiel mal mit 300. 300 Ampere ist kleiner als 7600 Ampere. Da haben wir also ganz viel Puffer, aber das reicht uns erstmal.
+
+(0:10:00 - 0:10:15)
+Und da ist jetzt die Bewertung der Zeit eben erstmal als schnell zu betrachten. Also eben vor allem gegenüber der ersten Stufe machen wir das jetzt viel schneller. Da reden wir jetzt von 100 Millisekunden, wer das Diagramm sich angeguckt hat, 0,1 Sekunde.
+
+(0:10:15 - 0:10:29)
+Und dann achten wir meinetwegen noch auf Selektivität gegenüber anderen Schutzrelais. Das ist aber jetzt nicht heute der Punkt, sondern wir bauen jetzt erstmal unser eines Relais so fertig. Also 100 Millisekunden, ihr seht es über mir, habe ich es eingefügt in die Übersicht.
+
+(0:10:29 - 0:10:41)
+Die zweite Stufe hat 300 Ampere mit 100 Millisekunden Abschaltzeit. So sieht jetzt erstmal mein Diagramm, finde ich schon mal sehr ansprechend aus. Ich habe beide Stufen eingezeichnet.
+
+(0:10:42 - 0:10:50)
+Daumen hoch, ich bin mit mir selbst sehr zufrieden. Weiter geht es. Jetzt kommt der sechste Schritt.
+
+(0:10:50 - 0:11:04)
+Jetzt gucken wir uns an, wie mein Kabel, das ich ja hier schützen will, eigentlich kurzzeitig maximal belastbar ist. Nennt sich I2-K. Und das wird meistens angegeben für eine Sekunde.
+
+(0:11:04 - 0:11:08)
+So habe ich es ja auch in den Text geschrieben. Kann man aus dem Datenblatt rausholen. Das mache ich jetzt hier auch.
+
+(0:11:08 - 0:11:25)
+Und dann sehe ich im Datenblatt, der Hersteller sagt, also wenn du für eine Sekunde 17.300 Ampere dadurch jagst, dann hält mein Kabel das gerade so aus, ohne dass es Schaden nimmt. Das ist also der maximale Wert. Und den setzen wir jetzt hier als Punkt rein.
+
+(0:11:25 - 0:11:39)
+Achtung, da ist er. Weil das ist ja nur für einen Zeitwert richtig, für eine Sekunde. Und weil wir das aber abhängig wissen wollen von der Zeit, machen das vor allem die Netzberechnungssimulationsprogramme, machen das wunderbar.
+
+(0:11:39 - 0:11:45)
+Man kann es einmal gerne mit der Hand machen. Hier haben wir die Formel reingeschrieben. So kann man das umrechnen.
+
+(0:11:47 - 0:11:59)
+Diesen kurzzeitigen Belastbarkeitsstromwert auf andere Zeit spannen. Und dann wird da so eine Gerade draus. Und jetzt sieht man schon, das finde ich ist die Interpretation, die ausreicht für den Moment.
+
+(0:11:59 - 0:12:10)
+Umso höher der Strom ist, umso weniger lang darf dieser Strom anliegen. Also das sind ja meinetwegen 100.000 Ampere. Da steht es ja 100 Kiloampere.
+
+(0:12:10 - 0:12:19)
+Da kommt man dann in den Bereich, wo das das nur noch 10 Millisekunden, aber immerhin theoretisch tragen könnte. Da brauchen wir jetzt eine Regel. Da brauchen wir auch wieder eine Regel.
+
+(0:12:19 - 0:12:41)
+Und wir sagen, dass mein IK2', also die kurzzeitige Belastbarkeit des Kabels, größer sein muss als der maximale Kurzschlussstrom, der da auftritt. Ich hoffe, das ist nachvollziehbar. Also wir wollen ja, dass das Kabel mehr trägt, als ich an maximalen Kurzschluss habe.
+
+(0:12:42 - 0:13:00)
+Die zweite Stufe ist, und die habe ich jetzt hier extra noch mal grün markiert. Die zweite Regel ist, die Stufe 1 und 2 des Schutzrelais muss jetzt unterhalb der Belastungsgrenze des Kabels liegen. Also ich finde, ich habe das mehrfach gemacht hier, dieser allerletzte Schritt, der hat es in sich, den muss man erst mal greifen.
+
+(0:13:00 - 0:13:27)
+Vielleicht versuche ich es noch mal einfach mit anderen Worten, dass die blaue Kennlinie gibt an, was mein zu schützendes Objekt, das Mittelspannungskabel, aushält. Und jetzt muss ich mit meinen grünen Schutzstufen es schaffen, dass zu jedem Fehlerfallmöglichkeit das Relais schneller abschaltet, als eben mein Kabel es trägt. Und das ist in Interpretation auf das Diagramm, links davon und drunter bleiben.
+
+(0:13:28 - 0:13:36)
+So könnte man es vielleicht noch mal anders darstellen. Bei mir ist das super gelungen. Also mein grüner Bereich ist ja links und unterhalb von der blauen Linie erst mal alles gut.
+
+(0:13:36 - 0:13:53)
+Und jetzt will ich noch darauf hinaus, deswegen habe ich das so grün gemacht, bei der zweiten orangenen Linie, da hört das plötzlich auf. Und jetzt wird es wichtig, warum wir diesen zweiten Kurzschlussstrom haben, diesen maximalen Kurzschlussstrom genannt bekommen haben. Weil noch weiter müssen wir das nicht betrachten.
+
+(0:13:54 - 0:14:14)
+Höhere Kurzschlussströme können ja gar nicht auftreten. Für alle, die jetzt noch so richtig dabei sind, sozusagen in diesen Gedankenspielen, wäre es nämlich so, wenn ich weitergehen würde zu dieser Schnittstelle, Schnittpunkt der grünen Linie und der blauen Linie, dann würde das Kabel nicht mehr geschützt sein. Aber so große Ströme haben wir nicht.
+
+(0:14:15 - 0:14:24)
+Deswegen ist der Fall für uns außerhalb der Betrachtung, außerhalb des grünen Schriftschriftenreiches alles in Ordnung. Daumen hoch. Wir haben unser Kabel sehr gut geschützt.
+
+(0:14:25 - 0:14:31)
+Jetzt haben wir das ja gemacht. Wir haben jetzt diese Stufen eingestellt. 75 Ampere, 10 Sekunden, 300 Ampere, 0,1 Sekunde.
+
+(0:14:32 - 0:14:41)
+Ich habe den Rest jetzt wieder rausgenommen, weil die Herleitung ist jetzt klar. Und jetzt haben wir uns erst mal diese Punkte angeguckt. Jetzt bitte einmal Übersetzungsverhältnis beachten.
+
+(0:14:42 - 0:14:49)
+75 zu 1 Ampere nehmen wir als Beispiel. Und was dann nämlich rauskommt bei unserer Sache, ist eine Sekundärachse. Da unten seht ihr die.
+
+(0:14:50 - 0:14:58)
+Die hat jetzt plötzlich andere Stromwerte. Also es ist wichtig zu verstehen, ob man sekundär oder primär sich das Ganze anguckt. Wir machen das heute primär.
+
+(0:14:58 - 0:15:05)
+Das ist, finde ich, einfacher für den Kopf. Der Schutztechniker muss das später sekundär machen. Aber da will ich es jetzt nicht übertreiben.
+
+(0:15:06 - 0:15:16)
+Jetzt reicht es ja erst mal, wenn wir das primär verstanden haben. Aber ich habe es mal hier hingeschrieben. Also 75 Ampere auf der Mittelspannungsseite wäre am Relaiseingang dann nur 1 Ampere.
+
+(0:15:16 - 0:15:29)
+Typische Riesen-Fallstrick für alle, die da mal so ein Relais prüfen. Wenn man das falsch irgendwie umrechnet oder macht, dann, naja, klappt es hinten raus einfach nicht so richtig. So, das ist die Einstellung von unserem Schutzrelais.
+
+(0:15:30 - 0:15:47)
+Das hat jetzt viel Mühe gekostet, aber das war es bestimmt wert, weil jetzt hat man, glaube ich, erst mal die Grundlogik super greifen können. Und jetzt gehen wir endlich in die Prüfung. Wie kann ich jetzt das prüfen, ob diese Stufe beim Relais wirklich eingestellt ist? Wir gucken uns mal die erste Stufe an.
+
+(0:15:47 - 0:16:01)
+Das ist eine Rampe, die wir da nutzen, um diese I größer erste Stufe 75 Ampere einmal zu testen. So. Ja, hier noch mal die Darstellung mit Primär und Sekundär.
+
+(0:16:01 - 0:16:08)
+Genau, Entschuldigung. Also so ein Stromwandler wäre das. Das, was ich gerade mit der Zeitachse gemacht habe, mache ich hier auch noch mal schnell mit der Stromachse.
+
+(0:16:08 - 0:16:16)
+Ihr seht das. Einfach danebenlegen, wie das wäre, wenn das Primär und Sekundär ist. Einfach, um es zu visualisieren.
+
+(0:16:16 - 0:16:26)
+Das kann man beides machen. Die modernen Programme können auch automatisch hin- und herschalten und ihr im Kopf da meinetwegen auch. Aber hier seht das noch mal, Primär 75 Ampere, Sekundär 1000 Milliampere.
+
+(0:16:26 - 0:16:42)
+Gut, wir machen mit Primär weiter. So, und jetzt gucken wir uns mal so eine typische Vorgehensweise an. Einmal oben Strom gegen Zeit-Diagramm und drunter nehme ich jetzt die Rückmeldungen von meinem Schutzrelais auf.
+
+(0:16:43 - 0:16:57)
+Ich zeige das mal in aller Ruhe, wie ich das machen würde und wir gleich auch live machen werden. Ich baue mir erst mal eine Rampe. Das heißt, ich erhöhe den Strom und definiere mir oben meinen Zielwert.
+
+(0:16:57 - 0:17:04)
+75 Ampere habe ich ja eingestellt in meinem Relais. Jetzt will ich gucken, ob das dann auch wirklich trippt. Da oben ist er in Orange dargestellt.
+
+(0:17:05 - 0:17:09)
+Abweichungen gebe ich auch immer vor. Mache ich vorher. Typischer Wert 1,5 Prozent.
+
+(0:17:09 - 0:17:17)
+Das zeichne ich jetzt gleich mal da oben ein. So, das ist so meine Range, die ich jetzt treffen will. Und jetzt mache ich gleich genau das.
+
+(0:17:17 - 0:17:24)
+Ich erhöhe einfach langsam den Strom. Ich fange sinnhafterweise drunter an. Hier bei irgendwie 58 Ampere.
+
+(0:17:24 - 0:17:43)
+Hauptsache unter 75 und gehe dann langsam nach oben. Ich erhöhe einfach mit meinem Prüfgerät den Strom immer weiter, bis ich dann endlich oben bei 75 Ampere ankomme. Und jetzt ist wichtig, dass ich am Relais prüfe, dass die Anregung, also ob das Relais erkannt hat, dass da ein Fehler auftritt, nicht anliegt.
+
+(0:17:44 - 0:17:50)
+Deswegen ist erst mal diese Linie ganz dünn. Also da sagt das Relais, alles ist in Ordnung. Es löst auch nicht aus.
+
+(0:17:50 - 0:17:57)
+Und der Leistungsschalter-Hilfskontakt hat auch nicht zurückgemeldet. Erst mal ist nichts passiert. Jetzt seht ihr das.
+
+(0:17:58 - 0:18:11)
+In dem Moment hier, zack, gelbe Linie. Da kommt jetzt die Anregung. Das Relais sagt 75 Ampere und sagt mir unten in der Anregung, leicht dargestellt, mit einem Impuls hier jetzt von 0 auf 1 geschaltet, ändert sich was.
+
+(0:18:12 - 0:18:19)
+Unten in der Tabelle habe ich das aufgeschrieben. So machen das die Messgeräte. 75,075 Ampere, also eine minimale Abweichung.
+
+(0:18:19 - 0:18:29)
+Super, das hat super funktioniert. Da mache ich eine Bewertung, mache ich einen Haken dran. Und ich sage nur hier der Form halber, das ist ein bisschen schwieriger, wenn man diese Anregung nicht kriegt.
+
+(0:18:30 - 0:18:41)
+Damit ist gemeint, wir haben ja 10 Sekunden als Auslösezeit. Das heißt, wir müssten jetzt 10 Sekunden warten, bis das Relais auch wirklich auslöst. Aber wenn es uns auch diese Anregung separat mitteilt, dann brauche ich da nicht abwarten.
+
+(0:18:44 - 0:18:55)
+So, weiter geht es. Man würde dann in Realität hier an der Stelle auch wieder nach unten gehen. Das macht man so, weil man wieder gucken will, wann das Relais auch wieder rausgeht aus seiner Anregung.
+
+(0:18:55 - 0:19:06)
+Das sieht dann so aus hier an der Stelle. Zack, fängt dieser Impuls, also dieser Ausgang, nicht mehr in der 1 zurückzumelden, sondern hört jetzt auf. Zum Beispiel bei 61 Ampere.
+
+(0:19:06 - 0:19:16)
+Das ist für uns heute jetzt nicht ganz so wichtig. Aber grundsätzlich würde das so passieren. Man nimmt also den Fehler wieder weg und das Relais sagt dann irgendwann, alles klar, der Fehler ist wieder weg.
+
+(0:19:17 - 0:19:22)
+Und jetzt haben wir an dieser Stelle Auslösung. Das ist die grüne Linie da mittig. Die sehen wir nicht.
+
+(0:19:22 - 0:19:33)
+Und das ist auch Absicht, weil unsere ganze Prüfung, seht ihr in der Zeitachse, hat jetzt nur 9 Sekunden gedauert. Das Relais hat ja eingestellt 10 Sekunden als Auslösung. Also hat es nicht ausgelöst.
+
+(0:19:33 - 0:19:40)
+Alles ist erstmal in Ordnung. Wir haben nur, wenn man so will, diesen Anregewert gemessen, aber nicht die Zeit. Das ist ganz wichtig.
+
+(0:19:42 - 0:19:53)
+So, jetzt im 2. Schritt machen wir die 2. Stufe. Und da will ich nur das einmal kurz darstellen. Das machen wir nicht im Detail.
+
+(0:19:53 - 0:20:05)
+Das machen wir nicht im Detail, kann man online sehen. Aber das würde man jetzt mit so Pulsen machen müssen. Nur der Form halber, wenn man jetzt hier nach oben rammt, dann käme man ja an der 1. Stufe irgendwann vorbei.
+
+(0:20:05 - 0:20:14)
+Also wenn ich zu 300 Ampere will, komme ich ja logischerweise irgendwann bei 75 Ampere mal vorbei. Und dann würde mir das Relais zurückmelden, 1. Stufe. Das heißt, ich kann das so nicht machen.
+
+(0:20:15 - 0:20:34)
+Ich muss also die 2. Stufe mit solchen Sprüngen basteln und gehe immer nur ganz kurz in den 2. Fehler rein, um dann den 1. ein bisschen zu überlisten, damit er mir gar nicht erst sagen kann, dass er angekommen ist. Das ist tiefere Schutztechnik, machen wir jetzt heute nicht. Wir konzentrieren uns auf diese 1. Geschichte.
+
+(0:20:34 - 0:20:41)
+So, und jetzt brauchen wir aber noch die Zeit. Oben im Beispiel 10 Sekunden. Ihr erinnert euch, 75 Ampere haben wir gemessen.
+
+(0:20:41 - 0:20:53)
+Und jetzt brauchen wir aber noch die Zeit. Wie kriegen wir diese 10 Sekunden zusammen? Und das macht so eine Schutzprüfung eigentlich sehr simpel. Ihr seht oben erstmal mit 0 Ampere starten.
+
+(0:20:53 - 0:21:01)
+Da passiert überhaupt nichts. Und jetzt springe ich aber in meinen vollen Fehler rein. Wir machen jetzt im Beispiel die 2. Stufe, also 100 Millisekunden.
+
+(0:21:01 - 0:21:12)
+Und deswegen seht ihr in der Achse, ich springe auf 400 Ampere. Ich springe voll in diese 2. Stufe rein, die ja bei 300 Ampere liegt. D.h. unten seht ihr das jetzt auch.
+
+(0:21:12 - 0:21:21)
+Unten kommt die Anregung. Und jetzt aber endlich auch die Auslösung. Da ist sie, der 2. kleine Kontakt ist die Auslösung.
+
+(0:21:22 - 0:21:30)
+Und jetzt muss ich mir die Zeiten da ein bisschen genauer anschauen. So ein Tool oder so eine Prüfsequenz macht das automatisiert. Ich habe es hier mal hingeschrieben.
+
+(0:21:31 - 0:21:42)
+110,4 Millisekunden hat das jetzt gedauert. Von dem Moment wo der Fehler startet bis zu dem Moment in dem die Auslösung stattfindet. Und wir wollten 100 Millisekunden.
+
+(0:21:43 - 0:21:49)
+Deswegen sagen wir an der Stelle ja super. Also das hat in 110 Millisekunden ausgeschaltet. Da bin ich erstmal zufrieden.
+
+(0:21:49 - 0:21:56)
+Und weil es jetzt ausgeschaltet hat, hat jetzt auch der Leistungsschalter Hilfskontakt reagiert. Jetzt seht ihr das. Der hat auch nochmal ein bisschen länger gedauert.
+
+(0:21:56 - 0:22:04)
+Wir haben das hier mal aufgeschrieben. 50 Millisekunden hat der jetzt noch gebraucht. Und das ist nach unserer Toleranzrichtlinie völlig in Ordnung.
+
+(0:22:04 - 0:22:12)
+So 100 Millisekunden sind in Ordnung für den Leistungsschalter. Wie lange der braucht um zu schalten. Und wie lange das Relais braucht um zu reagieren.
+
+(0:22:13 - 0:22:28)
+Also mit einfachen Sprüngen sozusagen in die volle Auslösung haben wir jetzt auch noch die Zeit geprüft. Wir haben mit der Rampe und mit diesem sogenannten State Sequencer jetzt einmal die Stufe 1 und die Auslösezeit überprüft.

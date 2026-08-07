@@ -1,0 +1,239 @@
+(0:00:00 - 0:00:18)
+Wir springen ins nächste Kapitel, Schutzeinstellung. Ich zeige das eben auch hier nochmal in dieser Übersicht hinter mir, wo wir uns jetzt befinden. Also es ist tatsächlich so, dass man jetzt die ersten zwei Blätter sozusagen durchgelesen hat, tatsächlich virtuell abgehakt hat.
+
+(0:00:18 - 0:00:31)
+Alles ist in Ordnung, jetzt kommt die dritte Seite. Da gehen wir jetzt erstmal rein. Aber man sieht es schon, es sind drei Seiten, also dritte, vierte, fünfte sozusagen, oder zweite, dritte, vierte, ehrlich gesagt.
+
+(0:00:33 - 0:00:53)
+Und da geht es erstmal los mit dem Kapitel 1, Einstellwerte der Schutzeinrichtungen am NHP. Ich zoome glaube ich auch gleich, genau, dann kann man das auch direkt lesen, dass man also jetzt auf der Seite 2 von 7 sich befindet und dann haben die das auch nochmal in einzelne Kapiteln unterteilt. Das ist bestimmt hilfreich.
+
+(0:00:53 - 0:01:24)
+Und weil ich jetzt aber in dem Bogen dann ja nach und nach da runterrutsche und man dann nicht mehr die 1 und die 1.1 und die 1.2 Kapitelstruktur mitverfolgen könnte, liste ich das über mir immer gleich noch mit, sodass man besser im Verständnis hat, wo man sich jetzt gerade befindet. Also Formalitäten sind durch, Deckblatt, Netzanschlussleistung ist verstanden und jetzt ist man sozusagen erst im Kapitel 1 angekommen. Und da geht es um Einstellwerte am Netzanschlusspunkt.
+
+(0:01:24 - 0:01:32)
+Das ist ganz wichtig, hier keine Verwechslungen reinkriegen. Deswegen mache ich das über mir ja auch gleich. Kapitel 2 ist dann eben nicht am Netzanschlusspunkt.
+
+(0:01:32 - 0:01:56)
+Jetzt sind wir erstmal am Netzanschlusspunkt, wenn man so will, in der Übergabestation. Und da gibt es dann das Kapitel 1.1, Kurzschluss Schutzeinrichtung. Da mache ich glaube ich ein Symbol daneben, genau, weil ich an der Stelle mich selbst und euch daran erinnern will, dass der Kurzschlussschutz an sich ein großes Kapitel der Elektrotechnik ist.
+
+(0:01:56 - 0:02:15)
+Das machen wir jetzt nicht, dass wir erklären, was das ist und wie so eine Schutzfunktion dann bewertet wird. Das machen wir in einem anderen Modul. Da soll dieses Icon darauf hindeuten, sondern also wer das irgendwie schon sozusagen voll auf der Pfanne hat, der folgt jetzt sehr, sehr schnell mit.
+
+(0:02:15 - 0:02:28)
+Wer nicht, der merkt sich zumindest, dass er da nochmal was nachgucken kann und füllt dann sein Wissen irgendwann später mal auf. Also, was sehen wir aus diesem E-Bogen? Es geht los mit dem Distanzschutz. Das steht da.
+
+(0:02:28 - 0:02:45)
+Das ist eine Schutzfunktion, die sehr komplex ist, die wird aber sehr häufig angewendet, meiner Erfahrung nach auch eher mehr tatsächlich. Insofern ist das für die Übergabestation oder fürs Umspannwerk ein absolut relevanter Schutztyp. Wir kreuzen ihn nicht an.
+
+(0:02:45 - 0:02:57)
+Also, ich nehme ja hier einen realen Bogen aus einem realen Projekt, weil der Netzbetreiber jetzt hier entschieden hat, dass er eben keinen Distanzschutz braucht. Nur zur Erinnerung nochmal nach der Kaffeepause. Das ist ja sein Bogen.
+
+(0:02:58 - 0:03:16)
+Der Netzbetreiber kann ja entscheiden, ob er diesen Distanzschutz haben möchte oder nicht. Also, der Netzbetreiber steht hier, hat sich jetzt ein Schutzkonzept überlegt. Natürlich, er hat eins und er integriert die neue Anlage in dieses bestehende Schutzkonzept und demnach bräuchte er jetzt vielleicht keinen Distanzschutz, so wie bei uns.
+
+(0:03:16 - 0:03:33)
+In anderen Projekten will er einen. Wir haben die Erfahrung gemacht, dass das ab einer gewissen Anlagenleistung Sinn macht. Also oft bei größer 5 MVA, wenn jetzt tendenziell gerade die Anlagen immer größer werden, hat er also auch tendenziell immer mehr Distanzschutz in seinen Forderungen.
+
+(0:03:34 - 0:03:46)
+Jetzt rutschen wir ein bisschen runter. Also jetzt einfach den Fokus sozusagen auf die nächste Zeile beziehen und diesen Bullet Points folgen. Was steht jetzt hier? Einstellgrößen.
+
+(0:03:46 - 0:04:00)
+Achtung, wir sind ja immer noch beim Distanzschutz. Und das ist ein Kapitel für sich, deswegen hier nur als Bullet Point, vielleicht als Erinnerung. Dieser I, zweite Stufe, arbeitet als Notfunktion und kann man wie in den UMZ sehen.
+
+(0:04:00 - 0:04:13)
+Der UMZ kommt später noch, aber jetzt sind wir erstmal beim Distanzschutz. Also wenn hier was drinsteht, dann ist das sozusagen der, wir nennen den Not-UMZ. Rechts seht ihr schon, da ist ein Kästchen mit einem gesonderten Einstellblatt.
+
+(0:04:13 - 0:04:20)
+Das wird auch gleich nochmal ein bisschen offensichtlicher. So ein Distanzschutz ist, wie beschrieben, sehr komplex. Man kriegt den nicht in zwei Zellen.
+
+(0:04:20 - 0:04:23)
+Das geht nicht. Hier sind ja nur zwei. So geht das nicht.
+
+(0:04:23 - 0:04:34)
+Deswegen wird da eigentlich immer ein Beistellblatt angefügt, wo zum Beispiel Staffelzeiten drin sind. Zonen werden da definiert. Da werden auch Angaben gemacht, was der Kunde selber ausrechnen muss.
+
+(0:04:34 - 0:04:47)
+Also relativ komplexes Feld, dieser Distanzschutz. Deswegen ist dieser Haken dann da eigentlich immer gesetzt, weil ohne so ein gesondertes Einstellblatt geht das nicht. Jetzt kommt mal so eine Aufgabe für uns Elektroplaner.
+
+(0:04:47 - 0:05:02)
+Also jetzt stehen da Werte und jetzt muss man das schon beachten. Vielleicht mal als ganz einfache, rudimentäre, simple Annahme eben dieser Not-UMZ. Der hat dann eine Auslösezeit und dann macht das vielleicht Sinn, dass man seine eigenen UMZ-Relays im Park danach staffelt.
+
+(0:05:03 - 0:05:31)
+Darum geht es jetzt hier nicht, sondern es geht darum, dass man da ein Augenmerk drauf legt und sagt, okay, alles klar, ich verstehe, ich brauche diesen Distanzschutz. Also schicke ich erstmal natürlich den Bogen auch meinem Stationsbauer, dass das Relais überhaupt diesen Typ ausführen kann, dass die Strom- und Spannungswandler vorbereitet sind und meinetwegen meinem Schutzplaner, damit der das in das Gesamtkonzept der PV-Anlage integriert. Ich habe es ausgegraut und ein bisschen weiter runtergerutscht.
+
+(0:05:31 - 0:05:39)
+Jetzt seht ihr schon, da kommt jetzt dieser Wert Unterspannungsanregung. Das ist so beim Distanzschutz. Da werden Strom- und Spannungswerte miteinander verknüpft.
+
+(0:05:39 - 0:05:52)
+Das würde man dann hier angeben, welche da rein sollen. Auslösezeiten sind relativ komplex, also nicht so einfach wie bei einem UMZ, also abhängig von Impedanzen. Man definiert Zonen.
+
+(0:05:52 - 0:06:08)
+Das macht auch gerade beim Anschluss im Umspannwerk sehr viel Sinn. Da gibt es ja oft so externe Trassen, die würde man dann separat schützen gegenüber den parkinternen Systemen. Also aus dieser Logik heraus ist das dann eben wichtig, das Gesamtkonzept zu betrachten.
+
+(0:06:08 - 0:06:21)
+Hier habe ich es mal grün gemacht. Wenn man jetzt aus dem Beiblatt sich alle möglichen Kenndaten rausgezogen hat, dann steht da auch drin, dass man auch selbst noch was machen muss. Das halt dann vielleicht jetzt für heute einfach nur daran denken, beachten.
+
+(0:06:21 - 0:06:27)
+Freut euch auf den nächsten E9-Bogen, bei dem da mal ein Haken dran ist. Dann kann man das mal selber ausprobieren. Das ist nicht einfach.
+
+(0:06:27 - 0:06:37)
+Ich würde sagen, das machen Spezialisten, abhängig von Kabellängen, diese Werte zu bestimmen. Aber jetzt hat man es dann, finde ich, als Elektroplaner mal gehört, wo das herkommt. Und dann kann man da auch viel besser mitreden.
+
+(0:06:39 - 0:06:44)
+Unterimpedanzanregung, genau. Gehört da mit dazu, ist meist nicht erforderlich. Machen wir jetzt erst mal einen Liegestuhl.
+
+(0:06:44 - 0:06:51)
+Sehr detaillierte Geschichte lassen wir raus. Mit Schutztechnik natürlich abstimmen. Ja, also das ist vielleicht wirklich ein wichtiges Icon.
+
+(0:06:52 - 0:07:06)
+Vielleicht ja auch in vielen Projekten passiert, dass man das dann einfach nicht beachtet hat. Okay. Aber jetzt vielleicht in Zukunft schon beachten, sich irgendwie einen roten Kringel drumherum machen und mal einen externen fragen, wie er das denn sieht, wie man das jetzt in das Gesamtsystem integrieren kann.
+
+(0:07:08 - 0:07:13)
+Nullsystemanregung haben wir auch reingeschrieben. Gut, wenn es das gibt, ist das so. Das ist wichtig, wenn es Erdfehler gibt.
+
+(0:07:13 - 0:07:27)
+Kommt aber ja, wie gesagt, vom Netzbetreiber. Deswegen gehe ich da jetzt einfach mal weiter. Für alle, die Distanzschutz ein bisschen gruselig finden, kommt jetzt wieder die vielleicht einfachere Variante, die man sich besser vorstellen kann.
+
+(0:07:27 - 0:07:38)
+Das ist der Überstromzeitschutz. Da machen wir auch einen Haken rein, weil der Netzbetreiber hat gesagt, in seiner Übergabestation will er auf jeden Fall einen Überstromzeitschutz. Also jetzt an der Stelle noch mal zur Erinnerung.
+
+(0:07:38 - 0:07:47)
+Der E9-Bogen kommt vom Netzbetreiber. Er sagt uns, was dann eben wir in diesem Schutzrelais einzustellen haben. Da wird ein Prüfprotokoll gemacht.
+
+(0:07:47 - 0:07:58)
+Das wird nachgewiesen und dann auch wieder beim Netzbetreiber eingereicht, dass man das genau so gemacht hat, wie das hier steht. Der Netzbetreiber prüft das vielleicht auch vor Ort. Der prüft das in Ruhe im Büro.
+
+(0:07:58 - 0:08:06)
+Und ganz wichtig, die Zertifizierstelle prüft das auch. Stichwort Konfirmitätserklärung. Das, was jetzt hier kommt, legt der 1 zu 1 in aller Ruhe.
+
+(0:08:07 - 0:08:22)
+Die nehmen sich stundenlang Zeit, gehen jeden Wert einzeln durch und prüfen das Prüfprotokoll von eurem Schutztechniker gegenüber diesen Angaben, die hier stehen. Also das ist jetzt wichtig. Das steht nicht einfach so da, sondern sonst gibt es keine Konfirmitätserklärung und sonst wird der Park wieder abgeschaltet.
+
+(0:08:23 - 0:08:42)
+Was steht da jetzt zum Beispiel? UMZ. Relativ einfach kann man auf so zwei Achsen darstellen. Einmal Stromachse gegenüber der Zeit und wenn man jetzt zwei Stufen einstellt, das machen wir jetzt in unserem Beispiel, weil es der Netzbetreiber eher so will, dann würde man jetzt die 1200 Ampere da mal eintragen in die Achse und dann gehört da immer eine Zeit dazu.
+
+(0:08:42 - 0:08:58)
+Gehe ich mal ein Stückchen rückwärts, dann kommt sie plötzlich. Und 100 Millisekunden. Das heißt, das wäre so eine Kurzschlussstufe, wenn jetzt ein Strom über 1200 Ampere auftritt, sagen wir mal 1300, dann würde unser Relais innerhalb von 100 Millisekunden abschalten.
+
+(0:08:59 - 0:09:33)
+Das wäre sozusagen die zweite Stufe und einfach, weil es chronologisch hier drunter steht, die erste Stufe, je größer, da stehen 80 Ampere, das wäre so ein typischer Überstrom, also jetzt kein Kurzschlussfehler, sondern ein Überstrom, eine Überlast und bei 80 Ampere da hat er ein bisschen länger Zeit, weil da geht ja das nicht gleich alles kaputt. 500 Millisekunden. So zeichnet man dann so eine Kennlinie aus so einer Tabelle in Form heraus, weil ich finde, dass man sich das visuell viel besser vorstellen kann, wenn man das so aufzeichnet.
+
+(0:09:33 - 0:10:22)
+Wenn man das als Schutztechniker schon 100 Mal gemacht hat, braucht man das Diagramm wahrscheinlich nicht, dann erscheint das völlig automatisch vor dem inneren Auge, aber ich nehme an, dass die allermeisten, inklusive mir, die hier zuschauen, das nicht so machen mit dem inneren Auge und dann hilft dieses Diagramm. Also alles, was rechts von der grünen Linie ist, ist der Auslösebereich, wenn da irgendein Strom innerhalb dieser abhängigen Zeiten da rechts im Auslösebereich auftritt, löst das Relais aus und die Anlage wird abgeschaltet. Wir machen das so in unseren Projekten, dass wir die Werte nochmal rausschreiben in diese Kästchen, die ich da gezeichnet habe, zum Beispiel so, das sind die jetzt vier wichtigen Kenndaten aus diesem Abschnitt und dann schieben wir das in das uns selbst generierte Schutzschema.
+
+(0:10:22 - 0:10:47)
+Achtung, wir sind übergeordnet, also übergeordneter Entkupplungsschutz, vielleicht Übergabestation und dann kann das so aussehen. Wir haben, glaube ich, vier oder fünf Schulungseinheiten, in denen es um Schutztechnik geht, weil das so ein großes Thema ist, sehr komplex. Wer das jetzt im Hintergrund nicht kennt, kann das jetzt, glaube ich, auch nicht innerhalb von Sekunden greifen, aber man kann sich es ja dann in Ruhe nochmal im Kontext mit diesen anderen Schulungseinheiten angucken.
+
+(0:10:47 - 0:11:17)
+Fest steht, wir sind oben in der Übergabestation und mein Schema zeigt jetzt, dass da diese Schutzwerte eingestellt werden müssen. Ich fülle das jetzt nach und nach, indem ich das immer aus meinen E9-Bogen rausnehme und ich mache es deshalb, weil ich dann für mein Projekt ein Schutzeinstellblatt habe, aus dem auch die Auslösepunkte, die Messpunkte herausgehen, also für den Schutztechniker eine eigene Übersicht. Das finden wir deutlich einfacher, als nur den E9-Bogen zu verschicken.
+
+(0:11:17 - 0:11:31)
+Für Zertifizierstellen ist es besser, für den Kunden, für die Dokumentation, für den Planer. Dann sind sicherlich Abstimmungen viel einfacher, wenn man diese Übersicht erstmal erarbeitet hat. Also das wäre jetzt das Kapitel Warum Schutzschema.
+
+(0:11:32 - 0:11:52)
+Genau, also dann haben wir hier den ersten Punkt erstmal geschafft. Achtung, die Einstellwerte können auch auf einem separaten Blatt stehen. Das ist hier nicht angegeben, das wäre da, ja, der Haken, da wäre das. Und dann hätte man das nochmal separat. Gut, genau, so würde das aussehen. Haben wir jetzt nochmal ein Beispiel reingenommen.
+
+(0:11:52 - 0:12:23)
+Da sieht man das schon, da hat halt der Netzbetreiber in dem Fall so eine eigene Vorlage. Macht ja Sinn, die machen das ja jeden Tag mehrfach. Und dann schickt er das nicht mehr in den E9-Bogen, sondern schickt dieses Beiblatt, weil er das irgendwie mal vorbereitet hat. Wir sind weiter runtergerutscht und sind jetzt beim Erdschluss. Genau wie bei den anderen Punkten auch, ist das eine Entscheidung des Netzbetreibers auf Basis seines Schutzkonzeptes. Das Ganze beruht dann ja auf der Netztopologie von seinem Netz.
+
+(0:12:23 - 0:12:40)
+Und da wollten wir nur hinzufügen, wenn es da so einen Erdschlussschutz gibt, dann ist das wichtig, dass man auf den Relais-Typ vom Strom- und Spannungswandler achtet. Also das wäre zum Beispiel so ein Summenstromwandler, so ein Kabelumbauwandler, der dann da oft unten im Kabelkeller liegt. Also nur als ein Beispiel.
+
+(0:12:40 - 0:13:32)
+Vom Grundsatz her ist es halt wichtig, diesen Bogen dem Stationsbauer zu schicken. Der muss das verstehen, der muss das greifen, was damit gemeint ist. Ansonsten muss er bitte Rückfragen stellen, weil er muss dann die Hardware so vorbereiten, dass diese Funktionen überhaupt ausgeführt werden können. Das gilt generell für alle Punkte, aber beim Erdschlussschutz wollten wir das highlighten, sozusagen, weil dafür braucht er eben einen besonderen Stromwandler. So, dann haben die hier angekreuzt, dass man das in das gleiche Schutzrelais integrieren soll. Okay, das funktioniert dann eben so, dass der Stationsbauer bei dem Relais ein Modul dazu buchen muss. So ist das meistens. So ein Software-System kostet dann einfach noch ein paar Tausend Euro mehr, aber dann kann er das auch. Muss er wissen, wie immer im Nachgang ist so etwas viel mühsamer als im Vorfeld schon mal vorbereitet.
+
+(0:13:34 - 0:13:39)
+Die zweite Stufe haben wir jetzt hier weggelassen, weil die meist nicht erforderlich ist. Alles klar. Ansonsten ist das das gleiche Prinzip.
+
+(0:13:39 - 0:15:03)
+60 Ampere, 100 Millisekunden, so würde das aussehen und dann haben wir unser Diagramm und wir haben unser Rechteck und können das Rechteck auch wieder erfolgreich in unsere Gesamtübersicht schieben. So, das war erstmal der erste Teil, glaube ich, von diesem Erdschluss, genau. Es geht nämlich weiter und hier auch nur kurz benannt, wenn man gelöschte Netze hat und woran man das erkennt, das seht ihr dann im letzten Kapitel. Da geht es nämlich um Netzdaten, also der Netzbetreiber sagt einem sehr klar, wie seine Netztopologie aufgebaut ist. Das ist, wie gesagt, das letzte Kapitel. Netzdaten und das ist auch ganz wichtig, weil abhängig von der Netztopologie wird das Schutzkonzept zu planen sein. Abhängig davon wird die Netzberechnung gemacht beziehungsweise andere Ergebnisse haben. Insofern ist das zwingend erforderlich, dass der Netzbetreiber einem das mitteilt, wie die Netztopologie auf seiner Seite aussieht und ich hatte das in dem Warum ganz am Anfang einmal genannt, dass das also zum Informationsaustausch dienen soll. Vielleicht wird es da hier noch mal klarer. Das sind alles Informationen hier, die wir nicht wissen können. Schutzeinstellwerte sowieso nicht, die soll er ja berechnen, aber auch die Netztopologie zum Beispiel können wir nicht wissen. Da müsste man irgendwie hinfahren und die Straffungsstation öffnen und gucken, ob der Sternpunkt geerdet ist.
+
+(0:15:03 - 10:5:18)
+Das machen wir nicht. Das gehört ja dem Netzbetreiber, das Umspannwerk. Aber anhand dieses E-Bogens erfolgt dieser Austausch in anderen Ländern, vielleicht an der Stelle kenne ich das so, dass das enorm mühsam ist, diesen Wissensaustausch durchzuführen.
+
+(0:15:18 - 0:15:43)
+Da gibt es dann diesen Bogen nicht. Dann muss man per E-Mail die Fragen, die ja schwierig sind, die man ja vielleicht selber kaum formulieren kann, an den Netzbetreiber stellen. Der wiederum hat das gleiche Problem, dass er solche Fragen jetzt auch nicht ständig gestellt bekommt, braucht Wochen und muss seine Fachabteilung bemühen und dann gibt es oft Antworten, die vielleicht gar nicht so richtig die Frage treffen, weil andere Länder die Vorlage von solchen E-Bögen nicht haben.
+
+(0:15:44 - 0:16:21)
+Okay, das war ein kleiner Exkurs ins Ausland. Jetzt schauen wir uns das hier nochmal an. Jetzt haben wir verstanden, wir haben ein gelöschtes Netz. Dann würde man das so machen, wie das hier halt steht, mit dem UE und dem IUE. Das macht man dann so. Da wollte man auch sagen, dass so eine Erdschlusserfassung dann zwar in beide Richtungen funktioniert, aber die Auslösung nur in Richtung PRV stattfindet. Das macht Sinn, wenn der Netzbetreiber innerhalb seines Netzes diesen Fehler hat, sollen wir nicht entkoppeln, dann macht er das schon selbst. Aber wenn der Fehler im PV-Pack ist, dann würden wir jetzt abschalten. Okay.
+
+(0:16:22 - 0:16:55)
+Also, wenn ihr euch das mal anguckt, diese erste Seite, da geht es um die Übergabestation. Da stehen schwierige Themen drin, Richtung Schutztechnik, aber vielleicht ist es jetzt ein bisschen deutlicher geworden und man kann sich dann auch mal trauen, mit so einem Stationsbauer oder mit so einem Schutztechniker darüber zu reden, warum jetzt dieser Wert hier eigentlich so ist, wie er ist und ob ihm das klar ist. Darauf soll ja diese Schulungsreihe auch hinweisen, dass man zumindest sich irgendwie traut, dass man ein bisschen Selbstvertrauen dafür tankt, dass das nicht alle wissen können, was da immer steht, sondern dann fragt nach und versucht es im Detail zu verstehen.
+
+(0:16:55 - 0:17:18)
+Okay. Das war die erste Seite Schutztechnik. Wir haben noch zwei und wie versprochen seht ihr das jetzt bei mir im Hintergrund, dass jetzt die nächste Seite ein neues Kapitel aufschlägt. Ich glaube, das zoomt jetzt auch gleich wieder ein bisschen weiter. Ja, genau, ich zoome gleich rein. Hinweis, Entkupplungsschutz, gibt es auch wieder eine ganze Zwei-Stunden-Einhalt, in der wir da genauer drauf eingehen.
+
+(0:17:18 - 0:17:52)
+Aber wie versprochen zoome ich jetzt in diese zweite Seite rein und jetzt seht ihr, das ist ein neues Unterkapitel. Jetzt sind wir immer noch in der Übergabestation, Kapitel 1, aber in Kapitel 1.2. Also schauen uns den Entkupplungsschutz an und nicht mehr den Kurzschlussschutz. Das ist einfach eine andere Schutzfunktion. Jetzt geht es um Spannung und Frequenzen und nicht mehr um Ströme. Der übergeordnete Entkupplungsschutz wird so dargestellt, dass wir jetzt erstmal links die Funktion sehen. Da steht als erstes Spannungssteigerung, Zweitstufe.
+
+(0:17:53 - 0:18:13)
+Dann geht es aber in der ersten Spalte hier mittig, die mittlere Spalte, da wird eine Empfehlung nach VDE AR 41.10 dargestellt und zwar, wenn man direkt an der Sammelschiene anschließt. So steht das in der Norm drin. Genau diese Tabelle gibt es da und dann haben die das in der Vorlage so gemacht, dass das schon mal da drin steht.
+
+(0:18:13 - 0:18:43)
+Deswegen ist der Wert jetzt hier auch schwarz. Der kommt nicht vom Netzbetreiber, der ist fest in der Vorlage des I-Bogens verankert. Der wird dafür immer so drinstehen, der ist immer gleich. Also auf den, ehrlich gesagt, braucht ihr überhaupt nicht achten, der steht da halt. In der zweiten Spalte ist das auch so, nur dass das der empfohlene Wert ist für Anschluss im Netz sozusagen. Also, wie ich es gesagt hatte, nicht im Umspannwerk, sondern irgendwo da draußen in einem Mittelspannungskabel.
+
+(0:18:44 - 0:19:34)
+Jetzt in dem Beispiel sind es die gleichen Werte, deswegen ist es ein bisschen langweilig. Aber das ist also die Empfehlung, die in der 41.10 so drinsteht. Jetzt kommt der entscheidende Punkt. Also, hier jetzt noch mal vielleicht wachgerüttelt sein, da ist es jetzt wirklich wichtig und deswegen haben wir das ja auch farblich gemacht. 1,2. Wir haben die gleichen, der Netzbetreiber in unserem Projekt hat den gleichen Wert genommen wie die Empfehlung, aber das ist der entscheidende Wert. Mir selbst ist das schon passiert, dass ich bei einer Schutzprüfung in die Mitte gerutscht bin und dann habe ich die eingestellt, die meinetwegen empfohlen werden. Aber das ist nicht der Punkt. Wichtig ist, dass das vom Netzbetreiber übernommen wird. In meinem Projekt hat die Zertifizierstelle das dann auch gesehen und ich bin nochmal hingefahren und habe das korrigiert. Also, grün sind die projektspezifischen Einstellungen. Grün, das sind die wichtigen für uns.
+
+(0:19:37 - 0:20:06)
+Jetzt haben wir die da reingenommen, wieder in unsere Kästchen und gehen einfach runter. Also, das war die zweite Stufe Überspannung. Jetzt kommt die erste Stufe, die ist sinnhafter weise etwas kleiner und die Zeit ist länger. So wird das immer gestaffelt. Dann gibt das das Gleiche in die andere Richtung, sozusagen einen Spannungsrückgangsschutz, also u kleiner. Erste Stufe, der ist hier bei 80 Prozent von der Nennspannung und 2,7 Sekunden und dann war es das erstmal mit der Spannung.
+
+(0:20:07 - 0:20:42)
+Jetzt sind wir in dem Block Frequenz und da steht nichts drin, also oft steht da gar nichts drin. Manchmal steht so ein Minus drin. Fest steht, wenn da nichts drin steht, meinen die bitte nicht einstellen, also auch nicht der Empfehlung folgen, sondern hier keine Frequenzen einstellen und das ist oft so, wie ich in dem Bulletpoint geschrieben habe, also meistens steht da tatsächlich nichts drin. Achtung, wir sind ja in der Übergabestation und das liegt daran, dass die Frequenzen ja im ganzen Netz gleich sind. Im Gegensatz zu Strömen und Spannungen, die sind überall unterschiedlich. Die Frequenz ist immer die gleiche, deswegen ist das oft gar nicht sinnhaft, die an verschiedenen Punkten zu überwachen.
+
+(0:20:43 - 0:20:54)
+Hier nimmt das sie also raus, später im Zwischengelagerten ist sie dann wieder drin. Genau. So, dann nehmen wir da auch mit oben in unser Schutzschema mit rein.
+
+(0:20:56 - 0:21:09)
+Wir gehen wieder ein kleines Stückchen weiter und sind im Kapitel 1.3 Systemschutz. Grundsätzlich erstmal Achtung, der wird auch QU-Schutz genannt. Das ist umgangssprachlich sicherlich so.
+
+(0:21:09 - 0:21:25)
+Ich sage immer QU-Schutz, nur dass wir jetzt hier vom Gleichen reden. Die Norm nennt ihn Systemschutz. Vom Grundsatz her behandeln wir den auch in einem separaten Modul und vielleicht interessant im Moment gibt es eine Novellierung.
+
+(0:21:25 - 0:21:52)
+Ich denke, dass die Ende des Jahres oder nächstes Jahr dann auch freigeschaltet wird von der 4110 und dann wird dieser QU-Schutz auslaufen. Der wird nicht mehr gefordert werden, den gibt es dann nicht mehr. Insofern ist er jetzt noch wichtig, aber irgendwann ist das wahrscheinlich nicht mehr ganz so wichtig. Der wird dann von dem PHV abgelöst. PHV-Schutz. Gegebenenfalls hat dieser QU-Schutz keine Freigabespannung zur Wiederzuschaltung, weil eine AWE nicht zulässig ist.
+
+(0:21:53 - 0:22:10)
+Okay, also in der Übergabestation ist das meistens so. Diese automatische Wiederzuschaltungen sind da oft nicht freigegeben und genau, das ist erstmal nur so ein Hinweis an der Stelle. Wie dieser QU-Schutz genau funktioniert, macht man in einem anderen Modul.
+
+(0:22:10 - 0:22:26)
+Hier ist nur wichtig, dass man weiß, dass man dafür Angaben braucht und zwar den Anregewinkel braucht man, man braucht Mindeststrom und man braucht eine Blindleistungsansprechwelle. Wir haben hier mal diese Fußnoten mit reingeschrieben. Die 4 und die 6, das ist je nach eingesetzten Schutzrelais.
+
+(0:22:26 - 0:23:53)
+Also super spezifisch dann für das Projekt. Wichtig, okay. Und vielleicht noch die 5. Dieser Mindeststrom, also ab einem gewissen Stromwert wird dieser Schutz überhaupt erst aktiv geschaltet. Das ist abhängig vom Wandler. Das ist wichtig für den Schutztechniker, damit der da keine Missverständnisse mit der Zertifizierstelle hat. Also man würde diesen Mindeststromwert auf den eingesetzten Stromwandler beziehen. Man muss ja also erstmal runterkriechen in den Keller, aufs Typenschild gucken und dann sagt man, alles klar, 100 Ampere Wandler, dann nehme ich 10 Ampere, weil 0,1 vom Nennstrom des Stromwandlers. So, dann hat man diese Kennwerte da reingeschrieben, so wie es jetzt gerade stand. Das sind einfach 6 Zahlen, die stehen da jetzt auch drin und dann stehen die auch da oben drin und jetzt weiß dieser Schutztechniker genau, welche Funktionen er in diesem Relais da oben zu prüfen hat. Wir gehen weiter ins Kapitel 1.4. Da steht Mischanlagen, also Anlagen mit Bezug und Erzeugung. Das wären Dachanlagen natürlich, wenn es beides gibt. Das ist immer so eine typische Angabe, die wir in vielen Bögen schon gefunden haben und jetzt würde ich dann oben auch gleich meinen Haken setzen und das aber auch nochmal zeigen, was das jetzt für Auswirkungen hat auf mein Schutzschema, das ich ja da so schön aufgezeichnet habe.
+
+(0:23:54 - 0:24:38)
+Wir haben auch schon mal sehr, sehr ausführlich besprochen, wie das bei Dachanlagen dann eben anders ist. Das ist nicht ganz trivial, da gibt es dann schon sehr feinteilige Unterschiede. Ich zeige hier nochmal das Ergebnis dessen, was wir dann da rausgearbeitet hatten. Also, oben zeige ich gleich was dazu. Oben in meiner Angabe habe ich jetzt bei Übergabestation, bei Messort, mein Kreuzchen gesetzt. Also der Netzbetreiber sagt das. Der Netzbetreiber sagt, der Messort für deinen Übergeordneten in Kupplungsschutz muss an der Übergabestation sein. Hier ist der blaue Kreis im Schema dazu. Haben wir alles richtig gemacht. Der Auslöseort sagt da, der ist bitte nicht in der Übergabestation, sondern an der Erzeugungsanlage. Das ist ganz wichtig. Also hier auch wieder richtig gemacht.
+
+(0:24:39 - 0:26:38)
+Die Auslösekennlinie geht nach unten und die Bestätigung vom E9-Bogen sagt, der Netzbetreiber sieht das auch so. Das ist sinnhaft, weil sonst bei Auslösung wir das ganze Gebäude abschalten würden, also auch den Bezug. Das wollen wir nicht. Deswegen soll der Auslöseort bei der Erzeugungsanlage sein. Das ist erstmal super positiv. Wenn es jetzt zum Systemschutz kommt, also das gerade war der Entkupplungsschutz, da ist er, der KU-Schutz, der Systemschutz, da haben wir jetzt reingesetzt, der Messort ist an der Erzeugungsanlage. Also hier, da, blau umrandet irgendwo in der Niederspannungsverteilung und der Auslöseort, genau, ist auch richtig eingezeichnet, ist also auch an der Erzeugungsanlage. Das ist im Diagramm kleiner Unterschied. In Realität macht das einen enormen Unterschied in der Planung, in der Ausführung, in der Prüfung und dann aber natürlich auch im Falle einer Auslösung ganz wichtiger Unterschied. Also deswegen steht hinter mir Mess- und Auslöseort müssen mit dem Netzbetreiber abgestimmt werden und die Bestätigung, dass wir der gleichen Meinung sind, kommt dann eben an der Stelle über den E-Bogen. Das war die zweite Seite. Jetzt blättern wir wieder um, pusten auch einmal durch, dass wir jetzt wieder eine Seite verstanden haben und gehen einfach noch eine Seite weiter. Nächstes Kapitel sozusagen, also Kapitel 1 ist jetzt weg, jetzt kommt das zweite Kapitel und das ist jetzt technisch inhaltlich sehr ähnlich, aber an einer anderen Stelle in unserem Schutzschema. Zeige ich gleich im Schutzschema, weil jetzt geht es nämlich um die Einstellvorgaben an den Erzeugungseinheiten selbst. Im Grunde sind das die Wechselrichter, das wird aber oft so gemacht, dass man so ein zwischengelagertes Relais einbaut, das macht Sinn, das kann man prüfen, das ist ein lokales Relais, das ist einfach besser als jetzt 100 Wechselrichter zu prüfen.
+
+(0:26:39 - 0:27:14)
+Also, ja genau, separates Modul, schon der dritte. Jetzt gucken wir da auch nochmal ganz kurz rein, weil das Prinzip, das geht schneller, weil das Prinzip ist jetzt wieder genau das gleiche. Die Spalten sind die gleichen, wir gucken nur die rechte Spalte an und sehen jetzt hier nochmal eine neue Besonderheit, nämlich das UNS, das steht da so drin, da ist auch extra oben die Fußnote 7, die ist jetzt wirklich wichtig, die anderen sind auch wichtig, aber die ist jetzt wirklich wichtig, weil den Spannungswert der Netzbetreiber an dieser Stelle nicht kennen kann.
+
+(0:27:15 - 0:27:55)
+Er kennt seine Netzspannung, die gibt er auch an, kommen wir später noch dazu, da steht die dann drin, das UC, das ist das hier, das seht ihr unten, vereinbarte Versorgungsspannung, das gibt er an, aber dieses UNS ist ja die Niederspannungsseite, also hinter dem kundeneigenen Trafo und das kennt er nicht. Erstens, interessiert sich nicht wirklich für euren Transformator, aber vor allem weiß er nicht, ich glaube das kommt auch gleich noch, welche Position des Stufenstellers ihr eingestellt habt. Das weiß er nicht, es ist auch nicht seine Aufgabe es zu wissen, es ist eure Aufgabe es zu wissen, der Schutzprüfer muss es wissen und nur dann kann er nämlich diese Werte hier umrechnen in absolute Kennwerte, die richtig sind.
+
+(0:27:56 - 0:29:01)
+Mir auch schon passiert, na klar, deswegen weiß ich das ja jetzt auch, also wenn jetzt hier zum Beispiel steht 1,25 UNS und meine Niederspannung ist nur als Beispiel, um es einfach zu rechnen, vermeintlich 100 Volt, weil das auf dem Transformator so steht, wären das 125 Volt, das ist richtig, aber weil ich irgendwie einen Stufensteller anders eingestellt habe, weil die Oberspannung dieses UC nicht gleich dem Oberspannungswert des Transformators ist, muss man das umrechnen, das ist gar nicht so einfach, machen wir auch, aber jetzt nicht. Und dann kommt ein anderer Wert aus, nämlich nicht 125 Volt, sondern ein anderer. Das ist hier gemeint, das steht ganz klein mit so einer Fußnote 7 da, ist aber ganz wichtig, hat große Auswirkungen auf die Ergebnisse der Schutzprüfung und deswegen auf die Konformitätserklärung. Also Stufensteller und Übersetzung Spannungswandler beachten. Beim Spannungsrückgangsschutz ist es genau das Gleiche, deswegen gehe ich da einfach weiter. Also da stehen jetzt wieder Werte drin und ihr beachtet den Stufensteller und dieses Wandlerverhältnis.
+
+(0:29:01 - 0:30:34)
+Deswegen füllen wir hier weiter unsere Kästchen aus. Spannungsrückgangsschutz ist auch so. Achtung, jetzt kommt dann auch gleich eine Übung, in der ihr das selber bitte nachguckt, also denkt nochmal kurz mit, was U kleiner bedeutet, was U größer, größer dann bedeutet. Und beim Spannungsrückgangsschutz wollten wir nur sagen, das ist eben unsere Erfahrung als Schutztechniker, das ist oft so, dass 0 Sekunden angegeben werden, ist ja auch die Vorgabe oder ein Vorschlag, aber das kann man so oft nicht einstellen. 0 Sekunden ist, sage ich mal, technisch für ein Relais ja auch nicht möglich. Aber man kann es oft auch gar nicht erst einstellen, das nur so als Hinweis ist ganz typisch. Und dann würde man den minimalen Wert einstellen, das auch im Protokoll so schreiben und dann hat das auch bis jetzt immer Akzeptanz gefunden bei Netzbetreibern und Zertifizierstellen. Die Spannung ist geschafft, jetzt kommt die Frequenz. Prinzip ist genau das gleiche, es gibt Überfrequenz und Unterfrequenz in mehreren Stufen und jetzt sind wir im Zwischengelagerten Schutz, da haben sie es auch reingeschrieben. Beim Übergeordneten war er ja nicht drin, beim Zwischengelagerten steht jetzt 52,5 Hertz drin, 100 Millisekunden, 51,5 Hertz und 5 Sekunden steht drin. Und auch da wieder nur so ein Hinweis aus unserer Erfahrung, Relais sind oft langsamer, das hat wohl technische Hintergründe, gerade bei etwas günstigeren Relais mag das kaum lösbar sein, dann muss man das eben aufschreiben, im Protokoll und mit Zertifizierstellen abstimmen. So, da sind unsere Frequenzblöcke vollständig.
+
+(0:30:34 - 0:31:32)
+Zur Frequenz gehört noch eine Staffelung und nee, zur Spannung, danke, zur Spannung gehört noch eine Staffelung, die ist oft projektspezifisch. In meinem Projekt geben die jetzt keine Staffelgrößen an, deswegen ist ein Minus drin. Wenn man so Staffelgrößen vorgegeben bekommt, also die Zeiten werden gestaffelt, da ist der Hintergrund, dass nicht die ganze Anlage sich so gleichzeitig abschaltet, sondern sozusagen Abschnitte abwarten, ob sich nicht der Fehler von alleine klärt, dann kann man Staffelungen so zum Beispiel aufbauen, wir haben jetzt hier 8 Trafo-Stationen, das müssen wir machen, das steht dann nicht da drin und dann könnte man sagen, Station 1 und 2, wir haben 8 Stationen, durch 4 teilbar, hat 1,5 Sekunden, also diesen ersten Wert, die Stationen 3 und 4 kriegen 1,8 Sekunden und dann geht das eben so weiter mit diesen anderen Staffelzeiten.
+
+(0:31:33 - 0:32:06)
+Relativ einfach gemacht, aus meiner Erfahrung ist eben genau das Schutzschema, wenn man das, ich hoffe, jetzt kommt es gleich wieder, nicht so baut, dann weiß der Schutztechniker das nicht, dann geht das schief, die Zertifizierstellen wissen es ja dann auch nicht, dann fährt man nochmal hin, also wir schreiben so eine Staffelung, wir haben jetzt hier keine, aber hättet ihr sie, schreibt ihr sie hier mit rein und dann sieht doch unser Schema schon richtig, richtig professionell aus. Jetzt kommt die dynamische Netzstützung. Gucken wir uns gleich an, was der da so macht.
+
+(0:32:06 - 0:32:42)
+Vom Grundsatz her haben wir jetzt bei uns mal diesen ersten Haken nicht gesetzt, also jetzt geht es um Fault-Right-Through-Systeme. Die Wechselrichter können das alles, sonst werden sie nicht zertifiziert. Hier geht es darum, dass man das richtig beim Wechselrichter hinterlegt und vom Grundsatz her ist das für mich jetzt nur eine Erklärung, was der da so macht und auch das machen wir an anderer Stelle sehr, sehr ausführlich. Wir haben hier keinen Haken drin, also brauchen wir es jetzt erstmal auch nicht beachten. Wenn einer drin ist, dann ab zum Wechselrichterhersteller. Interessanter ist jetzt hier unten dieser K-Faktor.
+
+(0:32:42 - 0:33:24)
+Den kennt man, ja, genau. Interessanter ist jetzt dieser K-Faktor. Diese Kennlinie kommt aus der Norm und ich sage es nur ganz kurz, die x-Achse ist eine Spannungsveränderung und jetzt kann man der ja mal nach rechts folgen, also wenn es eine positive Spannungsveränderung gibt, also eine Erhöhung der Spannung, dann, so sagt die Kennlinie, sollen wir Blindstrom vermehrt einspeisen, das ist also auch ein Delta, so ganz kurz gefasst kann man einfach sagen, Spannung geht hoch, dann soll der Wechselrichter mit seiner Blindleistung sozusagen dagegen arbeiten, so kann man es vielleicht auch ausdrücken und der K-Faktor definiert die Steigung dieser Spannung.
+
+(0:33:24 - 0:33:42)
+Das heißt, es geht umso höher der K-Faktor, umso mehr Blindstrom, so kann man es vielleicht auch sagen. Ja, und da habe ich es auch aufgeschrieben, je größer der Spannungseindruck, desto mehr Blindstrom, je höher der K-Faktor kann man auch sagen, umso mehr Blindstrom. Genau.
+
+(0:33:43 - 0:33:57)
+So, hat er vorgegeben, das heißt wir wissen jetzt, was wir damit machen müssen, er schreibt auch, wo das einzuhalten ist, Netzverknüpfungspunkt oder an einer anderen Stelle, also Übergabestation, Wechselrichter, das kann er auswählen, das hat er hier mit dem Haken gemacht.

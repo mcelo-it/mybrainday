@@ -1,0 +1,167 @@
+(0:00:00 - 0:00:17)
+An der Stelle einfach weiter ins nächste Kapitel. Wir gucken uns mal an, was die VDE Anwendungsrichtlinie 41.10 für die Inbetriebnahme sich da so überlegt hat. Die macht das so, wie man es bei mir im Hintergrund farblich ein bisschen aufbereitet sieht.
+
+(0:00:17 - 0:00:26)
+Also sie sagt im Schritt 1 macht ihr mal eine Grobplanung. Im Schritt 2 macht ihr eine Feinplanung und das Anlagenzertifikat. Im dritten Schritt baut ihr die Anlage.
+
+(0:00:27 - 0:00:40)
+Im vierten Schritt bereitet ihr die Inbetriebssetzung der Übergabestation vor. Und jetzt kommt Schritt 5 und 6 und die sind für heute relevant. Erstmal Schritt 5, deswegen graue ich den Rest aus.
+
+(0:00:41 - 0:00:48)
+Inbetriebnahme, Achtung, ich habe es oben nochmal aufgeschrieben. Inbetriebnahme des Netzanschlusses. Da geht es tatsächlich ums Wording.
+
+(0:00:48 - 0:00:54)
+Das ist sehr wichtig. Das heißt, das ist die Inbetriebnahme bis zur Kundenanlage. Was das ist, seht ihr gleich.
+
+(0:00:54 - 0:01:14)
+Und die Inbetriebssetzung der Übergabestation, das ist dann ab der Kundenanlage. Werdet ihr gleich sehen, in der Übergabestation kann man also jetzt schon unterteilen in zwei Teilschritte. Einmal die Inbetriebnahme Netzanschluss selbst und dann die Inbetriebssetzung der Übergabestation selbst.
+
+(0:01:14 - 0:01:25)
+Das ist für das Wording, finde ich relevant. Und wenn man so vor Ort mit den Netzbetreibern spricht, ist zumindest mein Eindruck, dann hat man da schon mal einen kleinen Pluspunkt. Dann wird man da schon ein bisschen ernst genommen.
+
+(0:01:25 - 0:01:32)
+Wir gucken uns das mal an im Detail. Und zwar ehrlich gesagt einfach abgeschrieben aus der 4110. Die macht das ganz genau so.
+
+(0:01:32 - 0:01:49)
+Die sagt jetzt erst mal Inbetriebnahme Netzanschluss, Inbetriebssetzung, Übergabestation. Was ist das überhaupt? Und dann sagt die, naja, also wenn die Inbetriebnahme losläuft, also jetzt ist die Zeit gleich null. Dann kriegt ihr erst mal von mir eine verübergehende Betriebserlaubnis.
+
+(0:01:49 - 0:01:56)
+So geht das mal los. Die kriegt ihr dann. Das ist erst mal ein guter Startpunkt für so eine Inbetriebnahme.
+
+(0:01:57 - 0:02:10)
+Dann sagt die 4110, nehmen wir den Netzanschluss mal in Betrieb. Und die macht da auch tatsächlich so ein Sternchen dran und sagt jetzt eben unten, wer macht das überhaupt? Der Netzbetreiber. Also der Netzbetreiber selbst, der nimmt den Netzanschluss in Betrieb.
+
+(0:02:10 - 0:02:19)
+Das ist ja auch seiner. Und wie macht er das oder wie dokumentiert er das? Jetzt seht ihr es links unten. Das macht er mit dem E7-Bogen in der 4110 zumindest.
+
+(0:02:19 - 0:02:44)
+Achtung, in den anderen Ebenen sind das andere Nummern, aber in der Mittelspannung ist der E7-Bogen jetzt vom Netzbetreiber für die Inbetriebnahme des Netzanschlusses auszufüllen. Jetzt habe ich mir überlegt, ich zeige das mal grafisch ein bisschen besser. Deswegen schieben wir das alles ein bisschen weg und haben jetzt im Hintergrund das Schema, die schematische Darstellung von so einer Übergabestation.
+
+(0:02:44 - 0:03:10)
+Haben wir alles, was man da jetzt sehen kann, ausgegraut erst mal, in einer anderen Schulungseinheit Schritt für Schritt genau im Detail erklärt. Insofern gehen wir jetzt einfach mal davon aus, ist klar, was man jetzt hier sieht und haben hier eben ein projektspezifisches Beispiel. Also diese Übergabestationen sehen ein bisschen anders aus, aber im groben Kontext, in der Logik kann man das genau so machen, wie wir es hier gezeigt haben.
+
+(0:03:10 - 0:03:42)
+Und jetzt komme ich eben zu dem Punkt, was ist die Inbetriebnahme vom Netzanschluss selbst? Und Achtung, da nehme ich jetzt das Feld J01. Das ist im Verantwortungsbereich des Netzbetreibers ganz wichtig. Ich habe mir das ein bisschen ran gesumt und jetzt erhelle ich das, weil ich sagen will, alles, was ausgegraut ist, darum geht das jetzt erst mal noch nicht, sondern in der Inbetriebnahme des Netzanschlusses geht es um dieses Eingangsfeld, an dem von unten die Mittelspannungskabel des Netzbetreibers ankommen.
+
+(0:03:43 - 0:04:01)
+Und ganz wichtig, in meinem Schema habe ich das auch hier, finde ich, relativ deutlich in grün noch mal gehighlighted. Dieses Feld ist ja auch der Verfügungsbereich des Netzbetreibers, des Energieversorgungsunternehmens. Das heißt, da hat er dann wiederum einen Schlüssel für so ein Schaltschloss, dass er dann da an den Schalter dran hängt.
+
+(0:04:01 - 0:04:17)
+Also nur er kann diesen in dem Fall Last-Trenn-Schalter betätigen. Also damit ist gemeint, im Betriebnahme Netzanschluss ist tatsächlich nur dieses Eingangsfeld hier. Das ist eben deshalb so wichtig, weil er den Schlüssel für diesen Schalter hat.
+
+(0:04:17 - 0:04:42)
+Das heißt, wenn er jetzt sagt, das war es jetzt auch erst mal, für die weiteren Schritte seid ihr noch nicht qualifiziert, dann kann er eben dieses Feld so hinterlassen und einfach wieder nach Hause fahren. Ihr habt dann keine Möglichkeit, weiterzumachen, weil der Spannungsanschluss an der Stelle erst mal endet. Jetzt käme es zum nächsten Schritt, der Inbetriebssetzung der Übergabestation.
+
+(0:04:42 - 0:04:58)
+Also es ist eben nicht mehr der Inbetriebnahme, sondern jetzt ist es, so machen die Deutschen das offensichtlich, die unterteilen das gerne, jetzt ist es eine Inbetriebssetzung und zwar der Übergabestation. Schauen wir uns mit dem gleichen Bild an. Also das erste ist ja jetzt schon erleuchtet und vielleicht ja am gleichen Tag.
+
+(0:04:58 - 0:05:13)
+Das ist doch gut. Also wenn wir sagen, alles ist vorbereitet, in den Checklisten sind weiterhin alle Punkte grün, dann kann es vielleicht am gleichen Tag weitergehen. Ich habe das aber auch schon erlebt, dass das dann Monate gedauert hat, bis es dann endlich mal wiederum den nächsten Schritt ging.
+
+(0:05:14 - 0:05:33)
+Also das finde ich ist auch ein ganz tolles Beispiel dafür, dass wenn hier mal ein Projektleiter zuhört oder ihr ihm das zeigt, das Inbetriebnahme nicht gleich Inbetriebnahme bedeutet. Also den Netzanschluss haben wir jetzt vielleicht im Januar schon gehabt und jetzt aber im August kommt erst die Übergabestation der Rest dran. Was heißt das jetzt im Detail? Ihr seht es über mir.
+
+(0:05:34 - 0:05:49)
+Beim Feld J01 ist ja schon ein Haken dran und jetzt kommt aber die Inbetriebssetzung. Da würden wir erstmal die USV einschalten, die ist geladen und dann seht ihr das jetzt unten in dem Bild, die wird jetzt hell. Also jetzt haben wir plötzlich Hilfsspannung, mal 24 Volt ist das meistens.
+
+(0:05:49 - 0:06:05)
+Und jetzt erstrahlt sozusagen die Bereitschafts-LED auch der Fernwirkanlage in einem freundlichen Grün ist es glaube ich meistens. Die Protokollumsätze, also die SPS, die da verbaut sind auch. Der Parkregler läuft jetzt an.
+
+(0:06:06 - 0:06:16)
+Das Netzanalysegerät seht ihr jetzt im Display. Die ersten Anzeigen und ihr seht das auch im Hintergrund haben wir es extra gemacht. Strom- und Spannungswandler sind ja schon verbunden.
+
+(0:06:16 - 0:06:40)
+Die sind passive Bauteile, also die funktionieren jetzt auch sofort und dann würdet ihr im Display sehen 0 Ampere und 0 Volt. Das kann man auch gleich mal überprüfen und dann ist das aber Sinn der Sache, dass man das weiß, bevor man jetzt weitermacht. Die Schutzrelais, Achtung, da im Mittelspannungsfeld, da seht ihr das eingeleuchtet, funktionieren jetzt auch ganz wichtig.
+
+(0:06:40 - 0:06:57)
+Immer wichtig, weil bevor man sozusagen das zu schützende Objekt zuschaltet, in dem Fall wäre das ja dann das Messfeld. Und das Kabel dahinter muss ja das Schutzrelais funktionieren, sonst ist das in sich in der Schutzlogik unsinnig. Feld J02, das ist jetzt unser Kundenfeld, da haben wir wiederum den Schlüssel.
+
+(0:06:57 - 0:07:02)
+Und Achtung, jetzt nehme ich das mal in Betrieb. Wie genau, zeigen wir später noch. Aber jetzt nehme ich J02 in Betrieb.
+
+(0:07:02 - 0:07:13)
+Dadurch geht die Linie ins Messfeld, auch J03 in Betrieb. Und jetzt habe ich so ziemlich fast alles erleuchtet. Eigenbedarfswandler an der Stelle auch noch.
+
+(0:07:13 - 0:07:30)
+Genau, der ist da so mittig und jetzt könnte man die USV wiederum laden, sozusagen vom Netz speisend. Also das ist dann die Inbetriebssetzung der Übergabestation. Jetzt kommt ein dritter Schritt, drittes Sternchen, Inbetriebssetzung der Abrechnungsmessung.
+
+(0:07:30 - 0:07:41)
+Das macht der Messstellenbetreiber. Also hatte ich vorhin auch gesagt, das ist also wirklich eine andere Partei, eine andere Person, sicherlich auch. Und was macht die? Gleiches Spiel.
+
+(0:07:41 - 0:07:49)
+Jetzt ist ja schon ganz viel hell, aber eben noch nicht alles. Jetzt macht die in einem dritten Schritt auch hier nochmal diesen Zählerschrank. Achtung, da kommt da jetzt, werden da auch Sicherungen eingelegt.
+
+(0:07:50 - 0:08:05)
+Jetzt wird da vielleicht jetzt auch erst der Zähler verbaut und dann da auch nochmal geprüft, ob jetzt Strom- und Spannungs- oder Leistungswerte richtig angezeigt werden. Wir haben noch hinzugefügt, deswegen habe ich es orange gemacht. Alles andere steht genauso in der 4110.
+
+(0:08:05 - 0:08:16)
+Was nicht drin steht, ist der BIT-Test. Der wird aus unserer Sicht dann auch immer dann kurz vorher oder jetzt spätestens auch ausgeführt. Deswegen haben wir ihn mit reingenommen und da sind auch die gleichen Beteiligten dabei.
+
+(0:08:16 - 0:08:29)
+Steht nicht so drin, aber passiert in Realität dann auch. Das war der Schritt 5 und jetzt kommt der Schritt 6. Ich nehme den auch gleich mit rüber, dann kann ich da auch stehen bleiben. Dann ist das irrelevant.
+
+(0:08:30 - 0:08:41)
+Der nennt sich also in Betriebssetzung der Erzeugungsanlage. Achtung, gerade hatten wir die in Betriebssetzung und in Betriebnahme der Übergabestation. Jetzt kommen wir in die Erzeugungsanlage.
+
+(0:08:41 - 0:09:01)
+Geht also auch wieder wirklich feinteilig ins Wording rein. Wie sehen wir das? Da sehen wir erst mal, dass die Erzeugungseinheiten, das sind in unserem Fall dann die Wechselrichter, die EZEs, dass die in Betrieb gesetzt werden. Und da gibt es dann ein Inbetriebssetzungsprotokoll.
+
+(0:09:02 - 0:09:13)
+Okay, also wir haben die Wechselrichter, fangen wir an, in Betrieb zu nehmen. Das macht der Anschlussnehmer, also nicht der Netzbetreiber. Und das macht er, indem er beim E10-Bogen das dokumentiert.
+
+(0:09:14 - 0:09:31)
+Jetzt ungefähr nach zwei Wochen, das ist extrem projektspezifisch. Ich habe ein sehr großes Projekt im Moment, da sprechen wir, wir werden es sehen, von vier bis sechs Wochen, bis dann auch wirklich alle Wechselrichter laufen werden. Bei kleineren Projekten kann das ja auch schon nach einem Tag soweit sein.
+
+(0:09:31 - 0:09:45)
+Wie auch immer, die sagen jetzt mal ungefähr zwei Wochen später, hat man die ganze Erzeugungsanlage in Betrieb genommen. Also die Summe aller Erzeugungseinheiten ist die Erzeugungsanlage, EZA. Das ist dann der nächste Schritt.
+
+(0:09:46 - 0:09:53)
+Hier, da gibt es auch eine Erklärung. Der Anschlussnehmer, also wir machen das. Und jetzt müssen wir den E11-Bogen ausfüllen und nicht den E10-Bogen.
+
+(0:09:55 - 0:10:10)
+Spätestens sechs Monate nach diesem Zeitpunkt und in Klammern steht es drunter, spätestens zwölf Monate nach diesem ganz linken Startpunkt. Wie gesagt, da können dazwischen ja mehrere Monate liegen. Muss die Konfirmitätserklärung vorliegen.
+
+(0:10:11 - 0:10:20)
+Ganz wichtig. Das ist ja immer so ein ganz, ganz, ganz wichtige Aufgabe bei uns und ein Riesengrund zur Freude, wenn man es denn dann geschafft hat. Macht da auch der Anschlussnehmer und nennt sich E12.
+
+(0:10:23 - 0:10:42)
+So, wir zeigen auch das in unserem Bild. Zack, einmal rübergeschoben, schnell die 50 Meter des Mittelspannungskabels entlanggerannt und jetzt sind wir in der Trafo-Station. Das J01-Feld leuchtet schon, weil das wurde schon mit unserer Linie von der Übergabestation aus bis zum Lasttrennschalter in Betrieb genommen.
+
+(0:10:42 - 0:10:48)
+Aber jetzt machen wir weiter. Jetzt schalten wir da den Lasttrennschalter ein. Damit ist die Sammelschiene unter Spannung.
+
+(0:10:48 - 0:11:00)
+Dann die Schutzrelais vom Mittelspannungsabgangsfeld hier sind eigenversorgt oder batteriegespeichert. Das heißt, die sind schon da, die stehen bereit. Nur dann darf ich jetzt den Leistungsschalter zuschalten.
+
+(0:11:00 - 0:11:09)
+Achtung, das mache ich jetzt mal. Zack, J03 in Betrieb genommen. Jetzt ist der Transformator mit seinen 3051 kV in unserem Beispiel in Betrieb.
+
+(0:11:09 - 0:11:23)
+Jetzt brummt es, das hört man immer sehr schön, dann zugeschaltet. Und wir wissen, dass erstmal alles in Ordnung ist und der Schalter nicht einfach wieder rausgeflogen ist. Niederspannung und Monitoring kann ich jetzt in Betrieb nehmen.
+
+(0:11:23 - 0:11:32)
+Die haben ja immer auf der Niederspannungsseite so ein Hilftrafo. Klar, dann habe ich da vielleicht meine 230 Volt, zeige ich jetzt hier. Heller leuchtet, braucht ihr die Details jetzt nicht angucken.
+
+(0:11:32 - 0:11:37)
+Aber das ist dann einfach. Jetzt funktioniert das Licht in der Trafo Station. Jetzt funktionieren die Steckdosen.
+
+(0:11:37 - 0:11:48)
+Aber eben auch zum Beispiel meine USV wird geladen und mein Monitoring funktioniert in der Station. Und ganz wichtig, der zwischengelagerte NA-Schutz, der ist jetzt auch in Betrieb. Mache ich auch so.
+
+(0:11:48 - 0:12:00)
+Ich gehe dann dahin, gucke mir die ganzen Displays erstmal in Ruhe an und kann dann erstmal sagen, das scheint mir jetzt erstmal alles zu funktionieren. Jetzt kann ich den Niederspannungsleistungsschalter in Betrieb nehmen. Da ist er, er wird hell erleuchtet.
+
+(0:12:00 - 0:12:07)
+Dann ist die ganze Niederspannungssammelschiene in Betrieb. Und jetzt endlich, jetzt kommen die Wechselrichter. Die sind DC-seitig versorgt.
+
+(0:12:07 - 0:12:12)
+Zack, zack, zack, zack, zack. Und jetzt gehen die in Betrieb. Und ich glaube, an der Stelle wird ja auch schon deutlich.
+
+(0:12:13 - 0:12:23)
+Also das waren ja jetzt wahrscheinlich schon zehn Einzelschritte. Später kommen die noch viel diffiziler. Aber man merkt jetzt, glaube ich schon, und jeder, der mal auf so einer Großbaustelle war, ist klar, das schaffe ich gar nicht alles an einem Tag.
+
+(0:12:23 - 0:12:29)
+Das geht gar nicht. Die Wechselrichter liegen vielleicht hunderte Meter auseinander. Also das ist einfach sehr, sehr viel Arbeit.
+
+(0:12:30 - 0:12:30)
+Insgesamt.

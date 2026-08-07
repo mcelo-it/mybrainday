@@ -1,0 +1,218 @@
+(0:00:00 - 0:00:14)
+Jetzt haben wir noch 20 Minuten und jetzt würden wir mit dem Live-Test starten. Also wir haben hier das Schutzrelais aufgebaut, wir würden jetzt gleich mal den Bildschirm teilen. Ihr seht jetzt hier schon mal das Schutzrelais, so sieht das MCA4-Relais aus.
+
+(0:00:14 - 0:00:31)
+Das ist jetzt erstmal im Normalbetrieb, wahrscheinlich wird gar kein Strom und gar keine Spannung eingespeist. Wenn wir es hinkriegen, würden wir jetzt gleich das Menti noch dazu einblenden. Und das Menti führt uns jetzt hier so ein bisschen durch so eine tatsächliche Live-Prüfung.
+
+(0:00:31 - 0:00:49)
+Das haben wir aufgeteilt in zwei Teile. Erstmal müsst ihr uns jetzt vertrauen, was wir hier einspeisen und wir sagen euch das im Grunde genommen. Und beim zweiten Teil der Prüfung, da würden wir euch nicht das Relais-Display einblenden, sondern mal die Software des Schutzrelais.
+
+(0:00:49 - 0:01:08)
+Und dann gucken wir mal, wie weit wir hier kommen, bis wir, ich sag mal, bis 11 Uhr alles durch haben. So, wir starten gleich rein mit Menti, damit wir wissen, was wir hier tun sollen. Also die erste Frage war, es sind jetzt nur vier Player dabei, wäre schön, wenn noch ein paar dazukommen.
+
+(0:01:09 - 0:01:37)
+Welchen primären Stromwert erwarten wir für L3 am Relais-Display bei 75 zu 1 Ampere Wandern? Bitte schaut einmal in dieses kleine Bild, was da drin ist. Also L3 sind 110 mA und ihr solltet jetzt mal schnell, weil ihr habt keinen Taschenrechner da, denke ich, schnell abschätzen, welcher Wert wäre das primär. Ich hatte euch eben ja schon mal gesagt, was 100 mA sind und genau 100 mA wären 7,5.
+
+(0:01:37 - 0:01:58)
+L3 waren aber 110 mA, deshalb haben die 8,25 erstmal gewonnen. Und jetzt würde mein Kollege die Prüfung einmal starten an der Omikron-Software, das hat er jetzt gemacht. Ich höre das hier durch so ein Klicken und jetzt zeigt er uns mal über das Menü Display, da seht ihr das, kann man Spannung und Ströme einblenden lassen.
+
+(0:01:58 - 0:02:15)
+Jetzt zeigt er uns mal den Strom. Genau, und jetzt sehen wir hier den Strom L1, L2, L3, das ist ganz oben. Und jetzt sehen wir hier 8,25 Ampere, haben wir doch gesagt, ist richtig auf L3, aber wir sehen jetzt auf L1 8,25 Ampere.
+
+(0:02:15 - 0:02:31)
+Da ist doch jetzt irgendwas schief gelaufen, würde ich sagen. Also was kann jetzt hier der Fehler sein? Können wir nochmal das Menti zeigen, weil da würde jetzt, glaube ich, gleich die nächste Frage auftauchen. Genau, wir haben jetzt die Prüfung gestartet, gehen nochmal eine weiter, Thomas.
+
+(0:02:33 - 0:02:49)
+Wir können das auch ruhig so gezeigt lassen, dass das Menti unten so drin bleibt. Das, denke ich, reicht uns. Und die erste Frage, die jetzt kommt, ist, sind die Stromwerte L3 am Relais korrekt? Ja, jetzt war ich, glaube ich, ein bisschen zu schnell, aber ihr könnt das jetzt auch nochmal bewerten.
+
+(0:02:50 - 0:03:12)
+Ist es korrekt oder ist es nicht korrekt? Ja, genau, es hat noch einer Ja getippt, aber die Stromwerte sind eben nicht korrekt. Ich sage mal, die Beträge in Summe mögen korrekt sein, aber hier ist es ganz klar, dass L3 eben nicht die 8,25 Ampere hat, sondern nur 6,7, sage ich mal. Dann gehen wir mal in die nächste Frage, Thomas.
+
+(0:03:17 - 0:03:40)
+Und die nächste Frage wäre dann wahrscheinlich, was könnte jetzt der Fehler sein? Woran kann das liegen? Wir haben euch hier dann auch drei Möglichkeiten gegeben, also falsche Relais-Einstellung, falsche Verdrahtung. Naja, oder ihr wisst es halt nicht. Also ihr könnt jetzt hier mal, ja genau, und die meisten tippen auf die falsche Verdrahtung.
+
+(0:03:40 - 0:03:53)
+Der Hinweis wäre ja natürlich, wir sind in der Verdrahtungsprüfung und die meisten haben das richtig getippt. Gehst du mal eins weiter, Thomas, bitte. Und die falsche Verdrahtung wäre jetzt tatsächlich hier der Punkt.
+
+(0:03:53 - 0:04:18)
+Ihr seht ja noch, Phase 1 ist im Grunde genommen das, was wir auf Phase 3 erwarten und Phase 3 ist das, was wir auf Phase 1 erwarten. Also sind Phase 1 und 3 vertauscht. Der Kollege stoppt jetzt die Prüfung und geht im Prinzip zu der Prüfklemmleiste und tauscht Phase 1 und 2. Und er sieht das dann auch gleich an der Beschriftung seiner Leiter, dass er die da irgendwie, er war einfach ein bisschen müde noch, hat er falsch angesteckt.
+
+(0:04:18 - 0:04:31)
+So würde jetzt tatsächlich diese Prüfung funktionieren. Jetzt wechselt er die Verdrahtung, drückt nochmal Play und dann sehen wir jetzt, dass es passt. Wir gehen in die nächste Menti-Frage.
+
+(0:04:34 - 0:04:51)
+Wir haben da noch ein paar vor uns und nur noch 14 Minuten Zeit, also wir machen das jetzt mal zügig. Jetzt ist die Frage, wir gehen jetzt in die nächste Prüfung. Erwartet ihr hier negative Wirkleistung am Relais oder positive? Es war Phase in Phase, das hatten wir, glaube ich, gezeigt und man sieht es auch hier auf dem Bild.
+
+(0:04:52 - 0:05:02)
+Was erwarten wir, negativ oder positiv? Positiv. Die Phasenlage ist gleich, das heißt, wir sind ein Verbraucher. Wir haben positive Wirkleistungswerte.
+
+(0:05:02 - 0:05:07)
+Das geht hier jetzt sehr, sehr schnell. Der Anspruch ist relativ hoch. Ihr müsst da konzentriert sein.
+
+(0:05:07 - 0:05:28)
+Wir gehen zur nächsten Frage. Michael, du kannst das vielleicht auch einmal am Relais-Display zeigen. Jetzt haben wir hier gesehen, wir haben eben gesagt, wir erwarten positive Werte.
+
+(0:05:28 - 0:05:39)
+Jetzt sehen wir aber negative. Woran kann das liegen? Falsche Verdrahtung, falsche Relais-Einstellung? Keine Ahnung. Okay, jetzt haben hier sieben Leute auf falsche Relais-Einstellung getippt.
+
+(0:05:39 - 0:05:50)
+Das finde ich erst mal klasse, weil wir haben ja eben die Verdrahtung korrekt eingestellt. Und jetzt ist hier aber trotzdem die Wirkleistung in die falsche Richtung. Falsche Relais-Einstellung, der Kollege stoppt die Prüfung.
+
+(0:05:51 - 0:06:19)
+Und jetzt kann er an dem Relais, das seht ihr jetzt hier live bei den Feldparametern, sich den Stromwandler auswählen und hier die Einbaurichtung des Stromwandlers drehen. Hier brauchen wir jetzt ein Passwort. Und die waren auf 180 Grad und wir drehen das jetzt auf 0. Und wenn man jetzt ins Manual gucken würde, ins Handbuch, dann würde man da sehen, wenn die Wandler richtig angeschlossen sind, wäre erst mal 0 die richtige Einstellung.
+
+(0:06:19 - 0:06:30)
+Und damit hätte man das Verbraucherzell-Fallsystem. So steht es da sicherlich nicht drin, so einfach im Handbuch, aber so wäre es vom Grundsatz her. Man muss sich da wirklich reindenken.
+
+(0:06:31 - 0:06:42)
+Und jetzt haben wir das gedreht im Relais in der Software und jetzt passen die Werte. Dann würde ich im Menti einmal weitergehen. Das haben wir schon gemacht.
+
+(0:06:42 - 0:07:01)
+Wir ändern die Stromwandlerrichtung im Schutzrelais, ist erledigt. Also wir gehen weiter und haben jetzt gesehen, dass es passt. Und was bedeutet positive Wirkleistung im Verbraucherzell-Fallsystem? Ich glaube, das hatten wir schon ein paar Mal gesagt.
+
+(0:07:02 - 0:07:14)
+Positive Wirkleistung ist das Verbrauch, Einspeisung. Was anderes gibt es nicht. Es ist Verbrauch beziehungsweise Bezug, heißt es wahrscheinlich richtigerweise.
+
+(0:07:15 - 0:07:25)
+Aber das haben ja die meisten erst mal so richtig ausgewählt. Dann gehen wir in die nächste Folie. Jetzt haben wir die Verdrahtungsprüfung 1 beendet.
+
+(0:07:26 - 0:07:44)
+Der Kollege würde jetzt wechseln in die Verdrahtungsprüfung 2. Wir gehen mal eine Folie weiter, Thomas. Jetzt seht ihr schon, wir haben rechts ein kleines Bild mit eingefügt. Jetzt wären wir bei diesem blauen Bild ganz oben und würden jetzt die Blindleistung überprüfen.
+
+(0:07:44 - 0:08:04)
+Da starten wir mal. Also Thomas, gehst du noch eine weiter? Was testen wir mit der zweiten Verdrahtungsprüfung? Das ist erst mal eine einfache Frage, würde ich sagen. Die Leistungsrichtung, Anregewerte, Auslösezeiten.
+
+(0:08:10 - 0:08:23)
+Genau, die Leistungsrichtung würden wir erst mal prüfen. Dann gehen wir zur nächsten Frage. Jetzt starten wir die Prüfung und gehen dann auch gleich zur nächsten Folie, zur nächsten Menti-Frage.
+
+(0:08:27 - 0:08:49)
+Ihr seht ja schon auf dem Display, dass da jetzt Wirk- und Blindleistung und Scheinleistung zu sehen sind. Und jetzt die Frage, werden P und Q korrekt dargestellt? Ich sehe hier auf meinem kleinen Bildschirm, ihr habt da eingekreist. Die Software macht das für euch, P und Q, ob die positiv oder negativ sein müssen.
+
+(0:08:50 - 0:08:56)
+Das ist hier die Hilfestellung. Also wird es im Relais Display richtig dargestellt. P negativ, Q negativ.
+
+(0:08:57 - 0:09:11)
+Und die Omikron Software würde jetzt auch sagen, P negativ, Q negativ. Ich hoffe, ihr konntet das sehen, weil dann konntet ihr hier Ja auswerten. Also P und Q werden jetzt korrekt dargestellt.
+
+(0:09:11 - 0:09:23)
+Das ist schon mal gut. Jetzt sind wir mit der Verdrahtungsprüfung 2 auch schon zu Ende. Das hat gut geklappt und gehen in die nächste Menti-Frage.
+
+(0:09:24 - 0:09:47)
+Und wir wechseln jetzt in die Freigabeprüfung Unterspannung. Und wir würden jetzt statt dem Relais Display, ihr habt ja jetzt gesehen, wie das so ungefähr funktioniert, würden wir jetzt die Omikron Software einblenden und parallel schon mal in die erste Frage hier wechseln. Ich glaube, die erste Frage hat noch nicht unbedingt was mit der Omikron Software zu tun.
+
+(0:09:48 - 0:10:02)
+Welcher Wert löst zu Beginn der Prüfung noch nicht aus? Das ist ein bisschen schwierig gestellte Frage, glaube ich. Also wir wollen hier den Mindeststrom prüfen. Und welcher Wert ist jetzt nicht im Auslösebereich zu Beginn der Prüfung? Ja, genau.
+
+(0:10:04 - 0:10:12)
+Nein, Entschuldigung, wir wollen die Unterspannung prüfen. Das habe ich jetzt falsch gesagt. Und dann ist eben die Unterspannung noch nicht im Auslösebereich.
+
+(0:10:12 - 0:10:29)
+Aber Blindleistung und Strom erfüllen die Auslösekriterien. Und wenn wir jetzt die Prüfung gleich starten, würde eben nur die Spannung zu Beginn der Prüfung außerhalb des Auslösebereichs sein und sich dann langsam rein bewegen. Wir gehen mal in die nächste Frage.
+
+(0:10:36 - 0:10:54)
+Also was ist der korrekte sekundäre Auslösewert des Unterspannungskriteriums? 45 Volt, 85 oder 100. Und das sind 85 Volt. Super, das haben wir die meisten richtig erkannt.
+
+(0:10:55 - 0:11:03)
+45 Volt Leiter, Leiter ist, glaube ich, das u kleiner, kleiner Kriterium. Oder nicht Kriterium, aber das ist eine andere Schutzfunktion. Und 100 Volt ist die Nennspannung.
+
+(0:11:04 - 0:11:14)
+Wir gehen dann mal weiter. Wir starten jetzt die Freigabeprüfung Unterspannung. Der Kollege legt da jetzt mal los.
+
+(0:11:14 - 0:11:24)
+Die Rampe geht schon runter. Jetzt waren wir, glaube ich, zu schnell mit dem Menti. Kommen wir noch einmal zurück, Thomas.
+
+(0:11:26 - 0:11:34)
+Weil die Prüfung ist noch nicht durch. Also die Prüfung läuft jetzt durch. Ihr seht jetzt hier, dass die Spannung sich ganz langsam nach unten bewegt.
+
+(0:11:34 - 0:11:47)
+Unten links seht ihr auch, dass wir jetzt bei 86 Volt sind. Wir wollen ja so Richtung 85. Und irgendwann kriegt man dann im Grunde den Auslösekontakt von dem Schutzrelais.
+
+(0:11:47 - 0:11:55)
+Hier ist er. Und dann dreht unsere Rampe um. Das ist automatisiert und fährt eben wieder nach oben, um dann den Rückfallwert zu prüfen.
+
+(0:11:55 - 0:12:13)
+Und unten drunter unter dieser Grafik seht ihr diesen blauen Zeitstrahl. Ich hoffe, man sieht den, der im Grunde dann die Auslösung symbolisiert. Und noch weiter drunter ist jetzt diese automatisierte Bewertung, die dann uns einen grünen Haken gibt.
+
+(0:12:13 - 0:12:26)
+Also wir sind wohl sehr nah an 85 Volt mit 84,9 und mit 86,7. Also das ist zufälligerweise genau so, wie wir es eben in der PPT angegeben haben. Wir haben bestanden mit genau den PPT-Werten.
+
+(0:12:26 - 0:12:57)
+So, dann würden wir in den Menti jetzt weitergehen. Und jetzt ist die Frage, glaube ich, auch relativ einfach zu bewerten, die als nächstes kommt. Zu beantworten, ist der Auslösewert und der Rückfallwert korrekt? Jawohl, ich habe es ja, glaube ich, auch vorweggenommen.
+
+(0:12:57 - 0:13:06)
+Also das ist korrekt. Dann gehen wir in die nächste Menti-Frage. Und jetzt starten wir die Überprüfung der Spannungslogik.
+
+(0:13:06 - 0:13:21)
+Und das würden wir euch auch einfach nur mal so zeigen, wie das im Grunde funktioniert. Also wir fahren jetzt hier verschiedene Spannungswerte an. Und die, die das da sehen, da in den Bereichen, wo Fehler steht, da reduzieren wir aber immer nur zwei Spannungen.
+
+(0:13:21 - 0:13:32)
+Also die dritte Spannung bleibt immer auf Nennspannung. Kannst du das vielleicht reinzeigen, Michael, dass die Leute das sehen? Ja, da ist auch eine gesunde Spannung. Dann gehen wir eins weiter nach rechts.
+
+(0:13:32 - 0:13:39)
+Und da ist eine Spannung dann immer in Ordnung. Und dann kommen wieder gesunde Spannungen. Und dann kommt wieder die erste Spannung, die in Ordnung ist.
+
+(0:13:39 - 0:14:01)
+Das heißt, wir reduzieren nie alle drei Spannungen, sondern immer nur zwei von drei. Und das würde man jetzt mal durchfahren. Und dann würde jetzt, wenn wir mal Start drücken, und wir gehen auch gleich in Menti eine Folie weiter, Thomas, dann würde jetzt dieses Schutzrelais nicht auslösen, bis wir ganz am Ende ankommen.
+
+(0:14:02 - 0:14:16)
+Also ihr seht, das fährt jetzt oben durch. Und es gibt keine Auslösung bei diesen ganzen Prüfungen, weil immer ein Spannungskriterium, eine Spannung immer außerhalb des Auslösebereichs ist. Erst ganz am Ende gehen wir dann mit allen Spannungen unter 85 Prozent.
+
+(0:14:16 - 0:14:28)
+Und erst ganz am Ende kommt dann die Auslösung. Kannst du den Zeitstrahl noch einmal reinscrollen, Michael? Dann sehen die Leute das auch noch mal. Ja, nee, etwas weiter runter, wo der Zeitstrahl ist.
+
+(0:14:30 - 0:14:39)
+Genau. Und da kann man jetzt noch nach unten schieben. Und da seht ihr, dass erst ganz am Ende würde der Auslösekontakt kommen.
+
+(0:14:39 - 0:14:50)
+Wir gehen weiter in Menti. Können wir noch eins weitergehen, bitte, in Menti? Genau, jetzt machen wir noch einmal die PQ-Prüfung. Die startet der Kollege jetzt.
+
+(0:14:52 - 0:15:05)
+Und jetzt seht ihr hier, dass wir diesen Winkel variieren. Das hatten wir eben so besprochen. Von 180 Grad geht er hoch Richtung 177 Grad und würde dann hoffentlich bei ungefähr 177 Grad eben auslösen.
+
+(0:15:05 - 0:15:18)
+Das heißt, wir bewegen uns jetzt in den Auslösebereich mit der Blindleistung. Und Spannung und Strom sind schon von Beginn der Prüfung im Auslösebereich. Und so hätte man jetzt hier auch das letzte Modul geprüft.
+
+(0:15:18 - 0:15:33)
+Und in der, sage ich mal, Logik, die ihr hier in Menti noch seht, hätten wir jetzt diese ganzen Auslösekriterien geprüft. Und zum Schluss würde man noch mal die scharfe Auslösung machen. Die kannst du bitte noch einmal einblenden, Michael, dass wir die noch einmal zeigen.
+
+(0:15:33 - 0:15:43)
+Und in Menti würden wir dann gleich noch mal rübergehen zu der Fragerunde. Die kannst du ja gleichzeitig schon mal einblenden. Das müsste die letzte Folie sein.
+
+(0:15:45 - 0:15:54)
+Die scharfe Auslösung, da wechseln wir jetzt hin. Die zeigen wir im Hintergrund. Michael, du kannst einfach mal Start drücken.
+
+(0:15:54 - 0:16:06)
+Was man dann hier sieht, ist, wir machen einen kurzen Vorfehler, drei Sekunden. Und dann beim Fehler ist das Spannungskriterium erfüllt, das Stromkriterium und die Blindleistung. Und wir hoffen, dass wir dann da die Auslösung kriegen.
+
+(0:16:07 - 0:16:18)
+Der Kollege simuliert den Leistungsschalter. Ich hoffe, er ist da schnell genug. Also der Leistungsschalter, das war mein Kollege, der hat, ich glaube, 800 Millisekunden gebraucht.
+
+(0:16:18 - 0:16:29)
+Also der Leistungsschalter, der ist hier sehr langsam, weil es ein menschlicher Schalter ist. Aber so wäre die Prüfung. Man hat die Auslösezeit des Relais, man hat die Auslösezeit des Leistungsschalters.
+
+(0:16:30 - 0:16:47)
+Und ich gebe jetzt noch den Leuten, die Fragen haben, die Möglichkeit, die hier in Menti noch mal kurz zu posten. Ansonsten wären wir mit unserem Vortrag dann hier soweit durch. Ich hoffe, dass das für alle jetzt einen vertieften Einblick in die QU-Schutzprüfung gebracht hat.
+
+(0:16:50 - 0:17:10)
+Wieso betrachtet der QU-Schutz nur die Unterspannung? Naja, ich denke, dass das hier, der QU-Schutz, der soll ja bei Netzfehlern wirklich sensibel arbeiten. Das heißt, wir haben einen Kurzschluss im Netz, dann bricht die Spannung ein. Und wenn diese Spannung einbricht, sollen wir Blindleistung zur Verfügung stellen.
+
+(0:17:11 - 0:17:29)
+Ich denke, dafür wurde dieser Blindleistungsschutz mal ins Leben gerufen. Und ich glaube, dass diese Frage wahrscheinlich daherkommt, dass es diesen Fault-Right-Through-Modus natürlich nicht nur für Unterspannungen gibt, sondern auch für Überspannungen. Also ich sag mal auch überhalb, ich glaube von 120% Netzspannung.
+
+(0:17:30 - 0:17:52)
+Das sind aber dann, denke ich, andere Ursachen im Netz, die dafür sorgen. Und ich denke, dass ich so 100% die Frage gar nicht richtig beantworten kann. Aber FNN-Richtlinien sagen, Netzfehler, zum Beispiel Kurzschlüsse, Netzspannung bricht ein und dann speisen wir Blindleistung ein und dann stützen wir das Netz.
+
+(0:17:52 - 0:18:00)
+So ist das gedacht. Für die Überspannungsereignisse im Netz ist der QU-Schutz eben nicht vorgesehen. Aber eine gute Frage, danke.
+
+(0:18:00 - 0:18:17)
+Das hilft uns ja auch, immer nochmal über Themen nachzudenken oder Themen anders zu greifen. Ja, also dann. Ihr habt immer die Möglichkeit natürlich in den Chat reinzuschreiben oder uns E-Mails zu schreiben.
+
+(0:18:17 - 0:18:30)
+Wir antworten gerne. Wir versuchen jede Frage zu beantworten, die da kommt. Ich bedanke mich an der Stelle, dass ihr teilgenommen habt und dass ihr auch bis zum Schluss, wie ich fand, die Fragen tapfer beantwortet habt.
+
+(0:18:31 - 0:18:42)
+Ich freue mich aufs nächste Mal, auf nächste Woche. Da wäre dann, denke ich, unser letzter Brainday der ganzen Reihe. Ich wünsche euch ein schönes Wochenende und wir sehen uns dann hoffentlich nächsten Freitag.
+
+(0:18:42 - 0:18:43)
+Also vielen Dank. Tschüss.

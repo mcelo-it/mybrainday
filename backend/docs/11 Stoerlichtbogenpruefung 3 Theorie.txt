@@ -1,0 +1,53 @@
+So, jetzt kommen wir zu dem Kapitel Theorie. Also bei dem Kapitel Theorie wollen wir euch vielleicht ein bisschen sensibilisieren, was bei so einem Störlichtbogen passiert. Wir wollen euch hier nicht, wir wollen das hier nicht zu dramatisch darstellen, sondern vielleicht auf einem technischen Niveau einfach mal darstellen, was passiert, wie gefährlich ist das Ganze, worauf muss man hier achten? Und genau, ihr versteht das dann besser und habt vielleicht ein besseres Gefühl, warum das Ganze denn hier wirklich so gemacht wird.
+
+Also grundsätzlich entsteht bei so einem Störlichtbogen ein Gasplasma. Ein Gasplasma, das hatte ich vorher auch schon mal kurz erwähnt, das ist ein Gas, was dann aus verschiedenen Stoffen wahrscheinlich besteht. Also es kommt zu einem Kurzschluss jetzt zwischen zwei Leitungen, zwischen zwei Leitern.
+
+Die Leiter sind unter Umständen ummantelt mit verschiedenen Kunststoffen vielleicht und daraus entsteht dann eben ein Gas. Ein Gasplasma, was dann die Leitfähigkeit auch noch erhöht und während dieses Gasplasma entsteht, entstehen eben Temperaturen von mehreren tausend Grad. Das ist erst mal ganz wichtig, wir haben das recherchiert.
+
+Da gibt es unterschiedliche Angaben, manche reden von 3000 Grad, andere reden von 10.000 Grad. Das ist für uns gar nicht so relevant hier. Wichtig ist, es ist einfach sehr, sehr heiß.
+
+Es kommt eben auch zu Druckausdehnungen, es kommt zu Gasen und das Ganze ist für den Menschen höchst lebensgefährlich. Es kann zu großen, starken Verbrennungen kommen und deshalb ist das hier einfach wirklich möglichst zu verhindern, dass das entsteht. Und wenn es entsteht, müsst ihr euch schützen.
+
+So, ich hatte es erwähnt, es verdampft Material, Gießharz, Lacke, Metalle. All das sammelt sich dann irgendwie in der Luft und dehnt sich aus und verteilt sich. Das verdampfte Material erhöht dann die Leitfähigkeit zwischen diesen beiden Leitern, meinetwegen, die ja vielleicht in einer luftisolierten Schaltanlage so weit voneinander entfernt sind, dass es eigentlich gar keinen Überschlag geben kann.
+
+Gezündet wird er dann häufig durch, ja, beispielsweise meinetwegen eine, irgendwelche Tiere haben ein Nest zwischen den Leitern gebaut und dann kann es natürlich schnell passieren, dass dort ein Lichtbogen gezündet wird und wenn er dann gezündet ist, dann kann eben durch dieses verdampfte Material, durch dieses Plasma eben der Lichtbogen bestehen bleiben. Dann teilt sich, teilt die Literatur diesen Ausdehnungs- oder diesen Störlichtbogenprozess in vier Phasen auf, die wir jetzt hier auch nochmal kurz darstellen. Diese Phasen, die entstehen natürlich innerhalb von einer Sekunde oder höchstens einer Sekunde.
+
+Nach einer Sekunde ist die Störlichtbogenprüfung schon abgeschlossen. Aber vom Grundsatz her gibt es als erstes eine Phase, die nennt sich dann Kompressionsphase. Das ist dann die Phase des maximalen Drucks.
+
+Es gibt dann eben auch diesen Knall. Es gibt ein lautes, es gibt eine starke Druckentwicklung, der Lichtbogen entsteht. Und oben im Diagramm seht ihr, ja, der Druck geht auf sein Maximum.
+
+Das ist dann eben der erste Prozess. Der zeitliche Ablauf, der dahintersteht, sind 10, 15 Millisekunden, also sehr, sehr kurz. Aber trotzdem, hier haben wir Druck, hier muss das Gas irgendwo hin.
+
+Und das wird dem Gas dann auch gelingen in unseren Stationen. Und dann kommt es eben zu dieser Expansionsphase. Es kommt zu einer Ausdehnung und der Druck klingt dann auch gleich ein wenig ab.
+
+Dann kommt die Emissionsgase, die Gase werden dann eben nach außen ausgestoßen. Der Druck kann weiter abklingen. Und zum Schluss kommen wir dann noch in die Thermophase.
+
+Die Metalle, die Isolierstoffe, die gehen dann eben raus aus der Anlage. Die kondensieren dann auch vielleicht an den Wänden. Überall, wo es eben möglich ist, wo sie sich niedersetzen können, hat man dann eben diesen Ausstoß.
+
+Diese Metalle, eine schwarze Rußschicht wird es am Ende sein. In den Schaltanlagen seht ihr dann häufig Metall, das an die Wände gespritzt ist. Also da passiert wirklich viel bei so einer, bei so einer Störlichtbogen.
+
+Bei Prüfungen oder bei so einem Störlichtbogen-Event. Und das ist dann die letzte Phase. Die wird dann hier nochmal so dargestellt.
+
+Die dauert dann auch an bis zu einer Sekunde hinten. Und dann ist dieser Störlichtbogen auch schon abgeschlossen. Und hoffentlich hat irgendein Schutzrelais möglichst auch schon vor einer Sekunde das Ganze abgeschaltet.
+
+So hier nochmal ein kleiner, eine kleine Erklärung, wie so ein Druckablauf in so einer Schaltanlage dann wirklich passiert. Also wir haben euch mal eine SF6 Anlage dargestellt. Das ist jetzt natürlich ein etwas auslaufendes Modell gerade.
+
+Aber trotzdem ist das für uns nochmal sehr interessant darzustellen. Also SF6 würde sich im Grunde genommen bei der Druckentwicklung über die Zeit so oder so ähnlich darstellen. Das ist ja ein Beispiel von einem der Hersteller.
+
+Und dann gibt es eben luftisolierte Anlagen, die gibt es auch, gibt es am Markt natürlich viel verfügbar, auch schon sehr lange. Und da ist die Druckentwicklung ganz anders. Im Vergleich sieht man, dass hier viel, viel höhere Drücke.
+
+Die Drücke sind viel, viel ungleichmäßiger vielleicht. Und auch der Zeitraum, über den dieser Druck entsteht, ist viel, viel länger. Und jetzt gibt es eben noch SF6 freie Schaltanlagen.
+
+Das ist ja das, was jetzt die Zukunft sein wird. Und da stellt sich die Kurve im Grunde genommen so dar. Also durchaus viel, viel gleichmäßiger, viel runder, nicht so zackig wie bei der Luftisolation, aber trotzdem sehr hohe Drücke und über einen sehr langen Zeitraum.
+
+Und das ist dann eben jetzt die Aufgabe für die Stationshersteller mit den neuen Typen der Schaltanlagen, auch jetzt diese Störlichtbogenprüfung am Ende durchzuführen. So, jetzt haben wir hier noch ein Video für euch, damit ihr vielleicht noch einmal seht, wie sowas dann wirklich abläuft. Also wir haben wir wirklich versucht, das auf ein erträgliches Maß zu reduzieren.
+
+Aber hilfreich sind so Videos natürlich trotzdem immer. Wir haben hier eine Schaltanlage, die sicherlich ein älteres Semester ist, also sehr, sehr alt aussieht. Und vor der Schaltanlage ist jetzt eine Figur positioniert.
+
+Das ist eine Puppe mit der gelben Jacke. Und wenn wir jetzt das Video starten, geht es ganz schnell. Der Störlichtbogen wird gezündet.
+
+Man sieht jetzt gleich in der Zeitlupe auch, dass diese Puppe vor der Schaltanlage da relativ schnell, relativ stark nach hinten geschleudert wird. Ich glaube, da verliert diese Puppe auch seinen Arm. Aber das ist eben ein Störlichtbogen bei einer nicht geprüften Schaltanlage.
+
+Hier ist es ein Niederspannungsexemplar. In der Mittelspannung wird es wahrscheinlich ähnlich aussehen, wenn die Anlage nicht geprüft war. Das reicht dann auch.
+
+Öfter müssen wir uns das nicht anschauen. Es hilft, glaube ich, allen, dass man wirklich darauf achtet, Störlichtbogen geprüfte Komponenten einzusetzen, damit eben das, was wir gerade im Video gesehen haben, nicht passiert. So, dann gehen wir ins Menti und fragen das Ganze nochmal ab.

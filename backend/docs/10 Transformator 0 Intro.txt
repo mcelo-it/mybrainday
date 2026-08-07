@@ -1,0 +1,23 @@
+(0:00:00 - 0:00:15)
+Hallo und herzlich willkommen zu unserem heutigen Thema Transformator. Ich finde, eines der wichtigsten Themen für uns Elektroplaner von größeren Solarparks. Wir haben das Thema aufgeteilt, wie ihr das häufig schon kennt, diesmal in acht Kapitel.
+
+(0:00:15 - 0:00:31)
+Wir starten mit dem Warum. Das ist, glaube ich, bei uns ganz üblich. Wir fragen uns erstmal, wofür brauchen wir überhaupt einen Transformator, damit wir hinterher besser erklären können, worum es geht, was so die Themen sind, worauf man achten muss und so weiter.
+
+(0:00:32 - 0:00:53)
+Dann gehen wir in das Wie, damit ihr versteht, wie so ein Transformator funktioniert. Es ist jetzt vielleicht nicht unbedingt das, was ihr im Projektgeschäft braucht, aber wenn man mal zumindest was über das Induktionsgesetz gehört hat, ist das, denke ich, sehr hilfreich. Da, versprochen, steigen wir auch nicht allzu tief ein, sondern reißen das Thema nur grundsätzlich an.
+
+(0:00:55 - 0:01:01)
+Danach gehen wir in die Normen. Die Normen sind natürlich sehr wichtig. Das ist auch ein eminenter Bestandteil von unseren Präsentationen.
+
+(0:01:02 - 0:01:35)
+Auch wenn es trocken ist, sind die Normen, wie ich finde, dann immer sehr, sehr interessant, bieten sehr, sehr viel Mehrwert im Grunde genommen und gehören einfach dazu, wenn man sich mit so einem Thema befasst. Der Aufbau des Trafos, das ist dann nun mal wirklich was, was wir im Projektgeschäft brauchen, wo wir wirklich häufig mit zu tun haben. Und wenn alle Leute, die ein Trafo mal live gesehen haben und das mal wirklich verinnerlicht haben, wie das aussieht, die haben da, denke ich, schon mal einen großen Vorteil, wenn es um diese Planungsthematiken geht.
+
+(0:01:36 - 0:01:48)
+Danach gehen wir in die elektrischen Kenndaten. Da wird es dann sehr elektrotechnisch. Das, denke ich, ist hilfreich für alle und ist ein sehr interessantes Thema, wie ich finde.
+
+(0:01:50 - 0:01:56)
+Mechanische Kenndaten kommen dann auch noch, wie wird so ein Trafo belüftet und so weiter. Das zeigen wir euch da. Dann könnt ihr in eine Tour gehen.
+
+(0:01:56 - 0:02:14)
+Dann seht ihr das wirklich alles nochmal live. Wie sieht so ein Trafo wirklich aus? Und ganz zum Schluss gehen wir dann nochmal in ein Datenblatt, weil das spezifiziert natürlich dann im Grunde genommen all das, was wir vorher hier in diesem Brain Day erklärt haben. Also, wir starten jetzt mit dem Warum.

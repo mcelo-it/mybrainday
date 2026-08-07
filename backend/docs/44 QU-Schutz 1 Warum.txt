@@ -1,0 +1,112 @@
+(0:00:00 - 0:00:11)
+Auf geht's. Ja, genau, hier sind wir mit dem Warum. Ist immer wichtig, um eben das Warum erstmal zu wissen, damit man hinterher überhaupt die Fragen stellen kann oder Fragen sich daraus ableiten kann.
+
+(0:00:11 - 0:00:38)
+Also Q-U-Schutz für die, die jetzt erstmal noch nicht viel damit anfangen können oder noch gar nicht wissen, was das überhaupt bedeutet, ist das jetzt so, dass Q steht für Blindleistungsrichtungsüberwachung. Ich finde, es macht Sinn, dass man dieses Wort am Ende abkürzt, weil das U steht dann für Unterspannungsüberwachung und Q und U, daraus wird dann dieses sperrige Wort. Wir kriegen das ja kaum auf eine Seite.
+
+(0:00:39 - 0:00:50)
+Also ich muss es auch wirklich ablesen. Blindleistungsrichtungsunterspannungsschutz. Ja, mit meiner Freundin habe ich mal gewettet, wenn sie das Wort morgen noch in einem aussprechen kann, wenn sie sich daran erinnert, kriegt sie von mir ein Sekt.
+
+(0:00:50 - 0:01:00)
+Bin ich gespannt, ob sie das hinkriegt. Alle, die natürlich mit Q-U-Schutz viel zu tun haben, die wissen das, die kriegen das hin. Aber so ist das jetzt.
+
+(0:01:00 - 0:01:07)
+Q-U-Schutz, Blindleistungsrichtungsunterspannungsschutz. Also dieser Schutz, der hat Aufgaben. Und zwar ist das der Systemschutz.
+
+(0:01:08 - 0:01:19)
+Also der Q-U-Schutz ist auch ein Bestandteil dieses NA-Schutz, Netz- und Anlagenschutz. Er ist systemrelevant. Er schützt aber erstmal nicht unsere Anlagen, sondern er schützt jetzt eher das gesamte System.
+
+(0:01:19 - 0:01:36)
+Was da am Ende hinter steckt, das erklären wir euch später. Aber am Ende das System zu schützen und ein Systemkollaps zu verhindern, das ist hier die wirkliche Aufgabe. Also hier geht es nicht um unsere Wechselrichter, hier geht es nicht um Kabel, sondern hier geht es wirklich um das Übergeordnete.
+
+(0:01:37 - 0:02:00)
+Wir müssen sehen, dass wir eben unser Gesamtsystem schützen, dass unser Gesamtsystem nicht kollabiert. So steht es später auch in den Richtlinien drin. Genau. 
+
+Hintergrund ist, wir müssen nach einer Spannungshaltung, oder wir müssen Spannungshaltung nach Netzfehlern realisieren. Also wir haben einen Kurzschluss im Netz. Zeigen wir jetzt mal auf der nächsten Seite.
+
+(0:02:02 - 0:02:07)
+Fault right through ist vielleicht das Stichwort, an das sich manche von euch erinnern. Manche kennen das. Also Kurzschluss im Netz.
+
+(0:02:08 - 0:02:21)
+Die Netzspannung bricht jetzt einfach mal ein. Das zeigen wir euch hier, beziehungsweise dass ihr die Grafik, die festlegt, in welchem Bereich wir am Netz bleiben können, müssen. Das ist dieser Fault right through Modus.
+
+(0:02:21 - 0:02:36)
+Also wir haben einen Netzfehler. Netzspannung bricht ein und jetzt müssen wir in der Lage sein, gewisse Zeiträume eben am Netz zu verbleiben und dann in dem Moment das Netz eben auch stützen zu können. Das heißt, wir müssen, ich sage es jetzt mal umgangssprachlich, Blindleistung einspeisen können.
+
+(0:02:37 - 0:02:56)
+Das wird definiert über einen K-Faktor. Und dieser K-Faktor, der sorgt, oder diese Blindleistung, die sorgt dann eben dafür, dass unser Netz gestützt wird. Und gleich in der nächsten Folie zeigen wir euch dann vielleicht nochmal so einen kleinen Exkurs, was das mit der Blindleistung auf sich hat.
+
+(0:02:57 - 0:03:30)
+Wenn jetzt aber eure Anlage eben Blindleistung bezieht, also das Netz tendenziell schwächt, dann wird dieser Q-Schutz dafür sorgen, dass ihr eben vom Netz genommen werdet. Weil das kann das Netz dann wirklich nicht gebrauchen. Jemand, der das Netz in so einem Fehlerfall, das Netz ist sehr schwach, gerade sehr fehleranfällig, was heißt fehleranfällig? Es gibt einen Fehler, dann können wir wirklich nicht gebrauchen, dass da jemand nochmal Blindleistung aus dem Netz zieht und das Netz weiter schwächt und dann eben für einen Systemkollaps, zu einem Systemkollaps führen kann.
+
+(0:03:30 - 0:03:44)
+Das ist erstmal so ein bisschen der Hintergrund für dieses System. Blindleistung, Einspeisung von Blindleistung, für die, die da nicht ganz so sattelfest sind oder das Thema vielleicht auch schon wieder so ein bisschen aus den Augen verloren haben. Es ist wie folgt.
+
+(0:03:44 - 0:03:58)
+Blindleistung ist erstmal für die Spannungshaltung zuständig. Wenn man sich vielleicht noch erinnert, Frequenz und Wirkleistung war so ein Thema. Also wenn sich die Frequenz erhöht, braucht man mehr Wirkleistung oder weniger Wirkleistung.
+
+(0:03:59 - 0:04:13)
+Und bei der Blindleistung ist es eben eher die Spannung, die der Indikator ist, dass uns jetzt eben Blindleistung fehlt oder nicht. Also es ist dann eben genau so. Jetzt ist die Spannung, die Realspannung höher als die Sollspannung.
+
+(0:04:14 - 0:04:30)
+Und dann würde man erst mal sagen, haben wir zu viel Blindleistung im Netz. So würde ich es jetzt erst mal definieren. Und andersrum würde ich sagen, wenn die Netzspannung erst mal unter der Sollspannung ist, also unter 100 Prozent von der Netzspannung.
+
+(0:04:31 - 0:04:50)
+Hier haben wir jetzt mal als Beispiel 19,96 angegeben. Dann wiederum haben wir ein bisschen zu wenig Blindleistung im Netz und müssten eben dafür sorgen, dass Blindleistung dazukommt, zum Beispiel durch unsere PV-Anlage. Und dann haben wir natürlich ein Ziel und das ist eine Nennspannung von 100 Prozent oder eine Realspannung von 100 Prozent, also real gleich Soll.
+
+(0:04:51 - 0:05:14)
+Und dann, sage ich mal, sind wir in der Mitte dieses Grafens und da wollen wir uns am liebsten aufhalten. So ist erst mal der Hintergrund. Vielleicht aber noch mal, um das hier wichtig oder klar zu sagen, dieser QU-Schutz, der wird jetzt nicht eingreifen, wenn wir in unserem stationären oder statischen Betrieb sind.
+
+(0:05:14 - 0:05:26)
+Also das ist dann ja im Spannungsbereich von 90 bis 110 Prozent. Da brauchen wir diesen QU-Schutz nicht. Der QU-Schutz ist eben eher für diese Netzfehler, für diese Fault-Right-Through-Themen zuständig.
+
+(0:05:26 - 0:05:37)
+Das hier soll noch mal so ein Exkurs sein. Blindleistung, was ist das, wofür brauchen wir das? QU-Schutz brauchen wir eher bei Netzfehlern. So, dann hätten wir das vielleicht auch erst mal.
+
+(0:05:37 - 0:05:58)
+Ich hoffe, ihr seid wieder alle dabei. Was ist Blindleistung? Wofür braucht man die? Und wann brauchen wir den QU-Schutz? Jetzt haben wir noch mal den Punkt Fehler ursachen. Wann passiert so etwas oder wie kann sowas passieren, dass wir den QU-Schutz benötigen? Also ich meine jetzt nicht, wann kann es Netzfehler geben? Da gibt es sicherlich viele verschiedene Themen.
+
+(0:05:58 - 0:06:21)
+Aber wann kann vielleicht unser Solarpark sich nicht so verhalten, wie er soll? Ich habe einfach nur mal ein paar Punkte aufgeschrieben. Also der Parkregler, der kann natürlich da, ich sage mal, falsch eingestellt sein. Oder der Messwertumformer, ich sage mal, Stichwort Janica, könnte natürlich statt Verbraucherzellfallsystem das Erzeugerzellfallsystem eingestellt haben.
+
+(0:06:21 - 0:06:31)
+Also er würde alle Leistungen falschrum auswerten. Dann ist quasi der Parkregler gegebenenfalls daran schuld, dass wir im Fehlerfall in die falsche Richtung arbeiten. Das kann sein.
+
+(0:06:31 - 0:06:41)
+Es können aber auch Stromwandler zum Beispiel falsch eingebaut sein. Falschrum, dann sind Leistungen auch falschrum. Und dann kann der Parkregler oder der Solarpark eben auch nicht mehr richtig arbeiten.
+
+(0:06:42 - 0:07:02)
+Oder es können Fehler in der Sekundärverdrahtung auftreten. Also da gibt es viele, viele Möglichkeiten, eben Leistungsrichtungen falsch zu definieren. Ich denke, im Laufe des Vortrags kommen wir da immer mehr dazu, immer mehr ins Detail, sodass man das, dass es vielleicht dann auch immer klarer wird für alle, wo jetzt diese Fehler herkommen können.
+
+(0:07:02 - 0:07:18)
+Aber das sind jetzt erst mal so ein paar Schlagwörter. Also woher kommt es? Wie kann das sein, dass unsere Anlage vielleicht nicht netzdienlich arbeitet, im Fault-Right-Through-Modus, sondern eben netzschwächend? Genau andersherum. Das wäre das im Grunde aus meiner Sicht.
+
+(0:07:18 - 0:07:29)
+Jetzt gibt es nochmal Anforderungen an den KU-Schutz. Und ich würde sagen, das sind Anforderungen, die wir aus vielen Schutzfunktionen kennen oder aus allen. So eine Schutzfunktion muss immer schnell sein.
+
+(0:07:29 - 0:07:36)
+Wir haben da nicht viel Zeit. Der Fault-Right-Through an sich ist ja nach fünf Sekunden eh vorbei. Danach brauchen wir auch nicht mehr abschalten.
+
+(0:07:36 - 0:07:49)
+Entweder hat es sich dann erledigt mit der Netzstabilität oder wir sind eh schon durch den Fehler. Zuverlässig natürlich auch. Das Ganze muss gut und zuverlässig arbeiten.
+
+(0:07:49 - 0:08:07)
+Aber da sind, denke ich, die Anforderungen an Schutzsysteme sehr hoch in Deutschland, sodass wir von einer hohen Zuverlässigkeit ausgehen können. Thema Selektivität, was bei allen Schutzfunktionen ja wichtig ist. Hätte ich jetzt erst mal hier ausgegraut, weil ich das erst mal aus unserer PV-Sicht nicht so wichtig finde.
+
+(0:08:07 - 0:08:15)
+Wir haben meistens nur eine KU-Schutzstufe. Da würde ich jetzt nicht von Selektivität in dem Sinne sprechen. Also das können wir so ein Stück weit rausnehmen.
+
+(0:08:18 - 0:08:25)
+So, dann geht es weiter. Warum? Also, das haben wir schon gesagt. Das sind jetzt hier nochmal drei, vier Punkte.
+
+(0:08:27 - 0:08:33)
+Sicherstellung, Netzstabilität, Versorgungssicherheit. Das ist natürlich das, was wir in Deutschland brauchen. Das ist das Allerwichtigste.
+
+(0:08:33 - 0:08:53)
+Wir sind das so gewöhnt, dass das funktioniert. Aber wenn das mal nicht funktioniert mit der Netzstabilität und mit der Versorgungssicherheit, ich glaube, dann könnt ihr alle in eurem Büro, ich sage mal, die Ordner aufschlagen und versuchen, ohne Laptop oder ohne Computer, der Laptop funktioniert vielleicht noch, aber mal ohne Internet, ohne Computer zu arbeiten. Das wird unheimlich schwer.
+
+(0:08:54 - 0:09:21)
+Wir machen das Ganze hier im Solarpark, weil wir ein Anlagenzertifikat brauchen, weil unsere Richtlinien das eben so vorgeben, dass wir einen KU-Schutz vorsehen müssen. Und ohne KU-Schutz kein Anlagenzertifikat und ohne KU-Schutzreleeprüfung kriegen wir am Ende auch keine Konformitätserklärung. Und das ist natürlich das, was am Ende jedes Projektes oder jedes großen Projektes steht, eine Konformitätserklärung, weil dann erhalten wir die dauerhafte Betriebserlaubnis.
+
+(0:09:21 - 0:09:26)
+Beziehungsweise andersrum, ohne Konformität keine Betriebserlaubnis.

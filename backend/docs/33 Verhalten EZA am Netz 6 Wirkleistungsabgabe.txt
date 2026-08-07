@@ -1,0 +1,82 @@
+(0:00:00 - 0:16:22)
+So, also wir haben jetzt statische dynamische Stützung, die Beispiele dazu hatten wir und jetzt kommt nochmal das Kapitel Wirkleistungsabgabe und das ist im Grunde genommen mit den zwei Icons versehen, einmal mit dem statischen sowie mit dem dynamischen Icon Wirkleistungsabgabe. Wir schauen uns auch das hier an, wie es in der 4110 grundsätzlich strukturiert ist und Überraschung, auch hier geht es erstmal wieder um einen allgemeinen Bereich, der für das gesamte Unterkapitel hier erstmal definiert, dass es Leistungsgradienten hier gibt für diese Wirkleistungsabgabe, also man darf nicht ganz schnell oder ganz langsam die Wirkleistung erhöhen, nicht schneller steht hier als 66% von pbinst pro Sekunde, aber eben auch nicht langsamer als 0,33% pbinst pro Sekunde. Das ist erstmal hier eine grundsätzliche Definition, also um so ein Netz stabil zu halten, darf keiner ganz ganz schnell sein und es darf auch keiner ganz ganz langsam sein, sondern es muss ein abgestimmtes System sein und das gibt uns die 4110 grundsätzlich vor. 
+
+Zusätzlich soll das gleichmäßig verlaufen, das heißt, wenn man zum Beispiel um 30% die Leistung reduzieren soll, dann soll das nicht erst schnell, dann langsam und dann wieder schnell passieren, sondern eben möglichst gleichmäßig, damit hier nichts anfängt zu schwingen oder sonst was. So, Netzsicherheitsmanagement für viele bekannt auch als NSM, das ist die Abkürzung Netzsicherheitsmanagement und der Netzbetreiber, der kann die pbinst, die installierte Leistung erstmal prozentual reduzieren, also das ist die Vorgabe in einzelnen Prozentschritten soll das erstmal möglich sein. Es hat sich so ein bisschen bewährt, dass man die 60-30-0-Reduzierung irgendwie durchführen lässt, das machen die meisten Netzbetreiber nach wie vor so, sie könnten es aber auch tatsächlich fast stufenlos in Prozentschritten machen und zwar bezogen auf pbinst. 
+
+Ich habe jetzt hier nochmal ein Ausrufezeichen dran gemacht, pbinst kann größer sein als pave. Hier würde ich jetzt wieder aus dem ersten Kapitel den Punkt greifen und sagen, wenn pave deutlich kleiner ist oder kleiner ist als pinst, dann nehmen wir wieder pave als Bezugsgröße, weil das ist das, was wir einspeisen dürfen, damit der Netzbetreiber dann auch bei 60% Leistungsreduzierung überhaupt einen Effekt sieht, würde ich dann den kleineren Wert pave nehmen und nicht den installierten Wert, der ja vielleicht gar nicht 100% in Betrieb sein wird. Es gibt Vorgaben je Energieart, das ist in der 110 kV, also nach der 4120 sicherlich ein bisschen relevanter, weil da sehen wir häufig Umspannwerke, die sowohl PV als auch Wind angeschlossen haben oder auch Batteriespeicher und dann gibt es über die Fernweganlage für jede einzelne Energieart eben eine Vorgabe. 
+
+Das heißt, an sehr windigen Tagen macht es natürlich keinen Sinn, die PV-Anlagen und die Windkraftanlagen zu reduzieren, sondern nur die Windkraftanlagen und andersherum, wenn es sehr sonnig ist, wollen wir natürlich nur die PV-Anlagen reduzieren und nicht auch die Windkraftanlagen, die vielleicht ohnehin gerade nicht besonders viel zur Stromerzeugung beitragen. Priorität ist auch hier ganz klar benannt und das muss auch so im Parkregler-Konzept aufgeschrieben sein. Der kleinste Vorgabewert hat Priorität. 
+
+Das heißt, es gibt einen Direktvermarkter meistens und einen Netzbetreiber, beide haben unterschiedliche Interessen. Der Direktvermarkter, der ist wirtschaftlich getrieben, der Netzbetreiber eher technisch, der muss für die technische Stabilität des Netzes sorgen, den interessieren dann im Grunde die Strompreise nicht, aber der Direktvermarkter und der Netzbetreiber, die könnten ja im Grunde genommen beide mal sagen, ich will regeln oder ich und der, der den kleineren Vorgabewert fordert, der gewinnt. Also wer mehr reduzieren möchte, der hat hier Priorität, hat Vorrang. 
+
+18 Monate Datenspeicherung ist eine Vorgabe aus der Norm. Manche Loggerhersteller können das erstmal in ihrem Logger nicht, die können das ja nur, wenn das Portal hinten auch mit angeschlossen ist, was dann wiederum die ganzen Daten speichert. Im Grunde genommen müsst ihr das mit eurem Lieferanten so ein bisschen abklären, ob der Logger das schon automatisch kann oder ob man dann eben noch das Portal mit anbinden muss, was man ja vielleicht gar nicht will, um eben diese 18 Monate Datenspeicherung zu erzielen. 
+
+Nehmt den Punkt einfach mal mit, weil es eine klare Forderung eben im Parkreglerkonzept ist oder was aus dem Parkreglerkonzept eben hervorgehen muss. Mischanlagen haben wir jetzt auch noch. Die Umsetzung der Leistungsreduzierung muss an der EZE oder kann an der EZE erfolgen. 
+
+Das hängt einfach damit zusammen, wenn man jetzt viel Bezug in so einer Halle hat, dann kommt ja häufig gar keine PV, gar kein PV-Strom am Netzanschlusspunkt an und dann macht es keinen Sinn, diese Leistungsreduzierung am Netzanschlusspunkt durchzuführen, weil dort ist eh nicht das zu messen, was die PV-Anlage macht und dann macht man sich eben leichter und wählt die Erzeugungsanlage für den Leistungsregelungspunkt aus. Wie funktioniert dieses ganze Netzmanagement? Wir schauen uns mal an. Die grüne Linie ist jetzt das, was wir tatsächlich gerade produzieren. 
+
+Wir haben einen schönen Tag, aber vielleicht nicht so richtig schön. Wir erreichen gerade nur 90 Prozent unserer PBinst-Leistung oder 90 Prozent unseres PAVE, also nicht ganz 100. Und jetzt hat der Netzbetreiber erstmal eine Leistungsanforderung von 100. 
+
+Die ist jetzt erstmal über unserem Wert und das ist halt ganz normal so. Wir erfüllen jetzt nicht das, was der Netzbetreiber möchte. Aber das ist in Ordnung, weil das Primärenergie-Dargebot ja eben nicht dafür sorgt, dass wir 100 Prozent erreichen können. 
+
+Also alles in Ordnung. Wir sind unter 100 Prozent. Wir regeln nicht. 
+
+Alles gut. Und jetzt kommt eine Regelanforderung vom Netzbetreiber auf 60 Prozent. Ein Sollwert-Sprung, so wie wir es vorhin gesehen haben. 
+
+Und der muss jetzt eben einregeln auf 60 Prozent und muss dann, wenn er eingeregelt ist, eine maximale Abweichung von 5 Prozent zu dem Sollwert erreichen. Also relativ genau. Das ist dann das, was hier die Norm fordert. 
+
+Dann kommt der nächste Sprung. So wäre das tatsächlich bei einem Regelungstest durch den Netzbetreiber. Der würde diese Sprünge alle einmal durchfahren und würde dann bei jedem Sprung sehen, die Anlage regelt sich ein schnell genug und die Abweichung ist dann auch im Rahmen. 
+
+Und der letzte Sprung ist dann eben auf 0 Prozent. Und ganz zum Schluss gibt er dann eben die Anlage wieder frei, macht wieder 100 Prozent raus und dann regelt unser Park auch schnell wieder hoch auf diese angeforderten 100 Prozent. Ja, also dieses Regelungsverfahren sorgt eben dafür, dass dann die Frequenz in dem um die 50 Hertz eingependelt bleibt. 
+
+Also 50,0 Hertz ist es meistens. In der Zehntelnachkommastelle variiert das vielleicht, aber sonst sind wir da sehr, sehr exakt und haben da ganz, ganz wenig Abweichung in der Netzfrequenz. Unsere Tabelle, die füllen wir jetzt wieder. 
+
+Also wir hatten hier die Variante 30, 60, 0, so haben wir sie beschrieben, ist aber auch in Prozentwerten regelbar durch den Netzbetreiber. Dann haben wir die Einstellung, die erfolgt einem Parkregler. In der Regel, vor allem bei Freiflächenanlagen, ist das der Parkregler. 
+
+Wenn ihr jetzt eine Dachanlage habt, haben wir es ja eben gesehen, dann kann das auch an der Erzeugungsanlage passieren. Aber erstmal ist hier, glaube ich, der Parkregler das entscheidende Bauteil. Und der Befehl, der kommt aus der Leitwarte. 
+
+Wir haben einen langsamen, statischen Vorgang. Die Leitwarte kann das dann relativ langsam entscheiden. Und jetzt zum Schluss schauen wir uns noch die Wirkleistungsanpassung an, die dann wiederum schnell passiert und gucken mal, was da die 4110 zu bieten hat. 
+
+Also erstmal bei Über- und Unterfrequenz muss man diese Wirkleistungsanpassung durchführen, ganz wichtig. Und die Norm sagt erstmal, dass bei 0,2 Hertz ein systemkritischer Zustand erreicht ist. Also wirklich systemkritisch, weil diese 50,2 Hertz, die sind dann ja nicht nur in Berlin oder nur in Brandenburg, sondern das ist dann ja gleich ein deutschlandeuropäisch weites Problem, weil alle Netze irgendwo zusammenhängen und die Netzfrequenz sich dann wahrscheinlich auf großen Flächen um 0,2 Hertz erhöht. 
+
+Und wenn das so ist, dann müssen wir eben anfangen zu reagieren. Also bei Überfrequenz müssen wir Leistung reduzieren. Ihr habt die Waage noch im Kopf. 
+
+Wenn zu viel Leistung erzeugt wird, dann steigt die Netzfrequenz und das verhindern wir eben, indem wir dann unsere PV-Anlagen leicht reduzieren. Bei Unterfrequenz, ja, da ist es dann aber so, wir können dann eben nicht mehr Leistung produzieren, weil das Primärenergie-Dargebot das ja nun mal nicht hergibt. Und da sind wir dann glücklicherweise von ausgenommen. 
+
+Weil andersrum hätten wir ja sonst immer die Auflage, Regelkapazitäten nach oben hin irgendwie fortzuhalten, was erstmal technisch sehr komplex wäre, weil man ja gar nicht weiß, wie in zehn Minuten die Sonneneinstrahlung ist und uns dann wahrscheinlich vor enorme Probleme stellen müsste, würde. Also bei Unterfrequenz müssen wir nicht in der Lage sein, die Leistung zu erhöhen. Das machen dann eher Dampfturbinen, Kohlekraftwerke, die dann eben ein bisschen mehr anfeuern können und dann eben kurzfristig auch mal mehr Energie zur Verfügung stellen können, um eben die Netzfrequenz zu stützen. 
+
+Schnelle Frequenzänderungen durchfahren, das ist auch nochmal so ein Punkt hier. Es geht nicht nur um die absoluten Steigungen oder um den absoluten Wert, sondern eben auch um die Geschwindigkeit der Frequenzänderungen. Auch das ist definiert, da kommen wir gleich zu. 
+
+Und wenn wir eine Frequenz von 51,5 Hertz erreichen, dann können wir wirklich vom Netz gehen. Umsetzung an der EZE, als letzten Punkt hier auf der Folie, da wird es umgesetzt. Und jetzt schauen wir uns nochmal einen wichtigen oder einen neuen Hinweis zumindest für uns an, weil es wird hier auch vorgegeben, wie genau man die Frequenz messen muss und die Messgenauigkeit bei schnellen Frequenzänderungen. 
+
+Das ist uns tatsächlich in den letzten Monaten so ein bisschen auf die Füße gefallen. Da haben viele Hersteller dieser Netzanalysegeräte ihre Schwierigkeiten. Also die können dann nicht schnell genug messen im 200 Millisekunden-Takt und dann eben nicht die Genauigkeit von 50 MHz erreichen. 
+
+Das steht meistens so tatsächlich in den Komponentenzertifikaten. Bisher hat das aber noch nicht für viel Aufmerksamkeit gesorgt. Jetzt kam das einmal bei uns hoch, deshalb wollten wir uns das nicht nehmen lassen, das hier mit aufzuschreiben. 
+
+Also schaut euch das an, stimmt das noch einmal mit dem Zertifizierer ab. Der kann das ja auch mit euch zusammen mit dem Netzbetreiber abstimmen. Aber die Genauigkeit der Frequenzmessung bei schnellen Frequenzänderungen ist tatsächlich ein sehr seltenes Ereignis. 
+
+Aber da könnten diese Netzanalysegeräte durchaus Schwierigkeiten bekommen, die man frühzeitig möglichst erkennen und abfangen sollte. So, Wirkleistungsreduzierung nicht zulässig. Ja, das fragen wir erstmal auf und schauen uns an, wo ist denn die Wirkleistungsreduzierung nicht zulässig. 
+
+Erstmal vielleicht vorweggeschickt, unsere Wechselrichter haben bei Spannungseinbrüchen schon Schwierigkeiten mit der Wirkleistungshaltung. Bei Frequenzen ist das bei unseren Wechselrichtern erstmal nicht so. Also 49,9 Hertz, oberhalb dürfen wir erstmal unsere Wirkleistung nicht reduzieren. 
+
+Ist aus meiner Kenntnis nach erstmal nicht kritisch für unsere Wechselrichter. Und bis 49 Hertz, also es ist schon sehr, sehr systemkritischer Zustand. 10 Sekunden und dann geht diese Kennlinie weiter bis 25 Sekunden, also weitere 15 Sekunden. 
+
+Da dürfen wir die Wirkleistung nicht reduzieren. 60 Sekunden, also nehmt diese Kennlinie mal so mit. Oberhalb von dem Bereich müssen unsere Wechselrichter konstant ihre Wirkleistung einspeisen können, ohne dass sie da aus Eigenschutz reduzieren müssen. 
+
+Kriegen die hin, von daher ist das für mich erstmal gar nicht so ein wichtiges Thema hier. Ihr könnt das für euch mal mitnehmen, wenn ihr dann unterhalb dieser Kurve seid, dann ist es wiederum zulässig und die Netzbetreiber sind auch schon froh in dem Frequenzbereich, wenn ihr dann als Erzeuger noch mitmachen könnt. Hier ist jetzt diese Kennlinie, die vielen vielleicht schon bekannt vorkommt, die so in den Wechselrichtern eingestellt wird, wie wir es vorher schon gesagt haben. 
+
+Wir sehen den Frequenzverlauf von 47,5 bis 52,5 Hertz und die Wirkleistung, die Änderung der Wirkleistung auf der Y-Achse. Wenn wir jetzt im geringeren Frequenzbereich sind, dann sollen wir, je geringer die Frequenz wird, eigentlich die Wirkleistung erhöhen. Wir als PV sind davon eben ausgenommen, wie ich es eben schon erläutert habe, zwischen 49,8 und 50,2 Hertz. 
+
+Dort sind wir stabil, dort arbeiten so, wie wir es immer machen. Das ist unser Normalbereich und wenn wir dann aber größere Frequenzen haben, ab 50,2 Hertz, also wiederum den systemkritischen Zustand erreichen, dann sollen wir unsere Wirkleistung reduzieren. Da gibt es dann vom Netzbetreiber verschiedene Steilheiten, die wir da durchfahren sollen, aber erstmal sollen wir dann die Wirkleistung reduzieren. 
+
+Überhalb von 51,5 Hertz ist dann die Netztrennung zulässig, das ist dann in Ordnung, das können wir machen. Also bis dahin aber Wirkleistung reduzieren und weitermachen. Jetzt kommt zum Schluss noch mal eine kleine Darstellung, die uns jetzt hier die Zeiten für die Anschwingzeiten, für die Geschwindigkeiten eben bei der Wirkleistungsreduzierung zeigt. 
+
+Da seht ihr Werte von 2 Sekunden, 20 Sekunden. Obwohl das hier dynamische Vorgänge sind, wirkt das noch relativ langsam, relativ träge und das erkennt tatsächlich auch die Norm so und sagt, dass es zukünftig dort wahrscheinlich Änderungen geben wird und die Reaktionszeiten deutlich verschnellert werden müssen, weil das hier eben keine statischen Vorgänge sind, sondern wirklich dynamische Vorgänge. Ich denke, dass unsere Wechselrichter das könnten, die könnten dann relativ schnell ihre Wirkleistung reduzieren, aber es gibt ja auch, die 4110 ist ja nicht nur für die PV-Anlagen geschrieben, sondern auch noch für andere, sodass es da tatsächlich auch Erzeuger gibt, die Probleme haben, sodass man sich wahrscheinlich vor ein paar Jahren erst mal auf den Wert geeinigt hat. 
+
+Zukünftig verbessern wir das, verschnellern wir das. Ende des netzkritischen Zustandes, wenn der Normalbetrieb wieder eingehalten ist, ja also und wenn dann im Grunde genommen die Frequenz zwischen 50,2 und 49,8 Hertz wieder angekommen ist. Ja, aber nochmal der Hinweis, nur um in diesem Bereich zu sein, das ist noch gar nicht ausreichend, wichtig ist eben, dass die, dass die Frequenz dann auch stabil ist. 
+
+Ja, nur weil man einmal reingeschwungen ist und immer noch ein relativ starkes Schwanken auf der Frequenz hat, dann wäre man eben noch nicht im stabilen Bereich, sondern wir müssen in dem Bereich sein und die Netzfrequenz muss eben dann auch stabil sein. Das ist der Gradient, der da oben gemeint ist, der muss dann eben auch schon, der Steigungsgradient, der muss dann eben auch schon passen. So, die Tabelle, die wir euch versprochen haben, ganz am Anfang zu füllen. 
+
+Wir kommen da jetzt zur letzten Zeile, genau die Wirkleistungsanpassung. Die Variante, die es da gibt, ist die Wirkleistungsanpassung in Abhängigkeit von der Frequenz. Also, Frequenz größer 50,2 Hertz, wir reduzieren die Wirkleistung, das Ganze stellen wir in der Regel im Wechselrichter ein und das Ganze funktioniert dann eben automatisch, weil das dann relativ schnell passieren muss und auch hier keiner auf die Leitwarte warten möchte. 
+
+Vollautomatisierter Prozess.

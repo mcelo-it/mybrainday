@@ -1,0 +1,104 @@
+(0:00:00 - 0:00:10)
+Also, jetzt geht's los. Wir fragen uns, warum Dachanlagen? Erst mal Daumen hoch. Das Gute ist, dass das Gebäude ja schon dasteht.
+
+(0:00:10 - 0:00:24)
+Das ist für mich ein ganz wichtiger Punkt bei der Motivationsfrage. Warum sollte ich überhaupt eine Dachanlage bauen? Also andersrum gesagt, ich baue nicht das Gebäude, um dann endlich Photovoltaik installieren zu können, sondern wir haben dieses Gebäude ja schon. Es ist schon bereits errichtet.
+
+(0:00:24 - 0:00:42)
+Oder das geht bestimmt auch an viele Kollegen, die heute zuhören. Es ist vielleicht in Planung und dann will man natürlich gleich die PV-Anlage mit drauf errichten. So, dieses Dach an sich, das hat jetzt mal, also außer dass es meinetwegen das Innenleben des Gebäudes natürlich vor Feuchtigkeit schützt, vor Regen, überhaupt keinen Nutzen.
+
+(0:00:42 - 0:01:00)
+Also das Dach an sich ist frei und wir können es jetzt für unsere Zwecke sozusagen nutzen. Und dann gucken wir uns auch gleich noch mal die Dachfläche an sich an. Und zwar heute explizit Logistik- und Industrieimmobilien, also größer 5000 Quadratmeter.
+
+(0:01:00 - 0:01:16)
+Was ich damit vor allem sagen will, ist, wir schauen uns heute große Gebäude an. Das liegt daran, dass das dann eins zu eins oft geht mit der Spannungsebene, über die diese Logistikhallen angeschlossen sind. Das ist dann eben die Mittelspannung.
+
+(0:01:16 - 0:01:39)
+Das sind so diese eher höherwertigeren Planungsanforderungen, die wir uns dann heute anschauen wollen. Also große Gebäude und diese 5000 Quadratmeter, das habe ich mir nicht ausgedacht, sondern das hatte ich hier einfach mal exemplarisch aus so einem Artikel rausgenommen. Ich zeige ihn hier unten auch, weil ich nicht irgendwelche Zahlen hier einfach reinschmeißen will, sondern ich will nur ein Gefühl dafür geben.
+
+(0:01:40 - 0:01:59)
+Also es gibt offensichtlich mehrere Millionen an Quadratmeter von solchen Flächen in Deutschland. Das ist doch erst mal ein super Startpunkt für uns, das dann mit Photovoltaik zu beplanen. Wenn man das umrechnet, das habe ich aus diesem Artikel raus, ich kam auf ein bisschen höhere Zahlen, wenn ich meine Projekte so anschaue.
+
+(0:01:59 - 0:02:10)
+Aber das ist jetzt nicht so relevant. Also das sind mehrere Gigawatt Photovoltaik-Leistungen, die da also in Deutschland, sage ich mal, draufpassen würden. Theoretisch.
+
+(0:02:11 - 0:02:28)
+Und jetzt nehme ich aber, um das ein bisschen besser greifen zu können, noch eine andere Zahl mit rein, weil was sind schon 36 Gigawatt? Das kann sich ja eigentlich keiner mal jetzt so schnell vorstellen. Also ich sage mal so aktuell Januar 25 steht hier ist das aktuelle Ziel der Bundesregierung. Das kann sich ja jederzeit ändern.
+
+(0:02:28 - 0:02:37)
+Aber im Moment ist es so, bis 2030 wollen wir noch 215 Gigawatt dazu bauen. Dann hat man mal so eine Größeordnung. Also wenn man so will.
+
+(0:02:37 - 0:02:51)
+Ich schlage es vor, egal daraus, diese Dachflächen, die wir da heute im Beispiel zeigen, die brauchen wir auf jeden Fall. Gut, also wir haben Dachflächen zur Verfügung und noch wichtiger für uns als Elektroplaner. Wir haben auch einen Netzanschluss.
+
+(0:02:51 - 0:02:57)
+Das ist ganz hervorragend. Da ist ein Riesenhaken, den ich da sozusagen dran mache. Also wir haben ja schon einen Netzanschluss.
+
+(0:02:58 - 0:03:17)
+Das bedeutet, es gibt keine Materialengpässe. Das sind also mittlerweile große Lieferzeiten für solche Komponenten wie Transformatoren, Mittelspannungsschalteranlagen, die Übergabestationen als solches, also oft solche Kompaktstationen, die sind mittlerweile schwer zu bekommen. Der Preis ist gestiegen, aber vor allem eben auch die Lieferzeiten.
+
+(0:03:18 - 0:03:30)
+Also Materialengpässe, das umgehen wir, weil das Problem hat ja sozusagen derjenige, der das Haus vielleicht schon gebaut hat oder halt plant. Die Übergabestation braucht er nämlich sowieso. Und das andere ist aber auch der Netzanschluss.
+
+(0:03:31 - 0:03:56)
+Das ist ein großes Thema bei uns im Kontext der Energiewende. Wie kriegen wir diese ganze Kapazität ins Netz? Und da ist es jetzt erst mal von der technischen Grundlogik her so, wenn da so ein Gebäude einen riesen Netzanschluss schon hat für den Bezug, dann ist das vermeintlich einfacher für den Netzbetreiber, da auch noch Solar ins Netz reinzukriegen. Also auch von der Seite aus ist dann sozusagen die Kapazität schon da.
+
+(0:03:57 - 0:04:07)
+Außerdem haken dran im positiven Sinne. Wir können den Eigenverbrauch nutzen. Also so nach dem Motto Man erzeugt den Strom ja dann schon genau da, wo man ihn auch braucht.
+
+(0:04:08 - 0:04:21)
+Wie man das jetzt kommerziell abbildet, ist heute, finde ich, überhaupt nicht relevant. Das ist nicht das Thema. Wir sind ja Techniker, sondern es geht halt darum, dass man grundsätzlich logisch erst mal schon mal da den Strom hat und dann kann man ihn doch auch gleich nutzen.
+
+(0:04:22 - 0:04:36)
+Also ist auch ein positiver Sinn. Jetzt kommt mal ein Daumen nach unten, muss ja irgendwie auch mal sein. Also wahrscheinlich braucht man einen Umbau, wenn man jetzt das Gebäude da schon seit 10, 20 Jahren stehen hat.
+
+(0:04:36 - 0:04:51)
+Dann ist davon fest auszugehen. Ich sage auch gleich, warum also? Weil wir müssen, wenn wir da eine bauliche Veränderung vornehmen, also sagen wir mal eine PV-Anlage aufs Dach setzen, dann gelten die aktuellen Richtlinien. Ansonsten denke ich, besteht erst mal Bestandsschutz für diese Übergabestation.
+
+(0:04:52 - 0:04:59)
+Aber jetzt nicht mehr. So ist es erst mal grundsätzlich. Und dann müssen wir in diese Richtlinien reinschauen, die für uns da so gelten.
+
+(0:04:59 - 0:05:09)
+Die 4110. Das machen wir in vielen anderen Braindays ganz im Detail, was da drinsteht. Grundsätzlich gilt, das sind die technischen Anschlussregeln für solche Mittelspannungs- Erzeugungsanlagen.
+
+(0:05:10 - 0:05:31)
+Okay, genau das machen wir heute im Kapitel Anlagenschema Schutztechnik, Regelungstechnik. Wir gucken genau da rein. Was müssen wir denn jetzt ändern und dementsprechend dann wahrscheinlich umbauen? Und die zweite große, das zweite große Regelwerk, das sind die THBs, die technischen Anschlussbedingungen vom jeweiligen Netzbetreiber.
+
+(0:05:32 - 0:05:41)
+Gleiches Prinzip. Wenn wir jetzt eben eine Photovoltaikanlage da hinzufügen wollen, dann gelten die aktuellen THBs. Die mögen anders sein als die vor 15 oder 20 Jahren.
+
+(0:05:41 - 0:05:50)
+Und dann muss man gegebenenfalls also die Übergabestation umbauen. Das ist sozusagen der große Daumen nach unten. Und auf den fokussieren wir uns heute auch.
+
+(0:05:51 - 0:05:59)
+Haben wir noch vielleicht ein bisschen kleineren Daumen nach unten. Grundsätzlich gilt bei so einer Freilandanlage, finde ich, ist so ein Messkonzept sehr simpel. Es gibt einen Netzverknüpfungspunkt, da messen wir.
+
+(0:06:00 - 0:06:14)
+Und irgendwie hat man da dann Bezug und Einspeisung gemessen. Bei Dachprojekten ist das komplexer. Erstens gibt es ja Bezug und Einspeisung, sozusagen beides grundsätzlich im Ansatz.
+
+(0:06:15 - 0:06:28)
+Und dann kann es ja auch noch sein, dass man da verschiedene Teilabschnitte baut, dass die unterschiedlich gemessen werden müssen. Oder wir haben noch Pachtverträge reingenommen, dass der Besitzer von der PV-Anlage gar nicht der gleiche ist wie der von der Halle. Und schon wird das alles ein bisschen komplizierter.
+
+(0:06:29 - 0:06:39)
+Okay, zwei kleine Daumen nach unten, sage ich mal. Und auf den einen davon konzentrieren wir uns ja heute in den nächsten fünf Kapiteln. Dann Stichwort Baugenehmigung.
+
+(0:06:39 - 0:06:48)
+Auch ein schöner Haken dran. Das ist erst mal für so ein Projektteam super. Man braucht keine zusätzliche Baugenehmigung für eine PV-Anlage.
+
+(0:06:48 - 0:06:58)
+Die sind auf Gebäuden sind sie baugenehmigungsfrei, also nicht baugenehmigungspflichtig. Achtung, das Gebäude an sich ja schon. Na klar, aber das ist ja ein bisschen der Ansatz von heute.
+
+(0:06:59 - 0:07:05)
+Das Gebäude, das ist da eben sowieso. Es steht vielleicht schon oder es wird sowieso schon gebaut. Also dieser ganze Prozess ist durch.
+
+(0:07:05 - 0:07:17)
+Jetzt kommen wir mit unserer PV-Anlage und da müssen wir uns darum schon mal keine Sorgen machen. Das Gleiche gilt für den Naturschutz. Auch da natürlich großer, großer, großer Unterschied zum kleinen Bruder der Freiflächen.
+
+(0:07:18 - 0:07:23)
+Da ist es ein großes Thema. Selbstverständlich bei Dachanlagen nicht. Das Gebäude steht da sowieso.
+
+(0:07:24 - 0:07:37)
+Da denke ich, hat keiner was dagegen, wenn man jetzt oben noch eine Photovoltaikanlage draufbaut. Und genau das trifft auch den dritten Punkt. Also mein Gefühl ist, da gibt es eine enorm hohe Akzeptanz, sage ich mal, grundsätzlich in der Bevölkerung.
+
+(0:07:37 - 0:07:44)
+Da man sieht die Photovoltaikanlagen gar nicht, die auf diesen großen Logistikhallen sitzen. Und deswegen sehe ich da auch kein Problem.

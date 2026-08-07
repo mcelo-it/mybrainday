@@ -1,0 +1,103 @@
+(0:00:00 - 0:00:30)
+Ja, das war der Exkurs in den Transformator. Jetzt geht es weiter in die Netzformen. Endlich. Also wenn man so will, haben wir jetzt uns gut vorbereitet, um uns jetzt mal Netzformen so im Detail anzugucken. Und da haben wir lange überlegt, wie bauen wir das auf? Das ist immer ein bisschen didaktisch die Frage, dass man nicht alles gleichzeitig macht. Und jetzt haben wir es, denke ich, gut gelöst, indem wir uns erst mal bei der Niederspannungsseite in Ruhe solche Definitionen angucken.
+
+(0:00:30 - 0:01:00)
+Und später springen wir dann in die Mittel- oder Hochspannung, einfach weil das da ein bisschen anders aussieht und auch anders benannt wird. Also erst mal Netzformen in der Niederspannung. Das ist relativ einfach, weil man geht einfach in die Norm, in die DIN 0100100 errichten von Niederspannungsanlagen und findet das da. 
+
+Da ist das super erklärt. Also alles, was jetzt kommt, ist einfach nur dort abgeschrieben, ehrlich gesagt. Wichtig ist, finde ich noch, man sieht es ein bisschen an den Nummern, wenn man öfter mit Normen zu tun hat.
+
+(0:01:00 - 0:01:14)
+Das ist schon wirklich eine Basisnorm, also 0100100. Da sind wir jetzt sozusagen im Konstrukt der Normen ganz, ganz am Anfang. Und da sieht man schon, wie rudimentär, wie basisorientiert dieses Thema Netzformen ist.
+
+(0:01:14 - 0:01:30)
+Also so geht es sozusagen los mit der Elektrotechnik. Und die Norm sieht das auch so und sagt, wir fangen jetzt erst mal an, indem wir die Netzformen beschreiben. Okay, was gibt es? Es gibt erst mal verschiedene Netzformen, die ich auch gleich zeige.
+
+(0:01:30 - 0:01:48)
+Aber die Norm hat sich überlegt, da machen wir eine Logik daraus, wie man diese Netzformen benennt und hat dann gesagt, wir machen es mit jetzt erst mal zwei Buchstaben. Und der erste Buchstabe definiert die Erdung an der Stromquelle. Bildlich hilft das ja immer.
+
+(0:01:48 - 0:02:04)
+Nehmen wir einfach mal unsere Freiflächenanlage. Da hätte jetzt der Mittelspannungs- transformator als Quelle den Transformator selbst und kommt gleich der Verbraucher. Das wäre dann der Wechselrichter auf der anderen Seite.
+
+(0:02:04 - 0:02:16)
+So ist das gedacht. Warum Quelle? Weil ja, als die Norm errichtet wurde, gab es jetzt auch noch nicht so viele Freilandanlagen. Deswegen haben sie den Verbraucher in den Fokus gerückt.
+
+(0:02:16 - 0:02:32)
+Und das halte ich ja für nach wie vor sinnvoll. Ich finde es jetzt hier noch wichtig, einmal zu definieren, weil die meisten oder zu beschreiben, weil die meisten, die zuhören, ja wahrscheinlich aus der Erzeugerwelt stammen. Also grundsätzlich ist jetzt mit Stromquelle aber eben gemeint der Transformator.
+
+(0:02:32 - 0:02:45)
+Da ist er wieder. Und auf der anderen Seite, das ist dann der zweite Buchstabe, den wir uns gleich angucken, ist eben der Verbraucher. Bei uns ist das der Wechselrichter in der anderen Verbraucherwelt.
+
+(0:02:45 - 0:02:59)
+Tatsächlich also ich hier im Büro sozusagen. Da wäre das dann mein Laptop oder hier der Bildschirm, der hier gerade vor mir steht. Gut, wir bleiben in der PV-Welt und gucken uns das mal an, wie wir das dann in so einer Freiflächenanlage bauen können.
+
+(0:03:00 - 0:03:10)
+Einmal Isolée kommt aus dem Französischen. So steht das da drin. Und das bedeutet, dass der Sternpunkt, wir haben ihn gerade gesehen, wo der, wo der herkommt, isoliert ist.
+
+(0:03:11 - 0:03:23)
+Das wäre mal die Variante 1. Die nächste Variante, die es dabei gibt, nennt sich Ter. Und bezieht sich darauf, dass der Sternpunkt des Transformators geerdet ist. Also das ist ein grundlegender Unterschied.
+
+(0:03:24 - 0:03:38)
+Entweder ist der Sternpunkt isoliert oder er ist geerdet. Und so kann man das erst mal stehen lassen. Wir gehen weiter und gucken uns das auf der anderen Seite der Kette an, sozusagen.
+
+(0:03:38 - 0:03:42)
+Da gibt es dann Neutre. Ich hoffe, ich sage das ungefähr richtig. Also neutral.
+
+(0:03:42 - 0:03:55)
+Und das bedeutet, dass das System dort mit dem Neutralleiter verbunden ist. Und der vierte im Bund ist auch hier wieder die Erde. Also eine direkte Erdung des Verbrauchers wäre hier ausgeführt.
+
+(0:03:56 - 0:04:01)
+Und diese Varianten kann man jetzt kombinieren. Das machen wir jetzt einfach. Es gibt jetzt diese vier und die werden jetzt kombiniert.
+
+(0:04:02 - 0:04:12)
+Ich highlighte das in grün, auf grün. Ihr seht es bei erster Buchstabe Terre. Da ist das große T jetzt einmal grün geworden.
+
+(0:04:12 - 0:04:28)
+Und fliegt jetzt hier in den Bildschirm rein. Den nehmen wir mal als erstes mit, weil wir das unsere Variante 1 wird. Und von der zweiten Seite holen wir uns das N von dem Neutralleiter verbunden mit rüber und zeigen das auch noch mal symbolisch.
+
+(0:04:28 - 0:04:37)
+Also links ist die Erde angeschlossen, rechts nicht. Das wäre ein TN. Machen wir gleich weiter.
+
+(0:04:37 - 0:04:52)
+Das nächste Beispiel, das wäre ein isolierter Sternpunkt an der Stromquelle und am Verbraucher, das T. Da kommt das berühmte IT-System her. Wir sehen das bei uns in den PV-Anlagen immer mehr. Ja, genau.
+
+(0:04:52 - 0:05:00)
+Mittlerweile weit verbreitet. Als ich angefangen habe, war das noch nicht unbedingt so. Jetzt hat das Einzug gehalten.
+
+(0:05:00 - 0:05:22)
+Und das ist, denke ich, ein absolutes Standardsystem auf der Niederspannungsseite geworden. Also IT bedeutet an der Stromquelle beim Transformator ist der Sternpunkt isoliert und beim Verbraucher am Wechselrichter hat man eine direkte Erdung aufgebaut. Ja, unser Icon erstrahlt hier im fröhlichen Orange.
+
+(0:05:23 - 0:05:33)
+Wir haben dazu einen eigenen Planungsblock verfasst. Den würde ich jetzt an der Stelle sehr dringend empfehlen. Das ist ein wichtiges Thema geworden und ist in sich auch kompliziert.
+
+(0:05:33 - 0:05:43)
+Heute nennen wir es hier erst mal nur so ein bisschen, zeige ich später auch noch mal. Aber ins Detail gehen wir dann erst viel später. So, dann die dritte Variante.
+
+(0:05:43 - 0:05:59)
+Auf der ersten Buchstabe Erdung der Stromquelle nehmen wir das T mit und auf der zweiten Seite auch das T. Und dann ergibt sich ein TT-System. Ich glaube, ich brauche es jetzt nicht mehr erklären, was die Erdungssymbole da bedeuten. Und ich gehe auf dieses System auch später nicht groß ein.
+
+(0:05:59 - 0:06:09)
+Haben wir nicht groß benutzt bisher. Ehrlich gesagt ist bei uns einfach nicht im Fokus. TN und IT, das sind die zwei wichtigen Niederspannungssysteme, die wir nutzen.
+
+(0:06:09 - 0:06:27)
+Und jetzt haben wir erst mal gezeigt, wo das herkommt mit der Benennung. Das TN-System zoome ich mir hier noch mal ein bisschen größer raus, weil da gibt es jetzt wichtige Unterscheidungen. Auch jetzt im ersten Schritt mal nur die Benennungslogik.
+
+(0:06:27 - 0:06:33)
+Also erster Buchstabe haben wir gerade schon erklärt. Zweiter Buchstabe haben wir auch schon erklärt. Und jetzt gibt es aber noch einen dritten Buchstaben.
+
+(0:06:33 - 0:06:46)
+Den zeige ich jetzt noch mal. Beim TN-System ist das nur so im Detail beschrieben, wo der jetzt wieder herkommt. Also es gibt das sogenannte C. Oben steht es, ich sage mal auf Deutsch, kombiniert.
+
+(0:06:47 - 0:07:00)
+Das bedeutet, dass der Neutralleiter und der PE-Leiter kombiniert ausgeführt sind als sogenannter PEN. Haben wir auch noch mal als Text hingeschrieben. Dann das S, also getrennt, separé.
+
+(0:07:00 - 0:07:09)
+Der Neutralleiter und der Schutzleiter werden getrennt geführt. Dann hätte man ein TN-S-System. Und der letzte im Bunde, das ist eine Kombination aus den beiden.
+
+(0:07:09 - 0:07:26)
+Da ist der Neutralleiter und der Schutzleiter teilweise zusammengefasst. Also von der Quelle kommend, also vom Transformator kommend, ist das immer erst kombiniert und wird dann in einer Unterverteilung zum Beispiel aufgeteilt. Und dann ist es also erst kombiniert und dann getrennt.
+
+(0:07:26 - 0:07:40)
+Also ein TN-CS-System. Ich zeige es im nächsten Kapitel noch mal viel genauer anhand von einem einpoligen Schema, wie das aussieht. Jetzt haben wir erst mal die relevanten Netzformen in der Niederspannung erklärt.
+
+(0:07:41 - 0:07:41)
+Da sind sie.

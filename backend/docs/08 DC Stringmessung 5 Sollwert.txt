@@ -1,0 +1,104 @@
+(0:00:00 - 0:00:22)
+Nachdem wir das Messprotokoll so genau angeguckt haben, brauchen wir Sollwerte, wie wir sie nennen. Ich werde es gleich in aller Ruhe erklären, aber jetzt geht es nicht um die Messwerte vor Ort, um die geht es jetzt eben nicht, sondern jetzt geht es um theoretische Sollwerte, die wir erwarten. Und die kann man berechnen und wie man das macht, zeige ich jetzt erstmal.
+
+(0:00:23 - 0:00:42)
+Wichtig ist, im Hinterkopf zu erhalten, dass es Einflussfaktoren auf die Messwerte der Sensoren gibt. Warum das wichtig ist, seht ihr auch gleich. Aber grundsätzlich erstmal merken, der Sensor ändert natürlich seinen Wert, also der Einstrahlungssensor die Messwerte der Einstrahlung, wenn sich die Einstrahlung ändert.
+
+(0:00:43 - 0:00:58)
+Klar, ich trage es trotzdem, weil das jetzt wichtig wird. Der Temperatursensor ändert seine Messwerte, wenn sich die Temperatur ändert und vielleicht jetzt noch ein Level höher. Bei Verschattung ändern sich auch die Messwerte der Sensoren und bei Verschmutzung auch.
+
+(0:00:58 - 0:01:08)
+Dadurch könnte man sozusagen natürlich unwissentlich auch die Messergebnisse verfälschen. Also auch hierauf achten. Einstrahlung ist wichtig, Temperatur, aber eben auch die Verschattung.
+
+(0:01:08 - 0:01:43)
+Keine Sensoren verschatten und auch den Sensor nicht aus Versehen verschmutzt benutzen. Die Info nehmen wir erstmal mit und wollen jetzt umrechnen von sogenannten Standard-Test-Conditions auf den projektrealen Sollwert und das machen wir folgendermaßen mit dem Strom im ersten Schritt. Wir nehmen uns den Strom, also den Kurzschlussstrom ISC aus dem Datenblatt und da steht er ja jetzt erstmal nach SCC-Bedingungen drin.
+
+(0:01:43 - 0:01:52)
+Deswegen nennen wir ihn auch ISC-SCC. Das ist unser Startwert, mit dem geht es erstmal los. Das steht im Datenblatt und das ist erstmal relativ einfach.
+
+(0:01:53 - 0:02:08)
+Jetzt wissen wir aber, dass wir auf der Baustelle keine SCC-Bedingungen haben, sondern beispielsweise nur die halbe Einstrahlung. Also SCC-Wert, Einstrahlung sind 1000 Watt pro Quadratmeter. Vor Ort gemessen haben wir aber nur 500 Watt pro Quadratmeter.
+
+(0:02:08 - 0:02:22)
+Dann müssen wir jetzt den Sollwert, also den Wert, den wir auf der Baustelle erwarten vom Modul, korrigieren. Beziehungsweise ausrechnen. Also den SCC-Wert auf diesen realen Wert korrigieren.
+
+(0:02:22 - 0:02:38)
+Wie geht das? Wie baue ich die Einstrahlungswerte ein? Dazu nehme ich oben stets die Einstrahlung der Messung, das ist der E-Irradiation. Also das ist unser Einstrahlungswert, den wir tatsächlich haben. Mein Beispiel waren es 500 Watt.
+
+(0:02:38 - 0:03:03)
+Und den teilen wir mit dem Einstrahlungswert nach SCC, 1000 Watt, das wäre also ein Halb. Das würde also bedeuten, dass dieser ISC-Irr, also der nach Einstrahlung korrigierte Stromwert, nur noch halb so groß ist wie der Strom nach SCC. Das ist der erste Schritt, dann haben wir mal den Stromwert nach Einstrahlung korrigiert.
+
+(0:03:03 - 0:03:18)
+Im zweiten Schritt machen wir die Korrektur noch mit der Temperatur. Auch die Temperatur hat, wie erwähnt, einen großen Einfluss auf Strom und Spannung, vor allem auf die Spannung, aber auch auf den Strom. Da gibt es sogenannte Korrekturbeiwerte und die zeigen wir jetzt hier auch.
+
+(0:03:19 - 0:03:39)
+Also jetzt muss ich von diesem ISC-Irr auf einen ISC-Irr-Temp kommen. Also auf einen ISC, der sowohl nach Einstrahlung als auch nach Temperatur korrigiert wurde. Der sogenannte Sollwert, das ist dann mein Ziel und das ist die Formel dazu.
+
+(0:03:39 - 0:04:15)
+Also Alpha ist dieser Temperaturbeiwert, den wir uns auf dem Datenblatt holen. Und wenn jetzt die Modultemperatur vor Ort, sagen wir mal 60 Grad ist, und die SCC-Angabe aber ja nun mal 20 Grad ist, dann hätten wir da eine Temperaturdifferenz von 40 Grad, die ich dann mit dem Koeffizienten Alpha multiplizieren muss. Und dann das Ganze, diesen Koeffizienten, diesen Gesamtwert mit dem Stromwert, der ja schon nach Einstrahlung korrigiert ist, also dem ISC-Irr multiplizieren.
+
+(0:04:15 - 0:04:27)
+Dann ändert der sich also auch noch mal. Je nach Temperatur wird der dann entweder größer oder niedriger. Fest steht, dass dieser Sollwert immer ein anderer ist als der im Datenblatt.
+
+(0:04:27 - 0:04:40)
+Manchmal gibt es große Änderungen, manchmal kleine. Wiederhole ich vielleicht so noch mal, wenn wir fast SCC-Bedingungen auf der Baustelle haben. Also fast 1000 Watt Einstrahlung, super Wetter und gleichzeitig aber nur 20 Grad.
+
+(0:04:40 - 0:04:51)
+Das passiert ja eben schon sehr selten im Leben eines Moduls. Also wenn genau dieser Tag so getroffen wird, dann wäre der Sollwert wieder gleich dem Datenblattwert. Das ist fast nie der Fall.
+
+(0:04:52 - 0:05:19)
+Deswegen ist also der Sollwert immer ein anderer als der, den wir im Datenblatt finden. Und weil wir aber vor Ort eben die projektbezogenen Umgebungsbedingungen haben und nicht die SCC-Bedingungen, ist es erforderlich, diese Werte umzurechnen. Um dann im nächsten Schritt, das machen wir im nächsten Kapitel, in der Bewertung dann, diesen Sollwert zu vergleichen mit dem Wert, den wir in Wirklichkeit gemessen haben.
+
+(0:05:19 - 0:05:29)
+Die sollten nämlich gleich sein. Also mein Messwert sollte so sein wie der hier berechnete Sollwert. Er muss nicht so sein wie der SCC-Wert nach Datenblatt.
+
+(0:05:31 - 0:05:41)
+Gut, dann haben wir das für den Strom einmal gemacht. Jetzt gucken wir uns nochmal die Spannung an. Das geht jetzt viel einfacher, weil sich gar nicht mehr so viel ändert in der Logik.
+
+(0:05:41 - 0:05:59)
+Ich habe wieder meine Spannung nach Datenblatt und korrigiere das jetzt nach Einstrahlung und nach Temperatur. Also UOC, SCC und der zweite ist der korrigierte. Und das mache ich ehrlich gesagt einfach, indem ich auch da auf die Datenblätter gucke.
+
+(0:05:59 - 0:06:17)
+Manche geben es direkt an, bei anderen sollte man die Hersteller fragen. Also für verschiedene Einstrahlungswerte wird hier verschiedene UOC-Spannungen angegeben. Das ist der Sprung und schon habe ich zum Beispiel bei 600 Watt Einstrahlung nur noch 49 Volt und nicht 49,88.
+
+(0:06:17 - 0:06:30)
+Das wäre dann also schon mein einstrahlungskorrigierter Leerlaufspannungswert. Und der zweite Schritt, das ist wieder die Temperaturkorrektur. Gleiche Formel, in dem Fall ist nur das Alpha dann ein anderes.
+
+(0:06:30 - 0:06:53)
+Finde ich im Datenblatt, korrigiere ich auch da wieder den nach Einstrahlung korrigierten Spannungswert nochmal nach der Temperatur. Bei der Spannung ist das wichtig, das hat einen großen Einfluss. Und dann komme ich auf meinen Sollwert für die Leerlaufspannung, die auf Projekt- und messrealen Umgebungsbedingungen beruht.
+
+(0:06:53 - 0:07:12)
+Und dieser Wert, das ist dann auch wieder der, den ich im nächsten Kapitel brauche, um ihn mit meinen Messwerten zu vergleichen. So, ich mache das hier auch nochmal schnell an einem kleinen Beispiel. Also 800 Watt pro Quadratmeter Einstrahlung, das ist die Formel.
+
+(0:07:12 - 0:07:33)
+Dann legen wir 800 rein und 1000 ist der STC-Wert, also 8 Zehntel. Dann reduziert er sich von 14,01 auf 11,21 Ampere. Und zweiter Schritt, am Beispiel der Leerlaufspannung dargestellt, da nehme ich mir den Wert aus diesen Kennlinien raus.
+
+(0:07:34 - 0:07:43)
+Genau, das ist jetzt auch so ein Datenblatt. Und dann sieht man das unten auf der X-Achse, dass da die Spannungswerte so ein bisschen anders sind. Also bei 800 Watt 49,84 Volt.
+
+(0:07:43 - 0:07:58)
+Und wenn ich das mache, dann komme ich auf andere Werte als bei STC. Genau. Zweiter Korrekturschritt, Temperatur, machen wir ja bei Strom und Spannung.
+
+(0:07:58 - 0:08:08)
+Also hier erstmal für die Spannung. Wir haben es einfach eingesetzt, was wir aus den Datenblättern rausgezogen haben. Negativer Temperaturkoeffizient.
+
+(0:08:09 - 0:08:27)
+Und dann kommen da in dem Fall jetzt höhere Spannungen raus. Niedrigere Spannungen, genau, weil die Temperatur mit 40 Grad größer ist als STC nach 25 Grad. Ja, um Himmels Willen, das muss man rückwirkend jetzt bitte nochmal korrigieren.
+
+(0:08:28 - 0:08:34)
+Also STC natürlich 25 Grad. Ich hatte vorhin mal 20 gesagt. Ist aber für den Logikablauf völlig irrelevant.
+
+(0:08:35 - 0:08:48)
+Gut, wir sehen also hier in Zahlen sehr deutlich 1275 Volt. Das ist deutlich niedriger als die 1335. Also diesen Wert vergleichen wir dann mit den Messwerten und nicht die 1335.
+
+(0:08:51 - 0:09:01)
+Das machen wir auch nochmal mit dem Strom. Nur der Form halber, da müsste es meiner Meinung nach in die andere Richtung gehen. Genau, also bei hohen Temperaturen wird der Strom hier etwas größer.
+
+(0:09:02 - 0:09:19)
+Das ist marginal. Der Einfluss der Temperatur auf den Strom ist nur gering. Jetzt würde man dann, das machen wir aber im nächsten Kapitel nochmal ganz ausführlich in aller Ruhe, den Istwert und den Sollwert miteinander vergleichen.
+
+(0:09:19 - 0:09:34)
+Also der Istwert ist mein Messwert und der Sollwert ist den, den wir gerade ausgerechnet haben. Und dann kommt man auf eine Abweichung, jetzt in dem Fall der Spannung und des Stromes. Und das zeige ich euch gleich im nächsten Kapitel, welche Abweichungen wir da beachten, welche Grenzwerte wir dafür annehmen.
+
+(0:09:34 - 0:09:38)
+Aber jetzt haben wir einen Riesenschritt gemacht in Richtung Bewertung.

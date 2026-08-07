@@ -1,0 +1,81 @@
+(0:00:00 - 0:00:26)
+Die Mittelspannungsmessprotokolle zeige ich gerne, weil daran vielleicht noch mal gefestigt wird, was wir gerade in der Theorie gelernt haben. Also wir unterteilen es wieder in einen Kopf in Kabeldaten, die hier angegeben werden müssen, also eine Topologie in die Prüfbedingungen, die ich gerade sehr ausführlich erklärt habe. Und dann machen wir noch Prüfergebnisse und am Ende eine Fußzeile.
+
+(0:00:27 - 0:00:42)
+Gucken wir uns die fünf nochmal in Ruhe an. Das ist bei so einer Mittelspannungsprüfung tatsächlich gar nicht so aufwendig und trotzdem muss es ja gemacht werden. Also im Kopf ist uns immer wichtig, dass da Projektdaten drinsteht, damit eine klare Zuordnung zu erkennen ist.
+
+(0:00:42 - 0:01:23)
+Aus meiner Erfahrung funktioniert das immer ganz hervorragend gut, weil das ja meist jetzt von dem Messwagen kommt und das sind Vollprofis. Die haben dann schon ihre Vorlage und die wissen, was sie da eintragen müssen. Also Projektdaten sind immer wichtig, damit man genau zuordnen kann, welches Projekt das ist. 
+
+Und gleich sehen wir das auch noch, auch welches Kabel das ist. Jetzt haben wir ja da vielleicht 25 Teilstrecken und die Zuordnung ist natürlich wichtig. Grund für die Prüfung ist genau der gleiche wie bei den anderen Messprotokollen auch. 
+
+Das muss da rein. Ist das eine neue Prüfung, haben wir repariert oder ist das vielleicht eine Wiederholprüfung? Die Anlagendaten sind ganz wichtig. Hier ein wichtiger Hinweis.
+
+(0:01:23 - 0:01:29)
+Da muss jetzt die Betriebsspannung stehen. Also da steht jetzt 33 kV. Das können 30 kV sein, 31,5.
+
+(0:01:29 - 0:01:50)
+Das ist nicht der Punkt. Wichtig ist, dass die jetzt vor Ort dann auch nochmal gucken werden, ob dann überhaupt dieses Kabel dafür ausgelegt ist, also den maximalen Spannungswert von 36 kV hat und daraus ableiten, nochmal gucken, ob dann auch die Prüfspannung die richtige ist. Jetzt sehe ich die Betriebsspannung und damit die Kabelauslegung nur 10 kV sind.
+
+(0:01:50 - 0:02:02)
+Dann wäre ja irgendwie 54 oder 52 kV Prüfspannung viel zu groß. Dann machen sie das Kabel kaputt. Also diese Anlagendaten sind dann ganz wichtig und jetzt steht hier auch Kabelstrecke von TS1 zu TS2.
+
+(0:02:02 - 0:02:15)
+Das sind jetzt 10 Meter. Das ist eine ganz wichtige Angabe für später, falls man Fehler findet, um die überhaupt dann beheben zu können. So, dann gehen wir in die Kabeldaten.
+
+(0:02:17 - 0:02:27)
+Da würde jetzt zum Beispiel stehen der Kabeltyp und auch der Querschnitt. Das gehört einfach nochmal dazu. Und da gehe ich aber relativ schnell durch, weil das ziemlich einfach ist.
+
+(0:02:27 - 0:02:42)
+Es muss aber mit rein und man sieht hier schon auch noch Prüfabschnitt oben 1, 2, 3. Also das können ja lange Systeme sein und dann werden die vielleicht teilgemessen. Dann muss man jeden Abschnitt für sich einzeln aufgreifen. Jetzt kommen die Prüfbedingungen.
+
+(0:02:42 - 0:02:48)
+Die sind interessant. Die sind interessant. Ich habe jetzt hier zwei rausgezogen, weil ich habe ja auch zwei erklärt.
+
+(0:02:48 - 0:03:02)
+Einmal die Hauptprüfung und einmal die Mantelprüfung. Das wäre also mal das Erste, dass man sagt, was ist das überhaupt für eine Prüfung? Dann würde man für beide hier angeben. Wie ist die Prüfspannung? Unten seht ihr die 5 kV, die ja glaube ich auch alle richtig gesagt haben.
+
+(0:03:03 - 0:03:11)
+Und oben seht ihr jetzt hier auf ein 30 kV System bezogen. Richtig. 52 kV, dreimal U0 Prüfspannung.
+
+(0:03:12 - 0:03:18)
+Dann die Dauer der Prüfung. Fünf Minuten hat sich, glaube ich, immer für gut befunden. Die 15 Minuten sind jetzt kleiner als die 30.
+
+(0:03:19 - 0:03:24)
+Aber das ist ja auch nur ein Beispiel. Das mag ja sein, dass das eine Wiederholprüfung ist. Und dann hat man sich da auch so abgestimmt.
+
+(0:03:25 - 0:03:34)
+Also das muss nicht falsch sein. Wichtig ist nur, dass es hier drin steht. Und wenn ihr aber 30 Minuten oder eine Stunde wollt, dann wäre das ja hier offensichtlich nicht richtig gewesen.
+
+(0:03:35 - 0:03:43)
+Dann diese Prüfeinstellungen, also die Mantelprüfung bei die Gleichspannung. Ganz wichtig. Und oben ist es jetzt nicht die Gleichspannung, sondern der VLF Test.
+
+(0:03:43 - 0:03:48)
+Darauf würde ich auch bestehen. Das ist Stand der Technik. Das würde ich nicht mit Gleichspannung prüfen.
+
+(0:03:49 - 0:03:56)
+Ja, und dann kommt die Bewertung. Ist nur ein kleiner Haken am Ende, aber natürlich ganz wichtig. Der Prüfer selbst sollte das bewerten.
+
+(0:03:56 - 0:04:10)
+Er kann es am besten. Aber vom Prinzip sieht er in so Detail Ableitströmen, die ich hier auch noch mal kurz im Detail zeige. Was wir jetzt unter Prüfergebnisse wäre das also auch wieder für beide Prüfungen.
+
+(0:04:10 - 0:04:18)
+Würde man hier jetzt die Ableitströme und Ladeströme sehen. Er kann daraus eine Kapazität ausrechnen. Also das machen die Messgeräte selbst.
+
+(0:04:18 - 0:04:25)
+Aber die Bewertung ist erst mal hier dann. Es gibt keinen Durchschlag. Es ist also eine bestandene Prüfung.
+
+(0:04:26 - 0:04:43)
+Und so sehen meistens diese Mittelspannung Prüfprotokolle dann im Detail aus. In der Fußzeile, da beharre ich ja immer drauf, will ich eine Unterschrift sehen und vielleicht meinetwegen noch ein Bemerkungsfeld. Das kann jeder irgendwie so für sich entscheiden.
+
+(0:04:43 - 0:04:55)
+Aber hier muss eine Unterschrift rein und ein Datum. Sonst ist das nicht zulässig. So ein Mittelspannungs Prüfprotokoll ist natürlich eine ganz essentielle Grundlage für eine Inbetriebnahme.
+
+(0:04:55 - 0:05:06)
+Also ohne diese Prüfprotokolle wird der Inbetriebnehmer nicht zuschalten. Das wird er nicht tun. Und dann sollte man ihm also auch rechtzeitig die Protokolle vorlesen können.
+
+(0:05:06 - 0:05:18)
+Und wenn er dann feststellt Ja, da ist ja keine Unterschrift drauf. Dann hat man selbst, finde ich, einen Fehler gemacht, weil das hätte einem selbst auch schon mal auffallen müssen. Also hier noch mal die Zusammenfassung meiner fünf Punkte.
+
+(0:05:18 - 0:05:22)
+Das reicht ja dann eigentlich, wenn man es in Summe verstanden hat.

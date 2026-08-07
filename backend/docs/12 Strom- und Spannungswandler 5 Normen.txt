@@ -1,0 +1,47 @@
+(0:00:00 - 0:00:22)
+Wir machen jetzt weiter mit dem Thema Normen. Und da haben wir euch wie immer so eine Auswahl an Normen zusammengeschrieben. Und die, wie wir finden, aus unserer Sicht, die DIN EN 618691, das ist erstmal eine Norm, die aus mehreren Teilen besteht.
+
+(0:00:23 - 0:00:33)
+Der Teil 1 ist erstmal allgemeine Anforderungen für Wandler, für Strom- und Spannungswandler. Das ist erstmal wichtig. Das ist eine Herstellernorm oder eine Produktnorm.
+
+(0:00:33 - 0:00:58)
+Das heißt, die müsst ihr erstmal im Detail gar nicht so verstehen, gar nicht unbedingt gelesen haben. Aber wichtig, das ist wichtig für euch zu verstehen und zu wissen, dass es diese Norm gibt. Und wenn man weitergeht in dieser Norm, sich die anderen Teile anguckt, zum Beispiel Teil 2, dann sieht man, dass dieser Teil 2 eben Anforderungen für Stromwandler aufführt oder beschreibt.
+
+(0:00:58 - 0:01:22)
+Und wenn ihr ganz, ganz aufmerksam wart, dann habt ihr gesehen, dass auf den Typen-Schildern unserer Stromwandler immer genau diese Norm aufgeführt wird. Das heißt, die induktiven Stromwandler, die wir kennen, die wir einsetzen, die sind genau nach dieser 61896, 869-2 gebaut und geprüft. Und dann erfordern, erfüllen die die Erfordernisse, die wir haben.
+
+(0:01:23 - 0:01:55)
+Dann gibt es noch die Nummer 3 und das ist dann eben die Norm im Prinzip genauso wie die 2 für Stromwandler ist die 3 die Norm für Spannungswandler und auch die finden wir auf dem Typen-Schild unserer Spannungswandler und können dann beruhigt mit diesen Geräten arbeiten. So, jetzt wird es ein bisschen konkreter für alle, die mehr im Thema Planung stecken. Der FNN Leitfaden, Leitfaden zum Einsatz von Schutzsystemen in elektrischen Netzen.
+
+(0:01:56 - 0:02:31)
+Das ist erst mal eine sehr, sehr umfangreich oder ein sehr umfangreicher Leitfaden, der uns ganz, ganz viele Informationen gibt über verschiedene Netze, die wir so in Deutschland haben, über verschiedene Schutztechniken, über verschiedene Schutzsysteme. Und er befasst sich dann eben auch mit den Strom- und Spannungswandlern und gibt uns zum Beispiel, da sind jetzt wirklich nur ein paar Beispiele, die wir herausgearbeitet haben, Bauform vor, er gibt Wandlerklassen vor für den Schutz. Er erklärt auch mal, wie man einen Schutzwandler korrekt auslegt, also es geht auch wirklich über zwei Seiten, sehr, sehr detailliert, sehr, sehr gut gemacht, wie ich finde.
+
+(0:02:32 - 0:02:58)
+Es gibt Anschlussbeispiele, wie man zum Beispiel den Schirm von einem, durch einen Summenstromwandler zurückführen soll. Solche Themen stehen da drin, also wer sich da wirklich mal ein bisschen tiefer mit befassen möchte, der kann sich dieses Dokument mal durchlesen. Es sind auf jeden Fall über 100 Seiten, aber mit sehr viel Information und sehr guten Informationen, die man sonst nicht einfach so aus dem Internet sich ziehen kann, wie ich finde.
+
+(0:02:58 - 0:03:32)
+In Betriebnahmeprüfungen werden beschrieben, was man da machen soll, was man da machen muss. Also ich kann immer nur wieder sagen, lest euch diese Normen und diese Leitfäden mal durch, weil die wirklich viel Information geben und uns, wenn man es mal gelesen hat, wenn man diesen Aufwand mal betrieben hat, unserem Planerleben wirklich weiterhelfen. Dann gibt es noch die VDE 4110, das ist unsere Bibel, daran halten wir uns, wenn wir PV-Anlagen oder Windparks an das Mittelspannungsnetz anschließen wollen.
+
+(0:03:32 - 0:04:31)
+Da stehen natürlich viele, viele Informationen drin, aber hier, jetzt haben wir euch mal ein paar rausgeschrieben, ein paar wichtige und zwar ein Punkt, der da erst mal definiert ist, dass Schutzregel und Messwandler erst mal durch den Auftragnehmer beschafft werden müssen. Das gibt diese Norm vor, der Netzbetreiber kann sich da zurücklehnen, ihr könnt die Messwandler auch vom Netzbetreiber beschaffen, aber erst mal ist es eure Verantwortung, wenn ihr das nicht tut, wenn ihr die nicht bestellt oder nicht eigene beschafft, dann ist das nicht der Netzbetreiber, der die Schuld trägt, sondern das seid dann einzig und allein die Anschlussnehmer. Dann gibt der Netzbetreiber in der Regel Wandlerdaten vor und zwar für seine Technik, so wird es beschrieben, also für die Messung zum Beispiel gibt der Betreiber etwas vor, der Netzbetreiber, und häufig auch für den Schutz, weil er, nur er weiß ja, wie die Sternpunktbehandlung in seinem Netz ist und wie dann eben auch sein Netz geschützt werden soll vor der PV-Anlage.
+
+(0:04:32 - 0:05:12)
+Er gibt dann noch vor, wie diese Spannungs- und Stromwandler eingebaut werden sollen, da gibt es eine Reihenfolge und wenn man dann vom Netz aus schaut, gibt diese Norm vor, Strom messen wir vor der Spannung. Schutzkerne werden definiert, mindestens Klasse 5P, das haben wir jetzt verstanden, was das bedeutet, also 5% Genauigkeit bei einem definierten Kurzschlussstrom. Diese Angabe fehlt jetzt hier, also die 10 oder die 20, die ist jetzt erstmal nicht aufgeführt, das kommt dann tatsächlich darauf an, wie an eurem Netzverknüpfungspunkt die Kurzschlussverhältnisse sind, dann kann man die 10 oder 20 oder 30 auswählen, je nachdem, wie groß der Kurzschlussstrom werden kann.
+
+(0:05:14 - 0:06:26)
+Dann wird in der 4110 vorgegeben, welche Messkerne für Regler oder welche Genauigkeiten die Messkerne für Regler erfüllen müssen, hier steht erstmal Klasse 0,5, ist erstmal eine grundsätzliche Anforderung, das gilt aber auch nur bis zu einer Leistung von 1 Megawatt, das heißt, wenn ihr jetzt große Parks baut, größer 1 Megawatt, dann ist die Anforderung an die Messkerne des Parkreglers Klasse 0,2. Dann gibt es noch Hinweise zu der Zählung, zu der Messwandlerzählung und da steht eben klar geschrieben, dass die Zählung Spannungswandler der Klasse 0,5 benötigt oder erfordert und die Stromwandler der Klasse 0,5 allerdings mit 1 MW, weil die VD4110, die weiß ja, dass unsere Erzeugungsanlagen nicht ständig auf Nennleistung laufen, sondern der Großteil des Jahres eben mit 1 MW. Im Teillastbereich betrieben wird oder eben einstrahlungsabhängig oder windabhängig und deshalb ist eben die Klasse 0,5 S hier die Klasse der Wahl, weil dann sind wir im unteren Bereich auch spezifiziert und können hinreichend genau messen.
+
+(0:06:28 - 0:07:03)
+Jetzt haben wir zum Schluss noch die TABs der Netzbetreiber und das ist natürlich wichtig, weil ja auch die 4110 schon darauf hinweist, dass der Netzbetreiber hier für seine Technik Vorgaben machen darf, technischen Anschlussbedingungen, das bedeutet TAB. Wir haben jetzt einfach mal eine rausgesucht von einem Netzbetreiber und der gibt uns jetzt erstmal Werte vor. Für den Stromwandler gibt er zum Beispiel eine thermische Belastbarkeit von 20 Kiloampere für eine Sekunde vor, das ist ja so ein bisschen analog zu den Schaltanlagenwerten, die wir dann auch erfüllen müssen.
+
+(0:07:03 - 0:07:46)
+Und er gibt eben ein IS von 120% dauernd vor, das heißt die Wandler müssen 120% dauerhaft belastbar sein und dann gibt es auch noch eben diese Tabelle, wo er dann die Wandler für verschiedene Einsätze nochmal genauer spezifiziert, also für die Messung gibt der Netzbetreiber in diesem Fall erstmal vor. Abhängig von der Anlagengröße natürlich steht dieses X drin, aber das Übersetzungsverhältnis soll dann immer zu 1 sein. Dann sollen diese Messkerne für die Messung 5 VA Leistung haben und eine Genauigkeitsklasse von 0,2 FS5.
+
+(0:07:47 - 0:08:45)
+Für den Schutz macht er eine ähnliche Vorgabe, also auch zu 1 soll der Wandler sein und 5 VA und eben eine Klasse 5P20. Dann gibt hier der Netzbetreiber auch vor, dass er Summenstromwandler sehen möchte oder eingesetzt haben möchte, 60 zu 1, das ist die klassische, die übliche Größe, die wir so sehen, 1,2 VA auch das ist ein üblicher Wert und 1 FS10 ist dann eben die Genauigkeit dieses Summenstromwandlers, das alles gibt hier der Netzbetreiber für seine Stromwandler vor. Was er hier nicht vorgibt ist der Messkern für den Parkregler, weil das ist dann nicht unbedingt die Technik des Netzbetreibers, sondern das ist natürlich unsere Technik und hier wiederum müssen wir uns dann eben an der 4110 orientieren, da haben wir die klare Vorgabe, dass wir für unsere großen Parks eben einen Kern mit einer Klasse von 0,2 einsetzen müssen.
+
+(0:08:46 - 0:09:36)
+Das gleiche gibt es jetzt hier für die Spannungswandler, hier hat er eben diese Spannungsbelastbarkeit von 1,9 und nennt für 8 Stunden definiert, das hängt eben damit zusammen, dass Erdfehler 8 Stunden andauern dürfen in dem Netz des Netzbetreibers, bevor er irgendwann entscheidet abzuschalten. Dafür ist sein Netz dimensioniert, dafür müssen dann eben auch unsere Spannungswandler ausgelegt sein, 8 Stunden Wurzel dreifache Spannungserhöhung auf den gesunden Phasen, das steckt dahinter, deshalb müssen wir das für 8 Stunden können und eben 120% der Netzspannung dauernd. Die Messwicklung, klar, zum Beispiel 20.000 zu 100 und die Bemessungsleistung ist dann 15 VA, die Genauigkeitsklasse 0,2.
+
+(0:09:37 - 0:10:18)
+Die Schutzwicklung, die der Netzbetreiber dann hier vorgibt, wäre dann natürlich das gleiche Übersetzungsverhältnis erstmal, auch 15 VA und dann mit einer Genauigkeitsklasse von 0,5 und eben die Schutzklasse 3P. Also die Schutzwicklung soll sowohl als Messwicklung geeignet sein mit 0,5 Klasse und auch als Schutzwicklung mit der Klasse 3P, also beide Klassen werden hier erfüllt. Dann gibt es noch die EN-Wicklung und die wäre dann eben 20.000 durch Wurzel 3 zu 100 durch 3, das ist hier der große Unterschied, die hat eine höhere Leistung von 30 VA und entspricht der Genauigkeit 3P.

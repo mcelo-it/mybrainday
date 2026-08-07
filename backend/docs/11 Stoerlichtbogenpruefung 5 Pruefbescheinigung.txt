@@ -1,0 +1,41 @@
+Jetzt sind wir zurück und schauen uns im Detail eine Prüfbescheinigung an. Ihr habt eine Schaltanlage bestellt, eine kompakte Übergabestation bestellt und euer Lieferant übermittelt euch diese Prüfbescheinigung. Die kann so aussehen, wie sie hier dargestellt ist.
+
+Das ist tatsächlich auch einfach eine. Da stehen verschiedene Punkte drauf, die wir mit euch durchgehen wollen. Weil ich hatte das tatsächlich in Projekten auch schon, dass ich dann Prüfbescheinigungen hatte.
+
+Die passten dann nicht mit dem zusammen, was bestellt wurde. Und dann fangen tatsächlich auch schon die Diskussionen an mit Analogiebetrachtung und so weiter. Was kann man da machen? Also wir gehen es mal durch.
+
+Und so empfehle ich euch das dann auch, wenn ihr wirklich die Station bestellt habt. Wenn ihr so ein Dokument bekommt, schaut es euch an. Legt es nicht einfach zur Seite und sagt ja, ich habe ja das Dokument, sondern prüft es.
+
+Also zunächst geht es um die Bemessungsdaten. Wir haben es eingerahmt hier in dem Bild und wir zoomen das jetzt auch noch mal ran, damit ihr es besser sehen könnt. Also die Bemessungsdaten.
+
+Es geht ja erstmal um eine TRAFO-Station, die nicht begehbar ist. Das ist eine klassische kompakte Station. Und hier ist dann auch klar aufgeführt, was in dieser Station enthalten ist.
+
+Schneiderschaltanlage, genau der Typ ist angegeben. RM6NEII oder eben ein Schneiderluftisoliertes Kompaktmessfeld oder ein Driescher-Schaltfeld. Also für diese Komponenten, genau für diese Komponenten ist das Zertifikat jetzt erstmal erstellt.
+
+Das ist ganz wichtig, weil wenn man jetzt hier mit einer anderen Schaltanlage, meinetwegen Siemens, diese Station errichten würde, dann wäre erstmal dieses Zertifikat eben nicht gültig. Nur genau für das, was hier jetzt zu sehen ist, dafür ist das Zertifikat gedacht. Der nächste Punkt wäre dann die Bezeichnung, die Bezeichnung der Station, des Stationskörpers.
+
+Hier sieht man eben eine IVR LB 320-240. IVR ist dann der Hersteller und dann gibt es eben noch dieses LB. Das ist deren Kürzel, wofür auch immer das stehen mag, vielleicht für Beton.
+
+Es gibt aber auch noch andere Stationskörper, meinetwegen so Leichtbauweisen gibt es auch. Und die 320-240, das ist dann in der Regel bei den meisten Herstellern die Größe der Station, also die Abmessung, 3,20 x 2,40 m. So, dann der nächste Punkt, den wir uns hier im Detail anschauen wollen, ist der Hersteller. Genau, wir hatten ihn gerade schon, der Hersteller ist IVR.
+
+Die haben uns hier dieses Zertifikat zur Verfügung gestellt und eben die Bilder von der Station in der 360-Grad-Höhe waren ja auch von IVR. Wir machen keine Werbung, wir haben hier nur eben viele Dokumente von denen erhalten, die wir hier zeigen dürfen. Deshalb ist es auch hier IVR der Hersteller mit Adresse.
+
+Und dann gehen wir zum nächsten für uns wichtigen Punkt, ist das Prüfdatum. Wann wurde diese Station geprüft? Und hier steht dann erstmal vom 3. bis 5. Juni 2020, also das dauert nicht nur ein paar Stunden, sondern das hat hier tatsächlich dann drei Tage gedauert, bis diese Station so geprüft war, wie sie geprüft wurde. Diese Prüfung ist jetzt vier Jahre her und aus unserer Sicht, solange sich die Norm jetzt nicht verändert, solange sich die Schaltanlage, der Aufbau nicht verändert, solange sich das Gehäuse der Schaltanlage nicht verändert, hat auch dieses Prüfzertifikat jetzt erstmal Gültigkeit, bis eben sich eines dieser vorgenannten Themen, also Änderung der Norm, Änderung der Schaltanlage oder sonstiges, verändert.
+
+Ansonsten ist diese Prüfbescheinigung jetzt erstmal gültig. Der nächste Punkt ist dann die Prüfvorschrift. Wonach wurde jetzt diese Anlage genau geprüft? Das ist hier aufgeführt und das ist eben einmal die 200, also die Komponenten, die Schaltanlage.
+
+Die wurde eben erstmal nach der 200 geprüft und die 202 ist dann eben die Prüfung für die Schaltanlage in dem Gehäuse, in der Station, also die Kombination aus beidem. Jetzt gibt es noch einen Punkt, das sind dann eben die Bemessungsdaten. Das sind dann die Bemessungsdaten der Schaltanlage, das ist eben eine 24 kV Schaltanlage, 630 Ampere Bemessungsstrom und dann haben wir ja auch noch den Störlichtbogenstoßstrom und den Störlichtbogenstrom, 20 Kiloampere für eine Sekunde und das Ganze bei den bei uns üblichen 50 Hertz.
+
+Jetzt kommt ein etwas größerer Block und da geht es dann eben um den Prüfumfang. Was wurde denn hier genau geprüft? Und hier geht es eben um eine Störlichtbogenprüfung nach der Klassifikation IAC-AB. Das ist hier ganz wichtig, also hier hat man eben diese Schaltanlage einmal nach der A geprüft und einmal nach der B geprüft.
+
+Das heißt, diese Schaltanlage ist sowohl für den Bediener geprüft worden, als auch für das Umfeld der Anlage bei geschlossenen Türen. Und zusätzlich, das sieht man hier auch, wurde der Störlichtbogen zweimal gezündet und zwar einmal im Messfeld, weil das Messfeld ist luftisoliert und dann eben noch ein zweites Mal im Gasraum der Schaltanlage. Und jetzt das Prüfergebnis, das ist natürlich auch wichtig, dass man das vielleicht noch einmal unten aufschreibt.
+
+Man hat zwar eine Bescheinigung, aber das Prüfergebnis muss dann natürlich auch passen. Und das Prüfobjekt erreichte eben die Störlichtbogenklassifikation IAC-AB, 20 Kiloampere für eine Sekunde. Also wir hatten eben einen Störlichtbogen von 20 Kiloampere für eine Sekunde und die vorher gezeigten Kriterien sind eben erfüllt.
+
+Die Station ist nicht abgebrannt, die Indikatoren sind unbeschädigt geblieben und deshalb ist hier die Prüfung bestanden. Ganz unten haben wir dann noch die Unterschriften, das ist natürlich ganz wichtig. Ohne Unterschriften ist so ein Zertifikat nicht gültig.
+
+So, jetzt geht es in die Excel-Übung und wir bitten euch, dass ihr einmal eine Checkliste jetzt vorbereitet. Also ihr habt eine Übergabestation geliefert bekommen und bevor ihr jetzt auf die Baustelle fahrt, möchten wir, dass ihr einmal euch diese Excel-Liste nehmt und anhand eurer Planung mal überprüft, welche Komponenten ihr denn jetzt überhaupt erwartet. Schreibt das einfach in eure Excel-Tabelle, weil im nächsten Schritt könntet ihr dann mit dieser Excel-Tabelle tatsächlich wieder per 360-Grad-Tour auf die Baustelle gehen und dann diese Punkte prüfen.
+
+Also Schritt 1, Excel-Tabelle füllen. So, hier haben wir erstmal die Lösung aus der Übung Nummer 1. Wir hoffen, dass ihr das so in die Excel-Tabelle übernommen habt. Also die Hersteller, den Typ, die Schaltanlage, das Messfeld, dass ihr das aus dem Komponentenzertifikat übernehmen konntet und so in eure Tabelle eingetragen habt.
+
+Und wenn wir jetzt im nächsten Schritt in die nächste Übung gehen, dann wird das Feld OK-Nicht-OK entscheidend, weil die nächste Übung, hier geht es dann wieder um die 360-Grad-Tour, hier solltet ihr jetzt wirklich vor Ort prüfen, ob ihr das, was ihr da bestellt habt, was in der Typ-Prüfung, in der IAC-AB-Prüfung drinsteht, ob das auch wirklich geliefert wurde und eure Anlage dann eben diese Störlichtbogenqualifikation erfüllt. Ein Hinweis noch, das Typenschild findet ihr an der offenen Tür der Mittelspannungstür. So, dann viel Spaß bei der Übung und bis später.

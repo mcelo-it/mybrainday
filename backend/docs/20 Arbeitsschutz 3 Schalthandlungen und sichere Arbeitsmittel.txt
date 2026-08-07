@@ -1,0 +1,11 @@
+(0:00:00 - 0:00:28)
+Bei Arbeiten an elektrischen Anlagen muss ich immer die fünf Sicherheitsregeln beachten. Erst schalte ich frei, dann sichere ich gegen Wiedereinschalten, dann stelle ich die Spannungsfreiheit fest, gegebenenfalls Erden und Kurz schließen oder benachbarte unter Spannung stehende Teile abdenken und abschranken. Regel 4 und 5 sind zwingend auf 1 kV erforderlich.
+
+(0:00:31 - 0:01:20)
+Zu Punkt 5, benachbarte unter Spannung stehende Teile abdenken oder abschranken, in der Nähe von unter Spannung stehenden Teilen zu arbeiten, zählt als Arbeiten unter elektrischer Spannung und dafür benötigt ihr eine extra Schulung sowie besonderes Arbeitsschutzmaterial und Werkzeug. Sichere Arbeitsmittel, elektrische Arbeitsmittel haben vor jeder Verwendung einer Sichtkontrolle unterzogen werden. Ich überprüfe bei der Sichtkontrolle einmal auf Schäden an den Anschlussleitungen, Schäden an Gehäuse oder isolierenden Komponenten und ich überprüfe den Zustand des Netzdeckers, der Anschlussklemmen oder Adern.
+
+(0:01:22 - 0:01:52)
+Mängel am Biegeschutz und an der Zugentlastung der Anschlussleitung, Schäden am Gehäuse und an den Schutzabdeckungen, Anzeichen einer Überlastung oder einer unsachgemäßen Anwendung, Anzeichen unzulässiger Eingriffe oder Veränderungen. Sollte ich dies alles oder eines davon nicht ausschließen können, verwende ich dieses Betriebsmittel nicht. Zu den sicheren Arbeitsmitteln gehören Leitern und Tritte.
+
+(0:01:53 - 0:02:02)
+Vor Verwendung von Leitern und Tritten sind diese optisch zu überprüfen, ob Gummifüße vorhanden sind zum Verhindern eines Verrutschens. Eine Spreizsicherung bei einer Aufstellleiter.

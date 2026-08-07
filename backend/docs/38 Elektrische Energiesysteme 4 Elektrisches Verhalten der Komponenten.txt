@@ -1,0 +1,157 @@
+(0:00:00 - 0:00:26)
+Wir springen jetzt in das Thema elektrisches Verhalten der Komponenten. So, da sind wir. Wir hatten euch eben die Eckdaten gezeigt von den einzelnen Bauteilen, die wir hier im Park haben, und würden uns jetzt mal die einzelnen Komponenten rausfischen nochmal und dann wirklich gucken, was bedeutet das denn, was wir hier jetzt hingeschrieben haben.
+
+(0:00:26 - 0:00:56)
+Also so ist das ja wenig greifbar. Ich hoffe, dass das nach diesem Kapitel greifbarer ist, was das hier genau bedeutet. Also wir würden jetzt mal anfangen. 
+
+Wir grauen alles aus, außer der Wechselrichter. Der bleibt erstmal hier in Farbe und das ist auch die erste Komponente, die wir uns hier angucken wollen. So, wir schieben uns das hoch und jetzt haben wir für uns erstmal Annahmen getroffen, die wir hier, um das Ganze ein bisschen zu vereinfachen in unserer Berechnung, festlegen, festsetzen.
+
+(0:00:57 - 0:01:13)
+Wir haben nämlich erstmal gesagt, wir setzen jetzt an eine Wirkleistung der Wechselrichter von 100% und setzen die auch als konstant an. Das machen wir jetzt so, um es eben zu vereinfachen, wie ich es gerade gesagt habe. Aber im Grunde genommen ist das ja nicht die Realität.
+
+(0:01:13 - 0:01:41)
+In der Realität muss man ja viele verschiedene Leistungsbereiche durchrechnen und eben nicht nur eine Berechnung machen für diesen 100% Betriebspunkt, 100% Wirkleistungsbetriebspunkt, sondern eben noch ganz ganz viele andere mit verschiedenen Kosinus Phi, mit verschiedenen Spannungsleveln und so weiter. Also hier für die Vereinfachung P 100%, reine Wirkleistung und konstant. Das ist jetzt das, was der Wechselrichter eben einspeisen soll an seinen Klemmen.
+
+(0:01:43 - 0:02:02)
+Hier sehen wir es nochmal im Diagramm, also reine Wirkleistung, die wir einspeisen. Dann haben wir ein Kosinus Phi von 1, das ist ja das, was wir gerade gesagt haben. Kosinus Phi von 1 entspricht einer reinen Wirkleistung und die Scheinleistung ist dann eben gleich der Wirkleistung.
+
+(0:02:02 - 0:02:44)
+Und wir setzen hier nochmal die Netzspannung fest auf 100%, also die ist jetzt eben auch konstant. Das muss nicht immer unbedingt so die Realität sein, weil wenn wir einspeisen, verändern sich natürlich auch die Spannungen in gewisser Weise. Aber um das jetzt hier nicht zu verkomplizieren und an verschiedenen Punkten in unserem internen Netz verschiedene Spannungen annehmen zu müssen, mit denen wir verschiedene Ströme ermitteln und verschiedene Wirkleistungen, halten wir das jetzt mal pauschal konstant, weil der Effekt, den man durch diese 1 oder 2% ansteigenden Spannungen im Park hat, ist natürlich nicht wegzudiskutieren, aber er ist eben auch relativ klein, von daher, um es eben einfach zu halten, 100% Netzspannung überall.
+
+(0:02:47 - 0:03:19)
+So, als nächstes gehen wir mal weiter, blenden hier das Kabel ein und schauen uns jetzt als erstes mal ein Niederspannungskabel an. Also wir machen das hier ein bisschen größer und speisen in dieses Niederspannungskabel jetzt erstmal ein Kosinus Phi von 1 ein, weil das macht der Wechselrichter eben an seinen Klemmen. Und dann muss dieser Strom, diese Leistung sich natürlich da irgendwie durch das Kabel winden und das Kabel hat verschiedene induktive und kapazitive Anteile.
+
+(0:03:19 - 0:03:33)
+Das hatten wir eben schon mal in diesem Schaubild kurz erklärt. Also wir haben einen induktiven QL-Anteil und einen kapazitiven Leistungsanteil von Qc. Das ist einfach physikalisch so, das wird auch immer so sein.
+
+(0:03:34 - 0:04:13)
+Jetzt ist natürlich die Frage, die wir uns dann gleich stellen müssen, ist es jetzt L oder ist es jetzt C? Was überwiegt? Ist das Kabel induktiv oder kapazitiv? Da haben wir uns angeguckt und haben uns erstmal die Formeln rausgesucht für das QL. QL ist dreimal I², also dreimal der Strom, dann ist da dieses Omega drin, das ist diese Kreisfrequenz 2PF und dann haben wir die Induktivität L' und zum Schluss noch die Kabellänge. Mit der Kabellänge wird aus dem L' eben das L. Also hier sehen wir erstmal, wie sich die induktive Blindleistung in dem Kabel berechnet.
+
+(0:04:14 - 0:04:27)
+Also hier hat erstmal der Strom einen großen Einfluss. Und jetzt gucken wir uns nochmal an, wie sich die kapazitive Blindleistung berechnet. Also hier sehen wir auch die Formel, lasst euch da nicht abschrecken, das ist gar nicht so schwierig, gar nicht so kompliziert.
+
+(0:04:27 - 0:04:53)
+Wichtig, was ihr hier erstmal mitnehmen müsst, ist, hier steht erstmal ein Minus vor der 3. Also es geht erstmal dann in die andere Richtung, nicht positiv, sondern negativ. Und hier haben wir erstmal einen großen Faktor, der da drin steht, U Leiter Leiter, also die Leiter-Leiter-Spannung durch Wurzel 3, wahrscheinlich die Leiter-Erd-Spannung, und das dann eben zum Quadrat. Das hat dann eben einen großen Einfluss, höhere Spannungen machen diesen negativen Wert negativer.
+
+(0:04:54 - 0:05:20)
+Und dann haben wir genau wie oben dieses Omega L, also diese Kreisfrequenz, das Omega, so muss man es sagen, und das C' und das L. Also so berechnet sich die kapazitive Blindleistung des Kabels. Das kann man jetzt erstmal so mitnehmen. Und wir würden jetzt hier raus erstmal nur die Effekte, die das hätte, darstellen und jetzt noch nicht direkt Zahlen dran schreiben.
+
+(0:05:20 - 0:05:38)
+Das könnt ihr nachher in der Übung wunderbar nochmal nachvollziehen. Also wir gucken uns das jetzt mal an, machen mal so als Beispiel ein 1 km langes Niederspannungskabel. Da würde ich mal sagen, das ist dann in unserer Größenordnung ein eher kleinerer Park, 1 km Niederspannungskabel.
+
+(0:05:39 - 0:06:03)
+Und wir würden jetzt, unten ist jetzt schon mal so ein kleines Ergebnis ein bisschen vorweggenommen, einen Kosinus V daraus ermitteln. Und wir haben hier erstmal nur einfach, dass es so ein bisschen anschaulich für euch ist, ohne das jetzt berechnet zu haben. Also wir haben es intern berechnet, aber ohne euch jetzt hier die Berechnung zu zeigen, haben wir jetzt erstmal den Kosinus V mit drei Stellen nach dem Komma angegeben.
+
+(0:06:03 - 0:06:35)
+Also so ein Niederspannungskabel hat einen geringen kapazitiven Effekt bei einer 1 km Länge und eben ändert dann diesen Kosinus V in der dritten Nachkommastelle. So würden wir das jetzt hier erstmal darstellen. Und wenn wir jetzt den Kabelquerschnitt erhöhen von diesem Kabel, Achtung, jetzt machen wir aus einem 150 Quadrat zum Beispiel ein 300 Quadrat, dann ändert sich folgendes im Kabel.
+
+(0:06:35 - 0:06:49)
+Das kann man jetzt im Datenblatt dieser Kabel nachvollziehen. Also wenn jetzt einer mal Lust hat, kann er das nochmal raussuchen. Und dann sieht man, dass der kapazitive Belag sich erhöht und der induktive Belag reduziert sich.
+
+(0:06:49 - 0:07:01)
+Das heißt, dieses Niederspannungskabel würde... Naja, okay, ich habe hier glaube ich etwas falsch gesagt. Das Kabel ist hier induktiv, das Niederspannungskabel ist induktiv. Und so steht es auch unten drunter.
+
+(0:07:01 - 0:07:14)
+Aber wenn wir jetzt den Kabelquerschnitt erhöhen, dann erhöhen sich die Kapazitäten und die Induktivitäten reduzieren sich ein wenig. Das heißt, das Kabel wird dann etwas weniger induktiv. Das muss man hier greifen.
+
+(0:07:15 - 0:07:30)
+Das Kabel bleibt induktiv, wird aber noch weniger induktiv. Und das würden wir jetzt hier nochmal zeigen. Also diese kapazitive Blindleistung des Kabels geht dann nochmal ein klein wenig runter.
+
+(0:07:31 - 0:07:46)
+Und ihr seht das im Cosinus V. Ich mache es nochmal zurück, den wir eben auf 0,998 hatten, was schon wenig war. Wir erhöhen den Kabelquerschnitt. Dann wird hier aus dem induktiven Teil bei so einem Kabel ein Cosinus V von 0,99.
+
+(0:07:46 - 0:07:56)
+Also dann ist der Effekt bald schon nicht mehr da. Oder vielleicht auch zu vernachlässigen. Ganz wichtig, wir hatten hier ein 1 km langes Kabel.
+
+(0:07:57 - 0:08:15)
+Wenn die Kabellängen jetzt größer werden, dann bleiben natürlich diese Effekte vom Kabelquerschnitt gleich. Aber sie verstärken sich natürlich um die Länge des Kabels. Also sagen wir mal, das Kabel wird 10 km lang, dann sind diese Effekte in Summe natürlich 10 mal so groß.
+
+(0:08:15 - 0:08:30)
+Weil das Kabel 10 mal induktiver wird oder sich 10 mal mehr in Richtung kapazitiv bewegt. Aber vom Grundsatz her würden wir jetzt erstmal festhalten, ein Niederspannungskabel ist tendenziell induktiv. So steht es hier und so ist es.
+
+(0:08:34 - 0:08:48)
+Jetzt haben wir die Kabellänge nochmal vergrößert und ihr habt es in dem Schaubild oben gesehen. Das ist wirklich nur schematisch, weil dieses 0,999, das würde man in so einem Schaubild gar nicht sehen. Jetzt haben wir das Kabel verlängert, jetzt erhöht sich oben der Cosinus V ein wenig.
+
+(0:08:50 - 0:09:10)
+Aber das ist wirklich nur schematisch hier mal dargestellt, dass es für euch ein bisschen greifbarer ist. Was passiert jetzt? Jetzt geht mal die Netzspannung runter. Die Netzspannung kann sich ja schon mal variieren oder man kann den Stufenschalter am Trafo ändern.
+
+(0:09:11 - 0:09:29)
+Mehr Niederspannung oder weniger. Jetzt kann man auch wieder in die Formeln oben reingucken. Wenn bei dem Qc, dieser negative Anteil, diese Spannung etwas runter geht, dann wird der negative kapazitive Teil kleiner.
+
+(0:09:30 - 0:09:36)
+Das muss man erstmal greifen. Also der Strom steigt. Wir gucken uns jetzt erstmal den induktiven Teil an.
+
+(0:09:36 - 0:09:54)
+Der Strom steigt und dadurch wird das Ql etwas größer, nehme ich an. Das ist sehr kompliziert hier, deshalb muss ich da auch selbst jedes Mal drüber nachdenken. Aber sinkende Spannung erhöht erstmal den induktiven Teil an so einem Kabel, weil der Strom größer wird.
+
+(0:09:54 - 0:10:13)
+Vielleicht kann man sich das so vorstellen, mehr Magnetfelder und dadurch eben mehr Induktivität. Was ist jetzt passiert? Da haben wir jetzt den Kosinus-Phi nochmal ein bisschen angepasst, wieder auf 0,998. Also der ist ein bisschen größer geworden und jetzt ist er sogar auf 0,995.
+
+(0:10:13 - 0:10:30)
+Das ist hier der Effekt, also weniger Spannung, mehr Kosinus-Phi-Induktiv. Das geht so weiter, ihr müsst versuchen, das irgendwie zu greifen. Deshalb habe ich es eben schon mal vorweggenommen, wenn man hinterher so eine Berechnung mal selbst macht, ich glaube, dann begreift man das nochmal ein bisschen besser.
+
+(0:10:30 - 0:10:38)
+Das ist vorbereitet für später. Ich nehme es schon mal vorweg, ihr kriegt dann auch eine Excel-Tabelle, die euch da unterstützt. Aber dann seht ihr diese Effekte.
+
+(0:10:39 - 0:11:06)
+Was wir jetzt machen ist, wir nehmen diesen Kosinus-Phi mit. Also nochmal zur Erinnerung, der Wechselrichter hat Kosinus-Phi 1 gemacht, reine Wirkleistung eingespeist. Und jetzt haben wir uns durch dieses Niederspannungskabel gequält und sehen jetzt, an den Niederspannungsklemmen des Trafos ist eben nicht mehr reine Wirkleistung, sondern wir haben mittlerweile einen induktiven Anteil von 0,995, ein Kosinus-Phi von 0,995, also einen geringen induktiven Anteil.
+
+(0:11:07 - 0:11:21)
+Als nächstes in unserer Reihe würden wir jetzt den Trafo finden. Das ist der 800 zu 33 kV Trafo, 6,5 Megawatt, haben wir eben gesagt. Und den gucken wir uns jetzt hier im Detail mal an.
+
+(0:11:22 - 0:11:48)
+Dazu gibt es auch wieder eine Formel und zwar hat ein Transformator eben einen Blindleistungsanteil und der errechnet sich aus diesem Uk. Also dieses Uk ist ein sehr wichtiger Wert, auch für die Kurzschlussberechnung brauchen wir diesen Uk-Wert immer wieder. Und auch für diese Blindleistungsberechnung ist das eben der Wert, der uns erstmal sagt, wie viel Blindleistung so ein Transformator benötigt, um zu arbeiten, um zu funktionieren.
+
+(0:11:50 - 0:12:19)
+Also QTS, Blindleistung des Transformators, ist eben das Uk mal die Scheinleistung des Trafos. Das ist erstmal eine sehr einfache Formel und für uns dann denke ich auch sehr leicht greifbar. Wenn das Uk steigt, also ein höheres Uk, ich sage mal nicht 8%, sondern 8,5%, sorgt dann eben auch dafür, dass der, ich will es nicht vorweg nehmen, aber jetzt haben wir es hier, dass der Blindleistungsteil des Transformators, also der Blindleistungsverbrauch des Trafos steigt.
+
+(0:12:20 - 0:12:43)
+Wenn man so will, ist es dann natürlich hilfreich, wenn die Trafos tendenziell eher ein geringeres Uk haben als ein höheres, weil dadurch nehmen sie eben nicht so viel Blindleistung auf. So, ihr seht das jetzt auch im Schaubild, da geht dieser Blindanteil jetzt erstmal deutlich nach oben. Also wir haben das auch wirklich ein bisschen überspitzt vielleicht dargestellt, damit ihr den Unterschied seht.
+
+(0:12:43 - 0:13:13)
+Also wir waren so ein bisschen hier, jetzt geht es erstmal ein ganzes Stück nach oben, weil der Trafo hat jetzt erstmal einen deutlich größeren Anteil als so ein Niederspannungskabel. Das Niederspannungskabel zur Erinnerung, das war in der dritten Nachkommastelle der Effekt zu sehen vom Kosinus V. Jetzt sind wir hier nur noch bei zwei Nachkommastellen und ich sage mal, wir sind von 0,998 oder so auf 0,97. Also der Effekt des Trafos ist hier schon mal deutlich größer als der von dem Niederspannungskabel.
+
+(0:13:15 - 0:13:22)
+Weiter geht es. Wir haben diesen Mittelspannungstrafo jetzt durch. Ihr seht jetzt auch hier nochmal, wie sich der Kosinus V weiter verändert.
+
+(0:13:23 - 0:13:45)
+Und jetzt kommt unser nächstes Bauelement, was wir typischerweise haben, das wäre unser Mittelspannungskabel. Auch hier ist es die gleiche Formel, ihr kennt sie von eben. QLQC haben wir, jetzt haben wir aber etwas andere C- und L-Strichwerte und vor allem haben wir hier auch andere Spannungen.
+
+(0:13:45 - 0:14:02)
+Und die haben dann natürlich eben auch einen Einfluss auf das Verhalten von diesen Kabeln. Wir nehmen erstmal wieder ein Kabel an von 1 km Länge, um es einfach und vielleicht ein bisschen vergleichbar zu halten zu dem, was wir eben hatten. Unten wird es direkt angezeigt, ein Mittelspannungskabel ist eher kapazitiv.
+
+(0:14:02 - 0:14:18)
+Das kann man jetzt vielleicht, wenn man direkt in die Formel schaut, feststellen. Der negative kapazitive Blindleistungsanteil, da steht eben diese Spannung oben im Zähler. Und deshalb ist da der Effekt natürlich ziemlich groß.
+
+(0:14:18 - 0:14:43)
+Also wenn man das von 0,8 kV zum Beispiel auf 20 kV erhöht, dieses ULL, oder auf 30 kV, dann wird der negative Blindanteil, das QC, natürlich deutlich negativer. Und dadurch verändert sich auch die Charakteristik von so einem Kabel. Also, wir haben das jetzt hier, halten es nochmal fest, für mich vor allem auch, damit ich nichts Falsches sage, Mittelspannungskabel, aufgrund der hohen Spannung, verhalten sich eher kapazitiv.
+
+(0:14:45 - 0:15:09)
+Jetzt gehen wir nochmal mit dem Querschnitt des Kabels hoch und daraus resultiert dann eben wieder ein Effekt. Die Kapazität geht hoch, das würdet ihr im Datenblatt sehen, und die Induktivität geht runter. Und daraus resultiert dann eben eine Reduktion der Blindleistung des Kabels.
+
+(0:15:09 - 0:15:32)
+So, hier haben wir den Cosinus V gesehen, der geht von 0,975 jetzt auf 0,98. So, jetzt erhöht sich die Länge des Kabels und das ist im Grunde genommen der gleiche Effekt wie vorher. Je länger das Kabel, desto größer eben diese Effekte, desto mehr oder weniger Blindleistung, induktiv oder kapazitiv, haben wir.
+
+(0:15:36 - 0:15:59)
+Die Spannung, ganz wichtiger Punkt, hatte ich eben schon genannt, kann sich jetzt natürlich um Stufenstellerspannung erhöhen, ich sag mal um 2,5%, oder man kann natürlich auch von 10 zu 20 zu 30 kV die Mittelspannung ändern. Und dann sind die Effekte natürlich umso größer. Ihr seht es oben, wie ich es eben schon gesagt habe, bei dem QC, da hat es eben einen sehr großen Impact.
+
+(0:16:00 - 0:16:42)
+Und bei dem QL eben auch, weil der Strom dann natürlich bei steigender Spannung runtergeht und dann auf den induktiven Anteil eine reduzierende Wirkung hat und auf den kapazitiven Anteil dann eben eine erhöhende Wirkung, die steigende Spannung. Mittelspannungskabel haben wir jetzt durch und jetzt gehen wir zu dem Hochspannungstrafo, den wir jetzt hier im Bild haben. Den zoomen wir rein und der verhält sich natürlich erstmal rein von den Formeln genauso wie der Mittelspannungstrafo, aber das seht ihr ja jetzt hier schon, der hat natürlich andere Werte.
+
+(0:16:42 - 0:17:07)
+Also er hat erstmal einen UK natürlich, genauso wie der Mittelspannungstrafo, aber diese Prozentzahl, die ist natürlich in einer anderen Größenordnung. Hier steht nicht, ich glaube 8% hatten wir eben beim Mittelspannungstrafo, sondern hier steht jetzt 20,5%. Wenn ihr euch oben die Formel anschaut, dann wird es glaube ich gleich klar, wenn da nicht ein 8% Wert steht, sondern 20, dann geht natürlich auch dieser Blindanteil des Strafos deutlich nach oben.
+
+(0:17:07 - 0:18:27)
+Das ist hier klar, also das QTS steigt bei so einem großen Strafo stark an und verstärkend kommt dazu natürlich auch noch diese großen Strafos, die haben natürlich auch ein sehr großes S und deshalb erhöht sich da diese Blindleistung relativ stark. So, jetzt kommt hier nochmal das Spannungsverhältnis, Oberspannung zu Unterspannung zu dem Wicklungsverhältnis und worauf wir jetzt hier so ein Stück weit hinaus wollen ist, wenn man den Stufenschalter an so einem Hochspannungstrafo ändert, dann ändert man natürlich auch die Oberspannung zum Beispiel nach oben und daraus resultiert dann, dass sich das Wicklungsverhältnis ändert, also die Wicklung N1, die Oberspannungswicklung wird größer und aus einer größeren Wicklung resultiert dann ein größerer induktiver Widerstand und aus diesem größeren induktiven Widerstand resultiert dann wiederum eine größere Blindleistungsaufnahme dieses Transformators. Also das ist hier genau der Punkt, selbst das Stufenschalten bei so einem Hochspannungstrafo, was der ja im Betrieb tut, das ändert im Grunde genommen das Blindleistungsverhalten von so einem Strafo.
+
+(0:18:27 - 0:18:55)
+Da gibt es ganz, ganz viele Effekte, die jetzt da ständig reinspielen, mit denen unser Parkregler dann immer wieder arbeiten muss. Das sind nicht nur die Stufensteller, das sind auch die Spannungen und so weiter. Und hier sehen wir jetzt den Cousin's Phi, der ändert sich auf 0,97 und der Einfluss von diesem Strafo ist hier aus unserer Sicht erstmal relativ groß gewählt, weil wir jetzt von 0,99 auf 0,97 induktiv runtergehen.
+
+(0:18:56 - 0:19:28)
+Vielleicht kann man festhalten, diese Strafos haben hier einen sehr großen Einfluss und die Kabel haben tendenziell einen etwas geringeren Einfluss. Strafos sind dann immer induktiv, Kabel muss man sich dann eben nochmal anschauen, auf welcher Spannungsebene wir uns hier befinden. Niederspannungskabel eher induktiv, aber ich sage mal in einem marginal kleinen Bereich und die Mittelspannungskabel, je höher die Spannung dann geht, desto kapazitiver wird das tendenziell.
+
+(0:19:29 - 0:19:56)
+Dann kann man vielleicht sagen, ein langes Mittelspannungskabel hat dann vielleicht ein bisschen unterstützende Wirkung, um eben mit den Kapazitäten des Mittelspannungskabels die Induktivitäten der Strafos ein wenig entgegenzuwirken. Jetzt kommt nochmal das Netz, das wird nochmal eingeblendet, die 110 kV. Der Stufenschalter hält jetzt die Spannung im Paar konstant, das hatten wir eben vorhin so festgehalten.
+
+(0:19:57 - 0:20:12)
+Das hilft uns natürlich dann auch bei der Bewertung im Mittelspannungsnetz und bei der Änderung der Stufen am Strafo hat das dann natürlich trotzdem wieder einen Einfluss auf diese Blindleistung, auch wenn er im Verhältnis eher gering ist.

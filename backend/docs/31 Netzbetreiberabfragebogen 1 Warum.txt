@@ -1,0 +1,137 @@
+(0:00:00 - 0:00:23)
+Also los geht's. Wir fragen uns erst mal, warum Netzbetreiber Abfragebogen? Da zeige ich erst mal eine historische sozusagen Übersicht, die wir auch in der anderen Schulung schon mal gezeigt haben, deswegen heute nur ganz, ganz kurz nochmal dargestellt. Ganz oben steht für uns Europa sozusagen der RFG, so heißt das, Requirements for Generator.
+
+(0:00:23 - 0:00:32)
+Das ist ein Code, der geschrieben wurde auf europäischer Ebene. Der gilt für alle Länder innerhalb der EU. Da werden technische Mindestanforderungen definiert.
+
+(0:00:33 - 0:00:53)
+Okay, die deutschen Techniker sozusagen haben diesen Code übernommen und daraus eine Anwendungsregel geschrieben, einen VDEAR, heute im Fokus 4110. Das ist die Mittelspannungsebene, darauf konzentrieren wir uns heute. Und in diesem Anwendungsregelwerk gibt es E-Bögen, E1 bis E17.
+
+(0:00:53 - 0:01:06)
+Haben wir ganz, ganz ausführlich schon besprochen. Das machen wir heute nicht. Heute konzentrieren wir uns auf einen davon, der, das sieht man hier im untersten Bulletpoint, den Ablauf sozusagen mitbestimmt.
+
+(0:01:06 - 0:01:25)
+Das ist der E9-Bogen, zeigen wir gleich, also der Netzbetreiber Abfragebogen. Also da kommt der Herr auf die Frage, warum Netzbetreiber Abfragebogen, würde ich sagen, weil der VDE das in der Anwendungsrichtlinie nun mal so vorsieht. Um das zu Ende zu bringen, unter dem VDE sind dann noch die THBs angesetzt.
+
+(0:01:26 - 0:01:48)
+Um die geht es heute nicht, deswegen schiebe ich die auch gleich wieder raus und fokussiere mich sozusagen also auf diesen VDEAR-Teil, den ich gerade genannt hatte. Dazu noch ein paar kleine Bulletpoints. Als erstes mal grundsätzlich gelten diese E-Bögen, finde ich, als enorm sinnvolle Anwendungsvariante für den Austausch von Informationen.
+
+(0:01:49 - 0:02:11)
+Diese E-Bögen in Summe, 4110 hat, glaube ich, 17 Stück, schauen wir uns, wie gesagt, heute nicht an, sondern eine nur davon. Aber insgesamt sozusagen gelten diese E17 als sinnvolle Vorlage, um zwischen Netzbetreiber und Anlagenerrichter Informationen auszutauschen. Das hilft enorm, um Bearbeitungszeiten zu optimieren.
+
+(0:02:11 - 0:02:39)
+Wenn beide Seiten ja wissen, was sie zu tun haben und auch wissen, worauf sie sich sozusagen bei ihrem Ansprechpartner verlassen können, hilft das selbstverständlich, um Bearbeitungszeiten zu optimieren und auch gleichzeitig, um Fehlerquoten zu senken. Beide Seiten wissen, was der andere damit meint, was er da so aufschreibt in irgendwelchen Anmeldeunterlagen. Wichtiger Punkt finden wir, deswegen nehmen wir es immer mit rein, das Gleichbehandlungsprinzip muss nicht so unbedingt in allen Ländern dieser Welt gelten.
+
+(0:02:39 - 0:02:56)
+Hier, da wo die VDE-Anwendungsrichtlinie gilt, ist es so, das ist jetzt egal, ob man da eine Biogasanlage, eine PV-Anlage oder eine Windanlage baut, ob man sozusagen groß oder klein ist. Das ist dem Regelwerk egal. Alle werden gleich behandelt, alle kriegen die gleichen Bögen übersendet.
+
+(0:02:57 - 0:03:13)
+So, den Ablauf hatte ich ja kurz schon, sag ich mal, verbal gehighlighted. Jetzt habe ich ihn hier auch noch mal mit rüber geschoben und unser Icon daneben gehängt. Was wir damit meinen, ist, dass das, was ich jetzt zeige, haben wir schon mal sehr, sehr ausführlich beschrieben.
+
+(0:03:13 - 0:03:26)
+Machen wir jetzt nicht. Das sind die sechs Schritte, die die VDE für den Ablauf vorsieht. Heute, ich grausse exemplarisch sehr deutlich, hoffentlich im Hintergrund aus.
+
+(0:03:27 - 0:03:39)
+Heute konzentrieren wir uns auf diesen Schritt zwei. Die Reservierung und die Feinplanung, so nennt die Regel das. Wir haben in Klammern Anlagenzertifikat reingeschrieben, um ein bisschen die Dringlichkeit noch deutlich zu machen.
+
+(0:03:40 - 0:03:48)
+Also innerhalb dieses Schrittes geht es auch darum, das Anlagenzertifikat zu kriegen. Immer ein riesen Meilenstein in so einem Projekt. Jetzt gucken wir da auch noch mal rein.
+
+(0:03:48 - 0:03:54)
+Gilt aber das gleiche Prinzip. Diese ganzen vielen, vielen Worte im Hintergrund schauen wir uns jetzt nicht alle an. Das haben wir ja schon gemacht.
+
+(0:03:55 - 0:04:01)
+Wollen das jetzt nicht doppelt machen, sondern heute geht es um das, was ich jetzt hier stehen lasse. Genau diese Mitte. Ich lese es einmal vor.
+
+(0:04:02 - 0:04:14)
+Die Übergabe des ausgefüllten Vordrucks E9 an den Anträgssteller. Das ist in diesem Schritt zu machen. Und dieser E9 ist eben genau dieser Netzbetreiber Abfragebogen, auf den wir uns ja heute konzentrieren.
+
+(0:04:14 - 0:04:25)
+Das Wer steht hier noch, finde ich, ist ein ganz wichtiger Punkt. Netzbetreiber. Also wir gucken uns heute tatsächlich zwei Stunden lang etwas an, was wir gar nicht machen, sondern der Netzbetreiber füllt es aus.
+
+(0:04:25 - 0:04:33)
+Das ist eine ganz wichtige Info. Er ist verantwortlich, das in der richtigen Zeit zu machen. Er ist verantwortlich, das inhaltlich richtig zu machen.
+
+(0:04:33 - 0:04:58)
+Und ihr, sage ich mal, seid verantwortlich, ihn vielleicht daran zu erinnern und aber eben dann die Angaben, die er übermittelt, bekommt zu prüfen und zu verstehen. Das ist der Kern. Das ist die Frage, warum machen wir das heute? Habe ich wieder ein bisschen rausgezogen, weil ich wollte unbedingt da unten noch eine 41 10 rein kriegen und jetzt die ganze Geschichte noch mal in eine andere Ebene transportieren.
+
+(0:04:58 - 0:05:08)
+Also hier ist der chronologische Ablauf. Auch den kennen die aufmerksamen Zuhörer sozusagen schon ganz genau. Auch hier haben wir wieder ausgegraut, worum es jetzt heute nicht geht.
+
+(0:05:08 - 0:05:19)
+Und in Grün bleibt übrig ein kleiner drei Kalenderwochen Balken. Die Anwendungsrichtlinie sieht das so vor. Ihr reicht den E8-Bogen neu ein.
+
+(0:05:19 - 0:05:30)
+Das hat man besprochen. Das haben wir jetzt gemacht und jetzt übersendet euch vermeintlich innerhalb von drei Wochen der Netzbetreiber den neuen Bogen zurück. Man sieht das dann rechts davon noch ganz wichtig.
+
+(0:05:30 - 0:05:36)
+AZ Anlagenzertifikat. Ich sage es ja nur. Das ist sozusagen die große Motivation dieser ganzen Geschichte.
+
+(0:05:36 - 0:05:42)
+Das wollen wir ja haben. Und das Anlagenzertifikat bedingt den E9-Bogen. Ohne den E9-Bogen geht das nicht.
+
+(0:05:42 - 0:05:50)
+Also wir brauchen den E9-Bogen. Und deswegen ist der hier so positiv grün dargestellt. Jetzt sage ich oben links.
+
+(0:05:50 - 0:06:02)
+Achtung, ihr habt vielleicht gesehen, da ist jetzt das Wort theoretisch mit reingeflogen. Ich schreibe jetzt mal darunter das Wort Realität. Darum geht es, finde ich, eigentlich im realen Ablauf.
+
+(0:06:02 - 0:06:11)
+Fokussiert euch jetzt nicht auf die drei Wochen, sondern fokussiert euch darauf. Die Feinplanung ist in einem realen Projekt zu diesem Zeitpunkt abgeschlossen. Sie muss es sein.
+
+(0:06:11 - 0:06:18)
+Dann Achtung, wird in der Regel die Übergabestation bestellt. Im Grunde werden alle Komponenten bestellt. So funktioniert nun mal ein reales Projekt.
+
+(0:06:19 - 0:06:30)
+Und das hat dann noch einen zweiten großen Effekt, den wir hier reingebracht haben. Der Netzbetreiber braucht in der Regel mehr als drei Wochen. Wie lange genau ist immer ein bisschen Projekt oder Netzbetreiber abhängig.
+
+(0:06:30 - 0:06:41)
+Aber es sind eigentlich mehr als drei. Wir haben jetzt mal acht reingeschrieben und dann verlängert sich dieser Balken. Und der Effekt, den jetzt alle mitnehmen, ist die Inbetriebnahmelinie über mir hat sich jetzt mit verschoben.
+
+(0:06:41 - 0:06:50)
+Das ist eine Kausalkette. Der E9-Bogen ist relativ weit vorne in so einem Projekt. Danach kommt ja noch die Zertifizierung, die Prüfung der Zertifizierung.
+
+(0:06:50 - 0:07:05)
+Irgendwelche Probleme und Fehler müssen mal beseitigt werden. Und danach kann erst die Inbetriebnahme stattfinden. Also das ist der chronologische Gedanke hinter der Frage, warum reden wir über Netzbetreiber? Abfragen würden.
+
+(0:07:06 - 0:07:17)
+Jetzt haben wir hier drunter noch der Formhalber 41, 20 und 10 reingebracht. Seht ihr jetzt auch gleich warum? Dann hat man es noch mal vielleicht im Hinterkopf festgesetzt. Man muss sich diese Zahlen jetzt nicht auswendig merken.
+
+(0:07:17 - 0:07:25)
+Deswegen sind sie ja auch grau. Also das ist die ganze Liste von E1 bis E17. Die werden nach und nach abgearbeitet.
+
+(0:07:25 - 0:07:33)
+Der E9 ist jetzt hier so ein bisschen in der Mitte, kriegt einen Daumen nach oben. Das meine ich symbolisch. Ich meine es aber ja auch tatsächlich ehrlich.
+
+(0:07:34 - 0:07:58)
+In meinen Projekten freue ich mich riesig, sage ich mal, zusammen mit dem Projektleiter und hoffentlich auch mit dem Kunden oder dem Netzbetreiber der Zertifizierstelle, dass wir diesen Meilenstein erreicht haben. Deswegen immer Daumen nach oben, wenn man mal diesen Netzbetreiber-Abfragebogen bekommen hat. 41, 10 habe ich über mir so ein bisschen ausgeblendet und 41, 20 jetzt gehighlighted.
+
+(0:07:58 - 0:08:13)
+Und wer richtig, richtig sich auf den Bildschirm fokussiert hat, hat gesehen, dass sich das Ganze ein bisschen verschoben hat. Wir wollen nur zeigen, dass es in der 41, 20 ähnlich, aber vielleicht nicht ganz genau so aussieht. Größte Verwechslungsgefahr ist sicherlich die Nummer.
+
+(0:08:13 - 0:08:25)
+Das war gerade die E9 und ich nenne die jetzt auch heute E9. Aber in der 41, 20 wäre es die E7. Höchste Verwechslungsgefahr, dass man da hoffentlich bitte darauf achtet, dass man von den gleichen Bögen spricht.
+
+(0:08:25 - 0:08:34)
+Das Grundprinzip ist aber sonst das Gleiche. Und bei der 41, 30, nur hier der Formhalber, ist es also wirklich bei 99,5 Prozent gleich. Er heißt weiterhin E7.
+
+(0:08:35 - 0:08:57)
+Jetzt ist er nur in der Höchstspannung und nicht mehr in der Hochspannung. So, so viel zu diesem Abriss chronologisch und wo sich sozusagen der E9-Bogen in so einer Gesamtkonstellation befindet. Jetzt zeige ich noch als letzter Teil meiner Einführung heute, wie dieser E9-Bogen an sich erst mal strukturiert ist.
+
+(0:08:57 - 0:09:06)
+Also sagen wir mal Deckblatt, könnte man es vielleicht nennen. Da ist es, da sind die Formalien drauf. Und jetzt seht ihr schon, das ist kein Grafikfehler.
+
+(0:09:06 - 0:09:22)
+So ein bisschen im oberen Drittel ist noch was ausgegraut, weil das sind keine Formalien, sondern das sind Achtung, so haben wir es jetzt mal strukturiert, zweiter Teil sozusagen, aber immer noch erste Seite. Da stehen die vereinbarten Anschlussleistungen drin. Ein Riesenthema, ein ganz wichtiger Punkt.
+
+(0:09:23 - 0:09:43)
+Und am Ende des Tages sollte da ein großer Fokus drauf liegen, dass diese Zahlen auch richtig sind. Deswegen haben wir ein ganzes Kapitel dem gewidmet. Dann würde man umblättern sozusagen, also tatsächlich so ein Blatt, ein zweites Blatt drehen und dann auch mal umdrehen und dann findet man Schutzeinstellungen.
+
+(0:09:43 - 0:09:59)
+Haben wir hier auch eins zu eins reinkopiert, sind also offensichtlich sogar drei Seiten. Im vierten Abschnitt geht es um statische Spannungshaltung. Gehe ich jetzt nicht darauf ein, mache ich ja dann eben gleich in dem in dem Kapitel wäre wieder eine Seite und dann hätte man noch eine letzte Seite.
+
+(0:09:59 - 0:10:08)
+Da sind die Netzdaten drin. Also so sieht das aus. Das ist sozusagen der chronologische Aufbau oder auch der physische Aufbau von diesen Blättern.
+
+(0:10:09 - 0:10:19)
+Und ich hoffe, dadurch ist jetzt erst mal die Einleitung wieder gelungen, warum wir uns jetzt also diese sieben Seiten, den E9 Netzbetreiber Abfragebogen angucken.

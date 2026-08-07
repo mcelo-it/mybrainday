@@ -1,0 +1,196 @@
+(0:00:00 - 0:00:15)
+Externe Einflussgrößen. Also die Kennlinie taucht jetzt immer wieder auf, diese ganzen Kenndaten tauchen immer wieder auf und jetzt gucken wir uns an, wie wir diese Kurve beeinflussen können. Los geht es mit der Verschaltung.
+
+(0:00:16 - 0:00:25)
+Elektrische Verschaltung ist damit gemeint. Ich zeige das auch gleich im Bild. Also ein Modul brauchen wir auf jeden Fall dafür und eine Strom-Spannungs-Kennlinie.
+
+(0:00:29 - 0:00:38)
+So, wir haben hier unseren Kurzschlussstrom und unsere Leerlaufspannung vom Modul. Das wäre jetzt also die Kennlinie von einem Modul. Jetzt kommt natürlich der große Trick.
+
+(0:00:39 - 0:00:53)
+Wir verschalten mehrere Module miteinander. Das machen wir, indem wir die Module umdrehen, weil dann sieht man den Plus- und den Minuspol besser. Wir holen uns einen Wechselrichter mit dazu und merken uns jetzt erstmal Grundregel Elektrotechnik, ich denke zweites Semester.
+
+(0:00:54 - 0:01:05)
+Module in Reihe erhöhen die Spannung, also in Reihe wird die Spannung aufaddiert. Das zeige ich hier mal schematisch. Also Pluspol an Pluspol, Minuspol an Pluspol und wieder zurück zum Wechselrichter.
+
+(0:01:05 - 0:01:22)
+Das ist eine Reihenverschaltung und das bedeutet für meine Kennlinie, dass sich die Spannung verdoppelt. Zweimal UAC, der Strom bleibt gleich. Jetzt machen wir das, weil es so schön aussieht vor allem, nochmal mit einer weiteren Verdoppelung.
+
+(0:01:22 - 0:01:40)
+Also zack, jetzt sind es schon vier Module und diese typischen Strings, 24, 26, 28 Module in Reihe, da kann man sich das jetzt genauso vorstellen, nur nach oben skaliert. Also zack, jetzt sind es schon viermal die Leerlaufspannung. So kann man das also immer weiter nach oben treiben, wenn man möchte.
+
+(0:01:41 - 0:02:02)
+Die zweite Variante, die es gibt, dazu drehen wir die Module, weil man es dann besser sehen kann, ist, dass wenn wir die Module nicht in Reihe schalten, sondern parallel, dann erhöhen wir den Strom. Also parallel verschaltende Module oder Strings erhöhen den Strom. Wie genau? Auch mathematisch höchst simpel.
+
+(0:02:02 - 0:02:53)
+Also wir haben jetzt hier zwei Teams sozusagen gebildet aus diesen vier Modulen und jetzt schalten wir die zwei zusammen und jetzt eben parallel dazu am Wechselrichter, würden wir es miteinander verschalten, nochmal ein Pärchen parallel geschaltet und damit würde dieser Strom von einmal ISC zu zweimal ISC nach oben geschoben werden und die Leerlaufspannung bleibt bei zweimal der Leerlaufspannung, weil wir ja auch zwei Module in Reihe geschaltet haben. Also zwei in Reihe, zweifach parallel, bedeutet jetzt in der Kennlinie zweimal UOC, zweimal ISC. Das war mal der erste, wenn man so will, eigentlich, finde ich, wichtigste Impact für Elektroplaner, die elektrotechnische Verschaltung parallel und in Reihe.
+
+(0:02:53 - 0:03:01)
+Jetzt kommt die Verschattung. Da können wir als Elektroplaner gar nicht so viel machen. Der Effekt ist natürlich trotzdem ganz wichtig, erstmal grundlegend zu verstehen.
+
+(0:03:01 - 0:03:13)
+Also Verschattung reduziert den Strom. Das ist ganz wichtig, auch wenn es sehr logisch erscheint. Also weniger Sonneneinstrahlung bedeutet sozusagen weniger Strom und dadurch auch weniger Leistung.
+
+(0:03:13 - 0:03:29)
+Da haben wir mal unsere Sonne, die scheint jetzt wunderbar auf das Modul und deswegen ist unsere Kennlinie, die wir hier zeigen, wenn man so will, jetzt im optimalen Bereich. Jetzt kommt ein zweites Modul rein. Das ist zumindest bei kommerziellen PV-Anlagen eine ganz typische Verschattung, also die vorhergehende Reihe.
+
+(0:03:30 - 0:03:40)
+Das kann man mehr oder weniger machen, je nach Reihenabstand. Aber Tatsache ist, diese Verschattung gibt es. Es gibt auch andere, aber wir nehmen die, weil die für uns am üblichsten ist.
+
+(0:03:40 - 0:03:53)
+Und jetzt sieht man es schon so ein bisschen dargestellt. Also das hintere Modul ist jetzt eben teilverschattet. Wir haben die Dioden nicht reingezeichnet, aber ich will es trotzdem benennen, was das jetzt bedeutet.
+
+(0:03:53 - 0:04:03)
+Also diese Module haben integrierte Dioden, die wir jetzt hier nicht sehen können. Das ist aber das Gleiche, als würden wir Module miteinander verschalten. Und jetzt passiert Folgendes.
+
+(0:04:04 - 0:04:23)
+Mit Verschattung und aber auch mit Bypass-Dioden, die über die Hälfte des Moduls gehen, würde sich die Kennlinie folgendermaßen verschieben. Also der verschattete Bereich, der hat dann nicht mehr die Möglichkeit, ganz so viel Strom beizutragen. Das wird aber über die Bypass-Diode sozusagen umgeleitet.
+
+(0:04:24 - 0:04:37)
+Daher kommt dieser Knick nach unten im Strom und nach hinten raus die Spannung. Die bleibt gleich, die ist von dieser Verschattung nicht so sehr betroffen. Also so würde dann die Kennlinie aussehen, wenn sich die Module verschatten.
+
+(0:04:37 - 0:04:52)
+Und jetzt nehmen wir noch einen anderen Punkt, weil er so dramatisch ist. Wenn wir gar keine Bypass-Diode hätten, dann würde das so aussehen. Also nur, weil die Hälfte des Moduls verschattet ist, gibt es hier einen Einbruch vom Strom in dramatischer Weise.
+
+(0:04:53 - 0:05:02)
+Und was meine ich mit dramatisch? Meine ich, wenn ihr euch noch an die erste Folie erinnert. Man könnte jetzt hier auch die Leistung noch mit reinlegen. In der zweiten Achse könnte man das machen.
+
+(0:05:02 - 0:05:19)
+Und da ja die Leistung das Produkt aus Strom und Spannung ist, würde also auch die Leistung deutlich einbrechen. Diese Verschattung mit und ohne Bypass-Diode hat also deutlich unterschiedliche Effekte. Wichtig für uns ist es, erst mal zu wissen, dass es so ist.
+
+(0:05:19 - 0:05:38)
+Dann kann man da ein bisschen mitreden, wenn es um Reihenabstände geht oder so. Aber richtig und falsch kann man hier nicht sagen, sondern hier kann man nur sagen, betriebswirtschaftlicher Optimalfall wird gesucht. Aber was man noch technisch ganz klar sagen kann, ist die Position der Dioden beziehungsweise dann der Module ist relevant.
+
+(0:05:38 - 0:05:47)
+Porträt oder horizontal, vertikal, wie auch immer man das definiert. Ich glaube, jeder weiß, was ich meine. Das sollte man beachten bei der Installation.
+
+(0:05:47 - 0:06:11)
+Ich kenne auch alle Varianten, weil es gibt auch hier Vor- und Nachteile. Aber wenn wir es jetzt so machen, wie wir es dargestellt haben, dann würde man die Dioden sozusagen bestmöglich nutzen, weil dann die Verschattung des unteren Bereichs einfach über diese Bypass-Dioden umgeleitet wird und dadurch die Verluste, sage ich mal, reduziert werden. Also an der Stelle wollten wir nur gesagt haben, dass es das gibt, beachten.
+
+(0:06:12 - 0:06:31)
+Und wer das noch mal genauer dann in seinem Projekt irgendwie tatsächlich aufarbeiten will, der holt sich da noch mal andere Bilder aus der Literatur. Verschattung ist aber ein wichtiger Effekt, der diese Kennlinie beeinflusst. Wir gehen weiter zur nächsten Einflussgröße der Temperatur.
+
+(0:06:32 - 0:06:41)
+Die ist für mich viel wichtiger. Also hätte ich hier meinetwegen auch größer gemacht als die Verschattung, wenn das symbolisch dargestellt sein soll. Also jetzt bitte wirklich aufpassen.
+
+(0:06:41 - 0:07:06)
+Da kommen auch ganz viele Menti-Fragen gleich noch. Die Temperatur ist ganz entscheidend und die hat einen sehr interessanten Effekt, sage ich mal, weil der nämlich bei Strom und Spannung unterschiedlich ist. Also einmal ist der Temperaturkoeffizient beim Strom, deswegen nennt er sich Alpha ISC, also Kurzschluss Strom Temperaturkoeffizient Alpha ISC.
+
+(0:07:06 - 0:07:16)
+Der ist positiv, da ist er. 0,05 ist ja zum Beispiel Prozent pro Kelvin oder pro Grad. Wo das herkommt, sehen wir später noch.
+
+(0:07:17 - 0:07:42)
+Aber jetzt will ich erst mal den Effekt dieser ganzen Geschichte darstellen und dafür brauchen wir diese Formel. Die steht auch so in der Norm, die ich genannt habe und die lese ich jetzt nicht vor, sondern die kann man sich in Ruhe ja noch mal zu Hause durchlesen, sondern ich will den Effekt zeigen, der mit diesem positiven Temperaturkoeffizienten jetzt da drin gleich passiert. Und dazu brauche ich aber noch die anderen Parameter aus der Formel, einmal TSTC, Standard Test Conditions.
+
+(0:07:42 - 0:07:49)
+Das zeige ich auch gleich noch mal. Ist mit 25 Grad definiert, diese Temperatur, die ist also fest. Da ist er jetzt in unserem Thermometer.
+
+(0:07:50 - 0:08:04)
+Haben wir jetzt gerade 25 Grad, also Standard Test Conditions. Und jetzt sagen wir mal, wir haben aber vor Ort gar nicht die 25 Grad, sondern die 26 Grad. Ist leichter zu rechnen mit einem Grad, zeige ich euch gleich.
+
+(0:08:04 - 0:08:16)
+Dann würde folgendes passieren. Also erst mal geht mein Thermometer nach oben, nämlich auf 26 Grad. Und ich kann jetzt meine Kennwerte da in meiner Formel einsetzen.
+
+(0:08:16 - 0:08:30)
+Also einmal den Temperaturkoeffizient reingeschoben und dann schiebe ich noch die zwei Temperaturen rein. Ich habe es nochmal drunter geschrieben, damit man sich so ein bisschen merken kann, welcher jetzt was war. Und jetzt rechnen wir mal 26 Grad minus 25 Grad.
+
+(0:08:30 - 0:08:42)
+Das ist ein Grad plus. Und wenn wir jetzt hier nochmal die einen Grad mit der Klammer multiplizieren, dann fällt es halt weg. Deswegen habe ich das so gemacht, weil das so einfach zu rechnen ist.
+
+(0:08:43 - 0:09:19)
+Und jetzt sehen wir den Effekt. Jetzt sehen wir, dass der maximale Kurzschlussstrom, also ISCmax, ist der Kurzschlussstrom nach Standard Test Conditions und zwar multipliziert mit einem positiven Faktor, einem Faktor, der größer ist als 1. Also 1 plus 0,005 ist größer als 1. Das heißt, der Kurzschlussstrom wird jetzt steigen bei steigender Temperatur. Und das hat im Umkehrschluss, und darauf will ich hinaus, das muss man sich jetzt nur merken, diesen Effekt, also den höchsten Strom, den erreichen wir bei höchsten Temperaturen.
+
+(0:09:19 - 0:09:32)
+Das kann man sich genauso merken. Strom, höchste Temperatur. Und weil es so schön ist, ist es bei der Spannung genau andersrum.
+
+(0:09:32 - 0:09:49)
+Finde ich, kann man sich insofern auch gut merken, weil es so skurril andersrum ist. Also der Alpha der Spannung, der Leerlaufspannung ist negativ. Und das machen wir jetzt genau mit der gleichen Formel, nur mit der Spannung eben eingesetzt.
+
+(0:09:50 - 0:10:03)
+Und wir holen uns hier auch so einen typischen Wert. Und da sieht man jetzt schon, jetzt war ich eins zu schnell, da sieht man jetzt schon, wir haben es ein bisschen blau gemacht, dass der negativ ist, der Temperaturkoeffizient. Also das ist so, der steht im Datenblatt so drin.
+
+(0:10:03 - 0:10:20)
+Und deswegen, um es besser zeigen zu können, machen wir die Module jetzt mal ein bisschen kälter. Also wir gehen von 25 Grad STC auf 24 Grad und haben hier wieder unseren STC, den wir mit einsetzen und machen genau das gleiche wie gerade. Wir schieben den Alpha da mit rein.
+
+(0:10:20 - 0:10:49)
+Wir schieben die zwei Temperaturwerte da mit rein. Und wenn wir jetzt 24 minus 25 rechnen, dann steht da eine Minus 1. Und warum ist das jetzt so wichtig und so blau? Weil wenn ich jetzt das Minus 1 mal die Minus 0,3 rechne, dann wird das ein Plus. Und dann sieht man, dass auch da wieder sozusagen dieser Spannungswert, der UOC Max, der wird größer, wenn ich die Temperaturen verringere.
+
+(0:10:50 - 0:11:04)
+Das liegt also an dem negativen Temperaturkoeffizienten. Die Steigung sozusagen dieses Einflusses geht in die andere Richtung. Das heißt, die höchste Spannung wird bei der niedrigsten Temperatur erreicht.
+
+(0:11:04 - 0:11:13)
+Jetzt muss ich gucken, ob ich es selber nochmal hinkriege. Also der höchste Strom wird bei höchster Temperatur erreicht und die höchste Spannung bei niedrigster Temperatur. Es ist gegenläufig.
+
+(0:11:14 - 0:11:32)
+Sehen wir später auch nochmal ganz gut. Aber jetzt zeigen wir das einfach grafisch nochmal, was wir gerade in der Formel ausgerechnet haben. Also wieder die typische Strom- und die Spannungsachse, aber jetzt mit Temperatur, SDC und jetzt kommt der Effekt in unserer Tabelle auch ein bisschen mitgeführt.
+
+(0:11:33 - 0:11:41)
+Da haben wir also einen ISC und eine Spannung und eine Leistung. Und jetzt erhöhen wir das. Das ist das, was wir gerade gerechnet haben.
+
+(0:11:42 - 0:11:58)
+Und das ist auch genau das, was ihr in ungefähr einer halben Stunde auch rechnen müsst. Wir erhöhen den Stromwert, weil wir die Temperatur erhöht haben und gleichzeitig wird die Spannung kleiner. So, das sieht ungefähr so aus.
+
+(0:11:58 - 0:12:13)
+Also das sind jetzt nur angedeutete Verhältnisse. Stimmt also nicht mit Zahlen ausgerechnet. Darum geht es aber nicht. 
+
+Es geht um Tendenzen. Und jetzt sieht man aber schon, wir haben es so gemacht. Der Strom wird also größer.
+
+(0:12:13 - 0:12:29)
+Die Spannung wird kleiner. Und weil aber der Temperaturkoeffizient absolut betrachtet bei der Spannung größer ist als beim Strom, ist der Einfluss der Temperatur bei der Spannung größer als beim Strom. Man sieht das auch an der Kennlinie.
+
+(0:12:29 - 0:12:43)
+Also die wird ein bisschen mehr nach links verschoben als nach oben. Und das führt dazu, weil es ja ein Produkt ist, die Leistung, dass die Leistung insgesamt sinken wird. Ich finde, das kann man sich auch irgendwie fotografisch in seinen Kopf einbrennen.
+
+(0:12:43 - 0:12:56)
+Also wenn die Temperatur steigt, wird die Leistung etwas sinken. Wir zeigen auch den anderen Fall noch mal, den wir mit der Formel auch gerade ja dargestellt hatten. Wir gehen einfach mit der Temperatur ein bisschen runter, 24 Grad.
+
+(0:12:57 - 0:13:07)
+Und dann sieht die Kennlinie so aus. Und für mich ehrlich gesagt, also ja, Kennlinien helfen sehr, um sich das vorzustellen. Aber mathematisch gesehen, finde ich, passt in der Tabelle irgendwie besser oder ist greifbarer.
+
+(0:13:07 - 0:13:25)
+Also der Strom geht runter, die Spannung geht hoch. Und das, wer aufgepasst hat, wüsste es jetzt genau, führt dazu, dass die Leistung auch hochgeht, weil eben der Temperaturkoeffizient bei der Spannung einen höheren Einfluss hat als beim Strom. Das war ein ganz wichtiges Kapitel.
+
+(0:13:26 - 0:13:36)
+Temperatureinfluss muss man verstehen, sonst kann man später auch nicht die Rahmenbedingungen richtig ausrechnen. So, Temperatur war das eine. Einstrahlung ist das andere, hat ein bisschen mit Verschattung zu tun.
+
+(0:13:36 - 0:13:54)
+Wir haben separiert wieder die gleiche Kennlinie, das gleiche Diagramm und unsere Sonne. Und jetzt ist das so, IRR, das ist die Einstrahlung in Watt pro Quadratmeter. Bei Standard Test Conditions, so wird es definiert, sind es 1000 Watt pro Quadratmeter.
+
+(0:13:54 - 0:14:05)
+Und jetzt geht es aber erst mal wieder nur ums Prinzip. Also so sieht unsere Kennlinie aus bei Standard Test Conditions. Und jetzt haben wir eine kleine Wolke, die wir da vorschieben, so ein typisches deutsches Wetter vielleicht.
+
+(0:14:06 - 0:14:14)
+Und dann sieht die Kennlinie folgendermaßen aus. Der Strom sinkt. Der Strom ist linear abhängig von der Einstrahlung.
+
+(0:14:14 - 0:14:23)
+Die Spannung ist es nicht. Wir haben es jetzt ungefähr auf den gleichen Punkt gelegt, aber ein bisschen verringert sich die Spannung auch. Aber das ist nicht der Kern.
+
+(0:14:23 - 0:14:33)
+Der Kern ist, dass sich der Strom abhängig von der Einstrahlung verändert. So, noch mehr Wolken, noch mehr schlechtes Wetter. Die Kennlinie geht noch weiter runter.
+
+(0:14:33 - 0:14:49)
+Jetzt nur noch bei 800, strengt der Strom weiter und die Spannung bleibt ungefähr gleich. Kann man sich zusammengefasst vielleicht so vorstellen. Sinkende Einstrahlung reduziert den Strom linear und die Spannung bleibt bis ungefähr 100 Watt pro Quadratmeter konstant.
+
+(0:14:49 - 0:14:57)
+Das hat was mit dieser Dioden-Eigenschaft zu tun. Müssen wir aber nicht weiter ins Detail gehen. Man kann sich es vielleicht mal merken.
+
+(0:14:57 - 0:15:18)
+Also ab einer gewissen Spannung und wenn man die unterschreitet, dann wird auch die Spannung wegbrechen und dann hat man sowieso Gitterwechsleuchte aus. So, das war das Thema Einstrahlung und wir gehen noch in das letzte Kapitel. Airmass, das mache ich ganz kurz.
+
+(0:15:18 - 0:15:30)
+Vorhin wurde ja auch gefordert, dass ich ein bisschen schneller rede. Bei Airmass kann ich das auf jeden Fall tun, weil das ist für mich mehr so pro forma interessant. Aber für meine tägliche Arbeit als Planer brauche ich das nicht.
+
+(0:15:31 - 0:15:45)
+Wichtig ist, die solare Einstrahlung ist abhängig vom sogenannten Sonnenhöhenwinkel. Haben wir hier auch grafisch jetzt nicht dargestellt, weil das für uns nicht so relevant ist. So wird da mathematisch beschrieben und dann kann man sich das so vorstellen.
+
+(0:15:45 - 0:16:00)
+Es geht im Grunde darum, wie in welchem Winkel die Sonne durch die Atmosphäre auf das Solarmodul scheint. Darum geht es im Endeffekt. Und ich merke mir höchstens noch, dass dieses Airmass bei einer senkrechten Einstrahlung 1 ist.
+
+(0:16:00 - 0:16:20)
+Und wenn wir jetzt in Berlin sitzen, da sind wir ja, dann ist die Airmass davon abweichend 1,15. Und noch ein anderes Beispiel an einem anderen Tag im Jahr. Da wäre das dann Airmass 4, weil dann zu einer anderen Jahreszeit die Sonne einen anderen Einstrahlungswinkel hat.
+
+(0:16:20 - 0:16:29)
+Also da gehen wir nicht weiter darauf ein. Das war es auch schon. Aber wir fanden es falsch, wenn wir es nicht sagen würden, weil wir glauben, dass das natürlich auch eine Einflussgröße ist.
+
+(0:16:29 - 0:16:39)
+Aber das ist jetzt eine, die in den Berechnungstools automatisch hinterlegt sein wird, muss und wir damit sozusagen nichts zu tun haben.

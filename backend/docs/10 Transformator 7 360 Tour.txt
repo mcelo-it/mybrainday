@@ -1,0 +1,41 @@
+(0:00:00 - 0:00:34)
+für euch noch eine Tour. Genau, jetzt ist das die Tour, die ich nicht führen werde, sondern wo ihr selbst durch den Park, nicht unbedingt, aber durch die Trafo-Übergabestation gehen sollt. Ihr habt ja schon die Excel-Tabelle, geht bitte in den Reiter Nummer 4, da habt ihr eine Checkliste, hier ist sie eingeblendet und ihr sollt bitte gutachtermäßig nachschauen, ob das, was hier als soll vorgegeben ist, ob diese Daten auch dem Ist-Zustand entsprechen.
+
+(0:00:34 - 0:01:13)
+Ich würde sagen, fünf Minuten und dann sehen wir uns hier wieder mit den Ergebnissen, die wir dann im Menti wieder abfragen. Bis gleich. So, herzlich willkommen zurück. 
+
+Ich stehe jetzt hier vor der kalten Trafo-Station mitten im Winter. Wir haben Menti-Aufgaben für euch, in die wir gleich rein starten würden. Ihr kennt das ja, ihr könnt euch hier um die Trafo-Station herum bewegen, könnt die Türen öffnen. 
+
+Ich hoffe, ihr habt das gerade alle hinbekommen. Wir würden jetzt mal mit der ersten Menti-Frage starten und ich versuche dann gleichzeitig den Weg dorthin zu finden und das gleichzeitig hier nochmal zu zeigen. Also los geht's.
+
+(0:01:20 - 0:01:36)
+So, Frage 1. Wie hoch ist die Nennenleistung des Trafos? Also dann muss man erst mal natürlich schauen, wo ist der Trafo. Der Trafo ist hier in dieser Kompaktstation enthalten. Konnte ich die Tür öffnen und kann jetzt hier rein in den Trafo und sehe hier ein Infoschild und ein Typenschild.
+
+(0:01:37 - 0:06:26)
+3.150 kVA sehe ich hier. Habt ihr hoffentlich auch erkannt. Die meisten haben es erkannt. 
+
+Wir gehen zur nächsten Frage. Welche Art von Kühlmittel wird zur Kühlung des Transformators verwendet? Ich hoffe, dass man das hier sehen kann. Genau, also hier unten steht Mineralöl, ganz klein gedruckt, steht auf dem Typenschild. 
+
+Natürlich haben die meisten auch erkannt. Weiter geht's. Welche Schaltgruppe hat der Transformator? Da muss ich zum Glück nicht noch weiter um die Station laufen, sondern kann das hier bequem vom Typenschild ablesen. 
+
+Ich muss es nur finden. Ich habe es gesehen und kann das jetzt hier natürlich noch mal mit meiner Maus zeigen. Hier ist DYN 5. Ich sage mal ein Transformator, den man häufig sieht und wir gehen weiter zur nächsten Frage. 
+
+Mit welchen Methoden wird der Transformator gekühlt? Das ist auch ein Thema, was wir in anderen Kapiteln dieses Brain Days noch mal weiter bearbeiten werden. Und hier ist jetzt O-Nan die richtige Lösung. Man sieht das auch hier auf dem Typenschild. 
+
+Das bedeutet Oil-Natural, Air-Natural, also das Öl bewegt sich natürlich und die Luft auch. Da gibt es keine Unterstützung mechanisch. Weiter geht's. 
+
+Wie hoch ist die Kurzschlussspannung des Transformators? Und die wird dann eben genau in Prozent angegeben. Genau, hier sieht man jetzt 6,25 steht hier auf dem Typenschild. Haben auch alle soweit richtig erkannt. 
+
+Dann geht es weiter. Wie hoch ist die primäre Nennspannung des Trafos? Also 20, 33 oder 8. Ich sehe es hier und genau hier steht die 20. Und dann gehen wir zur nächsten Frage. 
+
+Wie hoch ist die sekundäre Nennspannung des Trafos? Genau, es ist 20, 0,4 oder 0,8 und es ist 0,8 beziehungsweise 800 Volt, die wir hier sehen. Dann geht es weiter. Sekunde, wo befindet sich... Und ich steige schnell auf den Transformator. 
+
+Der Stufenschalter. Hier oben sehe ich ihn. Jetzt klicke ich drauf. 
+
+Befindet sich der Stufenschalter in der richtigen Stellung? Und der Kollege ruft mir gerade zu, wir hatten als Sollwert wahrscheinlich 2 angegeben. Er steht auf 3. Dann ist nein eben die richtige Antwort. Hier sieht man ganz klein so ein Pfeil, dass er da auf 3 eingestellt ist. 
+
+Aber hier seht ihr das noch mal ganz gut, wie so ein Stufenschalter aussieht. Ist hier mitten auf dem Trafo angebracht. Weiter geht es. 
+
+Ist die Drehmomentmessstelle auf der Niederspannungseite markiert? Uff, da muss ich jetzt schnell hier raus. Hier geht es um die Drehmomente. Sind die Kabel markiert? Es geht hier um diese Schrauben und hier sieht man ja, dass die Schrauben abgestrichen sind. 
+
+Also da hat jemand dann mit einem Drehmomentschlüssel das fixiert und dann eben markiert, sodass man jetzt prüfen kann, dass es sich auch nicht gelöst hat. Weiter geht es. Das ist Niederspannung und hier ist die Mittelspannung mit den Konusanschlüssen hier.

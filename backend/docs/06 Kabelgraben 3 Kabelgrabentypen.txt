@@ -1,0 +1,212 @@
+(0:00:00 - 0:00:22)
+Da hoffe ich, dass noch alle dabei bleiben. Danach gibt es eine Pause. Aber jetzt sage ich mal, diese Norm, die wir vorher definiert haben, diese theoretischen Frostschutzgeschichten und mechanischen Schutzthemen, die versuchen wir jetzt mal hier in den typischen Kabelgraben-Typen, die wir so kennen, unterzubringen oder abzubilden.
+
+(0:00:22 - 0:00:40)
+Und machen das jetzt erstmal an einer dezentralen Photovoltaikanlage, also mit Mittelspannungskabel, mit Niederspannungskabel und mit Stringkabel. Und würden jetzt auch hier die einzelnen Kabeltypen oder Kabelgraben-Typen uns rauspicken. Und natürlich gibt es dann später auch Mischungen davon, das ist ganz klar.
+
+(0:00:40 - 0:01:13)
+Aber erstmal starten wir mal mit einem typischen Mittelspannungskabelgraben, wie der bei uns aussehen würde. Und ich sage es gerne nochmal, wenn jemand das für sich anders definieren möchte in seinem Park, weil er sagt, er hätte gerne mehr Abstand zwischen irgendetwas oder der Boden ist so beschaffen, dass er das anders definieren würde, dann kann man das natürlich machen. Ich würde empfehlen, nicht zu sehr abzuweichen und zumindest das, was wir in Kapitel 1 genannt haben, an Schutzthematiken im Auge und im Kopf zu haben.
+
+(0:01:14 - 0:01:46)
+Aber dann kann man das natürlich vor allem im Park intern machen und andere Tiefen wählen. Das, was wir jetzt zeigen, ist erstmal unsere Variante, die wir so kennen, die wir auch oft angewendet haben, die auch funktioniert und ich glaube, die auch so ein bisschen allgemeine Regeln der Technik entspricht. Also wir würden erstmal starten bei so einem Mittelspannungsgraben, den machen wir erstmal einen Meter tief und jetzt mal 70 Zentimeter breit, ohne schon mal definiert zu haben, was jetzt eigentlich hier reinkommt.
+
+(0:01:46 - 0:02:13)
+Das folgt jetzt, wir würden jetzt den Graben von unten nach oben auffüllen und dann wird wahrscheinlich klar, warum wir den so tief gewählt haben und so breit gewählt haben. Also als erstes purzelt da so ein kleiner gelber Fleck rein, das ist erstmal die Erdung. In unseren Mittelspannungskabelgräben haben wir meistens eine Erdung verlegt und die wird parallel zu den Mittelspannungsleitungen geführt und verbindet meistens die Trafo-Station.
+
+(0:02:13 - 0:02:51)
+Das Ganze ist natürlich abhängig von eurem Erdungskonzept und wenn ihr diese Erdung unten reinlegt in den Graben, macht das erstmal Sinn oder macht das mehr Sinn als im Sandbett, weil da liegt der vielleicht im Lehm in der gewachsenen Erde und hat dann eine bessere Erdfühligkeit. Das heißt, die Erdverbindung dieses Drahtes ist dann einfach besser, als wenn im trockenen Sand so ein Draht liegt, der ist dann sehr isolierend. Also legen wir den erstmal unten rein und sind damit erstmal ganz glücklich und haben den Querschnitt und die Notwendigkeit hoffentlich aus unserem Erdungskonzept abgelesen.
+
+(0:02:51 - 0:03:14)
+Das ist ein ganz anderes Thema, aber vom Grundsatz her würde es hier zur Anwendung kommen. Wenn das dann erstmal geschafft ist, dann würden wir ein wenig Sand unten einfüllen als mechanischen Schutz. Also wir packen 10 cm Sand rein, dann kann man danach das Kabel auf unter 80 cm legen.
+
+(0:03:14 - 0:03:41)
+Das ist jetzt hier mal unsere Definition für Mittelspannungskabel. Das kommt ein Stück weit aus der 0276-1000 glaube ich, wo die Verlegetiefen für diese Mittelspannungskabel eben zwischen 70 und 1,20 m definiert sind. Und deshalb sagen wir, gehen wir damit nicht auf 60, sondern eher auf 80, dann sind wir in dem Rahmen dieser Norm und haben auch eine gewisse Trennung zwischen anderen Kabeltypen, die dann später kommen.
+
+(0:03:43 - 0:03:58)
+Also hier ist erstmal das Leerrohr drin, das legen wir mittig rein. Da kommt das LWL später rein. Das LWL könnte man auch direkt ins Sandbett legen, zumindest ist das bei den Kabeltypen, die wir meistens auswählen, möglich.
+
+(0:03:58 - 0:04:09)
+Das ist ein bisschen, kann jeder für sich so ein bisschen selbst entscheiden. Wir haben schon beides gemacht, wir haben schon direkt ins Sandbett gelegt. Wenn man dann irgendwann einen Fehler drauf hat, ist das natürlich doof.
+
+(0:04:09 - 0:04:27)
+Im Leerrohr kann man das Kabel relativ leicht tauschen, dafür ist es vielleicht ein bisschen kostengünstiger. Entscheidet das selbst von Anlage zu Anlage, von Baustelle zu Baustelle. Hier im Leerrohr kann man dann, wenn es erstmal liegt, nach Fertigstellung des Grabens das LWL dann einblasen.
+
+(0:04:28 - 0:04:43)
+Das ist auch eine ganz einfache, anerkannte Weise, Kabel einzuziehen. Also ist beides möglich. So, jetzt kommt das Mittelspannungskabel erstmal daneben.
+
+(0:04:43 - 0:05:01)
+Wir haben erstmal nur einen Leiter reingeworfen, einfach um euch jetzt mal zu erklären, dass ein Mittelspannungskabelsystem nicht aus einem Leiter besteht, sondern in der Regel aus drei Leitern. Und ganz, ganz wichtig, diese drei Leiter werden im Dreieck verlegt. Jetzt kommen gleich nochmal die anderen beiden Kabel dazu.
+
+(0:05:02 - 0:05:15)
+Jetzt sieht man hier das Dreieck. Ich muss noch einmal zurück, da war noch ein Punkt. Genau, die DIN VDE 0276, die gibt uns eben diese Tiefe, diese Verlegetiefe für das Mittelspannungskabel ein Stück weit vor.
+
+(0:05:16 - 0:05:36)
+Es ist keine Vorgabe, aber die Rahmenbedingungen sind hier erfüllt. Jetzt haben wir die drei Kabelsysteme drin und legen jetzt eben ein zweites Mittelspannungskabelsystem rein, weil wir zum Beispiel mehrere Trafostationen anschließen. Mehrere Systeme kommen aus einem Umspannwerk in einen Park, dann können das zwei Systeme sein oder drei Systeme.
+
+(0:05:37 - 0:05:58)
+Diese Systeme haben dann einen gewissen Abstand zueinander. Das kommt aus eurer Kabelberechnung, also je größer der Abstand hier zwischen den Kabeln, desto größer muss natürlich am Ende euer Kabelgraben sein. Hier ist ganz üblich 25 cm Abstand zwischen diesen Systemen, zwischen diesen Bündeln.
+
+(0:05:58 - 0:06:14)
+Das kommt eben aus einer dieser Normen für Kabeldimensionierung, Mittelspannung. Und dann haben wir noch definiert 10 cm Abstand rechts und links von dem Mittelspannungskabel zu dem Grabenrand. Und schon ist der Graben, der mal 70 cm breit war, auch voll.
+
+(0:06:16 - 0:06:43)
+Wir füllen jetzt im Grunde genommen die Räume zwischen den Mittelspannungskabeln auf und auch über dem Mittelspannungskabel 10 cm Sand, damit unser Mittelspannungssystem auch von oben geschützt ist und schön eingebettet liegt in weichem, feinkörnigen Sand. Die Korngruppe 0,2 könnt ihr schon mal im Hinterkopf haben für spätere Fragen. Danach nehmen wir das ehemalige Aushubmaterial.
+
+(0:06:43 - 0:07:05)
+Das liegt in der Regel neben dem Kabelgraben. Der Bagger gräbt den Graben aus und legt den Sand einfach zur Seite. Jetzt kann man dieses Aushubmaterial einfach wieder reinwerfen, den Graben wieder verfüllen und dann ab einer gewissen Tiefe, also bei 35 cm ungefähr, kommt dann nochmal eine Lage Warnband mit rein.
+
+(0:07:06 - 0:07:26)
+Das ist eben ein dünnes, gelbes Plastikband, was man dort drauflegen kann, was einfach signalisieren soll, dass etwas tiefer gleich die gefährlichen Kabel liegen. Und zwar gefährlich natürlich für den Baggerfahrer und für den Mann mit der Schaufel. Jetzt wird der Rest aufgefüllt bis, ich sag mal, oben hin.
+
+(0:07:27 - 0:07:53)
+Der Graben ist jetzt voll und wenn es richtig gut gelaufen ist, dann wird auch der Mutterboden nochmal separat gelagert und dann später wieder eben auf den Graben aufgetragen, sodass das auch wieder schön bewachsen kann, so wie es vorher war. Das ist vielleicht gerade in unserer nachhaltigen, regenerativen Welt eine sinnvolle Geschichte. Jetzt würde ich sagen, haben wir hier den Mittelspannungskabelgraben erstmal sinnhaft dimensioniert.
+
+(0:07:53 - 0:08:14)
+So ist unser Vorschlag und wenn ihr da andere Vorschläge habt, freuen wir uns gerne über Rückmeldungen im Chat. Aber solange da nichts anderes kommt, ist das jetzt eben die Variante, die ihr bauen dürft. Wir gehen weiter zu dem nächsten Kabelgraben und das ist hier unser Niederspannungskabel.
+
+(0:08:16 - 0:08:32)
+Und da haben wir euch jetzt auch erstmal einen Rahmen vorgegeben. Wir haben jetzt eine größere Baggerschaufel genommen, einen Meter breit haben wir gebuddelt und 80 Zentimeter tief. Auch hier gleiche Herangehensweise, wir füllen den Graben jetzt wieder von unten auf.
+
+(0:08:32 - 0:08:59)
+Auch hier haben wir jetzt erstmal eine Erdung reingelegt, weil wenn man sich jetzt die Freifläche als Gesamtsystem anschaut, macht das schon Sinn, in den AC-Kabelgräben die Erdung mitzuführen, um eben die Tischreihen nach und nach Stück für Stück mit anzubinden. Hier ist der Graben vorhanden, hier braucht man dann für die Erdung keine zusätzlichen Leistungen arbeiten, Erdarbeiten durchführen. Also rein damit, mitführen, an allen Modultischen hochführen und die Füße mit anbinden.
+
+(0:08:59 - 0:09:21)
+So findet ihr es dann wahrscheinlich auch im Erdungskonzept. Dann darauf der feine Sand wieder 0,24 und dann kommt unterhalb von 60 Zentimeter erstmal ein Kommunikationskabel. Wir empfehlen da ein geschirmtes Kabel, aber das ist denke ich keine Überraschung für die meisten, das ist der übliche Standard.
+
+(0:09:22 - 0:09:57)
+Und versucht Abstand zu halten zwischen den Leistungskabeln, weil da natürlich durch die magnetischen Felder sonst Einflüsse auf diese Kommunikationskabel passieren können und eventuell die Kommunikation gestört wird. Daneben haben wir 7 Zentimeter Abstand hier zum Rand gelassen, das sollte aus unserer Sicht reichen, hier gibt es keine klare Vorgabe, aber 7 ist okay, besser sind 10 würde ich sagen. Und dann liegen diese Kommunikationskabel geschützt von der Außenwand.
+
+(0:09:57 - 0:10:27)
+Daneben, also so würde ich auch die Reihenfolge einhalten, legen wir dann das LWL-Kabel. Das heißt, das kann ruhig näher an unsere Leistungskabel, weil das eben nur eine Lichtübertragung ist und von magnetischen Einflüssen der Leistungskabel unabhängig. Das kann man so machen, hier mal ohne Leerrohr, also einfach in das Sandbett und dann kommt hier eine ganze Reihe von Niederspannungskabeln dazu, also 1, 2, 3, 4, 5, 6 sehe ich glaube ich, 6 Niederspannungskabel, die hier nebeneinander liegen.
+
+(0:10:27 - 0:10:51)
+Ich würde denken, dass dieser Niederspannungskabelgraben jetzt vielleicht ein Teil des Kabelgraben ist vor den Trafo-Stationen, weil da sammeln sich gerade bei unseren großen Anlagen mittlerweile viele, viele Kabelsysteme. 6 ist da denke ich mal noch vertretbar wenig, das werden auch deutlich mehr. Und diese Kabel haben einen Abstand, auch wieder gemäß Kabelberechnung.
+
+(0:10:52 - 0:11:12)
+Hier sind es jetzt zum Beispiel 7 cm, werden dann schön säuberlich aufgelegt. Alle Biegeradien überall sind sie mit 7 cm Abstand und werden dann mit Sand überdeckt bis 50 cm. Dann kommt der Mutterboden rein, wie vorhin bei dem Mittelspannungskabel, ein Warnband bei 35 cm.
+
+(0:11:12 - 0:11:50)
+Hier nehmen wir nicht eins, weil natürlich würde ein Warnband nicht die gesamte breite Kabelschläche überdecken, sondern hier nehmen wir dann drei, damit der Bagger an fast jeder Stelle, die er da abbaggern will, auch ein Warnband erwischt und nicht erst das Kabel. Dann füllen wir den Graben auf und zum Schluss dann wieder die fruchtbare Erdschicht obendrauf. Und dann noch der Hinweis, man kann diese Gräben natürlich auch schmaler bauen, indem man dann die Kabel auf zwei Ebenen verlegt.
+
+(0:11:50 - 0:12:04)
+Also man könnte jetzt drei unten und drei 7 cm darüber verlegen. Dann hätte man eben zwei Schichten, hätte dann aber auch eine gewisse tiefere oder einen etwas tieferen Graben. Das muss man dann für sich immer projektspezifisch bewerten.
+
+(0:12:05 - 0:12:26)
+Oft ist es so, dass man gar nicht so viel Platz auf den Anlagen hat, dass 1 m breite Gräben dann doch ein Hindernis sind. Dann geht man eher tiefer und verlegt in zwei Ebenen. Kann man machen, ich würde aber auch den Hinweis geben, stimmt das ab, weil ihr geht da immer schnell in so eine gewisse Grauzone, was jetzt die Kabelberechnung später betrifft.
+
+(0:12:26 - 0:13:08)
+Ich würde sagen, so eine in zwei Ebenen Verlegung ist nicht so ganz klar definiert in der Norm, aber aus unserer Sicht würde ich sagen, rein physikalisch erst mal vertretbar. Den Niederspannungskabelgraben, den gibt es natürlich auch an anderen Stellen des Parks deutlich kleiner. Hier mal mit zwei Kabelsystemen und dann haben wir jetzt mal hier eine 40 cm Breite ausgewählt und wollen hier vor allem auch erst mal den Hinweis geben, dass es nicht so wirklich viel Sinn macht, kleiner als 40 cm breite Gräben auszuschreiben, weil eure Tiefbaufirma euch dann schon wahrscheinlich erklären wird, dass man in einem 10 oder 20 cm breiten Graben ja auch nicht arbeiten kann.
+
+(0:13:08 - 0:13:19)
+Das ist dann nicht mehr sinnvoll, den Kabelgraben kleiner zu machen. Also meine Schuhe sind, glaube ich, gute 30 cm lang. Das heißt, ich könnte mich dann da gar nicht mehr so richtig drin bewegen.
+
+(0:13:19 - 0:13:34)
+Ich könnte mich nicht drehen in einem 30 cm breiten Graben, deshalb ist 40 schon sinnvoll. Und ich glaube, nicht zuletzt gibt es wahrscheinlich auch keine 10, 20 cm breiten Baggerschaufeln. Das heißt, das ist einfach eine Limitierung an irgendeiner Stelle, ungefähr 40 cm.
+
+(0:13:35 - 0:13:50)
+Und das sollte dann auch so euer Limit sein für den schmalsten Graben, den ihr da auswählt. Jetzt legen wir hier nochmal eine Straße oben drüber, über diesen Kabelgraben. In Realität macht man es dann eher mit anderen Verfahren, Spülbohrungen usw.
+
+(0:13:51 - 0:14:09)
+Aber möglicherweise kann man ja auch mal eine Straße durchfräsen und später die Asphaltdecke wieder draufziehen. Dann sähe das hier so aus und wir würden dann empfehlen, erstmal das LWL ins Schutzrohr zu legen und dann auch die Niederspannungskabel ins Schutzrohr zu ziehen. Das ist dann der mechanische Schutz auf 60 cm Tiefe.
+
+(0:14:10 - 0:14:21)
+Ihr könnt auch tiefer gehen, auf 80 cm, so wie wir es vorher in der Norm gesehen haben. Aber ihr hättet dann euer Kabel erstmal geschützt. Und bewertet bitte für euch, was für eine Straße ihr oben tatsächlich habt.
+
+(0:14:21 - 0:14:53)
+Ist das jetzt ein kleiner Feldweg, wo ab und zu mal ein Auto herfährt oder wo regelmäßig die schweren Landmaschinen drüber fahren? Das sind natürlich Unterschiede, die ihr dann bewerten solltet, bewerten müsst und dann vielleicht auch entscheidet, das Kabel zusätzlich tiefer zu legen. Der Abstand ist dann hier nochmal aus der Kabelberechnung gewählt, 7 cm. Achtung, in Kabelberechnungen mit Leerrohr oder mit Schutzrohr zu arbeiten, hat immer einen recht großen Einfluss auf die Strombelastbarkeit, also für uns negativ, das sollte man im Kopf behalten.
+
+(0:14:55 - 0:15:16)
+Aber das ist jetzt hier vielleicht nicht das Thema, sondern Schutzrohr ist jetzt hier, sage ich mal, unablässig. Man muss es nehmen, um eben das Kabel zu schützen. Wir füllen den Graben auf mit Sand, dann wieder mit Aushubmaterial, dann mit einem Warnband, so wie wir es eben kennengelernt haben und dann wird auch der Rest nochmal mit dem Aushubmaterial verfüllt, ehe dann die Asphaltdecke geschlossen wird.
+
+(0:15:20 - 0:15:28)
+Jetzt haben wir den Niederspannungskabelgraben. Jetzt geht es nochmal weiter zum Stringkabelgraben. Da haben wir ein paar andere Kriterien vielleicht zu beachten.
+
+(0:15:29 - 0:15:43)
+Wir nehmen erstmal wieder unsere schmale Grabenvariante, weil Stringkabeln, wenn man einfach nicht viel Platz benötigen. Und auch hier hätten wir jetzt mal ein Erdungsdraht drin. Kann sein, dass wir den auch oft hier im Stringgraben nicht brauchen.
+
+(0:15:43 - 0:16:10)
+Wir haben ihn mal mit aufgenommen, damit es einfach komplett ist. Der Sand kommt rein und jetzt kommen die Stringkabel hier rein auf ungefähr 60 cm Tiefe mit dem Kommunikationskabel und vielleicht dem LWL-Kabel und könnten jetzt unser Stringkabel sowohl im Sand, aber auch im Leerrohr verlegen. Das, finde ich, ist vor allem eine Abstimmung mit der Bauleitung.
+
+(0:16:10 - 0:16:30)
+Wenn jetzt der Bauleiter sagt, ja, ich mache erstmal Leerrohre rein, die Stringkabel ziehe ich dann später da durch, das gefällt mir dann besser, ist das halt so, dann machen wir das so. Wenn der Bauleiter jetzt aber sagt, ach, wir können ja jetzt schon das Kabel in ein schönes Sandbett legen, Graben zu, dann ist das erledigt. Dann ist das erstmal für uns auch gut, können wir auch machen.
+
+(0:16:30 - 0:16:44)
+Ich habe da ehrlich gesagt gar nicht solche Präferenzen. Im Sand gefällt es mir dann vielleicht doch ein Stück weit besser. Und genau, hier haben wir es jetzt ins Sandbett gelegt.
+
+(0:16:44 - 0:16:59)
+Also ist das halt bei uns und wir bündeln hier Plus und Minus. Das kommt einfach bei den Stringkabeln daher, dass die Norm das so vorgibt. Wir sollen nicht Plus und Minus parallel berührend verlegen, sondern mit einem gewissen Abstand.
+
+(0:16:59 - 0:17:27)
+Wir dürfen aber auch den Abstand nicht zu groß machen, damit wir die Felder nicht zu groß aufspannen. Deshalb machen wir das in der Regel so, dass wir Bündel bilden mit Plus und ein Bündel mit Minus, so wie es hier in orange und blau dargestellt ist und haben dann da einen kleinen Abstand dazwischen, sodass die sich nicht berühren, damit im Kurzschlussfall zwischen diesen beiden Phasen im Grunde genommen der Lichtbogen nicht entstehen kann und das Kabel nicht unterirdisch wegbrennt. Das ist hier die Idee.
+
+(0:17:29 - 0:17:45)
+Sieben Zentimeter haben wir jetzt als Abstand gewählt. Das ist, denke ich, durchaus ausreichend. Wir haben ungefähr 1000 Volt zwischen diesem System oder 1500 Volt und dann sollten sieben Zentimeter Abstand schon passen, damit der Lichtbogen nicht entsteht.
+
+(0:17:46 - 0:18:05)
+Wir füllen auf mit Sand, wir füllen auf mit Butterboden, wir füllen auch wieder auf mit Warnband und machen dann den Graben voll und oben wieder den Mutterboden drauf. Das war unser dezentrales System. Ich denke, das ist für alle erst mal greifbar und machen jetzt aber noch mal eine zusätzliche Variante.
+
+(0:18:05 - 0:18:25)
+Und zwar gibt es häufig auch die Thematik, dass wir Niederspannungs- und Mittelspannungskabel gleichzeitig haben und dann vielleicht auch noch in einer Art Kreuzung. Und dann, Achtung, überschreite ich hier die 1,25 Meter mit meinem Kabelgraben. Guckt, ob das wirklich notwendig ist.
+
+(0:18:25 - 0:18:38)
+Schaut vielleicht, ob nicht auch 1,25 Meter reichen. Wir haben jetzt absichtlich mal 1,30 Meter ausgewählt, um euch zu sensibilisieren, dass das ja doch mal schnell erreicht werden kann. Also Erdung rein, jetzt füllen wir mal auf mit Aushubmaterial.
+
+(0:18:39 - 0:18:50)
+Das ist eigentlich gar nicht notwendig, also würde auch ein 1,25 Meter Graben reichen. Und dann hätte man diese Problematik mit 1,25 und Abwäschung oben gar nicht. Also dann müsste man es nicht berücksichtigen.
+
+(0:18:50 - 0:19:04)
+Hier hätten wir es berücksichtigen müssen, also seid da einfach ein bisschen aufmerksam, wenn es in solche Tiefen geht. Jetzt kommt Sand rein. Jetzt kommt LWL rein im Schutzrohr.
+
+(0:19:04 - 0:19:18)
+Jetzt kommt ein Mittelspannungskabelsystem rein mit einem gewissen Abstand und auf einer Tiefe 1,02 Meter. Und jetzt muss ich tatsächlich überlegen, wie diese Tiefe zustande kommt. Das kann man sich aber auch rausmessen.
+
+(0:19:18 - 0:19:34)
+Ich werde es einfach mal sagen, wie wir es gedacht haben. Und dann könnt ihr das vielleicht später nochmal selbst nachvollziehen. Weil jetzt kommt ein Warnband drüber und jetzt kommt hier in einer gewissen Höhe eben eine Kreuzung von zwei Niederspannungssystemen übereinander.
+
+(0:19:34 - 0:19:48)
+Da haben wir es extra nochmal komplizierter gemacht. Wir hätten auch ein System nehmen können, jetzt sind es gleich zwei. Und dann ist dieses untere Niederspannungskabelsystem wahrscheinlich ungefähr 25 Zentimeter oberhalb von dem Mittelspannungskabelsystem.
+
+(0:19:49 - 0:19:55)
+Und diese Systeme kreuzen sich nun mal. Das ist hier das, was wir zeigen wollten. Und dann kommt man schnell zu tiefen Gräben.
+
+(0:19:56 - 0:20:06)
+Einfach, wenn man Abstand zwischen diesem System halten möchte. Was wir erstmal empfehlen. Und was man dann eben einhalten sollte.
+
+(0:20:07 - 0:20:16)
+Wir füllen den Graben jetzt auf. Dann kommt wieder ein Warnband drüber und Mutterboden. Und zum Schluss füllen wir den Graben, wie bekannt, oben auf.
+
+(0:20:17 - 0:20:28)
+Und dann ist hier der Graben fertig mit einer sehr großen, großen Tiefe. Aber das kann eben auch passieren. Jetzt sind wir aber noch nicht am Ende.
+
+(0:20:29 - 0:20:39)
+Wir wollten euch ein System nicht vorenthalten. Und zwar ist das dann natürlich nochmal der DC-Hauptgraben. Ich beeile mich ein bisschen, weil wir ein bisschen aus der Zeit laufen.
+
+(0:20:40 - 0:20:50)
+Aber wir haben eben auch zentrale Wechselrichtersysteme und haben dann eben DC-Hauptgräben. Und die sehen nochmal ein Stückchen anders aus. Ich gehe hier mal schnell durch.
+
+(0:20:50 - 0:20:55)
+80 Zentimeter tief. Erdungsdraht rein. Wenn nötig Sand rein.
+
+(0:20:55 - 0:21:06)
+Und jetzt kommen eben nach dem Kommunikationskabel die DC-Hauptkabel. Hier haben wir sie mal so angeordnet. Sie liegen jetzt nebeneinander.
+
+(0:21:07 - 0:21:14)
+Sie liegen mit einem gewissen Abstand. 7 Zentimeter sind es jetzt hier, glaube ich. Und in unserem System ist es so, dass wir sie nicht bündeln, wie bei den Stringkabeln.
+
+(0:21:14 - 0:21:28)
+Sondern dass wir, ich sage mal, für DC-Sammelbox 1 ein Plus- und Minuskabel mit Abstand verlegen. Und dann für die Sammelbox 2 das Gleiche eben auch so machen. Also ein Paar liegt immer nebeneinander mit Abstand.
+
+(0:21:29 - 0:21:38)
+Das ist einfach für die Kabelführung einfacher. Und der Abstand im Falle eines Kurzschlusses ist dann ja gegeben. Deshalb müssen wir es nicht zusätzlich nochmal bündeln.
+
+(0:21:39 - 0:21:48)
+So würde es bei uns aussehen. Wir füllen das mit Sand auf. Das ist jetzt, denke ich, das Übliche, was wir aus den Gräben vorher schon kannten.
+
+(0:21:50 - 0:21:54)
+Ich mache den Graben voll. Und dann werden wir jetzt auch hier durch. DC-Hauptgraben.
+
+(0:21:55 - 0:22:04)
+Und zum Schluss nochmal für euch eine Übersicht. Wenn ihr jetzt gefragt werdet, ja, wie tief machen wir denn das oder das Kabel? Finde ich, ist diese Übersicht nochmal ganz hilfreich. Da könnt ihr reinschauen.
+
+(0:22:05 - 0:22:10)
+Mittelspannungskabel 80 oder tiefer. Und die anderen Kabel so unter 60 Zentimeter.

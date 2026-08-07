@@ -1,0 +1,74 @@
+(0:00:00 - 0:00:24)
+Das ist die Übersicht nochmal und jetzt geht's los mit der Frage des Warum. Warum machen wir das? Warum brauchen wir überhaupt Regeln für das Verhalten der Erzeugungsanlage am Netz? Ja, wir haben mittlerweile viele, viele Erzeugungsanlagen und wenn die sich nicht an Regeln halten, dann wird das sicherlich nicht nur in Deutschland, sondern europaweit oder irgendwann weltweit auch zum Problem. Deutschland ist da der Vorreiter.
+
+(0:00:25 - 0:00:41)
+Wir haben da tolle Regeln erstellt mittlerweile und die haben wir eben, damit wir Netzstabilität in Deutschland und dann auch, wir hängen zusammen mit allen und dann sicherlich auch europaweit irgendwo erreichen können. Netzstabilität erreicht man eben über zwei Pfade. Das seht ihr gleich.
+
+(0:00:41 - 0:01:06)
+Der erste Pfad wäre jetzt erstmal die Spannungshaltung und die Spannungshaltung, die funktioniert eben, indem unsere Anlagen Blindleistung zur Verfügung stellen müssen oder Blindleistung beziehen müssen. So würde ich das jetzt, auch wenn es vielleicht physikalisch, technisch nicht ganz korrekt ist, erstmal bezeichnen. Also wir stellen Blindleistung bereit oder entnehmen Blindleistung aus dem Netz, induktiv oder kapazitiv, übererregt oder untererregt.
+
+(0:01:06 - 0:01:21)
+Das sind dann die Begriffe, die vielleicht eher zutreffen. Aber Blindleistung, das sollt ihr nochmal mitnehmen. Das ist eben der wichtige Punkt für die Spannungshaltung und wir haben auf der anderen Seite dann die Frequenzhaltung und die Frequenzhaltung.
+
+(0:01:21 - 0:02:02)
+Das funktioniert dann eher durch die Wirkleistung, die wir ins Netz einspeisen, beziehungsweise brauchen wir ein Gleichgewicht zwischen der Erzeugung durch unsere Erneuerbaren, durch unsere Kohlekraftwerke, was auch immer im Netz ist und eben auf der anderen Seite den Verbrauchern, die eben diesen Strom abnehmen, diese Energie abnehmen. Wenn wir jetzt eben mehr Verbrauch haben als Erzeugung, dann würde die Frequenz sinken. Wenn wir mehr erzeugen als verbrauchen, dann würde die Frequenz ansteigen und dann kann man hier eben eingreifen in unser Stromnetz und die Frequenz dann möglichst eben auf 50,0 Hertz halten.
+
+(0:02:03 - 0:02:30)
+Wir nehmen diese beiden Wagen mal mit, einfach nur, dass ihr es im Gedächtnis habt, das ist eben ein ständiger, dauerhafter Regelungsprozess. Man muss das immer in der Waage halten, im Grunde das Netz, sowohl die Blindleistung als auch die Wirkleistung, damit sowohl die Spannung als auch die Frequenz immer auf dem Sollwert oder auf dem Nennenwert sich verhalten. Unter Spannungshaltung verstehen wir jetzt erstmal wiederum zwei Pfade.
+
+(0:02:30 - 0:02:40)
+Der erste Pfad ist die Betriebsregelung. Das ist ein eher langsamer Prozess. Betriebsregelung heißt im Grunde genommen, der Netzbetreiber sieht.
+
+(0:02:40 - 0:03:08)
+Das Netz, da geht die Spannung vielleicht ein bisschen hoch. Wir müssen hier mal langsam eingreifen, dann kann der Netzbetreiber entscheiden über die Leitwarte, wir brauchen mehr oder weniger Blindleistung und das ist ein Prozess, der passiert vielleicht in Sekunden, vielleicht auch in Minuten und das ist für uns aber aus elektrotechnischer Sicht, aus Regelungstechnischer Sicht erstmal ein langsamer Prozess, der da passiert. Wir nennen das dann eben auch statisch und so nennt es auch die Norm.
+
+(0:03:08 - 0:03:16)
+Und für statisch haben wir eben ein stehendes Persönchen da. Natürlich ist es nicht ganz stehend, es bewegt sich schon. Dieser Prozess ist schon ein bewegender Prozess.
+
+(0:03:16 - 0:03:47)
+Er muss natürlich ablaufen, aber eben verhältnismäßig langsam. Also das ist, wenn wir uns jetzt den nächsten Pfad anschauen, nämlich den Netzfehler, der dann eben schnell abläuft, ist eben die statische Spannungshaltung langsam und das, was im Netzfehler passieren muss, das ist dann einfach viel, viel schneller. Weil wir haben da ein Netzfehler, einen Kurzschluss und dann haben wir eben nicht viel Zeit, dann darf nicht irgendjemand in der Leitwarte langsam entscheiden, wir brauchen das oder wir brauchen das oder wir haben da einen langsamen Algorithmus hinter.
+
+(0:03:48 - 0:04:08)
+Sondern wenn ein Netzfehler eintritt, dann müssen wir innerhalb von wenigen Millisekunden reagieren, damit wir eben die Netzspannung halten. Greift schon ein bisschen vor, da kommen wir später nochmal im Detail dazu, wie es funktioniert, aber das sind dann wirklich dynamische, wirklich schnelle Vorgänge. Auf der Frequenzseite haben wir im Prinzip die gleichen Anforderungen.
+
+(0:04:09 - 0:04:33)
+Wir haben Betriebsregelungen, die dann eher langsam funktionieren. Da schaut man sich mal an, wieso der der Wetterbericht für morgen ist, das ist man schon mal vorgewarnt, haben wir viel Erzeugung oder wenig? Dann schaut man sich vielleicht noch an, wie viel Verbrauch haben wir denn? Und dann wird man auch irgendwann feststellen, ja, das hat schon Auswirkungen auf die Frequenz. Und da reden wir dann aber nicht von von einem Hertz oder von 0,5 Hertz, sondern von Millihertz.
+
+(0:04:33 - 0:04:52)
+Wenn die Frequenz sich um Millihertz bewegt, dann fängt dieses langsame Netzsicherheitsmanagement mal an einzugreifen und zu regeln. Und das sind dann auch verhältnismäßig immer im Verhältnis zu sehen relativ langsame Vorgänge. Und auf der anderen Seite haben wir dann eben hier auch die Netzfehler.
+
+(0:04:52 - 0:05:18)
+Und da haben wir dann auch schnelle, jetzt müsst ihr mal aus dem Bild gehen, schnelle Vorgänge, die da vor sich gehen. Und das sind dann eben hier auch die dynamischen, dynamischen, schnellen Vorgänge, also die Wirkleistungsanpassung nennen wir das hier. Ihr habt jetzt vier Symbole, zwei grüne stehende Männer für die langsamen Prozesse und zwei laufende Männer, jeweils unterschiedliche Farben.
+
+(0:05:18 - 0:05:49)
+Grün ist für die Spannungshaltung, dieses cyanfarbene wahrscheinlich für die Frequenzhaltung, jeweils schnell langsam. Die verfolgen uns nachher, die nehmen wir mit, damit wir immer so ein bisschen Orientierung im Laufe der Präsentation haben und uns dann nicht verlieren in den tiefen Verzweigungen der Norm. Hier sind sie wieder, genau diese Vorgänge, die Geschwindigkeiten haben wir jetzt schon mal mitgenommen und wir bauen euch jetzt eine Tabelle auf und die wird am Ende des Brain Days gefüllt sein.
+
+(0:05:50 - 0:06:08)
+Es gibt dann zusätzlich zu den Geschwindigkeiten verschiedene Varianten, wie man einregeln, wie man da eingreifen kann, regeln kann. Dann gibt es einen Reiter, wo man diese Einstellung vorzunehmen hat, zum Beispiel Wechselrichter oder Parkregler. Also man kann es an verschiedenen Stellen einstellen und von wem dann am Ende ein Befehl ausgelöst wird.
+
+(0:06:09 - 0:06:33)
+Also ob das automatisch passiert oder ob das aus der Leitwarte passiert oder ob das vielleicht von euch passiert. Diese Tabelle füllt sich, jetzt ist es erstmal ein großes Fragezeichen für uns im Laufe des Brain Days, seid ihr dann schlauer und könnt diese drei mal vier Fragen im Grunde beantworten. Also Parkregelungskonzept, das steht nochmal hier im Hintergrund, hinter uns im Grunde genommen.
+
+(0:06:34 - 0:06:42)
+Wir wollen am Ende ja ein Parkregelkonzept mal erstellen können. Wir wollen dann auch wirklich sagen können, welche Prozesse in unserem Parkregler ablaufen. Wir wollen das verstehen.
+
+(0:06:42 - 0:07:09)
+Wir wollen die Hintergründe verstehen und dafür ist das, was wir heute machen, wirklich so eine Art Urschleim, wirklich die theoretische Grundlage, was muss ein Parkregler können, was müssen Wechselrichter können. Und wenn wir dann noch Komponentenzertifikate haben von den einzelnen Komponenten, die nachweisen, dass sie das können, dann kriegen wir ein Anlagenzertifikat nach der 4110. Das ist natürlich die ganz große Anforderung vor der Inbetriebnahme.
+
+(0:07:09 - 0:07:43)
+Und zum Schluss auch wichtig zu wissen, prüfen wir diese dynamischen Regelungsprozesse und machen einen Parkregler-Test und der ist dann eben nochmal ausschlaggebend oder wichtig für die Konformitätserklärung, damit wir ganz zum Schluss den Pokal in der Hand halten und eine unbeschränkte Betriebserlaubnis für unsere Anlage bekommen. Also der Park läuft, der Netzbetreiber kann eingreifen in die Prozesse, kann den Park regeln. Der Park macht das dann zusätzlich automatisch bei Netzfehlern und wir können dann davon ausgehen, dass wir am Ende ein stabiles Netz haben.
+
+(0:07:45 - 0:07:57)
+4110, das war ja am Anfang schon der große Aufhänger. Die schauen wir uns an, unsere Bibel würde ich sagen. Wir schauen uns aber nicht die ganze 4110 an, nein natürlich nicht.
+
+(0:07:57 - 0:08:06)
+Wir schauen uns hier das Kapitel 10 an. Bei dem Kapitel 10 geht es um Erzeugungsanlagen. Das ist also ein Kapitel von 12 plus Anhänge.
+
+(0:08:07 - 0:08:31)
+Wir gehen in dieses Kapitel rein und naja, in dem Kapitel gibt es nochmal Unterkapitel, könnt ihr mal reinschauen. Also es geht hier in dem Kapitel 10.2, was wir uns später anschauen, wirklich um das Verhalten der Erzeugungsanlage am Netz. Es geht hier aber auch in anderen Kapiteln, die heute nicht Teil des Braindays sind, sondern in anderen Braindays nochmal mehr im Detail beleuchtet werden, um Schutzeinstellungen, um Zuschaltbedingungen, Synchronisation und so weiter.
+
+(0:08:31 - 0:08:58)
+Wir machen heute 10.2, nehmen den Punkt mit und das hat immer noch genug Futter, um hier locker diesen Brainday mit Inhalt zu füllen. Wir haben da die wichtigsten Punkte aus unserer Sicht rausgefiltert und halten uns aber trotzdem an der Struktur dieses Kapitels allgemein. Statische Spannungshaltung und das sind auch die gleichen Kapitel, wie wir eben zu Beginn in unserer Übersicht gesehen habt.
+
+(0:08:58 - 0:09:27)
+Dann gibt es eben als nächsten Punkt die dynamische Netzstützung, die Eiken seht ihr wieder, also das Grün ist eben für die Blindleistungsbereitstellung und jetzt kommen nochmal die cyanfarbenen, das ist dann eher für die Wirkleistungsbereitstellung und zum Schluss haben wir dann nochmal den Kurzschlussstrombeitrag der Erzeugungsanlage. Diese Kapitel gehen wir heute durch und dann, wie gesagt, habt ihr das Handwerkszeug, um fast ein Zertifizierer zu sein.

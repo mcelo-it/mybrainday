@@ -1,0 +1,123 @@
+(0:00:00 - 0:00:13)
+Und jetzt kommen wir als nächstes zu unserer 360-Grad-Tour. Wir gehen mal auf meinen Bildschirm. Ich habe die 360-Grad-Tour schon bei mir geöffnet.
+
+(0:00:14 - 0:00:21)
+Ihr habt den Link nicht bekommen. Das ist absichtlich so, weil ich würde euch jetzt einfach mal durchführen. Das machen wir jetzt ein paar Minuten, vielleicht zehn Minuten.
+
+(0:00:22 - 0:00:42)
+Und dann habt ihr zumindest alle, die noch kein Umspannwerk gesehen haben, erst mal eins gesehen und könnt euch da ein bisschen was darunter vorstellen. Ja gut, meine Maus hat schon mal sich verabschiedet, aber das kriegen wir auch so hin. Also wir stehen erst mal vor einem Umspannwerk.
+
+(0:00:42 - 0:00:46)
+Das Tor ist geöffnet. Das ist erst mal hervorragend. Wir können das gleich betreten.
+
+(0:00:46 - 0:00:56)
+Wir gucken uns aber erst mal um. Mit wem sind wir denn hier überhaupt da? Und wo ist das Umspannwerk? Hier im Hintergrund seht ihr eine Freileitung. Die braucht man natürlich immer, um so ein Umspannwerk anzuschließen.
+
+(0:00:57 - 0:01:06)
+Und hinter uns ist auch schon der Solarpark. Das heißt, wir haben hier erst mal einen guten Standort gefunden. Wir haben kurze Kabelstrecken von unserem Solarpark Richtung Umspannwerk.
+
+(0:01:06 - 0:01:26)
+Das scheinen ja vielleicht 100 Meter zu sein. Das ist dann also erst mal von der Lage, vom Netzanschlusspunkt her sehr gut. Dadurch, dass wir das hier online machen, können wir auf Arbeitsschuhe und persönliche Schutzausrüstung natürlich verzichten und können das Umspannwerk ohne Sicherheitseinweisung einfach mal betreten.
+
+(0:01:27 - 0:01:49)
+Also alle, die vielleicht noch nie was mit Elektrotechnik zu tun haben, brauchen jetzt keine Angst haben. Wir betreten das Umspannwerk und sehen auf unserer rechten Seite, da schauen wir jetzt automatisch hin, erst mal ein Schalthaus. Und wenn wir jetzt auf der Niederspannungs- oder auf der Mittelspannungsseite beginnen würden, dann würden wir hier dieses Schalthaus betreten.
+
+(0:01:49 - 0:01:56)
+Das würde ich jetzt mal so machen. Ich gucke noch einmal nach links rüber. Hier sehen wir Transformatoren und dahinter eben die Hochspannungsschaltanlage.
+
+(0:01:57 - 0:02:11)
+Aber wie versprochen, gehe ich jetzt erst mal den Weg Richtung Schalthaus. So ist es dann auch für die meisten Leute, die sich hier aufhalten gedacht. Man geht jetzt erst mal hier hinten an diese Stelle.
+
+(0:02:11 - 0:02:26)
+Hier haben wir Eigenbedarfstransformatoren, das heißt erst mal dieses Umspannwerk beziehungsweise diese zwei Umspannwerke. Ich gehe noch mal einen Schritt zurück, dann können wir noch mal schauen, dass wir da auch zwei Transformatoren haben. Das ist das, wovon ich vorhin mal sprach.
+
+(0:02:26 - 0:02:42)
+Hier sind wirklich zwei getrennte Trafos, zwei Hochspannungstrafos. Und wenn wir dann nachher weitergehen zur Freileitung, sehen wir auch, dass es zwei Hochspannungsanschlüsse gibt. Das heißt, es sind hier tatsächlich auf einem Grundstück zwei getrennte Umspannwerke und deshalb haben wir auch zwei Eigenbedarfstransformatoren.
+
+(0:02:42 - 0:02:49)
+Hier kann man auch mal reinschauen, hier kann man die Tür aufmachen. Da ist dann der Trafo. Dann kann man sich das Typenschild anschauen, wenn man möchte.
+
+(0:02:49 - 0:03:06)
+So ist das grundsätzlich vom Aufbau unserer Tour gedacht. Das werde ich jetzt nicht bei jeder Komponente machen, weil ihr das später in der zweiten, in der ersten Übung dann auch selbst noch mal machen sollt, rumlaufen sollt, euch Komponenten anschauen sollt und so weiter. Ich führe euch jetzt erst mal grundsätzlich nur rum.
+
+(0:03:06 - 0:03:24)
+Hier ist jetzt der 30 kV Schaltraum. Hier kann man reingehen, man kann die Tür aufmachen und steht dann hier vor der Mittelspannungsschaltanlage und man hat dann hier verschiedene Leistungsschalterfelder. Hier geht ein Feld zum PV-Park, zur Trafo-Station 4. Hier ist noch ein Reservefeld.
+
+(0:03:24 - 0:03:40)
+Hier geht es zum Eigenbedarf und hier geht es dann zu dem Hochspannungstransformator. So, dann gibt es hier in so einem Raum natürlich noch die entsprechenden Erdungsgeschiere. Es gibt einen Spannungsprüfer und so weiter.
+
+(0:03:41 - 0:03:56)
+Das ist ja alles da. Hier auf der anderen Seite gibt es die gleiche Schaltanlage, dann noch mal gespiegelt im Grunde genommen für den anderen Hochspannungstrafo. Also auch da geht ein Feld zu dem Eigenbedarfstrafo, ein Reservefeld, ein Feld in den Park und das hintere Feld.
+
+(0:03:56 - 0:04:12)
+Ich gehe mal näher ran, damit ich es besser sehen kann. Das hintere Feld ist dann eben für den Block A Trafo 101, 101, 102. So werden dann üblicherweise die Hochspannungstransformatoren beschriftet, beschrieben, die wir dann nachher hinter uns im Feld sehen.
+
+(0:04:14 - 0:04:33)
+So, dann gehe ich mal raus. Diesen Teil würde ich sagen, kennen ja viele vielleicht von oder diese Mittelspannungsschaltanlagen kennen ja viele vielleicht nicht in der Größe, aber vom Design, vom Aussehen, von der Handhabung schon aus der Mittelspannung. Wir gucken uns jetzt mal hier mehr die Hochspannung an.
+
+(0:04:33 - 0:04:46)
+Und da, Sekunde, schaue ich mir erst mal den Transformator an. Das ist der Trafo, der ist hier, hat hier Ventilatoren dran. Das ist dann dieses Thema O-Nan, O-Naf.
+
+(0:04:46 - 0:05:03)
+Also entweder ist er natürlich belüftet oder oder das F steht am Ende für Forstkühlung, also unterstützte Kühlung durch Ventilatoren. Das heißt, es wird Luft durch die Rippen des Trafos geblasen, damit er dann am Ende mehr Leistung aufnehmen kann. Hier sind mehrere Typenschilder, kann man sich dann im Detail anschauen.
+
+(0:05:03 - 0:05:18)
+Man kann hier auch nochmal auf diese Ölwanne steigen. Ja, also da unter dem Trafo, das ist dann nochmal nochmal ein Hohlraum. Da würde unter mir sich wahrscheinlich das Öl sammeln, durch diese Löcher laufen können, falls der Transformator mal ausläuft.
+
+(0:05:19 - 0:05:27)
+Hier haben wir einen Stufenschalter am Trafo. Das ist dieses Gerät hier. Und hier ist dann nochmal ein Anschlusskasten, wo man dann die gesamte Sekundärverdrahtung des Trafos hat.
+
+(0:05:28 - 0:05:35)
+Der misst dann ja in der Regel intern nochmal Temperatur. Der hat nochmal Stromwandler dran. Der hat vielleicht ein Öllevel und so weiter.
+
+(0:05:35 - 0:05:51)
+All das wird dann da in diesem Sekundärschaltschrank gesammelt und kann dann eben verdrahtet werden und zum Beispiel in unserem Monitoring-System überwacht werden. Hier haben wir noch einen Bauteil stehen. Das ist die NOSPE, niederohmige Sternpunkterdung.
+
+(0:05:51 - 0:06:09)
+Das ist ein sehr einfacher ohmscher Widerstand, der dafür sorgt, dass im Erdfehler unsere Erdfehlerströme, unsere Erdfehlerkutschelströme limitiert bleiben. So, jetzt gehen wir hier mal in das Hochspannungsfeld. Achtung, Achtung! Hier wären jetzt normalerweise überall 100.000 Volt.
+
+(0:06:10 - 0:06:32)
+Hier sieht man noch die Mittelspannungskabel vom Trafo runterlaufen. Die laufen dann hier runter ins Erdreich und führen dann zu dem Gebäude, in dem wir eben waren. Und das obere hier, das sind eben die Leiterseile, die 110 kV Leiterseile, die dann über die einzelnen Schaltgeräte hier bis am Ende über das Portal, was wir hier sehen, an die Freileitung angeschlossen werden.
+
+(0:06:32 - 0:06:48)
+Hier haben wir dann so einen Ein-Ebenen-Mast. Zwei Seiten sind jeweils, also auf der linken und auf der rechten Seite von dem Mast, ist dann eben ein System, ein dreiphasiges System, so ist es ja immer angeschlossen, und dann eben oben an die Freileitung angeschlossen. Ich gehe mal einen Schritt vor, damit man es vielleicht ein bisschen besser sieht.
+
+(0:06:54 - 0:07:00)
+Muss ich mich nochmal umdrehen. Hätte ich mich besser in die andere Richtung gedreht. Hier sieht man es ein bisschen besser.
+
+(0:07:00 - 0:07:27)
+Also die einzelnen Seile werden dann hier oben angebunden an die Seile der bestehenden Freileitungstrasse. So, jetzt gehen wir nochmal ein bisschen näher zu dem Trafo und bewegen uns dann unter diese Schaltgeräte, dass ihr es mal gesehen habt. Wir haben jetzt hier, jetzt stehen wir direkt hinter dem Trafo und haben hier vor uns die Mittelspannungskabel, also ich glaube 31,5 kV hatte ich eben gelesen.
+
+(0:07:27 - 0:07:39)
+Die werden oben am Trafo angeschlossen. Jetzt kann man hier auch hochschauen und oben sieht man jetzt über uns die 110 kV Leitung. Das sind dann eben blanke Leiter, die haben keine Isolierung drum.
+
+(0:07:39 - 0:08:10)
+Wenn man da anfasst, dann ist das natürlich gleich lebensgefährlich. Hier dieser große Mast, das ist der Blitzschutzmast, eben gemäß der Beschreibung in der Norm, die wir vorher hatten, ist da eben auch vorgesehen. Und jetzt kann man hier sich diese einzelnen Schaltgeräte, die man hier sieht, anschauen. 
+
+Man kann hier weiter drunter durchlaufen. Man kann dann auch hier immer auf diese einzelnen Lupen klicken und sich dann die Typenschilder, die Datenblätter anschauen. Hier hat man zum Beispiel einen Trenner.
+
+(0:08:10 - 0:08:43)
+Da würde man sich das im Detail, was auf dem Typenschild steht, nochmal ansehen können. Den Trenner, den beschreiben wir nachher im Aufbau nochmal ein bisschen detaillierter, dass ihr dann seht, was auf dem Typenschild vielleicht draufsteht und wieder funktioniert. Unten an diesen Komponenten sind dann meistens so kleine Anschlusskisten, weil jedes Gerät, jeder Trenner kann natürlich ferngesteuert werden. 
+
+Kontakte können abgegriffen werden, dass dann eben die Sekundärverdrahtung sich dann meist hier unten befindet. Und hier geht es dann eben, haben wir noch die Beschriftung und wo es dann eben später hingeht. Wir stehen jetzt, glaube ich, direkt unter dem Portal.
+
+(0:08:44 - 0:09:07)
+Hier oben sieht man dann, dass der Anschluss an die Traverse hinten eben über so Isolatoren an dem Portal passiert. Und dann geht das hier so runter. Ja, ist ein bisschen. 
+
+Ich gucke mal lieber wieder runter, bevor den ersten übel wird. Dann würde ich mal zurücklaufen. Ich kann euch noch einmal eine Neuerung zeigen.
+
+(0:09:07 - 0:09:21)
+Wir haben uns jetzt am Portal befunden, das war hier. Und ich würde jetzt mit euch nochmal zurückspringen, weil hier außen an dem Schalthaus, da gibt es dann nochmal eine Tür. Ich muss jetzt nicht den ganzen Weg laufen.
+
+(0:09:21 - 0:10:11)
+Ich klicke einfach mal auf diesen Pfeil und komme jetzt außen an das Umspannwerk. Das war jetzt eine Abkürzung, die ich genommen habe und stehe jetzt hier vor einem Zählerraum. Das ist das Thema Zugänglichkeiten, was ich vorher schon mal kurz beschrieben habe. 
+
+Es gibt dann eben Räume, die eben von von mehreren Leuten betreten werden dürfen, die beispielsweise jetzt nicht Firmen mit der 110 KV oder mit der 31,5 KV sind, sondern die sich eben eher um Parkregler, Zähler und so weiter kümmern. Die würden dann Schlüssel hier für diesen Raum bekommen und dürften diesen Raum dann betreten und müssen hier auch nicht Angst haben, dass hier irgendwie große Spannungen anliegen, sondern hier kann man sich den Zähler eben angucken beziehungsweise für Umspannwerk 1 und Umspannwerk 2 gibt es jeweils zwei Zähler. Das ist diese Redundanz, von der wir gesprochen hatten.
+
+(0:10:11 - 0:10:50)
+Die kann man sich hier anschauen, auslesen. Was für Zähler sind das? Und dann kann man sich hier nochmal ein bisschen im Kreis drehen. Das hier sind jetzt Parkregler, Schränke und auch hier wieder für Block A und für Block B jeweils ein Parkregler, die dann hier installiert werden, so dass die Leute, die eben mit Parkreglern zu tun haben, sich diese Parkregler anschauen können. 
+
+So, das ist es erst mal gewesen. Ich denke, jetzt haben alle erst mal einen ganz guten Eindruck bekommen, wie so ein Umspannwerk live aussieht. Nachher bekommt ihr diesen Link und dann lauft ihr nochmal selbst durch.
+
+(0:10:50 - 0:11:15)
+Das heißt, wenn ihr dann noch Fragen habt, wenn ihr noch einzelne Themen nochmal euch im Detail anschauen wollt, springt in den Übersichtsplan, springt hier zu den einzelnen Komponenten, schaut euch gerne dann die Typenschilder an und dann, glaube ich, hat jeder erst mal ein sehr gutes Gefühl, wie so ein Umspannwerk funktioniert. So, dann gehen wir wieder zurück in die PPT.

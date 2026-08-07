@@ -1,0 +1,182 @@
+(0:00:00 - 0:00:10)
+Und jetzt müssen wir, freuen wir uns auf das Thema Normen. Es ist ein bisschen trocken, wie immer. Aber wir haben euch drei Normen erstmal rausgesucht.
+
+(0:00:10 - 0:00:18)
+Das ist erstmal wichtig zu sagen, finde ich. Wobei nur die erste wirklich eine Norm ist. Das zweite, was dann später kommt, ist eine Anwenderrichtlinie.
+
+(0:00:19 - 0:00:44)
+Und das dritte wäre dann die technischen Anschlussbedingungen. Dass wir da einmal einen Überblick gewinnen, was es so gibt, was da überhaupt drin steht. Oder vor allem, wenn euch mal jemand fragt später, wie geht das, wo kann ich das nachschlagen, dass ihr dann gleich sagen könnt, ja Leute, ich war im Brainday-Umspannwerk und da haben sie gesagt, in der DIN EN IEC 619361 beziehungsweise in der VDE 1011, da steht es drin.
+
+(0:00:45 - 0:00:59)
+Und was da drin steht, das erklären wir euch jetzt im Detail. Also diese Norm ist erstmal für Anlagen über 1 kV beziehungsweise DC über 1,5 kV. Das ist erstmal nicht so weit weg von dem, was wir so im Alltag machen in der Niederspannung.
+
+(0:00:59 - 0:01:13)
+Aber alles, was jetzt über 1 kV kommt, betrifft eben auch 110 kV-Anlagen, 220 kV-Anlagen. Also das ist jetzt ein sehr, sehr großer Spannungsbereich, der erstmal von dieser Norm abgedeckt wird. Ihr braucht jetzt nicht suchen, ob es noch eine Norm gibt, größer 110, das ist erstmal nicht so.
+
+(0:01:13 - 0:01:22)
+Diese Norm erschlägt jetzt alles, was größer ist als 1 kV AC. Also es geht los in dieser Norm. Es geht erstmal um elektrische Anforderungen.
+
+(0:01:22 - 0:01:43)
+Die werden erstmal definiert und die Norm erklärt erstmal, welche Anforderungen es gibt, welche Sternpunktbehandlungen es gibt. Sternpunktbehandlung ist ein Thema für sich. Aber was darf man machen? Wie darf ich den Sternpunkt des Netzbetreibers behandeln? Wie darf ich unseren Sternpunkt behandeln? Und es beschreibt auch im Grunde genommen die Grundsätze, was technisch dahinter steht.
+
+(0:01:45 - 0:02:00)
+Spannungsfestigkeiten werden beschrieben. Welche Spannungsfestigkeiten sind gefordert? Also es heißt, 110 kV Netzanschluss will ich haben, dann muss die Spannungsfestigkeit meiner Komponenten erstmal größer sein. Wie groß, das steht genau in dieser Norm und das kann man sich da errechnen und ermitteln.
+
+(0:02:01 - 0:02:54)
+Kurzschlussfestigkeiten, auch das wird gegeben, wird beschrieben, wird erstmal vorgegeben, was Kurzschlussfestigkeiten sind, welche Komponenten welche Kurzschlussfestigkeiten haben müssen, damit eben im Falle eines Kurzschlusses unsere Umspannwerke die großen Kurzschlussströme, die dort auftreten, die Kräfte, die dort auftreten, handeln können und es dann eben nicht zu größeren Schäden kommt, sondern dass Schaltgeräte die Kurzschlüsse abschalten, bevor es eben zu brennenden Explosionen usw. kommt. Betriebsmittel werden beschrieben und da haben wir euch hier nochmal ein paar aufgeführt, die eben beschrieben und definiert werden, auch technische Hintergründe erläutert werden, das sind Transformatoren, das sind Kondensatoren oder eben Kompensationsanlagen, die wir dann ja auch häufig mal in unseren Parks sehen, damit wir eben die Blindleistung zur Verfügung stellen können.
+
+(0:02:54 - 0:03:40)
+Es sind Messwandler, die beschrieben werden, Strom- und Spannungswandler, es sind Überspannungsableiter, all das findet sich in dieser Norm wieder und wenn man da Fragen dazu hat, was für Messwandler muss man denn verwenden, dann kann man sich erstmal hier in dieser Norm erstmal einen Ansatz holen und nachlesen, was es da so gibt. Mechanische Anforderungen, wichtiger Punkt, weil, das sehen wir auch später in unseren 3D-Modellen, es gibt hier erstmal unheimlich große Kräfte, die dort gebändigt werden müssen. Wenn wir an so eine Freileitung anschließen, dann spannen wir da Leiterseile, das sind Zugkräfte, die dort herrschen, die kann man natürlich per Hand nicht mehr einfach so halten, diese Seile, die werden gespannt und das wird hier definiert und Berechnungsvorschläge erstmal an die Hand gegeben.
+
+(0:03:40 - 0:04:37)
+Wind- und Schneelasten spielen eine Rolle, weil meistens stehen unsere Schaltfelder, unsere Hochspannungsschaltfelder draußen, das heißt sie stehen im Schnee, sie stehen im Wind, sie müssen eben dieses Wetter abkönnen und dann eben Kurzschlusskräfte, wie es eben auch schon kurz beschrieben wurde, wenn Kurzschluss auftritt, gibt es große, große Kräfte, mechanische Kräfte, weil große Magnetfelder entstehen und das sorgt dann dafür, dass wenn Komponenten nicht ausreichend dimensioniert sind, sich eben Sammelschienen verbiegen würden, Komponenten verbiegen würden oder eben einfach kaputt gehen. Deshalb müssen eben Kurzschlusskräfte berücksichtigt und berechnet werden. Klimatische Bedingungen natürlich ein wichtiger Punkt, ein Umspannwerk in Skandinavien muss sicherlich andere klimatische Bedingungen aushalten als ein Umspannwerk in Südeuropa oder was auch häufig eine Rolle spielt, ist eben die Höhe der Installation, weil die Luftmassen eben anders sind als in der Tiefebene.
+
+(0:04:37 - 0:04:55)
+Das sind klimatische Bedingungen, die hier gegriffen werden. Nächster Punkt, Isolation Mindestabstände. Alle, die mal durch so ein Umspannwerk, die das mal gesehen haben oder unter einer Freileitung hergefahren sind, die haben sich vielleicht gefragt, warum die jetzt so hoch ist oder anders hoch sein müsste.
+
+(0:04:56 - 0:05:22)
+Das steht genau hier drin. Also es sind dann immer Isolatoren aufgebaut auf Stahlkonstruktionen, die eine gewisse Höhe haben, sodass zum Beispiel ein LKW unter diesen Freileitungen zum Beispiel durchfahren kann, ohne dass dort eben etwas passiert. Da ist mit diesem T eben genau dieser Mindestabstand angegeben von den Fahrzeugen, von den Personen, die sich dort befinden, bis zu diesem Leiterseil.
+
+(0:05:22 - 0:05:38)
+Also das ist hier definiert. Je größer die Spannung, desto größer eben der Abstand, damit es dann nicht zu einem Überschlag kommt, falls da einfach mal ein LKW drunter durchfährt. Dann gibt es eben noch den Nachweis der Spannungsfestigkeit.
+
+(0:05:38 - 0:05:55)
+Da geht es dann eher um die Komponenten, die man da eben definieren muss. Hier seht ihr es eingefärbt, die Isolatoren, die ich gerade schon angesprochen hatte, die müssen eben eine Spannungsfestigkeit aufweisen. Zum Beispiel in der 110 kV brauchen die eine Spannungsfestigkeit und das findet ihr in der Norm.
+
+(0:05:57 - 0:06:11)
+Blitzschutz, ein wichtiges und immer kontrovers diskutiertes Thema. Umso schöner finde ich, dass das hier in dieser Norm auch einmal besprochen wird oder angesprochen wird. Und zwar gibt es da auch genau diese Zeichnung, die wir hier jetzt dargestellt haben.
+
+(0:06:12 - 0:06:31)
+Das ist das Blitzkugelverfahren. Viele kennen das, das wendet man auch bei Dachanlagen, bei Freiflächenanlagen gegebenenfalls an, meistens bei Dachanlagen. Man nimmt eine Blitzkugel, rollt die über die Blitzfangstangen und muss dann eben sehen, dass diese Kugel nicht die Komponenten unter dieser Linie, die wir dort sehen, berührt.
+
+(0:06:31 - 0:06:49)
+Und das ist dann eben ein Verfahren, was so in der Norm dargestellt wird, worauf man sich dann relativ einfach einigen kann und sich auf diese Norm berufen kann. Wir wissen also sofort, was wir nach der DIN EN IEC 61936 tun müssen. Brandschutz, auch das wird hier thematisiert.
+
+(0:06:49 - 0:06:58)
+Also ihr merkt schon, diese Norm, das ist kein Dreiseiter, das sind, glaube ich, 120 Seiten. Thema Brandschutz wird auch besprochen. Abstände zu Trafos, ganz wichtig.
+
+(0:06:58 - 0:07:15)
+Häufig haben wir Umspannwerke, wo mehrere Trafos drinstehen und dann darf man die nicht direkt benachbart zueinander aufstellen, sondern es gibt dann eben Abstände. Und wenn eben nicht genug Fläche vorhanden ist, dann zeigt uns diese Norm auch, wie man das machen kann mit einer Brandwand. Die haben wir hier mal reingezoomt.
+
+(0:07:15 - 0:07:31)
+Das ist der eingefärbte Bereich. Dann kann man eben diese beiden Trafos näher aneinanderstellen. Für den Fall, dass der eine havariert und Feuer fängt und anfängt zu brennen, ist der Nachbartrafo dann weiterhin vor dem Feuer geschützt, sodass man eben die Abstände reduzieren kann.
+
+(0:07:31 - 0:07:47)
+In Industrieanlagen wird sowas, denke ich, häufiger eingesetzt. Bei unseren Freiflächenanlagen, wo wir erstmal pauschal vielleicht relativ viel Platz haben für so ein Umspannwerk, da ist das dann nicht unbedingt notwendig. Da kann man dann einfach mehr Abstand halten und kann auf diese Brandwand verzichten.
+
+(0:07:49 - 0:08:03)
+Ölwanne, wichtiges Thema. Das sehen wir auch häufig in den Genehmigungsverfahren schon, dass die Genehmigungsbehörden Wert darauf legen, dass diese Ölauffangwannen schon nachgewiesen werden. Wir haben sie mal eingefärbt, da umrandet.
+
+(0:08:04 - 0:08:20)
+Das ist dann die Auffangwanne, hat dann natürlich auch eine gewisse Tiefe und muss eben das gesamte Öl von dem Trafo auffangen können. Das wird hier in der Norm definiert. Und wenn mal jemand fragt, wie groß muss denn meine Wanne sein, dann guckt in diese Norm, da steht das zumindest erst mal aufgeschrieben.
+
+(0:08:23 - 0:08:33)
+Schutzsysteme gibt es einen ganzen Brainday für, UMZ, NA-Schutz und so weiter. Auch die werden hier aufgeführt und erklärt. Gehen wir jetzt heute nicht weiter darauf ein, machen wir ein anderes Mal.
+
+(0:08:34 - 0:08:53)
+Erdungsanlage, auch das hatten wir schon mal, für den Solarpack zumindest, für das Umspannwerk gibt es natürlich auch eine Erdungsanlage. Und auch hier machen wir einen kurzen Haken dran, gehen dann weiter, Berührungsspannungen werden definiert und die Auslegung der Erdungsanlagen. Jetzt haben wir den ersten Teil, die Norm.
+
+(0:08:53 - 0:09:02)
+Ich habe versprochen, die einzige Norm heute durch. Jetzt kommt eine Anwenderrichtlinie. Das ist natürlich sehr ähnlich zu einer Norm, die 4120.
+
+(0:09:02 - 0:09:14)
+Aber eben auch die 4120, die gibt uns dann eben viel, viel an die Hand. Die meisten kennen diese Norm oder die 4110 kennen wahrscheinlich schon alle. Die 4120 ist das Pendant für die Mittelspannung.
+
+(0:09:15 - 0:09:31)
+Also es geht hier um den Netzanschluss von Kundenanlagen an das Hochspannungsnetz. Und in dieser Norm wird erst mal der Anschlussprozess definiert. Also wie schließe ich überhaupt eine Anlage an? Das fängt an mit dem Einspeiseantrag.
+
+(0:09:31 - 0:09:48)
+Da gibt es dann die E-Bögen, für manche, die das schon kennen, bis zur Inbetriebnahme. Das begleitet einen. Und das ist dann eben nicht nur die E-Bögen, die man hat und das Papier, was man einreichen muss, sondern eben auch eine Terminkette, die dahinter steht, die dann auch wirklich definiert ist.
+
+(0:09:49 - 0:10:11)
+Und das beantwortet dann die kritische Projektleiterfrage meistens sehr, sehr schnell. Ja, wie lange dauert das denn jetzt noch? Also wenn diese Frage fällt, kann man immer sehr einfach in diese 4120 reinschauen oder 4110, je nach Spannungsebene und kann dann eben dem Projektleiter sagen, ja, in der Norm steht es erst mal so. Und wir können jetzt natürlich versuchen, das irgendwie zu beschleunigen durch nette Gespräche mit Netzbetreibern.
+
+(0:10:12 - 0:10:27)
+Aber es gibt erst mal einen definierten Zeitrahmen für diesen gesamten Anschlussprozess. Dann gibt es einen baulichen Teil der Übergabestation. Und Achtung, hier spricht die 4120 von Übergabestation.
+
+(0:10:27 - 0:10:40)
+Wir sprechen von Umspannwerk. Das Umspannwerk ist natürlich auch eine Übergabestation, weil es eben den Netzanschlusspunkt definiert. Aber Umspannwerk gleich Übergabestation.
+
+(0:10:40 - 0:10:54)
+So würde ich es jetzt mal definieren und im Folgenden immer über Umspannwerke reden und nicht über Übergabestation. Also die Lage wird erst mal definiert. Und hier steht es auch so in der Norm, möglichst nahe an der Freileitung müssen wir unser Umspannwerk positionieren.
+
+(0:10:55 - 0:11:17)
+Und es wird eben auch definiert, wie so eine Zufahrt gestaltet sein muss, beziehungsweise dass eine Zufahrt vorhanden sein muss, dauerhaft befahrbar. Zugang und Türen, Klimabeanspruchungen, Lüftung, Kabellegung, alle solche Themen werden im baulichen Teil der 4120 definiert. Also schaut auch gerne mal da rein, lest euch das durch.
+
+(0:11:18 - 0:11:31)
+Da ist viel Information drin, die ihr für eure Projekte in jedem Fall gebrauchen könnt. Elektrischer Teil, das ist dann ja das, worauf wir uns immer ein bisschen mehr fokussieren können oder wollen. Da geht es auch um Bemessungsspannung.
+
+(0:11:31 - 0:11:46)
+Da geht es um den Aufbau der Schaltanlagen. Es sind wirklich schematisch dargestellt, wie man an so eine Freileitung anschließen kann. Wo sind Leistungsschalter? Wo sind Lasttrennschalter? Wo sind vielleicht auch Eigentumsgrenzen? Dann geht es um die Trafokurzschlussimpedanz.
+
+(0:11:46 - 0:12:17)
+Also ein Transformator darf eine minimale Kurzschlussimpedanz haben und die ist 40 Ohm. Das hat einfach den Hintergrund, dass der Netzbetreiber sich über diese 40 Ohm eine gewisse Sicherheit für sein Netz auch reinholt, weil dieser Trafo jetzt eben den Widerstand erst mal darstellt zwischen Hochspannungsnetz und PV-Anlage. Das heißt, wenn wir einen Kurzschluss in der PV-Anlage haben, dann wird er nicht mit 100% ins Hochspannungsnetz durchschlagen, sondern dieser Trafo dämpft das alles erst mal ein bisschen um eben mit diesen ungefähr 40 Ohm.
+
+(0:12:17 - 0:12:40)
+Deshalb ist das erst mal ein Grenzwert, auf den man sich da geeinigt hat. Findet sich später im Kapitel THB auch nochmal wieder. Am Ende ist es dann so, dass die Transformatoren häufig in der Größe ein Stück weit limitiert werden und man dann eben meistens ab einer gewissen Trafogröße einen zweiten verwenden muss, damit eben diese minimale Impedanz von 40 Ohm eingehalten wird.
+
+(0:12:41 - 0:12:46)
+Schutztechnik wird definiert. Das kennen wir. Das wird dann ja auch für die Anlagenzertifizierung immer abgefragt.
+
+(0:12:48 - 0:12:59)
+Hilfsenergieversorgung, auch das wichtiges Thema, in der Zertifizierung, das müssen wir nachweisen. Und eine Erdungsanlage, auch die wird hier nochmal definiert. Das sind die Punkte aus dem elektrischen Teil.
+
+(0:13:00 - 0:13:22)
+Abrechnungsmessung, Zählerplatz muss vorhanden sein. Wo muss der Zählerplatz vorhanden sein? Wie sieht er aus? Was für eine Messeinrichtung kommt da rein? Was für Wandler sollen für die Zählung eingesetzt werden? Und braucht man vielleicht eine oder zwei Zählungen? Solche Punkte könnt ihr hier in der 4120 nachlesen. Der Betrieb, wichtiger Punkt auch.
+
+(0:13:22 - 0:13:58)
+Das ist für mich als Planer natürlich zu berücksichtigen, auch wenn es mich dann in der Errichtungsphase vielleicht noch nicht so richtig betrifft. Aber in der Betriebsphase ist dann eben umso wichtiger. Wer darf im Umspannwerk überhaupt arbeiten? Wer kriegt überhaupt Zugang? Wer darf in welche Räume? Und auch das sehen wir später in dem Rundgang, dass es da verschiedene Räume gibt mit verschiedenen Zugänglichkeiten, sodass eben manche Leute in den Hochspannungsteil gehen können und manche eben nur in den Zählerraum zum Beispiel, der dann eben eine andere Schließung, eine andere Zugangstür hat.
+
+(0:13:59 - 0:14:11)
+Dann noch PAV und SAV. Und hier weist die Norm ganz klar darauf hin, ihr dürft euer PAV nicht überschreiten. Das wirkt erstmal sehr trivial, klar, das ist so.
+
+(0:14:11 - 0:14:20)
+Aber hier wird auch nochmal definiert, dass ihr auch wirklich dafür zuständig seid, das einzuhalten. Das war die 4120. Jetzt nochmal die TAB.
+
+(0:14:22 - 0:14:36)
+TAB ist dann die Abkürzung für technische Bedingungen für den Anschluss und den Betrieb von Kundenanlagen. Anders, hier ist es jetzt das Hochspannungsnetz. Also hier definiert der Netzbetreiber Ergänzungen zu der 4120.
+
+(0:14:36 - 0:14:57)
+Die 4120 gilt der Netzbetreiber und so machen es dann auch viele tatsächlich. Und hier in unserem Beispiel die Edis, der Netzbetreiber nimmt sich diese 4120 und orientiert sich dann auch häufig wirklich an der Struktur und ergänzt diese 4120 um das, was er für sinnvoll hält. Wir hatten eben den Anmeldeprozess in der 4120.
+
+(0:14:58 - 0:15:12)
+Hier der Netzbetreiber Edis, den ja viele kennen, der sagt jetzt der Anschlussprozess, der Anmeldeprozess, der Anschlussprozess, der läuft online bei uns. Also es ist ein Anschlussprozess, ein Anmeldeprozess definiert. Spezifiziert wird er bei der Edis.
+
+(0:15:13 - 0:15:21)
+Also ihr braucht hier nicht anrufen und anmelden, ihr braucht auch gar kein Papier einreichen. Wir machen das Ganze nur noch online. Das ist hier die Ergänzung der Edis.
+
+(0:15:21 - 0:15:29)
+Es kommen noch ein paar mehr Punkte. Also Trafoimpedanz, das hatte ich eben schon erklärt. Trafoimpedanz muss größer sein als 40 Ohm.
+
+(0:15:29 - 0:15:45)
+Und wenn man dann eine 80 Megawatt Anlage hat, dann resultiert daraus meistens, dass man zweimal 40 Megawatt Trafos errichten muss. Häufig sogar an zwei Freileitungssystemen mit zwei Parkreglern, zwei Anlagenzertifikaten, zweimal Schutztechnik. Also im Grunde genommen zwei getrennte Umspannwerke.
+
+(0:15:46 - 0:15:59)
+Aber das ist hier klar so noch mal rausgeschrieben in dieser Edis-Norm. Das ist wirklich ein kleiner Absatz, den die da auch mit diesem Beispiel eingetragen haben. Kennwerte von Betriebsmitteln, Schaltgeräten, Mess- und Schutzwandler.
+
+(0:16:00 - 0:16:13)
+Auch das ist ein wichtiger Punkt. Ein Beispiel wäre jetzt, glaube ich, die Kurzschlussfestigkeit von den Hochspannungsschaltgeräten. Das war in der Vergangenheit, glaube ich, meistens so 31,5 Kiloampere für eine Sekunde.
+
+(0:16:14 - 0:16:25)
+Viele Netzbetreiber ändern das jetzt. Jetzt gibt es eine neue TAB und dann ist das zukünftig 40 Kiloampere für eine Sekunde. Das hatten wir jetzt bei der Avacon in einem Projekt, dass das jetzt gerade im Änderungsprozess ist.
+
+(0:16:25 - 0:16:47)
+Es gibt noch eine Norm, die gültig ist mit 31,5 Kiloampere zukünftig. Und so steht es jetzt meistens schon in den Netzanschlusszusagen, gelten dann aber 40 Kiloampere für eine Sekunde. Dann müsste man darauf achten, dass man sich in solchen Fällen eben klar darauf achtet, ist es jetzt TAB oder gibt es zu der TAB vielleicht noch eine ergänzende Info in der Einspeisezusage.
+
+(0:16:49 - 0:16:55)
+Die TRAFO-Oberspannung wird definiert mit 115 kV. Ja, wir haben 110 kV Netz. 115 kV soll der TRAFO haben.
+
+(0:16:56 - 0:17:06)
+Das kann man dann so bestellen. Das ist völlig unproblematisch und bei den meisten Netzbetreibern auch so üblich. Beschreibung der Schutz- und Kommunikationsschränke findet ihr in den TABs.
+
+(0:17:06 - 0:17:21)
+Ihr findet noch Details zu der Kommunikationsanbindung, also die Fernwirkanbindung an den Netzbetreiber. Die Edis macht das über diese 101er-Schnittstelle. Da gibt es auch einen anderen Braindate, da wollen wir jetzt nicht weiter darauf eingehen, aber das ist eine der Schnittstellen, die da eben verwendet werden können.
+
+(0:17:21 - 0:17:43)
+Die Edis nimmt halt diese 101er-Variante. Abrechnungs- und Vergleichsmessung steht eben auch in der TAB. Das heißt, wenn ihr bei der Edis ein Umspannwerk errichtet, habt ihr an der 110 kV, am 110 kV-Einspeisepunkt, nicht nur eine Messung, sondern es gibt zwei Zähler, die eben redundant messen, getrennt voneinander messen.
+
+(0:17:43 - 0:17:56)
+Wenn einer ausfällt, ist noch der andere da, beziehungsweise kann man diese beiden Zähler vergleichen und ist sich dann sicher, dass sie auch beide richtig funktionieren. Die USV für 10 Stunden, das ist hier definiert. Das ist dann anders als in der 4120 beschrieben.
+
+(0:17:57 - 0:18:02)
+Und das waren jetzt erstmal die ganzen Punkte aus der TAB.

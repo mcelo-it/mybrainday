@@ -1,0 +1,38 @@
+(0:00:00 - 0:00:08)
+Hallo und herzlich willkommen zum heutigen Brainday. Heute mit dem Thema Netzbetreiberabfragebogen. Ein Meilenstein in jedem Projekt.
+
+(0:00:09 - 0:00:26)
+Wir gucken uns erst mal an, wie der Fahrplan für heute ist. Und da starten wir wie gewohnt mit der Frage Warum? Wir gehen erst mal in die Hintergründe. Wo kommt das her, der Netzbetreiberabfragebogen? Wo ist der definiert? Auch chronologisch schauen wir uns das ganz kurz an.
+
+(0:00:26 - 0:00:33)
+Wann brauche ich den denn eigentlich? Dann kann man das erst mal besser einsortieren. Ich nehme das mal vorweg. Heute Mittelspannung ist der Fokus.
+
+(0:00:33 - 0:00:49)
+Da nehmen wir uns das Beispiel raus 4110 VDE Anwendungsrichtlinie. Und da heißt er dann E9 aus dem Titel haben wir es extra rausgehalten, weil in anderen Spannungseben heißt er auch anders. Also heute Fokus Netzbetreiberabfragebogen.
+
+(0:00:49 - 0:01:15)
+Und warum brauche ich den? Und ganz wichtig finden wir auch Warum sollte ich denn überhaupt verstehen, was da genau drin steht? Dann haben wir das aufgeteilt, was da drin steht in diesem Netzbetreiberabfragebogen in fünf Kapiteln. Man findet sozusagen auch dann in den einzelnen Seiten des Netzbetreiberabfragebogens genau diese Kapitel, die ich jetzt zeige. Erst mal irgendwie Formalien.
+
+(0:01:15 - 0:01:24)
+Die schauen wir uns dann an. Da gibt es auch ein, zwei Anmerkungen, die wir dafür sehr sinnhaft halten. Ist aber ein relativ einfacher Aufgalopp zu dem, was dann da noch folgt.
+
+(0:01:25 - 0:01:37)
+Zum Beispiel die verantwortliche Anschlussleistung. Das ist ein Riesenthema. Da gibt es dann auch andere Schulungseinheiten von uns, wo man genau erfahren kann, was das ist, wie man das berechnet und warum das so große Auswirkungen hat.
+
+(0:01:37 - 0:01:49)
+Wir haben es hier ein bisschen mit reingenommen, um das nicht aus dem Kontext völlig zu verlieren. Also das ist dann schon deutlich schwieriger. Ähnlich ist es bei den Schutzeinstellungen, weil das einfach ein ganz anderer Themenkomplex ist.
+
+(0:01:49 - 0:02:04)
+Da haben wir, meine ich, fünf Schulungseinheiten, die das im Detail beleuchten, also zehn Videostunden Material. Hier ist dieses super Wissen der Elektrotechnik mal in drei Seiten schnell zusammengefasst. Wir gucken uns das trotzdem natürlich im Detail an.
+
+(0:02:05 - 0:02:22)
+Und wer dann noch mal Detailfragen hat, der muss oder darf in die anderen Schulungseinheiten blicken. Ähnlich ist es mit dem Kapitel. Das ist auch wieder rausgenommen aus einem ganz, ganz großen extra Kernthema, die spartische Spannungshaltung.
+
+(0:02:22 - 0:02:42)
+Das ist essentiell für die Stabilität unserer Netze. Also das ist nicht einfach mal hier ein 15 Minuten Kapitel, wie wir es heute machen, um zu zeigen, wie das dargestellt ist im Netzbetreiber Abfragenwohnungen, sondern die Logik dahinter ist eine ganz, ganz große. Aber die Basis, die Ermittlung der Werte, wo kann man, wie kann man starten? Das findet man hier.
+
+(0:02:44 - 0:03:14)
+Und die Basis für im Grunde alle Themen, die dann mit am Ende dem Anlagenzertifikat zusammenhängen, findet man hier. Also wenn die Zertifizierstelle ihre Netzberechnung machen will und auch wir für unsere Netzberechnung machen wollen, um die richtigen Schutzparameter zu definieren, dann brauchen wir Netzdaten, die man nur vom Netzbetreiber halten kann. Und deswegen ist das sinnhaft, die aus diesem Bogen abzufragen.
+
+(0:03:14 - 0:03:20)
+Zauben wir uns am Schluss noch mal an. Auch noch mal ein richtiges großes Kernthema der Elektrotechnik.

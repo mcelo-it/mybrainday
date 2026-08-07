@@ -1,0 +1,97 @@
+(0:00:00 - 0:00:11)
+Und gehen jetzt in das Thema Anforderungen der Zertifizierstelle. Das haben wir euch jetzt so aufgebaut, dass wir die Punkte einmal durchgehen. Ich gehe jetzt noch nicht so sehr ins Detail.
+
+(0:00:12 - 0:00:30)
+Das machen wir später noch. Wenn ihr dann die Bauteile vielleicht alle im Schema seht, dann zeigen wir dir wirklich nochmal. Jetzt bauen wir euch erstmal nur so eine Art Checkliste auf, die wir mit verschiedenen oder aus verschiedenen Anlagen Zertifizierern im Grunde genommen abgeleitet haben.
+
+(0:00:30 - 0:00:53)
+Das ist eine Summe aus unserer Erfahrung, welche Dokumente notwendig sind. Wenn ihr jetzt einen anderen Zertifizierer habt, den wir noch nicht kannten oder der einfach andere Anforderungen noch stellt, zusätzliche, dann ist das sein gutes Recht. Mit dieser Liste, die wir hier gleich fertiggestellt haben, mit der kommt ihr aber erstmal, glaube ich, sehr, sehr weit, sodass der Zertifizierer am Ende dann nicht so viel zu meckern hat.
+
+(0:00:54 - 0:01:03)
+Also wir starten mit der Übergabestation. Die Übergabestation, das ist für uns erstmal ein sehr wichtiger Punkt. Wir zeigen sie hier auch, die Übergabestation.
+
+(0:01:03 - 0:01:21)
+Sie fliegt jetzt mal nach rechts, macht ein bisschen Platz, weil links kommt jetzt die Tabelle, die Liste, was wir da im Grunde genommen brauchen. Also wir fangen an bei den Mittelspannungsschaltfeldern. Von den Mittelspannungsschaltfeldern müssen wir erstmal die richtigen Symbole auswählen und erstmal zeigen, was für Schalter überhaupt in dieser Mittelspannungsschaltanlage drin sind.
+
+(0:01:21 - 0:01:38)
+Leistungsschalter, Lastrinschalter, Erdungsschalter, verschiedene Varianten, das wird gezeigt. Und diese Schaltanlagen haben dann eben auch Nennwerte. Also es gibt ein Umax, es gibt ein Imax, es gibt ein IK, also ein Kurzschlussstrom und dann noch eine Nennfrequenz.
+
+(0:01:38 - 0:01:50)
+All das wird gezeigt, seht ihr später im Schema. Dann gibt es noch sonstige Bauteile. Hier haben wir zum Beispiel mal die kapazitiven Spannungsanzeiger gezeigt, vielleicht auch Motorantriebe, vielleicht auch Kurzschlussanzeiger.
+
+(0:01:50 - 0:02:12)
+Also Sachen, zusätzliche sonstige Bauteile, seht ihr später bei uns im Schema, dass die da mit reingehören, mit gezeigt werden. Die verschiedenen Schutzfunktionen, ein ganz wichtiger Teil der 4110, die werden dann auch im Schema gezeigt. Ist ein bisschen unauffällig, seht ihr später, aber sind meistens mit drin und hoffentlich dann auch immer richtig angegeben.
+
+(0:02:12 - 0:02:24)
+Erstmal nur als Funktion, nicht als Wert. Dafür würde man dann sicherlich noch ein Schutzschema erstellen. Aber hier erstmal unabhängiger Maximalstrom-Zeitschutz, den haben wir fast immer.
+
+(0:02:25 - 0:02:36)
+Manchmal ist es auch ein Distanzschutz, das kann auch sein bei größeren Anlagen. Aber vom Grundsatz her, den zeigen wir. Wir zeigen den übergeordneten Netz- und Anlagenschutz, also Spannung- und Frequenzschutz.
+
+(0:02:36 - 0:03:01)
+Und wir zeigen noch den Blindleistungsrichtungsunterspannungsschutz, den sogenannten QU-Schutz. Dann kommen die Strom- und Spannungswandler noch rein, weil natürlich kann in der Mittelspannung zumindest keine Schutzfunktion umgesetzt werden, ohne die richtigen Spannungswandler zu haben. Und auch der Parkregler wird ohne Strom- und Spannungswandler seine Schwierigkeiten haben, überhaupt einen Wert zu erfassen und regeln zu können.
+
+(0:03:02 - 0:03:14)
+Also wichtig hier, Übersetzungsverhältnis kommt rein. Dann die Klasse, und damit meinen wir die Genauigkeitsklasse. Was da dann im Detail hinter steckt, haben wir in dem Brain Day Strom- und Spannungswandler schon mal erklärt.
+
+(0:03:14 - 0:03:22)
+Und dann kommt noch die Bürde. Auch das anderer Brain Day. Wer dann nochmal tiefer einsteigen will, kann sich das gerne nochmal ansehen.
+
+(0:03:24 - 0:03:34)
+Dann gibt es noch die USV. Die USV hat erstmal eine Kapazität. Und die USV hat aufgrund ihrer Kapazität eine Pufferzeit.
+
+(0:03:34 - 0:03:50)
+Wir tragen meistens die Pufferzeit in das Schema mit ein. Und die Berechnung, wie wir zu der Pufferzeit kommen, Kapazität, Verbraucher, und dann kommt daraus die Pufferzeit, das berechnen wir im separaten Dokument. Also wir würden jetzt hier nur die Pufferzeit in Stunden angeben.
+
+(0:03:51 - 0:03:59)
+Dann gibt es noch Verantwortlichkeiten. Im Grunde genommen unterscheiden wir dann in Eigentumsgrenzen. Und wir unterscheiden in Verfügungsbereich.
+
+(0:04:00 - 0:04:17)
+Also wem gehört das Schaltfeld? Aber wer darf es schalten? Das ist vielleicht hier so ein bisschen der Hintergrund dieser beiden Punkte. Und das seht ihr nachher besser im Schema, wenn es mal dargestellt ist. Hier nochmal als Checkliste alle Punkte zusammengeführt für die Übergabestation.
+
+(0:04:18 - 0:04:35)
+Diese Seite, die wird sich nachher weiter füllen. Wenn wir jetzt als nächstes uns die Trafostation angeschaut haben, kommt die dazu und so weiter. Und dann habt ihr ganz am Ende eine Seite, auf der ihr im Grunde genommen alle Checkpunkte durchgehen könnt.
+
+(0:04:36 - 0:04:47)
+Und vielleicht in eurem Projektalltag das verwenden könnt. Druckt die euch aus, hängt euch am Schreibtisch und dann ist es immer vorhanden. Also jetzt gehen wir weiter zur Trafostation.
+
+(0:04:48 - 0:04:59)
+Da gibt es erstmal grundlegend Trafodaten. Klar, der Trafo hat eine Leistung, das muss rein. Der Trafo hat eine Ober- und Unterspannung, das muss rein.
+
+(0:05:00 - 0:05:23)
+Die Schaltgruppe des Trafos muss rein. Was hier im Detail dahinter steckt, auch da verweise ich jetzt auf einen anderen Brain Day, weil wir jetzt nicht den Trafo im Detail erklären können, sondern im Grunde genommen nur, welche Werte rein müssen, woher die kommen, was die bedeuten, anderer Brain Day. Kurzschlussspannung auch, wichtig für Kurzschlussströme, wichtig für Blindleistungsverhalten der Anlage.
+
+(0:05:23 - 0:05:35)
+Aber das ist ein sehr, sehr wichtiger Punkt. Zum Schluss der Stufensteller und dann die Position des Stufenstellers. Als nächstes kommen die Mittelspannungsschaltfelder.
+
+(0:05:36 - 0:05:56)
+Das ist jetzt natürlich sehr ähnlich zu der Übergabestation, weil die Schaltfelder sind dann auch schon wirklich ähnlich. Aber Hersteller geben wir an, wir geben den Typ an, genau wie in der Übergabe, Leistungsschalter, Trenn-, Lasttrennschalter oder Erdungsschalter oder eine Kombination. Die Nennwerte geben wir an und wir geben die sonstigen Bauteile an.
+
+(0:05:56 - 0:06:10)
+Das muss ich nicht wiederholen, hatten wir eben. Und wir gehen weiter zu den Schutzfunktionen. Bei der Trafostation sind die Schutzfunktionen erstmal nicht ganz so komplex, nicht so ganz aufwendig wie in der Übergabe.
+
+(0:06:10 - 0:06:19)
+Also hier wird man sicherlich keinen Distanzschutz erwarten. Hier würde man selten einen QU-Schutz erwarten. Und der Spannungs- und Frequenzschutz ist dann auf der Niederspannung.
+
+(0:06:20 - 0:06:46)
+Aber erstmal nicht hier an dem Mittelspannungsrelais, was ich gerade im Kopf habe, sondern da haben wir meistens nur einen einfachen UMZ-Schutz und den zwischengelagerten Netz- und Anlagenschutz, den hat man dann auf der Niederspannungseite. Und das ist dann eben auch ein verhältnismäßig einfacheres Relais, als das, was wir für den Übergabe, für den übergeordneten Netzentkopplungsschutz verwenden. Dann haben wir noch den Niederspannungsleistungsschalter.
+
+(0:06:47 - 0:07:10)
+Und wir haben zum Schluss noch Sicherungen oder MCCBs, nennen die sich dann auch, bei größeren Anlagen. Also die Sicherungen sollen dann NH-Trenner sein beziehungsweise die MCCBs sind sowas wie kleine Leistungsschalter, die im Prinzip jede Kabellinie zu den einzelnen Wechselrichtern absichern sollen. Dann gibt es noch die NSRV.
+
+(0:07:12 - 0:07:40)
+Für die NSRV geben wir die Nenngrößen an, welchen Strom kann sie tragen, welchen Kurzschlussstrom kann sie tragen und dann geben wir eben an die Anzahl der Wechselrichter, die Anzahl der NH-Trenner, die dort angeschlossen sind oder die Wechselrichter sind an den NH-Trennern angeschlossen und dann wäre es das auch schon gewesen für die Trafostation. Es folgen noch zwei Punkte, die genauso wichtig sind und zwar das Sonstige. Das wird hier mal so zusammengefasst.
+
+(0:07:40 - 0:08:00)
+Ihr seht hier das Symbol für den Wechselrichter und für die Module und die Wechselrichter sind sicherlich ein sehr wichtiger Bestandteil noch in unserem Anlagenschema. Gehen sie manchmal so ein Stück weit unter, hat einen Grund, gehe ich gleich darauf ein. Wir starten mit den Modulen und bei den Modulen geben wir den Typ an und die Anzahl geben wir an.
+
+(0:08:00 - 0:08:37)
+Das ist für das elektrische Verhalten der Anlage, für das Anlagenzertifikat am Ende gar nicht so entscheidend, weil da geht es eher um Wechselstromdaten. Die Module, die sind hier erstmal für die Zertifizierung zweitrangig, für uns aber als Projektbeteiligte ist das natürlich der größte Teil der Anlage und deshalb eben genauso wichtig und gehören definitiv rein in so ein Schema. Wir geben die DC-Leistung an und haben dann später, kommt später der Punkt noch im Plankopf auch noch viele weitere Angaben vom Modul, aber das machen wir später.
+
+(0:08:38 - 0:11:13)
+Der Wechselrichter kommt hinzu, Typ und Anzahl geben wir an, wird relativ knapp gehalten, wie ich das schon sagte, die AC-Leistung geben wir an und wir können das hier relativ knapp halten, weil es gibt für den Wechselrichter dann das Einheitenzertifikat und das gibt natürlich für die Zertifizierung dann viel, viel mehr Input, als wir hier in so einem kleinen Anlagenschema überhaupt darstellen könnten. Also ist das erstmal so der Kern, Typ, Anzahl und die AC-Leistung der Geräte. Jetzt kommt der Plankopf und da können wir dann nochmal ein paar Punkte ergänzen, was die Bezeichnung des Plans betrifft, also Anlagenschema wäre hier wahrscheinlich der richtige Name, dann gibt es noch eine Projektbezeichnung, meinetwegen Projekt Berlin und dann gibt es noch einen Ersteller und zum Schluss, aber eben genauso wichtig, wo häufig ein bisschen schluderig mit umgegangen wird, ist Datum und Revision, also ganz, ganz wichtig bei jeder Änderung, neues Datum, neue Revision und möglichst auch vermerken, was geändert wurde, damit man da immer mit den Plänen auf dem letzten Stand sein kann. 
+
+So, das haben wir jetzt auch zusammen und ganz zum Schluss kommen jetzt noch die Kabel mit rein, die wir jetzt hier darstellen und von den Kabeln nehmen wir dann im Grunde genommen die Kabeltypen auf, also ist es ein NA-Y-Y-O oder N-Y-C-Y-Y-Kabel und den Querschnitt der Kabel, also 150 Quadrat, 300 Quadrat, was immer ihr da ausgewählt habt, die Nennspannung geben wir noch an und ganz, ganz wichtig, die Länge in unseren Anlagenschemen, das nehme ich jetzt schon mal so ein Stückchen vorweg, versuchen wir nicht für jedes Kabel die Längen mit anzugeben, weil das dann sehr, sehr unübersichtlich wird schnell. Wir versuchen das dann meistens mit einer separaten Tabelle für die einzelnen Wechselrichterstrecken zum Beispiel die Längen anzugeben, bei Mittelspannungskabeln ist das dann auch ein bisschen einfacher, da gibt es einfach nicht so viele, aber in der Niederspannung gliedern wir das dann so ein bisschen aus dem Schema aus, machen vielleicht ein Vermerk rein. So, auch das schieben wir hier zusammen, ihr habt die Liste, was hinter mir steht, braucht ihr nicht unbedingt sehen, ihr wisst das jetzt, habt ihr gerade gehört, nehmt diese Liste mit, die ist im Handout und wenn ihr da mal rein müsst in so eine Zertifizierung oder so ein Schema erstellt und wissen wollt, ist es jetzt einigermaßen komplett, kann man das hier einfach mal schnell durchgehen und sieht dann, ob man da gut gearbeitet hat oder ob man vielleicht noch was vergessen hat.
+
+(0:11:13 - 0:11:19)
+Das hilft jedem als Gedächtnisstütze, sich selbst mal zu kontrollieren.

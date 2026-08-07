@@ -1,0 +1,107 @@
+(0:00:00 - 0:00:25)
+So, wir machen noch 5 bis 10 Minuten, sage ich jetzt mal, die 360-Grad-Tour ohne euch. Ich mache das, ich zeige es euch hinter mir und springe jetzt in meinen Rechner. Ich bin bereit.
+
+(0:00:26 - 0:00:34)
+So, hier bin ich. Ich bin sozusagen aus der Bürotür rausgelaufen und da ist unser großes Projekt. Ihr kriegt den Link jetzt nicht.
+
+(0:00:34 - 0:00:45)
+Den kriegt ihr nach der Pause und dann lauft ihr gerne 10 Minuten selbst durch die Anlage. Das machen wir jetzt noch nicht. Sondern ich zeige euch einfach ganz kurz, was wir da aufgebaut haben.
+
+(0:00:45 - 0:01:02)
+Dann könnt ihr euch leichter orientieren und vor allem kann ich da noch mal ein bisschen was dazu sagen, sodass vermeintlich alle zuhören, ohne selber schon die Schnitzeljagdlösung zu finden. Also, wer es noch nicht so oft gemacht hat, in so einem Link kann man sich umdrehen. Da kann man auch nach oben gucken und zur Seite.
+
+(0:01:02 - 0:01:08)
+Dann findet man Markierungen auf dem Boden. Man sieht hier mal einen Pfeil. Da kann man zur nächsten Station laufen.
+
+(0:01:09 - 0:01:15)
+Aber vor allem gucken wir uns jetzt hier eben erst mal diese Datenbox an. Da ist sie außen montiert. Da kann man ein bisschen näher hinlaufen.
+
+(0:01:16 - 0:01:24)
+Und wenn man dann hier so eine grüne Markierung sieht, dann kann man auch den Deckel aufmachen. Und dann kann man da mal reingucken. Wir könnten noch so ein bisschen genauer reingucken.
+
+(0:01:24 - 0:01:34)
+Das sieht jetzt ein bisschen aus wie unser 3D-Modell, gerade nur nicht ganz so ordentlich. Aber hier sieht man es auch schon. Diese Glasfaserkabel, von denen ich gesprochen habe, die gehen jetzt nach vorne.
+
+(0:01:34 - 0:01:40)
+Alles klar, Stichwort Biegeradius. Dann kann man hier auch nach oben gehen. Man sieht alle möglichen Anschlussklemmen.
+
+(0:01:41 - 0:01:59)
+Man sieht, hier unten kommen die Kabel raus. Und jetzt gehe ich einfach nur noch mal auf eine Sache jetzt in dieser Box speziell ein, bevor ich weiterlaufe, dass man hier drunter gucken kann. Und dann sieht man hier zum Beispiel, dass hier durch diese Einführung drei Kabel eingeführt worden sind.
+
+(0:01:59 - 0:02:10)
+Das würde ich so nicht machen. Ich würde jetzt rückwirkend sagen, dass der Planer eben nicht das gemacht hat, was ich am Anfang gesagt habe. Nämlich sich vorher zu überlegen, wie viele Kabel kommen denn da einfach an.
+
+(0:02:11 - 0:02:20)
+Der Monteur hat dann ja vor Ort festgestellt, er hat halt nicht genug Durchführung, weil die hier, ja, da hat er dann keine nachrüsten wollen. Hätte er ja machen können und hat die dann da durchgeführt. Würde ich so nicht machen.
+
+(0:02:20 - 0:02:37)
+Habe ich mir, wenn man so will, absichtlich auch ein kleines Negativbeispiel hier mit reingebaut. Aber was man sieht, und das ist wiederum positiv, alle Durchführungen sind verschlossen. Da kann man entweder so einen Deckel drauf machen oder eine Abdichtung reinsetzen, wenn man so eine Durchführung mal nicht braucht.
+
+(0:02:37 - 0:02:44)
+Oder man nutzt sie natürlich. Das Kabel selbst ist auch abdichtend sozusagen. Also hier kommen die Kabel raus.
+
+(0:02:45 - 0:02:54)
+Das Ding ist ja außen installiert. Deswegen kommen logischerweise alle Kabel von außen. Aber dann sieht man schon hier, das könnte zum Beispiel zum Netzanalysegerät gehen, die 32-Volt-Versorgung.
+
+(0:02:54 - 0:03:09)
+Hier geht die wahrscheinlich rein. Und hier geht es runter zu Wechselrichtern, zu Sensoren. So, ich gehe nochmal einen Schritt raus, weil wir euch zeigen wollen, dass wir auch noch eine zweite Geschichte dabei haben.
+
+(0:03:09 - 0:03:16)
+Bevor ich das mache, das ist für die Schnitzeljagd wichtig. Man kann hier auch um die Station rumlaufen. Man kann dann auch andere Türen öffnen.
+
+(0:03:16 - 0:03:23)
+Da wäre jetzt zum Beispiel so eine Niederspannungsverteilung. Die ist vermeintlich wichtig. Man kann wieder zurücklaufen auf die andere Seite.
+
+(0:03:24 - 0:03:34)
+Und dann sieht man hier zum Beispiel auch die Mittelspannung. Also, das kann man sich alles mal angucken. Und nebenbei versuchen dann unsere Fragen gleich nach der Pause zu beantworten.
+
+(0:03:34 - 0:03:53)
+Ich gehe nochmal weiter zur zentralen Station. Moment, Moment, Moment. Ich gehe hier nochmal zurück.
+
+(0:03:59 - 0:04:04)
+Ich nehme mal den hier, weil den habe ich hier vorhin ausprobiert. Ich glaube, der funktioniert. So, da am Zaun, da hängt so ein Pfeil.
+
+(0:04:05 - 0:04:10)
+Da gehe ich mal drauf. So, und jetzt bin ich bei der anderen Station angelangt. Moment, ich mache es nochmal groß.
+
+(0:04:11 - 0:04:22)
+Also achtet darauf vielleicht, der Pfeil hängt am Zaun und man kann den klicken, wenn man auf der Seite vor der Station steht. So, das ist jetzt eine andere Ausführung. Darum geht es heute aber nicht.
+
+(0:04:22 - 0:04:32)
+Das ist jetzt hier ein zentraler Wechselrichter und man könnte hier wieder zurück zur anderen Station laufen. Der Punkt ist, hier ist die Box hier innen eingebaut. Das bietet der Hersteller halt so an.
+
+(0:04:32 - 0:04:52)
+Und dann kann man sich jetzt, finde ich, gut vorstellen, das ist ja eine ganz andere Abstimmung im Vorfeld als bei der Variante A. Aber man muss es vorher wissen, projektspezifisch. Bei mir springt das immer von einem Stationstyp zum nächsten. Insofern muss ich das, was ich da beschrieben habe, mit der Schnittstellenliste, mit der Spezifikation, muss ich jedes Mal wieder neu machen.
+
+(0:04:52 - 0:04:57)
+Aber genau, so macht es ja eigentlich auch mehr Spaß. Hier kann man das Gleiche machen. Man kann die Box aufmachen.
+
+(0:04:57 - 0:05:10)
+Man sieht schon, die sieht ein bisschen anders aus. Und finde ich, ein wichtiger Gedanke hier ist, und deswegen wollten wir es ja auch zeigen, hier ist eine Anordnung von so einer Splicebox einfach mal anders gelöst. Nur der Info halber, hier sind noch nicht alle Kabel gezogen.
+
+(0:05:10 - 0:05:22)
+Deswegen sieht das noch frei aus. Sieht man auch einen anderen Status in so einem Projekt. Und welche Komponenten genau wo sitzen ist jetzt und welche vor allem Hersteller verwendet werden, ist für mich jetzt hier überhaupt nicht relevant.
+
+(0:05:23 - 0:05:33)
+Ich gucke mir ja auch wieder, was da so passiert. Hier zum Beispiel geht so ein 230-Volt-Kabel raus. Das wird hier durchgefogen und geht da unten raus.
+
+(0:05:33 - 0:05:39)
+Ich mache mal die Tür zu, weil das wollte ich zeigen. Also das war ungefähr das hier. Ist halt später noch beschriftet worden.
+
+(0:05:39 - 0:05:44)
+Hier hängt schon eine Beschriftung dran, hier noch nicht. Dann geht hier so ein 230-Volt-Kabel raus. Irgendwo muss es ja hingehen.
+
+(0:05:44 - 0:05:53)
+Und ich weiß das jetzt, das geht hier rein. Und dann ist hier auch eine Niederspannungsverteilung. Stichwort Schnittstelle, also Schnittstellenliste.
+
+(0:05:53 - 0:06:11)
+Hier kann man sich dann auch wieder im Vorfeld überlegen, dass hoffentlich irgendeine Abgangssicherung frei ist, weil sonst kann ich ja meine Datenbox gar nicht mit Spannung versorgen. So, ich denke, ich bin hier erstmal durch. Ich zeige noch einen ganz wichtigen Trick, den ihr unbedingt nutzt.
+
+(0:06:11 - 0:06:24)
+Der ist links unten, der Plan, ganz wichtig. Ihr macht euch diesen Plan auf und jetzt könnt ihr, finde ich, enorm spektakulär zum Beispiel wieder zurückspringen zu dieser anderen Station. Das geht natürlich so viel einfacher und schneller.
+
+(0:06:25 - 0:06:31)
+Dann steht er da wieder. Und ihr könnt auch springen zur Übergabestation, die da irgendwo sitzt. Da ist sie.
+
+(0:06:32 - 0:06:55)
+Und dann könnt ihr jetzt hier bei der Übergabestation auch die Tür aufmachen und dann könnt ihr hier auch in eine Datenbox reingucken, die jetzt auch wieder einfach anders aussieht. Das tut jetzt für heute nichts zur Sache, sondern wir wollten darstellen, dass man vielleicht auch diese dritte Variante nochmal gesehen hat, die einfach auch wieder völlig anders aussieht. Völlig andere Schnittstellen hat. Völlig anders aufgebaut ist.

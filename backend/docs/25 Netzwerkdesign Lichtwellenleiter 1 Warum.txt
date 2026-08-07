@@ -1,0 +1,43 @@
+(0:00:00 - 0:01:22)
+Okay, wir starten mit der Frage warum. Also warum Netzwerkdesign, Lichtwellenleiter, das habe ich in drei Themenblöcke unterteilt. Einmal generell ist die Kommunikation dadurch überhaupt sozusagen möglich. 
+
+Also die Frage, die ich gleich beantworten will ist, warum brauchen wir denn überhaupt Kommunikation für unsere PV-Anlagen? Dann wäre der zweite Themenbereich gleich. Warum denn mit Lichtwellenleiter? Gibt ja auch andere Möglichkeiten, also Kupferverbindungen. Und die dritte Teilfrage, warum reden wir heute so viel über dieses Thema ist, warum macht man daraus jetzt ein Design? Warum kann man nicht einfach sagen, man macht das immer gleich? Wenn wir uns jetzt kurz in vier Bullet Points einmal angucken, dann würde ich erst mal ganz klar sagen, dass die Regelung der allerwichtigste Grundsatz ist oder der größte Motivation ist, um so eine Kommunikation in unseren Parks aufzubauen. 
+
+Warum Regelung? Also der Netzbetreiber, das ist ja eigentlich immer unser Lieblingsthema, der Netzbetreiber muss die Anlage steuern können, sonst werden unsere Netze jetzt nicht stabil und in Zukunft werden sie dann noch unstabiler sein. Deswegen muss der Netzbetreiber regeln können. Der Anlagenbetreiber aber genauso, das will er auch, haben wir hier sozusagen zusammengefasst.
+
+(0:01:22 - 0:01:32)
+Und der dritte Player, der da immer mit drin spielt, ist der Direktvermarkter. Also auch der muss die Anlage regeln und steuern können. Dafür ist eine Kommunikation unerlässlich.
+
+(0:01:33 - 0:05:27)
+Ein zweiter Punkt wäre, dass man jederzeit die Live-Daten in so einer PV-Anlage bewerten kann, kontrollieren kann. Also ich will ja immer wissen, was oder immer wissen können, was gerade so passiert. Und das funktioniert dann nur mit einer stabilen, funktionierenden Kommunikation. 
+
+Was auch absolut Standard ist und selbstverständlich in jeder PV-Anlage umgesetzt wird, ist, dass man die Daten, die so eine Anlage sammelt und zur Verfügung stellt, dann in ein Online-Portal schiebt und dort weiterverarbeitet. Das funktioniert automatisiert und standardisiert und so kann man dann automatisiert Bewertungen machen und Fehlermeldungen aufschreiben. So und das ist auch nur möglich, wenn man überhaupt ein Kommunikationssystem aufgebaut hat. 
+
+Und der vierte und letzte Punkt in diesem Block wäre für mich, man darf nicht vergessen, alle Anlagenteile zu integrieren. Also das wären ja meinetwegen vom Wechselrichter ganz unten in der Pyramide bis oben am Netzanschlusspunkt. Die müssen also alle da mit rein und deswegen bauen wir ein Kommunikationsnetzwerk. 
+
+Der zweite Punkt war Lichtwellenleiter. Gleiche Frage, warum überhaupt? Und da verweise ich gerne auf den anderen Zwei-Stunden-Block, den wir gemacht haben. Da haben wir die Zeit uns genommen und das wirklich ganz detailliert aufgebaut. 
+
+Hier zwei Stunden in vier Bullet-Points zusammengefasst. Lichtwellenleiter haben eine deutlich höhere Reichweite als Kupfer. Also sobald man eine Anlagengröße hat, die ungefähr größer als 200 Meter ist, sollte man Lichtwellenleiter einsetzen. 
+
+Außerdem gleichzeitig sozusagen ist eine sehr hohe Geschwindigkeit möglich mit dem Glasfasersystem. Man hat den großen Vorteil, dass man keine Beeinflussung durch elektromagnetische Felder hat. Das geht sozusagen dann umsonst mit einher. 
+
+Und da sind wir wieder bei Kritis, Anlagensicherheit. Das sind dann große PV-Pakts, für die das gilt, haben dadurch eine höhere Abhörsicherheit. Also das sind mal so die vier größten Vorteile von Lichtwellenleiter. 
+
+Wir nehmen die jetzt an, als gegeben und tun so, als hätten wir selbstverständlich in unserer PV-Anlage heute ein Lichtwellenleitersystem. Und weil wir jetzt ein Lichtwellenleitersystem haben, müssen wir als Elektroplaner uns überlegen, wie wir daraus ein sinnvolles, ein optimales Design schaffen. Das wäre der Stichpunkt Netzwerkdesign. 
+
+Um den geht es heute ja im Kern. Da haben wir uns auch vier Beispiele oder vier Gründe rausgesucht, warum man jetzt also genau wissen sollte, wie das funktioniert. Einmal ist es so, erst wenn ich für meine Anlage ein Design erstellt habe, weiß ich auch wirklich, welche Komponenten ich brauche, also welcher Typ und wie viele davon. 
+
+Das nehme ich auch gleich vorweg. Das wird sich jetzt durch die nächsten anderthalb Stunden ziehen, dass wir immer so ein bisschen in unserem Design, das wir heute basteln, zusammen mit anschauen und mitschreiben, wie viele Komponenten wir denn brauchen, sodass diese Aufgabe sozusagen am Ende der zwei Stunden dann auch gleich mit erfüllt ist und man das Ganze als Spezifikation übergeben könnte in den Einkauf. Dann wichtig beim Netzwerkdesign, das geht Hand in Hand. 
+
+Während ich das Design baue, prüfe ich ja die Kompatibilität der einzelnen Komponenten. Das heißt, das passiert gleichzeitig, aber ich kann es ja umdrehen. Wer sich sozusagen nicht die Mühe macht, ein Design zu erstellen oder zu prüfen, der kommt ja gar nicht in die Verlegenheit auf mal die Kompatibilität zu gucken und dann kann es am Ende funktionieren. 
+
+Aber vielleicht klappt es auch nicht. Projektspezifische Umstände, das könnten sein, dass wir nicht nur zwei oder drei Teilnehmer haben, sondern vielleicht 20. Die sind dann nicht in Reihe geschaltet, sondern parallel.
+
+(0:05:28 - 0:06:32)
+Dadurch hat man einen höheren Dämpfungswert. Dazu kommen wir später noch im Detail. Das kann bei jedem Projekt völlig unterschiedlich sein. 
+
+Es kann auch sein, dass man verschiedene Zugänge, Internetzugänge schaffen will für verschiedene Anlagenbetreiber. Das sind Projektspezifische Umstände, die kommen dann ins Design rein und werden beachtet. Ein letzter Punkt ist die Optimierung und die Logik. 
+
+Da geht es dann vielleicht auch mehr auf eine andere Ebene. Das Netzwerkdesign machen wir heute nicht. Das machen wir auch in einem anderen Brain Day, wenn es in die Vergabe von IP-Adressen geht oder in die Strukturierung von VLANs. 
+
+Das machen wir heute nicht. Aber das wäre sozusagen aufgesetzt auf eine physische Netzwerktopologie, dann die zweite Ebene, die darauf aufbastiert. Also nur wenn man selber weiß, warum man das Netzwerk gebaut hat, wie man es gebaut hat, kann man es optimieren und vielleicht auch später für den Betrieb eine sinnvolle Logik daraus erstellen.

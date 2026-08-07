@@ -1,0 +1,134 @@
+(0:00:00 - 0:00:22)
+Springen wir in Kapitel 3, Modellierung. Wir zeigen euch jetzt die Komponenten, dass ihr die mal seht, und wie man das ansatzweise in einem Modellationsprogramm aussehen könnte, und wo man die Werte herbekommt, die man da braucht. Erst später würden wir dann noch ein bisschen mehr in die Details gehen, was diese Werte, diese Eckdaten bedeuten.
+
+(0:00:23 - 0:00:40)
+Also los, Modellierung. Womit fängt man da an? Ganz wichtig ist eben immer, dass man jetzt erstmal ein Netz definiert. Das macht man in diesen Systemen, in diesen Berechnungsprogrammen so, indem man sich eben diese Schraffur auswählt.
+
+(0:00:40 - 0:00:49)
+So wird ein Stromnetz immer dargestellt. Und dieses Stromnetz bedeutet im Grunde genommen hier Werte am Netzanschlusspunkt. Was dahinter steckt, ist dann aber eben das Stromnetz.
+
+(0:00:50 - 0:01:12)
+Also ein sehr, sehr großer Netzbereich vom Netzbetreiber, der dann definiert wird auf einen einzelnen Wert, oder zusammengerechnet wird auf einen einzelnen Wert, den wir da eben am Netzanschlusspunkt erwarten. Und wenn wir jetzt mal schauen, wo wir den Wert herkriegen, dann gucken wir immer in den E9- oder E7-Bogen. Genau, hier haben wir jetzt mal E7 genannt, in Klammern E9.
+
+(0:01:12 - 0:01:25)
+Der eine kommt aus der Mittelspannungsrichtlinie, also der E9. Und der E7 kommt aus der Hochspannungsrichtlinie oder Höchstspannungsrichtlinie sogar. Und da würde man jetzt mal auf die sechste Seite blättern.
+
+(0:01:25 - 0:01:43)
+Genau, das ist auch meistens die letzte Seite, wenn es keine Anhänge gibt. Und da findet man dann die Netzdaten, sage ich mal. Und für unser heutiges Thema, für diese Netzberechnung, bräuchte man jetzt erstmal nur den Spannungswert.
+
+(0:01:43 - 0:01:55)
+Und hier sind das halt bei einem Hochspannungsanschluss die 110 kV Netzspannung. Hier sind dann auch noch andere Werte drin. Das sieht man da unten ein bisschen in Grau mit den Kurzschlussleistungen usw.
+
+(0:01:55 - 0:02:05)
+Die sind heute aber gar nicht so relevant. Relevant ist heute die 110 kV. Die anderen Punkte gucken wir uns an, wenn man sich Kurzschlussberechnungen anschaut.
+
+(0:02:05 - 0:02:19)
+Dann ist eben wichtig, wie viel Power hat so ein Netz, wie hoch sind die Kurzschlussströme. Heute wischen wir das mal beiseite. Heute nehmen wir nur die 110 kV mit und definieren uns jetzt im Grunde genommen unser Netz mit 110 kV.
+
+(0:02:20 - 0:02:46)
+Natürlich würde man jetzt in der Software auch die anderen Werte schon mal rein eintragen, weil ganz marginale Einflüsse kann sowas dann ja doch immer haben. Die würden wir jetzt aber gar nicht so betrachten, sondern wir sagen jetzt mal 110 kV haben wir am Netzanschlusspunkt und die sind fest. Also würde man sagen unendliche Leistung des Netzes angenommen, würden diese 110 kV auch erstmal so bleiben.
+
+(0:02:48 - 0:02:59)
+Jetzt gibt es Transformatoren. Die kennt ihr denke ich, das ist das Ersatzschaltbild eines Transformators. Den würde man jetzt hier erstmal einsetzen.
+
+(0:02:59 - 0:03:12)
+Das ist unser Netztransformator, so würde ich ihn mal bezeichnen. Der spannt eben von unserer Mittelspannung hoch auf die 110 kV. Dann gibt es auch noch weitere Transformatoren bei dieser Parkanordnung.
+
+(0:03:13 - 0:03:29)
+Also nicht nur den 110 kV Trafo, sondern wir haben dann ja ein internes Mittelspannungsnetz. Üblicherweise ist das häufig dann 30 kV oder das sehen wir zumindest oft. Man könnte natürlich auch 20 kV machen, aber 30 kV lässt dann natürlich die Kabel ein bisschen dünner werden.
+
+(0:03:29 - 0:03:44)
+Deshalb wählen die meisten, wenn sie die freie Wahl haben, 30 kV. Und diese Daten, die wir jetzt brauchen für den Transformator, die kriegen wir dann eben aus dem Trafo-Datenblatt. Das hatten wir uns auch schon mal im Detail angesehen.
+
+(0:03:44 - 0:03:57)
+Jetzt hier für unseren heutigen Tag gibt es ein paar Punkte, die dann eben sehr wichtig sind. Zum Beispiel hier ist es jetzt die Spannung, die so ein Hochspannungstrafo hat. Also 115 kV steht hier für die Oberspannung.
+
+(0:03:57 - 0:04:06)
+Den nehmen wir uns erstmal mit den Wert. Und wir haben eine Unterspannungsseite von 31,8 kV. Das sind erstmal zwei Eckdaten, die wir brauchen.
+
+(0:04:07 - 0:04:17)
+Übersetzungsverhältnis muss natürlich erstmal stimmen. Muss dann auch so ungefähr mit den Mittelspannungstrafos nachher übereinstimmen, hinhauen. Und am Netz muss eben auch die gleiche Spannung dann vorliegen.
+
+(0:04:17 - 0:04:29)
+Und jetzt nehmen wir uns noch die Leistung mit, finden wir auch im Datenblatt. Also hier ist es ein 63-80 MVa-Trafo, also schon ein ziemlich großes Ding. Wir nehmen mal die 80 MVa mit.
+
+(0:04:30 - 0:04:41)
+Das ist dann halt die belüftete Leistung, das ist ein bisschen mehr als 63. Oder die mit der Zwangslüftung. Und dann gibt es hier noch das UK, diese Kurzschlussspannung, auch ein ganz wichtiger Parameter.
+
+(0:04:41 - 0:04:57)
+Nicht nur für heute, auch für andere Berechnungen muss man dieses UK kennen. Großer Trafo, 20,5% Kurzschlussspannung. Das ist also viel im Verhältnis zu kleineren Trafos.
+
+(0:04:59 - 0:05:09)
+Wir tragen uns das hier mal in unser Schema so ein. Das habt ihr jetzt mal als Eckdaten. Das finde ich immer ganz hilfreich, wenn man mal dieses Bild raussucht.
+
+(0:05:09 - 0:05:26)
+Und dann hat man gleich ein Gefühl, ist das jetzt sinnhaft, was da in meinem aktuellen Schema steht oder nicht. Jetzt nehmen wir den nächsten Trafo und das ist jetzt ein kleinerer Trafo, aber auch verhältnismäßig groß. Der hat jetzt hier mal 6500 KVA, also 6,5 Megawatt.
+
+(0:05:26 - 0:05:42)
+Ist natürlich nicht klein, ist auch ein ziemlich großer Brocken, den wir jetzt in unserem Solarpark installieren. Wir nehmen diese Scheinleistung mit, 6,5 Megawatt. Nehmen die Spannungsebene mit von 33 KV, genauso wie eben bei dem großen Trafo.
+
+(0:05:42 - 0:06:00)
+Und jetzt haben wir eben noch die Unterspannung, 0,8 KV. Das ist das Übersetzungsverhältnis unseres PV-Trafos, würde ich jetzt mal sagen. Und der hat eben auch eine Kurzschlussspannung von 8%.
+
+(0:06:02 - 0:06:12)
+Auch hier die Werte, im Prinzip sind es die gleichen Eckdaten. Nicht im Prinzip, das sind die gleichen Eckdaten wie bei dem 110 KV Trafo. Aber ihr seht schon, das UK variiert.
+
+(0:06:12 - 0:06:24)
+Und gehen wir später genauer drauf ein, im nächsten Kapitel, was das dann wirklich für einen Effekt hat bei euren Berechnungen. So, jetzt kommt das Thema Kabel. Das erste Kabel, müsst ihr mal ein bisschen gucken oben.
+
+(0:06:24 - 0:06:35)
+Da fliegt eins rein zwischen Netz und Hochspannungstrafo. Das Kabel, würde ich jetzt mal sagen, ist nicht relevant. Meistens steht euer Umspannwerk direkt an der Freileitung, ich sage mal direkt an so einem Mast.
+
+(0:06:35 - 0:06:46)
+Das ist dann 10 Meter lang. Und vor allem ist das hinter eurem Netzverknüpfungspunkt oder hinter eurem Zähler, hinter eurem Leistungsschalter. Also das ist dann für unsere Berechnungen nicht zu berücksichtigen.
+
+(0:06:46 - 0:06:52)
+Das ist schön, das schreiben wir ja auch rein. Also das Kabel ist hier gemeint, ist nicht relevant. Nur das Kabel ist nicht relevant.
+
+(0:06:52 - 0:07:02)
+Das Netz ist natürlich relevant. Und dann gibt es eben Kabel in unserem Solarpark. Und jetzt haben wir hier erstmal das Mittelspannungskabel gezeigt, dargestellt.
+
+(0:07:02 - 0:07:13)
+Also wir haben die Verbindung geschlossen zwischen dem Hochspannungstrafo und dem Mittelspannungstrafo. Und jetzt gucken wir auch hier einmal schnell in unseren Datenblatt rein. Also ein klassisches Mittelspannungskabel, was wir hier sehen.
+
+(0:07:14 - 0:07:24)
+Wir blättern hier mal die mehreren Seiten am Kabel-Datenblatt durch. Und jetzt haben wir hier einen Leiterwiderstand. Und wir zeigen das auch mal unten kurz in diesem Diagramm.
+
+(0:07:24 - 0:07:42)
+Das ist ein Ersatzschaltbild für ein Kabel. Da gibt es ohmsche Widerstände, das ist das R. Es gibt dazu in Reihe geschaltet induktive Widerstände, das ist das L. Und es gibt kapazitive Widerstände, die dann eben dort auch noch angezeigt sind. Die dann aber parallel sind und nicht in Reihe.
+
+(0:07:43 - 0:07:57)
+So jetzt holen wir erstmal den ohmschen Widerstand raus. Das ist hier das R' und R' ist es, weil der wird immer pro Kilometer angegeben. Es wird ein richtiges R draus, wenn ihr die Kabellänge habt.
+
+(0:07:57 - 0:08:21)
+Dann fliegt das Kilometer weg und ihr habt den tatsächlich schon ohmschen Widerstand. Wir gehen weiter in unserem Datenblatt, suchen uns jetzt den induktive Widerstand. Der fliegt jetzt rüber, 264 Nanofahrrad pro Kilometer.
+
+(0:08:21 - 0:08:35)
+Also auch wieder C' Angabe pro Kilometer. Und das gleiche dann auch noch für das L, für die Induktivität, der dann in Millihenry pro Kilometer angegeben wird. Das sind hier im Grunde genommen unsere Eckdaten.
+
+(0:08:36 - 0:08:53)
+Die nehmen wir mit in unser Schema, füttern damit natürlich dann unsere Software, geben das da ein und dann kann so eine Software damit wunderbar arbeiten. Nächstes Kabel dürfen wir natürlich nicht vernachlässigen. Wir haben in unseren Parks dann natürlich immer auch große Strecken Niederspannungskabel.
+
+(0:08:53 - 0:09:09)
+Also auf der Niederspannungseite des Trafos. Da gibt es dann im Grunde genommen die gleichen Datenblätter. Um euch da jetzt nicht zu lange zu quälen mit den Kabeldaten, gehen wir da zügig durch.
+
+(0:09:09 - 0:09:21)
+R', C' und L', also genau die gleichen Werte. Wer sich das jetzt gemerkt hat, der sieht schon, dass es hier natürlich in den Größenordnungen Abweichungen gibt. Aber auch da gehen wir dann später ein bisschen drauf ein.
+
+(0:09:21 - 0:09:35)
+Ihr seht es jetzt auch noch mal mehr oder weniger untereinander dargestellt. Oben habt ihr den Kabel, unten ein Kabel. Und die Ohm- oder die Nanofahrrads pro Kilometer sind dann natürlich schon größer oder kleiner.
+
+(0:09:37 - 0:09:52)
+Aber daraus könnt ihr jetzt glaube ich noch gar nicht so viel schließen, weil bei den Berechnungen fließen später auch noch andere Sachen rein, zum Beispiel die Spannung. Das seht ihr dann später. Last but not least würde ich sagen ist unser Wechselrichter, der dann ganz unten in der Reihe steht.
+
+(0:09:52 - 0:10:01)
+Den setzen wir jetzt hier mal ein. Ihr kennt das Schaubild, das ist einer der bekannten Asiaten. Alle oder die meisten Wechselrichter arbeiten dabei ähnlich.
+
+(0:10:01 - 0:10:20)
+Hier würden wir jetzt mal reingucken, was so ein Wechselrichter kann. Wir sehen jetzt hier erstmal eine maximale Wirkleistung von 215 Kilowatt. Und dazu würde man jetzt hier nochmal ein Cosinus Phi sehen von 0,8.
+
+(0:10:20 - 0:10:41)
+Achtung, hier ist das amerikanisch angegeben, steht an Leading und Lagging. Das ist Cosinus Phi, Induktiv-Kapazitiv wäre, ich sag mal, das ist die deutsche Bezeichnung. Und da wir jetzt eine maximale Wirkleistung hatten von 215, kann man daraus im Grunde genommen ableiten, dass die Scheinleistung auch 215 kW betrifft.
+
+(0:10:41 - 0:10:58)
+Und wer sich jetzt zurückerinnert an unser erstes Kapitel, der weiß jetzt auch schon, dass sobald wir dann eine Blindleistung liefern müssen, mit dieser Wirkleistung eigentlich nicht mehr auskommen und ein bisschen reduzieren müssen. Aber das jetzt erstmal vorweggenommen. Sag ich mal, tragen wir diese Eckdaten hier ein.

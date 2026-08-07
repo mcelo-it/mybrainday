@@ -1,0 +1,92 @@
+(0:00:00 - 0:00:26)
+So, wir gehen ins letzte Kapitel und schauen uns jetzt die Umsetzung an. Das ist sehr kurz gehalten, ist aber eine ganz, ganz wichtige Geschichte, die dann den Überschlag erleichtert oder überhaupt realisiert zu dem anderen großen Aufgabe, die man in Kooperation mit der Zertifizierstelle hat, nämlich der Konfirmitätserklärung. Aber das heißt, Umsetzung ist jetzt wieder an uns gerichtet.
+
+(0:00:27 - 0:00:39)
+Also was müssen wir jetzt machen? Das riesige Kapitel, das wir uns gerade angeguckt hatten, war ja mehr so fürs Verständnis. Am Ende macht das ja die Zertifizierstelle in diesen acht bis zwölf Wochen. Aber jetzt sind wir wieder dran.
+
+(0:00:39 - 0:00:55)
+Was müssen wir denn eigentlich jetzt noch machen? Und da sage ich jetzt erst mal grundsätzlich verteilt die Information. Das ist erst mal ganz wichtig. Da steht so viel drin und da gibt es jetzt so viele Parteien, die das im Grunde wissen müssen, weil sie sich sonst irgendwann später, wenn es Probleme gibt, damit rausreden, dass sie es ja nicht gewusst hätten.
+
+(0:00:55 - 0:01:12)
+Also verteilt die Information, die in dem Anlagenzertifikat aufgeschrieben sind. Da das ja im Zweifel sehr viele Seiten hat, muss man das natürlich herausfiltern. Und das habe ich jetzt hier mal versucht, übergeordnet zu machen.
+
+(0:01:12 - 0:01:24)
+Am Ende ist das projektspezifisch und ihr müsst das selber machen. Aber ich glaube, grundsätzlich gilt, es muss eine Fotodokumentation erstellt werden. Das ist jetzt die Schnittstelle zur späteren Konfirmitätserklärung.
+
+(0:01:24 - 0:01:34)
+Aber das steht aus meiner Sicht jetzt auch in diesen Anlagenzertifikaten schon drin. Macht das sozusagen, lieber Anlagenbetreiber, lieber jetzt. Weil nach der Inbetriebnahme ist das ja deutlich schwieriger.
+
+(0:01:35 - 0:01:45)
+Man braucht die Typenschilder der Stromwandler. Da kommt man ja im Zweifel später ohne Abschalten gar nicht mehr hin. Also während der Installationsphase oft viel einfacher als später.
+
+(0:01:45 - 0:01:59)
+Das heißt, erster Punkt, Information an euer Team, macht eine Fotodokumentation. Eben zum Beispiel von Typenschildern. Dann verteilen wir die Informationen weiter.
+
+(0:01:59 - 0:02:10)
+Wir sagen nämlich dem Parkregler Lieferanten, was er zu tun hat. Also nicht im Sinne von, dass er den Parkregler umzusetzen hat. Das weiß er ja ganz hervorragend.
+
+(0:02:10 - 0:02:29)
+Er hat ja die Parkregler Beschreibung selbst geschrieben. Aber trotzdem muss er jetzt das Anlagenzertifikat bekommen, damit er nach wie vor noch mal prüfen kann, ob er überhaupt den richtigen Parkregler einsetzt. Und damit meine ich jetzt meinetwegen auch den Typ, aber zum Beispiel auch sowas wie eine Softwareversion.
+
+(0:02:29 - 0:02:44)
+Das ist so eine ganz übliche Geschichte, die steht im Zertifikat drin. Und auch nur für diese Softwarevision ist das dann zulässig. Außerdem steht drin, wie der Parkregler zu parametrieren ist und es steht auch drin, wie zu testen ist und was zu testen ist.
+
+(0:02:44 - 0:03:06)
+Und da wird es jetzt eben sehr kleinteilig, weil das sind ja diese furchtbar komplizierten Diagramme, die wir da jetzt gerade in einem langen Kapitel gesehen haben, die sind ja nachzuweisen. Und damit der Parkregler Lieferant das dann auch später richtig macht, eben für die Konfirmitätserklärung, braucht er bitte das Anlagenzertifikat. Und aus meiner Sicht das Ganze.
+
+(0:03:07 - 0:03:33)
+Das ist ein super Experte, der ist in der Verantwortung, sich dann die relevanten Unterlagen oder Informationen selber rauszuziehen. Also Umsetzung für euch schickt dem Parkregler Lieferant ein Anlagenzertifikat mit der Frage, ob er das ausreichend empfindet, um später die Parkregelung umsetzen zu können. Dann setzen wir um die Parametrierung der Wechselrichter.
+
+(0:03:33 - 0:03:51)
+Ich sehe das so, dass auch das wir machen und zwar, weil eine Wirkleistungsbegrenzung sicherlich gefordert wird. 4110 ist das eigentlich selbstverständlich, weil das aus einer harten Vorgabe kommt. In der 4120 hatte ich es auch kurz gezeigt, wird es auch passieren.
+
+(0:03:52 - 0:04:12)
+Das liegt daran, dass er nicht alle Bereiche abfahren kann, aber die Wirkleistung nicht zugunsten der Blindleistung reduzieren darf. Also das wird passieren, diese Wirkleistungsbegrenzung. Und jetzt ist es an euch, aus dem Zertifikat rauszulesen, wie genau die definiert ist und das dann auch umzusetzen im Wechselrichter oder in der Parkregelung oder beides.
+
+(0:04:13 - 0:04:30)
+Dann die Schutzparameter. Geht es jetzt Richtung Schulungsblock Schutz? Aber das war so oder es ist immer noch so oder wir hatten es so erklärt, dass der Wechselrichter Schutz nicht den zwischengelagerten oder übergelagerten Schutz unterlaufen darf. Das ist nicht zulässig.
+
+(0:04:30 - 0:04:41)
+Meistens ist es so, die Wechselrichter können nicht den Schutz der Wechselrichter deaktivieren. Das geht nicht. Deswegen muss man sie so einstellen, dass sie den anderen Schutz nicht unterlaufen.
+
+(0:04:41 - 0:04:49)
+Das hat man im Schutzkonzept ja gemacht. Aber ich kenne es zumindest so, die Schutzrelais werden von externen Schutzprüfern geprüft. Die wissen dann, was sie tun müssen.
+
+(0:04:49 - 0:04:54)
+Dann gibt es auch ein Protokoll. Bei den Wechselrichtern ist das nicht so. Die haben gar keine Prüfklemmen.
+
+(0:04:54 - 0:05:04)
+Deswegen macht man das dann meistens aus der Ferne über die Software. Ist relativ bequem, muss aber gemacht werden. Und das liegt an euch, diese Einstellungen richtig einzustellen.
+
+(0:05:06 - 0:05:15)
+Die Wirkleistungsregelung P von F läuft auch über den Wechselrichter. Und der Wirkleistungsgradient, da geht es jetzt um Geschwindigkeiten. Die werden auch im Wechselrichter eingestellt.
+
+(0:05:15 - 0:05:35)
+Das sind sehr komplexe Themen. Deswegen habe ich das noch mal gezeigt, wie das meine Lieblingszertifizierstellen dann machen würden. Die hätten jetzt so ein Übersichtsschema im, ich mache es ganz zusammengeschoben, die hätten jetzt so ein Übersichtsschema in irgendeinen Anhang von dem Anlagenzertifikat hinzugefügt.
+
+(0:05:35 - 0:05:51)
+Also 160 Seiten. Und jetzt muss man halt rausfinden, dass die Seite 147 so aussieht. Und die muss man dann seinen verantwortlichen Personen schicken oder es selber machen, damit die das in den Wechselrichter Settings richtig hinterlegen.
+
+(0:05:51 - 0:06:04)
+Also da geht es jetzt nicht um das Kleingedruckte. Deswegen haben wir es auch so klein gedruckt. Es geht nur darum zu sehen, dass das nicht einfach ist und dass man das aus dem Anlagenzertifikat herauslesen kann, wie diese Einstellungen auszuführen sind.
+
+(0:06:08 - 0:06:26)
+Letzter Punkt, da geht es um Schutz und zwar nicht den Schutz im Wechselrichter, sondern den Schutz der Schutzrelais. Hier würde ich es so machen, dass ich den entsprechenden Ausschnitt aus meinem Anlagenzertifikat an den Schutztechniker schicke. Nicht zu verwechseln mit dem Schutzschema.
+
+(0:06:26 - 0:06:41)
+Das kriegt er auch und den Stromlaufplänen. Das heißt, er weiß dann schon, was er zu tun hat. Aber es ist trotzdem so, dass es Sinn macht, Teile des Anlagenzertifikats mit zu übermitteln, einfach nur, dass das nochmal gegenprüfen kann oder weil da ja vielleicht nochmal spezielle Anforderungen drinstehen.
+
+(0:06:41 - 0:07:04)
+Auch da gleiches Spiel. Ich finde das nicht richtig, ihm einfach ein 160-seitiges Dokument zu übermitteln mit dem Motto, mach das schon, sondern ihr habt es ja jetzt genauso, wie wir es hier vorgelebt haben, euch einmal durchgelesen, zumindest quer gelesen und jetzt diese Seite hier oder vielleicht zwei herausgefiltert, die dann an den Schutztechniker geschickt werden müssen. So.
+
+(0:07:05 - 0:07:24)
+Wenn wir das alles so gemacht haben, dann steht einer Prüfung durch die Konfirmitätserklärung nichts mehr im Wege. Also mit diesem letzten Punkt möchte ich sozusagen einen großen Kreis schließen. Wir haben angefangen mit dem, warum wir eigentlich ein Anlagenzertifikat brauchen.
+
+(0:07:24 - 0:07:47)
+Dann haben wir uns angeguckt, wie dieses Anlagenzertifikat erstellt wird, was genau da drin steht. Und jetzt im letzten Schritt haben wir auch das umgesetzt, was da drin steht. Hat nur fünf bis sechs Minuten in der Erklärung gedauert, ist aber ein ganz entscheidender Punkt, weil es sonst später nach der Inbetriebnahme große Probleme geben wird bei der Prüfung durch die Konfirmitätserklärung.
+
+(0:07:47 - 0:08:04)
+Also geht auch diese Punkte nochmal durch und schafft es dann ganz erfolgreich in Betrieb zu nehmen und eine Konfirmitätserklärung zu erstellen. So, das war der Brain Day Anlagenzertifikat. Ein unglaublich komplexes elektrotechnisches Thema.
+
+(0:08:04 - 0:08:17)
+Ich hoffe, wir haben es geschafft, das so ein bisschen zusammenzufassen in das, was passiert da eigentlich und was muss dann der Elektroplaner damit anfangen? Vielen Dank, dass ihr dabei wart. Ich freue mich aufs nächste Mal. Alles Gute.

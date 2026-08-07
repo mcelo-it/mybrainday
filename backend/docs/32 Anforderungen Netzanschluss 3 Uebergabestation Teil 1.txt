@@ -1,0 +1,146 @@
+(0:00:00 - 0:00:10)
+Wir kommen nochmal in die Übersicht. Warum haben wir das geschafft? Wir haben das Kapitel 5 Netzanschluss auch hinter uns. Ihr habt das hoffentlich jetzt so im Kopf.
+
+(0:00:11 - 0:00:24)
+Netzanschluss, das ist die Bewertung vom Netzbetreiber. Die Bewertung, wo jetzt der richtige Netzverknüpfungspunkt oder Netzanschlusspunkt liegt. Jetzt geht es rüber in Kapitel 6. Das ist jetzt Übergabestation.
+
+(0:00:25 - 0:00:32)
+Wir kommen jetzt von der anderen Seite wieder. Jetzt ist die Übergabestation dann mehr unser Verantwortungsbereich. Der Netzbetreiber hat erstmal seine Schuld getan.
+
+(0:00:33 - 0:00:43)
+Wir müssen jetzt eine Übergabestation bauen. Und wie das funktioniert, kommt jetzt erstmal in Teil 1, Kapitel 6 der VDEAN4110. So sieht es aus.
+
+(0:00:44 - 0:00:52)
+Vier Kapitel, vier Überkapitel sind es. Das untergliedert sich dann natürlich noch ein bisschen. Aber erstmal starten wir mit 6.1, baulicher Teil.
+
+(0:00:55 - 0:01:03)
+Der bauliche Teil, der startet dann eben mit einem Unterpunkt. 6.1.1 sind wir dann schon. Und das ist eben das Allgemeine.
+
+(0:01:03 - 0:01:23)
+Und es gibt dann im allgemeinen Teil erstmal den Hinweis auf andere geltende Normen. Also die 4110, die erklärt natürlich nicht alles nochmal neu, sondern die bezieht sich dann eben bei der Installation, Errichtung von solchen elektrischen Anlagen erstmal auf die DIN VDE0100. Die gilt generell, ja, da gelten alle Teile.
+
+(0:01:23 - 0:01:32)
+Das muss man berücksichtigen. Das führt die Norm dann eben nicht im Detail nochmal auf. Dann gibt es eben die DIN EN61936, Starkstromanlagen über 1KV.
+
+(0:01:33 - 0:01:43)
+Dann gibt es den Betrieb von elektrischen Anlagen. Das ist eben auch wichtig. Also es geht hier nicht darum, wir bauen das und fertig, sondern im Betrieb dieser Anlage muss man da eben sich auch noch drum kümmern.
+
+(0:01:45 - 0:01:54)
+Dann gibt es noch die 62271-202, Schaltgeräte und Schaltanlagen. Da kommen wir auch nochmal im Detail drauf. Aber es ist eine sehr wichtige Norm, wie ich finde.
+
+(0:01:54 - 0:02:12)
+Und zum Schluss Landesbauordnung gelten eben für diese Übergabestation. Das heißt, wenn man jetzt in Berlin, Brandenburg eine Übergabestation bauen möchte, dann gelten vielleicht andere Bedingungen als in Baden-Württemberg. Und dann muss die Station vielleicht etwas kleiner sein oder etwas größer sein oder statt grün blau sein.
+
+(0:02:13 - 0:02:27)
+Ja, also muss man in die Landesbauordnung gucken, was da für Regelungen drinstehen, was da benötigt wird. So, jetzt seht ihr mal die Übergabestation über mir. Sie schwebt über mir.
+
+(0:02:28 - 0:02:41)
+Und es gibt weitere allgemeine Punkte, die da eben einzuhalten sind, beziehungsweise die erstmal definiert sind. Flächensicherung beispielsweise. Also wir stellen diese Trafostation ja irgendwo in die Nähe des Netzanschlusspunktes.
+
+(0:02:41 - 0:02:52)
+Und wir sind als Anschlussnehmer dann eben dafür verantwortlich, eine entsprechende Fläche zu finden. Also wir müssen diese Fläche sichern. Wir müssen da einen Pachtvertrag schließen.
+
+(0:02:53 - 0:02:59)
+Und dann dürfen wir erst diese Anlage da hinstellen. Das ist unsere Verantwortung. Das macht nicht der Netzbetreiber für uns.
+
+(0:03:00 - 0:03:16)
+Dann müssen wir dem Netzbetreiber eben unsere Pläne vorlegen. Und zwar rechtzeitig, wenn wir uns überlegt haben, dass die Trafo-Übergabestation genau so aussehen soll, wie die Station über mir. Dann haben wir davon Pläne und müssen die eben dem Netzbetreiber zeigen.
+
+(0:03:16 - 0:03:26)
+Und der muss dem eben zustimmen. Da gibt es dann eben auch diesen gesamten Anmeldeprozess, wo das genau definiert ist, wann und wie lange wichtig ist. Wir müssen das eben machen.
+
+(0:03:26 - 0:03:32)
+Und zwar rechtzeitig. So ist es jetzt erstmal hier beschrieben. Ausreichend Platz für Sekundärtechnik.
+
+(0:03:32 - 0:03:39)
+Ja, genau. Also für unsere Sekundärtechnik natürlich. Aber es gibt ja auch eine Sekundärtechnik, die dann eben vom Netzbetreiber kommt.
+
+(0:03:39 - 0:03:57)
+Beispielsweise seine Fernwirktechnik. Dafür müssen wir eben Platz vorsorgen, vorsehen und müssen dann eben diese Sekundärtechnik auch mit einer entsprechenden Spannung versorgen. Weil wenn beispielsweise die Netzbetreiber dort etwas installieren, dann haben die ja erstmal gar keine Möglichkeit, ihre eigene Spannung mitzubringen.
+
+(0:03:57 - 0:04:08)
+Das heißt, die sind dann auf uns angewiesen, dass wir sie mit Spannung versorgen. Und das ist eben auch so hier vorgegeben. Dauerhafter Zugang und Transportweg.
+
+(0:04:08 - 0:04:34)
+Ja, das ist in vielen Projekten, habe ich das mitbekommen, dass das manchmal ein bisschen vernachlässigt wird. Also wir dürfen so eine Übergabestation nicht in umzäunte Bereiche stellen, wo der Netzbetreiber eben nicht den dauerhaften Zugang hat. Weil das kann eben sein, dass am Samstagabend um 23 Uhr meinetwegen gibt es einen Störfall im Netz und dann muss der Netzbetreiber gegebenenfalls zu unserer Übergabestation und da mal reinschauen.
+
+(0:04:34 - 0:05:08)
+Das heißt, dann braucht er erstmal einen dauerhaften Zugang. Er kann dann nicht darauf hoffen, dass jemand da ist oder jemand in zwei, drei Stunden kommt, sondern er braucht den Zugang und er braucht eben auch einen Transportweg. Wenn die Übergabestation beispielsweise irgendwo auf einer Wiese steht, 200, 300 Meter von der Straße entfernt, dann ist das kein Transportweg, weil der Netzbetreiber fängt dann nicht an, sein Werkzeug die 200, 300 Meter über die Wiese zu tragen, sondern er möchte mit seinen Fahrzeugen bis zur Station fahren, dort parken können, damit er dann auch adäquat arbeiten kann.
+
+(0:05:08 - 0:05:26)
+Das ist auch verständlich. Jetzt kommen Einzelheiten zur baulichen Ausführung. Das Kapitel startet dann erstmal mit dem Punkt Allgemeines.
+
+(0:05:27 - 0:05:52)
+Allgemein bedeutet hier erstmal, dass wir korrosionsgeschützte Materialien verwenden sollen. Wir müssen dafür sorgen, dass da nichts korrodiert, wenn wir innerhalb der Station sind und dort eben keine Feuchtigkeit auftritt, dann sind die Ansprüche wahrscheinlich nicht so hoch wie außerhalb der Station, wo es regnet, wo es feucht ist. Aber erstmal müssen die Materialien, die wir einsetzen, korrosionsgeschützt sein.
+
+(0:05:52 - 0:06:17)
+Also wir wollen dort keinen Rost sehen. Zugang und Türen, also die müssen aufschlagbar sein nach außen, und zwar größer 90 Grad. Was das bedeutet, im Hintergrund sieht man es jetzt oder über mir, die Tür geht etwas weiter auf als 90 Grad, hat einfach den Hintergrund, dass man dann natürlich auch besser flüchten kann, weglaufen kann von der Station.
+
+(0:06:17 - 0:06:32)
+Und diese Türen müssen eben mit einem Türfeststeller fixiert werden. Das rastet dann meistens oben an der Tür ein und dann steht die Tür erstmal fest. Das heißt, wenn es ein bisschen windig ist, dann schlägt die Tür nicht hinter mir in meinem Rücken zu, sondern sie bleibt erstmal fixiert.
+
+(0:06:33 - 0:06:51)
+Wenn man die Station verlässt, muss man dann eben diesen Feststeller lösen und dann kann man die Türen auch wieder schließen. Zugang von außen mit Schlüssel, also es soll nicht jeder, der eben keinen Schlüssel hat oder unbefugt ist, diese Station öffnen können. Das ist erstmal wichtig, dass es definiert ist.
+
+(0:06:52 - 0:07:18)
+Im Projektablauf dann eigentlich immer sehr klar und für die meisten Lieferanten auch nicht zu diskutieren. Dann gibt es noch Doppelschließzylinder, die muss man dann eben einsetzen. Da hat vor allem der Netzbetreiber ein großes Interesse dran, weil er will natürlich mit seinem Generalschlüssel, der Netzbetreiber hat dann einen Schlüssel, mit dem er wahrscheinlich alle Stationen öffnen kann, da will er eben diesen Schließzylinder haben.
+
+(0:07:18 - 0:08:00)
+Der muss in diese Doppelschließung eingebaut werden, damit er eben da ran kann. Und wir haben dann eben diesen zweiten Schließzylinder für unsere Service- und Betriebsführer. Verlassen der Station ohne Schlüssel, das ist jetzt bei dieser kompakten Variante, die man über mir sieht, nicht so relevant, aber häufig hat man ja auch begehbare Übergabestationen und wenn man dort drin ist, dann schlägt die Tür beispielsweise hinter einem zu, dann braucht man eben keinen Schlüssel, um sie zu verlassen, sondern man kann von innen ohne Schlüssel die Station verlassen, weil sonst natürlich auch in Notfällen die Leute in dieser Station erstmal gefangen sind, bis jemand den Schlüssel findet und aufschließt.
+
+(0:08:00 - 0:08:49)
+Das darf so nicht sein, also von innen kann man ohne Schlüssel raus. So, Fenster los, da würde ich relativ schnell drüber hinweggehen, ich habe das noch nicht gesehen, dass jemand auf die Idee kam, in seine Station ein Fenster einzubauen, das ist eine klare Schwachstelle, da kann man einbrechen, das hält vielleicht dem Druck nicht stand, also Fenster bauen wir nicht ein. Klimabelüftung und Druckentlastung, erstmal sind diese Stationen gebaut für minus 5 bis 40 Grad, es gibt dann aber den Zusatzhinweis Sekundärtechnik, also Schutzrelais, Fernwirkanlagen, diese Technik ist unter Umständen eben nicht für diesen Temperaturbereich ausgelegt und dann muss man eben sehen, dass man dann eine kleine Heizung in die Schaltschränke installiert, dass diese Sekundärgeräte eben in dem Temperaturbereich dauerhaft installiert sind, den sie auch aushalten.
+
+(0:08:50 - 0:09:56)
+Betauung vermeiden, dafür gibt es dann in der Regel so kleine Heizungen, die in den Stationen errichtet sind, die dann auch bei Feuchtigkeit eben anspringen und dann eben ein wenig das Temperaturlevel heben, es wird nicht warm in den Stationen, aber zumindest bleibt es dann eben trocken und frei von Betauung. Belüftung für Summe der Abwärme, das entspricht dann quasi dem Gegenteil, also im Winter müssen wir diese Betauung vermeiden, im Sommer müssen wir dann eher sehen, dass wir die Wärme aus der Station rauskriegen, ihr seht da diese ganzen Öffnungen, das sind diese Belüftungen, die Lamellen da in den Wänden, da kann viel, viel Luft durch und das muss eben dimensioniert sein für die Abwärme des Trafos und die ist dann natürlich wiederum abhängig davon, wie groß ist der Trafo, wie groß ist die Leistung, die dort drüber fließt, an welchem Standort ist die Anlage installiert, also das muss beachtet werden. Stochersicher, wir gucken nochmal durch diese Lamellen, wenn jetzt spielende Kinder in der Nähe von so einer Station sind, diese Stationen können ja auch so in Ortschaften stehen oder an Ortschaften, dann ist es natürlich wichtig, dass diese spielenden Kinder beispielsweise nicht mit Stöckern durch diese Lamellen stochern können und da an spannungsführenden Teile gelangen.
+
+(0:09:57 - 0:10:43)
+Deshalb sind die stochersicher, dann ist meistens noch so ein Netz hinter den Lamellen installiert, dass man da eben nicht mit einem Stock durchkommt. So, dann die Druckentlastung nach DIN EN, 62271202 IAC und hier ist jetzt Klassifizierung A, B geschrieben, das ist diese bekannte Störlichtbogenprüfung, das muss nachgewiesen werden, weil gerade bei Übergabestationen, wo auch der Netzbetreiber Zutritt hat, ist das einfach Vorgabe, Vorschrift aus der 4110, ihr braucht eine Störlichtbogenprüfung, Klassifizierung A, also für den Bediener der Anlage und B für Leute, die sich vielleicht in der Nähe als Passanten an der Station aufhalten. Also, wenn es zum Störlichtbogen kommt, müssen diese beiden Fälle getestet sein und die Leute sicher sein.
+
+(0:10:48 - 0:11:14)
+So, wir kommen zum nächsten Punkt, das ist die 6125 Fußböden. Für kompakte Stationen sind Fußböden eher erstmal nicht so relevant, das ist dann eher für die begehbaren Stationen relevant. Die Kellerhöhe allerdings, die haben wir auch bei dieser kompakten Station und die muss eben geeignet sein, dass man die Kabel in die Station einführt und die Biegeradien von dem Mittelspannungskabel beispielsweise nicht unterschritten werden.
+
+(0:11:15 - 0:11:56)
+Hier sieht man das mal im Schnitt, den Keller sehen wir jetzt und man muss sich vorstellen, dass unten die Kabel eingeführt werden in die Schaltanlage und da halten wir dann die Biegeradien ein. Fußböden brauchen dann eine Brandschutzklasse B1 und sie müssen eben fest verankert sein, das heißt, wenn es jetzt einen Störlichtbogen gibt, dann darf dieser Boden nicht hochkommen, er darf sich durch den Druck nicht lösen, das heißt, er ist fest verankert und hält diesem Störlichtbogen stand. Schallschutzmaßnahmen und Auffangwangen, also Transformatoren, imitieren erstmal einen gewissen Schall, einen gewissen Lärm und da sagt die Norm eben, die TA Lärm müsste man da beachten.
+
+(0:11:57 - 0:12:26)
+Also das sind technische Vorgaben, Richtlinien für Lärmschutz, die kann man sich mal durchlesen. Ich hatte in meinen Projekten mit Schallbelastung noch keine Probleme, aber es gibt erstmal einen Hinweis in dieser 4110 für Lärmbelastung. Auffangwangen für Isolierflüssigkeit, genau, ihr seht es jetzt über mir an der Kompaktstation, das, was da so grau eingefärbt ist, das ist jetzt der Kabelkeller und der dient hier auch als Auffangwanne für das Öl des Transformators.
+
+(0:12:26 - 0:13:04)
+Das heißt, wenn der Trafo haveriert, dann läuft Öl aus, aus diesem ölgefüllten Trafo und das bleibt dann eben in diesem grauen Bereich, das schwappt nicht über und kommt in die Umgebung, in die Natur, sondern es bleibt in der Trafostation. So, Trassenführung der Netzanschlusskabel, also erstmal wichtig, Netzanschlusskabel ist hier gemeint, also das Kabel von der Übergabestation zum Netzanschlusspunkt und da ist erstmal keine Überbauung und keine tiefwurzelnden Pflanzen erlaubt. Also man muss eben sehen, dass da jetzt nicht eine Eiche drauf wächst oder ein anderer großer Baum.
+
+(0:13:04 - 0:13:25)
+Es ist natürlich zulässig, dass dort eine Wiese wäre oder vielleicht auch kleine Büsche vielleicht wachsen, aber eben keine tiefwurzelnden Pflanzen. Muss man mal einen Botaniker fragen, was in die Kategorie fällt, aber vom Grundsatz her haltet das frei und überbaut diese Kabelstrecke nicht. Sie ist ohnehin relativ kurz in der Regel und die ist dann eben freizuhalten.
+
+(0:13:26 - 0:14:04)
+Jederzeit zugänglich muss dieses Kabel sein, dieses Anschlusskabel, also man muss das irgendwie erreichen können und Kabelführung und Kabelwege, stimmt man dann mit dem Netzbetreiber ab oder ergibt es tatsächlich sogar vor. Kreuzungsfrei, ja, ihr müsst euch vorstellen, in unsere Mittelspannungsschaltanlage führt einmal das Kabel vom Netzbetreiber, also zum Netzverknüpfungspunkt und unser Kabel, was zum Solarpack führt, führen ja parallel raus und dann muss eben vermieden werden, dass sich die Leitungen gleich vor der Station wieder kreuzen. Also das muss man dann so verlegen, das Kabel, dass es kreuzungsfrei zum Netzanschlusspunkt gelangt.
+
+(0:14:06 - 0:14:28)
+Beleuchtung Steckdosen ist für begehbare Stationen noch ein bisschen aufwendiger, für die kompakten Stationen ist es aber, glaube ich, relativ einfach. Die müssen erstmal vorhanden sein und nach der Messung installiert werden. Ja, also wir dürfen diese Beleuchtung und Steckdosen den Strom natürlich nicht vor der Messung aus dem Netz abzweigen, sondern erst nach der Messung und wir müssen für ausreichend Lichtstärke sorgen.
+
+(0:14:29 - 0:14:59)
+Schuko-Steckdose muss mit rein, also die übliche Steckdose, die ihr aus dem Haushalt kennt, damit man gegebenenfalls mal Laptops, was auch immer, kurzzeitig laden kann. Fundament Erde haben wir dann drin, das ist eher relevant bei Gebäuden, bei unseren kompakten Stationen nicht unbedingt. Es werden natürlich alle metallischen Teile verbunden und wenn dort Fundament oder wenn dort eine Bewährung im Stahl ist, ist die vermutlich auch verbunden, aber für unsere kompakten Stationen ist das jetzt kein wichtiger Punkt.
+
+(0:15:01 - 0:15:16)
+Jetzt kommen wir zu Hinweisschildern. Da wird es ein bisschen bildlicher, das wird vielleicht ein bisschen klarer als das, was wir vorher hatten. Erstmal gibt es die Vorgabe, dass man Hinweisschilder in den Stationen vorhalten soll.
+
+(0:15:16 - 0:15:33)
+Das ist Kapitel 6.1.3.1 und dann sieht das in so einer Station ungefähr so aus. Da sind die Türen schon sehr wild beklebt, da ist gar nicht mehr so viel Platz, gar nicht mehr so viel freier Platz, aber das hat eben auch Gründe. Das macht kein Stationslieferant einfach so, sondern es gibt eben Vorgaben.
+
+(0:15:34 - 0:15:59)
+Es gibt dann auch, diese Schilder sind so ein bisschen genormt, da gibt es das W012, das ist dann dieser elektrische Blitz, glaube ich. W012, Hochspannung, Lebensgefahr, ist dann der Zusatz, der darunter steht und den bringen wir an auf der Mittelspannungseite und an Traforäumen. Wir zoomen da mal so ein bisschen rein, genau, da seht ihr diesen Blitz, das ist W012 und darunter der Zusatz Hochspannung, Lebensgefahr am Mittelspannungsraum.
+
+(0:16:02 - 0:16:27)
+Dann gibt es das W012, das gibt es auch nochmal, dann mit einem anderen Zusatz, nur mit Warnung vor gefährlichen elektrischen Spannungen. Das könnte man sich beispielsweise vorstellen am Niederspannungsraum, so sagt zumindest die Norm. In der Praxis, in der Umsetzung, sehe ich ehrlich gesagt am Niederspannungsraum dann auch immer das W012, allerdings in der höherwertigen Kategorie, würde ich sagen, mit Hochspannung, Lebensgefahr.
+
+(0:16:29 - 0:17:04)
+So, dann kommen weitere Schilder, wir gehen jetzt mal relativ schnell durch, also Schalten verboten, es wird gearbeitet. Wir zoomen es mal rein, das sieht so aus, das muss da sein, die sind meistens magnetisch, also man kann die dann an die Metallkörper dran kleben, magnetisch, und es gibt geerdet und kurzgeschlossen. Das sieht dann so aus, das Schild, also auch das kann man dann natürlich, wenn man arbeitet und geerdet und kurzgeschlossen hat, an die Station hängen, damit dann niemand einschaltet oder niemand auf die Idee kommt, dort irgendwelche Schalthandlungen durchzuführen.
+
+(0:17:05 - 0:17:39)
+Vorsicht, Rückspannung, das ist sicherlich eher wichtig, wenn man mal zwei parallele Transformatoren hat, das habe ich noch nicht so häufig gesehen in meinen Stationen. Merkblatt der BG, das ist aber immer da, das kann sich jeder auch gerne mal durchlesen, das ist dieses große gelbe Schild mit sehr, sehr kleiner Schrift, aber sehr, sehr vielen Informationen, wie man sich eben verhalten soll, wenn es einen Fehler gibt. Übersichtsplan der Mittelspannung Schaltanlage, den kann man wie hier in diese Dokumententasche legen oder man kann ihn auch irgendwo aufkleben, das kann dann jeder für sich entscheiden.
+
+(0:17:41 - 0:19:26)
+Dann haben wir noch 5 Sicherheitsregeln, sieht man da klein in Blau, wir zoomen es mal rein, das sind die 5 Sicherheitsregeln, die jeder Elektriker in seiner Ausbildung auswendig lernt, in der Station sind sie dann nochmal aufgehangen. Ansprechpartner, Notfall und Anschlussnehmer, genau, das ist hier dieses Grüne, diese grüne Tafel, wichtig, wichtig, füllt die einfach aus, ja, oft sieht man die, sie hängt zwar in den Stationen, aber dann steht dort nichts drin, dann hat man auch keinen Notarzt, keinen Arzt, den man mal anrufen kann im Notfall, das ist dann immer sehr schade, weil so ist es natürlich nicht gedacht. Das ist eine Übersicht für euch, das könnt ihr mal so mitnehmen, wenn ihr vielleicht mal auf so einem Baustellenbesuch seid und mal schauen wollt, ob überhaupt alle Schilder da sind, das ist hier die Übersicht, könnt ihr so ein bisschen wie eine Checkliste verwenden, brauchen wir jetzt nicht nochmal durchgehen, wir gehen dann lieber zum nächsten Punkt und das ist das Zubehör und das erste Zubehör, was wir hier sehen, ist der Antriebshebel für Schaltgeräte, also die Mittelspannungsschaltanlagen, die haben Antriebshebel, hier ist er jetzt in Schwarz eingefärbt, das ist dann wahrscheinlich der Schalthebel, entweder für den Lasttrenner oder für den Leistungsschalter, den gibt es meistens noch in Rot für den Erder, aber diese Antriebshebel für die Schaltgeräte, die müssen vorhanden sein, weil sonst kann man ja nicht schalten, das heißt, das ist ein wichtiges Zubehörteil in der Station. Erdungs- und Kurzschlussvorrichtungen, da haben wir mal so eine Erdungsspinne dargestellt, da gibt es dann meistens auch noch eine Stange dazu, mit der man die Erdungsspinne dann montieren kann, die ist in der Station. Schaltfeldtürschlüssel, ja, das ist jetzt hier einfach der klassische Schaltschrankschlüssel, den wir gezeigt haben. Wandhalterung für Zubehör, damit dieses Zubehör eben nicht einfach nur irgendwo in der Station liegt, sondern ordentlich aufgeräumt an der Wand hängt.
+
+(0:19:27 - 0:20:01)
+Dokumentation, das ist dann diese Dokumententasche mitten im Ordner drin, zum Beispiel, wo eben die letzten Planrevisionen drin liegen. Nicht gefordert, das ist uns eben aufgefallen, der Spannungsprüfer hat sicherlich den Hintergrund, dass man davon ausgeht, dass jeder Servicetechniker seinen eigenen geprüften Spannungsprüfer dabei hat und sich nicht darauf verlassen muss, dass der Spannungsprüfer in der Station, der da vielleicht schon viele Jahre lag, wo man vielleicht auch gar nicht weiß, wie man den genau bedient, dass man dann damit arbeitet. Man hat seinen eigenen Spannungsprüfer dabei, um eben Spannungsfreiheit festzustellen.

@@ -1,0 +1,20 @@
+(0:00:00 - 0:00:15)
+Es freut mich, dass ihr da seid. Heute beschäftigen wir uns mit dem Thema Netzform. Das ist ein Thema, was aus meiner Sicht die Grundlagen der Elektrotechnik betrifft, die wir alle wissen sollten, kennen sollten.
+
+(0:00:15 - 0:00:35)
+Für den Planer von Photovoltaikanlagen ist das eine wichtige Grundlage, die wir später auch in weiteren Brain Days wieder brauchen und verwenden müssen, wenn es um Schutztechnik geht, wenn es um KU-Schutz geht. Sollte jeder zumindest wissen, was für Netzformen es gibt und wie sich diese Netzformen verhalten. Das ist erst mal als Einleitung.
+
+(0:00:36 - 0:00:56)
+Wir führen euch hier durch diesen Brain Day am Anfang mit der Frage, warum? Weil alle, die wissen, warum wir das machen müssen, für die werden sicherlich die ganzen Inhalte später auch viel klarer sein. Dann kennt ihr das. Wir haben die Normen, die wir ausfindig gemacht haben, die die Netztypologien beschreiben.
+
+(0:00:56 - 0:01:17)
+Danach zeigen wir euch, was für Netzstrukturen gibt es überhaupt. Wir brauchen dann noch einen kurzen Exkurs zu den Transformatoren, weil die sind einfach unheimlich wichtig, um Netzformen, Netztypologien zu errichten. Dann gehen wir auf die einzelnen Netzformen im Detail ein und teilen das Ganze nochmal auf in Mittelspannung und Niederspannung.
+
+(0:01:18 - 0:01:27)
+Ihr kennt das Ganze schon oder die Leute, die schon teilgenommen haben, wir unterstützen das Ganze mit Mentimeter. Da wird später der Code eingeblendet. Dann haben wir immer zwischendurch ein paar Testfragen.
+
+(0:01:28 - 0:01:49)
+Ihr könnt ein wenig Feedback geben, sodass wir ein wenig mit euch in Verbindung bleiben und sehen, ob ihr das verstanden habt, was wir hier präsentiert haben und ob ihr noch dabei seid. Das gesamte Thema Netzform, damit könnten wir wahrscheinlich Tage füllen. Wir haben es versucht, auf das Wichtigste runterzubrechen, was der Planer von Photovoltaikanlagen oder vielleicht auch für Windparks benötigt.
+
+(0:01:51 - 0:01:58)
+Wir starten jetzt einfach mal. In zwei Stunden haben wir, glaube ich, wieder sehr viel Stoff zu besprechen, deshalb auch keine Zeit zu verlieren.

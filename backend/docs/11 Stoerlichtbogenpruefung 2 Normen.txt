@@ -1,0 +1,139 @@
+So, hier sind wir zurück mit dem Thema Normen, ein wichtiger Bestandteil, ein sehr wichtiger Bestandteil unserer Präsentation im Allgemeinen. Soll immer mit dabei bleiben, weil Normen ja immer ein bisschen schwer sind zu greifen für die meisten. Welche Normen ist jetzt wichtig? Welche Normen gibt es überhaupt? Wir erklären euch dann ja hier immer in einem kurzen Abriss, welche Normen wir hier für wichtig halten. 
+
+Ich selbst kann mir das auch gar nicht merken, welche Normen dann immer wichtig sind, wenn ihr mich in drei Wochen anruft. Welche Norm war denn jetzt heute für das Thema wichtig? Ich weiß dann vielleicht die letzten drei Ziffern, aber den gesamten Normen-Code kann sich natürlich fast kein Mensch merken. Trotzdem gibt es hier eine kleine Zusammenstellung für uns und für euch natürlich dann als Hilfestellung. 
+
+Wenn ihr mal suchen müsst, wisst ihr genau, wo ihr es finden könnt, denn nämlich im Handout von dem Brainday-Störlichtpunktprüfung sind dann alle Normen, die aus unserer Sicht jetzt wichtig sind, zusammengestellt und dann könnt ihr dann natürlich alle weiter recherchieren. Also wir haben das aufgebaut mit einer kleinen Übersicht. Wir starten mit der Niederspannung, also für Anlagen kleiner 1 kV, haben wir euch gleich ein paar Normen zusammengeschrieben. 
+
+Dann gibt es eben die Mittelspannung, alles was dann eben zwischen 1 kV und kleiner 52 kV liegt. Bei uns üblicherweise 10, 20, 30 kV Anlagen. Und dann haben wir eben noch die Höchstspannung mit eingefügt, alles was eben größer ist als 52 kV. 
+
+Und da geht es dann eben um die 110 kV oder eben auch 220 kV, 380 kV Spannungsebene. Wir starten mit der Niederspannung und da haben wir erstmal die DIN EN 614392. Bei Blatt 1 ist das dann Schaltgerätekombination, Störlichtbogenprüfung, Fehler. 
+
+Das ist erstmal eine Norm, die ähnlich ist zu der Norm 62271-202. Auf die kommen wir später erst zu sprechen. Ist jetzt erstmal vorweggenommen. 
+
+Das ist dann die Norm für die Mittelspannung. In der Niederspannung ist es aber sehr sehr ähnlich. Es sind ähnliche Prüfabläufe, ähnliche Prüfindikatoren, die wir euch für die Mittelspannung dann später auch zeigen. 
+
+Ihr könnt euch dann, wenn ihr später die Mittelspannung kennt, euch daran orientieren. So ähnlich wird es eben in der Niederspannung auch gemacht. Wir nehmen aber keinen Bezug heute mehr auf die Niederspannungsprüfung, weil aus unserer Sicht das nicht unbedingt relevant ist. 
+
+Die Niederspannungsprüfung, die Niederspannungs-Störlichtbogenprüfung, wird nämlich in der VDE ARN 4105 eben nicht erwähnt. Es gibt da keinen Bezug. Ihr seid dann eben nach der 4105 nicht verpflichtet, Störlichtbogen geprüfte Komponenten einzusetzen. 
+
+Es ist natürlich trotzdem sinnhaft, Störlichtbogen geprüfte Komponenten auch in der Niederspannung einzusetzen, aber es wird erst mal nicht gefordert. Es ist keine normative Anforderung aus der 4105. Deshalb lassen wir das hier für heute erst mal außen vor und konzentrieren uns dann eben später auf diese Mittelspannungsnormen und gehen da dann auch wirklich im Detail darauf ein. 
+
+Das ist es dann auch für die Niederspannung schon mal gewesen und wir würden uns jetzt dann eben der Mittelspannung widmen, weil das sind ja auch die Anlagen, die wir dann häufig sehen in unseren großen Parks und wir starten hier mal mit der 62271-200 und das ist so etwas wie das Einheitenzertifikat der Schaltanlage. Also das ist eben die Prüfung für metallgekapselte Wechselstromschaltanlagen für Bemessungsspannung eben in der Mittelspannung 1 bis 52 kV. Da wird die Schaltanlage erst mal geprüft und das wird eben in der 4110, 4120 auch erst mal gefordert, also dass erst mal nur die Schaltanlage geprüft ist, weil das ist dann eben die Grundlage für unsere späteren Prüfungen, auf die wir dann wirklich im Detail noch eingehen und würden das jetzt aber auch erst mal hierbei belassen, weil diese Prüfung, die ist natürlich von dem Hersteller durchzuführen und wenn ihr jetzt die bekannten namhaften Hersteller, europäischen Hersteller da auswählt, die heißen dann meinetwegen Schneider, Siemens, ABB, dann könnt ihr meistens davon ausgehen, dass es dieses Zertifikat nach der 200 gibt und das ist dann eben der Grundstein für die weiteren Prüfungen, die wir jetzt hier auch gleich aufführen. 
+
+Das ist die DIN EN 62271-202, weil das ist dann eben die Prüfung für die fabrikfertige Wechselstromstation für Bemessungsspannung 1 bis 52 kV, also eben auch für die Mittelspannung, aber hier geht es nicht mehr nur um die Schaltanlage, sondern hier geht es dann eben um die gesamte Station, das ist eben wichtig und deshalb hatte ich da eben versucht, so ein bisschen die Analogie zu ziehen. Einheitenzertifikat, sage ich mal, ist die 200, so könnte man es vielleicht sich vorstellen, die Schaltanlagenprüfung und wenn man jetzt die 202 anschaut, dann ist es eben die gesamte Station, die Schaltanlage mit Betonkörper, mit allem, was da eben drin verbaut ist. Wichtig ist hier bei der Prüfung, bei der Störlichbogenprüfung, da geht es ganz stark um den Personenschutz, deshalb machen wir hier diese ganzen Aufwendungen ganz ganz wichtig und wenn wir uns dann später im Detail ja auch noch mal wirklich ansehen, diese Prüfung, diese Störlichbogenprüfung anschauen, dann gibt es ja die IAC-A, die IAC-B und eine Kombination IAC-AB und der A-Teil ist eben für den Schutz des Bedieners. 
+
+Seht ihr später auch, Türen offen, es steht jemand vor der Station und dann kommt es zu einem Störlichbogen und dann muss eben dieser Bediener möglichst geschützt sein. Bei der Prüfung nach B ist es dann eben eher die Prüfung der Öffentlichkeit, das heißt eine Station steht irgendwo in der Gegend, in der Innenstadt, neben einem Café, Menschen sitzen daneben, es kommt zu einem Störlichbogen in der Station und dann müssen die Leute, die sich dort in der Nähe dieser Station aufhalten, die in der Regel ja gar nicht wissen, was in diesen Betonkörpern in diesen kompakten Stationen enthalten ist, die müssen dann natürlich möglichst geschützt sein. Dafür ist dann eben diese B-Prüfung und AB ist dann eine Kombination aus beidem. 
+
+Erklären wir euch später im Detail, für die Einleitung, für die Normen reicht das erst mal so aus. Wichtig in der 4110, 4120 ist das gefordert, diese Prüfung nach der 202, zumindest für die Übergabestation und deshalb ist nachher auch unser Fokus hier auf diese Norm gerichtet. Als nächstes haben wir dann die DIN EN IEC TR 62271 312, Leitfaden für die Erweiterung des Geltungsbereichs von Typprüfungen von fabrikfertigen Stationen für Hochspannung, Niederspannung und dahinter versteckt sich für mich eben dieser Begriff Analogiebetrachtung. 
+
+Das ist ein ganz wichtiger Punkt und diesen Punkt, dieses Thema, das haben wir natürlich dann häufig mal gehört. Ich persönlich habe mich damit noch nie im Detail wirklich beschäftigen müssen, wie man eine Analogiebetrachtung durchführt. Wir kommen später auch noch mal dazu, was man da wirklich beachten muss und dann seht ihr auch, warum eine Analogiebetrachtung so schwierig ist. 
+
+Dann kommen wir noch zu der DIN EN 619361 und das ist eben Starkstromanlagen mit Wechselspannung über 1 kV und 1,5 kV DC und diese Norm, die gilt eben für nicht fabrikfertige Stationen. Das ist ein ganz wichtiger Unterschied. Also wir haben hier, ich würde sagen, die nicht seriengefertigte Übergabestation, sondern eine Station, die vielleicht gemauert wurde vor Ort, die vielleicht in ein bestehendes Gebäude irgendwo integriert wurde, dann haben wir eben nicht diese klassische Störlichtbogenprüfung durchführen können, sondern dann haben wir eben eine Sonderprüfung, die wir durchführen und das ist dann häufig relativ schwierig durchzuführen, relativ komplex. 
+
+Bei Umspannwerken haben wir das relativ häufig. Man muss dann eben schauen, halten diese Stationen den statischen Anforderungen aus? Wie groß sind jetzt die Ausdehnungsräume, auf die wir später noch zu sprechen kommen? Welche Schaltanlagen verwendet man? Das muss man dann wirklich im Detail betrachten. Da gibt es dann verschiedene Simulationssoftware. 
+
+Ich persönlich habe das noch nicht gemacht, bin da bisher drum herum gekommen. Das ist eine komplexe Geschichte. Wenn ihr mal dahin kommt, dass ihr das tun müsst, aus welchen Gründen auch immer, versucht euch da irgendwo abzusichern, versucht euch da Support zu holen. 
+
+Jemand, der da Erfahrung hat, weil sonst könnte es sein, dass ihr da am Ende vielleicht das böse Erwachen kommt und die Inbetriebnahme scheitert, weil eben diese Anforderung dann nicht erfüllt ist. Das ist jetzt einmal zusammengeklappt, die Mittelspannung und oben die Niederspannung und jetzt zum Schluss fokussieren wir uns noch mal ganz kurz auf die Höchstspannung. Höchstspannung, also ich würde es mal sagen, beginnend bei 110 kV. 
+
+Hier geht es jetzt um gasisolierte, metallgekapselte Schaltanlagen. Für Bemessungsspannung über 52 kV. 110 ist jetzt das, wo wir starten würden und hier bei dieser Norm geht es eben um eine Komponentenprüfung.
+
+Die meisten Umspannwerke, die wir so errichten, die haben dann ohnehin erstmal Schaltanlagen, die im Außenbereich aufgestellt werden und da gibt es dann keine Anforderung an das Gebäude. Wenn man dann noch mal ein Gebäude um diese 110 kV Komponenten beispielsweise errichtet, dann wird es natürlich auch hier komplex und schwierig, weil hier dann natürlich noch größere Drücke entstehen. Da muss man sich das im Detail anschauen. 
+
+Hier diese Norm, Komponentenprüfung. Wenn ihr das habt, dann könnt ihr erstmal diese Komponenten einsetzen und eure freilichtfrei Luftanlage dann entsprechend errichten. Das ist hier die Zusammenfassung und jetzt fokussieren wir uns eben auf diese 202. 
+
+Wir hatten eben ja schon gesagt, die 202 die macht Störlichbogenprüfung. Ja, mehr ist da nicht drin, hatten wir gedacht, ist aber nicht so. Diese 202, die liefert noch viel viel mehr. 
+
+Punkt 1, den ich jetzt erstmal aufgeführt habe, Allgemeines und Normenbezüge. Diese 202, das sind viele viele Seiten, die man da unter Allgemeines zusammenfassen kann. Man muss sich das wirklich im Detail mal durchlesen. 
+
+Es gibt viele viele Normenbezüge. Das ist erstmal ganz wichtig. Diese 202, die sagt uns eben, wie wir diese Anlage errichten müssen. 
+
+Es gibt hunderte von Normen und wir kriegen hier wirklich dann einen Überblick, was hier wichtig und notwendig ist. Dann zweiter Punkt, Leistung und Gehäuseklassen. Finde ich sehr sehr interessant, weil ich häufig die Frage gestellt kriege, wir haben jetzt hier eine Trafo-Station und diese Trafo-Stationen, können wir die denn mit 100 Prozent belasten zum Beispiel oder können wir die vielleicht nur mit 90 Prozent überbelasten. 
+
+Manch anderer sagt, wir können auch 105 Prozent auslegen, also AC-Leistung der Wechselrichter zu der Trafo-Leistung. Und diese Norm, die wir hier haben, die gibt uns erstmal eine klare Vorgabe, wie man da rangehen soll. Wir haben euch jetzt mal die Gehäuseklasse 10 markiert.
+
+Das ist da in grün eingefärbt, diese Linie mit den kleinen Rechtecken. Und wenn man ein Gehäuse der Klasse 10 hat, dann bedeutet das erstmal, dass dieses Gehäuse, dass der Betonkörper der Trafo-Station ziemlich gut belüftet ist. So würde ich es jetzt mal umgangssprachlich klassifizieren. 
+
+Ich würde sagen, fast alle Seiten der Trafo-Station sind dann mit Lüftungsgittern ausgestattet, also Türen mit Gittern. Da kann eben die Luft einströmen, kann durchströmen. Ich würde sagen, da ist dann relativ wenig der Außenhaut noch geschlossen, Klasse 10, also sehr gut belüftet.
+
+Und dann gibt es auf der Y-Achse die Temperaturen, von Umgebungstemperaturen 0 bis meinetwegen 40, 50 Grad hoch. Und dann gibt uns diese Norm eben eine klare Vorgabe, wie wir diese Trafo-Station belasten dürfen. Also Klasse 10 mit einem Lastfaktor 1, das heißt dauerbelastet, dann müsste die Umgebungstemperatur, man kann es nicht so gut erkennen, aber wahrscheinlich irgendwo bei 10 Grad liegen. 
+
+Und das, ehrlich gesagt, haben wir natürlich bei unseren europäischen Projekten sehr selten. Im Sommer kriegen wir deutlich höhere Temperaturen und dann muss man eben schauen, wie man daran geht. So, dann gibt es Konstruktion und Aufbau. 
+
+Hier haben wir euch mal so eine Station dargestellt. Es geht um Abstände zwischen Komponenten, es geht um Höhe, Breite, Tiefe der Station, also wirklich viele, viele Details, die da drin sind. Aber auch ganz wichtig, wenn man sich jetzt hier mal die Station an sich anschaut, es geht hier auch um eine Ölauffangwanne. 
+
+Wir zoomen das mal ran. Also Schutz der Umwelt ist dann natürlich ein ganz großes Thema. Wir sehen jetzt hier die Trafo-Station im Schnitt. 
+
+Welche Komponenten man jetzt hier noch sieht, kommen wir später im Detail noch mal darauf zu sprechen. Aber erst mal die Ölwanne. Schutz der Umgebung, das heißt, es kommt zu einer Havarie des Transformators. 
+
+Der Transformator bekommt ein Leck, warum auch immer, und das Öl in diesem Trafo läuft aus. Das kann durchaus mal passieren. Dann darf dieses Öl natürlich erst mal nicht in die Umgebung gelangen. 
+
+Was wir jetzt hier blau markieren in dem Bild, das ist eben genau diese Ölwanne, die eben ausgelegt sein muss für das Ölvolumen des Trafos. Also wenn der Trafo jetzt Leck schlägt, darf das Öl nicht aus dieser Ölwanne rausfließen. Dafür sind dann da häufig auch noch Beschichtungen des Betons mit vorgesehen. 
+
+Das machen die Hersteller dann auch zum Teil unterschiedlich. Aber grundsätzlich gilt eben erst mal, dass diese Ölwanne dafür sorgen muss, dass kein Öl in die Umgebung gelangt. Und das ist hier in Satz 202 auch klar vorgeschrieben. 
+
+Der nächste Punkt in dieser Norm, den wir wichtig finden, ist eben das Erdungssystem der Schaltanlage und der Station. Also wie wird so etwas geerdet? Was muss man da beachten? Auch da gibt es erst mal genau diese Zeichnung, die ist so in der Norm zu finden. Und die gibt erst mal eine grobe Skizze, wie man eben so ein Erdungssystem ausführen muss. 
+
+Also wichtig würde ich erst mal sagen, ist hier die äußere Erdungsverbindung. Es muss eben einen Anschluss außen an der Station geben oder irgendwie eine Einführung in die Station, über die man dann eben die Erdung an den einzelnen Stationskomponenten anschließen kann. Und dann wird hier eben auch noch ausgeführt, dass eben alle Komponenten mit dieser Erdung verbunden werden müssen. 
+
+Das sind natürlich Transformatoren, das sind Schaltanlagen, sind aber auch dann die Türen, die metallisch sind. Also alle metallischen Teile werden dann hier in dieses Erdungssystem eingebunden. Und das ist eben ein wichtiger Bestandteil für die Sicherheit, für den Betrieb von so einer Anlage.
+
+Dann haben wir hier den nächsten Punkt, mechanische Beanspruchungen, Schnee und Schlag. Das ist natürlich auch wichtig und da gibt es eben diese Prüfung, die wir hier dargestellt haben. Man sieht hier so eine Konstruktion und man nennt das eben dieses Hammerschlaggerät. 
+
+Also es wird dann wirklich ein Hammer vor dieser Station positioniert und der schwingt dann runter und schlägt eben vor die Türen der Station und dann wird eben geprüft, ob diese Station wirklich einen Schaden erleidet. Hier geht es dann natürlich auch viel um Vandalismus. Also so eine Trafostation soll vielleicht grundsätzlich einfach nicht leicht zu öffnen sein, weil innerhalb dieser Station hat man dann natürlich nicht zuletzt lebensgefährliche Komponenten. 
+
+Wenn dort Leute eindringen, die eben nicht vom Fach sind, kann es da wirklich sehr, sehr gefährlich werden. Deshalb müssen diese Stationen erstmal so ausgeführt sein, dass da niemand reinkommt ohne weiteres. So, jetzt kommt der nächste Punkt. 
+
+Das ist die Lüftungsöffnung. Stochersicher? Ja, das ist vielleicht jetzt auch nochmal eine Randnotiz vielleicht eher. Die meisten Stationen haben das. 
+
+Was damit gemeint ist, ist im Grunde genommen, dass diese Trafostation, so wie man sie hier sieht, die steht im öffentlichen Bereich, vielleicht in Wohngebieten und dann muss sichergestellt sein, dass beispielsweise Kinder dann nicht mit Stöckern durch die Lüftungsgitter kommen. Das Lüftungsgitter haben wir euch mal eingerahmt. So sieht es aus. 
+
+Man könnte jetzt natürlich mit einem kleinen Draht versuchen, da reinzugehen, aber das wird eben verhindert durch diese Stochersicherheit. Da gibt es verschiedene Systeme. Manche haben da einfach ein feines Drahtgewebe dahinter, sodass man da nicht durchkommt mit einem Draht. 
+
+Andere legen da die Lamellen etwas versetzt übereinander, sodass man nicht durchkommt. Wichtig ist, dass das gegeben ist, weil hinter dieser Tür ist eben der Transformator und wenn man da eben drankommt mit einem Draht, mit was auch immer, dann ist das eben lebensgefährlich. Dann gibt es eben noch die Störlichtbogenprüfung IAC-AB oder AB. 
+
+Das hatten wir ja vorher schon mal kurz erwähnt. Da legen wir natürlich auch gleich den Fokus drauf. Aber ihr seht ja schon, die Störlichtbogenprüfung ist jetzt ein Teil von vielen, der hier in dieser Norm abgeprüft wird und hier nochmal aufgeschrieben. 
+
+Teil A ist eben Schutzbedienpersonal bei der Tür geöffnet. B ist Schutz der Öffentlichkeit, Türen geschlossen. Und das schauen wir uns jetzt hier nochmal an. 
+
+Also Störlichtbogenprüfung IAC-A, IAC-B oder AB und die Prüfpunkte, die da eben abgeprüft werden nach so einer Prüfung oder während so einer Prüfung. Also gesicherte Türen, Abdeckungen sollten nicht geöffnet sein. Das heißt, wenn wir so eine Prüfung durchführen, dann sollen eben die Türen nicht aufschlagen. 
+
+Ganz wichtig, ist sicherlich auch klar nachvollziehbar, die Türen bleiben geschlossen. Das ist ein wichtiger Prüfpunkt. Der nächste Prüfpunkt wäre Gehäuse nicht aufgerissen oder Teile 60 Gramm und größer weggeflogen. 
+
+Ja, also wenn jetzt, es kommt zu einer Explosion und wenn da so ein 60 Gramm schwerer Betonklumpen vielleicht weggeschleudert wird, dann kann der natürlich schon ganz schöne, zumindest erstmal ganz schöne Schmerzen auslösen, wenn man davon getroffen wird. Aber wenn natürlich noch größere Teile dort wegfliegen in dem öffentlichen Bereich, dann ist das natürlich sehr gefährlich. Und wenn die Station aufreißt, natürlich auch, dann dringt da an Stellen etwas heraus aus der Station, wo es vielleicht nicht rauskommen soll. 
+
+Die Station muss so, wie sie dort steht, intakt bleiben, weil sie so geprüft wird. Und dann eben die Öffnungen, die vorgesehen sind, diese normalerweise Lüftungsöffnungen, da soll dann eben das Gas der Druck entweichen und nicht an anderen Stellen, die dafür eben nicht vorgesehen sind. So, keine Brandlöcher im Gehäuse. 
+
+Das ist ähnlich wie der Punkt davor. Das Gehäuse an sich soll intakt bleiben. Es soll keine Brandlöcher geben. 
+
+Es soll keine Beschädigung wesentlicher Art am Gehäuse geben. Indikatoren nicht entzündet. Die Indikatoren, die zeigen wir euch später nochmal. 
+
+Das sind eben so Baumwolltücher, die vor diese Station gestellt werden. Und wenn Gas entweicht, wenn Druck entweicht, dann dürfen diese Indikatoren eben nicht brennen. Ganz, ganz wichtig. 
+
+Erdverbindungen dürfen nicht beeinträchtigt werden. Natürlich auch wichtig. Die Erdung von einzelnen Komponenten ist ja immer mit die wichtigste Sicherheitsvorkehrung, die wir so haben. 
+
+Und dann muss eben sichergestellt sein, dass nach diesem Störlichtbogenprüfung die Erdungsverbindungen noch erhalten bleiben oder erhalten geblieben sind. Letzter Punkt hier und der wird eben nicht abgeprüft. Ganz, ganz wichtig.
+
+Das sind die die giftigen Gase. Also wir haben hier bei so einer Störlichtbogenentstehung Gas Entwicklungen. Ganz klar. 
+
+Wir haben in den Stationen verschiedene Lacke. Wir haben Gießharz. Wir haben verschiedene Kunststoffe, Metalle, die während so eines Störlichtbogens sich natürlich in Gas auflösen, in Rauch auflösen. 
+
+Und die werden erstmal nicht bewertet. Also wenn man neben so einer Station steht und es eine Störlichtbogenprüfung gibt, dann ist man, glaube ich, gut beraten, wenn man diese Gase möglichst nicht einatmet, weil die könnten unter Umständen natürlich sehr, sehr giftig sein. Und was dann eben auch nicht bewertet wird, ist zum Beispiel diese die Lärmbelastung. 
+
+Also wenn so ein Störlichtbogen entsteht, gibt es einen sehr, sehr lauten Knall. Auch da gibt es keine Bewertung. Der wird entstehen und dann hat man da vielleicht ein schweres Gehörtrauma. 
+
+Aber im Grunde genommen ist das keine lebensgefährliche Verletzung und es wird eben nicht bewertet hier. So, jetzt gibt uns die 202, also die 622171-202 noch ein Vorgehen vor, wie man eben so eine Prüfung durchführen kann. Das ist ja so eine Entscheidungsmatrix im Grunde. 
+
+Wir starten oben mal mit der Hochspannungsschaltanlage und schauen uns mal an, ob diese Hochspannungsschaltanlage erstmal nach der 200 geprüft ist. Das ist erstmal der wichtigste Punkt. Das ist erstmal die Basis für unsere spätere Störlichtbogenprüfung. 
+
+Ich empfehle natürlich jedem, besorgt euch Schaltanlagen, kauft Schaltanlagen ein, die eben nach der 200 geprüft sind, weil nur dann könnt ihr hier in dem weiteren Verlauf nach unten in dem Diagramm gehen. Wenn ihr das nicht habt, dann wird das erstmal relativ schwierig. Ich habe auch hier diesen Weg noch nie gehen müssen, weil jetzt müsste man prüfen, ob die IAC 200 anwendbar ist. 
+
+Und dann wird es natürlich schon sehr, sehr schwierig. Wann ist jetzt genau diese 200er-Norm anwendbar? Also ihr habt keine Prüfung der Schaltanlage und hier würde ich euch empfehlen, überlegt euch das wirklich gut, ob ihr den Weg gehen wollt, weil wann ist denn jetzt die 200 anwendbar? Das ist schwer, das ist sehr, sehr schwer und da müsst ihr jetzt auch die Leute überzeugen, die am Ende das Ganze hier unterschreiben sollen und dafür geradestehen sollen, dass eure Anlage so funktioniert. Also jetzt ist die 200 vielleicht noch nicht mal anwendbar, dann kann eure Anlage auch überhaupt nicht nach dieser 202 klassifiziert werden. 
+
+Dann seid ihr da zumindest an einem Ziel angelangt, also ihr könnt jetzt erstmal keine Störlichtbogenqualifikation nachweisen. Wäre dann eben so. Wenn ihr jetzt vielleicht doch nachweisen könnt, dass diese 200, also ich würde jetzt mal sagen, diese Schaltanlagenprüfung klassifiziert oder anwendbar ist, dann könnte man jetzt alle Prüfungen in allen Schaltanlagenteilen dieser Station durchführen und dann könnte man im Grunde genommen zu einer IAC, zu einer 202er-Zertifikat gelangen, aber ehrlich gesagt, das glaube ich sind die aller, aller seltensten Fälle. 
+
+Ich würde grundsätzlich von diesem Weg abraten, also wenn ihr oben seid, sorgt dafür, dass eure Schaltanlage nach der 200 klassifiziert ist und dann könnt ihr eben auch den den Pfad von von oben nach unten weitergehen und dann ist das erst mal alles viel, viel einfacher. Ihr müsst dann nur noch mal prüfen, sind die Gasströmungen, die Druckentlastungsräume der Schaltanlage identisch? Also ich würde mal sagen, wenn ihr eine normale Schaltanlage von einem namhaften Hersteller habt, dann habt ihr meistens Lasttrenner, ihr habt Leistungsschalter und die Felder sind von der gleichen Familie, sind identisch aufgebaut, dann kann man diese Frage erstmal wahrscheinlich mit Ja beantworten. Wäre das nicht so, würde man sie mit Nein beantworten müssen, dann wäre eben die Aufgabe jetzt in jedem der unterschiedlichen Schaltfelder eine Störlichtbogenprüfung durchzuführen. 
+
+Wenn man das aber mit Ja beantwortet, dann ist es einfach, dann muss man eben nur eine Störlichtbogenprüfung durchführen und dann kommt man relativ schnell zum Ziel. Vielleicht noch mal einmal zu dem Nein, wenn ihr jetzt beispielsweise eine gasisolierte Schaltanlage habt und daneben ein luftisoliertes Messfeld, dann wären das unterschiedliche Gasströmungen, unterschiedliche Schotträume und dann müsste man eben für die Schaltanlage und für das luftisolierte Messfeld eben unterschiedliche Prüfungen durchführen, also getrennt prüfen und eben sehen, dass die Schaltanlage und das Gebäude eben das Ganze dann bestehen. So jetzt sind wir das einmal durchgegangen, also vielleicht zusammenfassend, wir brauchen eine Schaltanlage geprüft nach der 200 und je nachdem, wie viele unterschiedliche Schaltanlagen-Typen wir dann haben, umso mehr Prüfungen muss man dann eben durchführen. 
+
+So jetzt habe ich viel erzählt, wir kommen jetzt zum Menti und da fragen wir das Erzählte erstmal ab.

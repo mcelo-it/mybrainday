@@ -1,0 +1,145 @@
+Wie funktioniert so eine Störlichtbogenprüfung ein wenig zu hinterleuchten? Also erstmal fangen wir an, was braucht man denn für sowas, für eine Störlichtbogenprüfung? Man braucht Indikatoren, ja erstmal so einfach gesagt. Ist ein wichtiges Teil, was eben dafür verwendet wird. Man sieht hier einen kleinen Indikator, der besteht erstmal aus Baumwolltuch und aus einem Stahlrahmen.
+
+Jetzt gibt es zwei unterschiedliche Prüfungen, IAC-A und IAC-B. Dann ist dieses Baumwolltuch etwas dicker oder etwas dünner. Das sollte jetzt erstmal so weit reichen.
+
+Und es ist brennbar vor allem. Weil was wollen wir nachweisen bei so einer Störlichtbogenprüfung? Wie heiß sind die Gase, die da rauskommen? Kommen da vielleicht auch sogar brennende Sachen raus? Und das würde dann übertragen werden auf diese Indikatoren. Und diese Indikatoren, die dann eben immer in so kleine Stahlrahmen gefasst sind.
+
+Also ich habe die Größe jetzt nicht ganz im Kopf, aber das, was wir hier sehen, ist vielleicht so 20 mal 20. Diese Indikatoren sollen sich dann auch nicht gegenseitig entzünden, sondern man will natürlich sehen, an welcher Stelle kam es jetzt hier zu so einer gefährlichen, heißen Entwicklung von Dampf. Was hat hier diese Baumwolle entzündet? Dieses eine Bauteil sitzt dann in so einem großen Gittergeflecht.
+
+Und das mag dann jetzt 2 mal 2 Meter, 3 mal 3 Meter sein. Jedenfalls ist das das, was man dann verwendet später in der Prüfung. Und man stellt eben dieses große Gitter vor die Station, beziehungsweise vor den zu prüfenden Bereich.
+
+Und jedes einzelne Baumwollkästchen würde dann eben diesen Hitzeaustritt anzeigen, beziehungsweise wird es wahrscheinlich auch beschädigt werden, wenn größere Teile dadurch fliegen wollen. Dafür platziert man das dann eben an den richtigen Stellen, um hinterher das Ergebnis zu sehen. Jetzt gucken wir uns mal so eine Kompaktstation an.
+
+Das ist jetzt erstmal wichtig, dass man auch den Aufbau nochmal etwas versteht, um dann eben zusammen mit diesen Indikatoren hinterher so einen Prüfaufbau aufbauen kann und dann sieht, was da passiert. So, unsere Kompaktstation kommt hier eingeblendet. Ich würde jetzt mal sagen, das ist eine TRAFO-Übergabestation, weil wir sehen hier ein Messfeld mit drin und eine Schaltanlage.
+
+Das ist hier eben auch wichtig, weil wenn wir jetzt so eine Störlichtbogenprüfung durchführen, dann macht man das einmal für das Messfeld und einmal für, ich sage jetzt mal, die SF6 Gasisolierte Schaltanlage, weil wir müssen davon ausgehen, dass beide Anlagen unterschiedliche Gasdruckentwicklungen haben. Also der Gasstrom wird anders gelenkt. Es gibt mehr oder weniger, bei SF6 ist es etwas weniger als bei luftisolierten Anlagen.
+
+Und dann muss man eben sowohl für die Schaltanlage die IAC-A und die IAC-B Prüfung durchführen. Das seht ihr gleich nochmal ein bisschen genauer, was es bedeutet. Und eben auch für das Messfeld, auch IAC-A und IAC-B.
+
+Das heißt vier Prüfungen für diese Station, wenn man denn alle Klassifizierungen erhalten möchte. Jetzt schneiden wir die Station mal so ein Stückchen gleich auf. Also hier gucken wir von der Seite und jetzt sehen wir, wie so eine Station dann vielleicht seitlich aufgebaut ist.
+
+Ihr seht in der Mitte einen Transformator, links die Schaltanlage. Und ganz wichtig ist jetzt hier bei dieser Störlichtbogenprüfung der untere Teil dieser Kompaktstation, weil da geht es um Ausdehnungsräume. Wenn sich Gas entwickelt durch so einen Kurzschluss, dann gibt es einen primären Ausdehnungsraum.
+
+Und es gibt einen sekundären Ausdehnungsraum. Zwischen diesen beiden Räumen befindet sich dann noch die Gasstromkühleinrichtung. Das heißt im Grunde genommen, der Störlichtbogen entsteht, das Gas entweicht, geht zuerst in den primären Bereich.
+
+Und danach durch diese Gasstromkühleinrichtung in den sekundären Bereich. Zeigen wir euch gleich auch nochmal ein bisschen genauer, wie es dann tatsächlich passiert bei der Prüfung. Genau, da sind wir jetzt schon.
+
+Prüfung. Wir nehmen uns dann eben die Stationen her und wir machen eine Prüfung IAC-A. Das ist eben die Klassifizierung A nach der Störlichtbogenprüfnorm.
+
+Und da geht es darum, dass wir hier vor allem den Bediener schützen wollen. Das ist ein ganz großer Unterschied zu der Prüfung B, die wir gleich auch zeigen. Weil wenn wir den Bediener schützen, dann gehen wir erstmal davon aus, es steht eine Person vor der Schaltanlage und schaltet, arbeitet, was auch immer.
+
+Das heißt, wir müssen jetzt nur den Bereich vor der Schaltanlage prüfen. Dafür nimmt man die Türen raus, stellt ein Gitter davor. Zeigen wir gleich noch im Detail.
+
+IAC-B wäre jetzt die zweite Klassifizierung, die man durchführen kann für diese Stationen. Und da geht es dann eher um den Schutz der Öffentlichkeit. Und dann ist eben der Unterschied zur ersten Prüfung, dass man hier die Station so wie sie in der Öffentlichkeit stehen würde, in dem Wohngebiet beispielsweise, mit geschlossenen Türen prüft.
+
+So wäre es genau. Also alle Türen sind geschlossen. Und dann würde man eben diesen Störlichtbogen zünden und schauen, dass die Passanten, die Leute, die sich da in der Umgebung befinden, eben unverletzt bleiben.
+
+Und dann gibt es nochmal für mich einen dritten Fall. Das ist auch wieder die A-Klassifizierung, wo es um den Schutz des Bedieners geht. Und das hat man meistens bei kompakten Stationen beziehungsweise bei Container-Stationen.
+
+So würde ich es jetzt mal eher beschreiben, weil da ist es erstmal baulich. Die sind sehr offen. Da kann man nicht unbedingt die Öffentlichkeit schützen.
+
+Die haben kein Fundament, wo der Störlichtbogen hingeleitet wird. Und deshalb versucht man hier nur den Bediener zu schützen. Und das ist in diesen Anwendungsfällen dann auch okay, weil diese Anlagen, diese Trafo-Stationen, hier ist es eine zentrale Wechselrichter-Station.
+
+Die stehen eben parkintern, sage ich mal, also in dem eingezäunten Bereich. Da haben wir gar nicht mit Passanten und so weiter zu rechnen. Also ist das völlig in Ordnung, dass man da eben diese IACA-Prüfung macht und die Station dann eben so errichtet.
+
+So, wir schauen uns das an. IACA-Kompaktstation mit Schaltanlage und Messfeld. Wir nehmen erstmal die Türen raus, weil sonst können wir unsere Indikator-Matte da gar nicht so richtig gut vorstellen.
+
+So machen wir das. Und dann kommt der Schnitt der Station. Und wir schauen uns hier mal die Komponenten kurz an.
+
+Also die Schaltanlage sehen wir im Schnitt. Da ist schon ein Kabel angeschlossen. Und das Kabel würde natürlich unten rausführen. 
+
+Und da würde jetzt der Generator an dieses Kabel angeschlossen werden. Und der Generator bedeutet, das ist ein großer Transformator, der in diesem Prüflabor irgendwo steht, der dann in der Lage eben ist, da 20 Kiloampere für eine Sekunde, ich sage mal, in diese Schaltanlage zu drücken, damit eben dieser Störlichtbogen, der entsteht, auch die maximale Wirkung entfalten kann. Jetzt stellen wir noch die Indikator-Matte davor, bevor wir den Störlichtbogen prüfen.
+
+So geht das. Die steht dann dicht vor der Station, sodass sie auch natürlich dann beschädigt würde, wenn vorne etwas austritt. Das sieht man jetzt hier, ist da ganz schön dicht vorgestellt.
+
+Wir schauen uns jetzt hier mal die Schaltanlage oben an, weil was jetzt passiert in so einer Prüfung ist, dass man oben in der Sammelschiene der Schaltanlage eben versucht, man versucht es nicht nur, man wird einen Kurzschluss dort zünden. Und das macht man eben im Kessel, so nennt man das ja, in dem SF6-Tank. Wir legen da eine Kurzschlussbrücke rein. 
+
+Das ist in der Regel ein sehr dünner Draht. Also das soll jetzt kein dicker Draht sein, der den Strom da sauber rüberführen kann, sondern hier geht es darum, den Kurzschluss zu zünden. Der Draht sorgt dafür, der ist dann auch sofort im Rauch aufgelöst, aber der Kurzschluss der Lichtbogen steht.
+
+Und dann passiert natürlich etwas, ein super lauter Knall würde ich es jetzt mal nennen, der dann erstmal entsteht. Und in der ersten Phase baut sich dann natürlich da oben in diesem Feld ein sehr, sehr hoher Druck auf. Das ist ein Überdruck durch den Lichtbogen. 
+
+Wir nennen das dann Kompressionsphase. Also Druck geht hoch. Es gibt eine sehr große Hitzeentwicklung bis zu 3000 Grad.
+
+Das ist jetzt aber auch gar nicht so entscheidend. Und dann wird diese Hitzeentwicklung dafür sorgen, dass später die Soilbruchstelle rausfliegt. Also es entsteht eine mechanische Beanspruchung und es entstehen natürlich Gas- und dampfförmige Zersetzungsprodukte.
+
+Da sind ja irgendwelche Harze drin, Lacke, Metall. All das löst sich in Rauch auf. Das ist unter Umständen hochgiftig und das wird jetzt da irgendwie für diesen Druck sorgen.
+
+Wir sehen jetzt da, der Rauch entsteht, der Druck entsteht und die Soilbruchstelle fliegt unten raus. Sieht man jetzt hoffentlich auch genau. So ist das dann.
+
+Und so wird jetzt erstmal dieser Druck, dieser heiße Dampf, dieser giftige, schädliche, heiße Dampf, wird jetzt erstmal gezielt in der Schaltanlage, hier in diesem Fall nach unten, abgeleitet. Und dadurch klingt natürlich erstmal der Druck in diesem Schottraum oben ein wenig ab. Das Gas dehnt sich aus. 
+
+In unserer Trafo-Station steigt der Druck jetzt in dem Fall natürlich erstmal kurz an. Aber der Druck geht erstmal oben aus der Schaltanlage raus, nach unten hin. Und dehnt sich dann, das Gas dehnt sich dann in diesem primären Ausdehnungsraum unterhalb der Schaltanlage aus.
+
+Das tut er und von dort geht er dann durch das Kühl- und Funkengitter, so nennt es sich. Das ist dieses Gitter zwischen diesem primären Raum und sekundären Raum. In der Regel ist das so eine metallische Matte. 
+
+Da geht das Ganze durch, kühlt sich ein wenig ab, dehnt sich in dem sekundären Bereich aus und von da kann das dann eben seitlich entweichen. Und wenn alles gut läuft, kommt natürlich auch vorne so ein bisschen Rauch raus. Aber die Indikatoren sind hoffentlich unbeschädigt und dann ist die Prüfung bestanden.
+
+Die Person, die vor der Station steht und geschaltet hat, der passiert hier in dem Fall nichts. Das Gleiche schauen wir uns jetzt mal an für so eine Station, wenn sie im öffentlichen Bereich aufgestellt werden soll. Also B-Klassifizierung und wie eben schon gesagt, Übergabestation.
+
+Da wird das in der Regel gefordert und jetzt der kleine Unterschied hier zu eben. Wir schauen uns das jetzt hier mal für das Messfeld an. Eben hatten wir die Schaltanlage, SF6 Gas isoliert zum Beispiel.
+
+Jetzt schauen wir ins Messfeld. Da macht man das gleiche im Grunde genommen. Wir lassen jetzt hier für diese Prüfung die Türen geschlossen, weil die Anlage steht im öffentlichen Bereich Tag und Nacht.
+
+Da sind Tag und Nacht Personen. Das heißt, wenn da was passiert, müssen die geschützt sein. Und wir positionieren die Indikatoren jetzt nicht nur vor die Schaltanlage, so wie wir es eben gemacht haben, sondern rundherum und obendrauf.
+
+Also überall an dieser Station darf jetzt eben kein heißes Gas, keine Teile wegfliegen, die Personen schädigen könnten. Wir nehmen jetzt mal hier, damit es für uns ein bisschen besser sichtbarer ist, diese Indikatormatte weg und schauen uns die Station im Schnitt an. Jetzt sieht man hier nicht die Schaltanlage im Schnitt, sondern das Messfeld.
+
+Und auch hier würde man jetzt den Generator anschließen, diesen Hochleistungsgenerator, und würde jetzt hier den Kurzschluss einlegen, und zwar im Messfeld. Hier sind jetzt beispielsweise Strom- und Spannungswandler gezeigt. Und hier würde man von Phase 1 zu Phase 2 zu Phase 3 den Kurzschlussdraht einbauen, damit wir dann den Lichtbogen zünden.
+
+Und in so einem luftisolierten Messfeld ist dann die Gasentwicklung, die Druckentwicklung, etwas anders als in einer SF6-Gasanlage, nämlich tatsächlich höher, sodass man eben auch für dieses Messfeld jetzt diese separate Prüfung durchführen muss. Es geht genauso los, der Prüfstrom kommt, 20 Kiloampere, der steht für eine Sekunde an und sorgt dann eben auch hier für eine Explosion und für eine Gasentwicklung. Auch hier entsteht ein hoher Druck, das Gas geht sofort runter in den primären Bereich.
+
+Also hier gibt es keine Sollbruchstelle oder so. Die luftisolierten Schaltmessfelder sind unten offen, das Gas kann also sofort raus, kann sofort durch dieses Kühl- und Funkengitter in den sekundären Bereich entweichen, kann dort weiter abkühlen und dann eben nach außen austreten. Wenn wir jetzt gleich die Zeit haben, sehen wir das auch im Video, da kommt viel Rauch raus, aber wenn der eben abgekühlt ist und keine Teile dabei sind, dann ist das natürlich auch in Ordnung.
+
+Also es dampft ganz tierisch, aber diese Indikatoren müssen heil bleiben. Die Gase entweichen, es dampft, völlig in Ordnung, Indikatoren prüfen wir und wenn sie heile sind, ist das okay. Zum Schluss nochmal diese IACA-Prüfung, also Solarpark intern, würde ich jetzt mal sagen.
+
+Und hier muss man sich dann überlegen, wie man das macht. Man muss das Gas jetzt beispielsweise anders aus der Schaltanlage raussteuern, vielleicht nicht nach unten, weil wir da gar kein Fundament haben, wo es hin kann, sondern vielleicht eher nach hinten. Und hier hätte man jetzt genau einen zentralen Wechselrichter, wir haben hier einen Transformator und wir haben hier vorne eine Schaltanlage, da würden wir dann natürlich auch den Kurzschluss einlegen.
+
+Und hier nochmal der Hinweis, es gibt kein Fundament, also es gibt keinen primären Ausdehnungsbereich, so wie er nach Norm erstmal definiert wäre. Es gibt aber natürlich andere Bereiche, wo das Gas hin kann. Und das zeigen wir jetzt mal hier, also wir zoomen ein bisschen rein, da ist die Schaltanlage, genau der gleiche Versuchsaufbau, genau der gleiche Strom.
+
+Es kommt hier zu der Explosion und das Gas wird dann hier definiert, nach hinten zum Beispiel ausgeblasen. Und wenn man das sich jetzt von oben anschauen würde, dann seht ihr, da kommt das Gas raus und dann würde das beispielsweise da zu den Seiten entweichen können und da wären dann jetzt Personen gefährdet. Das heißt, wenn jetzt jemand da steht, bei der Inbetriebnahme lehnt er sich ganz lässig da an den Transformator, das sollte man natürlich auf gar keinen Fall machen, weil das ist ein gefährlicher Bereich, sicherer Bereich, das haben wir jetzt geprüft in der Störlichtbogenprüfung, ist dann eben vor der Schaltanlage oder meinetwegen in 10 Meter Abstand.
+
+Darauf sollte jeder Inbetriebnehmer achten. So, jetzt 11 Uhr, ich würde noch eine Minute dieses Video zeigen, dann habt ihr das. Ich glaube, ich klicke hier drauf, genau, ihr seht es im Vollbild, was jetzt hier passiert.
+
+Es gibt ein Prüflabor, so sieht das aus. Rechts hinter mir seht ihr diesen großen Trafo und jetzt wird gleich der Störlichtbogen gezündet. Hier seht ihr das, es dampft gewaltig und raucht tierisch.
+
+Ich denke, dass es auch sehr giftig daraus kommt und jetzt ist diese gesamte Schaltanlage defekt. Also alles, was da drin ist, ist wahrscheinlich kaputt, verraucht, kaputt. Man kann damit nichts mehr anfangen.
+
+Wenn man sich jetzt aber diese Indikatormatten da anschaut, sehe ich jetzt auf den ersten Blick keine Beschädigung. Das heißt, die Prüfung wäre jetzt hier bestanden. Das ist ein ganz wichtiger Moment für diese Anlagen.
+
+Danach bekommt man das Zertifikat und kann eben diese Anlage im öffentlichen Bereich, das ist hier diese Prüfung, aufstellen. Und hier zeigen wir euch eine Störlichtbogenprüfung, wie sie nach der IACR von SMA hier in dem Beispiel durchgeführt wurde. Ihr seht das jetzt hier im Bild.
+
+Man sieht, wie der Störlichtbogen zündet. IACR, vielleicht nochmal zur Erinnerung, da geht es darum, dass der Bediener eben geschützt ist. Und was man dann eben sieht in dem Video, ist, dass der Störlichtbogen die Gase nach hinten abgeleitet werden.
+
+Das ist dann eben ganz wichtig. Alle, die vor der Station stehen, denen passiert nichts. Wenn jetzt aber jemand neben der Station stehen würde, da wo die Gase rauskommen, dann ist es natürlich eine andere Sache.
+
+Allerdings der Bediener, der vorne steht, dem würde jetzt hier nichts passieren. Dann gehen wir mal weiter. Wir haben euch jetzt eine Tour vorbereitet und danach kommt eben eine Menti-Übung.
+
+Ich würde euch jetzt einmal in die Tour führen. Die Übung wäre dann eben, dass ihr nachher erkennt, welche Farbe die Gasström-Kühleinrichtung denn hat. Aber wir zeigen jetzt mal meinen Bildschirm und die 360-Grad-Tour.
+
+Und ich zeige euch dann mal, wie ihr euch da drin bewegt. Ihr kennt das. Und dann geht es los.
+
+Wir zeigen mal den Bildschirm. Das ist die 360-Grad-Tour. Den Link findet ihr im Chat.
+
+Und ich gehe jetzt hier einfach mal um die Station herum und kann jetzt mir das Ganze erstmal von außen anschauen. Und könnte hier auch einzelne Türen öffnen. Beispielsweise kann ich hier reinschauen.
+
+Hier sehe ich den Transformator. Ich kann jetzt auch hier weiter reingehen. Das mache ich einfach mal.
+
+Jetzt bin ich auf dem Transformator und kann mich hier umschauen. Ich kann dort nach unten sehen und kann aber eben auch mir gleich die Schaltanlage ansehen. Das machen wir auch noch einmal.
+
+Ich gehe weiter um die Station. Die Türen sind geöffnet. Ich muss hier über das rote Symbol das Ganze verlassen.
+
+Hier ist der Mittelspannungsraum. Hier kann ich das Ganze nochmal öffnen. Und hier als Hinweis, hier ist das Messfeld.
+
+Das könnt ihr aufmachen und könnt dann hier auch unten in das Messfeld reingehen. So, das soll erstmal reichen. Über die roten Symbole kommt ihr zurück.
+
+Die I-Zeichen sind Infozeichen. Wir gehen erstmal zurück. Und jetzt ist es an euch, einmal euch in der Tour diese Station vielleicht anzuschauen.
+
+Ihr seht hier natürlich genau das, was wir vorher präsentiert haben. Vielleicht primäre Ausdehnungsräume, sekundäre Ausdehnungsräume. Das Kühlgitter seht ihr hier natürlich auch.
+
+Schaut euch einfach mal um. So ist es gedacht. Am Ende ist natürlich die Frage auch wichtig zu beantworten.
+
+Aber erstmal ist das hier hilfreich, diese Station so zu sehen, wie sie dann wirklich errichtet wird. Und diese einzelnen Komponenten, die eben erklärt wurden. Was passiert bei einem Störlichtbogen? Wo geht das Gas hin? Dass man sich das hier einfach nochmal in live ansehen kann.
+
+Und dann ein besseres Gefühl für diese ganze Thematik bekommt. So, also los. Ihr seid jetzt selbst an der Reihe.
+
+Schaut euch um. Und dann sehen wir uns später in Menti wieder.

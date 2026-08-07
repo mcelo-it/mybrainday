@@ -1,0 +1,128 @@
+(0:00:00 - 0:00:30)
+Also Parametrierung Switch haben wir gezeigt am realen Beispiel an unserem Versuchsstand und haben es geschafft, den Switch jetzt so richtig einzustellen, dass es dann auch die Leitwarte leicht hat, auf ihn zuzugreifen. Wir kommen zum letzten Kapitel, die USV-Berechnung. Das ist jetzt auf jeden Fall ein thematischer Sprung von der Parametrierung des Switches zur USV-Berechnung.
+
+(0:00:30 - 0:00:52)
+Aber wir wollten es unbedingt mit reinnehmen, weil es, finde ich, gar nicht so einfach ist. Meistens machen das ehrlich gesagt dann ja auch die Lieferanten von den Stationen oder von den Boxen. Aber auch hier gilt wie immer eigentlich, wenn man weiß, wie sowas geht, kann man einfach besser mitreden und man kann dann natürlich auch vermeintliche Fehler besser rauskriegen.
+
+(0:00:52 - 0:01:06)
+Ich sage eins mal vorneweg, das Ganze ist zertifiziertpflichtig. Das heißt, wenn die Zertifizierstelle rauskriegt, dass man da irgendwas falsch gemacht hat, dann hängt man sowieso voll wieder mit drin. Also lasst uns mal eine USV auslegen, berechnen.
+
+(0:01:06 - 0:01:25)
+Ich habe eine kurze Frage noch davor geschoben, bevor es richtig losgeht mit der Berechnung selbst. Warum brauche ich das überhaupt? Das ist jetzt so eine Warum-Frage innerhalb eines Brainday-Kapitels. Aber es hilft ja sicherlich für die nächsten 15 Minuten zu motivieren.
+
+(0:01:25 - 0:01:40)
+Also das Ganze steht in einer Richtlinie drin, in der 41.05, in der 41.10, in der 41.20 und 30. Da steht das drin, dass wir das machen müssen. Das ist unterschiedlich in Übergabestationen und Trafostationen, in Umspannwerken.
+
+(0:01:40 - 0:01:57)
+Das ist unterschiedlich, aber das ist jetzt erst mal noch nicht relevant. Es geht darum, es ist keine Kann-Frage, sondern das ist eine Frage des Müssens. Es steht auch in den Tabs drin, also das ist, wenn man so will, sogar zweifach gesichert, dass man sich um diese USV kümmern muss.
+
+(0:01:59 - 0:02:15)
+Jetzt noch mal vom ganz Anfang die Überlegung, wo sind wir eigentlich in der Übergabestation oder in der Trafostation? Das macht einen grundlegenden Unterschied. Warum, werden wir auch gleich sehen. Zum ersten Mal, dass die Speicherzeiten unterschiedlich sind.
+
+(0:02:15 - 0:02:26)
+Für die Übergabestation, würde ich sagen, am Beispiel 41.10, sind das klar 8 Stunden. Das ist sehr einfach zu definieren. Dann hat man die Antwort schon, weiter geht's.
+
+(0:02:26 - 0:02:42)
+Für die Trafostation ist es nicht so klar, weil das nicht in diesem Kontext genauso in den Richtlinien beschrieben ist. Ich persönlich empfehle es so, einfach gleich zu halten. Das hat ja einen Sinn, dass man in der Übergabestation 8 Stunden puffern muss.
+
+(0:02:42 - 0:02:59)
+Wir würden es genauso machen, auch in den Trafostationen. Grundlegend ist es aber so, das obliegt der freien Planung. Es macht Sinn, finde ich, weil man nicht irgendwie innerhalb von einer Viertelstunde dann nach Netzausfall schon da auf die Logger geht und guckt, was eigentlich passiert ist, sondern man braucht vermeintlich ein bisschen länger.
+
+(0:03:00 - 0:03:33)
+Dann gibt es noch einen wichtigen Unterschied, finde ich, in der Betrachtungsweise. Einmal hat man so eine USV separat für die Datenbox, das meine ich hier, also Installation ist das separat realisiert, also nur für die Datenbox und die Batterien und der Umrichter in der Datenbox selbst. Entschuldigung, ja, ist er in der Datenbox integriert, das wäre dann oft in der Trafostation so, oder wird er separat installiert, also eine reine USV mit Batterie vielleicht in der Übergabestation und jetzt hängt man sich da mit dran.
+
+(0:03:34 - 0:03:59)
+Also das sind erstmal Unterschiede und weil wir jetzt nicht alle sechs Varianten rechnen wollen und können, konzentrieren wir uns auf eine und das habe ich dir hier gehighlighted. Wir machen die Berechnung für die USV in der Übergabestation. Los geht's, da ist wieder unsere Box, die hängt jetzt also so in der Übergabestation und ich gebe noch eine Lösung aus dieser Matrix, die ich gerade gezeigt habe, vor.
+
+(0:03:59 - 0:04:23)
+Wir integrieren jetzt, wir nutzen die USV, die in der Übergabestation integriert ist. Also da liegt eine große Batterie irgendwo in der Station schon rum, das heißt wir brauchen, Achtung, da kommt es jetzt gleich links in unserer Box, keine separaten Batterien in unserer Datenbox. Deswegen sind die da raus, haben wir schon wieder was gewonnen, das ist mein sinnvoller Planungsschritt.
+
+(0:04:24 - 0:04:41)
+Also wir sind in der Übergabestation und wir nutzen die Batterie der Übergabestation mit. Jetzt gucke ich mir erstmal die Komponenten in der Übergabestation und die dauerhaft Kapazität benötigen. Das wäre zum Beispiel ein Netzanalysegerät.
+
+(0:04:41 - 0:05:06)
+Das haben wir da auch in der Box, wir zoomen mal so ein bisschen rein. Also da ist es, es ist in unserer Datenbox verbaut und dieses Netzanalysegerät gibt es einmal und es wird mit 24 Volt DC versorgt. Dann frage ich mich noch, wie viel Leistung braucht denn eigentlich so ein Netzanalysegerät und da ziehe ich dann sozusagen aus der Tasche die Bedienungsanleitung und gucke da mal rein.
+
+(0:05:07 - 0:05:27)
+Man sieht es oben in der Ecke, da steht die 24 Volt Option, die ich hier offensichtlich habe und dann sieht man da 5 Watt. Den Wert brauche ich, das mache ich jetzt einmal beispielhaft am Janitzer so ausführlich oder am Netzanalysegerät, ziehe das mit in meine Tabelle. Für die anderen Komponenten läuft das ganz genauso, da mache ich es jetzt aber nicht ganz so ausführlich.
+
+(0:05:27 - 0:05:49)
+Ihr bei eurer Berechnung müsst das genauso machen. Wenn ich jetzt Spannung und Leistung habe mit einem Dreisatz, rechne ich mir mit den 24 Volt und den 5 Watt einen Strom aus, 0,21 Ampere und schiebe den als Lösung in meine Tabelle. Damit habe ich mein erstes Bauteil erfolgreich berechnet.
+
+(0:05:49 - 0:06:10)
+0,21 Ampere dauerhaften Strom benötigt für das Netzanalysegerät. Das mache ich jetzt zügiger für alle anderen Bauteile, weil das Grundprinzip ist immer das gleiche. Ich habe da auch noch so ein Gateway drin, habe ich festgestellt vom Netzbetreiber, schaue ich mir im Manual nach, hat zufälligerweise auch 5 Watt, dann ist es der gleiche Strom.
+
+(0:06:11 - 0:06:35)
+Als nächstes mein eigenes Gateway, gibt es auch nur eins, hat auch irgendwie glaube ich, naja ist der gleiche Hersteller, auch wieder 5 Watt, also kommt wieder der gleiche Strom raus. Was habe ich noch? Ich habe einen Switch, den haben wir uns ja ziemlich genau gerade angeschaut und der hat jetzt mal ein bisschen mehr Leistung, ist auch nur einer drin, können auch zwei oder drei sein. In meinem Beispiel einer, der hat jetzt mal ein bisschen mehr Leistung, also braucht er auch mehr Strom.
+
+(0:06:37 - 0:07:09)
+Weil wir es vorhin mal kurz hatten, viele andere Bauteile sind passiv, die haben keine Stromversorgung, also irgendwie eine Splicebox oder eine Sicherung, auf die brauche ich jetzt nicht weiter eingehen, deswegen bin ich jetzt erstmal fertig mit meiner Tabelle. Ich schreibe mir unten eine Summe rein und komme auf 1,08 Ampere. Da ich den Zwischenschritt verstanden habe und irgendwie ein bisschen mehr Platz brauche in meiner Übersicht, habe ich das jetzt mal zusammengefasst unter dem Begriff Datenbox und schiebe mir da meine Ergebnisse oben rein.
+
+(0:07:09 - 0:07:30)
+Also in Wirklichkeit würde ich das schon detailliert aufschreiben, aber für unsere Übersicht ist das jetzt völlig ausreichend. Ich habe mir aus meiner Datenbox die ganzen Verbraucher angeguckt und komme jetzt auf insgesamt 1,08 Ampere dauerhaften Bezug. Jetzt gehe ich also im Kopf, aber auch tatsächlich sozusagen aus meiner Box raus.
+
+(0:07:31 - 0:08:07)
+Ihr seht da in der Übergabestation, ganz wichtig, hängt jetzt also mittig unsere Datenbox. Die hängt ja an der Niederspannungsversorgung, das heißt die saugt das alles aus dieser USV von der Station raus. Aber es gibt noch mehr. Es gibt noch mehr Komponenten, die nicht in der Datenbox sind, sondern in der Trafostation an anderen Orten verbaut. Das ist das Schutzrelais, das ist ein Fallkappenrelais zum Beispiel, das sind Kurzschlussanzeiger und eine Unterspannungsspule vom Mittelspannungsleistungsschalter in unserem Fall. Ich würde sagen, wenn man das schon irgendwie oft gesehen und besprochen hat, kann man diese Liste selber machen.
+
+(0:08:07 - 0:08:28)
+Ansonsten fragt den Hersteller der Station, der gibt euch dann die Liste inklusive der Leistung, beziehungsweise am Ende braucht ihr die Ströme. Gleiches Spiel, jetzt wird es halt einfach ein bisschen mehr. Gerade von 1 Ampere gehen wir auf 2,27 Ampere in unserem Beispiel und haben jetzt die Summe aller dauerhaft anliegenden Stromverbraucher.
+
+(0:08:30 - 0:08:44)
+Mache ich einen Strich drunter und gehe in die nächste Kategorie. Es gibt nämlich noch kurzzeitige Verbraucher. Die sind, sage ich mal, ein bisschen schwieriger zu berechnen, aber wir haben es auch, finde ich, übersichtlich dargestellt.
+
+(0:08:44 - 0:08:58)
+Also erstmal nicht verwirren lassen, die dauerhaften lassen wir da stehen, aber grauen sie aus, damit die jetzt irgendwie aus dem Kopf raus sind. Jetzt geht es nur um kurzzeitige. Das ist zum Beispiel ein Arbeitsstromauslöser und ein Motorantrieb vom Leistungsschalter.
+
+(0:08:58 - 0:09:19)
+Man kann sich das so vorstellen, dass so ein Motorantrieb, der ja da verbaut ist in der Übergabestation, der ja natürlich nicht dauerhaft Leistung bezieht, weil er die ja nur braucht, wenn er den Motor antreibt. Also nur wenn man wirklich diese Spule aufzieht, dann zieht der 240 Watt bzw. 10 Ampere.
+
+(0:09:19 - 0:09:37)
+Hat man jetzt aber schon hier auch im Gefühl sofort, oder? Das ist eine andere Kategorie. Der ist ja jetzt gleich in Summe, ich greife die Summe hin, 20 Ampere ist ja gleich das Zehnfache von dem, was da unsere kleine Datenbox verbraucht. So, aber hier hilft uns jetzt sozusagen der Zeitfaktor.
+
+(0:09:38 - 0:10:09)
+Was meine ich mit dem Zeitfaktor? Grundsätzlich ist es eben so, dass der Motorantrieb nicht permanent zieht, sondern er macht das nur, ich sage es gleich in meinem Beispiel, einmal pro Stunde. Als Beispiel, er macht das einmal bei mir in der Stunde und wenn er das dann macht, dann braucht er nur fünf Sekunden. Also nehme ich in meinem Beispiel hier rein, einmal T Schalt, also wie lange dauert so ein Schaltvorgang und wie oft mache ich das? Ich beziehe das bei mir auf eine Stunde, deswegen durch 3600 Sekunden.
+
+(0:10:10 - 0:10:18)
+Also es sind zwei Parameter, die da jetzt mit rein spielen. Die nehme ich einfach mal an, einmal pro Stunde und dann braucht er halt fünf Sekunden. Danach hört er ja wieder auf.
+
+(0:10:19 - 0:10:39)
+Wenn ich das jetzt ausrechne mit fünf Sekunden und mit einmal pro Stunde, dann komme ich auf einen Faktor von 0,0138. Den Faktor nehme ich mir und multipliziere den mit meinem Stromwert, mit meinem Nennstrom von 20 Ampere. Wenn ich das mache, kommt schon mal ein viel kleinerer Wert raus, 0,0276 Ampere.
+
+(0:10:39 - 0:11:04)
+Ich habe es I gemittelt genannt, weil ich mir das so besser vorstellen kann. Also wenn ich einmal in der Stunde für fünf Sekunden den Strom von 20 Ampere ziehe, dann ist das das gleiche, als würde ich die ganze Stunde 0,0276 Ampere dauerhaft ziehen. Das ist im Grunde nur eine Umrechnung von so einer einmaligen Belastung auf eine Dauerbelastung.
+
+(0:11:05 - 0:11:37)
+Also ist es auf Dauerlast gesehen gemittelt ein viel kleinerer Wert und deswegen nehme ich mir jetzt über mir eine neue Spalte mit rein und ziehe diese 0,0276 Ampere darüber. Da sind sie, genau, 0,0276. Jetzt schiebe ich meine kurzzeitigen auch wieder zusammen, weil da bin ich jetzt auch schon fertig und dann stehen da 0,027 und der Formhalber schreibe ich oben, hoffe ich, mache ich das nochmal rein, die 2,27 bei den dauerhaften.
+
+(0:11:37 - 0:11:46)
+Das ist sozusagen die Logik einer dauerhaften Belastung. Da ist der Mittelwert genauso groß wie der Momentanwert sozusagen. Und jetzt habe ich es.
+
+(0:11:46 - 0:11:56)
+Ich denke, ich habe das irgendwie mal verstanden. So muss ich laufen, genau. Wenn ich jetzt meine Summe bilde, dann komme ich auf den Wert, den ich eigentlich brauche.
+
+(0:11:56 - 0:12:23)
+Also 2,27 plus diese 0,0276 komme ich unten auf meine 2,2976 Ampere. Jetzt kann ich endlich mal eine Bewertung machen. Meine erste Bewertung ist, mein maximaler Strom, der überhaupt auftritt, der muss kleiner sein als der maximale Strom, den meine Batterie, meine USV, mein Umrichter leisten kann.
+
+(0:12:23 - 0:12:44)
+Habe ich aus dem Datenblatt mir rausgeguckt, beispielhaft 45 Ampere. Und Achtung, jetzt brauche ich auf der anderen Seite die 22,27, weil wenn in dem Moment, wo der Motor zieht, habe ich nämlich 22,27 Ampere für 5 Sekunden, habe ich erst mal festgestellt, das funktioniert. Daumen hoch, mein Netzteil ist ausreichend dimensioniert.
+
+(0:12:45 - 0:13:06)
+Im zweiten Schritt brauche ich da meinen gemittelten Summenwert von 2,2976 Ampere. Also nochmal, das ist der Strom, der sozusagen in der Stunde durchgehend fließen würde, wenn ich ihn umrechne auf so einen Mittelwert. Und da kommt jetzt die Batterie selbst ins Spiel.
+
+(0:13:06 - 0:13:25)
+Also, meine Batterie muss einen größeren Nennstrom haben als die 2,2976, die ich da ausgerechnet habe. Und wie würde das aussehen? Zum Beispiel 3 Ampere, blende ich mal ein. Das ist jetzt aus dem Datenblatt von so einem Batteriehersteller, so machen die das.
+
+(0:13:25 - 0:13:44)
+Und da sieht man jetzt in der Y-Achse ganz am Rand, sieht man das jetzt, der Laststrom 1 bis 20 Ampere. So sieht das aus und da würde ich mir jetzt die 3 Ampere wählen, weil die brauche ich ja mindestens. Ich habe 2,2 ausgerechnet, gehe ich einen Schritt drüber und dann bin ich erst mal in dieser Zeile.
+
+(0:13:45 - 0:14:04)
+Zweiter Faktor, also dann erst mal wieder Daumen hoch, das ist doch erst mal positiv, da haben wir das auch schon wieder richtig hingekriegt. Und jetzt kommt aber der zweite Faktor aus der Tabelle und wenn man so will der dritte Schritt in unserer USV-Berechnung. Ich brauche ja, Achtung, ich bin in der Übergabestation, nach 4110 mindestens 8 Stunden.
+
+(0:14:04 - 0:14:31)
+Das heißt, in meiner Vertikalen graue ich sozusagen oder highlighte ich die 8 Stunden Spalte und dann treffe ich in der Mitte, erst mal wieder Daumen hoch, 8 Stunden, treffe ich hier auf ein Produkt. Das ist blau gekennzeichnet und so macht halt jetzt dieser Hersteller das. Also wenn du blau brauchst, dann nimmst du hier oben die 40 Amperestunden Batterie.
+
+(0:14:33 - 0:14:54)
+Das ist es, ich sage mal, kurz und knapp erklärt. Also wir rechnen nicht in 40 Amperestunden um und schauen uns dann die Batterie an, weil eben dieser Batteriehersteller das nicht so macht. Seine Herangehensweise ist, er schaut, welchen Laststrom brauchst du denn und dann nachfragt er für wie lange brauchst du ihn.
+
+(0:14:55 - 0:14:59)
+Daher die Vorgehensweise, wie ich sie jetzt gerade dargestellt habe.

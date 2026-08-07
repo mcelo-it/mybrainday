@@ -1,0 +1,74 @@
+(0:00:00 - 0:00:14)
+Also, das ist unsere Übersicht, wir starten mit dem Warum. Also, das Warum ist ja immer ein bisschen schwierig zu greifen am Anfang. Warum machen wir das hier? Ich denke mal, wir fangen mal hier bei der Niederspannung an.
+
+(0:00:14 - 0:00:27)
+Das ist für uns erst mal so, dass die Niederspannung natürlich Vorteile bietet. Ganz klar, die Niederspannung, die wir hier bei uns im Gebäude haben, in den Steckdosen und so weiter. Der große Vorteil, wie ich finde, ist, man hat erst mal kleine Komponenten.
+
+(0:00:27 - 0:00:41)
+Damit meine ich, der Lichtschalter, der ist relativ klein. Verglichen mit einem Mittelspannungsschalter, Hochspannungsschalter kann man das Licht mit einem sehr kleinen, kompakten Schalter ein- und ausschalten. Und kleine Komponenten meine ich dann aber auch.
+
+(0:00:41 - 0:01:04)
+Kabel, Kabelisolation, Leiterabstände. Das ist bei den niedrigen Spannungen alles sehr, sehr kompakt, sehr, sehr sehr, sehr gut zu installieren und für den Endbenutzer dann am Ende natürlich durch die niedrigen Spannungen auch ungefährlich. Das Gefahrenpotenzial bei so einem Kurzschluss in der Niederspannung ist erst mal sehr gering.
+
+(0:01:04 - 0:01:23)
+Natürlich kann da was passieren. Natürlich ist es nicht ungefährlich. Aber wenn man das vergleicht mit höheren Spannungen, dann ist so ein 230-Volt-Kurzschluss sicherlich hat einen anderen Effekt als einen Mittelspannungs- oder Hochspannungs-Kurzschluss, wo man dann sicherlich die Wände wieder neu aufbauen müsste im Haus.
+
+(0:01:26 - 0:01:57)
+So, dann gibt es natürlich am Ende ist das Resultat von diesen Vorteilen, die wir ja haben, dass unsere Verbraucher und Erzeuger in dieser Niederspannung eben auch für diese Niederspannung ein Stück weit ausgelegt sind. Das heißt, die 230 Volt, die aus der Steckdose kommen oder wenn es dann mal 400 Volt sein müssen für einen Durchlauferhitzer oder für einen Herd, die reichen natürlich aus, um diese Leistungen, die da benötigt werden, ausreichend abzudecken. Das heißt, mein Herd mit 400-Volt-Anschluss, der hat genug Leistung, da brauche ich gar keine höheren Spannungen.
+
+(0:01:57 - 0:02:19)
+Die Leistung kriege ich mit den Kabeln, mit den Schaltern transportiert und übertragen. Und dann nutze ich gerne natürlich die Vorteile des geringen Gefahrenpotenzials und der dünneren Isolierung der kleinen Komponenten, weil ich brauche im Grunde nicht viel mehr Energie in meinem Haushalt als das, was ich auf dieser niedrigen Spannungsebene dann erst mal zur Verfügung stellen kann. Dann schließt sich der Kreis.
+
+(0:02:19 - 0:02:44)
+Und jetzt werde ich nicht anfangen, die Vorteile von der Niederspannung zu Nachteilen in der höheren Spannung umzudrehen, weil das ist natürlich immer so. Links haben wir ein niedriges Gefahrenpotenzial, rechts ein höheres. Ich würde es jetzt mal so machen, dass ich für die höheren Spannungen auch eher die positiven Aspekte erkläre und die negativen Sachen, die lasse ich außen vor, weil man kann es jedes Mal umdrehen.
+
+(0:02:44 - 0:02:52)
+Das, was auf der rechten Seite positiv ist, ist meist auf der linken Seite negativ. Das wollen wir nicht machen. Höhere Spannung ist erst mal der große Vorteil.
+
+(0:02:52 - 0:03:14)
+Wir brauchen weniger Strom, um die gleiche Leistung zu übertragen. Wenn wir weniger Strom haben, dann sind am Ende auch die Verluste geringer. Also ich sage, wenn ich jetzt das gleiche Kabel behalten würde, die gleiche Leistung übertrage und das Ganze auf einem höheren Spannungsniveau mache, dann fließt eben weniger Strom und dadurch resultieren weniger Verluste.
+
+(0:03:17 - 0:03:35)
+Jetzt könnte ich hingehen und die Querschnitte verringern oder ich habe die gleiche Leistung und komme dann eben mit geringeren Kabelquerschnitten klar. Das ist dann natürlich eben auch ein Vorteil. Vor allem wenn wir jetzt an unsere Solarparks denken, die immer größer und größer werden, dann kann ich natürlich da mit kleineren Querschnitten arbeiten.
+
+(0:03:37 - 0:03:51)
+Wir haben mit den Wechselrichtern ja mal diesen Schritt gemacht von 400 auf 800 Volt in der Niederspannung. Das heißt, es ist immer noch Niederspannung und wir können mit den gleichen Kabelquerschnitten auf einmal die doppelte Energie transportieren. Oder wir reduzieren die Kabelquerschnitte und bleiben bei der gleichen Energie.
+
+(0:03:53 - 0:04:30)
+Daraus resultiert am Ende natürlich auch, dass in dem bestehenden Energienetz, was wir natürlich haben, also es gibt schon ein Mittelspannungsnetz und ein Hochspannungsnetz, aber wenn ich jetzt eben höhere Spannungsniveaus erreiche und die Kabel in den Netzen sind ja gleich, dann kann ich da in diesen höheren Netzen erst mal eine höhere Anschlussleistung anschließen, höhere Leistungen transportieren und schlussendlich die höheren Leistungen auch über viel, viel längere Strecken transportieren. Dann schließt sich auch hier der Kreis und jetzt gibt es da einen Trick, der wurde vor über 100 Jahren erfunden. Diese beiden Welten können wir erst mal kombinieren mit einem Transformator.
+
+(0:04:31 - 0:04:50)
+Den Transformator, den hatten wir in einem anderen Brainday schon mal im Detail erklärt. Das machen wir heute nicht. Wir sind heute bei dem Thema Kapitel Umspannwerk und das Umspannwerk besteht eben zum großen Teil aus einem Transformator, aber es gehören eben auch noch viele andere Themen dazu, die wir euch dann später zeigen und das sind dann zum Beispiel Leittechnik, die da drin ist.
+
+(0:04:51 - 0:04:59)
+Es ist eine Regelungstechnik da drin. Es ist eine Schutztechnik da drin mit Leistungsschaltern und so weiter, Stromwandlern. Kommen wir nachher überall drauf zu sprechen.
+
+(0:04:59 - 0:05:22)
+Reißen wir alles an und zum Schluss ist es natürlich auch die Gebäude, die Struktur. Wie schließt man mechanisch an Freileitungen an und so weiter? Das alles nehmen wir jetzt mal mit oder das Umspannwerk nehmen wir zumindest mit und schauen uns jetzt die Spannungslevel an, die wir in Deutschland so haben. Also was alle kennen im Hausgebrauch sind erst mal die 400 Volt und in den PV-frei Flächenanlagen sind es mittlerweile 800 Volt.
+
+(0:05:23 - 0:06:06)
+Das gilt als Niederspannungsebene, Spannungsebene 4 und die Energie, die wir damit verteilen im öffentlichen Netz, ist im Grunde genommen eine lokal verteilte Energie. Ihr habt in der Nähe eures Hauses, das wisst ihr wahrscheinlich gar nicht oder wisst gar nicht, wo dieser Transformator steht, aber da steht irgendein Transformator und von da aus laufende Niederspannungskabel zu euren Gebäuden. Das sind kurze Strecken, die übertragen werden und diesen Trafo, den ich dann schon erwähnt habe, der sorgt eben dafür, diese Trafo-Station, dass man, wenn man jetzt den Bezug betrachtet, natürlich von der 30 kV runterkommt auf die Niederspannung beziehungsweise von der Niederspannung hoch transformieren kann in die nächst höhere Ebene.
+
+(0:06:07 - 0:06:36)
+Das ist dann eben die Mittelspannung 10, 20, 30 kV und das funktioniert grundsätzlich regional. Das heißt, in so einer Gemeindestruktur, da liegen Mittelspannungskabel irgendwo in einer Ortschaft oder in einem Stadtteil, steht vielleicht ein Umspannwerk, was eben die Spannung auf 20 oder 30 kV bringt, sodass man mit 20, 30 kV einige Kilometer weit regional die Energie verteilen kann. Dann gehen wir nochmal ein Level höher, in die 110 kV, das ist dann eher ein überregionales Netz.
+
+(0:06:37 - 0:07:15)
+Da verteilen wir dann den Strom meinetwegen von Berlin nach vielleicht Leipzig, vielleicht aber auch nicht ganz so weit, weil wenn wir noch weiter weg wollen, dann gehen wir in die 380 kV-Ebene, da sind wir zumindest national, vielleicht sogar europäisch, dass wir dann von Deutschland in unsere Nachbarländer die Energie transportieren können oder noch weiter. Für die beiden oberen Level sprechen wir dann von Umspannwerk, also zwischen 10, 20, 30 und 110 und von 110 höher auf 380. Das sind Umspannwerke, das ist deutlich größer als eine Transformatorstation und damit wollen wir uns heute im Detail befassen.
+
+(0:07:16 - 0:07:40)
+Noch ein Punkt, die Frage, die wir nochmal wichtigerweise stellen wollten, ist eben, was limitiert die Einspeisekapazität und da gibt es im Grunde genommen zwei Punkte. Also erstmal gibt es natürlich Betriebsmittel, die limitieren. Betriebsmittel im Netz ist hier vor allem gemeint, das heißt an irgendeiner Stelle ist ein Kabel zu dünn ausgelegt oder an irgendeiner Stelle ist der Transformator zu klein oder der 110 kV-Transformator kann eben nur 40 Megawatt.
+
+(0:07:40 - 0:08:13)
+Dann sind das natürlich limitierende Betriebsmittel und die muss man austauschen oder eben seine Leistung auf die Leistung limitieren, die diese Betriebsmittel übertragen können. Der zweite wichtige Punkt, der ist nicht ganz so trivial und nicht ganz so einfach zu greifen, dafür braucht man eine Netzberechnung, ist eben das Spannungsdelta, der Spannungshub im Netz und der muss nach oder gemäß der VDE 4110 und 4120 kleiner als 2 Prozent sein. Wie gesagt, da braucht man komplexe Netzberechnungen dafür, um das dann bewerten zu können.
+
+(0:08:13 - 0:08:47)
+Dann braucht man das gesamte Netzmodell und kann dann feststellen, alles klar, wir können noch einen PV-Park anschließen und die Spannung im Netz bleibt eben unter diesen 2 Prozent. Das ist sehr kompliziert, um es ein bisschen einfacher zu halten, haben wir euch für die einzelnen Spannungslevel mal so ganz grob und das ist kein steingemeißelter Wert hier, sondern ungefähr ein Richtwert ganz grob mal angegeben, was man denn da so anschließen kann, was unsere Erfahrungswerte sind. Da kann es stark abweichende Größen von geben, aber eine Richtschnur, ein Daumenwert ist es bestimmt.
+
+(0:08:47 - 0:09:09)
+Also in der Niederspannung ist unsere Erfahrung, dass man da mit kleiner 300 kW oder 0,3 Megawatt-Anlagen in der Regel noch ganz gut zurechtkommt, dann kriegt den Niederspannungsanschluss. Je nach Netzsituation kann das natürlich auch schon früher oder später passieren. Dann gibt es die Mittelspannung, da würde ich sagen, das hat sich in den letzten Jahren stark gedreht.
+
+(0:09:10 - 0:10:08)
+Unsere Erfahrung hat jetzt gezeigt, 10 Megawatt geht manchmal noch, früher waren es mal 15 Megawatt, die Mittelspannungsnetze werden zusehends voll. Jetzt gibt es bestimmt auch welche, die sagen, ich hatte schon mal 20 Megawatt und es gibt welche, die sagen, ach mehr als 5 Megawatt geht auf gar keinen Fall mehr, weil die Netze schon so voll sind, nehmt das vielleicht einfach mal hin, kleiner 10 Megawatt ist so unser Erfahrungswert, da habt ihr noch Chancen da ranzukommen. Da gibt es viel Grauzone, aber mit 10 Megawatt versucht zuerst mal ein Mittelspannungsnetz, bevor ihr dann eben ein Level höher geht in die 110 kV und das eine schließt das andere fast so ein bisschen aus, mit einer 10 Megawatt-Anlage in die 110 kV anzuschließen mit einem Umspannwerk, das ist dann wenig rentabel, deshalb seid ihr da, glaube ich, gut bedient in der Mittelspannung zu bleiben und wenn ihr dann in die 110 kV reingeht, ihr braucht ein Umspannwerk, dann sind große Parks gefragt, weil Umspannwerke teuer sind und da ist so eine Größenordnung 100 Megawatt.
+
+(0:10:09 - 0:10:50)
+Mit einem einsystemigen Anschluss sind es vielleicht nur 50, 60 Megawatt, wenn man zwei Systeme anschließt, zwei Transformatoren auf zwei Leiterseile, dann kommt man da auf 100, 120 Megawatt, das ist dann so ein bisschen die Grenze in der 110 kV und wenn ihr noch größere Parks habt, dann landet ihr am Ende in der Höchstspannung, in der 380 kV und das sehen wir mittlerweile auch immer öfter, dass wir eben Anlagen in diesen Größen haben, die dann eben auch wirklich systemrelevant sind, die in der Klasse Atomkraftwerke, Kohlekraftwerke mitspielen und da sind wir jetzt angekommen mit unseren Solarparks und das finde ich ist, glaube ich, eine tolle Sache, dass wir dann mittlerweile so weit sind.

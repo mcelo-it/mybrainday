@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:15)
+Ins nächste Kapitel. Als nächstes kommt das Schutzkonzept und das ist für mich auf Augenhöhe mit dem Regelungskonzept und man sieht es hier auch bildlich gut dargestellt. Man kann das auch tatsächlich visuell ähnlich gestalten.
+
+(0:00:15 - 0:00:44)
+Also man sieht ja genau das gleiche Schaubild wie gerade. Jetzt werden wir nur andere Funktionen darstellen, eben nicht die Regelung, sondern den Schutz. Ich zeige es nach und nach, wie man das für so eine Dachanlage machen kann, sage ich ganz bewusst. 
+
+Es gibt in der 4110 einen Anhang, da ist das beschrieben, wie man es machen soll. Genauso haben wir es jetzt hier aufgebaut und im Detail kann man das aber dann wie immer auch nochmal ändern in Abstimmung mit dem Netzbetreiber. Es geht erst mal los.
+
+(0:00:44 - 0:00:54)
+Übergeordnet klingt ja schon noch Übergabestationen mit dem Netz- und Anlagenschutz. Der hängt da oben. Was das für technische Funktionen sind, machen wir in einem anderen Brain Day.
+
+(0:00:54 - 0:01:08)
+Aber der sitzt ganz wichtig da oben und jetzt in Blau und in Orange. Da müsst ihr bitte mit denken, mit folgen. Blau ist für mich immer der Messpunkt und den Orange haben wir den Auslösepunkt dargestellt.
+
+(0:01:08 - 0:01:26)
+Das können unterschiedliche Orte sein. Hier ist es erst mal so, der Spannungswandler ist auf der Mittelspannungsseite ganz klar, da holt er sich seine Werte. Und die Auslösung ist aber eben nicht da, sondern die Auslösung ist dann in der Niederspannungsseite und ganz wichtig im PV-Schrank.
+
+(0:01:26 - 0:01:54)
+Der Hintergrund ist, dass das eine Anforderung ist, die durch die Photovoltaikanlage jetzt zusätzlich in die Übergabestation eingerüstet werden muss. Das soll aber nicht zum Nachteil des ursprünglichen Verbrauchers sein. Also wenn die Frequenzen und Spannungen unsachgemäß abweichen und der Frequenzschutz auslöst, dann soll er nur die PV-Anlage abschalten und nicht das Gebäude.
+
+(0:01:54 - 0:02:24)
+Man würde sozusagen verschiedene Ansätze miteinander vermischen, wenn man jetzt hier den Übergabeleistungsschalter in der Übergabestation abschaltet. Ganz zu schweigen davon, dass man vielleicht einen desaströsen Einkommensnachteil dadurch generiert, dass plötzlich die ganze Halle natürlich nicht mehr produzieren kann, weil die PV-Anlage vermeintlich Unsinn gebaut hat. Also der übergeordnete Nahschutz misst zwar in der Übergabestation, aber der Auslösepunkt ist bitte im PV-Schrank.
+
+(0:02:26 - 0:02:38)
+Jetzt kommt so ein UMZ-Schutz. Auch da gibt es einen ganzen Brainday, was das eigentlich ist. Wir wissen das jetzt und sehen, dass der in der Übergabestation ehrlich gesagt vorher schon drin war.
+
+(0:02:38 - 0:02:55)
+Der hatte da irgendwo seine Messstelle und der löst auch den übergeordneten Leistungsschalter aus in der Übergabestation. Das ist also genauso gewollt, wenn da irgendwo ein Überstromfehler auftritt, soll das ganze System abschalten. Der berühmte QU-Schutz, auch ein separater Brainday.
+
+(0:02:55 - 0:03:13)
+Und der ist jetzt nach unserer Logik, so wie wir die 4110 den Anhang da interpretieren, ganz deutlich auch in der Niederspannung, nicht in der Übergabestation. Der Messpunkt ist im PV-Schrank, da seht ihr es. Also einmal Strom, einmal Spannung und die Auslöseort ist auch im PV-Schrank.
+
+(0:03:13 - 0:03:31)
+Da nimmt man den Leistungsschalter, den man da so am Anfang sieht. Am Eingangspunkt, wer gut aufgepasst hat, wir hatten es im Anlagenschema Kapitel 3 so beschrieben, dass der untere, die untere Trennstelle ein Lasttrennschalter ist. Den würde man dann nicht verwenden.
+
+(0:03:33 - 0:03:41)
+So und jetzt kommt noch der Zwischengelagertein-A-Schutz. Das ist immer ganz wichtig. Der ersetzt die Einstellungen am Wechselrichter.
+
+(0:03:41 - 0:03:53)
+Das ist sinnhaft, weil man den Wechselrichter nicht prüfen kann. Deswegen gibt es diesen Zwischengelagerten-A-Schutz. Der misst dann auch hier im PV-Schrank und der, der kann jetzt auslösen den anderen.
+
+(0:03:53 - 0:04:15)
+Das wäre ja durchaus möglich, auch wenn das nur ein Lasttrennschalter ist. Den UMZ integriert haben wir hier noch mit reingenommen. Da ist er. 
+
+Ich zeige ihn gleich besser in der Darstellung, wie man sich den vorstellen kann. Aber also auch hier gibt es so einen Überstrom-Zeitschutz und der ist jetzt im Leistungsschalter integriert. Da braucht man dann auch keine zusätzlichen Strommandler.
+
+(0:04:17 - 0:04:26)
+Auch Sicherungen sind Teil vom Schutzkonzept. Ganz klar, man schützt ja die Kabel, da sind sie. Und dann hat man eben noch den A-Schutz, aber deaktiviert im Wechselrichter.
+
+(0:04:27 - 0:04:45)
+Die Idee dahinter ist, dass er nicht den Zwischengelagerten-A-Schutz unterlaufen soll. Also er soll nicht schneller oder früher abschalten als die geprüften Schutzrelais im Wandlerschrank. Letzter Punkt an der Stelle ist, es gibt eine Lichtbogenschutzeinrichtung.
+
+(0:04:45 - 0:05:08)
+Das heißt auf Englisch wohl Arc-Fall-Protection-Equipment. Ich habe es mit reingenommen, weil für uns das ein wichtiger Unterschied ist gegenüber den Freiflächen. Meinem Verständnis nach ist das so, dass diese Schutzeinrichtung bei Dachanlagen sinnvoll ist, weil sie einen zusätzlichen Schutzgrad gegenüber Brandgefährdung darstellt, also eine Brandschutzmaßnahme ist.
+
+(0:05:08 - 0:05:24)
+Und die ist natürlich bei Dachanlagen ungleich sinnhafter als bei Freiflächenanlagen. Darauf kann man also achten. Ist integriert, hier sieht man es in den Wechselrichtern und gehört für mich deswegen in den Brainday Dachanlagen, weil es da einfach sinnvoller ist.
+
+(0:05:25 - 0:05:45)
+Wir holen die zweite Ebene wieder rein. Also die Elektrotechniker haben ja jetzt schon klar im Bild oder die erfahrenen Elektrotechniker haben jetzt schon klar im Bild, wo ist das eigentlich alles? Für alle die, die das noch nicht so oft gesehen haben, mache ich jetzt hier noch mal ein Beispiel mit einem Bild. Also als erstes der übergeordnete NA-Schutz.
+
+(0:05:46 - 0:06:08)
+Im Schema haben wir gesagt, Messort ist die Übergabestation, die wäre jetzt hier unten rechts und jetzt sieht man schon, wir reden davon 100, 200, 500 Metern. Da ist der Messort von diesem übergeordneten NA-Schutz und meistens ist das dann auch in der Übergabestation tatsächlich darin verbaut, aber die orange Linie, die ist ja jetzt im PV-Schrank. Also hier könnte die NSHV sein.
+
+(0:06:08 - 0:06:17)
+Da ist dann der PV-Schrank auch mit drin. Und da muss jetzt also der Auslösewert reagieren. Man braucht also eine wie auch immer geartete Verbindung.
+
+(0:06:18 - 0:06:34)
+Wie diese Verbindung ausgeführt wird, ist für heute auch nicht relevant. Man muss aber daran denken und die mag sehr aufwendig zu realisieren sein. Achtung, das wird auch geprüft und ohne Prüfung keine Konfirmitätserklärung und ohne Konfirmitätserklärung keine Anlage im dauerhaften Betrieb.
+
+(0:06:35 - 0:06:42)
+Für später, hier oben sind die Wechselrichter. Ich glaube, das ist der einfachste Teil. Und jetzt zeigen wir das mal noch mal in dem Schrank.
+
+(0:06:42 - 0:06:48)
+Es ist, glaube ich, auch der Schrank, den wir in der Tour hatten. Da ist er. Und da haben wir jetzt die orange Linie schon hingemalt.
+
+(0:06:48 - 0:07:01)
+Also dass die Übergabestation 300, 400, 500 Meter entfernt. Und irgendwie muss man jetzt ein Kabel da hinlegen, damit der Auslöseort genau hier an diesem Leistungsschalter sein kann. Das wird auch dann so geprüft.
+
+(0:07:01 - 0:07:18)
+So ein Schutztechniker steht in der Übergabestation, simuliert da irgendwelche Werte, dass Relais trippt und dann muss man aber hier rüberlaufen und gucken, ob der auch wirklich ausgelöst hat. Als nächstes haben wir den KU-Schutz. Der ist wichtig, wie gesagt, im PV-Schrank selbst.
+
+(0:07:19 - 0:07:32)
+Das heißt, wir haben hier einen ganz anderen Ansatz. Wir haben jetzt mal gesagt, dass da oben ist er. Da ist unser KU-Schutz und die Auslöselinie geht jetzt hier auf diesen ersten Leistungsschalter.
+
+(0:07:33 - 0:07:46)
+Und der Messort, der ist dann hier irgendwo auf der Niederspannungseite. Der Zwischengelagerte in A-Schutz in unserem Beispiel ist der da jetzt mit drin. Deswegen haben wir das so drüber gelagert.
+
+(0:07:46 - 0:07:58)
+Also der hat zwei verschiedene Schutzfunktionen und sie gehen auch, wie man sieht, als Auslösepunkt auf zwei verschiedene Leistungsschalter. Aber man kann das durchaus im gleichen Relais realisieren. Das wäre hier so ein typisches Relais, was man dafür nehmen kann.
+
+(0:07:59 - 0:08:15)
+Also würde hier die Auslösekennlinie jetzt aber auf den anderen Leistungsschalter gehen, auch wenn der Messpunkt vielleicht der gleiche ist. So, dann kommt dann ein integrierter UMZ mit rein, der wir jetzt da vorne. Das wollte ich nur mal gezeigt haben.
+
+(0:08:15 - 0:08:21)
+Ja, wie sieht das aus? Wir machen die Tür auf und gucken uns auf den Schalter da rein. Also da ist er. Das ist der Leistungsschalter.
+
+(0:08:21 - 0:08:31)
+Und man kann das jetzt in dem Fall links auf dem Display, da könnte man das jetzt einstellen. Auf jeden Fall ist diese Schutzfunktion hier drin integriert. Da gibt es jetzt kein separates Schutzrelais.
+
+(0:08:31 - 0:08:38)
+NH-Sicherung hat wahrscheinlich die meisten schon mal gesehen. Wir machen den Schrank auf. Da sind sie, da sind sie drin.
+
+(0:08:38 - 0:09:05)
+So sehen die NH-Sicherungen aus. Da muss man halt jetzt noch gucken, dass man die richtige ausgewählt hat. So, und dann hätten wir also hier alle Schutzfunktionen uns angeguckt. 
+
+Auf dem Dach machen wir das jetzt nicht, weil im Wechselrichter ist das eine Frage der Einstellung. Und das habe ich sozusagen in meinem, mit meinem PV-Schrank hat das nichts zu tun. So, grundsätzlich ist es jetzt hier an der Stelle so.
+
+(0:09:05 - 0:09:30)
+Wir haben jetzt elf Uhr drei und weil wir die ersten zehn Minuten verpasst haben, entschuldige ich mich an der Stelle noch mal für die technischen Fehler. Wir machen das heute so, dass wir jetzt diese Übungen gerne natürlich trotzdem in den Chat stellen. Aber wir machen jetzt nicht fünf Minuten Pause und wir gehen sie dann auch nicht gemeinsam durch, sondern macht das gerne selbst die, die, die, sage ich mal, mit.
+
+(0:09:31 - 0:09:45)
+Ja, am besten macht ihr natürlich die Übung erst mal selbst und schaut euch dann die Lösung an. Also die Idee ist, hier ist so ein Schutzkonzept und ihr müsst die richtigen Relais zuordnen, die richtigen Funktionen zuordnen. Dann kommt ein Lösungswort raus.
+
+(0:09:46 - 0:09:57)
+Genau wie gesagt, das machen wir heute nicht zusammen, weil wir diese kleinen technischen Probleme hatten. Und was wir heute auch nicht machen, ist das Thema Blitzschutz. Das steht online schon zur Verfügung.
+
+(0:09:58 - 0:10:06)
+Ich gehe noch mal hier zurück. Das haben wir schon online gestellt. Und weil wir heute einfach ein bisschen spät dran sind, überspringen wir das Ganze.
+
+(0:10:07 - 0:10:16)
+Ich wünsche euch wie immer ein schönes Wochenende. Ich bin froh, dass ihr dabei gewesen seid und freue mich aufs nächste Mal. Alles Gute und bis dann.
+
+(0:10:16 - 0:10:16)
+Tschüss.

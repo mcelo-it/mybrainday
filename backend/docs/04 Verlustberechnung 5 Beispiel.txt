@@ -1,0 +1,97 @@
+(0:00:00 - 0:00:16)
+Wir gucken uns jetzt mal Beispielrechnungen an und gehen dafür erstmal wieder in unsere Übersicht. Und in dieser Übersicht sehen wir erstmal wieder die Formeln, die wir da mitgenommen haben. Also DC-Formel und dann die Niederspannungs- und Mittelspannungsformel, die sind dann im Wesentlichen gleich.
+
+(0:00:17 - 0:00:36)
+Und wir starten jetzt rückwärts. Wir starten jetzt mit dem Mittelspannungskabel und gucken uns hier mal an, wie wir das in so einem Projektablauf, so würde ich das mal sagen, machen würden. Also diese Excel-Tabellen, die ihr jetzt von uns an die Hand gegeben bekommen habt, die geben natürlich erstmal den ersten Ansatz.
+
+(0:00:36 - 0:01:05)
+Aber wenn wir jetzt ein Projekt machen würden, gucken wir uns mal zuallererst das Mittelspannungskabel an und würden dann unsere Excel-Tabellen ein bisschen aufblasen und uns da so eine Tabelle aufbauen, wo wir dann auch mehrere Kabel hinterher eintragen können, mehrere Verluste, mehrere Leistungen und so weiter. Also das wäre jetzt mal der Ansatz, wie wir es machen würden. Und wir gucken uns hier die Kabelstrecke erstmal von TRAFO Station 1 zu TRAFO Station 2 zum Beispiel an.
+
+(0:01:06 - 0:01:27)
+Und jetzt gibt es die Vorgabe eben aus dem Projekt heraus, wir wissen, was für ein Transformator das ist. Jetzt ist es ein 2500 kW TRAFO, meinetwegen ist der jetzt auch voll belegt mit Wechselrichtern, also exakt 100 %, 2500 kW Wechselrichterleistung ist da dran. Eine Kabelstrecke gibt es von 500 Metern und es gibt einen Kabeltyp und eine Spannung.
+
+(0:01:28 - 0:01:38)
+Das würden wir jetzt hier erstmal runterfliegen lassen. Also die Leistung, die wir hier anschließen an das Kabel sind dann 2500 kW. Die Kabellänge ist 500 Meter lang.
+
+(0:01:39 - 0:01:56)
+Dann haben wir eine Spannung 20 kV, die ist natürlich dann auch gegeben. Aus dieser Spannung berechnen wir jetzt den Strom. Das ist dann unser Nennstrom auf dieser Kabelstrecke, 72,2 Ampere vorausgesetzt.
+
+(0:01:56 - 0:02:20)
+Es sind auch wirklich 2500 kW Wechselrichter angeschlossen und davon gehen wir jetzt mal aus. Wenn da natürlich nur 1 Megawatt Wechselrichterleistung dran ist, dann könnt ihr das natürlich auch hier in der Tabelle berücksichtigen und auch nur mit 1 Megawatt rechnen, ganz klar. Also die 72,2 Ampere fliegen runter, der Kabeltyp fliegt auch runter, hat jetzt, ich sage mal, für diese Berechnung nicht direkt Einfluss.
+
+(0:02:20 - 0:03:02)
+Klar, Alu-Kabel, nein, es ist ein Kupferkabel, N2X ist ein Kupferkabel, dafür ist das natürlich wichtig. Aus diesem Querschnitt und dem Kabeltyp können wir jetzt natürlich durch den spezifischen Widerstand R' mal die Kabellänge den tatsächlichen Widerstand des Kabels ermitteln, also der wäre dann 0,058 Ohm und der fliegt jetzt eben auch runter. Der Querschnitt kommt jetzt in der Reihenfolge zuletzt, ist natürlich wichtig für diesen spezifischen Widerstand, damit wir den aus dem Datenblatt raussuchen können, aber das kriegt ihr in eurem Projekt schon sortiert.
+
+(0:03:04 - 0:03:45)
+So, jetzt kommt das P, ist gleich 3 mal R mal I², das ist die Formel, die wir vorhin ein Stück weit hergeleitet haben und aus dieser Formel 3 mal dem Widerstand, den wir hier haben und dem Strom zum Quadrat ergeben sich dann Kabelverluste im Nennbetrieb von 907 Watt, also eine Leistung hier, keine Energie. Das heißt, diese Leistung müsste man dann natürlich, wenn man das wirklich tatsächlich in Energie umrechnen wollte, nochmal über diesen Lastverlauf brechen. Dann gehen die Nennverluste auch rein in die Tabelle und dann haben wir das für die Kabelstrecke 1 tatsächlich schon erledigt.
+
+(0:03:45 - 0:04:07)
+Wir wissen jetzt, wie groß die Verluste auf dieser Kabelstrecke sind bei der angeschlossenen Leistung, bei dem entsprechenden Kabelspannung und so weiter. In der Grafik würde das dann im Grunde genommen so aussehen. Wir sind jetzt oben da im Nennbetrieb 2500 kW angeschlossen, damit haben wir gerechnet.
+
+(0:04:07 - 0:04:34)
+Das heißt, wir haben da Verluste bei knapp 1000, also 907 ist ja das Rechenergebnis und gehen jetzt mal weiter in unser Niederspannungskabel. Hier ist es genauso wie eben, wir würden uns auch hier eine Tabelle aufbauen und das Kabel geht jetzt von Trafostation 1 zum Wechselrichter 1 zum Beispiel. Kabel Nummer 1, dafür machen wir es jetzt mal beispielhaft.
+
+(0:04:35 - 0:04:47)
+Später wird die Tabelle natürlich noch viel länger, weil ihr viel mehr Wechselrichter oft in den Projekten habt. Die Kabellängen variieren von Wechselrichter zu Wechselrichter. Wie auch immer, im Beispiel hier geben wir euch jetzt mal was vor.
+
+(0:04:47 - 0:05:09)
+Das Kabel ist 100 Meter lang, wir haben hier einen dezentralen Wechselrichter mit 352 kW. 800 Volt haben diese Geräte jetzt in der Größenordnung und wir geben auch hier ein Alukabel vor, diesmal mit 240 mm². Wir ziehen auch hier genau wie eben die Werte runter, 352 kW hat der Wechselrichter.
+
+(0:05:09 - 0:05:31)
+Wir gehen jetzt mal davon aus, dass diese Wirkleistung auch zutrifft. Wir haben eine Kabellänge von 100 Meter, wir haben eine Spannung, wir haben einen Strom, der jetzt aus der Wirkleistung des Wechselrichters und der den 800 Volt mit dem Faktor Wurzel 3 resultiert, also 254 Ampere. Dazu holen wir uns noch den Kabeltyp rein.
+
+(0:05:31 - 0:06:18)
+Jetzt wissen wir NA, das ist ein Aluminiumkabel und können aus dem Datenblatt dieses Kabels dann den Widerstand, den spezifischen Widerstand ermitteln, also R', den Widerstand pro Meter oder pro Kilometer, pro Meter ist es in dem Fall und den mit 100 Metern multipliziert, wäre dann ein Widerstand von 0,0116 Ohm. Der Querschnitt kommt noch dazu, der Vollständigkeit halber und jetzt kommt das p-Verluste, was wir dann wiederum über die Formel ermitteln müssen. Der p-Verlust ist 3 mal R mal I² und da resultiert dann hier eine Verlustleistung für diese eine Kabelstrecke von 2240 Watt, die wir dann hier in diese Liste übernehmen werden.
+
+(0:06:20 - 0:07:01)
+Jetzt auch hier nochmal diese Grafik, die wir eben gesehen haben. Im Grunde genommen sieht die genauso aus wie beim Mittelspannungskabel, nur dass unten die Zahl jetzt 352 ist und nicht 2500, aber der Verlauf ist der gleiche. Jetzt haben wir aber hier noch einen Hinweis mit angebracht, der folgt jetzt hier, wenn wir jetzt, wir hatten das Ganze am Anfang mal angesprochen, wenn wir jetzt in unserem Anlagenzertifikat eine dauerhafte Reduzierung der Wechselrichter einstellen müssen oder eine, wir würden jetzt Limitierung sagen, also eine dauerhafte Reduzierung ist für uns eine Limitierung von zum Beispiel 90 Prozent.
+
+(0:07:01 - 0:07:15)
+Das kann durchaus vorkommen. Dann könnten wir das jetzt eben mitnehmen hier in dieser Berechnung und dann eben nicht mit 352 kW rechnen. Wir grauen das jetzt ganz oben in der Berechnung mal aus und rechnen jetzt erst mal einen neuen Strom aus.
+
+(0:07:16 - 0:07:49)
+Wir haben jetzt 352 mal 0,9, also 90 Prozent Wirkleistung. Dann ist der Strom reduziert auf 228, 229 Ampere und dann reduzieren sich natürlich auch die Verluste, die P-Verluste, also der Kabelwiderstand bleibt gleich in der Folgezeile, aber unten dann hätten wir neue Verluste, die wir dann ausrechnen würden und die sind dann eben bei 1818,6 Watt. Also man sieht hier, man geht 90 Prozent in der Wirkleistung runter und dann gehen natürlich auch die Kabelverluste runter.
+
+(0:07:49 - 0:08:12)
+In der Grafik oben schiebt sich das jetzt auch noch mal so ein bisschen, rückt sich das ein bisschen zurecht. Also dadurch, dass der Strom i-quadratisch in diese Formel eingeht, sind die reduzierten Verluste überproportional zu der reduzierten Wirkleistung. Hilft uns am Ende ehrlich gesagt auch nicht viel.
+
+(0:08:12 - 0:08:52)
+Ich glaube, alle wären eher happy, wenn sie den Wechselrichter mit 100 Prozent fahren dürften, als dass sie ein wenig Kabelverluste einspannen. So, das wäre jetzt die Tabelle für die Niederspannungskabel und für die Stringkabel ist unserer Meinung nach der Ansatz ein Stückchen weit anders, weil wir vielleicht nicht unbedingt jetzt hier die hunderte, tausende Stringkabel aufführen würden, die wir in unserem Solarpark haben, sondern wir schauen uns das mal in Ruhe an. Also wir haben erstmal eine Vorgabe, wir haben 130 Meter Stringkabel pro String.
+
+(0:08:52 - 0:09:22)
+Das ist jetzt erstmal so ein Mittelwert, den wir ermittelt haben, 130 Meter pro String. Wir haben uns jetzt auch mal ein Modul rausgesucht mit 555 Watt Peak, dazu ein Stringkabel, 4 Quadrat und haben eine gesamte Anlagenleistung von 5,72 Megawatt. Die Anzahl der Strings ist dann 400 und aus dieser Stringanzahl und der Stringlänge können wir uns dann gleich Kabellängen ermitteln, Schritt für Schritt.
+
+(0:09:22 - 0:09:59)
+Also erstmal kommt der Kabeldurchmesser, das ist ein 4 Quadrat, jetzt kommt der Vollständigkeit halber, sage ich mal, die Leistung des Moduls, 555 Watt. Dazu kommt dann jetzt das Datenblatt rein vom Modul, weil hier können wir jetzt natürlich zu diesem Modul uns aussuchen oder heraussuchen, welchen IMPP Strom wir haben. Zoomen wir mal rein, wir sehen jetzt oben das Modul, 555 Watt gleich, ist eingeblendet und dann gehen wir zu dem IMPP Strom, der wird jetzt hier auch eingeblendet oder gelb-orange umrahmt und da stehen dann glaube ich 13,13 Ampere.
+
+(0:09:59 - 0:10:46)
+Das ist der IMPP Strom unter Standardtestbedingungen, mit dem wir hier rechnen würden. Jetzt wiederum gucken wir uns den Kabelwiderstand an, also auch hier den spezifischen Widerstand des Kabels aus dem Datenblatt rausgesucht, mal die Kabellänge und dann kommen wir auf einen Widerstandswert von 0,66 Ohm. Den tragen wir hier ein und haben jetzt die durchschnittliche Kabellänge von 130 Metern mit aufgenommen und die Verluste pro String bei Standardtestbedingungen oder bei MPP berechnen sich jetzt eben aus 2 mal R mal I².
+
+(0:10:46 - 0:13:45)
+Also P-Verluste sind 2 mal R mal I², wir haben das R, wir haben das I² und tragen das jetzt in unsere Gleichung ein. Also 2 mal Widerstand 0,66 mal den Strom zum Quadrat, dann kommen wir auf 227,56 Watt Verluste pro String und wir haben ja gesagt, dass alle Strings ungefähr genau diese Länge haben, dann wäre das jetzt auch schon ein valides Ergebnis, mit dem man dann weiterrechnen kann. Wir gucken uns das dann aber nochmal an, was das in der Summe bedeutet, weil für die Summe brauchen wir natürlich die Verluste von diesem Standardstring, den wir da haben, multipliziert mal der Stringanzahl und das ist dann diese 400 Strings, die wir da oben angesetzt haben, mal die 227 Watt und dann kommen wir auf eine Gesamtverlustleistung von 91 kW, die wir jetzt auch unten in unsere Tabelle einfügen und wenn wir das Ganze jetzt noch in Prozenten ausdrücken wollen, dann sind das die Gesamtverluste durch, hier steht jetzt Pins, das würde ich glaube ich noch korrigieren und würde das ändern in PMPP, aber im Grunde genommen die Gesamtverluste zu der gesamtinstallierten Leistung sind dann am Ende 5,72 Megawatt, Peak sind es wahrscheinlich, dann kommen wir auf 0,016 Prozent Verluste auf der Stringkabelseite und auch das tragen wir in unsere Tabelle ein bzw. 
+
+unsere Tabelle würde das dann natürlich automatisch gleich generieren, weil wir ja auch die Gesamtleistung und die Verluste dann in den Formeln oder in den Zellen der Excel-Tabelle verknüpfen. So, jetzt haben wir das erstmal zusammengeschrieben, wir würden jetzt im Projekt natürlich noch die Listen kompletieren, also beim Mittelspannungskabel haben wir jetzt nochmal eine Übergabestation hinzugefügt, weil wir eben zwei Mittelspannungsstrecken haben und würden dann die Summe bilden aller Mittelspannungsverluste, man sieht das hier, also wir haben dann auf der zweiten Strecke eine höhere Leistung, wir haben das Kabel ein bisschen kürzer gewählt, wie auch immer kommen dann durch die höhere Leistung und die kürzeren Kabel höhere Verluste als auf der ersten Kabelstrecke, aber zusammen addiert kommen wir da auf, ich glaube, 3,8 kW und auch das würde man jetzt in Bezug setzen auf die gesamt installierte Leistung und da wäre dann eben das Ergebnis, dass man diese 3,8 kW teilt durch 4,93 Megawatt beispielsweise und dann wären da die Verluste 0,07%. Üblicherweise haben wir auf der Mittelspannungseite meistens relativ geringe Verluste, weil wir hohe Spannungen haben und da müssen wir meistens auch gar nicht so sensibel sein, was den Leiterquerschnitt betrifft, weil wir meistens nur ein Kabel verlegen.
+
+(0:13:46 - 0:14:09)
+Da kann man auch mal einen Querschnitt höher greifen, um die Verluste weiter zu reduzieren. Das fällt nicht so sehr in die Kosten oder ins Gewicht, wie jetzt bei dem Niederspannungskabel, wo ihr natürlich von der Menge her viel, viel mehr Kabel habt, wenn man da einen Querschnitt hoch oder runter geht, ist das, was die Kosten betrifft, natürlich gleich viel, viel intensiver. Auch bei dem Niederspannungskabel haben wir jetzt die Tabelle mal erweitert.
+
+(0:14:10 - 0:14:27)
+Wir haben jetzt gesagt, an jeder Trafo-Station sind sieben Wechselrichter, das heißt wir haben in Summe 14 Wechselrichter. Die Kabellängen haben wir jetzt mal gleich gelassen, das ist natürlich nicht real. Im Projekt sind alle Wechselrichterstrecken, Kabelstrecken unterschiedlich lang.
+
+(0:14:28 - 0:15:09)
+Dadurch würden unterschiedliche Verluste resultieren, die sich dann aufaddieren und die man dann wiederum mit dem Pinst, also mit der installierten Wirkleistung in Bezug setzen würde und dann resultieren auch daraus aus den Verlusten, aus diesen 31 kW, ich glaube da haben wir noch einen Fehler in der Formel, bezogen auf die installierte Wirkleistung resultiert dann eben ein Verlust. Also kleiner Fehler in der Formel, aber ich glaube der Grundsatz ist verstanden. Es müsste hier 31,36 ist es glaube ich durch 4,93 Megawatt heißen und dann hätte man da eben prozentuale Verluste.
+
+(0:15:10 - 0:16:01)
+Unten beim Stringkabel passiert jetzt nochmal was ähnliches, also die Verluste bezogen auf PMPP wären dann eben 0,016 oder 0,06 Prozent und dann hätten wir hiermit ein sinnhaftes Ergebnis, was die Kabelverluste betrifft und ich denke mal aus Projektsicht her sind das sehr vertretbare gute Verluste. So, alles aufaddiert wäre dann ein Gesamtverlust von unter einem Prozent, also da würde ich jetzt erstmal sagen, braucht sich keiner Sorgen machen, das ist hervorragend. So, jetzt haben wir viel geredet über Verluste DC, AC und jetzt ist das hier ein kleiner Bruch, ein kleiner Sprung in dieser ganzen Berechnungsthematik.
+
+(0:16:01 - 0:16:41)
+Wir haben jetzt für euch nochmal nebeneinander gehalten, was das denn eigentlich so bedeutet, AC-Verluste, DC-Verluste, weil wir kriegen auch oft diese Frage gestellt und können das oft gar nicht so richtig schnell greifen. Deshalb haben wir es jetzt mal aufgeschrieben und haben jetzt mal festgelegt, wir wollen 352 kW übertragen auf einer 100 Meter langen Kabelstrecke. Um das Ganze irgendwie fair bewerten zu können, haben wir für beide Kabelsysteme den gleichen Querschnitt angesetzt und hier wird es schon ein bisschen unscharf, weil das DC-System eben nur zwei Kabel brauchen, das AC-Kabelsystem drei und wir haben die Systemspannung definiert, so wie wir sie aus Projekten kennen.
+
+(0:16:41 - 0:17:38)
+Also AC arbeitet bei den großen Wechselrichtern meist mit 800 Volt, DC liegt dann so im MPP-Bereich meistens bei 1100 Volt und ohne jetzt die Gleichung nochmal hier groß aufzuschreiben und euch zu erklären und zu zeigen, müsst ihr uns jetzt glauben, dass das Ergebnis auf der DC-Seite bei einer 100 Meter langen Kabelstrecke bei der angegebenen Leistung bei 2,37 kW liegen würde oder 2370 Watt und für die AC-Seite wären das 2240 Watt. Jetzt würde ich mal sagen aus meiner Sicht, das ist ja sehr ähnlich, da ist jetzt kein großer Gewinner zu sehen, weil das ist im kleineren Prozentbereich der Unterschied, aber was hier vielleicht wichtig zu sehen ist, dass wir ja für die DC-Systeme weniger Kabel brauchen. Das sind ja nur zwei Drähte und nicht drei oder nicht zwei Adern, sondern drei auf der AC-Seite.
+
+(0:17:38 - 0:18:03)
+Von daher wäre meine Abwägung jetzt, dieses DC-Kabel überträgt den Strom ein Stück weit effektiver als das AC-Kabel bei 800 Volt. Also es liegt natürlich an der Spannung und dem quadratisch eingehenden Strom bei dieser ganzen Geschichte. Hohe Spannungen sind besser als geringere Spannungen, weil der Strom bei hohen Spannungen geringer wird.
+
+(0:18:04 - 0:18:17)
+Kann man jetzt mal so mitnehmen, um das irgendwie zu greifen? Vielleicht hilft es euch dann ja mal in einem Projekt, um da eine gute Aussage treffen zu können. Ist jetzt DC oder AC besser? Die Frage kommt ja häufig mal.

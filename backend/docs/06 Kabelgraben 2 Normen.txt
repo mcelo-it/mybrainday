@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:11)
+Warum haben wir durch? Jetzt gehen wir zu dem ersten Punkt Normen. Ich hatte es auch eben schon mal kurz angekündigt. Bei den Normen gibt es hier einen ganzen Blumenstrauß tatsächlich.
+
+(0:00:11 - 0:00:24)
+Und alle befassen sich ein Stück weit mit dem Thema Kabelgraben. Aber wir haben jetzt keine wirkliche Norm gefunden, die uns genau sagt, wie tief muss dieser Graben immer sein. Das ist nicht ganz so einfach hier.
+
+(0:00:25 - 0:00:51)
+Wir gehen das mal durch. Und ich denke, am Ende kommen wir dann zu dem Schluss, dass diese Regeln, die wir am Anfang definiert haben, frostfrei, Schutz vor mechanischer Belastung, dass man sich daran orientieren sollte, die Normen immer im Hinterkopf. Und dann kommt man zu einer sinnvollen Lösung bei seinem Kabelgraben, die wir dann später natürlich auch erklären, aber auch nicht so in Stein meißeln wollen, weil da kann jeder ein wenig von abweichen und seine Variationen erstellen.
+
+(0:00:52 - 0:01:08)
+Also los geht's. Die DIN 1998 aus dem Jahr 2018, Teil 7. Das ist erstmal die erste Norm, die wir aufführen wollten. Und da geht es dann um die Unterbringung von Leitungen im öffentlichen Raum, von Kabeln, also im öffentlichen Raum und Verkehrsflächen.
+
+(0:01:10 - 0:01:37)
+Der Name der Norm sagt es natürlich gleich schon, das ist nicht unbedingt die interne Solarparkverkabelung, sondern da geht es eben um den öffentlichen Bereich. Wo darf man seine Leitungen? Und hier geht es auch nicht nur um Strom, sondern hier geht es auch um Abwasser, Frischwasser, Gas, Telekommunikation. Wo darf man diese Leitungen verlegen? Das ist relativ aufwendig eben für diese ganzen Medien, aber sinnhaft ist das natürlich auch.
+
+(0:01:37 - 0:02:29)
+Wer schon mal so eine Baustelle bei sich im Wohngebiet gesehen hat, da sieht man dann viele, viele Leitungen verlaufen und irgendwer muss natürlich regeln, welche Leitung wo liegen darf und in welcher Tiefe sie liegen darf. Und das macht diese Norm im Grunde genommen und gibt eine Mindestüberdeckung vom halben Meter erstmal vor. Das ist erstmal okay, das entspricht noch nicht ganz unserer frostfreien Definition, aber vom Grundsatz her ist es ja auch Mindestwert, man kann also auch tiefer gehen, beziehungsweise wäre die Alternative dazu 10 cm unter dem Planum und das Planum, das versteht sich aus meiner elektrotechnischen Sicht, also ich bin kein Bauingenieur, im Grunde genommen so, wenn man die Fahrbahndecke abnimmt und in Berlin ist das so, da ist hinter der Fahrbahndecke noch so eine Kopfsteinpflaster-Schicht, wahrscheinlich noch aus vergangenen Jahren, aus vergangenen Zeiten.
+
+(0:02:29 - 0:03:19)
+Und wenn man auch die wegnimmt, dann kommt man irgendwann zu so einer Art Planum, vielleicht der gewachsene Boden und da kann man dann sein Kabel reinlegen und zwar 10 cm tiefer als dieses Planum und dann kommt wieder diese Überdeckung, die dann häufig tatsächlich so einen halben Meter ausmacht und dann liegt das Kabel ja schon auf diesen, ich sag mal 60 cm ganz grob, so ist das hier vorgegeben und wäre dann nach unserer Definition ja auch schon im frostfreien Bereich und dann hätte man im Grunde unsere erste Regel frostfrei hier auch erfüllt aus dieser Norm. Würde ich jetzt mal so stehen lassen, weil es glaube ich in den meisten Fällen für uns ja nicht so relevant ist, weil wir würden ja erst mal mit unserer externen Kabeltrasse den öffentlichen Bereich möglichst meiden. Genau, das hat natürlich dann viele Gründe, aber es ist immer schwer im öffentlichen Bereich dann Leitungen zu verlegen.
+
+(0:03:21 - 0:03:51)
+Und dann gibt diese Norm uns noch eine Zone für unsere Elektro-Kabel vor, das heißt in dem Gehweg, in dem Bürgersteig gibt es definierte Bereiche, die eben für Strom genutzt werden und andere werden eben für Gas genutzt. So definiert das diese Norm, damit alles in Deutschland unter dem Gehweg, selbst unter dem Gehweg, seine Ordnung hat und sauber angeordnet verlegt wird. Die nächste Norm, die wir gefunden haben, ist die 4124 aus dem Jahr 2012.
+
+(0:03:52 - 0:04:05)
+Auch hier nur ein kurzer Abriss. Hier geht es um Baugruben und Gräben, Böschung, Verbau und Arbeitsraumbreiten. Ja, das gewährleistet im Grunde genommen eine gewisse Sicherheit in diesen Baugruben.
+
+(0:04:05 - 0:04:30)
+Für Kabelgräben sehe ich das nicht ganz so kritisch, nicht ganz so wichtig, weil diese Norm grundsätzlich erst so richtig greift ab einer Tiefe von 1,25 Meter. Dann heißt es im Grunde genommen, Achtung, Achtung, ihr seid jetzt 1,25 Meter tief, ihr müsst jetzt Maßnahmen ergreifen, wie auch immer, abstützen, böschen, abschrägen. Unsere Kabelgräben, wie wir es ja vorher gesehen hatten, gehen häufig gar nicht so tief.
+
+(0:04:30 - 0:04:48)
+Vielleicht mal in den landwirtschaftlichen Flächen, da muss man sich eben überlegen, wie man das macht aus Arbeitssicherheitssicht. Aber für unseren internen Kabelgraben-System ist es meistens nicht so relevant. Hier seht ihr es jetzt mal, das ist jetzt ein tiefer Graben, 1,50 Meter.
+
+(0:04:49 - 0:05:16)
+Und bei 1,25 Meter muss man dann eben sehen, dass man das oben abböscht, so ist, glaube ich, der Fachbegriff. Und dann purzelt euch nicht der ganze Graben zusammen, vor allem, wenn ihr dort dann drinsteht bei 1,50 Meter, dann steht es einem auf einmal bis zum Hals und man kommt dort nicht mehr raus alleine. Hier geht es um Sicherheit und am Ende ist es, glaube ich, auch einfach eine ganz praktische Tatsache, dass man das so nicht machen würde, weil der Graben einfach nicht halten würde.
+
+(0:05:17 - 0:05:34)
+Also so ohne diese Böschung nicht machen würde. Bei Photovoltaikanlagen ist diese Tiefe selten vorhanden. Dann kommen wir zur nächsten Norm, das ist die DIN VDE-0276-603.
+
+(0:05:36 - 0:05:59)
+Für viele vielleicht schon bekannt aus den Kabelberechnungs-Braindays, da nehmen wir da auch häufig Bezug drauf. Hier geht es um die Energieverteilungskabel mit Nennspannung 0,6 bis 1 kV. Und es werden grundsätzlich hier für diese Niederspannungskabel Rahmenbedingungen geschaffen für die Berechnungsfaktoren.
+
+(0:05:59 - 0:06:19)
+Das heißt, wenn wir in diese Normen reinschauen und Kabel dimensionieren, Kabelberechnungen wollen, dann kriegen wir dort Faktoren genannt und die unterliegen gewissen Rahmenbedingungen. Und diese Rahmenbedingungen kommen gleich im Folgenden. Zuerst gibt diese Norm aber auch an, dass es gewisse Biegeradien gibt, die wir einhalten müssen.
+
+(0:06:20 - 0:06:36)
+Das wollten wir euch hier nicht vorenthalten, da kommen wir auch später nochmal zu. Jetzt kommen wir aber erst nochmal zu dem Schutz der Kabel. Und zwar sagt hier diese Norm, dass Kabel, die in Erde verlegt werden, erstmal ausreichend gegen mechanische Beschädigung geschützt werden.
+
+(0:06:36 - 0:06:48)
+Das ist erstmal eine Tatsache, die hier auch in der Norm so genannt wird. Und dann als nächstes nennt diese Norm hier auch nochmal Tiefen. Das heißt, sie sagt erstmal 0,6 Meter unter der Erde.
+
+(0:06:49 - 0:07:03)
+Und wenn wir unter Straßen oder Fahrbahnen sind, dann müssen wir auf 0,8 Meter gehen. Das ist erstmal hier so definiert. Und dann per Definition der Norm könnte man davon ausgehen, dass jetzt unser Kabel gegen mechanische Beschädigung geschützt ist.
+
+(0:07:05 - 0:07:18)
+Den Sand natürlich noch drum herum gelegt. Haben wir erstmal eine gute Grundlage und sind guter Dinge, dass unser Kabel hier die nächsten 20 Jahre, 30 Jahre bestehen wird. Zum Schluss nochmal der Satz.
+
+(0:07:18 - 0:07:26)
+Das ist auch ein Zitat aus der Norm im Grunde genommen. Deshalb steht hier auch so viel Text. Bei geringen Verlegetiefen ist das Kabel durch andere Maßnahmen entsprechend zu schützen.
+
+(0:07:26 - 0:07:45)
+Gut, kann man jetzt natürlich nochmal Platten auf das Kabel legen oder ähnliches einfach oder Leerrohr. Und dann hätte man hier nochmal einen besseren Schutz gewährleistet. Das zu dieser Norm, beziehungsweise wo diese Norm unsere Kabelgräben oder Verlegekriterien schneidet.
+
+(0:07:45 - 0:08:02)
+Wir gehen weiter zu 02761000. Auch hier wieder eine bekannte Norm aus der Kabelberechnungsecke. Hier geht es nämlich um Strombelastbarkeiten, allgemeine Umrechnungsfaktoren für Mittelspannungskabel.
+
+(0:08:03 - 0:08:25)
+Also eben hatten wir Niederspannungskabel, jetzt kommt das Ganze für Mittelspannungskabel. Auch hier werden Rahmenbedingungen geschaffen, Rahmenbedingungen definiert, um die Strombelastbarkeit von einem Kabel ermitteln zu können. Und diese Norm sagt erstmal, die Faktoren, die hier genannt werden, haben Gültigkeit, wenn wir die Kabel verlegen, in einer Tiefe von 0,7 bis 1,2 Meter.
+
+(0:08:26 - 0:08:46)
+Das ist erstmal, denke ich, so ein bisschen schlüssig mit dem, was wir im ersten Kapitel genannt haben. Also wir sind dann hier im frostfreien Bereich ab 0,6 Meter, können aber auch durchaus tiefer gehen bis 1,2 Meter. Ab 1,25 Meter muss man dann gewisse Sicherheitskriterien beachten.
+
+(0:08:47 - 0:09:05)
+Aber erstmal sind wir hier in einem Bereich, dem wir persönlich erstmal so als richtig erachten, zustimmen würden und aber auch sagen, dass Abweichungen möglich sind. Also wir können auch auf 0,6 Meter gehen, wenn wir das vertreten können. Und diese Norm lässt das auch zu.
+
+(0:09:05 - 0:09:34)
+Allerdings sagt die Norm halt, wenn wir davon abweichen, dann müssen wir das in unserer Kabelberechnung beachten. Und zwar folgendermaßen, wenn wir die Kabel flacher legen, also flacher heißt nicht 60 Zentimeter, sondern 50 oder 40, dann verbessert das erstmal die Stromtragfähigkeit. Andersrum, wenn wir auf 1,30 Meter, 1,40 Meter gehen, dann wird die Stromtragfähigkeit von den Kabeln erstmal verschlechtert.
+
+(0:09:34 - 0:09:53)
+Also bleiben wir möglichst in dem Bereich 0,7 bis 1,20 Meter. Dann greift erstmal das, was in der Norm steht, diese Verlegefaktoren und diese Faktoren. Wenn wir jetzt auf 0,6 gehen würden, beispielsweise bei Niederspannungskabeln, dann würden sich diese Faktoren verbessern.
+
+(0:09:54 - 0:10:05)
+Hier ist es eine Mittelspannungsnorm, von daher sehen wir das später. Ist ja schon genauso, wie wir es empfehlen würden. Dann kommen wir zum nächsten Punkt.
+
+(0:10:05 - 0:10:17)
+Das ist die 02984 aus dem Jahr 2013. Hier geht es um die Verwendung von Kabeln und isolierten Leitungen für Starkstromanlagen. Auch hier wieder um Rahmenbedingungen.
+
+(0:10:17 - 0:10:35)
+Auch hier kriegen wir erstmal keine klare Vorgabe, mach das so oder so. Aber hier wird eben definiert 0,7 Meter, 20 Grad Celsius und 2,5 Kelvin pro Meter Watt. Das sind die Rahmenbedingungen, die hier vorgegeben werden, damit wir die Werte aus dieser Norm 1 zu 1 übernehmen können.
+
+(0:10:35 - 0:10:45)
+Wenn das nicht so ist, dann müssen wir die Werte anpassen. So, jetzt geht es weiter. Richtlinien der Netzbetreiber.
+
+(0:10:46 - 0:11:14)
+Das ist, wie ich finde, erstmal ein ganz wichtiger Punkt, weil viele Netzbetreiber haben erstmal grundsätzlich eigene Anforderungen. Und das halte ich auch für richtig, weil die Netzbetreiber natürlich ihren Netzbereich gut kennen und dann auch eben ihre Regeln in ihrem Netzgebiet selbst definieren können und auch gut definieren können. Und das ist, wie ich finde, auch eine relativ faire Sache, weil die Netzbetreiber halten sich an dieser Verlegung und ihr habt euch dann an dieser Verlegung zu halten.
+
+(0:11:16 - 0:11:37)
+Sie können dann natürlich strengere Regeln auflegen oder nicht so strenge Regeln. Wichtig ist, dass eben alle das gleich machen. Wenn das Mittelspannungskabel dann auf 80 liegen soll, dann legen wir es alle auf 80 und keiner weicht davon ab und legt es in Bereiche, wo eigentlich andere Kabel liegen sollten.
+
+(0:11:38 - 0:11:58)
+Wichtig auch hier, eine externe Kabeltrasse betrifft das. Intern auf eurem Solarpark dürft ihr ein Stück weit selbst entscheiden, welchen Tiefen ihr seid, die Kabel verlegt. Und meistens ist eben diese Vorgabe des Netzbetreibers auch eine Zusammenfassung aus normativen Anforderungen.
+
+(0:11:58 - 0:12:20)
+Also alles, was wir da so gelesen haben, das war jetzt nicht so, dass wir gedacht haben, da hat sich der Netzbetreiber wirklich was überlegt, was wir so gar nicht aus der Norm kennen, was ganz davon abweicht. Also das ist hier schon meistens eine sinnhafte Zusammenfassung von dem Ganzen. So, der letzte Punkt, der soll hier noch kurz genannt sein.
+
+(0:12:20 - 0:12:28)
+Da haben wir noch ein paar Sachen zusammengeschrieben, die mehr oder weniger wichtig sind. Mehr wichtig, würde ich jetzt erstmal sagen, ist der erste Punkt. Das sind Nutzungsverträge.
+
+(0:12:28 - 0:12:50)
+Wenn ihr externe Kabeltrassen habt und da habt ihr viele verschiedene Eigentümer auf diesen Flurstücken und dann müsst ihr natürlich in eure Nutzungsverträge gucken, weil der eine oder andere lässt euch vielleicht nur über sein Grundstück, wenn ihr das Kabel mindestens 1 Meter tief legt oder mindestens 1,20 Meter tief legt. Und das ist dann natürlich vertraglich vereinbart. Daran müsst ihr euch halten.
+
+(0:12:51 - 0:13:01)
+Das ist dann das Grundstück von dieser einzelnen Person. Diese einzelne Person darf dann natürlich auch darüber entscheiden und verfügen. Aber da müsst ihr reingucken, vor allem, wenn es eben um externe Trassen geht.
+
+(0:13:02 - 0:13:13)
+Wichtiger Punkt. Deshalb kommt den Ausrufezeichen dran. Jetzt kommen noch viele Punkte, die ihr als Planer gar nicht so auf der Pfanne haben müsst, aber vielleicht mal gehört haben solltet.
+
+(0:13:14 - 0:13:29)
+Arbeitsschutztechnische Regelwerke für die Baustellenverordnung. Das ist vielleicht was, was der Bauleiter, der Siegeko wissen sollte oder die Berufsgenossenschaft der Bauwirtschaft. Für mich erstmal nicht so wichtig, aber erstmal gut zu wissen, dass es sowas gibt.
+
+(0:13:29 - 0:13:40)
+Es gibt auch eine Landesbauordnung. Und auch hier sollte man sich ein bisschen mit befasst haben in seiner Karriere, um einfach nur zu wissen, es gibt das. Und da wird etwas definiert, von Land zu Land unterschiedlich.
+
+(0:13:40 - 0:13:43)
+Aber habt das mal so ein bisschen im Hinterkopf, wenn es um solche Themen geht.

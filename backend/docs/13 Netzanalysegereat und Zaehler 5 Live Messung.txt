@@ -1,0 +1,231 @@
+(0:00:00 - 0:00:14)
+So, super, willkommen zurück, kurze Pause und weiter geht's. Wir gehen in die Live-Messung, da nehmen wir uns auch Zeit. Ich habe es Übung genannt und ich erkläre kurz, was wir jetzt hier also machen.
+
+(0:00:15 - 0:00:29)
+Als allererstes stellt sich bitte jeder vor, ich mir genauso, dass man jetzt auf einer PV-Anlage ist. Wir können ja sagen, es ist Sommer, dann ist es ein bisschen angenehmer und wir haben insgesamt zehn Wechselrichter vom gleichen Typ. Das ist wichtig.
+
+(0:00:29 - 0:00:43)
+Wir wollten so eine kleine Schwierigkeit noch mit reinbauen. Also es sind zehn Wechselrichter vom gleichen Typ auf der PV-Anlage, auf der wir da so stehen. Jetzt laufen wir gemeinsam meinetwegen zu so einem Wechselrichter hin.
+
+(0:00:43 - 0:00:59)
+Er hat ein Display und er sagt, also jetzt gerade 120 Kilowatt speise ich ein und wir tun jetzt mal so, als wären die Wetterbedingungen ganz konstant. Das bleibt jetzt auch ein paar Minuten so. Also wir haben zehn Wechselrichter und die machen jetzt alle gerade 120 Kilowatt.
+
+(0:01:00 - 0:01:10)
+Jetzt gehen wir als nächstes in die Übergabestation. Das machen wir hier mit einer 360 Grad-Tour. Mein Kollege hat es in den Chat gestellt.
+
+(0:01:10 - 0:01:17)
+Da ist mittlerweile ein Passwort drin. Nennt es Brainday. Alles groß geschrieben, Capital Letters 2025.
+
+(0:01:17 - 0:01:22)
+Könnt ihr mit reingehen. Müsst ihr jetzt gerade aber nicht unbedingt. Also für die, die das schon so ein bisschen kennen.
+
+(0:01:23 - 0:01:29)
+Man geht dann da rein, man kann sich bewegen und ich nehme den Sommer zurück. Wir haben Winter. Es macht also genau Sinn, wie es jetzt gerade ist.
+
+(0:01:30 - 0:01:33)
+Das ist unsere Übergabestation. Also hinter mir die Wechselrichter. Da haben wir jetzt drauf geguckt.
+
+(0:01:34 - 0:01:38)
+Und jetzt gehen wir in die Übergabestation. Jetzt passiert ja genau folgendes. Ich gehe da rein.
+
+(0:01:38 - 0:01:46)
+Das ist jetzt genau das, was man jetzt machen würde. Kurz nach der Inbetriebnahme. Man macht hier dieses Kästchen auf und da bin ich jetzt bei diesem Punkt.
+
+(0:01:47 - 0:02:02)
+Also das muss natürlich euch jemand freigeben. Um Gottes Willen, das glaube ich, muss ich nicht unbedingt betonen, dass jeder hier eigenverantwortlich ist. Ist mir auch natürlich wichtig bei so einer Schulung, dass da keiner sagt, er hat ja gesagt, ich soll da den Deckel aufmachen.
+
+(0:02:02 - 0:02:15)
+Also das muss jeder eigenverantwortlich abstimmen. Aber vom Grundsatz ist es so, dass man jetzt hier einen Deckel aufmachen kann beim nächsten Mal, wenn man da mal da vor Ort ist. Und dann findet man hier oben so ein ganz kleines Netzanalysegerät.
+
+(0:02:15 - 0:02:20)
+Da ist es. Und da gucken wir jetzt drauf. Und jetzt sehen wir, da steht es ja schon.
+
+(0:02:20 - 0:02:29)
+Also wir speisen gerade 600 kW ein. Und ob das jetzt richtig ist oder falsch, darauf kommen wir jetzt ja gleich hinaus. Aber das ist diese Grundlogik, die da passiert.
+
+(0:02:29 - 0:02:43)
+Ihr seid zum Wechselrichter gelaufen oder habt das Monitoring angerufen und schätzt jetzt mal ungefähr ab, ja, wie viel müsste es denn sein? Und jetzt geht man auf die Displays. Jetzt kann man gleich mal gucken, was speisen wir denn gerade ein. Drei-phase ist ganz wichtig.
+
+(0:02:43 - 0:02:59)
+Der macht das nämlich auch pro Phase. Aber jetzt sagt das Netzanalysegerät, wir machen gerade 600 kW pro für die gesamte Anlage. Ich gehe jetzt noch mal raus, nur der Form halber, weil ihr das später in einer anderen Übung noch braucht und zeigt euch noch, was man hier noch machen kann.
+
+(0:02:59 - 0:03:11)
+Also grundsätzlich kann man hier Türen auf und zu machen und auch um die Station laufen. Aber wir gucken jetzt hier noch auf das andere Bauteil, das wir später ja noch mal kurz angucken, den Zähler. Also hier käme der Zähler rein.
+
+(0:03:11 - 0:03:16)
+Dann hat man das auch mal gesehen. Man kann hier mal draufklicken. Und jetzt war dieser Zählermeister noch nicht da.
+
+(0:03:17 - 0:03:23)
+Deswegen ist da noch kein Zähler drin. Das ist genau das, was wir ehrlich gesagt auch zeigen wollen. Weil so ist das nämlich.
+
+(0:03:23 - 0:03:27)
+Die Station wird ohne Zähler geliefert. Das macht ja ein anderer. Das macht ja nicht der Stationsbauer.
+
+(0:03:28 - 0:03:36)
+Und hier sind diese Strom- und Spannungspfade drin, von denen ich gesprochen habe. Die kann man jetzt hier ganz einfach auch mal verdreht haben oder so. Das ist genau das Gleiche bei unserem Netzanalysegerät.
+
+(0:03:37 - 0:03:42)
+Jetzt drehen wir mal in der Zeit nach vorne. Das haben wir so gemacht mit einem Trick. Jetzt ist der Zähler drin.
+
+(0:03:43 - 0:03:52)
+Und das braucht ihr später für die Übung hier die Angaben. Deswegen habe ich das schon mal gezeigt. Okay, jetzt aber erst mal Fokus Netzanalysegerät.
+
+(0:03:52 - 0:04:06)
+Hier ist unser Netzanalysegerät. Wir gehen bitte wieder in die PowerPoint-Präsentation zurück. Ihr seid gedanklich auf der PV-Anlage in der Übergabestation.
+
+(0:04:07 - 0:04:27)
+Und ich habe mir überlegt, dass wir jetzt als Nächstes noch vier Aufgaben verteilen. Und diese vier Aufgaben. Nee, manchmal funktioniert der Cursor nicht.
+
+(0:04:27 - 0:04:36)
+Ich muss. Ja, genau. So, also wir haben jetzt unsere 120 kW bei den zehn Wechselrichtern.
+
+(0:04:36 - 0:04:39)
+Wir waren in der Übergabestation. Wir haben es auf Display geguckt. Und jetzt kommt eure Aufgabe.
+
+(0:04:40 - 0:04:47)
+Das machten jetzt wir gemeinsam. Deswegen bitte, bitte mitmachen, fokussieren, überlegen, zuhören. Man hat dann immer nur diese zehn Sekunden Zeit.
+
+(0:04:48 - 0:04:56)
+Aber deswegen machen wir es ja schrittweise. Also als erstes IP-Adresse. Das tippen wir ein, das kontrollieren wir.
+
+(0:04:56 - 0:05:08)
+Das machen wir gemeinsam. Dann das Stromwanderverhältnis ist 25 zu 1 Ampere. Das gebe ich vor. 
+
+Das ist so. Das ist auch richtig. Das Spannungswanderverhältnis ist 20.000 zu 100 Volt.
+
+(0:05:09 - 0:05:17)
+Und wir brauchen das Erzeugerpfeffersystem. Erzeugerpfeffersystem. So, das sind die vier Vorgaben.
+
+(0:05:17 - 0:05:24)
+Die seht ihr jetzt auch immer wieder. Vielleicht macht ihr euch auch sonst ein Screenshot. Aber die seht ihr jetzt auch gleich in Menti immer wieder.
+
+(0:05:24 - 0:05:37)
+Wir springen in Menti und machen den Split-Screen. Da brauchen wir vielleicht ein Minütchen, aber das kriegen wir hin. Und da sind wir auch schon in unserer Live-Messung.
+
+(0:05:37 - 0:05:47)
+Ja, genau. Menti und Janitzer brauchen wir. So, da sind wir.
+
+(0:05:48 - 0:06:08)
+Also wir haben jetzt den Screen gezweiteilt und ihr seht jetzt Menti und könnt dann jetzt natürlich auch immer gleich mitmachen und ihr seht das Netzanalysegerät aus unserer Übergabestation. Jetzt lasst euch nicht verwirren. Ihr habt ja gerade 600 kW gesehen.
+
+(0:06:08 - 0:06:16)
+Jetzt sind es nur 200. Das liegt daran, dass wir jetzt nur eine Phase sehen. Wir könnten vielleicht mal jetzt alle drei Phasen zeigen.
+
+(0:06:16 - 0:06:22)
+Also das ist jetzt sozusagen mein verlängerte Daumen, der da drauf drückt. Genau, wir gehen weiter. L1, L2, L3, L4.
+
+(0:06:23 - 0:06:32)
+Jetzt haben wir alle drei Phasen. Das ist ja das, was wir gerade sehen. 600 kW und jetzt, glaube ich, gehen wir mal auf die nächste Seite.
+
+(0:06:32 - 0:06:45)
+Genau. Und überlegen uns, wird die aktuelle Wirkleistung richtig angezeigt? Der ein oder andere denkt sich vielleicht, das gibt's doch nicht. Wie einfach kann diese Frage sein? Aber andere ist es vielleicht nicht ganz so einfach.
+
+(0:06:45 - 0:06:49)
+Also in aller Ruhe nochmal. Hier seht ihr es. Zehn Wechselrichter sind verbaut.
+
+(0:06:50 - 0:07:02)
+Alle haben 120 kW und los geht's. Also typische Inbetriebnehmergeschichte. Ja, ihr seht 600 kW und müsst jetzt und drei Leute hinter euch fragen.
+
+(0:07:02 - 0:07:16)
+Ist alles okay? Was sagt ihr? So, 15. Vorhin waren es mal 23. Der Rest kommt doch auch wieder dazu, bitte.
+
+(0:07:17 - 0:07:35)
+Nein, ist richtig. 600 kW, das stimmt nicht. Weiter. 
+
+Nächste Slide erst mal. Woran kann das liegen? Jetzt kann bitte jeder hier mal reintippen, woran das liegen kann. So ein paar Fehlermöglichkeiten hat sich, glaube ich, schon mal aufgezählt.
+
+(0:07:35 - 0:07:43)
+Jetzt seid ihr dran. Sollte negativ sein. Warte, muss ich selber überlegen.
+
+(0:07:45 - 0:07:53)
+Erzeugerpfähleinfallsystem. Wir sind im Erzeugerpfähleinfallsystem. Falsche Verkabelung, Kabel vertauscht, Wandlerverhältnisse.
+
+(0:07:53 - 0:07:59)
+Hm? Ja, okay. Also, ich nehme mal diese vier Sachen mit. Und genau so wäre jetzt auch euer Job vor Ort.
+
+(0:07:59 - 0:08:12)
+Wandler falsch verkabelt, Wandler falsch verbaut. Also, das ist jetzt eine ernst gemeinte Idee, dass man sich jetzt mal verantwortlich fühlt und man muss wirklich selbst vor Ort diesen Fehler finden. So, und ich fange an mit, soll negativ sein.
+
+(0:08:13 - 0:08:23)
+Glaube ich jetzt erst mal noch nicht, weil wir sind im Erzeugerpfähleinfallsystem. Wir haben eine positive Wirkleistung. Dann würde man genau das erwarten, wenn man Energie einspeist.
+
+(0:08:23 - 0:08:28)
+Aber wir gucken uns mal die anderen an. Nächste Frage bitte. Nächste Seite hier.
+
+(0:08:30 - 0:08:41)
+So, hier sind noch mal die Angaben. Also, IP-Adresse auch... Also, die Leistung ist falsch, das ist mir bewusst. Aber wir gehen unsere übliche Inbetriebnahme-Checkliste durch.
+
+(0:08:41 - 0:08:47)
+Das heißt, ist die gewünschte IP-Adresse richtig eingestellt? Warte mal, noch nicht. Nächste Seite. Weil wir müssen uns ja die IP-Adresse jetzt bitte angucken.
+
+(0:08:48 - 0:08:54)
+Da gehen wir jetzt mal hin. Ja, genau. Dann springt man in so einen anderen Adressbereich.
+
+(0:08:54 - 0:09:08)
+So, also, IP-Adresse, die hier steht. 192, was haben wir noch? 168, was haben wir noch? 1, was haben wir noch? 10, alles klar. Also jetzt, hier, next slide bei Menti.
+
+(0:09:08 - 0:09:31)
+Ihr habt es gesehen, ist die IP-Adresse erst mal richtig eingestellt? Sollte die Leitwarte uns sehen können. Jawohl, also, das war leicht. Deswegen gleich die nächste Frage.
+
+(0:09:32 - 0:09:36)
+Warm-up. Die zweite Frage. Wir gucken uns das Stromwanderverhältnis an.
+
+(0:09:36 - 0:09:50)
+Bitte einmal meinen Daumen sozusagen zum Stromwanderverhältnis bringen. Also, wir haben hier eine Primärangabe. Und was haben wir auf der Sekundärseite? Aha, jetzt gucken wir mal, ob das richtig eingestellt ist.
+
+(0:09:50 - 0:10:06)
+Bitte. Menti. So.
+
+(0:10:06 - 0:10:12)
+14. Also, Aufruf an alle anderen, die mit dabei sind. Bitte, bitte mitmachen.
+
+(0:10:12 - 0:10:15)
+Abtippen. Genau. Man kann nicht verlieren, man kann nur gewinnen.
+
+(0:10:16 - 0:10:18)
+Also, ist richtig eingestellt. Korrekt. Sehe ich auch so.
+
+(0:10:19 - 0:10:29)
+25 zu 1, haben wir gesehen. Jetzt machen wir das mit dem Spannungswandler, bitte. Einmal mal reingucken, was sagt das Relais? Da steht eine 10, weiter.
+
+(0:10:30 - 0:10:38)
+Und eine 100. Okay, bitte. Die Frage in den Raum werfen, ob das so richtig ist.
+
+(0:10:38 - 0:10:44)
+Du kannst ja nochmal zurückmachen vielleicht. Einfach mal so hin und her. 10K heißt 10.000 zu 100.
+
+(0:10:51 - 0:11:00)
+Mit dem K ist auch schon so eine Sache, ja. Das muss man wissen. Sonst hat man da ja 10 zu 100 anstatt 10.000. Ja, also, da haben wir einen Fehler gefunden.
+
+(0:11:01 - 0:11:06)
+Das ist doch super. Nächste Seite, bitte. Das ist auch immer gut, wenn man schon eine Idee hat, woran könnte es liegen.
+
+(0:11:06 - 0:11:10)
+Also, wir korrigieren das Spannungswanderverhältnis. Nee, nee, wir können da drin bleiben. Ja, genau.
+
+(0:11:11 - 0:11:21)
+Wir korrigieren das Spannungswanderverhältnis. Und die Angabe ist ja 20 zu 100. Und jetzt kann jeder vielleicht schon im Kopf seinen Dreisatz vollenden.
+
+(0:11:22 - 0:11:50)
+Wenn wir jetzt hier die Spannung verdoppeln, was passiert denn dann mit der Leistungsanzeige? Wir gehen mal in die nächste Mentifrage. Wird die aktuelle Wirkleistung jetzt richtig eingezeigt? Also, wir gehen mit dem Janezat, ja genau, zurück in den Übersichtsmodus und wir haben jetzt nur das Spannungswanderverhältnis geändert. Und was sehen wir jetzt? Eine Gesamtleistung von 1,2 Megawatt.
+
+(0:11:51 - 0:12:22)
+Ja, also, wir haben nichts verändert. Die Anlage läuft immer noch gleich. Nächste Mentifrage, ist das jetzt korrekt? Sehr gut, gut, gut, gut, gut, gut, ja, jetzt ist es richtig.
+
+(0:12:22 - 0:12:31)
+Für der, der Nein gesagt hat, kann gerne nochmal parallel schreiben uns, wie auch immer. Also ja, jetzt ist es richtig. 10 Wechselrichter mal 120 ist 1,2 Megawatt.
+
+(0:12:32 - 0:12:52)
+Also, wir haben nur, zur Erinnerung, darauf wollen wir ja hier hinaus, wir haben nur ein Setting in diesem Netzanalysegerät korrigiert und jetzt ist die Sinnhaftigkeit aus unserer Sicht hier erstmal gegeben. Nächster Punkt, ist das Zählfallsystem richtig eingestellt? Ja, also Achtung, Achtung, es geht los, es geht direkt los. Wir zeigen nichts im Display.
+
+(0:12:53 - 0:13:16)
+1,2 Megawatt Erzeuger Zählfallsystem. Dummerweise habe ich gleich am Anfang, glaube ich, die Antwort schon gegeben, aber wir werden es sehen. Also, das ist richtig, genau, es ist richtig, wir haben ein Erzeuger-Failsafe-System.
+
+(0:13:17 - 0:13:44)
+Ich persönlich mache es auch genau so, also meine Netzanalysegeräte sind nach dem Erzeuger-Zählfallsystem ausgelegt. Das ist aus der Historie heraus nämlich so, dass 99% meiner Kontakte, Kunde, Zertifizierer, wer auch immer, auch im Erzeuger-Zählfallsystem denken. Sie sagen halt, dass eine einspeisende Anlage positive Wirkenergie liefert, genau das machen wir hier, 1,2 Megawatt positiv, dann ist es auch richtig.
+
+(0:13:45 - 0:13:52)
+Nächste Seite. So, ich lese es vor. Die Wechselrichter werden abgeschaltet.
+
+(0:13:54 - 0:15:38)
+Welche Wirkleistungsrichtung erwarten wir in der Anzeige und warum? Ich mache mal die nächste Seite, also ihr habt es schon gesehen, die Wechselrichter werden abgeschaltet. Welche Leistung erwarten wir in der Anzeige und warum? Bitte kurze Stichpunkte rein, ne, warte noch, warte noch, das machen wir noch nicht, also null ist ein Trick, das sage ich gleich, negativ, also los, dann mach mal bitte, wir haben abgeschaltet, so, auf einmal sehen wir minus 70 Kilowatt, ja, genau, also negativ ist richtig, warum? Vielleicht schreibt noch einer rein, warum, Leerlaufverluste, super, also das reicht mir doch schon. Wir haben immer Verluste in der Anlage, also könnt ihr das auch umdrehen, ihr könnt, bevor die Wechselrichter in Betrieb sind, auch mal drauf gucken und dann muss es im Erzeuger-Zählfallsystem negativ sein, auch hier kann man schon gucken, Sinnhaftigkeitsprüfung plus und minus und Sinnhaftigkeitsprüfung, wir haben jetzt hier bei uns 70 kW, das kann man dann überschlägig mal ausrechnen, ob das über die Trafos Sinn macht, zumindest sind es keine Megawatt, also, das war erst mal das, was wir hier noch zeigen wollten, nächste Seite bitte, ja, ok, am liebsten würdest du ja mal selber mitmachen bei diesen Prüfungen, also wird die Wirkleistungsrichtung nach der Abschaltung der Wechselrichter richtig angezeigt, ist das jetzt sinnhaft hier? Genauso ist es, es ist negativ und die Leistung ist deutlich geringer als vorher, super, nächste Seite.

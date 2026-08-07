@@ -1,0 +1,140 @@
+(0:00:00 - 0:00:17)
+So, auf los geht's los. Wir versuchen uns erst mal, die Frage zu beantworten. Warum brauchen wir überhaupt Netzanalysegeräte? Warum brauchen wir überhaupt Zähler? Ich habe es gleich oben, mich ganz oben auch symbolisch dargestellt.
+
+(0:00:17 - 0:00:28)
+Für mich ein Überbegriff die Messung an sich. Also es werden grundsätzlich elektrische Parameter gemessen. Das ist erst mal der Strom und die Spannung.
+
+(0:00:28 - 0:00:41)
+Wir hatten das letzte Woche ganz detailliert, wie man das physikalisch macht. Stromwander und Spannungswander braucht man da meistens. Und das sind also die zwei elektrischen Grundparameter, die man erst mal misst.
+
+(0:00:42 - 0:01:05)
+Und das ist mir eben ganz wichtig, dass man hier an der Stelle dann die Begrifflichkeiten auch richtig einsortiert. Wir machen das bei uns so, dass grundsätzlich, jetzt zeige ich sie mal, der Zähler diese elektrischen Parameter misst und die Netzanalysegeräte machen das auch. Wenn man also von einer Messung spricht, dann ist das für uns der Überbegriff.
+
+(0:01:06 - 0:01:30)
+In Diskussionen würde ich versuchen, diesen zu vermeiden, weil man dann sicherlich sofort in unterschiedliche Bewertungen rutscht in so einer Diskussionsrunde. Also unser Vorschlag unterteilt in Zähler und in Netzanalysegeräte. Was passiert denn dann überhaupt? Was ist der Unterschied? Das seht ihr jetzt in den zwei Balken hinter uns.
+
+(0:01:30 - 0:01:40)
+Also wir haben erst mal gesagt, das Wichtigste ist die Aufgabe. Und das ist beim Zähler die Zählung. Im deutschen Wording jetzt vielleicht etwas schwierig zu greifen.
+
+(0:01:40 - 0:01:54)
+Deswegen haben wir das Symbol noch mit hingeschrieben. Also da geht es um die Zählung der Energie, weil man daraus dann sozusagen seine Vergütung später erhält. Dann hat es noch eine zweite Aufgabe.
+
+(0:01:54 - 0:02:02)
+Unser Zähler, das wissen vielleicht nicht ganz so viele. Deswegen umso wichtiger, dass wir es hier einmal sagen. Es gibt den sogenannten Zählerlastabwurf.
+
+(0:02:04 - 0:02:15)
+Was es genau ist, sehen wir später noch mal ganz kurz angesagt. Aber vom Grundsatz kann hier über den Zähler die Anlage vom Netz getrennt werden. Der sogenannte Zählerlastabwurf.
+
+(0:02:17 - 0:02:31)
+Das Netzanalysegerät, wenn man so will, gegenübergestellt, macht erst mal eine Regelung. Das ist, glaube ich, mehr als ein weiterer Brainday, den wir vorbereitet und ausgeführt haben. Also ein ganz anderes Thema.
+
+(0:02:32 - 0:02:44)
+Wie die Regelung an sich funktioniert, machen wir heute nicht. Aber das Netzanalysegerät ist essenziell für die Ausführung der Regelung überhaupt. Und das ist also eine gegensätzliche Aufgabe gegenüber der Zählung.
+
+(0:02:45 - 0:03:03)
+So, und dann gibt es da auch noch von so einem Netzanalysegerät die Möglichkeit, dass man es generell für Monitoring benutzt. Also dass man mit seinem Wartungsteam überhaupt permanent die Möglichkeit hat, zu verstehen, was elektrisch auf der Anlage so los ist. Dafür kann man auch ein Netzanalysegerät verwenden.
+
+(0:03:03 - 0:03:25)
+Also Ströme und Spannungen, ja, aber vor allem die daraus errechneten Leistungen, dass man immer so Sollen und Ist-Werte permanent vergleichen kann. Wenn man noch tiefer reingehen will, kann man ja auch Oberschwingungen daraus lesen oder irgendwelche Störungen im Netz ein bisschen nachvollziehen. Also wenn es zum Beispiel zu einer Abschaltung kam, kann man hier ja mal nachvollziehen, was eigentlich kurz vorher passiert ist.
+
+(0:03:26 - 0:03:46)
+So, also das sind so die vier Aufgaben. Jetzt machen wir noch einen weißen Strich drunter und schauen uns weitere Oberbegrifflichkeiten dazu an. Also die Motivation, die hatte ich, glaube ich, gerade schon in dem Kontext so ein bisschen mit erzählt, die der Zähler muss zählen, weil er vergütungsrelevant ist.
+
+(0:03:46 - 0:04:07)
+Am Ende geht es ja bei diesen ganzen Aufregungen, die man in so einer Projektabwicklung hat, ja dann am Schluss doch darum, dass es eine ökonomisch sinnvolle Investition ist. Das heißt, die Vergütung ist natürlich das Wichtigste am Ende des Projektes. Und deswegen ist der Zähler natürlich ganz wichtig.
+
+(0:04:07 - 0:04:18)
+Man stelle sich mal vor, man hat den Zähler vergessen. Die Anlage erzeugt da Energie ohne Ende und am Ende hat der Anlagenbetreiber aber ja nichts davon. Noch schlimmer sehen wir später im Detail.
+
+(0:04:19 - 0:04:33)
+Man hat ihn rückwärts eingebaut, dann würde er ja falschrum zählen. Man hätte also plötzlich die Energie, die man eingespeist hat, in Rechnung gestellt, weil er denkt, man hätte sie verbraucht. Also der Zähler ist ganz wichtig für die Vergütung.
+
+(0:04:33 - 0:04:49)
+Und damit gekoppelt ist auch die Performance Ratio Berechnung. Gibt es auch einen ganzen Brainday darüber, also der Wirkungsgrad von so einer PV-Anlage, da gibt es ja dann einen Ist-Wert. Also wie viel Energie habe ich denn jetzt wirklich erzeugt? Und den holen wir uns vom Zähler, weil der ist geeicht.
+
+(0:04:49 - 0:04:57)
+Der ist von allen freigegeben. Der wird von allen akzeptiert. Da wird nicht irgendein Wert in Zweifel gestoßen.
+
+(0:04:59 - 0:05:13)
+So und der Lastabwurf, das dient also dem Netzschutz. Also auch hier eine Motivation aus der Netzschutz-Sicht. Wir gehen erst mal weiter beim Zähler runter, um dann später die Unterschiede zum Netzanalysegerät besser verstehen zu können.
+
+(0:05:13 - 0:05:24)
+Also bei der Messgenauigkeit, da gibt es die technischen Anschlussbedingungen vom Netzbetreiber. Wir haben es jetzt nur mal so grob hingeschrieben. Man findet das in seinem Projekt spezifischen TABs.
+
+(0:05:24 - 0:05:36)
+Muss man reingucken. Der Anlagenbauer von der Übergabestation macht das ja vielleicht auch. Und dann gibt es da Klasse A bis C und ganz typisch ist so eine Klasse C. Gehen wir nicht weiter darauf ein, sondern ich glaube, das reicht erst mal.
+
+(0:05:36 - 0:05:53)
+Das hat also so eine Messgenauigkeit und eine Abweichung von maximal 0,5 Prozent. So werden diese Zähler definiert und dann weiß man erst mal, so ist also ein Zähler. Bei den Normen machen wir es genauso.
+
+(0:05:53 - 0:06:05)
+Nur mal aufgeschrieben, dass es da natürlich auch Normen gibt, über die sich dann so ein Zählerhersteller Gedanken machen muss. Die IEC 62053 Teil 21. Mehr machen wir heute nicht.
+
+(0:06:05 - 0:06:12)
+Es gibt kein Kapitel Normen. Das ist die gute Nachricht für alle, die heute mit dabei sind. Das ist schon alles an der Stelle.
+
+(0:06:12 - 0:06:26)
+Also hier werden elektrische Wirkverbrauchs Zähler definiert. Und dann gibt es da noch ein Mess- und ein Eichgesetz. Da haben wir den Hinweis schon zum Eichen, also so ein Zähler.
+
+(0:06:26 - 0:06:42)
+Der hat einfach eine enorm hohe, sage ich mal, Qualitätsanforderungen, dass er das auch wirklich richtig macht, was er da so macht. Einfach weil am Ende ja die Vergütung da dran hängt. So, wie macht man eine Prüfung? Also sehen wir später auch noch ein bisschen genauer.
+
+(0:06:42 - 0:07:00)
+Es gibt erst mal eine Vor-Ort-Prüfung, die wird durch den Messstellenbetreiber gemacht. Also das machen nicht wir, das machen auch nicht der Anlagenbetreiber, sondern das macht der, in dessen Verantwortung dieser Zähler auch liegt. Der Messstellenbetreiber, also der guckt vor Ort, ob das alles richtig installiert ist und ob der auch richtig funktioniert.
+
+(0:07:01 - 0:07:23)
+Und dann mindestens genauso wichtig, gibt es aber auch im Werk schon eine Vorprüfung, wenn man so will. Da gibt es dann ein Eichzertifikat, damit es da unstrittig ist, dass da nicht irgendwie in irgendeine Richtung etwas bevorteilt gemessen wird. So, und beim Installationsort, dann nehmen wir das jetzt mal vorweg.
+
+(0:07:23 - 0:07:33)
+Wir machen es im letzten Kapitel noch ein bisschen genauer. Also grundsätzlich ist dieser Lastabwurf, ist diese Zählung am Netzverknüpfungspunkt vorgesehen. Das zeigen wir im letzten Kapitel noch mal ein bisschen genauer.
+
+(0:07:34 - 0:07:46)
+Hängt ja immer auch davon ab, wie genau meine Anlage eigentlich konzipiert ist. Da gibt es sehr komplexe Systeme, die man da aufbauen kann. Sagen wir mal jetzt einfachster Fall Volleinspeisung, also eine Freiflächenanlage.
+
+(0:07:46 - 0:08:01)
+Dann gibt es einen Zähler am Netzverknüpfungspunkt für die Zählung und für den Lastabwurf. Jetzt die Gegenüberstellung vom Netzanalysegerät. Wir haben also ein bisschen versucht darzustellen, was ist jetzt da eigentlich anders? Und da ist es erst mal so, die Motivation ist eben eine andere.
+
+(0:08:01 - 0:08:21)
+Für die Regelungen verantwortlich ist der Anlagenbetreiber, das rechtlich umzusetzen, und zwar, weil er mithelfen muss, dass die Netzstabilität weiterhin gewährleistet ist. Das ist im Moment schon ein großes Thema. Ich kann versichern, dass das in Zukunft noch ein viel größeres Thema werden wird.
+
+(0:08:21 - 0:08:30)
+Also wir, wir alle müssen natürlich dafür sorgen, dass unsere Netze stabil bleiben. Das ist im Sinne, im Interesse aller. Und dafür braucht man eine Regelung.
+
+(0:08:30 - 0:08:37)
+Die werden komplizierter. Die werden technisch anspruchsvoller. Und dafür braucht man so ein hochklassiges, sage ich jetzt mal, Netzanalysegerät.
+
+(0:08:38 - 0:08:48)
+Smartifizierung gehört damit rein. Die Netze werden einfach intelligenter. Jede Anlage muss, wenn man so will, immer genau wissen, in Echtzeit, was an welcher Stelle gerade passiert.
+
+(0:08:49 - 0:09:02)
+Und das Monitoring, das dient der Qualitätssicherung. Das braucht ja dann unser Wartungsteam, um also immer schauen zu können, dass die Anlage auch noch in Betrieb ist. Die Genauigkeiten sind da ähnlich tatsächlich.
+
+(0:09:03 - 0:09:10)
+Das ist gar nicht so viel Unterschied. Wir haben noch was reingeschrieben gegenüber von so einem Zähler. So ein Netzanalysegerät ist sehr einfach zu bedienen.
+
+(0:09:10 - 0:09:17)
+So ist das ja auch gedacht. Das soll ja jeder Anlagenbetreiber machen können und nicht irgendeine Fachfirma. Also das war für uns noch ein Unterschied.
+
+(0:09:18 - 0:09:34)
+Bei den Normen wird es deutlicher. Also das Netzanalysegerät steht nicht mit dem Namen, meine ich, aber in der Logik drin in unserer Bibel. Also 41.10.2030. Da wird gefordert, dass man eine Regelung auszuführen hat und auch wie.
+
+(0:09:34 - 0:09:46)
+Und das impliziert dann das Netzanalysegerät. Ist also kein Wunsch, sondern ein ganz klares Muss. Von dieser Text, also diese Norm, das ist die einzige, die wir rausgesucht haben.
+
+(0:09:47 - 0:09:57)
+Die geht über die Regelung und das Monitoring hinweg. Also ein Gerät zum Prüfen, Messen und Überwachung von Schutzmaßnahmen. Danach werden diese Netzanalysegeräte gebaut.
+
+(0:09:57 - 0:10:14)
+Da kann man mal nachgucken im Datenblatt, ob die da aufgelistet ist und dann ist alles in Ordnung. Gegenüber dem Zähler macht die Prüfung vor Ort der Anlagenerrichter und das Ganze wird im Werk kalibriert. Das war uns wichtig, dass wir hier nicht hinschreiben, geeicht.
+
+(0:10:14 - 0:10:29)
+Aus unserer Sicht ist das der große Unterschied zwischen Netzanalysegerät und Zähler im Sinne der Genauigkeit, im Sinne der Prüfung. Also der Unterschied zwischen Kalibrierung und geeicht. Netzanalyseinstallation, das machen wir später.
+
+(0:10:30 - 0:10:39)
+Also Netzverknüpfungspunkt, da braucht man es auf jeden Fall für die Regelung und bei Monitoring der Unterschied. Da springe ich jetzt auch gleich mal rüber in so eine andere Übersicht. Da sieht man es ein bisschen besser.
+
+(0:10:40 - 0:10:57)
+Also die Zählung, die Regelung und das Monitoring, das wird am Netzverknüpfungspunkt installiert sein müssen. Bei unserer Anlagentopologie, die wir hier so beispielhaft haben. Aber jetzt hat man zusätzlich noch die Möglichkeit, das sogenannte Sammelpunkte separat zu monitoren.
+
+(0:10:57 - 0:11:09)
+Also dann könnte man sagen, jede untergelagerte Trafo-Station zum Beispiel hat auf der Mittel- oder auch Niederspannungsseite nochmal so ein zusätzliches Netzanalysegerät, damit man ein bisschen kleinteiliger gucken kann, was da eigentlich los ist.

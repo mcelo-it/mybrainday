@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:11)
+Und jetzt machen wir wieder die Netztopologie. Da kann ich ruhig auch wieder mit dazukommen, genau. Und wir starten mit so einem übergeordneten Begriff, Netztopologie.
+
+(0:00:11 - 0:00:42)
+Was ist damit gemeint? Also wir machen es hier erstmal bildlich mit so einem riesigen Mast, den wir da oben dargestellt haben und sagen jetzt erstmal, das ist die Spannungsebene 1. Was ist damit gemeint? Bei uns zumindest in unseren Breitengraden würde man davon der Höchstspannungsebene sprechen. Also 380 KV, 220 KV haben wir auch. Das definieren wir als Höchstspannung und nennen das Spannungsebene 1. Da gilt dann die VDE-Anwendungsrichtlinie 4130.
+
+(0:00:43 - 0:01:04)
+Und unsere Begrifflichkeit ist ein nationales Übertragungsnetz. Also solche Linien, das kann man sich in Plänen angucken, die gehen jetzt wirklich von Schleswig-Holstein nicht bis nach Bayern, da werden, wie der Name schon sagt, die Energien übertragen und zwar national. Das geht auch länderübergreifend.
+
+(0:01:04 - 0:01:28)
+Also sowas, der Strom achtet ja nicht auf Landessprachen. Das geht dann auch von Deutschland nach Frankreich oder Tschechien oder Dänemark. Wir gucken es uns ein bisschen genauer an in dieser Spannungsebene 1, dann hat man ein Gefühl dafür, da werden jetzt zum Beispiel Offshore-Windparks angeschlossen, da werden konventionelle Kraftwerke angeschlossen, also vor allem Kohle und in Deutschland früher Atomkraft, in Frankreich heute noch Atomkraftwerke.
+
+(0:01:30 - 0:01:50)
+Großspeicher mittlerweile auch, ist natürlich ein absolutes topaktuelles Thema. Die Großspeicher sind in Dimensionen angelangt, die dann tatsächlich dazu führen, dass man in dieser Spannungsebene 1 anschließen muss. Warum ist das so? Das schreibe ich jetzt oben rein, weil man da von großen Leistungen spricht.
+
+(0:01:50 - 0:02:01)
+Das ist natürlich immer höchstrelativ. Und um eine Zahl zu nennen, haben wir jetzt mal größer 100 MVA genannt. Das ist immer abhängig vom Projekt, von den genauen Netzanschlusspunkten, vom Netz selbst.
+
+(0:02:01 - 0:02:24)
+Aber um so eine Größenordnung mal abzugreifen, also wenn man bei über 100 MVA-Projekten angekommen ist, dann wird man sich wahrscheinlich an dieser Höchstspannungsebene orientieren. So, das war dann sozusagen die Nummer 1. Jetzt gucken wir uns mal eine darunter an. Die heißt dann sinnhafterweise Spannungsebene 2, ist bei uns in Deutschland als 110 kV-Ebene definiert.
+
+(0:02:24 - 0:02:41)
+Da gilt eine andere Anwendungsrichtlinie, nämlich die 4120. Und das ist dann ein überregionales Verteilnetz. Also immer noch sozusagen groß, überregional, aber jetzt eben nicht mehr eine reine Übertragung, sondern jetzt wird die Energie verteilt schon unterhalb der Ebene 1 sozusagen.
+
+(0:02:42 - 0:02:58)
+Und was passiert dann da so? Also die Anschlussnehmer, die müssen jetzt einfach so ein bisschen kleiner werden. Und dann sind es keine Offshore-Windparks mehr, sondern meinetwegen Onshore, aber immer noch ganze Windparks. Mittlerweile auch Freiflächenanlagen, die in diesen Größenordnungen angekommen sind.
+
+(0:02:59 - 0:03:11)
+Also ja, große, große, große Systeme, die wir da mittlerweile bauen und planen dürfen. Gaskraftwerke, die sind einfach von den Leistungen her meist ein bisschen kleiner als die Kohlekraft und die Atomkraft, die ich da genannt habe. Deswegen passen die aus unserer Sicht hier ganz gut mit rein.
+
+(0:03:12 - 0:03:25)
+Dann kommen schon die Großindustrie. Es geht ja nicht immer nur im Leben um die Erzeuger, sondern es geht natürlich auch um die Verbraucher. Also das sind dann große Automobilkonzerne oder so, die hängen dann auf jeden Fall auch an dieser Spannungsebene mit dran.
+
+(0:03:26 - 0:03:37)
+Und zu guter Letzt, wie immer jetzt auch Speicher. Wer aufgepasst hat, das ist jetzt nicht mehr so ein Container, sondern symbolisch ist er jetzt einfach so ein bisschen kleiner geworden. Er ist immer noch groß, aber nicht mehr ganz so groß.
+
+(0:03:37 - 0:03:48)
+Und warum? Weil es auch hier wieder um die Leistung geht. 100 MVA stand da gerade schon, aber jetzt sind wir bei kleiner 100 MVA. Also das wird so eine Bis-Range, die ihr gleich sehen werdet.
+
+(0:03:48 - 0:04:00)
+Aber wenn wir jetzt eben da drunter sind bis, ich glaube, 10 MVA ist dann die nächste Stufe. Da sind wir jetzt in dem 110 kV Gebiet. Nehmen wir mit und gehen in die nächste Spannungsebene.
+
+(0:04:00 - 0:04:22)
+Das ist die Mittelspannung. Ich könnte mir vorstellen, die meisten sind da etwas besser, fühlen sich etwas mehr zu Hause als in den anderen genannten Spannungsebenen jetzt, die ja schon sehr speziell sind. Aber die Mittelspannung, also die regionalen Verteilnetze, bei denen dann die 4110 gilt, die ist natürlich voll in unserer Elektroplaner-Welt von PV-Anlagen angekommen.
+
+(0:04:23 - 0:04:39)
+Wir machen das hier bestimmt seit 10, 15 Jahren oder so, dass wir in die Mittelspannung also 30, 20 oder 10 kV einspeisen. 20 kV ist das, was am meisten vorkommt. Aber grundsätzlich ist diese ganze Range als Mittelspannung und Spannungsebene 3 definiert.
+
+(0:04:40 - 0:04:54)
+Ja, da passiert schon deutlich mehr, im wahrsten Sinne des Wortes. Es wird ja jetzt kleinteiliger. Deswegen hat man dann auch mehr Teilnehmer als jetzt nicht mehr ganze Parks, sondern eine einzelne Windkraftanlage, vielleicht, so haben wir es uns gedacht, oder einen öffentlichen Schnelllader.
+
+(0:04:54 - 0:05:10)
+Also mittlerweile auch haben die solche Leistungen, dass die nicht ins Niederspannungsnetz beziehen, sondern direkt ans Mittelspannungsnetz angeschlossen werden müssen. Das ist ja auch, denke ich, ein großer Teil der Zukunft. Deswegen sinnvoll, ihn hier mal genannt zu haben.
+
+(0:05:11 - 0:05:30)
+Dann eine Dachanlage. Also die großen Freiflächen enden jetzt vielleicht langsam mal. Und jetzt kommen die vielen, vielen, vielen kommerziellen Dachanlagen mit ins Spiel, die oft in die Mittelspannung anschließen, weil ja auch der Bezugsnehmer, auf dessen Dach man sich da setzt, auch an die Mittelspannung angeschlossen ist.
+
+(0:05:30 - 0:05:42)
+Das geht ja oft Hand in Hand. Also das ist jetzt mehr so eine mittelständische Industrie vielleicht, die hat eigentlich immer einen Dachanschluss und dementsprechend dann auch die Dachanlage, die da drauf sitzt. So, Speicher wie immer.
+
+(0:05:42 - 0:05:54)
+Jetzt ist er ein bisschen kleiner geworden. Die Zahl oben, ihr seht es, jetzt sind wir bei zwischen 100 und 10 MVa angelangt, sozusagen. In diesem Leistungsbereich sehen wir uns in der Mittelspannung.
+
+(0:05:54 - 0:06:05)
+Das sind jetzt auch ganz viele Erfahrungswerte, weil man das auf keinen Fall immer, immer so ansetzen kann. Nur ein Beispiel. 30 kV-Systeme können mehr Leistung übertragen.
+
+(0:06:05 - 0:06:19)
+Bei gleichem Spannungsabfall als 10 kV-Netze. Das heißt, euer Projekt ist da extrem projektspezifisch abhängig von den örtlichen Gegebenheiten. Also ist das zum Beispiel ein 10 kV-Mittelspannungsnetz oder ein 30 kV-Mittelspannungsnetz.
+
+(0:06:19 - 0:06:31)
+Wir haben mal so einen Daumenwert reingeschrieben. Der passt meistens so in die Mitte. Also wenn euer Projekt größer als 10 Megawatt ist, aber kleiner als 100, dann passt er wahrscheinlich genau in diese Mittelspannungsebene rein.
+
+(0:06:32 - 0:06:42)
+Und dann kommt zu guter Letzt die vierte Spannungsebene. Das ist die Niederspannung. So habe ich auch mal angefangen als Elektroplaner vor vielen, vielen Jahren.
+
+(0:06:42 - 0:06:58)
+Das ist dann oft 400 kV Leiter-Leiter-Spannung. Das ist so unser Niederspannungsnetz, das wir so überall als Verbraucher kennen. Wir haben die 800 Volt mit hingeschrieben, weil viele Wechselrichter mittlerweile auch diese Ausgangsspannung haben.
+
+(0:06:58 - 0:07:05)
+Das ist auch typisch. Deswegen finde ich, dürfte es hier nicht fehlen. Das wäre dann die 41.5, der man da folgen muss.
+
+(0:07:05 - 0:07:12)
+Und jetzt sind wir in lokalen Verteilnetzen. Ich zeige das einfach gleich. Ich glaube, es ist jetzt schon klar geworden, was wir hier bildlich ein bisschen zeigen wollen.
+
+(0:07:12 - 0:07:22)
+Das sind jetzt kleine Ladesäulen. Wir sind jetzt bei Reihenhäusern angekommen, meinetwegen. Die Hausdachanlage, auch die ist auf dem Reihenhaus.
+
+(0:07:22 - 0:07:36)
+Deswegen sieht jetzt auch das Modul ein bisschen kleiner aus. Da ist es auch schon unser Haushalt, unser Kleingewerbe, der da einen Niederspannungsanschluss beim öffentlichen Energieversorger hat. Und der Heimspeicher, den gibt es natürlich auch.
+
+(0:07:36 - 0:07:43)
+Also die Logik ist klar. Es wird einfach immer kleiner. Und da sagen wir ungefähr 300 kVA.
+
+(0:07:43 - 0:07:55)
+Wenn es größer wird, passen diese Niederspannungsanschluss-Systeme eigentlich nicht mehr. Und dann würde man eine Spannungsebene höher rutschen. Also jetzt haben wir erst mal unsere Topologie so weit aufgegriffen.
+
+(0:07:56 - 0:08:08)
+Das ganze Land sozusagen ist überzogen von diesen vier Spannungsebenen. Das ist ein riesiges Spinnennetz, wenn man so will, wenn man es sich von oben anguckt. Und aber sehr sinnhaft gestapelt nach diesen Ebenen.
+
+(0:08:09 - 0:08:15)
+Jetzt nehme ich einfach mal zwei raus. Welche ist jetzt für das, was ich zeige, tatsächlich egal. Wir nehmen aber zwei verschiedene.
+
+(0:08:15 - 0:08:28)
+Das ist eben ganz wichtig. Und jetzt sagt man erst mal als Aussage, dass man einen Transformator braucht, um diese Spannungsebenen miteinander verbinden zu können. Das ist sozusagen die Aufgabe von so einem Transformator.
+
+(0:08:29 - 0:08:37)
+Und das sagen wir ja auch in einem anderen Schulungseinheit schon lang genug. Das ist wirklich ein Herzstück von unserer Energieversorgung. Deswegen ganz, ganz wichtig.
+
+(0:08:37 - 0:08:47)
+Also hier brauchen wir den. Beispielhaft nur, um von der Höchstspannungsebene in die Hochspannungsebene zu koppeln. Der stellt eine galvanische Trennung dar.
+
+(0:08:47 - 0:08:53)
+Das ist erst mal gut. Für andere Effekte ist das sehr, sehr wichtig. Und jetzt kommt es zum heutigen Thema eher.
+
+(0:08:54 - 0:09:09)
+Immer, wenn ich einen Transformator einsetze, kann ich von einer Spannungsebene in die nächste, die Netzform ändern. Wir werden ja gleich sehen, welche Netzformen es so gibt. Aber man kann auch andersrum sagen, wenn ich innerhalb einer Ebene bin, muss ich die Netzform beibehalten.
+
+(0:09:10 - 0:09:24)
+Also wenn ich irgendwas daran ändern möchte, dann brauche ich einen Transformator. Dann kann ich das machen. Aber wenn ich in der gleichen Spannungsebene bleiben will, also keinen Transformator einsetze, sondern mich direkt koppel, dann muss ich auch mit der Netzform umgehen, die da sozusagen vorliegt.
+
+(0:09:26 - 0:09:38)
+Okay. Und das passiert also überall, nicht nur zwischen den ersten zwei, sondern dann auch zweiter und dritter oder zwischen erster und dritter. Das kann man auch direkt koppeln und zwischen der dritten und vierten.
+
+(0:09:38 - 0:09:43)
+Hier schematisch erst mal dargestellt, warum dieser Transformator so wichtig ist.

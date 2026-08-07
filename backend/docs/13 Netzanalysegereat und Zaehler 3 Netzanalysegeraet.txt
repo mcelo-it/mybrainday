@@ -1,0 +1,325 @@
+(0:00:00 - 0:00:12)
+So, das war haufenweise Theorie. Es ist aber wichtig und sinnvoll, weil man nur dann auch im Netz Analyse Gerät bis zum Ende findet. Jetzt gehen wir mehr in die Praxis.
+
+(0:00:12 - 0:00:25)
+Jetzt gucken wir uns mal ein bisschen mehr die Praxis an. Großer Block Aufbauer dauert bestimmt zehn bis 15 Minuten. Also ich gehe jetzt mal so ein Netz Analyse Gerät in der physischen Anordnung in Ruhe durch.
+
+(0:00:26 - 0:00:38)
+Und da zeige ich hier mal so ein Modell, was wir haben. Machen wir, glaube ich, immer so, dass wir natürlich betonen, dass wir hier völlig anbieterunabhängig agieren. Das ist ein 3D Modell, das wir haben und verwenden.
+
+(0:00:39 - 0:00:54)
+Das ist auch ein Modell, das ich kenne von vielen, vielen Projekten. Aber ob es jetzt welches da jetzt gut ist und welches nicht, vermag ich nicht zu beurteilen. An diesem Beispiel zeige ich jetzt mal, wie man so ein Netz Analyse Gerät aufbaut und anschließt.
+
+(0:00:54 - 0:01:10)
+Für die, die es noch nicht gesehen haben, das ist jetzt ungefähr so zehn mal zehn Zentimeter groß, ist also ein kleines Bauteil mit großer Wirkung. Und da gucken wir uns jetzt mal alle möglichen Anschlussstellen an. Erst mal nur kurz, damit ich es genannt habe.
+
+(0:01:10 - 0:01:33)
+Es gibt verschiedene Möglichkeiten, Kommunikation anzubinden. Hier wäre zum Beispiel so eine RS232 Schnittstelle. Gehe ich nicht weiter darauf ein. 
+
+Das war's schon. Wir werden auch gleich noch mehrere andere Stellen sehen. Mir ist nur wichtig, dass der Elektroplaner darauf achtet, dass diese Geräte natürlich in die Leittechnik integriert sind.
+
+(0:01:33 - 0:01:48)
+Haben wir auch noch mehrere andere Schulungseinheiten, bei denen wir hier im Detail auf solche Schnittstellen eingehen. Also welche hat welchen Vorteil und warum sollte man das machen? Das machen wir jetzt hier nicht. Für mich ist hier nur wichtig, dass das unbedingt genutzt wird.
+
+(0:01:48 - 0:02:02)
+Ob die Schnittstelle oder eine andere ist nicht relevant. Aber der muss in die Leittechnik rein und der muss auch komplett sichtbar dann später sein und auch stabil sein. Sonst ist zum Beispiel die Funktion der Regelung überhaupt nicht möglich.
+
+(0:02:03 - 0:02:11)
+Dann gibt es jetzt in dem Fall hier noch einen Temperaturmess Eingang. Schauen wir uns auch noch mal genauer an. Ich hatte es gerade kurz eingeblendet.
+
+(0:02:11 - 0:02:34)
+Das wäre sinnvoll, wenn man zum Beispiel mit diesem Analysegerät einen Transformator noch im Hintergrund mit übermachen will. Dann kann man das sehen, wie der Kontext aus Temperatur und Belastung agiert. Wir selbst für unsere Regelung zum Beispiel bräuchten diesen Eingang jetzt nicht, aber vielleicht für andere Monitoring Aufgaben durchaus sinnvoll.
+
+(0:02:35 - 0:02:49)
+Dann gibt es da einen Service Knopf, den will ich nur genannt haben, weil ich mehrfach drüber gestolpert bin. Also wenn das die Anlage schon lange in Betrieb ist, würde ich da mal ganz vorsichtig sein und da kein Reset drücken. Aber bei der ersten Betriebnahme zeige ich später auch noch mal im Detail.
+
+(0:02:50 - 0:03:04)
+Finde ich, muss man jetzt erst mal keine Angst haben, wenn man damit verantwortlich ist, vor Ort die Inbetriebnahme zu leiten. Dann ist das durchaus sinnvoll. Bei der ersten Inbetriebnahme muss man ja jetzt erst mal dafür sorgen, dass diese Systeme reibungslos funktionieren.
+
+(0:03:04 - 0:03:19)
+Und dann mag dieser Reset Knopf durchaus mal sinnvoll sein, damit man das Ganze überhaupt von vorne nach hinten richtig parametrieren kann. Wie man das dann im Detail macht, das kommt in einem späteren Kapitel. So, dann haben wir hier noch eine Schnittstelle.
+
+(0:03:19 - 0:03:26)
+Genau, die haben wir genannt, habe ich persönlich noch nie benutzt. Deswegen habe ich da Optionen daneben geschickt. Also gleich weiter geht's.
+
+(0:03:29 - 0:03:38)
+Die Ethernet Schnittstelle. Ja, das ist vielleicht schon eine üblichere Anwendungsgeschichte. Deswegen kommt da von mir auch der Daumen nach oben.
+
+(0:03:38 - 0:03:47)
+Also die haben wir schon oft verwendet. Und deswegen zeigen wir das auch noch mal ein bisschen genauer, wie man sowas machen kann. Das ist jetzt ein anderer Brain Day.
+
+(0:03:47 - 0:03:59)
+Da geht es jetzt um Datentechnik, da geht es um Leitsysteme. Aber typischer Anwendungsfall aus unserer Sicht ist, man hat jetzt also dieses Netzanalysegerät irgendwo im Umspannwerk, in der Übergabestation, in der Trafo-Station. Das ist irrelevant.
+
+(0:04:00 - 0:04:09)
+Meistens in irgendeiner Kommunikationsbox. Und dann muss man den jetzt unbedingt noch verbinden. Das Netzanalysegerät rein physisch, zum Beispiel mit so einem Switch hier.
+
+(0:04:10 - 0:04:17)
+Da steckt man dann das Patchkabel links und rechts rein. Hat man auch schon die erste Fehlerquelle, warum vielleicht irgendwas nicht funktioniert. Also das Kabel muss man reinstecken.
+
+(0:04:18 - 0:04:34)
+Dann muss man jetzt in diesem Fall zum Modbus-TCP aktivieren, dass das überhaupt das Netzanalysegerät weiß, auf welcher Kommunikationsebene man da unterwegs ist. Man muss eine IP-Adresse vergeben. Das machen wir später noch in unserem Praxisbeispiel direkt.
+
+(0:04:35 - 0:04:47)
+Muss auch darauf achten, dass IP-Adressen im Netzwerk nicht doppelt vergeben werden. Und die Subnet-Maske muss man auch da drin noch definieren. Dann hätte man erst mal, finde ich, die Grunddaten abgearbeitet.
+
+(0:04:47 - 0:04:59)
+Um diese Ethernet-Schnittstelle richtig nutzen zu können. Also Schnittstelle ins Leitsystem ist ganz wichtig. Und wenn man so will, sind wir dann mit der Kommunikationstechnik fertig.
+
+(0:04:59 - 0:05:07)
+Und jetzt gehen wir endlich mal in die Energietechnik. Das ist ja sozusagen eigentlich unser Steckenpferd. Und das gucken wir uns jetzt genauer an.
+
+(0:05:07 - 0:05:16)
+Also wir brauchen eine Strommessung und eine Spannungsmessung. Jetzt fangen wir mal mit der Strommessung an. Und da haben wir hier unten vier Eingänge.
+
+(0:05:16 - 0:05:34)
+I1, I2, I3 und I4. Das sind diese Eingänge 1 bis 8. Da gehen wir mal genauer rein. Deswegen schieben wir uns den Rest auch weg und haben uns das oben jetzt nochmal so in einem Übersichtsschema aufgebaut.
+
+(0:05:34 - 0:05:44)
+So würde man es auch in Stromlaufplänen finden. Das ist für die Elektriker der beste Weg, um die Details zu beschreiben. Also Punkt 1 bis 6 sind das erst mal.
+
+(0:05:44 - 0:05:51)
+7 und 8 lassen wir erst mal weg. Kommt gleich noch. So und dann haben wir da unser Netz und dann haben wir da unsere PV-Anlage.
+
+(0:05:51 - 0:06:05)
+Und jetzt soll ja da zwischen ein Strom fließen, der gemessen werden soll. Und diese Verbindung ziehen wir uns jetzt hier in unser Schema rein und haben da erst mal L1 hingeschrieben. Schauen uns also jetzt erst mal nur die Phase 1 an.
+
+(0:06:07 - 0:06:16)
+Da wird unser Stromwandler drum gewickelt. Wie das genau aussieht, haben wir letzte Woche ganz, ganz ausführlich gemacht. Aber was uns hier wichtig ist, ist die Definition der Richtung.
+
+(0:06:16 - 0:06:38)
+Das sieht man jetzt, glaube ich, auch gleich nochmal genau. Also auf der Primärseite, deswegen P, wird beim Wandler definiert P1 und P2. Und ich meine, dass das grundlegend so eine Regel ist, dass P1 das wird Richtung Netz orientiert, dass P2 Richtung Verbraucher beziehungsweise Erzeuger kann ja beides sein.
+
+(0:06:38 - 0:06:48)
+Deswegen ist es genau so richtig, wie wir es hier dargestellt haben. Das ist kein Zufall, sondern darauf muss man achten. Und dann hat man auf der anderen Seite die Sekundärwicklung.
+
+(0:06:48 - 0:07:05)
+Da kommt dann logischerweise S1 und S2 dabei raus. So, dann nimmt man eine Seite und erdet die erst mal und schiebt die dann zurück in unser Netzanalysegerät. So wäre also eine typische sekundärseitige Verdrahtung in so einer Übergabestation.
+
+(0:07:05 - 0:07:23)
+Zum Beispiel Stromwandler hat sekundärseitig S1 und S2. Das S2 legt man auf die 2, das S1 legt man auf die 1. Das geht dann natürlich mit Phase 2 und 3 genauso weiter. Und dann hätte man hier erst mal jetzt alle drei Phasen schön sauber am Netzanalysegerät angeschlossen.
+
+(0:07:24 - 0:07:37)
+Jetzt holen wir unser 3D-Modell rein von so einem Gießharzwandler. Das ist eine typische Anwendung in der Mittelspannung. Haben wir in einem anderen Brainday ganz ausführlich uns angeguckt, was dieser Wandler eigentlich so macht und warum der aussieht, wie er aussieht.
+
+(0:07:37 - 0:07:52)
+Ich habe es hier noch mal reingeschoben und gedreht, damit man einmal sieht hier P2. Da muss man also gucken, dass das Kabel Richtung PV-Anlage läuft und die andere Kabelseite Richtung Netz. Das kann man vor Ort ja auch tatsächlich machen.
+
+(0:07:53 - 0:08:22)
+Wenn man mal in den Doppelboden von so einer Trafostation reinkriecht, kann man das ja mal nachvollziehen. Also hier durch dieses Loch wird ja dann das Mittelspannungskabel geschoben. Da kann man wirklich ja mal gucken, läuft das denn in die richtige Richtung? So, das 3D-Modell schieben wir uns dahin und haben noch ein paar Bullet-Points vorbereitet, und zwar, dass man jetzt, die habe ich hier noch nicht dargestellt, wir sind also noch nicht fertig, unbedingt Prüfklemmleisten benötigt.
+
+(0:08:22 - 0:08:30)
+Da sind sie auch schon in Orange dargestellt. Haben wir auch so ein kleines Modell, damit man sich mal vorstellen kann, wie die so aussehen. So würden die aussehen.
+
+(0:08:30 - 0:08:51)
+Das ist ganz wichtig, weil man sonst nicht die Möglichkeit hat, das Ganze sekundärseitig zu überprüfen. So sehen solche Prüfleisten aus, die schieben wir mal da rein und dann haben wir das auch aufgebaut. So, und jetzt mache ich das einfach nur noch mal in einer anderen Darstellung.
+
+(0:08:51 - 0:09:04)
+Genau das Gleiche in einer anderen visualisierten Darstellung sozusagen. Nochmal genau das Gleiche, aber in einem Stromlaufplan kann man sehr oft schwer greifen, wie das eigentlich wirklich aussieht. Also hier sieht man genau das Gleiche noch mal in 3D sozusagen.
+
+(0:09:04 - 0:09:16)
+Wir haben die eine Seite geerdet. Achtung, wir sind auf der Sekundärseite. Hier haben wir dann unseren S1 verbunden über die Prüfklemmleiste mit unserem Eingang 1 vom Janitzer.
+
+(0:09:17 - 0:09:35)
+Und hier ist unser S2 verbunden über die Prüfklemmleiste mit dem zweiten Eingang vom Janitzer. Wichtiger Hinweis für alle Elektroplaner, Bauleiter, Inbetriebnahmeingenieure, Testingenieure, wie auch immer, Strommesspfade. Werden nie abgesichert.
+
+(0:09:35 - 0:09:44)
+Deswegen sieht man hier auch keine Sicherung. Und wir betreiben Strommesspfade nie offen. Also man zieht jetzt hier keine Klemme raus.
+
+(0:09:44 - 0:09:52)
+Man baut hier nichts einfach ab. Und deswegen sind auch keine Sicherungen verbaut. Man darf hier keinen offenen Kreis betreiben.
+
+(0:09:53 - 0:10:06)
+Deswegen würde man, wenn man mal wirklich was austauschen muss, die Strommessphase kurz schließen. Das ist ganz wichtig. Und in der Logik, das ist sozusagen der gleiche Hintergrund, kann man das auch mal überprüfen vor Ort, wenn man will.
+
+(0:10:07 - 0:10:20)
+Also man braucht immer einen kurz geschlossenen Kreis für eine Strommessung. Das ist sozusagen die Grundregel. Und das kann man auch überprüfen, indem man mal so einen Messeingang von so einem Janitzer oder von einem anderen Netzanalysegerät misst.
+
+(0:10:21 - 0:10:39)
+Da muss Null rauskommen. Wenn das nicht so ist, dann hat man entweder ein defektes Gerät oder man hat den falschen Messeingang erwischt. So, da schiebe ich mein Netzanalysegerät wieder mit rein und sage nochmal, dass wir also diese Phase einzeln messen.
+
+(0:10:39 - 0:11:00)
+Da haben wir es ja L1, L2 und L3. Und das ist ein Hinweis für meinetwegen die Leute, die viel in der Niederspannungstechnik unterwegs sind. Wenn man jetzt keine synchrone Einspeisung hätte, also Phase 1, 2 und 3 nicht synchron belastet sind, dann würde es Sinn machen, hier auch noch diesen vierten Eingang zu nutzen.
+
+(0:11:01 - 0:11:18)
+Den zeigen wir aber gar nicht, weil in unseren Anwendungen findet das nicht statt. Unsere Wechselrichter, die wir in unseren industriellen Photovoltaikanlagen verwenden, sind alle synchron. Das heißt, hier würde dieser vierte Pfad gar nicht gemessen werden.
+
+(0:11:21 - 0:11:29)
+Also das war Strommesseingang. Da ist ein ganz wichtiger Punkt für alle Elektriker unter uns. Jetzt kommt hier nochmal eine Schnittstelle mit rein.
+
+(0:11:29 - 0:11:34)
+Auf die gehe ich nicht weiter ein. Wir hatten ja schon zwei, drei Schnittstellen. Also das ist ein anderes Thema.
+
+(0:11:35 - 0:11:53)
+Aber da sieht man schon, es gibt verschiedene Möglichkeiten, das ins Leitsystem zu integrieren. Dann haben wir hier einen digitalen Ein- und Ausgang. Das wäre auch nochmal vielleicht eine Option, eine zusätzliche Möglichkeit, dieses Netzanalysegerät zu nutzen.
+
+(0:11:53 - 0:12:14)
+Ich zeige kurz, was da ein Anwendungsfall sein könnte. Das wäre zum Beispiel, hier haben wir so einen Leistungsschalter und so einen Leistungsschalter, der hat Hilfskontakte. Und jetzt könnte man zum Beispiel den Leistungsschalter, der hier irgendwo in der Nähe steht, die Hilfskontakte, die wir hier sehen, verdrahten mit diesen digitalen Ein- und Ausgängen.
+
+(0:12:14 - 0:12:29)
+Dann hätte man gleich noch die Position des Leistungsschalters, also geöffnet oder geschlossen, mit im Leitsystem untergebracht. Da sieht man es nochmal hier. Da ist der Schalter und da ist dann der Hilfskontakt.
+
+(0:12:29 - 0:12:46)
+Entweder geöffnet oder geschlossen, also eine 0 oder eine 1. Als Nächstes kommt die Versorgungsspannung. Wieder ein Hinweis für spätere Fragen. Was ist so eine typische Fehlerquelle? Also hier muss eine Spannungsversorgung rein.
+
+(0:12:46 - 0:12:58)
+Und da gehen wir auch nochmal ein bisschen genauer drauf ein, weil das auch zertifizierrelevant ist. Da hat man nämlich eine USV vorzusehen. Ich glaube, ich habe gleich noch ein paar Bullet Points aufgeschrieben.
+
+(0:12:58 - 0:13:07)
+Also das Ganze muss USV gepuffert sein. Kann jetzt entweder mal mit 24 Volt oder 230 Volt sein. Das ist nicht entscheidend.
+
+(0:13:07 - 0:13:25)
+Entscheidend ist, dass eine USV verbaut ist. Das steht so in der Richtlinie, egal ob Niederspannung, Mittelspannung, Hoch- oder Höchstspannung. Vom Grundsatz her muss die Parkregelung für acht Stunden gewährleistet sein, auch ohne Netzanschluss, auch ohne Hilfsenergie.
+
+(0:13:25 - 0:13:39)
+Das funktioniert natürlich nur über eine Batterie. Und weil die Norm oder die Richtlinie über die Parkregelung spricht, ist sozusagen der logische Schritt hin zur Netzanalysegerät gegeben. Also da steht nicht Netzanalysegerät drin, sondern Parkregelung.
+
+(0:13:39 - 0:13:53)
+Aber da man das Netzanalysegerät zwingend braucht, um die Parkregelung betreiben zu können, gilt sozusagen diese Vorgabe für unser Netzanalysegerät. Darauf passen also bitte alle Planer auch. Die Zertifizierstelle wird es später auch machen.
+
+(0:13:54 - 0:14:14)
+Und wenn man es vergessen hat, dann kommt es wieder mit einer Rotmarkierung zurück. Wenn man das jetzt für den Parkregler gemacht hat, kann man das meiner Meinung nach auch für alle anderen Netzanalysegeräte machen, die man vielleicht ja gar nicht für die Parkregelung, also für die Zertifizierung braucht, sondern mehr so fürs interne Monitoring. Gilt aber die gleiche Logik.
+
+(0:14:14 - 0:14:29)
+Es macht Sinn, dass man auch bei Abschaltung gewollt oder ungewollt weiterhin einen Überblick über die Anlage hat. Und das funktioniert nur mit einer USV Pufferung. Deswegen gehören die zu modernen Anlagen unbedingt mit rein.
+
+(0:14:29 - 0:14:44)
+Man will unbedingt vermeiden, dass selbst im gewollten Wartungsfall die Leitwarte blind ist. Bei den Zählern ist das nicht unbedingt so. Wir sind hier nicht bei Zähler, aber es wollten wir trotzdem mit reinnehmen.
+
+(0:14:45 - 0:14:53)
+Bei den Zählern ist das nicht unbedingt so. Die werden meist über Wandler versorgt. Das heißt, die gehen tatsächlich erst das Display an, wenn die Anlage in Betrieb ist.
+
+(0:14:56 - 0:15:05)
+Dann haben wir da noch zwei Tasten, die wir da sehen. Da gehen wir nicht weiter darauf ein, dass es herstellerbeziehend ist. Was ich sagen will an der Stelle ist, da gibt es Tasten.
+
+(0:15:05 - 0:15:33)
+Und ich würde mich freuen, wenn das jetzt gerade, was ich erzählt habe, dazu beiträgt, dass alle, die zuhören, so ein bisschen auch vielleicht unnötige Angst verlieren vor solchen Geräten. Also man sollte da durchaus weiterhin rücksichtsvoll vorgehen. Aber vom Grundsatz her ist es so, man kann durchaus, wenn man dazu die Freigabe gekriegt hat vom Anlagenbetreiber, sich das vor Ort noch mal ein bisschen genauer angucken beim nächsten Mal.
+
+(0:15:33 - 0:15:41)
+Also man schaut sich da dieses Display an. Das machen wir ja auch gleich zusammen. Und dann kann man durchaus auch, wenn man das darf, auf so einen Knopf drücken.
+
+(0:15:41 - 0:15:47)
+Da passiert erst mal noch nichts. Man kann sich im Display da verschiedene Werte anzeigen lassen. Und das mache ich immer sofort.
+
+(0:15:48 - 0:16:01)
+Also nach der Inbetriebnahme schaue ich mir erst mal an. Was zeigt denn das Display überhaupt an? Dann habe ich sofort ein Gefühl dafür. Haben wir hier ein Problem oder funktioniert das Ganze? Also diese visuellen Anzeigen vor Ort sind sehr hilfreich.
+
+(0:16:01 - 0:16:12)
+So schnell ist das, ist die Leitwarte nicht, wie wir da vor Ort mal uns schnell durchklicken können. Also erster Punkt steht unten Anzeige und das zweite ist Parametrierung. Das kommen wir auch gleich dazu.
+
+(0:16:12 - 0:16:21)
+Die IP-Adresse, das mache ich dann eigentlich hier vor Ort mit diesen Tasten. Das macht Sinn. Und erst dann ist das Monitoring mit dabei und kann mich remote unterstützen.
+
+(0:16:22 - 0:16:43)
+So letzter Punkt, glaube ich, hier für das Netzanalysegerät im Aufbau ist natürlich noch der Spannungsmesseingang. Das ist jetzt ein bisschen von der Logik ähnlich wie beim Strom, aber natürlich doch anders. Also hier sind die Eingänge L1, L2, L3, L4 und dann noch so ein N. In der Nummerierung ist das hier 9 bis 13.
+
+(0:16:44 - 0:16:52)
+Gucken wir uns nach dem gleichen Prinzip an. Erst mal so eine schematische Darstellung L1, L2, L3 und L4. Für unser Netzanalysegerät.
+
+(0:16:53 - 0:17:01)
+Und da kommt er jetzt rein. Unser Gießharz Spannungswandler 20 kV zum Beispiel, also Mittelspannung. So sieht er aus.
+
+(0:17:01 - 0:17:14)
+Und dann hat er da oben den Anschlusspunkt für die Mittelspannung und unten ist die Sekundärseite. Das sieht dann in der einpoligen Darstellung so aus. Also Symbol für Spannungswandler.
+
+(0:17:14 - 0:17:25)
+Und da hat er jetzt zum Glück andere Buchstaben. Sehr hilfreich finde ich. Man findet da also dann immer ein A und ein N. Wenn ihr euch erinnert, vorhin war es ein S. Jetzt würde man hier immer nach einem A und einem N suchen.
+
+(0:17:27 - 0:17:51)
+Alle drei Phasen sind auf der N-Seite gebrückt und da auch mit Erde verbunden. Und deswegen ist das auch dann logisch und wichtig, dass man diese Seite mit dem N vom Netzanalysegerät verbindet. Und wiederum, dass die A-Seite mit, ja in dem Fall ist es die 9, 10 und 11, die Eingänge, also L1, L2 und L3 verbindet.
+
+(0:17:53 - 0:17:59)
+Schiebe ich den da wieder weg und schreibe hier noch mal ein paar Prüfklemmen rein. Gleiches Prinzip. Da ist sie wieder.
+
+(0:17:59 - 0:18:06)
+Die muss da unbedingt rein. Geben wir so vor. Halten wir sonst für auf keinen Fall nach Stand der Technik gebaut.
+
+(0:18:07 - 0:18:15)
+So und da ist es jetzt genau andersrum wie beim Stromwandler. Also diese Spannungspfade können durchaus offen betrieben werden. Man kann das machen.
+
+(0:18:15 - 0:18:26)
+Das war bei den Stromwandlern ja ausdrücklich verboten. Und aus dieser Logik heraus ist es jetzt hier auch wichtig, dass man Sicherungen einsetzt. Da sind sie auch.
+
+(0:18:27 - 0:18:33)
+Also noch mal zur Erinnerung. Bei dem Stromwandlerpfaden war das also nicht zulässig. Hier ist es eben richtig, dass man sie einsetzt.
+
+(0:18:34 - 0:18:50)
+Deswegen schieben wir mal unsere Sicherungen da rein. Also erst jetzt wäre dieser Kreis vollständig. Und um in dieser elektrischen Analogie zu bleiben, wenn man jetzt mal so einen Eingang messen würde, dann käme man auf einen unendlichen Widerstand.
+
+(0:18:51 - 0:19:06)
+Wenn ihr euch erinnert beim Strommess Eingang, der musste Null sein. Also allein daran kann man das auch noch mal nachvollziehen und überprüfen. Was jetzt hieraus passiert ist, dass man Parallelgeräte anschalten kann.
+
+(0:19:06 - 0:19:14)
+Das wird auch so gemacht. Ich zeige das mal, weil dann hat man es auch noch mal gesehen. Also hier wäre jetzt also unser Netz Analyse Gerät ein Sekunde allein angeschlossen.
+
+(0:19:14 - 0:19:21)
+Aber ich kann jetzt durchaus meine Klemmen hier irgendwie verdoppeln. Also Brücken hier. Da passiert das mal zack.
+
+(0:19:21 - 0:19:28)
+Und dann kann ich hier parallel auch mein Schutz Relais anschließen. Das kann also am gleichen Strommandler hängen. Kann man unterschiedlich realisieren.
+
+(0:19:29 - 0:19:45)
+Uns war wichtig, zu sagen, dass das möglich ist, weil das eben auch in der Praxis ganz oft so gemacht wird. Und wenn man jetzt so einen Stromlaufplan sieht, ich glaube, dann kann man sich schon viel besser vorstellen, warum das eigentlich so gemacht wird. Nochmal in der 3D Darstellung genau das Gleiche.
+
+(0:19:45 - 0:20:09)
+Achtung, wir verbinden unser L1 hier mit der Prüfklemmleiste, gehen über die Sicherung zum Spannungswandler auf die Sekundärseite. Das ist das hier unten. Und der gemeinsame Messausgang N, der geht über einen geerdeten Punkt auf den N wiederum vom Spannungswandler.
+
+(0:20:09 - 0:20:24)
+So könnte das dann also aussehen. So, und das war erst mal der Aufbau von unserem Netzanalyse Gerät. Haben wir gleich später noch mal in der Wiederholung.
+
+(0:20:25 - 0:20:39)
+Aber da sind wir erst mal durch und jetzt ein ganz kurzer Exkurs und zur Parametrierung. Wir gehen nicht darauf ein, wie man jetzt irgendwelche Relais oder Netzanalyse geht, parametriert. Dazu muss ich bitte jeder selber die Anleitung durchlesen.
+
+(0:20:39 - 0:20:54)
+Aber die grundlegende Logik wollten wir hier nochmal darstellen, wie wir das vor Ort machen. In Betriebnehmer glaube ich, machen das generell so und wie wir das gleich in der Übung auch gemeinsam machen werden. Also erst mal gibt es aus unserer Sicht den Schritt, dass man vor Ort schon noch was machen muss.
+
+(0:20:55 - 0:21:10)
+Das setze ich jetzt mal voraus, dass das nicht irgendwie das Gerät schon im Werk für die Anlage spezifisch parametriert wurde. Das ist meinetwegen nicht unüblich, sondern das machen wir jetzt vor Ort. Dafür gibt es in Betriebnehmer, die machen genau so was.
+
+(0:21:10 - 0:21:23)
+Die stehen jetzt da vor Ort und geben erst mal eine IP-Adresse ein. Das ist wichtig, weil nur dann kommt man hier sozusagen auf die andere Seite der gestrichelten Linie. Nur dann ist der Remote-Zugang überhaupt möglich.
+
+(0:21:23 - 0:21:32)
+Wir haben in Klammern Software geschrieben. Das machen wir auch so. Also wenn man erst mal die Einheiten im System hat, würden wir das in aller Ruhe vom Büro aus dann weiter parametrieren.
+
+(0:21:33 - 0:21:45)
+Man kann das auch vor Ort machen, aber es ist dann natürlich einfacher, das über die Software zu machen. Ohne den ersten Schritt geht aber der zweite nicht. Und der zweite Schritt wäre dann meinetwegen jetzt über die Software gesteuert.
+
+(0:21:45 - 0:22:01)
+Kann man aber auch mit der Hand machen, dass man das richtige und damit meine ich das projektspezifische Stromwandler-Verhältnis einstellt. Man muss das projektspezifische Spannungswandler-Verhältnis einstellen. Man muss die richtige Anschlussvariante auswählen.
+
+(0:22:02 - 0:22:18)
+Da gibt es also verschiedene Messkonzepte und diese Netzanalyse-Geräte müssen fairerweise wissen, welche man verwendet. Sonst können sie es intern nicht richtig umrechnen. Und der letzte Schritt wäre, dass man das richtige ZL-File-System auswählt.
+
+(0:22:18 - 0:22:46)
+Ich denke, aufgrund dieses Icons, dieses einen Text-Bausteins haben wir das ganze Kapitel 2 durcharbeiten müssen, weil jetzt, glaube ich, allen klar ist, wie wichtig diese Einstellung ist. Hier in dem Netzanalyse-Gerät ist das, glaube ich, eine 1 oder eine 0. Und daraus definiert er sozusagen seine Zählrichtung. Und dann habe ich schon mehrfach erwähnt, gibt es daraus große Auswirkungen auf Leistungsrichtungen und dementsprechend vielleicht auch Regelungen.
+
+(0:22:48 - 0:23:07)
+Also das ist schon unser Parametrier-Ablauf, den wir einmal gezeigt haben wollten. Man kann vor Ort erst mal eine IP-Adresse einstellen und den Rest dann vielleicht in aller Ruhe aus dem Büro. Der ist aber wichtig, weil sonst ist die Messangabe unseres Netzanalyse-Geräts nicht korrekt.
+
+(0:23:07 - 0:23:19)
+Das sehen wir gleich in unserer Live-Übung nach der Pause dann. So, und alles, was wir jetzt irgendwie nicht mit eingebaut bekommen haben, haben wir hier nochmal aufgeschrieben. Einfach nur drei kleine Hinweise.
+
+(0:23:20 - 0:23:32)
+Für uns ist das im Projektablauf eine wichtige Info. Man braucht am Anfang jemanden vor Ort, der weiß, wo er draufdrücken muss. Die Erst-Inbetriebnahme erfolgt aus unserer Sicht manuell.
+
+(0:23:32 - 0:23:39)
+Da geht es ja eben mit der IP-Adresse schon los. Aber es geht auch weiter. Es macht nur Sinn, sich vor Ort nochmal zu informieren.
+
+(0:23:39 - 0:24:03)
+Wie ist denn jetzt der Stromwandler tatsächlich im Wanderverhältnis der Spannungswandler? Das sieht man vor Ort einfach besser. Man kann es dann auch besser vergleichen mit Läuft die Anlage überhaupt schon? Um zu evaluieren, ob die Anzeige Sinn macht, braucht man ja irgendwie ein Gefühl dafür, ob überhaupt schon zugeschaltet ist, weil sonst ist die Null ja richtig. Also diese Erst-Inbetriebnahme, die machen wir vor Ort und manuell.
+
+(0:24:04 - 0:24:18)
+Die Sinnhaftigkeitsprüfung genauso. Das machen wir jetzt auch dann gleich nach der Pause in der Übung. Da gucken wir uns an, wie man denn auf den ersten Blick sieht, ob der Wert, der da angezeigt wird, überhaupt sinnhaft ist.
+
+(0:24:19 - 0:24:27)
+Und damit meine ich Ströme, Leistungen und die Spannung. Kann man alles drei wunderbar sich auf dem Display angucken. Und ich gebe mir mein Beispiel bei der Spannung.
+
+(0:24:28 - 0:24:35)
+Da gehe ich aufs Display. Da sehe ich dann irgendwie 10.000 Volt und wundere mich schon. Aber gucke halt nochmal in den Stromlaufplan nach.
+
+(0:24:35 - 0:24:43)
+Und da steht eindeutig, dass ich hier ein 20 kV System habe. Dann ist das schon mal falsch. Dann weiß ich sofort, das dauert ein paar Sekunden, dass ich da nochmal nachjustieren muss.
+
+(0:24:45 - 0:24:55)
+So und die Detailprüfung und natürlich auch die über Jahre hinweg sinnhafte Betriebsführung, die läuft dann über Software, also über einen Remote Zugang.

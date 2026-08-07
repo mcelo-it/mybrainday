@@ -1,0 +1,342 @@
+(0:00:00 - 0:00:05)
+mit der Schutzprüfung. Hier geht es jetzt technisch wirklich ins Detail. Wir haben uns damit, wir machen das ja hier auch selbst.
+
+(0:00:06 - 0:00:21)
+Wir machen selbst Schutzprüfungen, haben uns damit jahrelang beschäftigt. Deshalb geht das bei uns alles so ein bisschen aus dem FF. Aber für die Leute, die damit nicht so viel zu tun haben, ist es, glaube ich, jetzt in den folgenden Kapiteln relativ komplex und vielleicht nicht immer gleich zu greifen.
+
+(0:00:21 - 0:00:48)
+Aber nehmt das dann erst mal mit, denkt darüber nach. Und ich glaube, am Ende wird das dann alles klarer, Damit wir erst mal alle auf dem gleichen Niveau starten, haben wir uns überlegt, versuchen wir erst mal, diese Begriffe, mit denen Schutzprüfer immer so oder auch Zertifizierer um sich werfen, Anregung, Auslösung vielleicht noch einmal kurz zu definieren. Also wir reden immer ganz viel über Anregung, Anregung eines Schutzrelais oder über einen Auslösebefehl des Schutzrelais und am Ende über die tatsächliche Auslösung.
+
+(0:00:48 - 0:01:09)
+Das haben wir jetzt erst mal versucht, so für uns zu sortieren oder für euch, damit ihr dann auch mitreden könnt. Das sind diese drei Begriffe, um die es später viel, viel gehen wird. Und wir haben euch, um das vielleicht besser zu verstehen, noch mal so ein so ein Schema hier dargestellt, wie so eine Schutzauslösung in Logikbausteinen in so einem Relais wirklich abläuft.
+
+(0:01:09 - 0:01:19)
+Also das Relais regt an, sagen wir. Das Relais erkennt ein über- oder unterschreitendes Grenzwert. Sagen wir, die Überspannung geht auf 130 Prozent.
+
+(0:01:19 - 0:01:27)
+Dann erkennt das das Relais und wir sagen, es regt an. Hier haben wir jetzt mal Phase 1 und 2 genannt. Das ist der erste Schritt, der im Relais passiert.
+
+(0:01:28 - 0:01:47)
+Manchmal geht dann auch eine Lampe an dem Relais. Achtung, Achtung, ich habe einen Fehler erkannt. Und wenn das so ist und er auch diese oder Verknüpfung dann sofort, das passiert ja in wahrscheinlich Mikrosekunden in so einem Relais berücksichtigt hat, dann läuft oder dann aktiviert diese Anregung ein Zeitmodul.
+
+(0:01:47 - 0:01:57)
+Jetzt ist dieser Block Anregung für mich auch schon erledigt. Die Anregung ist passiert. Das Zeitmodul ist gestartet und jetzt läuft ein Zeitmodul.
+
+(0:01:58 - 0:02:04)
+Wir sind im Grunde genommen immer noch in so einem Anregeprozess. Das Zeitmodul läuft aber schon. Die Anregung hat aber schon stattgefunden.
+
+(0:02:04 - 0:02:18)
+Das Zeitmodul läuft ab. Und wenn die Zeit abgelaufen ist, dann gibt es den Auslösebefehl. Zeit abgelaufen und nach dem Ablauf der eingestellten Zeit setzt jetzt der Schutzrelais eben den Auslösebefehl ab.
+
+(0:02:18 - 0:02:32)
+Ja, also ein Relais Kontakt hinten schaltet einfach. Und der führt dann am Schluss dazu, dass es zu einer Auslösung des Leistungsschalters kommt. Und das messen wir dann auch eben mit einem Hilfskontakt dieses Leistungsschalters.
+
+(0:02:32 - 0:02:53)
+Und dann haben wir im Grunde genommen den Gesamtkreis gemessen und festgestellt, was passiert. Also Anregung, das Relais realisiert Grenzwertüberschreitung. Auslösebefehl ist das Zeitmodul ist abgelaufen und Auslösung bedeutet dann der Leistungsschalter am Ende in der gesamten Kette hat auch wirklich ausgeschaltet, weil der hat auch immer noch mal eine Eigenzeit.
+
+(0:02:54 - 0:03:10)
+Wir dachten, vielleicht zeigt man das jetzt gleich mal in so einer kleinen Live-Animation einfach an so einem Schutzrelais, das wir jetzt mal einblenden würden. Und dann sieht man auch erst mal die Messwerte auf dem Schutzrelais. Also jetzt sieht man hier oben 50 Hertz.
+
+(0:03:10 - 0:03:18)
+Das ist so ein klassisches Relais, was wir da immer einsetzen. Und die Spannungen sind alle gesund. 20.000 Volt, ganz geringe Abweichung.
+
+(0:03:18 - 0:03:34)
+Das ist so der Klassiker. Wenn ihr die Baustelle betretet, so sieht das Relais dann aus. Alles grün. 
+
+Nix ist passiert. Und jetzt würden wir mal mit unserem Simulations- oder mit unserem Schutzprüfgerät die Spannungen leicht reduzieren. 80 Prozent hatten wir gesagt als Grenzwert.
+
+(0:03:34 - 0:03:48)
+Und vielleicht für euch auf der linken Seite haben wir LEDs belegt mit den Anregemeldungen. Wenn das Relais anregt, geht links eine LED an. Und wenn das Relais abschaltet, geht auf der anderen Seite rechts die LED an.
+
+(0:03:48 - 0:03:54)
+Und dann haben wir dieses U-Auslösung, U-Q-U-Auslösung. Wir gehen mal weiter. Wir sind ja immer noch im gesunden Bereich.
+
+(0:03:54 - 0:04:01)
+Runter mit der Spannung. Runter, runter, runter. Wir müssen uns ein bisschen der 80 Prozent, das sind glaube ich 16 KV annähern.
+
+(0:04:01 - 0:04:08)
+Ja, Achtung, das Relais regt an. Und jetzt ja, ein paar Sekunden später. Nee, wir sind zurückgefallen.
+
+(0:04:08 - 0:04:17)
+Die Spannung ist wieder hochgegangen. Die Spannung ist wieder über 16 Prozent. Das Relais ist tatsächlich zurückgefallen und wir haben den Fehler wieder verlassen.
+
+(0:04:17 - 0:04:24)
+Das heißt angeregt, aber nicht ausgelöst. Wir sind zurückgefallen. Rückfallwert vielleicht sogar auch eingehalten.
+
+(0:04:24 - 0:04:32)
+Haben wir vielleicht schon geprüft jetzt. Aber das Relais hat nicht ausgelöst. Wir haben hier eine relativ große Auslösezeit von fünf Sekunden eingestellt.
+
+(0:04:32 - 0:04:41)
+Wir würden das jetzt noch mal machen. Wir können ja noch mal die LED resetten, damit wir die neue Anregung noch mal sehen. Sekunde, wir gehen noch mal hoch, hoch, hoch, hoch.
+
+(0:04:41 - 0:04:55)
+Also wir sind wieder im gesunden Bereich. Wir resetten die LED. Das heißt, diesen Anregefehler, den lassen wir gespeichert immer da, damit der Servicetechniker gleich sehen kann, es gab schon mal Anregungen zum Beispiel und wir gehen wieder runter mit der Spannung.
+
+(0:04:56 - 0:05:10)
+Und jetzt haben wir Anregung, ein Zeitmodul fünf Sekunden läuft und nach fünf Sekunden kommt dann die Auslösung. So genau würde das im Relais ablaufen. Und wir haben es euch jetzt mal hier mit den LEDs im Grunde genommen dargestellt, wie das Relais arbeitet.
+
+(0:05:10 - 0:05:24)
+Vielleicht hilft das. Ich hoffe, es hilft. Und wir springen jetzt wieder zurück in die PowerPoint-Präsentation und würden euch jetzt verschiedene Schutzfunktion oder Prüffunktion mal darstellen.
+
+(0:05:24 - 0:05:35)
+Also das ist unser unser Schutzkonzept damit. Das haben wir ausgefüllt vorher. Und jetzt würden wir versuchen, diese diese einzelnen Einstellungen mal zu prüfen.
+
+(0:05:36 - 0:05:41)
+Wir nehmen DYN-Trafo. Okay, also wir haben geerdetes Netz. Das sei mal so dahingestellt.
+
+(0:05:41 - 0:05:54)
+Aber wir fangen erst mal an, übergeordnet jetzt die einzelnen Module zu prüfen. Und wir würden mal anfangen. Wie prüfen wir denn eigentlich die Überspannung? 120 Prozent der vereinbarten Netzspannung.
+
+(0:05:54 - 0:06:06)
+Wie kann man das machen? Wir haben jetzt links diese Spannungsachse. Die Y-Achse ist die Spannung von gesunder Spannung. 100 Volt nehmen wir hier mal an bis 120 Volt oder 120 Prozent.
+
+(0:06:07 - 0:06:16)
+Könnte es jetzt auch sein in dem Fall. Und auf der anderen Achse ist die Zeitachse. Also wir werden gleich über eine gewisse Zeit Spannungswerte verändern.
+
+(0:06:17 - 0:06:42)
+Und unter der Zeitachse ist dann nochmal ein Auslösesignal, was wir dann während so einer Prüfung immer versuchen, mit zu loggen. Beziehungsweise unser Prüfgerät hat dafür extra Eingänge, die eben feststellen, ob das Relais schaltet oder nicht schaltet. Also wie würde das ablaufen? Wir müssen uns erstmal überlegen, was wollen wir überprüfen? Und das Erste, was wir prüfen wollen, ist eben genau diese Anregung.
+
+(0:06:42 - 0:07:12)
+Bei welchem Wert erkennt das Relais denn jetzt, dass ein fehlerhafter Zustand vorliegt und startet dieses Zeitmodul? Das machen wir mit einer Rampenfunktion hier im ersten Fall und müssen uns dann aber auch überlegen, was ist denn unser Sollwert? Die UC sekundär, also die Sekundär Spannung, sind jetzt 100 Volt. Das ist die gesunde Spannung auf der Sekundärseite am Schutzrelais. Das hängt jetzt wahrscheinlich damit zusammen, dass wir auf dem Solarpacken 800 Volt System haben.
+
+(0:07:12 - 0:07:22)
+Dann haben wir Spannungswandler, die übersetzen dann von 800 auf 100. Das heißt, unser Relais erwartet im gesunden Zustand 100 Volt. Achtung, Achtung, hier nochmal der Hinweis.
+
+(0:07:23 - 0:07:35)
+Wenn das Übersetzungsverhältnis der TRAFOS nicht stimmt, dann sind das eben nicht 100 Volt, sondern dann ist es ein anderer Wert. Da gehen wir jetzt im Detail nicht drauf ein. Sondern überspringen das jetzt mal.
+
+(0:07:35 - 0:07:44)
+Es müsste natürlich auch noch das Übersetzungsverhältnis der Spannungswandler einfließen. Deshalb haben wir die Formel oben nochmal ergänzt. Aber wir machen jetzt mal, wir gehen mal vom Standardfall aus 100 Volt.
+
+(0:07:44 - 0:07:57)
+Die TRAFOS sind auf der Mittelstellung, auf der Nennspannung eingestellt. So, und jetzt ist dann UL1L2, 1,2 mal 100 Volt. Genau, das sind dann 120 Volt.
+
+(0:07:57 - 0:08:08)
+Das ist dann der Sollwert, den wir jetzt bei unserer Prüfung erwarten würden. Tragen wir unten ein, das unten ist so eine automatische Bewertung im Grunde. Wir geben erst mal vor, was wir erwarten.
+
+(0:08:08 - 0:08:16)
+Wir geben Abweichungen vor, weil 100 Prozent genau sind wir nie. Dann tragen wir den Istwert ein und dann können wir es später bewerten. So ist die Herangehensweise.
+
+(0:08:18 - 0:08:30)
+Oben tragen wir jetzt ein, das ist unser Wert, bei dem das Relais abschalten soll. Das erwarten wir und die Abweichung, wir gucken dann ins Handbuch von dem Relais. Und da stehen meinetwegen plus minus 1 Volt als Abweichung.
+
+(0:08:30 - 0:08:43)
+So tragen wir das ein. Vielleicht sind es aber auch schon Erfahrungswerte, weil wir das Relais schon zehnmal geprüft haben und wissen, das ist viel genauer als im Handbuch. Dann reduzieren wir diese Abweichung auch einfach, um die automatische Bewertung vielleicht noch ein bisschen zu optimieren.
+
+(0:08:44 - 0:08:53)
+So, und jetzt geht eine Rampe los. Die Rampe ist losgegangen, ihr habt es gesehen, sie läuft immer noch. Und jetzt durchschreitet sie irgendwann diese 120 Volt.
+
+(0:08:53 - 0:09:08)
+Und wenn sie diese 120 Volt erreicht, dann erkennt das natürlich auch das Relais. Und dann seht ihr unten, dass das Relais geschaltet hat. Da, wo die weiße Linie jetzt vertikal nach oben gegangen ist, da ist die grüne Linie ein bisschen dicker geworden.
+
+(0:09:08 - 0:09:17)
+Das heißt, das Relais hat geschaltet. Dieses Eingangssignal, Auslösung an unserem Prüfrelais hat sich verändert. Das verändert sich vom dünnen Streifen auf einen dicken Streifen.
+
+(0:09:17 - 0:09:24)
+Das heißt, das Relais hat geschaltet. So ist dann genau die Erkennung. Und jetzt haben wir an der Stelle auch eine Spannung gemessen.
+
+(0:09:25 - 0:09:34)
+Die würden wir als Istwert unten eintragen. Das sind dann nicht 120 Volt, sondern 120,45. Das heißt, wir haben eine klitzekleine Abweichung von 450 Millivolt.
+
+(0:09:34 - 0:09:42)
+Das ist ja sehr, sehr, sehr wenig. Von daher ist die Bewertung dann erst mal für uns Haken rein. Das passiert automatisch.
+
+(0:09:42 - 0:10:01)
+Aber verlasst euch nicht auf automatische Bewertung, sondern prüft das immer noch mal sinnhaft selbst. Also wir haben jetzt den Anregewert wirklich von diesem Gerät geprüft für die U größer, größer Stufe. Und jetzt ist die Prüfung noch nicht vorbei, weil wir wollen ja auch immer gleichzeitig den Rückfallwert prüfen.
+
+(0:10:01 - 0:10:14)
+Der Rückfallwert ist dann die Rampe 2. Die schließt jetzt hier in diesem Prüfmodul direkt mit an. Also die Rampe fährt gleich wieder runter, nämlich schon mal vorweg. Wir müssen jetzt aber erst mal uns überlegen, was ist denn der Rückfallwert? Zwei Prozent haben wir eben gelernt.
+
+(0:10:15 - 0:10:32)
+Und bei dem 1, bei 120 Prozent Überspannung werden das dann eben 98 Prozent. 98 Prozent von 120, das sind dann genau 117,6. Und Achtung, Achtung, wir dürfen nicht noch tiefer werden.
+
+(0:10:32 - 0:10:53)
+Also wir müssen irgendwo zwischen 120 und 117,6 rauskommen. Wir tragen erst mal die 117,6 ein und wir dürfen nicht tiefer wieder gesund werden als 117,6, sondern tendenziell eher bei 117,7, 118, 119. Das ist das, was die Norm fordert, innerhalb von zwei Prozent.
+
+(0:10:54 - 0:11:09)
+So, also jetzt geht die Rampe wieder runter. Ziemlich flott. Der Streifen bleibt dick und an einer gewissen Stelle wird der Streifen wieder dünn, weil das Eingangssignal von dem Schutzrelais in unserem Prüfgerät wieder zurückgefallen ist.
+
+(0:11:09 - 0:11:24)
+Und dann können wir auch hier, da wo die Linie wieder dünn wird, den Rückfallwert messen mit 118,46. Und das ist dann eben, wie gesagt, zwischen 117,6 und 120. Und damit können wir den Punkt auch als in Ordnung bewerten.
+
+(0:11:25 - 0:11:33)
+Diese Prüfung, die müsste man jetzt für Phase 1,2, Phase 2,3, Phase 3,1 machen. Und machen wir nicht. Das reicht uns jetzt erst mal so.
+
+(0:11:34 - 0:11:46)
+Und wir gehen zu dem nächsten Prüfpunkt. Wir hatten jetzt eine Rampe für die Überspannung. Jetzt machen wir noch eine Rampe für die Unterspannung.
+
+(0:11:46 - 0:12:01)
+Das Prinzip ist im Grunde genommen genau das Gleiche. Wir müssen erst mal ermitteln gleich, welche Werte wir brauchen, ausgehend von 100 Volt. Und tragen dann auch diese 80 Prozent oder 80 Volt unten in unsere Auswertetabelle ein.
+
+(0:12:02 - 0:12:14)
+Der Sollwert ist 80 Volt. Und machen auch im Grunde genommen diese Linie bei 80 Volt rein. Da ungefähr, wenn unsere Spannung diesen Wert durchbricht, da sollte das Relais dann irgendwann reagieren und auslösen.
+
+(0:12:14 - 0:12:21)
+So ist die Idee. Abweichung, auch hier machen wir ein Prozent mit rein. Tragen das auch visuell ein, damit ihr das habt.
+
+(0:12:21 - 0:12:37)
+Und jetzt geht die Rampe runter, runter, runter, runter. Jetzt hat die Rampe leider hier in unserer Grafik diese gelbe Linie nicht durchbrochen, weil die Stufenschritte sind hier relativ lang. Wir haben hier 2,7 Sekunden Auslösezeit.
+
+(0:12:37 - 0:12:55)
+Das heißt, jede Stufe, die wir jetzt fahren, müsste mindestens 2,7 Sekunden lang sein. Besser 2,8, damit das Relais in dieser Stufe auch wirklich schaltet, weil wir tracken das Auslösesignal. Und dann hat man jetzt hier bei 2,7, ist das vielleicht noch okay? Da würde die Prüfung vielleicht zwei, drei Minuten dauern.
+
+(0:12:55 - 0:13:14)
+Wenn ihr euch aber erinnert, wir hatten auch bei dem übergeordneten Schutz eine Stufe, die dauert 180 Sekunden. Dann müsstet ihr ja jede Stufe 180 Sekunden laufen lassen. Und dann würdet ihr bei einer Prüfung mit dem Auslösesignal da stundenlang wahrscheinlich an dieser einen Schutzfunktion arbeiten müssen, weil die Rampe so langsam läuft.
+
+(0:13:15 - 0:13:30)
+Da behilft man sich und nimmt eben nicht das Auslösesignal, sondern man nimmt das Anregesignal. Also das war die Auslösung. Und wenn wir das Anregesignal nehmen, können wir viel, viel schneller mit der Rampe runterlaufen, weil wir ja nicht warten müssen, dass dieses Zeitmodul abläuft.
+
+(0:13:31 - 0:13:37)
+Ich hoffe, das ist so ein bisschen verständlich. Also wir prüfen jetzt hier nicht mit Auslösung, sondern mit Anregung. Viel, viel schneller.
+
+(0:13:37 - 0:14:02)
+Die Rampe kann ruckzuck runterlaufen. Und dann seht ihr da unten bei Anregung wird dieses Signal jetzt high oder aktiv und das Relais hat geschaltet. Linie hoch. 
+
+An der Stelle ist es passiert. Und wir tragen den Wert ein 79,08. Wir haben eine gewisse Abweichung, aber auch hier sagen wir das ist völlig im akzeptablen Bereich und bewerten das als OK.
+
+(0:14:04 - 0:14:07)
+So, wir sind noch nicht am Ende. Rückfallwert. Auch das passiert jetzt hier.
+
+(0:14:07 - 0:14:25)
+Den müssen wir auch wieder bewerten. Bei 80 Prozent sind die zwei Prozent nicht 98, sondern 102. Also jetzt müssen wir im Grunde genommen bei etwas höheren Werten zurückkommen und nehmen das ja einfach so mit in dieser Logik und führen auch füllen auch hier die Tabelle, so wie vorhin.
+
+(0:14:26 - 0:14:39)
+Und die Rampe geht hoch. Das Relais fällt an irgendeiner Stelle zurück und wir haben dann einen Rückfallwert, der dann hoffentlich innerhalb der zwei Prozent liegt. Ja, genau so ist das hier.
+
+(0:14:39 - 0:14:56)
+Und dann können wir auch den Punkt mit in Ordnung bewerten. So oben in dem Zeitstrahl seht ihr jetzt auch noch, dass irgendwann aber trotzdem dieses Relais noch ausgelöst hat, weil wir nicht so schnell zurückgefahren sind. Das Zeitmodul ist dann irgendwann abgelaufen, die 2,7 und hat das Relais trotzdem ausgelöst.
+
+(0:14:56 - 0:15:06)
+Aber wir sind dann trotzdem auch irgendwann zurückgefallen. Also diese Prüfung ist damit auch als in Ordnung bestanden. Nur damit ihr wisst, warum da jetzt noch ein zweiter grüner Balken grün geworden ist.
+
+(0:15:06 - 0:15:21)
+Das Relais hat ausgelöst, weil unsere Prüfung wahrscheinlich dann länger als 2,7 Sekunden gedauert hat, bis das Relais zurückgefallen ist. Und dann kommt es tatsächlich zu einer Auslösung. Und weiter geht's.
+
+(0:15:21 - 0:15:37)
+Wir haben noch andere Prüfmodule, die wir euch zeigen wollen. Jetzt kommt erst mal die U größer größer Funktion. Moment, hatten wir die nicht schon? Jetzt, na Moment, wir sind jetzt auf der Niederspannungsseite.
+
+(0:15:38 - 0:15:58)
+Und jetzt wollen wir euch hier zeigen, dass man auf der Niederspannungsseite im geerdeten Netz beim DYN-Trafo eben nicht mit 100 Volt rechnet, sondern wir messen jetzt die Leiter Erdspannung. Und da müssen wir jetzt den Faktor Wurzel 3 ansetzen, um dann eben auf den korrekten Wert zu kommen. Den Nennenwert von 100 durch Wurzel 3, den habe ich immer so im Kopf.
+
+(0:15:58 - 0:16:15)
+Das sind 750,73 und wenn wir jetzt den Faktor 125 dazunehmen oder 1,25, dann ist der Auslösewert für U Leiter 1 Erde 72,17. So kann man das hier erst mal mitnehmen. Auch hier tragen wir die Werte ein.
+
+(0:16:16 - 0:16:28)
+Wir tragen oben den Grenzwert ein. Wir tragen die Abweichung ein. Das hatten wir jetzt alles schon gemacht und fahren jetzt hier eine Rampe hoch, kommen bis zu einer Auslösung und sehen dann auch hier, dass das erst mal soweit in Ordnung ist.
+
+(0:16:28 - 0:16:53)
+Und dann geht das auch hier die Rampe wieder rückwärts und wir sehen dann hoffentlich, dass das Relais in dem entsprechenden Bereich wieder zurückfällt, so wie wir es erwarten. Und das ist dann auch hier der Fall. Hier ist der Unterschied im Grunde nur, dass wir jetzt hier eine Leiter Erdspannung geprüft haben und nicht die Leiter Leiterspannung, also nicht 125 Volt, glaube ich, sondern es sind dann 72,17.
+
+(0:16:54 - 0:17:15)
+So, jetzt waren wir bei dem zwischengelagerten NA-Schutz und jetzt kommt noch mal ein kleiner Trick für die U-Kleiner-Rampe. Auch hier müssen wir wieder mit der Wurzel 3 rechnen und kommen auf 46,19 Volt. Tragen das ein, nehmen das mit, haben dann einen Toleranzbereich.
+
+(0:17:15 - 0:17:38)
+Die Rampe fährt runter und erreicht dann an irgendeiner Stelle seinen Wert, fährt dann wieder hoch. Wir tragen die Werte erst ein, bewerten das, dass das auch richtig ist und die Rampe geht dann im zweiten Schritt wieder hoch über den Rückfall. Wir berechnen uns auch hier dann wieder die Werte mit 102 Prozent und tragen die ein.
+
+(0:17:39 - 0:17:50)
+Abweichung dazu. Und dann kommt auch hier wieder ein Rückfallwert, wenn das Relais richtig eingestellt ist, der diese 2-Prozent-Grenzwerte einhält. Und dann ist auch hier die Bewertung in Ordnung.
+
+(0:17:51 - 0:18:07)
+Diesen Schritt haben wir jetzt noch mal dazugenommen, weil jetzt kommt die Schwierigkeit, dass wir jetzt das U-Kleiner-Kleiner prüfen wollen. Ich weiß nicht, ob manche jetzt schon gleich greifen. Das ist jetzt vielleicht gar nicht so leicht, wenn man jetzt mit so einer Rampe versucht, diesen Wert zu treffen.
+
+(0:18:07 - 0:18:18)
+Also auch hier müssen wir ja jetzt wieder rechnen, rechnen, rechnen. Wir haben einen Sollwert und der ist deutlich unter dem Wert von U-Kleiner, also nur noch knapp 26 Volt. Tragen wir ein.
+
+(0:18:18 - 0:18:40)
+Auch da gibt es dann die Abweichung. Nehmen wir es mal mit und jetzt geht die Rampe runter und die Rampe stockt oben, weil, das ist jetzt nun mal so, wir haben ja noch die U-Kleiner-Funktion, die jetzt zuerst durchlaufen werden muss. Und wenn das so funktioniert, wenn das so passiert, dann werden wir mit dieser Rampenfunktion nie diese U-Kleiner-Kleiner-Stufe erreichen können, weil es wird uns ja immer die U-Kleiner-Funktion zuerst abschalten.
+
+(0:18:41 - 0:18:58)
+Was macht man da? Ich würde erst mal sagen, das ist ein bisschen geräteherstellerabhängig. Bei dem einen Gerätehersteller oder bei vielen sind wir jetzt dazu übergegangen. Da habe ich mich lange gegen gewehrt, dass wir sagen, wir deaktivieren jetzt die U-Kleiner-Funktion.
+
+(0:18:59 - 0:19:15)
+Das kann man machen, man kann die U-Kleiner-Funktion deaktivieren und dann finde ich aber, ist das immer so ein bisschen entgegen der Schutzlogik. Man prüft etwas, deaktiviert währenddessen, aktiviert wieder. Wenn man am Ende vergisst, wieder etwas zu aktivieren, dann hat ja diese ganze Prüfung irgendwie nichts gebracht.
+
+(0:19:15 - 0:19:36)
+Aber es geht jetzt leider in dem Fall nicht anders. Wir deaktivieren die U-Kleiner-Funktion, machen wir, und dann können wir die Prüfung noch mal neu laufen lassen. Und dann erreichen wir auch das U-Kleiner-Kleiner und haben dann auch unsere entsprechenden Werte gemessen und können dann auch den Rückfallwert ermitteln.
+
+(0:19:37 - 0:20:14)
+Wir haben das dann für uns, also jetzt läuft nebenbei noch der Rückfallwert mit den Abweichungen, wir haben das für uns im Grunde genommen dann mal so gehandhabt, dass wir zuerst U-Kleiner-Kleiner prüfen. Und wenn wir dann weitergehen in unserer Prüflogik, dann kommt im zweiten Schritt erst U-Kleiner und dann wird U-Kleiner aktiviert, sodass man da hoffentlich nicht vergisst, dieses U-Kleiner nachträglich noch mal zu aktivieren, sondern dass das dann eben möglichst, ich sage mal, fail-safe geprüft wird, wenn man zu solchen Mitteln hier greift. So, und dann haben wir hier gesehen, es passt, auch hier ist die Bewertung wieder korrekt.
+
+(0:20:15 - 0:20:39)
+Wir haben eine Auslösung oder eine Anregung gemessen an der entsprechenden Stelle und der Rückfallwert ist innerhalb von dieser zwei Prozent. Achtung, Achtung, U-Kleiner aktivieren, ich habe es jetzt, glaube ich, schon dreimal gesagt, das muss der Schutzprüfer dann im Auge haben oder im Griff haben und das darf er natürlich auf keinen Fall vergessen, weil sonst ist das natürlich alles hinfällig, was wir hier prüfen. Wir haben aber noch zwei andere Schutzfunktionen, die ich euch nicht vorenthalten will.
+
+(0:20:39 - 0:20:59)
+Also bei der Frequenz kann man jetzt eine Pulsrampenprüfung machen, kann man übrigens bei der Spannung auch. Wir haben das jetzt aber hier bei der Frequenz mal dargestellt, weil wir hier genau die gleiche Problematik haben wie bei U-Kleiner und U-Kleiner-Kleiner. Wir können jetzt das 52,2 Hertz nicht einfach so mit der zuvor gezeigten Rampe prüfen.
+
+(0:21:00 - 0:21:33)
+Da gibt es einen kleinen Trick, da gibt es eine Pulsrampe und die funktioniert im Grunde genommen so, dass man einen Startwert hat von 50 Hertz und das ist dann nachher auch immer, also das ist die gesunde Netzfrequenz und dann gibt es dann auch immer wieder zwischendurch diesen Reset-Wert, nennt er sich dann mit 50 Hertz. Und von diesen 50 Hertz ausgesehen, springt man jetzt immer in unterschiedliche Frequenzwerte nach oben. Der erste Sprung ist dann beispielsweise auf 52,29 und das eben für einen gewissen Zeitraum.
+
+(0:21:34 - 0:21:48)
+Und wir machen hier ein gewisses Delta zwischen jedem Sprung. Also die Fehlerzeit beträgt jetzt immer 250 Millisekunden. Also wir springen auf 52,29 für 250 Millisekunden.
+
+(0:21:49 - 0:22:06)
+Das heißt F größer, größer würde auf jeden Fall anregen, wenn wir den Grenzwert erreicht hätten, aber F größer würde auslösen. Aber F größer würde eben nicht auslösen, weil es braucht ja fünf Sekunden bis zur Auslösung. Das ist dann hier genau der Trick, den man sich zugute macht.
+
+(0:22:06 - 0:22:24)
+Die F größer Funktion regt natürlich an, aber dadurch, dass sie fünf Sekunden braucht bis zur Auslösung, wird es bei F größer nie zur Auslösung kommen, weil jeder Puls, den wir losschicken nur 250 Millisekunden dauert. Und so macht man das dann. Man startet meinetwegen bei 52,29.
+
+(0:22:24 - 0:22:42)
+Der nächste Puls ist dann 52,31, glaube ich und so weiter. Und dann geht das hoch, hoch, hoch, hoch, bis man dann F größer, größer erreicht hat. So Resetzeit muss man dann ungefähr mal sich ranarbeiten, wie lange so ein Relais braucht, um dann wirklich wieder gesund Zustand zu erkennen.
+
+(0:22:43 - 0:23:03)
+Und dann kriegt man dabei irgendwann bei 52,51 zum Beispiel ein Fehlersignal vom Schutzrelais gemeldet und das Relais hat dann eben bei 52,51 ausgeschaltet. Und das ist dann 10 MHz Abweichung von dem Sollwert und damit auch in Ordnung. Rückfallwert bei Frequenz ist jetzt hier nicht so entscheidend.
+
+(0:23:03 - 0:23:18)
+Deshalb kann man das hier wirklich sehr gut mit so einer Pulsrampe prüfen. Und dann können wir auch den Punkt hier für uns erst mal abhaken. So, wir haben den NA-Schutz jetzt, die Rampe, die Pulsrampe.
+
+(0:23:18 - 0:23:28)
+Und jetzt kommt hier noch ein, das nennt sich, glaube ich, bei einem Hersteller State Sequencer. Da funktioniert es im Grunde genommen so für die Zeitmessung, was wir jetzt machen wollen. Wir haben eben die Spannungs- und Frequenzwerte ermittelt.
+
+(0:23:28 - 0:23:44)
+Jetzt kommt aber die entsprechende Zeitmessung dazu. Da würde man jetzt starten gleich mit einer gesunden Spannung, also mit der Nennspannung beispielsweise und würde dann in einen Fehlerbereich reinspringen. Also, erst mal schauen wir uns an, was die Sollzeit ist.
+
+(0:23:45 - 0:23:52)
+100 Millisekunden haben wir unten eingetragen. Die Abweichung nehmen wir mal mit 30 Millisekunden an. Müsste man ins Handbuch des Relais gucken, was da zulässig ist.
+
+(0:23:52 - 0:23:59)
+Und dann würde man losstarten. Achtung, da haben wir erst mal zwei Sekunden lang gesunde Spannung. Das Relais ist gesund.
+
+(0:24:00 - 0:24:11)
+Alle Signale, die wir empfangen, sind bei Low oder Null. Und jetzt springen wir in einen Fehlerbereich. Jetzt läuft eine Überspannung los und das Relais regt auch sofort an.
+
+(0:24:11 - 0:24:18)
+Das sieht man da. Und wenig später kommt es dann auch zu einer Auslösung. Das ist dann in der zweiten Reihe da, der dicke Balken.
+
+(0:24:19 - 0:24:27)
+Das ist die Auslösung vom Relais. Und das ist genau der Punkt, den wir jetzt messen wollen mit unserem Schutzprüf-Relais. Die Auslösezeit 100 Millisekunden.
+
+(0:24:28 - 0:24:34)
+Und das nehmen wir dann hier mit auf. Es sind 110,4. Also wir haben eine kleine Abweichung, aber deutlich innerhalb der Toleranzen.
+
+(0:24:34 - 0:24:42)
+Also hat das funktioniert. Das können wir so mitnehmen, eintragen. Und die Zeitmessung hat ja erst mal 100 Prozent funktioniert.
+
+(0:24:42 - 0:24:54)
+Die Prüfung ist jetzt vielleicht noch nicht so ganz am Ende, weil wir haben ja noch eine dritte Reihe unten. Und das ist der Leistungsschalter-Hilfskontakt, den wir jetzt auch noch mitloggen, sozusagen mit dem Gerät. Wir haben vorher den Leistungsschalter eingeschaltet.
+
+(0:24:54 - 0:25:11)
+Und wenn wir jetzt diese Fehler-Auslösung hatten, dann wird auch irgendwann kurz danach der Leistungsschalter-Hilfskontakt ausschalten. Und dann haben wir die Eigenzeit dieses Leistungsschalters gemessen. Hier haben wir 50 Millisekunden angenommen.
+
+(0:25:11 - 0:25:19)
+Das ist auch ganz üblich für so Leistungsschalter. Das brauchen die in der Regel. Und die tatsächliche Zeit, die wir jetzt hier gemessen haben, 45,4.
+
+(0:25:19 - 0:25:38)
+Das ist völlig in Ordnung. So lange brauchen ja sowohl Mittel als auch Niederspannungsleistungsschalter, um den Fehler dann wirklich abzuschalten als zusätzliche Zeit zur Relaiszeit. Ja, und das ist ja nochmal der Hinweis zur Gesamttoleranz.
+
+(0:25:38 - 0:25:47)
+Relaiszeit plus Leistungsschalter-Eigenzeit kleiner 100 Millisekunden. Das war ganz, ganz, ganz am Anfang im Teil der Norm schon einmal ein kleiner Punkt. Ich hoffe, hier wird das jetzt deutlicher.
+
+(0:25:48 - 0:26:01)
+Wir haben jetzt 100 Millisekunden, hat uns der Netzbetreiber vorgegeben, für die Auslösezeit. Das Relais hat 110 gebraucht. Ja, also haben wir schon mal ein bisschen länger gebraucht, als was der Netzbetreiber wollte.
+
+(0:26:01 - 0:26:23)
+Und der Leistungsschalter hat jetzt nochmal seine 45 Millisekunden. Das heißt, in Summe hat die Auslösezeit nicht 100, beträgt sie nicht 100, sondern rund 155. Und das ist aber deutlich kleiner als 100 Millisekunden, mehr als die 100 Millisekunden.
+
+(0:26:23 - 0:26:34)
+Also wir hätten laut Norm in Summe 200 Millisekunden Zeit für die Gesamtabschaltung. Wir schaffen es in 155 und das ist dann bestanden. Dieses 100 Millisekunden-Kriterium ist auch hier erfüllt.
+
+(0:26:35 - 0:26:46)
+Ja, ich hoffe, das ist so verständlich rübergekommen. Und jetzt haben wir die Schutzfunktion, die man da so an die Hand bekommt, geprüft. Und tragen dann auch das alles in ein Prüfprotokoll ein.
+
+(0:26:48 - 0:27:09)
+Ja, Wechselrichter können wir nicht prüfen. Also wir können nur den übergeordneten und den zwischengelagerten prüfen und ein Prüfprotokoll erstellen. Bei dem Wechselrichter ist es dann eher ein Screenshot, ein Einstellprotokoll der Wechselrichter, sodass der Zertifizierer dann prüfen kann, dass die Wechselrichter eben den zwischengelagerten Schutz nicht unterlaufen und genau das machen, was sie machen sollen.

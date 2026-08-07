@@ -1,0 +1,341 @@
+(0:00:00 - 0:00:22)
+Und gehen jetzt in ein größeres Kapitel. Und das Kapitel nennt sich Norm ist immer so ein bisschen unser Theorie-Teil, der natürlich ein bisschen schwierig ist zu vermitteln, ein bisschen vielleicht auch anstrengend zum Zuhören. Aber ich denke, wenn wir es in dieser Art und Weise machen, wie wir es hier machen, dann hat man am Ende einen großen Vorteil, weil man weiß zumindest erst mal, welche Normen wir hier beachten müssen.
+
+(0:00:22 - 0:00:38)
+Das ist die IEC 617241 aus dem Jahr 2021, also gar nicht mal so alt für eine Norm. Und es geht hier um Photovoltaik System Performance und der Teil 1, da geht es dann eben um das Monitoring. Diese Norm hat erst mal fünf Kapitel.
+
+(0:00:38 - 0:01:02)
+Das seht ihr an diesen kleinen fünf farblichen Punkten, die wir rechts an die Norm dran gemalt haben. Und der erste Punkt, das ist jetzt erst mal Sampling und Recording Intervall, also wie schnell muss ich diese Daten messen und abspeichern? In welchen Taktungen, in welchen Intervallen? Das ist für heute erst mal nicht relevant. Deshalb haben wir den Liegestuhl dran gemacht.
+
+(0:01:02 - 0:01:12)
+Wir können ja nicht durch alle fünf Kapitel wirklich im Detail gehen. Wir hatten das Performance Ratio Brainday schon mal viel detaillierter erklärt. Also wen das interessiert, der kann da gerne nochmal reinschauen.
+
+(0:01:13 - 0:01:23)
+Heute gucken wir uns dann eher das zweite Kapitel an. Das ist dann Typ, Anzahl und Position von Sensoren. Das ist viel, viel wichtiger für den heutigen Tag, für den heutigen Brainday.
+
+(0:01:23 - 0:01:35)
+Und hier steigen wir jetzt erst mal direkt in dieses Kapitel ein. Also Typ, Anzahl und Position. Jetzt fängt die Norm erst mal an und unterscheidet erst mal Anlagen in zwei Klassen.
+
+(0:01:36 - 0:01:47)
+Wir fokussieren uns heute mal auf die Klasse A und da sagt die Norm erst mal relativ schwammig. Klasse A sind Large PV Systems. Es gibt hier keine klare Kante.
+
+(0:01:47 - 0:01:53)
+Large PV ist ab 1 Megawatt oder 8 Megawatt oder 80 Megawatt. Gibt es in der Norm nicht. Die hält das tatsächlich schwammig.
+
+(0:01:53 - 0:02:07)
+Gleich kommt eine Tabelle. Daraus kann man vielleicht noch ein bisschen mehr ableiten, was die Vorstellung von der Norm ist zu einem Large PV System. Meine persönliche Meinung ist, dass Large PV Systems alles das ist, was wir auf Freiflächen sehen.
+
+(0:02:07 - 0:02:17)
+Alles das ist, was wir auf industriellen Dächern sehen. All das, was vielleicht in der Mittelspannung angeschlossen wird. Das wäre meine persönliche Auffassung, ist ein Large PV System.
+
+(0:02:17 - 0:02:33)
+Aber sicherlich kann man das mit anderen Teilnehmern hier im Kurs gerne mal ausführlich diskutieren. Und das Argument habt ihr dann vielleicht auch gleich auf eurer Seite, wenn ihr die Tabelle seht, wie diese Norm hier diese Anlagengrößen deklariert. Kommt gleich.
+
+(0:02:33 - 0:02:48)
+Ich nehme es vorweg, kommt aber gleich noch und dann gehe ich noch genauer darauf ein. Also erst mal Anzahl der Sensoren für Einstrahlung und für die Umgebungsbedingungen. Das ist die Kategorisierung, die wir auch vorher in dem Kapitel hatten.
+
+(0:02:48 - 0:02:54)
+Einstrahlung und Umgebungsbedingungen. Ja, genau, so macht es die Norm. Deshalb haben wir es im Kapitel zuvor auch so gemacht.
+
+(0:02:56 - 0:03:05)
+Die Anzahl ist erst mal ganz wichtig, ist abhängig von der Größe der PV Anlage. Fokus Klasse A Anlagen, also große Anlagen. Das machen wir jetzt hier.
+
+(0:03:05 - 0:03:25)
+Und die Norm gibt uns erst mal eine Tabelle an die Hand, wo die Anlagengröße definiert werden kann oder wo man sich einsortieren kann in dieser Tabelle. Und dann bekommt man einen Multiplikator und kann später mit einer anderen Tabelle sich die Anzahl der gemäß Norm gewünschten Sensoren ermitteln. Also jetzt hier mein Punkt.
+
+(0:03:26 - 0:03:35)
+Die Norm fängt bei kleiner 40 Megawatt an. Also large PV System. Das ist jetzt das Argument vielleicht für alle, die sagen 18 Megawatt ist ja nicht large.
+
+(0:03:35 - 0:03:45)
+Das ist ja noch klein. Ja, die Norm sagt alles, was kleiner ist als 40 Megawatt, brauchen wir erst mal ein Multiplikator von zwei. Das heißt erst mal redundante Sensoren.
+
+(0:03:45 - 0:03:58)
+Das ist das Minimum, was diese Norm hier fordert. Und los geht's dann eigentlich erst so richtig bei 40 bis 100 Megawatt, 100 bis 300 Megawatt und so weiter. Das brauchen wir jetzt, glaube ich, hier nicht im Detail durchgehen.
+
+(0:03:58 - 0:04:22)
+Aber diese Norm, wenn wir jetzt von large PV Systems sprechen und meine Definition noch mal im Kopf haben. Industrielle Dachanlagen, 1 Megawatt, 5 Megawatt und diese Norm aber von 40 bis 700 Megawatt geht. Dann, glaube ich, kann man da noch mal Argumentationspunkte suchen und vielleicht sagen Klasse A, naja, bei einer 5 Megawatt Anlage ist ja vielleicht doch noch nicht large.
+
+(0:04:22 - 0:04:38)
+Aber wichtig, wichtig, die Norm legt es einfach nicht fest. Diese Tabelle kann vielleicht einen Richthinweis geben, aber es gibt keine Festlegung in der Norm. Deshalb für mich Mittelspannung alles größer 1 Megawatt würde ich als Klasse A einsortieren.
+
+(0:04:40 - 0:05:07)
+Genau, alles größer 7 Megawatt, ja, für alle weiteren 200 Megawatt zusätzlich braucht man dann noch mal einen Multiplikator mehr. So, jetzt kommt die Einstrahlung und jetzt gibt es eine Tabelle, die wir euch hier füllen. Und hier werden erst mal die verschiedenen Pyros oder die verschiedenen Sensoren, die man einsetzen sollte, aufgeführt und auch erklärt, wie sie montiert werden.
+
+(0:05:07 - 0:05:26)
+Das machen wir jetzt im Folgenden und dann füllen wir euch jetzt in diesem Kapitel diese Tabelle, die sich dann auch so in der Norm wiederfindet. Dann habt ihr es, glaube ich, verstanden und könnt dann auch da gezielt in der Norm später nachschlagen, wenn mal Fragen auftreten. Also es gibt geneigte Pyranometer und hier ist so ein 3D-Modell vom Tisch.
+
+(0:05:26 - 0:05:55)
+Wir würden jetzt so ein geneigtes Pyranometer erst mal grundsätzlich versuchen, da am Tisch irgendwie zu montieren. Also wir sagen direkt neben den Modulen, da würden wir es erst mal machen, weil es dann für uns natürlich auch leicht ist, die Neigung des Tisches nachzuvollziehen und eben das Pyro dort zu montieren. An der Unterkonstruktion, deshalb haben wir da den Träger, so ein bisschen den Längsträger, ist es, glaube ich, ein bisschen auskragen lassen, da kann man jetzt so einen Sensor drauf machen.
+
+(0:05:55 - 0:06:23)
+Da muss jeder sein eigenes System finden, wie er das macht, vielleicht muss man auch unten den Träger auskragen lassen und nochmal einen Längsträger, ist es dann, glaube ich, nochmal hochfühlen oder einen Querträger, bis man da so eine Konstruktion hat, wo dann die Sensoren auch an der Unterkonstruktion befestigt werden können. Wichtig, wichtig, ohne Verschattung, ist, glaube ich, erst mal klar. Die Norm sagt das aber auch nochmal, damit es da wirklich keinen Zweifel gibt und eine stabile Montage soll es auch sein.
+
+(0:06:24 - 0:07:06)
+Also ich würde erst mal vermuten, dass dieser eine Träger, den wir da jetzt rausgeführt haben, vielleicht noch nicht die stabile Montage darstellen würde, sondern dass man da vielleicht noch ein bisschen mehr machen muss, weil auf einem Träger nur so einen Sensor zu montieren, ich glaube, das könnte ein bisschen wackelig sein, würde ich jetzt erst mal als Gutachter vor Ort so ein bisschen hinterfragen. In der Realität sieht man das dann auch, dass es da deutlich aufwendigere Konstruktionen gibt und das hier ist eben nur schematisch für euch mal dargestellt, wie man das, wie das aussehen kann, wie man das oder wo der Sensor im Grunde genommen sitzt. Jetzt gibt es noch das Anschlusskabel zum Pol, das steht so nicht in der Norm, aber das steht in der Montageanweisung dieses Pyranometers.
+
+(0:07:08 - 0:07:32)
+Darum ranken sich, glaube ich, viele Mythen, warum denn jetzt das Anschlusskabel zum Pol muss. Deshalb habe ich nochmal mit dem Hersteller telefoniert, es dreht sich hier nicht um Magnetfelder oder sonst irgendwas. Es ist ganz einfach, das Kabel soll eben zum nächstgelegenen Pol aus dem Sensor herausgeführt werden, weil dann liegt das Kabel erst mal verschattet hinter dem Sensor und dann kann dieses Anschlusskabel auch nicht für Verschattung auf den Sensor sorgen.
+
+(0:07:33 - 0:07:56)
+Also bei uns wäre das Kabel nach oben, nach Norden rauszuführen aus dem Sensor. Wenn wir jetzt auf der südlichen Hemisphäre wären, also irgendwo in Afrika oder sonst wo auf der südlichen Halbkugel, dann würde man das Kabel nach Süden aus dem Sensor rausführen. Einfach, dass es nicht verschattet ist und auch nicht, dass es verschattet ist und nicht für Verschattung sorgt.
+
+(0:07:58 - 0:08:18)
+Dann gibt die Norm nochmal eine Maximalabweichung, also eine Installationsabweichung. Wir sollen ja jetzt diesen Sensor möglichst exakt in der Neigung, in dem Tilt und in dem Azimut der Unterkonstruktion montieren. 100 Prozent Genau schafft man nie, deshalb gibt es eben 0,5 Prozent Tilt und 1 Prozent Azimut.
+
+(0:08:18 - 0:08:34)
+Kann man schon mal im Hinterkopf behalten, wenn es dann am Ende um die Prüfprotokolle geht, da kann man das dann nochmal bewerten. Wichtig ist, dass die Norm uns da eben erst mal was an die Hand gibt, dass man es überhaupt bewerten kann. Wir springen links vom geneigten zu dem horizontalen Pyranometer.
+
+(0:08:34 - 0:08:51)
+Unsere Icons lassen wir da, weil grundsätzlich gelten hier erst mal ähnliche Anforderungen. Also jetzt seht ihr, das ist das horizontale Pyranometer. Also man sieht jetzt, glaube ich, in der Seitenansicht, dass es nicht geneigt ist wie die Module, sondern eben horizontal installiert ist.
+
+(0:08:51 - 0:09:19)
+Und wir machen das dann meistens so, dass dieser Sensor dann ein bisschen hinter den Modulen installiert ist, dass er eben nicht für Verschattung sorgen kann. Unter Umständen sorgt er für Verschattung auf der hinteren Modulseite. Da muss man sich eben im Projekt den besten Standort suchen und bewerten, ob dieser Schattenwurf auf die hinten gelegenen Modulreihe einen großen Effekt hat oder eben akzeptabel ist.
+
+(0:09:21 - 0:09:39)
+Genau, Montage jetzt wäre das mit einem Winkel an der Modulunterkonstruktion. Also ich gehe davon aus, die Modulunterkonstruktion hat genau die Neigung der PV-Module. Dann bräuchte man jetzt einen kleinen Winkel, um eben den Horizontalen, um die horizontale Ausrichtung herstellen zu können.
+
+(0:09:40 - 0:09:48)
+Ohne Verschattung hatten wir eben schon stabile Montage, ist eben auch wichtig. Wir wollen nicht jedes Jahr diesen Sensor neu ausrichten müssen. Anschlusskabel zum Pol gilt auch hier.
+
+(0:09:49 - 0:10:06)
+Und jetzt haben wir eine maximale Abweichung von 0,5 Prozent und zwar nur im Tilt, die zugelassen ist. Damit müssen wir jetzt arbeiten und können das im Prüfprotokoll hinterher einfließen lassen. So, jetzt kommt Horizontal-Albedo.
+
+(0:10:06 - 0:10:29)
+Hier nehme ich schon weg, ich glaube, hier kommt es bei vielen oft mal zu Missverständnissen, was ist jetzt genau Horizontal-Albedo? Ja, wir lösen es jetzt auf. Horizontal-Albedo sind erstmal zwei Pyranometer, die man Seite an Seite installiert, so wie es hier dargestellt ist. Eins guckt nach oben und misst die globale Einstrahlung.
+
+(0:10:29 - 0:10:53)
+Und ein Pyro guckt eben nach unten und misst dann eben die reflektierte horizontale Einstrahlung. Also das eine misst voll die Sonne, das andere misst nur das, was vom Boden wieder hochreflektiert wird. Und daraus ein Verhältnis gesetzt oder ein Verhältnis gebildet zwischen dem Global Horizontal und dem Reflected Horizontal Irradiation.
+
+(0:10:53 - 0:11:08)
+Das ist dann eben der Albedo-Wert und dieser Albedo-Wert ist dann einheitenlos. Das ist einfach ein Verhältnis zwischen was kommt von oben, was kommt von unten und das ist dann Albedo. Wird oft verwechselt, glaube ich, mit den Pyros, die auf der Rückseite der Module installiert werden.
+
+(0:11:09 - 0:11:19)
+Das ist was anderes grundsätzlich. Dieses Albedo, das, glaube ich, installieren die Meteorologen schon seit vielen, vielen Jahren. Nicht erst seitdem es Bifacial-Module gibt.
+
+(0:11:19 - 0:11:30)
+Also dieses Messverfahren an sich, das ist alt hergebracht, würde ich sagen. Und rückseitige Module, die kommen später, ist einfach was anderes. Und ich glaube, hier kommt es häufig mal zu Verwechslungen.
+
+(0:11:30 - 0:11:56)
+Wenn jetzt jemand unbedingt ein Albedo-Messgerät fordert, fragt besser noch mal nach, ob er ein rückseitiges Modul fordert oder wirklich diese Anordnung, die wir hier haben, die man dann eben auch noch an einer speziellen Unterkonstruktion installieren sollte. Also schwarz haben wir hier geschrieben. Das heißt, die Unterkonstruktion sollte jetzt nicht für Reflektionen sorgen, weil diese Reflektion natürlich dann Einfluss auf die Messwerte hat.
+
+(0:11:56 - 0:12:26)
+Und wir müssen diese ganze Konstruktion, diese beiden Sensoren, möglichst von Reflektion entfernt aufbauen. Also stellt das nicht vor eine verspiegelte Hauswand oder so, die eben viel Licht wieder dann abstrahlt und möglicherweise diesen Albedo-Messwert völlig verfälscht. Nutzt eine Unterkonstruktion, schwarz, die möglichst frei steht, die auf einem Boden steht, der vielleicht ein Referenzwert für die Gesamtanlage ist.
+
+(0:12:26 - 0:12:43)
+Keine Verschattung, das sind hier wichtige Punkte und dann muss das Ganze mindestens ein Meter über dem Grund sein. Könnte auch ein bisschen höher machen, also mindestens ein Meter, das ist hier die Vorgabe. So, nächstes Messgerät ist dann das rückseitige Pyranometer.
+
+(0:12:44 - 0:13:25)
+Ich hatte es ja gerade schon beschrieben, steht jetzt sozusagen gegen das Albedo. Das rückseitige Pyranometer wird dann eben nicht mit einem zweiten Pyranometer in Kombination installiert, sondern es wird in der Regel in Modulebene installiert, nicht horizontal, sondern in Modulebene und auf der Rückseite der PV-Module. Ja, jetzt machen wir das mal. Wir haben dieses Pyro auf die Rückseite des Moduls installiert. Da sitzt es jetzt, das ist erstmal richtig und dann ein wichtiger Punkt, man darf das jetzt auch nicht zwischen zwei Modulreihen installieren. Könnte man natürlich als Ansatz erstmal denken, dass das Sinn macht, weil wir wollen ja möglichst wenig die Rückseite verschatten.
+
+(0:13:25 - 0:13:45)
+Wir kriegen ja einen Ertrag aus der Rückseite, aber wenn man das jetzt in so eine Modullücke installiert und man dann eine direkte Einstrahlung auf die Rückseite dieses Pyranometers hat, dann wird das thermisch instabil. Dann funktioniert das nicht mehr so gut. Dieser Kühlkörper, der unten drunter ist, der so schwer ist, den ich vorher beschrieben hatte, der wird dann heiß und dann hat man da einfach verfälschte Messwerte.
+
+(0:13:45 - 0:14:48)
+Also macht das wenig Sinn, ihn in Lücken zu installieren. Installiert ihn hinten auf der Rückseite der Module, nehmt die Verschattung in Kauf, das müsst ihr. Versucht sie zu minimieren, klar. Versucht das vor allem mit der Leitungsführung, dass die Leitungen nicht quer hinter den Modulen liegen, sondern möglichst an den Modulrahmen, dass es wenig Verschattung gibt und dann, glaube ich, findet ihr da im Projekt einen guten Weg, dass man wenig Verschattung hat, aber trotzdem eine sinnvolle Messung erzielt. Jetzt gibt es noch, weil es die Norm so vorgibt, nicht weil ich das aus Projekten kenne, sondern jetzt gibt es noch in der Norm eben diese diffuse Einstrahlung und die direkte Einstrahlungsmessung. Diffus und direkt, das hatte ich ja vorhin, als wir über die Pyrus, über das Pyranometer gesprochen hatten, hatte ich das ja schon angesprochen. Die Globalstrahlung setzt sich erstmal aus diffus plus direkter Einstrahlung zusammen. Auch wenn das vielleicht wissenschaftlich nicht 100% trifft, ist das mein Ansatz erstmal. Diffuse Einstrahlung und direkte, das ist die Globalstrahlung, das ist dann alles, was es so gibt bei uns.
+
+(0:14:49 - 0:15:23)
+Und jetzt sehen wir hier so ein Messgerät, was eben genau diese beiden Strahlungen, einmal die diffusen, einmal direkte, separat messen kann. Das ist ein nachgeführtes System, das guckt morgens nach Osten und guckt dann im Tagesverlauf auch in der Höhe etwas anders, also genau so, wie die Sonne über das Jahr verläuft. Und das führt dann im Grunde genommen dazu, dass der eine Sensor direkt in die Sonne schaut die ganze Zeit, der misst dann die direkte Strahlung, das ist dieser Sensor, den ich da eingekreist habe.
+
+(0:15:23 - 0:15:51)
+Und wir haben einen zweiten Sensor, der schaut eben nicht direkt in die Sonne, sondern der schaut erstmal nach oben. Und wir haben oben noch dieses Plättchen davor, was dann nochmal für eine Verschattung auf diesen Sensor, für eine Verschattung auf den Sensor führt, den ich da hinten mit der anderen Farbe markiert habe. Zwei Sensoren, einer misst direkt, einer misst verschattet, der verschattete oder misst diffus und das ist eben ein verschatteter Sensor.
+
+(0:15:51 - 0:16:14)
+Für normale Photovoltaikanlagen, da kenne ich das jetzt nicht, gibt es sicherlich bei Forschungsprojekten und so weiter, aber wenn ich jetzt meine normalen PV-Parks plane oder sehe, ich habe das Gerät noch nie so im Betrieb gesehen. Die Norm gibt es aber erstmal vor, dass es dieses Gerät geben kann. Wir kommen da gleich dazu, wo es denn wirklich verwendet werden soll.
+
+(0:16:16 - 0:16:27)
+So, jetzt kompletieren wir nach und nach die Tabelle. Jetzt gibt es Symbole für jede Einstrahlungsvariante, für jedes Messgerät. Da gehen wir jetzt nicht im Detail darauf ein.
+
+(0:16:27 - 0:16:40)
+Ihr habt es jetzt, wenn ihr es mal nachschlagen wollt, könnt ihr hier reingucken, dann wisst ihr sofort Bescheid. Es gibt dann noch Einheiten, in welchen Einheiten diese Messwerte ermittelt werden. Das ist dann in der Regel Watt pro Quadratmeter.
+
+(0:16:41 - 0:16:55)
+Dann kommen als nächstes auch schon die Zwecke oder die Gründe, wofür wir das installieren. Der Zweck ist jetzt erstmal bei dem geneigten Pyranometer die Bestrahlungsstärke. Wir messen die Bestrahlungsstärke und können damit arbeiten.
+
+(0:16:55 - 0:17:05)
+Können dann vielleicht auch in unserer PVSYST-PR nachmodellieren. Können ermitteln, ob Einstrahlung und Ertrag zusammenpassen. Dann gibt es das horizontale Pyranometer.
+
+(0:17:06 - 0:17:28)
+Das hilft uns jetzt vor allem gemäß dieser Norm, dass wir die horizontalen Einstrahlungen vergleichen können mit historischen Daten, die eben auch horizontal gemessen wurden. Man kann die horizontalen Einstrahlungswerte auch in PVSYST einpflegen, das geht auch. Aber hier laut Norm ist es erstmal der Vergleich zu historischen Daten.
+
+(0:17:29 - 0:17:40)
+Jetzt gibt es noch die Bestrahlungsstärke auf der Rückseite. Klar, das ist hier selbst erklärt und unten bei Diffus und Direkt. Wir haben es absichtlich grau gelassen, weil wir es nicht für so wichtig halten.
+
+(0:17:41 - 0:17:54)
+Das ist auch nochmal Bestrahlungsstärke, der Zweck dieser Messung. Jetzt ganz wichtig, die Notwendigkeit. Brauchen wir das überhaupt, was wir hier die ganze Zeit erklären? Die geneigten Pyranometer brauchen wir.
+
+(10:7:54 - 0:18:00)
+Die horizontalen Pyranometer brauchen wir auch. Da macht die Norm ganz klar einen Haken rein. Die solltet ihr verwenden.
+
+(0:18:00 - 0:18:22)
+Die müssen bei jeder Klasse A Anlage, also bei einem Large PV System, vorhanden sein. Jetzt gibt es das Horizontal-Albedo und es gibt die rückseitigen Pyranometer. Die sind nur bei bifacial PV-Anlagen, also PV-Anlagen mit bifacial Modulen, die auch wirklich mit der Rückseite der Module Energie erzeugen.
+
+(0:18:22 - 0:18:35)
+Da werden die benötigt und das rückseitige Pyro zusätzlich noch bei Konzentrator-PV. CPV, Konzentrator-PV halte ich jetzt, glaube ich, auch nicht für ganz so wichtig. Ist bei den meisten PV-Planern, glaube ich, nicht so im Fokus.
+
+(0:18:36 - 0:18:50)
+Die Norm gibt es aber vor. Und hier kommt es dann jetzt auch noch, dass diese diffuse und direkte Einstrahlung, das ist eben schön zu messen, wenn man diese Konzentrator-PV hat. In meiner Projektwelt ist dieses CPV kein Thema.
+
+(0:18:50 - 0:19:00)
+Ich hoffe, dass es bei euch auch so ist. Ansonsten müsste man sich da noch mal stärker reinarbeiten. So, jetzt kommt der Faktor.
+
+(0:19:01 - 0:19:19)
+Wir haben gesagt, wir brauchen jetzt einige der Sensoren und jetzt sagt die Norm auch, wie oft wir diesen Sensor brauchen. Also ein geneigtes Pyranometer brauchen wir grundsätzlich einmal, ein horizontales Pyranometer auch und ein Albedo auch einmal. Und jetzt wichtig, jetzt müsst ihr euch zurück erinnern, es gab vorher eine Tabelle.
+
+(0:19:19 - 0:19:32)
+Dieses einmal müsste man jetzt multiplizieren aus dieser größenabhängigen Tabelle. Zeigen wir euch gleich noch mal, jetzt noch mal vorweggeschickt. Nicht, dass ihr euch wundert, warum denn nur einmal? Man muss das in Kombination setzen zu der Größe der Anlage.
+
+(0:19:33 - 0:19:49)
+Rückseitige Pyros nicht einmal, sondern dreimal, ganz wichtig. Warum jetzt die Norm genau dreimal sagt, ist mir nicht ganz klar. Bei unseren Projekten hat das meist sehr gut gepasst, weil wir meistens drei, vier Module übereinander bauen auf sehr, sehr hohen Tischen.
+
+(0:19:49 - 0:19:57)
+Und dann kann man unten, Mitte, oben einen Sensor installieren. Dann macht das schon Sinn. Es kann ja auch mal sein, dass ihr nur vielleicht einen Modultisch baut.
+
+(0:19:58 - 0:20:04)
+Dann müsstet ihr dort auch drei Sensoren installieren. Das wäre für mich nicht so sehr zielführend. Muss man dann vielleicht im Projekt noch mal hinterfragen.
+
+(0:20:04 - 0:20:14)
+Die Norm sagt aber dreimal, also dreimal so viel wie alle anderen Sensoren. Dann gibt es noch den diffusen und direkten Einstrahlungssensor für CPV. Braucht man dann auch einmal.
+
+(0:20:15 - 0:20:23)
+Wo installieren wir das Ganze, ist dann noch der letzte Punkt. Wir hatten es eben schon im 3D-Modell gezeigt. Direkt neben den Modulen, direkt über den Modulen.
+
+(0:20:24 - 0:20:35)
+Das sind erstmal hier die Punkte für geneigten und horizontales Pyranometer. Das Albedo muss freistehend sein. Und dann gibt es eben noch das rückseitige Pyranometer.
+
+(0:20:35 - 0:20:50)
+Rückseite der Module, das ist, glaube ich, klar. Bei den direkten und diffusen Einstrahlungen haben wir erstmal nur gesagt, dass es nicht für normale PV-Anlagen benötigt wird. Jetzt unten noch mal der Hinweis.
+
+(0:20:50 - 0:21:03)
+Das ist die IEC 61724, und zwar die Tabelle 2. Also wenn ihr das braucht, das findet ihr tatsächlich so auch in der Norm noch mal wieder. Könnt ihr dann gerne noch mal nachschlagen und euch da durcharbeiten. Jetzt kommen die Umgebungsbedingungen.
+
+(0:21:07 - 0:21:15)
+Da bauen wir eine ähnliche Tabelle auf. Es gibt erstmal Temperatur-PV-Modul. Wo installieren wir das? Das ist dieser Temperatursensor.
+
+(0:21:15 - 0:21:27)
+Wir hatten ihn eben schon so gezeigt. Den installieren wir erstmal nicht am äußeren Modul, sondern wir gehen in der Regel in die Tischreihe ein Stück weit rein. Wir sagen mindestens drei Module vom Tischende.
+
+(0:21:27 - 0:21:38)
+Dann ist man ein bisschen repräsentativer für den Gesamttisch. Wir nehmen dann das mittlere Modul. Zusätzlich vom mittleren Modul nehmen wir noch die Modulmitte und die Zellmitte.
+
+(0:21:38 - 0:21:55)
+Sofern das möglich ist und da nicht unbedingt irgendwo eine Anschlussdose sitzt oder so. Aber so ist erstmal die grobe Marschroute. Rückt ein wenig in den Tisch rein, nimmt ein mittleres Modul, klebt diesen Temperaturfühler auf die Zelle in die Mitte.
+
+(0:21:56 - 0:22:19)
+Dann ist hier noch der Hinweis, installiert das Ganze in der Nähe der Pyranometer. Weil wir natürlich, wenn wir so Performance-Ratio-Messungen machen, Analysen machen, dann ist es natürlich immer sinnvoll, dass man von der gleichen Stelle möglichst die Messwerte sammelt. Das hilft dann vielleicht relativ wenig, wenn der Temperaturfühler am nördlichen Ende der Anlage ist und das Pyro am südlichen Ende.
+
+(0:22:19 - 0:22:44)
+Dann könnten die zu unterschiedlichen Zeitpunkten verschiedene Werte im Grunde genommen messen. Deshalb versuchen wir das Ganze immer in so einer Art Messstation, wenn man so will, sehr weit gefasst zu installieren. Das heißt, die Pyros sitzen in der Nähe von dem Modultemperaturfühler, damit man das an dieser Stelle möglichst unter den gleichen Bedingungen, die Werte messen kann.
+
+(0:22:46 - 0:22:59)
+Verdrahtung, verschattungsfrei. Die Norm gibt uns hier vor, kleiner als 10% der Modulfläche. Das ist natürlich bei Bifacial-Modulen nur wichtig, wenn wir hinten am Modul beim normalen Modul ohne Bifacial-Effekt das Kabel verlegen.
+
+(0:22:59 - 0:23:05)
+Das ist vielleicht nicht so relevant. Bei Bifacial dann schon 10% der Modulfläche. Das ist, denke ich, sehr großzügig.
+
+(0:23:05 - 0:23:12)
+Das sollte man hinkriegen, weil der Sensor selbst ja sehr, sehr klein ist. So machen wir das. So sieht das dann aus.
+
+(0:23:12 - 0:23:28)
+Wir haben das mittlere Modul in der Mitte des Moduls, in der Mitte der Zelle. Da klebt jetzt unser Sensor und das Kabel führen wir dann mit möglichst wenig Verschattung zu unserem Datenlogger. Umgebungstemperatur, das ist der nächste Sensor.
+
+(0:23:28 - 0:23:49)
+Wir drehen den Tisch und installieren diesen Umgebungstemperatursensor. Der hat jetzt hier diese Kappe drüber, damit er verschattet ist, damit wir ihn frei irgendwo hinstellen können. Wir installieren ihn erstmal vom Modul entfernt, weil die Module, die Modultische, die sorgen für Wärmestau, wenn wir den Sensor mindestens ein Meter vom Tisch entfernen, dann ist er frei anströmenbar.
+
+(0:23:49 - 0:24:03)
+Dann haben wir da eben keinen Wärmestau. Das kann man jetzt so machen, dass man ein RAM-Profil zusätzlich hier in den Boden schlägt und das mindestens ein Meter vom Tisch entfernt. Ein Meter über dem Boden ist dann auch noch ein Kriterium.
+
+(0:24:03 - 0:24:22)
+So kann man das machen. Oder wenn man kein RAM-Profil in den Boden schlagen will, dann kann man sicherlich auch mal so einen Träger auskragen lassen. Der Sensor an sich ist ja sehr leicht und der kann dann dieser auskragende Träger, sehen Sie im nächsten Bild, der kann dann sicherlich auch so einen Temperaturfühler, so einen Umgebungstemperaturfühler tragen.
+
+(0:24:26 - 0:24:53)
+So, dann kommt Windgeschwindigkeit und Windrichtung und die installieren wir meistens an Stationen. Die Norm sagt jetzt erstmal mindestens zwei Meter über dem Boden und jetzt wird es natürlich schon ein bisschen schwierig, wenn ich meine Freiflächenanlagen sehe und hinter so einer Modulreihe den Sensor in zwei Metern Höhe installiere, dann ist er, glaube ich, unterhalb der Module. Das macht gar keinen Sinn.
+
+(0:24:53 - 0:25:24)
+Das heißt, ich habe zu diesem zwei Meter über dem Boden auch noch mal zwei Meter über der Station hinzugefügt, weil ich der Meinung bin, auch Stationen, wenn wir jetzt eine TRAFO-Station hatten, die ist nur mal 1,80 Meter hoch und der Sensor in zwei Metern Höhe installiert wird, dann sorgt das eben auch für Windschatten. Das heißt, hoch über die Station hinaus, möglichst hoch. In der Realität sehe ich tatsächlich nicht, dass diese Sensoren zwei Meter über den Stationen installiert werden, sondern ein Meter bis zwei Meter würde ich sagen.
+
+(0:25:24 - 0:25:40)
+Da muss man vielleicht einen Mittelweg finden aus der Vorgabe der Norm, zwei Meter über dem Boden und vielleicht 1,50 Meter über der Station. So würde es aussehen. Wir geben jetzt hier mal zwei Meter an, dann sind wir auf jeden Fall aus dem Windschatten oder aus den Turbulenzen dieser TRAFO-Station raus.
+
+(0:25:41 - 0:25:54)
+Reell oder in der Realität ist es häufig ein bisschen tiefer. Muss man dann eben abstimmen, argumentieren, warum man das so macht. Dann denke ich, ist das auch möglich, diese zwei Meter nicht voll zu erfüllen.
+
+(0:25:55 - 0:26:20)
+Abstand von Hindernissen, genau, Modulreihen, wenn die dann eben drei Meter hoch sind, die müssen dann eben weit weg sein, damit man eben frei anströmbar ist. So sieht das aus. Das ist jetzt das Schalenanomometer und diese Windfahne, also Windgeschwindigkeit und Windrichtung werden hier gemessen und als letzten Hinweis hier für diese Windgeschwindigkeit haben wir noch mal die Masterdung als Elektroingenieurbüro hier hervorgehoben.
+
+(0:26:20 - 0:26:28)
+Ganz, ganz wichtig. Dieser Mast muss geerdet werden. Das ist ja wie eine Blitzfangstange, da kann gerne mal der Blitz einschlagen.
+
+(0:26:28 - 0:26:35)
+Deshalb muss das zwingend geerdet sein. Stabil soll der Mast sein. Auch bei Sturm muss sein Mann stehen.
+
+(0:26:35 - 0:26:52)
+Der darf dann eben nicht wackeln, nicht umfallen. Vor allem eben bei Sturm ist ja dieses Messgerät für uns wichtig. So, jetzt kommen noch weitere Messwerte, Luftfeuchtigkeit, Niederschlag und Schnee, die in der Norm eben aufgeführt sind.
+
+(0:26:53 - 0:27:13)
+Wir kombinieren jetzt mal diese Windsensoren eben mit so einer kompakten Wetterstation, wie wir das vorher auch schon mal erklärt hatten. Diese kompakte Wetterstation, die kann dann eben vieles von dem, was wir da links aufgeschrieben haben, abdecken und kann dann eben den Wind- und Windrichtungssensor ersetzen. Auch hier die Montage auf einem zwei Meter hohen Mast.
+
+(0:27:13 - 0:27:26)
+Zwei Meter über Boden ist hier die Vorgabe. Möglichst hoch raus, damit wir eben keine Turbulenzen und eine möglichst direkte Anströmung haben. So würde das Ganze dann aussehen.
+
+(0:27:27 - 0:27:39)
+Wie es verdrahtet wird, da kommen wir dann im späteren Kapitel nochmal zu zu sprechen. Verschmutzung, jetzt der letzte Sensor, den wir hier in diesen Umgebungsbedingungssensoren aufführen. Der sieht so aus.
+
+(0:27:39 - 0:27:52)
+Das ist der Klassiker, den wir zumindest in seltenen Projekten mal gesehen haben. In Europa ist er selten im Einsatz, sagt auch der Hersteller. Da gibt es auch Gründe für.
+
+(0:27:52 - 0:28:12)
+Erstmal ist das ein Sensor, den man nicht dauerhaft einfach im Betrieb lassen muss, sondern man muss ihn reinigen. Es ist eine regelmäßige Reinigung. Ich glaube, dieser zwei blauen Plättchen ist notwendig und dann misst dieser Sensor das Verhältnis zwischen dem gereinigten und dem dreckigen und kann dann sagen, ja, wir sind jetzt schmutzig oder sind nicht so schmutzig.
+
+(0:28:12 - 0:28:36)
+Dann kann man eben daraus ableiten, ob man jetzt mal die Module putzen will oder andere Maßnahmen trifft. Der Hersteller, das hat er mir so erklärt, sagt, bei den meisten Projekten in Deutschland sind dann die Verschmutzungsmessungen, die wir so ermitteln, unterhalb der Toleranz des Messgeräts. Und das ist dann natürlich schon ein Grund, warum das hier relativ wenig Sinn macht.
+
+(0:28:37 - 0:29:06)
+Wenn man einfach wenig Verschmutzung hat, dann macht es auch wenig Sinn, das zu messen, weil auch so ein Verschmutzungsmessgerät natürlich eine Toleranz hat. Und wenn die Toleranz vielleicht größer ist als das, was man tatsächlich misst, dann macht das wenig Sinn. Und sinnvoll, das hatte ich jetzt auch schon mal gesagt, bei AGPV, da kann man das mal einsetzen, weil man da zumindest jahreszeitenabhängig in der Erntezeit oder in der Saatzeit, wenn die Äcker gepflügt werden, dann sicherlich größere Verschmutzungen hat und die dann besser im Auge haben kann.
+
+(0:29:07 - 0:29:21)
+So, Installation zwischen den Modulen, das seht ihr später auch in der Tour, so wird es gemacht. Dann wären wir auch mit dem Verschmutzungssensor fertig. Auch hier wieder Symbole, gehen wir schnell durch, brauchen wir nicht ins Detail gehen.
+
+(0:29:21 - 0:30:01)
+Dann gibt es eben noch die Einheiten dazu, Grad, Celsius, Meter pro Sekunde, Winkel und so weiter. Dann gibt es den Zweck, genau, die Temperatur der PV-Module, dadurch kann man eben Temperaturverluste ermitteln für Performance Ratio, da kann man das einarbeiten und dann eben die Performance Ratio temperaturkorrigiert ermitteln. Jetzt gibt es diese Windgeschwindigkeitssensoren, Schätzung der PV-Temperatur, das sagt die Norm erstmal so, damit mit dieser Windgeschwindigkeit kann man dann wiederum ableiten, wie warm die Zellen sein sollten.
+
+(0:30:01 - 0:30:15)
+Und ich habe noch hinzugefügt, für die Versicherung ist das eben auch nochmal wichtig. Luftfeuchtigkeit, spektrale Schwankungen, da geht es dann glaube ich sehr ins Detail, sehr in die Forschung und Entwicklung. Niederschlag, Schätzung der Verluste und bei Schnee eben auch.
+
+(0:30:16 - 0:30:40)
+Und da kommen wir gleich, ich glaube im nächsten Punkt dazu, wann wir denn diese Schnee- und Verschmutzungssensoren einsetzen, kommt später. Erforderlich, jetzt kommt es gleich, Temperatur, Umgebungstemperatur und Windgeschwindigkeit und Niederschlag, das sind erstmal erforderliche Sensoren. Luftfeuchtigkeit sagt die Norm erstmal als optional.
+
+(0:30:41 - 0:31:45)
+Und bei Schnee und Verschmutzung, da ist es jetzt so, wenn man mehr als 2% Verschmutzungsverluste oder Schneeverluste erwartet, ich weiß jetzt nicht genau, ob das vielleicht im Voralpenland schon möglich ist, dass man da mehr als 2% durch Schnee erwarten könnte, dann macht es Sinn, diese Sensoren einzusetzen, um das dann besser zu monitoren, um dann vielleicht auch später ableiten zu können, das, was man vielleicht im PV-System mal angenommen hat an Verlusten für Schnee, für Verschmutzung, trifft zu oder trifft nicht zu und dann eben Maßnahmen ergreifen, dass man vielleicht wieder auf die Werte kommt, die man angenommen hat. So, jetzt gibt es nochmal die Anzahl, genau, Temperatur, PV-Modul sollen wir dreimal verwenden, die anderen Sensoren alle einmal, Luftfeuchtigkeit ist ohnehin optional und dann kommt jetzt die letzte Spalte, wo wir nochmal die Position aufgeführt haben, Modulmitte, Zellmitte für die Temperatur der PV-Module und so weiter. Wir sind es eben ja durchgegangen, hier habt ihr es nochmal in der Übersicht dargestellt.
+
+(0:31:45 - 0:32:02)
+Schaut da gerne rein, wenn es dazu kommt, wenn ihr das mal brauchen sollt im Projekt. So, jetzt Tracker. Tracker bei uns ein Thema, was früher mal da war, jetzt kommt es langsam wieder.
+
+(0:32:03 - 0:32:17)
+Die Norm gibt auch hier für die Tracker erstmal Vorgaben. Hier geht es dann eher um Neigungswinkel, einachsiger Tracker und so weiter. Weil das jetzt bei uns noch nicht so im Fokus ist, würde ich das hier einfach aus Zeitgründen jetzt kurz fassen.
+
+(0:32:17 - 0:32:54)
+Also hier werden vor allem Winkel gemessen an den Trackern, um eben zu prüfen, ob sich die Tracker vernünftig verhalten, so verhalten, wie sie sich verhalten sollen, ob sie so exakt arbeiten, wie sie können und das kann man dann eben überwachen und das ist bei Tracker-Systemen grundsätzlich erstmal notwendig. So, die Anzahl gibt es dann auch nochmal und dann sind wir jetzt hier mit diesen Tracker-Sensoren auch fertig, haben nochmal ein letztes Beispielprojekt, bevor wir dann gleich auch hoffentlich in die Pause gehen. Also Beispiel, wir haben jetzt mal einen 50 Megawatt-Park genommen und wollen jetzt mal als Beispiel ermitteln, wie viele geneigte Pyranometer man da eigentlich einsetzen soll.
+
+(0:32:55 - 0:33:24)
+Wir haben eine Tabelle jetzt hier, so wie sie in der Norm dargestellt ist und haben dazu diese Tabelle, zu der wir den Link schaffen müssen, in der wir unsere PV-Anlagengröße einordnen müssen. Also 50 Megawatt haben wir und wir wollen jetzt das geneigte Pyranometer die Anzahl ermitteln. Dann sagt erstmal die erste Tabelle, wir brauchen ein Pyranometer von dem geneigten und dann sagt die Norm aber auch, jetzt müsst ihr auch schauen, wie groß ist euer Park.
+
+(0:33:24 - 0:33:38)
+Also er ist zwischen 40 und 100 Megawatt groß. Also brauchen wir dieses eine Pyranometer dreimal und die Rechnung ist dann relativ einfach. Multiplikator drei, geneigte Pyranometer einmal drei.
+
+(0:33:38 - 0:34:05)
+Die Gesamtzahl ist dann eben drei geneigte Pyranometer, die man hier einsetzen sollte. Aufteilung der Sensoren, gleichmäßige Aufteilung über die Anlage, das wird so beschrieben in der Norm, das ist wichtig. Also wenn ihr drei von diesen geneigten Pyros habt, macht einen im Norden, einen in die Mitte, einen im Süden beispielsweise an, vielleicht dann auch wirklich Orte, die im Prinzip dem Gesamtbild der Anlage entsprechen.
+
+(0:34:05 - 0:34:17)
+Installiert sie nicht in irgendeinem verschatteten Bereich. Zusätzliche Sensoren braucht man eben für abweichende Bedingungen. Ich glaube der schlimmste Fall, den ich mal hatte, war eine Mülldeponie, die eben halb rund ist.
+
+(0:34:17 - 0:34:40)
+Da hat man dann an jeder Stelle im Grunde genommen abweichende Bedingungen und muss eben andere, die Sensoren, sehr sehr häufig installieren, für jeden Anstellgrad, für jeden Winkel. Das war sehr sehr aufwendig. Hier ist es vielleicht gemeint, wenn man vielleicht an irgendeinem Bereich der Anlage die Module mehr drehen will oder mehr neigen will, dann sollte man da nochmal zusätzlich die geneigten Einstrahlungen messen.
+
+(0:34:42 - 0:35:16)
+Position der Sensoren, ja, verschattungsfrei, Windsensoren exponiert, das hatten wir alles schon genannt, Temperatursensoren, frei anströmbar, hatten wir auch schon genannt. Sensoren für bifaziale Module, auch da gibt es nochmal Hinweise aus der Norm, also rückseitige Sensoren, vorzugsweise im gleichen Winkel wie die Module. Installationsort mit repräsentativer Bodenoberfläche, ganz ganz wichtig, wenn ihr 90% Gras habt unter den Modulen, dann installiert ihr sie natürlich auch da, wo das Gras wächst und nicht dort, wo vielleicht Steinboden ist.
+
+(0:35:20 - 0:36:27)
+So, Kalibrierung, die Norm gibt auch hier nochmal eine Vorgabe, alle zwei Jahre sollte man diese Pyros kalibrieren und nicht, wie manche Hersteller sagen, vielleicht alle vier Jahre, also das ist dann vielleicht eher Marketing, haltet euch an die Norm, kalibriert diese Pyros, diese Sensoren regelmäßig, damit eure Messwerte nicht angreifbar sind und korrekt sind. So, jetzt geht es nochmal um die Messgenauigkeit, bevor wir dann die letzten beiden Punkte dieser Norm, glaube ich, gar nicht mehr drauf eingehen, aber die Messgenauigkeit ist nochmal ein Punkt, den wir hier ansprechen wollen und auch relativ kurz, Pyranometer auf der Vorderseite sollen erstmal Klasse A sein, das können auch die Siliziumreferenzzellen, aber die Norm sagt halt hier nicht nur Klasse A, sondern eben Spectrally Flat, das können jetzt die Siliziumreferenzzellen nicht. Das ist das, was ich ganz zu Beginn gesagt habe, die Pyros, wenn wir jetzt nach dieser Norm bauen und ein großes PV-System haben, also Klasse A, dann kommt hier laut der Norm eben erstmal nur ein Pyranometer in Frage, weil das muss eben Spectrally Flat sein.
+
+(0:36:28 - 0:38:22)
+Für die rückseitigen Pyranometer ist da eben die Klasse nicht mehr ganz so entscheidend, da ist auch wenig Einstrahlung, deshalb ist die Norm da etwas toleranter, Klasse C ist da ausreichend und dann gibt es noch Temperatursensoren, dann sind hier auch nochmal Genauigkeiten genannt, genau 0,1 Grad genau, beziehungsweise Unsicherheit plus minus 1 Grad. Jetzt kommt nochmal Berechnung Performance Ratio, machen wir im anderen Brain Day, deshalb kommt hier unser Liegestuhl, brauchen wir heute nicht drauf eingehen, und dann kommt noch die Datenqualität und Daten von Filtern, was machen wir mit dieser großen Menge an Daten, auch das ist heute nicht relevant, sondern eher im Bereich Performance Ratio Analyse von Ertragsdaten anzusiedeln. Jetzt haben wir noch den letzten Punkt, wir haben die Norm und wir haben den GU-Vertrag, das ist jetzt nochmal der Punkt, der vielleicht bei vielen dann einfach abweicht, die Normen gibt es erstmal, der GU-Vertrag gibt jetzt aber was anderes vor, zum Beispiel weniger Sensoren und dann hat man ja in der Regel eine Diskrepanz, was soll ich bauen, soll ich die Norm verwenden oder soll ich den GU-Vertrag verwenden, ist dann eine Art Kräftemessen, ich würde dann erstmal sagen, ich frage den Projektleiter, wie er diese Situation sieht, meine persönliche Situation wäre, ich halte mich dann an das eher Höherwertige, also vor allem halte ich mich an die Norm, wenn der GU-Vertrag weniger fordert, würde ich das schon nochmal mit meinem Projektleiter abstimmen und versuchen oder fragen, warum wir nicht nach der Norm bauen, weil das ist ja eigentlich das, was wir wollen, ein hoher Qualitätsstandard, ein sinnhaftes, sinnvolles Monitoring System und dann muss aber der Projektleiter am Ende diese Kosten im Blick haben und hat vielleicht eine andere Sicht auf die Dinge als ich und sagt dann, nee, nee, GU-Vertrag sagt, wir brauchen nur einen Sensor und dann bauen wir halt nur einen Sensor, dann ist das aber so, dann kann ich da aus technischer Sicht ja auch gar nicht mehr so viel dagegen tun.

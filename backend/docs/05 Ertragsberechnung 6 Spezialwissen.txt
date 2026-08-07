@@ -1,0 +1,105 @@
+(0:00:00 - 0:08:17)
+Also das war das Kapitel Probebetrieb, kurz und knapp war uns aber wichtig, dass die viele Theorie, die wir ja gerne hier übermitteln, dann auch noch mal in so einen realen Kontext zu greifen. Das kann man wahrscheinlich erst nachvollziehen, wenn man es selber auch wirklich mal miterlebt hat, wenn so ein Projekt in den Probebetrieb geht. So, hilft mir aber, dass ich noch ein bisschen Zeit für meine Spezialwissen-Nummer habe und vielleicht dient das noch als Motivation für den Endspurt. 
+
+Ganz am Ende machen wir eine 360-Grad-Tour. Ich weiß nicht, ob das alle schon mal gesehen haben, aber dann gehen wir virtuell noch mal auf eine Anlage und gucken uns genau dieses Pyranometer mit dem Modul da hinten noch mal an. Gibt es auch eine kleine Aufgabe dazu. 
+
+Kommt ganz am Schluss ganz bewusst, dann kommt noch mal das i-Tüpfelchen. Also Spezialwissen, noch mal Fokus, auch für mich, gesagt, weil das sind ja jetzt die schwierigen Themen. Pyranometer, so haben wir das erste Spezialwissen-Subkapitel genannt. 
+
+Die uns bekannte Darstellung schon mit der Einstrahlung, ja, Korrektur, Entschuldigung. Also noch mal die Kapitel 1, die Subkategorie Pyranometer. Dann zeige ich ein Diagramm, das ähnlich ist zu dem, was wir jetzt vorhin schon die ganze Zeit gesehen haben, weil die eine X-Achse ist jetzt nicht die Energie, sondern das ist die Einstrahlung. 
+
+Wieder blauer Punkt, aber das ist jetzt die Einstrahlung, das ist wichtig. Und die andere Achse, wieder in Grün, ist wieder unser Wirkungsgrad. Und jetzt schauen wir uns das über einen Tag an. 
+
+Typische Solarkurve. Und jetzt zeige ich mal unser Pyranometer noch ein bisschen genauer. Also es ist in Modulneigung geneigt und es hat auch die gleiche Orientierung wie unser Modul. 
+
+Dann könnte so ein perfekter Sonnentag genau so aussehen. Also das GTI-Pyranometer, korrekt haben wir es genannt, würde genau diese Darstellung widerspiegeln. Dann kommt ein PR raus, das hatten wir im Kapitel 3, der theoretisch konstant bleibt, einheitenlos oder ohne Zahlen, ohne absolute Wertung. 
+
+Jetzt graue ich das mal aus und zeige folgenden Effekt. Achtung, man sieht es ein 3D-Modell über mir. Das Pyranometer hat sich jetzt geneigt. 
+
+Man könnte davon sprechen, dass das aus Versehen selbstverständlich irgendjemand nicht ganz richtig montiert hat. Oder vielleicht hat es sich ja auch in der Halterung gelöst und eben leicht verschoben. Jetzt passiert Folgendes, die Kurve verschiebt sich, wenn man so will, nach Osten. 
+
+Das ist jetzt in einem Modulbeispiel über mir passiert. Das Pyranometer ist leicht nach Osten geknickt und damit verschiebt sich jetzt die Kurve der aufgenommenen Werte aus dem Pyranometer wie dargestellt. Vielleicht als Beispiel für den Kopf, die graue Kurve, die war ja korrekt, könnte ja sein, dass das einfach ein anderes Pyranometer auf der gleichen Baustelle ist, meinetwegen direkt daneben. 
+
+Das sehen wir gleich in unserer Tour auch. Also einfach ein zweites Pyranometer und jetzt würde ich das auch erkennen in meiner Bewertung der Messwerte. Ich hätte jetzt also zwei Kurven und würde mich schon wundern, warum für das eine Pyranometer sozusagen die Sonne viel früher aufgeht als für das andere, weil natürlich tut sie es nicht. 
+
+Das ist natürlich klar. Die Sonne ist genau die gleiche, die Module sind die gleichen. Es hat sich auf der Baustelle nichts geändert, außer dass eins von zwei Pyranometern so ein bisschen die Orientierung verloren hat und sich leicht nach Osten gedreht hat. 
+
+Jetzt kommt der wichtige Spezialwisseneffekt. Was bedeutet das für den PR? Folgendermaßen, wenn ich morgens quasi auf meinen PR gucke, denkt meine Berechnung, dass ja schon viel mehr Sonne scheint, als sie es in Wirklichkeit tut. Meine Anlage kann aber ja nicht mehr generieren, weil für die ändert sich das ja gar nicht. 
+
+Also meine generierte Energie am Zähler bleibt genau gleich. Das Einzige, was ich durch das Verschieben des Pyranometers erreiche, ist, dass mein Einstrahlungswert plötzlich größer ist und das führt dazu, dass der PR sinkt. Ich sage es einfach noch mal wiederholt in einem Satz. 
+
+Ich habe bei einer 100 Megawatt Anlage nichts geändert, außer dass ich beim Vorbeilaufen gegen das Pyranometer geschubst bin und das sich leicht geneigt hat. Und schon reduziert sich morgens der PR vielleicht um mehrere Prozent. Ich sage das so, weil das ja einen riesen Einfluss hat, je nachdem, wie groß die Anlage ist, je nachdem, wie irgendwelche Strafzahlungen definiert sind, liegt es jetzt einzig und allein an diesem Neigungswinkelgrad, dass sich der PR wie oben verschiebt. 
+
+Nachmittags im Westen geht es in die andere Richtung. Das heißt, man könnte da von einer Ausgleichsmaßnahme sprechen, aber das ist ja trotzdem nicht richtig. Also vermeiden wir das natürlich. 
+
+Und die Logik, nur um es nochmals gezeigt zu haben, in die andere Richtung auch. Achtung, wir drehen das Pyranometer jetzt nach Westen, dann verschiebt sich die ganze Kurve in die Abendstunden sozusagen und der PR würde genau andersrum dargestellt werden. Letzter Punkt hierzu ist noch, dass ich das jetzt hier nur so einfach und deutlich demonstrieren kann, weil ich in meinem Beispiel jetzt in dem Beispiel drei Pyranometer auf der Anlage habe, die alle jetzt in unterschiedliche Richtungen zeigen. 
+
+Und nur durch dieses Verhältnisverschieben ist das überhaupt deutlich, dass da irgendwas nicht stimmt. Wenn man nur ein Pyranometer hat oder alle drei falsch installiert sind, würde ich da gar nicht drauf kommen. Dann hätte ich vielleicht gar nicht die Möglichkeit zu verstehen, dass ich einen falschen PR berechne und hätte auch dadurch nicht die Möglichkeit, das Ganze zu korrigieren. 
+
+Also wichtig ist die Orientierung, die Neigungswinkel, das Säubern der Pyranometer ernst zu nehmen. Das war der erste Punkt. Zweiter Punkt Clipping. 
+
+So, ich habe das folgendermaßen versucht. Wir haben eine Zeitachse über eine Stunde und machen jetzt folgendes. Solartag, irgendwie geht die Einstrahlung hoch und runter. 
+
+Wichtig ist, es ist unterschiedlich. Mal ein bisschen mehr, mal ein bisschen weniger Sonne. Jetzt machen wir das in fünf Minuten Blöcken, weil so macht das ja dann auch unser Monitoringsystem. 
+
+Also sie mag das in fünf Sekundenschritten gesampelt haben, aber am Ende übertragen sie fünf Minutenwerte. Deswegen nehmen wir diese schöne Analoglinie auch wieder raus und haben da jetzt unsere fünf Minuten Einstrahlungsblöcke. Jetzt machen wir einen 60 Minuten Mittelwert raus. 
+
+Haben wir in der Excel genauso gemacht. Ihr hattet ja nur die 60 Minuten rechnen. Bei der Übung 4 waren es dann die fünf Minutenwerten. 
+
+Aber gut, also hier ist unser Mittelwert über 60 Minuten. Jetzt rechnen wir die Energie daraus aus. Das ist die grüne Fläche. 
+
+650 Watt pro Quadratmeter in unserem Beispiel. Mal zwölf, das sind jetzt die fünf Minuten. Mal fünf ist dann 650 Wattstunden pro Quadratmeter im Beispiel. 
+
+Jetzt kommt der entscheidende Punkt. Auf einmal sagen wir, jetzt gibt es eine Wirkleistungsbegrenzung vom Wechselrichter. Also der fährt gar nicht mehr die 1000 Watt an, kann er nicht mehr, sondern nur noch 800. 
+
+Könnte auch eine AC Wirkleistungsbegrenzung sein. Also das ist die orangene Linie. Was dann passiert ist, dass wir Energieverluste durch das Clipping haben werden. 
+
+Das ist jetzt erst mal so. Ist auch nicht schlimm, haben wir ja vorhin schon gesagt. Passiert halt. 
+
+Das Problem erzeugt man nur, wenn man das nicht mitbekommt, weil sich dann der PR nicht mehr richtig darstellt. Und das passiert, ich habe es hier einmal ausgerechnet jetzt, in dem Fall hätten wir einen Clippingverlust von 20,8 Wattstunden pro Quadratmeter. Und hier habe ich nochmal, ich gehe mal zur Seite, so reicht das ja nochmal ausgerechnet. 
+
+Das wären jetzt also 3,2 Prozent. Und also das ist erst mal so, dass ich diese Clippingverluste habe. Ich akzeptiere sie, das ist in Ordnung. 
+
+Das Problem, das ich darstellen will oder für das ich sensibilisieren will, ist, dass wenn ich mit einer 1-Stunden-Mittelwert-Bildung das mache, dann kriege ich das gar nicht mit. Man sieht es finde ich am besten an der grünen Fläche. Die grüne Fläche ist doch völlig unbeeinflusst von dieser orangenen Linie, weil sie ja drunter liegt. 
+
+Alles ist gut. In Wirklichkeit ist es aber nicht so. Die grüne Fläche habe ich gar nicht, sondern eben diese hellblau markierten Flächen oben verliere ich.
+
+(0:08:17 - 0:09:19)
+Aber ich kriege es nicht mit, weil ich mit Stundenwerten rechne. Also Clipping, vor allem bei Umrechnungen auf 60 Minutenwerten, führt dazu, dass mein PR in dem Fall jetzt schlechter wird, weil ich ja die zurecht verlorenen Clipping-Effekte nicht mitkriege. Dann lokale Einstrahlung. 
+
+Wir nehmen in unserem Beispiel hier einen Pyranometer und noch ein zweites Pyranometer. Und Achtung, jetzt war ich zu schnell, in dem zweiten Pyranometer, man sieht es ein bisschen, da sind Wolken drüber. Also 100 Megawatt-Anlage, da liegen 800 Meter zwischen den verschiedenen Pyranometern. 
+
+Und jetzt haben die unterschiedliche Einstrahlungsbedingungen, das ist ganz normal. Also vielleicht so, nur bei wirklich großflächigen Anlagen habe ich dieses Phänomen der unterschiedlichen lokalen Einstrahlung. Also wieder zwei Einstrahlungslinien. 
+
+Man sieht es schon, das eine ist halt immer so ein bisschen bewölkt jetzt über die Stunde. Das ist jetzt ein komischer Zufall, dass die Wolke immer nur über den einen zieht. Aber in unserem Beispiel machen wir das so.
+
+(0:09:19 - 0:09:51)
+Und dann kommen nun mal unterschiedliche Energiewerte raus mit diesen fünf Minutenblöcken. Jetzt geht es aber hier nicht um Clipping, sondern jetzt geht es um lokale Einstrahlung. Deswegen reicht es, wenn ich mir da fünf Minuten rausnehme. 
+
+Und jetzt sieht man, der eine hat einfach weniger gemessen als der andere. Jetzt machen wir hier einen Mittelwert aus den zwei Pyranometern. Achtung, das ist der Mittelwert der zwei Pyranometer. 
+
+Und jetzt kommt wieder meine Wirkleistungsbegrenzung rein. Also auch hier habe ich in Realität bei dem einen Wechselrichter Clipping. Das wird so sein.
+
+(0:09:51 - 0:12:02)
+Das, was ich hier gezeigt habe, für den blauen Wechselrichter verliere ich. Ich kann nichts dagegen tun. Aber gleiches Prinzip wie gerade. 
+
+Entschuldigung, da war ich zu schnell. Wenn ich mit dem Mittelwert rechne, sehe ich dieses Clipping nicht. Ich habe also auch hier wieder einen Effekt. 
+
+Dadurch, dass ich lokale Einstrahlungsbedingungen vielleicht nicht beachte, kriege ich gar nicht mit, dass ich dieses Clipping habe. Und auch hier wird dann der PR wieder schlechter, als ich ihn eigentlich rechnen könnte. So, vierter Punkt. 
+
+Mischanlagen habe ich ihn genannt. Hier ist mal so ein Zähler. Darüber haben wir heute nicht gesprochen. 
+
+Und jetzt mache ich den 30 Sekunden aber ganz absichtlich sehr kurz, weil über Zähler sprechen wir in einem anderen Brainday noch. Es ist genauso wichtig, das richtige Pyranometer zu nehmen, wie den richtigen Zähler zu nehmen. Jetzt zeige ich hier mal so ein Zählerschema, so wie es auch die Netzbetreiber nehmen. 
+
+Also oben ist Eigentumsgrenze, da ist der Netzbetreiber und der Zähler ist meistens dann auf unserer Seite. Also Netz des Anlagenbetreibers Z1. So sieht das ganz oft aus. 
+
+Und jetzt würde ich mal sagen, jetzt nehmen wir den erstmal alles gut. Und jetzt sage ich das ja nur, weil da drunter ist vielleicht ein Transformator. Extrem Beispiel, weil das hatte ich jetzt irgendwie ein paar Mal Umspannwerk. 
+
+Und dann hat man da meinetwegen 110 kV Trafo und der hat Verluste. Das sage ich nur, werden wir gleich sehen, weil das Umspannwerk der Übergabestation hat vielleicht auch einen Eigenverbrauch und der wäre dann irgendwie hier. Also auch den muss man jetzt erstmal nicht beachten, wenn man diesen Z1-Zähler nimmt. 
+
+Also wenn ich meinen Z1-Zähler nehme, dann ist Trafo-Verlust und Verbrauchseinrichtung ja schon weggerechnet. Alles gut. Und ich habe es auch mit reingeschrieben. 
+
+Das ist auch ein sehr geringer Effekt, der da auftritt. Aber trotzdem. Jetzt sagen wir nochmal, wenn wir aber irgendwie in einem Umspannwerk verschiedene Einspeiser haben. 
+
+Hier sind sie. Also wir haben vielleicht unsere Anlage, dann haben wir eine Windanlage, dann haben wir noch einen anderen Solarpark. Also gerade bei großen Systemen ist das mittlerweile denke ich schon so. 
+
+Und jetzt würde ich empfehlen, den Z2-Zähler zu nehmen und nicht den Z1-Zähler, weil man ja sonst Gefahr läuft, dass man die Windenergieanlage aus Versehen mitrechnet oder halt die Trafo-Verluste, obwohl die gar nicht vertraglich geschuldet werden.

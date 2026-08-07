@@ -1,0 +1,62 @@
+(0:00:00 - 0:00:26)
+Kapitel 1, warum, so wie wir es immer machen oder wie wir es oft machen, warum brauchen wir überhaupt Schutzsysteme in der Elektrotechnik? Schutzsysteme haben verschiedene Aufgaben, die sie zu erfüllen haben. Und da ist erst mal für uns ganz weit vorne dran der Personenschutz. In der Mittelspannung würde ich jetzt erst mal sagen, können die Schutzrelais die Person nicht so gut schützen wie in der Niederspannung.
+
+(0:00:26 - 0:00:39)
+Aber grundsätzlich ist der Personenschutz immer weit vorne. Das nächste ist der Anlagenschutz. Hier ist dann, ich sage mal, zum Beispiel gemeint, unser Solarpark, der geschützt werden soll, Endgeräte, die geschützt werden sollen.
+
+(0:00:40 - 0:00:53)
+Aber erst mal nicht das Netz. Das Netz kommt jetzt als nächster Punkt. Netzschutz, so heißt ja später dann auch eine Schutzfunktion gemäß Norm, NA-Schutz, das sind genau diese zwei Worte, Netz- und Anlagenschutz.
+
+(0:00:55 - 0:01:13)
+So, Aufgaben, danach kommen die Anforderungen. Und hier ist es ganz klar, so ein Schutzsystem, das muss erst mal schnell sein. Und schnell bedeutet in unserem Sinne dann ja häufig nicht, drei Minuten, vier Minuten, sondern eher 50, 100 Millisekunden, 200 Millisekunden.
+
+(0:01:14 - 0:01:24)
+Weil wenn so ein Kurzschluss, ein Fehler irgendwo mal entsteht, dann muss es unheimlich schnell gehen. In der letzten Woche habt ihr die Störlichtbogenprüfung vielleicht gesehen. Da habt ihr es gesehen.
+
+(0:01:24 - 0:01:42)
+Das dauert keine Millisekunden, dann gibt es eine Explosion. Und wenn man dann nach 50, 100 oder 300 Millisekunden abschaltet, ist das energetisch oder die Energie, die dort frei wird bei so einer Explosion, ist das ein großer Unterschied. Also wir können dann eben mit schnellen Relais viel Schaden reduzieren.
+
+(0:01:44 - 0:01:55)
+Zusätzlich müssen wir das Ganze natürlich sehr, sehr zuverlässig machen. Manchmal gibt es da Reserve-Schutzsysteme in den Umspannwerken. In unseren Solarparks ist das nicht der Fall.
+
+(0:01:55 - 0:02:07)
+Aber unsere Relais, die wir in Deutschland einsetzen, die sind zuverlässig. Die sind getestet, geprüft und zuverlässig, lösen also aus, wenn sie auslösen sollen und lösen nicht aus, wenn sie nicht auslösen sollen. Das ist die Idee.
+
+(0:02:09 - 0:02:21)
+Zusätzlich haben wir dann die Selektivität. Da können, sage ich mal, die Schutzrelais nur indirekt was dafür. Ihr seid erst mal zuständig dafür, dass die Selektivität eingestellt wird in den Relais.
+
+(0:02:21 - 0:02:44)
+Und wenn ihr das richtig macht und dann einen Fehler habt, dann ist es hoffentlich so, dass wirklich nur der fehlerbehaftete Teil ausgeschaltet wird. Und dadurch spart ihr dann in eurem Betrieb, eurem Solarpark, eurem Windpark natürlich, ich sage mal, oder erspart ihr euch Schäden. Der Park schaltet nicht aus oder es schalten nicht große Teile des Parks aus, sondern eben nur der fehlerbehaftete Teil.
+
+(0:02:44 - 0:02:55)
+Das nennt sich Selektivität. Also ihr wollt nicht das Umspannwerk ausschalten und den ganzen Park aushaben, sondern vielleicht nur den Niederspannungs- Leistungsschalter öffnen und dann ist vielleicht nur ein Wechselrichter aus. Das ist die Idee.
+
+(0:02:57 - 0:03:23)
+So, dann kommen wir weiter zu den Fehlerursachen. Fehler werden wir immer wieder haben in unserem System hervorgerufen, unter anderem natürlich durch Überspannung. Und hier würden wir jetzt mal sagen, vielleicht nicht die Blitzschutzüberspannung, sondern wir sprechen jetzt erst mal nur von Überspannungen, die wir aus dem Netz erwarten, durch vielleicht eine erhöhte Netzspannung, vielleicht durch Schaltvorgänge im Netz.
+
+(0:03:23 - 0:03:31)
+Erst mal kein Blitz, das würde ich so ein bisschen ausklammern. Da haben wir, sage ich mal, andere Themen vielleicht noch. Dann haben wir mechanische Schäden.
+
+(0:03:32 - 0:03:51)
+Ihr kennt das, eure externen Kabeltrassen vielleicht sind da von Wändern oder meistens betroffen oder vielleicht auch eure internen Trassen nach der Bauphase. Es hat vielleicht jemand ein RAM-Profil in das Kabel geschlagen oder der Bagger hat euer verlegtes Kabel entlang der Straße übersehen und eben das Kabel zerstört. Mechanische Schäden, ganz einfach.
+
+(0:03:52 - 0:04:04)
+Dann gibt es, das betrifft jetzt eher Freileitungssysteme, Überbrückungen. Netzbetreiber kennen das, denke ich, regelmäßig. Wenn es mal windig ist, fallen Äste auf die Freileitung.
+
+(0:04:04 - 0:04:19)
+Tiere können sich eventuell zwischen zwei Leiterseilen, wenn sie eine große Spannweite haben, verfangen und eben für einen Kurzschluss sorgen. Sind dann meistens nur kurze Zwischenfälle, weil die Äste dann wegbrennen. Die Tiere leider auch.
+
+(0:04:20 - 0:04:33)
+Und dann haben wir eben noch Blitz hier mit eingefügt. Das sind dann eben in Freileitungssystemen Themen, die uns, denke ich, aber erst mal nicht so sehr betreffen, weil unsere Systeme in der Regel erdverlegt sind. Dann das Thema Alterung.
+
+(0:04:34 - 0:04:45)
+Ja, ich sage mal, unsere neuen Solarparks haben damit erst mal keine Schwierigkeiten. Die sind ja erst mal neu. Wir haben aber natürlich in unseren Versorgungssystemen Leitungen, die sind 40, 50 Jahre und vielleicht sogar älter.
+
+(0:04:45 - 0:05:01)
+Die Endverschlüsse eben auch, sind dann die Schwachstellen. Da haben wir dann Alterungsthemen und da kann man dann natürlich mal Schäden durch einfach veraltete Technik finden. Da heißt es dann natürlich frühzeitig modernisieren, erneuern, warten.
+
+(0:05:02 - 0:05:34)
+Und der letzte Punkt, ich denke, das ist vielleicht einer der Punkte, die wahrscheinlich die meisten Schäden oder die meisten Schutzauslösungen verursachen. Und das liegt dann meistens daran, klassisches Beispiel sage ich mal, unsere TRAFO-Station 1 im Solarpark ist noch geerdet und jetzt schaltet jemand im Umspannwerk ein und dadurch schaltet er natürlich die Spannung direkt auf die Erde, also gegen Erde kurzgeschlossen. Das ist dann so der größte, ich sage mal, Kurzschlussstrom, den wir dann erwarten können.
+
+(0:05:35 - 0:05:54)
+Wenn dann das Schutzrelais nicht schnell auslöst, fließt natürlich der größtmögliche Strom, den das Netz bereitstellen kann. Über das Umspannwerk zur Fehlerstelle. Das heißt, alle Komponenten dazwischen sind dann erst mal extremsten Stress ausgesetzt und im schlimmsten Fall werden sie thermisch zerstört, wenn der Schutz nicht akkurat funktioniert.

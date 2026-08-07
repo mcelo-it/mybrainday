@@ -1,0 +1,26 @@
+(0:00:00 - 0:00:11)
+Hallo und herzlich willkommen zum Brain Day. Heute haben wir das Thema Netzberechnung und Schutz. Ich nehme es vorweg, wir haben wirklich dickes Brett zu bohren heute.
+
+(0:00:12 - 0:00:38)
+Ich glaube, da kann man ein ganzes Semester in der Universität füllen für den Teil Netzberechnung und ein zweites Semester für den Teil Schutz. Wir haben natürlich wieder versucht, hier das Ganze zusammen zu schnüren auf ungefähr zwei Stunden, sodass ihr als PV-Planer das an die Hand bekommt, was ihr im Grunde genommen braucht für euren Alltag. Wir machen euch nicht zu Netzberechnern hier in diesen zwei Stunden.
+
+(0:00:38 - 0:00:56)
+Wir machen euch auch nicht zu kompletten Schutzexperten, die das alles vollumfänglich können. Aber ich denke, ihr müsst auch nicht immer alles können, sondern ihr oder bei euch reicht das manchmal, wenn ihr zumindest nachvollziehen könnt und hinterfragen könnt, was da wirklich passiert ist. Also gut, wir haben das strukturiert für euch.
+
+(0:00:57 - 0:01:11)
+Fünf Kapitel, ein Kapitel haben wir mal unterbrochen, damit wir das mit der Pause, mit den Pausenzeiten ein bisschen besser einhalten. Seht ihr später. Und wir starten gleich mit dem Thema, warum, wie so häufig.
+
+(0:01:11 - 0:01:32)
+Also das Warum, ein bisschen um die Motivation zu heben, euch zu zeigen, warum wir das Ganze machen wollen, warum wir das machen müssen, warum das so wichtig ist. Danach kommt Modellierung. Da zeigen wir mal, wie man so einen Park modelliert, welche Komponenten wichtig sind, welche elektrischen Kerndaten wichtig sind.
+
+(0:01:33 - 0:01:44)
+Das seht ihr gleich im Detail, will ich nicht zu viel vorwegnehmen. Aber da gehen wir so einen Park, so einen Solarpark mal vom Netz bis zum Wechselrichter durch. Dann kommt das elektrische Verhalten.
+
+(0:01:44 - 0:01:56)
+Das wird euch hinterher helfen. Und ich hoffe, da gibt es ein paar Aha-Effekte, dass ihr dann einschätzen könnt, wie wichtig ist denn welches Bauteil für welches Verhalten. Sehen wir später, will ich nichts vorwegnehmen.
+
+(0:01:56 - 0:02:07)
+Das Kapitel hat es dann auch wirklich in sich. Und da müssen wir dann auch viel rechnen. Belastbarkeit der Komponenten gehört im Grunde genommen natürlich auch dazu.
+
+(0:02:07 - 0:02:31)
+Also bei diesen Berechnungen prüfen wir die Belastbarkeiten in verschiedenen Betriebszuständen. Und dann ist das natürlich höchst wichtig, um dann hinterher in der Schutztechnik oder die Schutztechnik auszulesen, sodass man dann ein Konzept hat in der Schutztechnik, vielleicht einen Staffelplan, der am Ende alle Komponenten schützt und dann auch eine Selektivität darstellt.

@@ -1,0 +1,10 @@
+(0:00:00 - 0:00:23)
+Hallo und herzlich willkommen zu unserem heutigen Brainday. Es geht heute um das Thema Schnittstellen und Kommunikationsprotokolle. Wir erklären euch die Grundlagen, damit ihr als Elektroplaner, ich sag mal, in eurem täglichen Arbeitsablauf besser verstehen könnt, was eine Schnittstelle ist, was eine TCP-IP-Kommunikation ist.
+
+(0:00:24 - 0:00:43)
+Alle, die schon öfter mal dabei waren, kennen ja unseren Aufbau. Wir stellen die Frage, warum? Wir geben euch einen kleinen Überblick über die meistgenutzten seriellen Schnittstellen und Kommunikationsprotokolle. Dann erläutern wir das Thema serielle Schnittstellenkommunikation, TCP-IP-Kommunikation.
+
+(0:00:44 - 0:01:14)
+Und zum Schluss geht es nochmal in eine Adressliste, damit wir das an einem Projekt, sag ich mal, spezifisch praxisorientiert aufbauen. Unsere Präsentation ist wie immer flankiert mit Fragen und mit dem Tool Miro. Wir freuen uns dann, wenn ihr euch wirklich da mit anmeldet und wirklich teilnehmt und dann wirklich mitmacht und wirklich selbst dann diese IP-Adresslisten zusammenstellt. 
+
+Also, wir starten in die Präsentation.

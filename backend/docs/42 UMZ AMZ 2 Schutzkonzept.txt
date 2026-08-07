@@ -1,0 +1,84 @@
+(0:00:00 - 0:03:51)
+Wunderbar. Und schauen uns als nächstes so ein typisches Schutzkonzept einmal an. Ich zeige es ja einmal, das haben wir so mal in mühsamer Kleinarbeit gemeinsam aufbereitet. 
+
+Das ist eine typische Freiflächenanlage, eine Übergabestation, eine Trafostation und unten ist ein Wechselrichter. Heute geht es aber nur um Überstromschutz. Das sind die hier grün markierten Relais, die blauen, das ist der NA-Schutz, machen wir an einer anderen Stelle auch im praktischen Sinne. 
+
+Und der Isolationswächter und dieses DMCR-Trafoschutz-Relais sind jetzt für heute nicht so relevant. Deswegen blende ich die jetzt einmal aus, schreibe oben drüber Strom, damit das jetzt keine Verwirrung gibt. Also das Schutzkonzept so ist nicht vollständig, aber aus Sicht des Stromschutzes ist es das heute. 
+
+Deswegen machen wir das so. Wir haben also eine Übergabestation, eine Trafostation und einen Wechselrichter. Und jetzt zeige ich euch erstmal die Mittelspannungsseite hier grün markiert und unten die Niederspannungsseite markiert. 
+
+Und wir machen das jetzt jedes einzelne Relais so, dass wir uns erstmal die elektrische Position angucken. Ich zeige gleich, was damit gemeint ist. Dann schauen wir uns die räumliche Position an, werdet ihr auch sehen. 
+
+Und dann, was schützt denn eigentlich das jeweilige Relais? Ich blende mal aus, worum es jetzt heute jetzt erstmal nicht geht. Ihr habt es gesehen, grau markiert. Jetzt bleibt eines grün. 
+
+Das ist also mein UMZ-AMZ-Schutzrelais in der Übergabestation. Und jetzt seht ihr auch, meine elektrische Position ist gehighlighted geblieben. Also das ist es schon. 
+
+In blau seht ihr die Verbindung zu dem Stromwandler in der Übergabestation und in orange seht ihr die Auslöseverbindung zu dem Leistungsschalter in der Übergabestation. Also rein elektrisch gesehen ist es in der Übergabestation verdrahtet. Wahrscheinlich in unmittelbarer Nähe von diesem Leistungsschalter und auch das Stromwandlast, der da verbaut ist. 
+
+Jetzt gucken wir uns die räumliche Position an. Also ja, elektrisch. Das Schema ist ja immer schnell gezeichnet, aber wie sieht das eigentlich in Realität aus? Und da ist das so, ihr seht so eine typische Freiflächenanlage, eine typische Freiflächenanlage und da ist so eine Übergabestation mal so eingezeichnet. 
+
+Ihr werdet auch gleich die Trafo-Station noch besser erkennen. Also das ist einfach ein Luftbild, das wir da gekriegt haben. Und dann gehen wir jetzt mal ein bisschen genauer rein in die Übergabestation. 
+
+So sieht das vielleicht aus und hier sieht man es jetzt noch mal besser. Also nur als ein Beispiel. So ein kompaktes Ding ist das jetzt gerade. 
+
+Ich mache mal die Tür auf von der Mittelspannung, von der sekundär Seite und da sieht man jetzt schon mittig so ein Display und dann zoome ich noch ein bisschen näher ran und jetzt mache ich auch noch mal einen Kreis außenrum. Also das ist unser UMZ, AMZ in der Mittelspannung, in der Übergabestation. So könnte so etwas aussehen. 
+
+Gibt natürlich verschiedene Hersteller, darum geht es jetzt bei uns heute nicht, sondern jetzt habt ihr mal gesehen, wie das dann so ein bisschen in Realität aussieht. Ich zoome da wieder raus und setze da so ein, seht ihr das, über der Übergabestation so eine Markierung rein, damit man sich mal merkt, vielleicht auch für so einen Moment die Frage, wo so ein Schutzrelais dann zu finden wäre. Wenn man vor Ort ist mit dem Auto, dann hilft der Stromlauf lang gar nicht so viel, man muss sich dann mal anders orientieren können. 
+
+Jetzt Achtung, jetzt der Schutzbereich. Der Schutzbereich kommt jetzt als nächstes und da habe ich ja oben so ein bisschen mein Schema mitgeführt und da seht ihr dann schon jetzt noch mal den Leistungsschalter, den Stromwandler und das Kabel angedeutet und das ist es jetzt auch schon. Jetzt ist es grün geworden. 
+
+Das Kabel will ich also schützen mit diesem Relais und in dem Bild habt ihr es auch gesehen, ist das Mittelspannungskabel mal dargestellt. Da liegt das schön tief vergraben. Genau diese lange Kabelstrecke soll durch dieses Schutzrelais geschützt werden.
+
+(0:03:52 - 0:05:10)
+Hier ist eine ganz gute Darstellungsmöglichkeit jetzt zu greifen, dass das in Realität ein riesiges System ist. Das können viele Kilometer sein von dicken Mittelspannungskabeln in dem Anlagenschema oder einpoligen Schema. Sieht das ja immer ganz klein aus, die kleine Linie da oben, da denkt man sich, naja so schwierig kann das ja nicht sein. 
+
+Also in Wirklichkeit schützt die also eine ganze ganze Menge und vielleicht an der Stelle mal darauf hingewiesen, ihr seht das schon, typische Topologie bei PV-Freiflächenanlagen ist, Mittelspannungskabel geht in die Station 1 rein und geht dann aber direkt im nächsten Abgangsfeld wieder raus. Da sind normalerweise keine weiteren Schutzrelais dazwischen. Das kann man machen, das ist auf keinen Fall falsch. 
+
+Das ist halt einfach nur so ein bisschen teurer. Deswegen lassen wir es zumindest meistens dann weg, also fällt rein und raus und das heißt, dass jetzt auch hier in dem Beispiel die zweite und auch ganz hinten diese letzte Linie, dieses ganze Kabel bis zum Schluss wird aus dem Umspannwerk heraus geschützt. Nicht die einzelnen Abschnitte von den einzelnen Stationen aus, sondern tatsächlich aus dem Umspannwerk wird heraus geschützt auch das Ende von diesem Mittelspannungskabel. 
+
+Okay, wir gehen mal wieder zurück in unsere Übersicht und haben jetzt glaube ich A, B und C sozusagen erstmal gegriffen. Das machen wir jetzt genauso auch einfach mit dem nächsten Relais. Ich highlighte mal die Trafostation.
+
+(0:05:10 - 0:10:51)
+Auch da gibt es ein UMZ und ein AMZ elektrisch, auch da in unmittelbarer Nähe zum Leistungsschalter und zum Stromlandler verbaut. Wie sieht das aus in Realität? Da ist wieder unsere Anlage und jetzt müssen wir aber in die Trafostation zoomen, weil jetzt sind wir ja an einer anderen Stelle. Die kann ähnlich aussehen, also in unserem Beispiel sieht sie sehr ähnlich aus, aber innen drin sieht sie ganz anders aus. 
+
+Da hat man jetzt hier eine Mittelspannungsschalteranlage und dann zeige ich euch jetzt mal wie sowas aussehen kann. Da wäre das jetzt immer unterschiedlich, die verschiedenen Hersteller machen das natürlich auch unterschiedlich, ist ja keine Frage, aber wenn man das nächste Mal so eine Tür aufmacht oder dabei ist, dann hat man jetzt vielleicht einen Blick dafür, was ist denn jetzt eigentlich da dieses schwarze Ding mit dem Display in der Mitte. Das ist das UMZ AMZ Schutzrelais und der Schutzbereich, was ist damit gemeint? Ihr seht es grün markiert, der Transformator, auch jetzt im Bild eingekreist, der ist direkt hinter diesem Abgangsfeld und dieser Transformator soll jetzt also geschützt werden mit diesem Schutzrelais. 
+
+Weil das immer ein bisschen anders aufgebaut ist, zeige ich das hier in dem Beispiel jetzt. Jetzt könnte von der Übergabestation in dem linken Feld das Kabel ankommen, in dem mittleren Feld geht das zum Transformator nach hinten und deswegen wird an der Stelle eben auch der Strom überwacht. Das heißt, wenn jetzt im Transformatorabgang sozusagen, also in diesem Abgang hier am Endverschluss was kaputt geht, dann fließt ein Fehlerstrom, der wird gemessen und dann wird hier an der Stelle abgeschaltet und nicht im Umspannwerk. 
+
+Das ist, denke ich, der große Trick. Das dritte Feld wiederum, da geht es dann eben weiter zur nächsten Station und vielleicht wird jetzt noch mal deutlicher, dass wenn jetzt also in dem Abgang zum nächsten Kabel ein Fehler auftritt, dann kann dieses Relais das gar nicht erkennen. Das geht gar nicht, da fließt sozusagen der Strom vorbei. 
+
+Er ist ja nicht beim Trafo hier, sondern im nächsten Feld und deswegen würde dann wiederum das Umspannwerk abschalten. Super, das war der zweite und davon gibt es jetzt schon mal mehrere, also je nach Parkgröße. Aber ich habe jetzt hier mal drei hingesetzt. 
+
+Hier noch mal meine Markierung. Also da gibt es jetzt schon mal drei Stück in meinem Park, mehr als eins in der Übergabestation. Weiter geht es. 
+
+Wir sind jetzt auf der Niederspannungsseite. Elektrische Position, glaube ich, war klar, deswegen gehe ich da relativ zügig weiter. Räumliche Position, wir sind also immer noch in der Trafostation, deswegen gehe ich da auch wieder rein, noch ein bisschen näher ran. 
+
+Jetzt muss ich aber auf die andere Seite. Ich bin jetzt also einmal um die Station rumgelaufen, deswegen sieht es auch ein bisschen anders aus und vor allem innen sieht es anders aus. Da sieht man jetzt Niederspannungssicherungsabgänge und eben in der Mitte, da habt ihr einen großen Niederspannungsleistungsschalter. 
+
+Ganz typische Anwendung in den PV-Anlagen, so würde das aussehen. So und was schützt der? Hinter mir der Schutzbereich blau markiert und oben ist es wieder eigentlich klar angedeutet. Erst mal diese Sammelschiene, die ich jetzt auch im Bild blau markiert habe. 
+
+Nicht ganz so leicht zu erkennen, aber ich hoffe, wenn man jetzt darauf achtet, sieht man es. Also da sind drei Sammelschienen, Phase 1, 2 und 3 und die ist so dimensioniert, dass der Leistungsschalter hier so schnell abschaltet, dass die Sammelschiene geschützt ist und wir haben den Transformator auch mit blau markiert, weil dieses Schutzrelais schaut in beide Richtungen. Das sage ich später nochmal ganz kurz, wenn man auch in eine Richtung nur gucken kann, aber prinzipiell würde der beide Richtungen verstehen. 
+
+Das heißt, im Grunde kann er dann dadurch auch den Transformator mit schützen. So einmal wieder raus, hier wieder räumlich, 1, 2, 3, also haben wir auch wieder drei an diesen Stellen. Weiter geht's. 
+
+Letzte Schutzkomponente, das sind jetzt Sicherungen, ist aber das gleiche Prinzip bei Überstromschutz, also die sind vielleicht ein bisschen einfacher gestrickt und auch günstiger, aber das Grundprinzip ist ja genau das gleiche. Also auch so eine Sicherung schützt jetzt gegen Überstrom. Elektrische Position, hier wäre das im Ersatzschaltbild zwischen dem Leistungsschalter in der Niederspannung der Trafostation und den Wechselrichter draußen ins Feld. 
+
+Da würde ich das einzeichnen und wenn ich mir das jetzt räumlich angucke in dem gleichen Bild, dann habt ihr jetzt da so eine kleine Oval mit Wechselrichter drauf, weil zwischen Trafostation und Wechselrichter sind jetzt diese Sicherungen verbaut. Gehen wieder in die gleiche Position wie gerade, oben mittig war der Niederspannungsleistungsschalter und jetzt aber da drunter, da sind diese ganzen Sicherungstrenner, da werden die Sicherungen eingelegt. Die sieht man jetzt hier nicht, die sind hinter dem Plexiglas ein bisschen versteckt, aber da erahnen wir sie zumindest, da sind diese ganzen Sicherungen eingelegt. 
+
+Also die räumliche Position, hier würdet ihr sie finden. Wenn ihr mal Schnitzeljagd auf einer Baustelle sucht, dann hier drauf deuten. Räumliche Position nochmal von außen. 
+
+So, der Schutzbereich. Der Schutzbereich von diesem Sicherung wiederum sind vor allem die Kabel, meinetwegen auch die Wechselrichter dahinter, genau deswegen blau markiert und dann wäre das jetzt so, ich zeichne es hier mal ein, da gibt es ja jetzt ganz viele, wir machen das jetzt nur schematisch, also in diesem Bild sind es wahrscheinlich ungefähr 60, aber das machen wir jetzt nicht, sondern ihr seht das hier, also da sind auch wieder Niederspannungskabel vergraben und an diesen orientiert ihr euch dann bitte und hier sind sie einfach nur schematisch dargestellt. Also da liegen irgendwo die Kabel drin zwischen der Trafostation und dem Wechselrichter und genau die schützt die Sicherung.
+
+(0:10:53 - 0:12:36)
+Der Überstromschutz. So, hier sind sie nochmal alle gehighlighted und für alle Kollegen der Dachanlagen hier nochmal eine kleine Sonderseite. Was ist jetzt anders, wenn ich eine kommerzielle Dachanlage plane? Achtung, ich zeige das an dem Schaubild, was sich jetzt gleich ein bisschen verändert, ist folgendes. 
+
+Achtung, wir nehmen erstmal hier einen Leistungsschalter, einen Schutzrelais und einen Stromwandler raus, Trafostation, dann nehme ich das erstmal raus und schiebe den Trafo nach oben in die Übergabestation. So ist das ganz oft. So ein Gebäude hat halt eine kombinierte Übergabetransformatorstation. 
+
+Muss nicht sein, aber wenn es so ist, ist jetzt nur ein Beispiel, dann würde das ja so aussehen und dann braucht man ja diesen zweiten Leistungsschalter gar nicht, weil jetzt hat man in der Übergabestation da oben ein Schutzrelais und das übernimmt ja jetzt sozusagen beide Funktionen. Das wäre mal vielleicht der erste Schritt, so könnte das aussehen. Dann gibt es gar keine Trafostation mehr, sondern eine Gebäudeverteilung, ist ja jetzt die Niederspannungsseite, eine Niederspannungshauptverteilung und da ist das dann ganz oft so, das ist oft so ein großer Schrank mit irgendwelchen Sicherungen drin und da ist dann ja auch der Verbrauch angeschlossen und vielleicht eben unser PV-Schrank. 
+
+So und in unserem PV-Schrank wiederum, da braucht man dann zumindest aktuell in jedem Fall einen zweiten Niederspannungsleistungsschalter. Das hat was zu tun mit der 4110, in der das so vorgegeben wird. Warum ist jetzt für heute nicht relevant, weil das hat mit dem Überstromschutzsystem nichts zu tun, aber man hat dann da zwei Schutzrelais und Leistungsschalter verbaut und dann muss man die bitte auch beide sozusagen richtig einstellen.
+
+(0:12:37 - 0:13:12)
+Hier ist eine Anmerkung, es gibt voraussichtlich eine Revision in 2026. In 2026 gibt es eine Revision, das haben wir der Form halber reingenommen, um zu zeigen, wie aktuell wir sind. Das ist also voraussichtlich so und dann wird nur ein Leistungsschalter erforderlich sein, aber nur dann, wenn der dann einen Zickel Leistungsschalter 2 Auslösespulen hat. 
+
+So steht das da drin, aber das wird passieren. Eure Schrankbauer werden das wissen oder sagt es ihnen halt noch mal, dann können sie schnell nachlesen und dann braucht man ab 2026 vermeintlich nur einen Leistungsschalter.

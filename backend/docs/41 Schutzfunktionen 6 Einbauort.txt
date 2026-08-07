@@ -1,0 +1,47 @@
+(0:00:00 - 0:00:12)
+Das war das Schutzschema. So, ein Bauort, das gucken wir uns jetzt an. Also, das ist jetzt ein Schema für alle, die viel auf Baustellen waren, denen ist das, glaube ich, klar, wo sich das befindet.
+
+(0:00:12 - 0:00:22)
+Wir wollten das jetzt aber trotzdem noch mal darstellen. Wir blenden in die Übergabestation rein und gucken uns jetzt mal so einen klassischen Park an. Also, ihr seht da viele, viele Module auf der Fläche.
+
+(0:00:22 - 0:00:38)
+Ihr seht links am Bildrand eine Übergabestation und eine Trafostation in der Modulfläche. Und diese ersten Funktionen, NA-Schutz übergeordnet, Erdschluss und Distanzschutz befinden sich in einer Trafostation. Jetzt ist es auch mal Winter geworden, aber das ist eine Übergabestation.
+
+(0:00:39 - 0:01:01)
+Die könnt ihr öffnen und da seht ihr jetzt mal ein Woodward-SEG-Relais. Das kann eben NA-Schutz, das kann Erdschlussschutz, das kann keinen Distanzschutz, wichtig, aber hier bei dieser Station ist es eben mit einem UMZ-Relais, mit einer UMZ-Funktion gelöst. Deshalb ist das SEG-Relais auch häufig fortzufindend in Übergabestationen.
+
+(0:01:02 - 0:01:13)
+Distanzschutz habt ihr dann eher in Siemens-Relais, wie auch immer. Prinzipiell wäre das der Ort, wo ihr nach diesen Relais suchen müsst. Übergabestation für den übergeordneten Schutz und die UMZ-Funktion.
+
+(0:01:15 - 0:01:29)
+Dann gehen wir in den nächsten Block, UMZ. Und diesen UMZ-Schutz, den hatten wir ja gerade schon aus der Trafostation rausgesucht, den finden wir dann eben auch in der Trafostation. Hier ist das mal so eine Container-Variante.
+
+(0:01:30 - 0:01:54)
+Da können wir dann auch die Türen öffnen. Ihr seht hier eine Mittelspannungsschaltanlage, ganz klassisch eine Ring Main Unit, also zwei Kabelfelder, einen Leistungsschalter zum Trafo und über dem Trafo-Leistungsschalterfeld seht ihr dann hier so ein kleines Relais, immerhin mit Display, das die UMZ-Funktion ausführt. Das habt ihr dann in dieser Trafostation, aber auch, ich sag mal, da hinten im Park, in jeder Trafostation, diese UMZ-Funktion.
+
+(0:01:55 - 0:02:09)
+Das Nächste wäre DMCR. Auch das findet ihr in den Trafostationen. Und ich denke, ihr ahnt es schon, das findet ihr nicht nur in der einen Trafostation, hier im Winter, oben auf dem Transformator.
+
+(0:02:10 - 0:02:38)
+Ja, hier ist so ein kleines DMCR, ist ein bisschen ein anderes Relais als das, was wir vorher in der Präsentation hatten, aber es gibt natürlich verschiedene Hersteller, verschiedene Typen und auch das ist auf jedem Trafo angeordnet. Dann haben wir noch mal ein UMZ und das... Ah, UMZ und NA-Schutz kombinieren wir hier, genau. Da gucken wir uns jetzt auch wieder die Trafostation noch mal an und öffnen dann die Niederspannungsseite.
+
+(0:02:38 - 0:03:05)
+Vorher habt ihr gesehen, wir waren auf der Mittelspannung, jetzt sind wir auf der anderen Seite. Wir sind einmal rumgelaufen und sehen jetzt hier, genau, einmal oben so einen kleinen Schrank, den muss man öffnen, muss man wissen, dass da was drin ist und dann muss man auch wissen, wie das NA-Schutz-Relais aussieht. Ja, war ich, glaube ich, ein bisschen zu schnell, aber da war das ABB-Relais und dann haben wir daneben noch das UMZ-Relais, nicht Relais, sondern den Leistungsschalter, der eben diese UMZ-Funktion integriert hat.
+
+(0:03:08 - 0:03:47)
+So, und auch die beiden Funktionen, den zwischengelagerten NA-Schutz und den UMZ-Schutz, finden wir in jeder Trafostation von unserem Park. Genau, und den Isolationswächter oder das Isolation Monitoring Device, wie es auf Englisch so schön heißt, das finden wir dann eben auch in den Trafostationen und da kann man jetzt bei dieser Huawei-Station mal die Tür öffnen und findet da so ein Gerät von der Firma Dold, da ganz klein, da ist es etwas größer, so sieht das aus. Zack, haben wir in allen Trafostationen.
+
+(0:03:49 - 0:04:31)
+Dann haben wir noch Sicherungen, genau, die hatten wir, denke ich, eben auch schon gesehen in unserer winterlichen Trafostation. Hatten wir nur noch nicht ran gesumt, aber hier unter dem Niederspannungsleistungsschalter sehen wir dann natürlich diese ganze Batterie an NH-Trennern, die eben für den Kabelschutz in den Park zu jedem einzelnen Wechselrichter sorgen. So, jetzt gucken wir uns nochmal hier das Letzte an, NA-Schutz, genau, der ist deaktiviert, aber da, ich sage mal, für die, die Solaranlagen nicht so oft sehen, da unter dem mittleren, unter der einen Modulreihe, hier seht ihr so eine Kante, das ist der Wechselrichter, da zoomen wir nochmal rein, so sieht der Wechselrichter aus.
+
+(0:04:31 - 0:04:53)
+Wir hatten es gesagt, den NA-Schutz deaktivieren wir hier, weil unser zwischengelagerter Schutz die Funktion erfüllt. Und da haben wir dann natürlich ganz, ganz viele im Feld, also da muss sich dann wirklich jemand drum kümmern, dass die alle richtig eingestellt sind. So, Schutzschema Dachanlage, ja, das wollten wir noch einmal kurz zeigen, weil wir das vorher schon ein-, zweimal angesprochen haben.
+
+(0:04:54 - 0:05:34)
+Was sich jetzt geändert hat, ist, dass in der Übergabestation ein NA-Schutz immer noch installiert ist. Und das ist für uns eigentlich der wichtigste Punkt, dieser NA-Schutz, der löst jetzt eben nicht mehr in der Übergabestation aus, weil wir wollen ja eben dafür sorgen, dass unsere Produktion, was auch immer in dem Gebäude enthalten ist, bei Spannungs- und Frequenzfehlern nicht abgeschaltet wird. Also die werden weiter versorgt, diese Produktionen und Hallen, und deshalb ist die TRAFO-Station jetzt eine Niederspannungs-Hauptverteilung geworden und in dieser Niederspannungs-Hauptverteilung ist auch ein zweiter Leistungsschalter drin, der dann eben von dem übergeordneten Entkoppelungsschutz abgeschaltet wird.
+
+(0:05:35 - 0:06:25)
+Das sorgt natürlich immer für Schwierigkeiten, sage ich mal, vor allem, weil Übergabestation und NSHV ja meistens nicht direkt nebeneinander liegen, sondern, wie wir es jetzt in diesem Beispiel sehen, rechts am Bildrand die Übergabestation, die NSHV ist irgendwo im Gebäude, da können dann gerne mal 100, 200 Meter dazwischen liegen. Und dann muss man eben sehen, dass man eine Wirkverbindung zwischen der Übergabestation und der NSHV schafft. Hier haben wir eine Niederspannungs-Hauptverteilung mit einem Leistungsschalter, das würde ich jetzt erst mal sagen, in Abstimmung mit dem Netzbetreiber bestimmt möglich, aber eigentlich bräuchten wir eine Redundanz hier, weil wir den übergeordneten Entkoppelungsschutz auf einen zweiten, redundanten, separaten Leistungsschalter führen müssen, so dass wir hier jetzt einfach mal angedeutet haben, besser wäre noch ein zweiter Leistungsschalter.
+
+(0:06:27 - 0:06:45)
+Hier haben wir noch mal das zwischengelagerte Schutzrelais dargestellt, das ist dann meistens in der Niederspannungs-Hauptverteilung verbaut und löst dann eben den anderen Leistungsschalter aus. NH-Trenner sind drin, die Sicherungen im Grunde genommen zu den Wechselrichtern.

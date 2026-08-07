@@ -1,0 +1,194 @@
+(0:00:00 - 0:00:31)
+So, jetzt kommt noch ein Kapitel, wo wir finden, wir als Büroplaner versuchen, die Lücke zur Baustelle zu schließen. Das gelingt uns natürlich nicht hundertprozentig, weil die Bauleiter da schon viel mehr Erfahrung haben, was das alles betrifft. Aber das, was wir mitnehmen, versuchen wir hier mal ein bisschen für euch zusammenzutragen, damit man, wie gesagt, die Lücke wenigstens etwas schließen kann zu den Praktikern zwischen Theorie und Praxis.
+
+(0:00:33 - 0:00:59)
+Es ist auch gleichzeitig ein Sammelsurium, würde ich mal sagen, aus Themen, die wir für wichtig erachten. Und wir würden jetzt mal anfangen mit Kabeltrommeln. Das ist nicht direkt Kabelgraben das Thema, aber wenn man sich mit Kabelgraben beschäftigt, mit Längen von Kabeln und so weiter, dann kommt man natürlich auch gleich zu dem Thema Kabeltrommeln und muss sich dann Gedanken machen, wie man diese Kabel, die man da in dem Graben verlegen will, auch bestellt.
+
+(0:01:00 - 0:01:26)
+Und wichtig ist dann eben erst mal, dass das Gewicht von so einer Kabeltrommel meistens die Kabellänge begrenzt oder limitiert. Also ihr könnt nicht tausende von Meter viermal 240 Quadrat an einem Stück bestellen, weil dann wird es auf der Baustelle oder von der Baustelle sicherlich ein negatives Feedback geben. Wenn ihr Maschinen verwendet, könnt ihr da sicherlich große Gewichte bewegen.
+
+(0:01:27 - 0:01:41)
+Nicht alle, wie gesagt, aber große. Wenn ihr aber manuell Kabel verlegen müsst, dann habt ihr da eine Grenze von, wir sagen, ungefähr 40 Kilo. Das ist sowas, was man mit zwei Personen handeln kann.
+
+(0:01:43 - 0:02:06)
+Kabeltrommeln, Stringkabel, 40 Kilo, das kriegen die bewegt, das können die sich auf solche Rollen legen und abrollen. Wenn man jetzt aber große Kabeltrommeln hat und das maschinell im Grunde genommen abrollt oder von A nach B fahren muss, dann ist die Limitierung häufig, so kennen wir das von den Baustellen, bei 2,5 Tonnen gegeben. Das ist das, was die Fahrzeuge so schaffen, was die können.
+
+(0:02:08 - 0:02:24)
+Wie wir dann daraus jetzt Kabellängen ermitteln, kommt jetzt im Folgenden. Also, wir schauen uns das erstmal an. Es gibt eben ein Bruttogewicht für eine Kabeltrommel und wir haben es ja gerade schon gesagt, 2,5 Tonnen für den Mittelspannungsbereich und Niederspannungsbereich.
+
+(0:02:24 - 0:03:00)
+Das ist, sage ich mal, ein Limit. Wenn ihr dann mit eurer Bauleitung gesprochen habt, fragt sie, ist das so, oder habt ihr vielleicht auch supergroße Maschinen, die vielleicht auch 5 Tonnen können, dann kann man auch 5 Tonnen bestellen, aber über 2 Tonnen, Achtung, Achtung, dann sollte man schon Rücksprache halten. Bruttogewicht haben wir angegeben, soll heißen, wir reden hier nicht nur von Kabelgewicht, sondern hier müssen wir auch nochmal das Gewicht berücksichtigen, was so eine Holztrommel, deshalb haben wir es M-Holz genannt, was so eine Holztrommel wiegt.
+
+(0:03:00 - 0:03:54)
+Wir sind da mal, genau hier ist sie reingezoomt, auf so einem Kabelflug, glaube ich war das, aber haben erstmal, sind hier sehr konservativ reingegangen, haben gesagt, 500 Kilo wiegt diese Trommel. Ich denke, in der Realität sind sie tendenziell leichter, aber nehmt das mal so an, damit auch diese Gewichte nicht so völlig ausgelastet, ausgereizt werden, weil das eben auch eher zu Problemen sorgt, als dass ihr da große Vorteile gewinnt. So, genau, also wenn wir jetzt von Netto-Kabelgewicht sprechen wollen, dann müsste man diese Trommel, dieses Holzgewicht abziehen und dann wäre man eben bei so einem Mittelspannungskabel und Niederspannungskabel eher bei 2 Tonnen für reines Kabelgewicht und bei so einer DC-Kabeltrommel, sagen wir mal 35 Kilo, wenn man eine 5 Kilo schwere Trommel hätte.
+
+(0:03:54 - 0:04:09)
+Also das ist nicht mit einem spitzen Bleistift gerechnet, sondern eher ein Daumenwert und eher konservativ angesetzt. Dann gibt es jetzt Kabeltypen, die auf dieser Trommel sein können. Wir machen das hier nochmal beispielhaft an einzelnen Kabeln, die wir so kennen.
+
+(0:04:09 - 0:04:34)
+Da gibt es natürlich alle möglichen anderen Querschnitte und damit verbunden natürlich andere Gewichte. Aber jetzt haben wir hier ein Mittelspannungskabel, 400 Quadrat Aluminium, ist erstmal leichter als Kupfer, aber trotzdem, werdet ihr es gleich sehen, schwer. Und wir haben das Aluminiumkabel 4x240, das ist natürlich nochmal viel mehr Aluminium als bei dem Mittelspannungskabel, deshalb wird es auch gleich schwerer sein.
+
+(0:04:35 - 0:04:55)
+Und das Stringkabel im 4 Quadrat ist dann natürlich ein anderes Kaliber, aber auch anders zu verlegen, also viel manueller, nicht so sehr maschinell. Jetzt gibt es ein Gewicht zu diesen einzelnen Kabeltypen. In Kilogramm pro Kilometer wird das in der Regel angegeben.
+
+(0:04:55 - 0:05:16)
+Und da müssen wir dann mal schauen, wo wir das herkriegen. Der Blick ins Kabeldatenblatt, der wird uns hier schon helfen. Wir haben jetzt einfach mal exemplarisch hier so einen Typ rausgewählt und da steht dann ein Gewicht in Kilogramm pro Kilometer, also 2693 Kilogramm wiegt ein Kilometer.
+
+(0:05:17 - 0:05:53)
+Also erstmal klar, wenn man jetzt nur 2000 Kilogramm bewegen kann, dann ist man auf jeden Fall unter einem Kilometer Kabel, das sagt mir erstmal mein logischer Verstand. Und wir zeigen euch gleich, dass man das natürlich auch durch einen einfachen Bruch auch direkt ausrechnen kann und dann auf eine tatsächliche Länge kommt. Also wir wollen die maximale Kabellänge ausrechnen und die berechnet sich dann eben durch das Bruttogewicht minus die Kabeltrommel und dann durch dieses spezifische Gewicht des Kabels.
+
+(0:05:54 - 0:06:25)
+Und wenn wir das hier in unsere Formel mal übernehmen, haben wir oben die zwei Tonnen am Ende als Nettogewicht stehen und die 2693 Kilogramm für das Mittelspannungskabel und kommen dann hier auf eine maximale Kabellänge von 743 Meter. Das übertragen in unsere Tabelle, auch für das Niederspannungskabel machen wir das und haben dann hier maximale Kabeltrommelgrößen. Und aus diesen Kabeltrommelgrößen müssen wir uns dann überlegen, wie wir damit auf der Baustelle umgehen.
+
+(0:06:26 - 0:07:14)
+Also wenn wir jetzt mal anfangen beim Mittelspannungskabel und wir haben eine externe Kabeltrasse, die vielleicht ein Kilometer ist, dann ist schon mal klar von vornherein, dass wir mindestens eine Muffe auf dieser Strecke brauchen. Wenn man jetzt natürlich nochmal Kreuzungen hat von Straßen oder von Flüssen oder von irgendwas anderem und Spülbohrungen braucht, dann muss man natürlich nochmal entweder zusätzliche Muffen einplanen oder die Muffe eben genau an der Stelle ansetzen, damit man am Ende wenig Muffen benötigt, weil diese Muffen natürlich auch immer eine Schwachstelle sind und ein Mehraufwand sind und so weiter. Wenn wir, ich sag mal, ein System jetzt legen müssen, was 750 Meter lang ist, dann müssen wir drei Kabeltrommeln für dieses System bestellen.
+
+(0:07:14 - 0:07:27)
+Das ist, glaube ich, erst mal soweit so klar. Ihr habt das eben auch in der Tour gesehen. Diese Mittelspannungskabel werden meistens in Einzeladern verlegt und dann sind es eben drei Trommeln für eine 750 Meter Kabeltrasse.
+
+(0:07:29 - 0:08:01)
+Wichtig noch, und das fragen wir nachher auch nochmal in der nächsten Tour ab, man muss auf der Baustelle immer ein bisschen aufpassen, dass man die Kabel beschriftet. Also von Anfang an Anfang und Ende beschriften, weil sonst ist das immer, immer, immer hinten raus ein Thema, dass man diese einzelnen Drähte sich dann wieder raussuchen muss, zuordnen muss, durchklingeln muss. Das ist deutlich leichter, wenn man vorher schon draufschreibt, das ist Phase 1 von Kabelsystem A zum Beispiel und das ist Phase 2 und das ist Phase 3, dann hat man gleich die Zuordnung.
+
+(0:08:01 - 0:08:30)
+Man prüft das trotzdem noch, wenn man dann die Kabel anschließt, aber trotzdem erleichtert das die Arbeit natürlich ungemein. Sonst muss ja jeder beim Einführen wieder schauen, welches Kabel ist das Richtige und so weiter. So, Niederspannungskabel ist mein Verständnis erst mal so, im Solarpark von Trafostationen zu Wechselrichter haben wir in der Regel Kabelstrecken von 100 oder wenigen 100 Metern, also dass man da mal Kabellängen hat über 400 ist sehr, sehr selten.
+
+(0:08:31 - 0:08:48)
+Das heißt, wir versuchen hier die Kabeltrommeln so zu bemessen, dass wir keine Muffen brauchen. Das ist hier das Ziel und in der Regel funktioniert das in der Niederspannung auch. Außerdem, das ist dann natürlich der nächste wichtige Punkt, Verschnitt vermeiden.
+
+(0:08:48 - 0:09:26)
+Und da muss man sich dann wirklich im Detail angucken, wie organisiert man das, dass die Baustelle weiß, welche Kabeltrommeln für welche Strecken, für welche Stationen. Da sind dann auch die Handwerker, die Monteure gefragt, dass die darauf achten, dass man nicht am Ende auf jeder Trommel noch 40 Meter drauf hat und die kürzeste Strecke, die man aber braucht, 45 sind, dann sind die 40 Meter im Grunde genommen nicht mehr verwendbar, es sei denn, man mufft irgendwo, aber das wollen wir ja nicht. So, und jetzt gibt es hier das Stringkabel und da ist die typische Größe einfach 500 Meter und auch damit kann man sicherlich alle Stringlängen, die so gebräuchlich sind, abdecken.
+
+(0:09:28 - 0:09:59)
+Hier ist vielleicht das Thema Verschnitt nicht ganz so groß, weil so ein Stringkabel nicht so teuer ist, aber sollte man auch dabei drauf achten. So, jetzt gucken wir uns mal an, Biegeradius und Muffen, das ist auch so ein Thema, was wir immer wieder sehen, immer wieder hören. Ach, warum habt ihr da so wenig Platz? Warum ist die Grube so klein? Wie soll ich denn das Kabel hier anschließen? Und deshalb einfach nochmal, um euch hier so ein bisschen zu sensibilisieren, versuchen wir es hier mal darzustellen.
+
+(0:09:59 - 0:10:59)
+Wir haben erstmal so einen Kabelgraben hier dargestellt, 3D soll das sein, wir sehen zwei Kabelsysteme, in der Mitte mit einem LWL-Leerrohr und schauen uns jetzt mal hier das Kabel an, das wir hier verwenden, rechts ist das Datenblatt, da kann man dann auch den Typ und den Biegeradius sich raussuchen und dann würden wir jetzt mal diesen Kabelgraben drehen. Der Biegeradius ist 660 mm, jetzt schauen wir von oben drauf, grün ist der Mutterboden, den wir rausnehmen und dann kommt noch das Füllmaterial, was wir rausnehmen und unten bleiben dann eben diese Mittelspannungssysteme und das Leerrohr in der Mitte und jetzt kommen wir an die Stelle, wo der Kabelgraben einen Abzweig macht. Also wir müssen jetzt rechts abbiegen, zum Beispiel zu der Trafo-Station 3, eine Kurve und da gehen wir jetzt erstmal rum mit unserem Kabel und haben das erstmal geschafft.
+
+(0:10:59 - 0:11:31)
+Das Kabel liegt jetzt im Graben, hat die Kurve gemacht und der Gutachter kommt dann aber auf die Baustelle und hält seinen Zollstock dran und stellt fest, dass der Biegeradius jetzt aber nicht 660, sondern nur 550 ist. Das ist durchaus üblich, das passiert, da wird oft nicht darauf geachtet, aber es ist dann natürlich die Gefahr gegeben, dass so ein Kabel dadurch beschädigt wird. Vor allem bei kalten Temperaturen sind die Kabel empfindlich, es kann dann zu Brüchen kommen, man muss das gar nicht offensichtlich sehen, also das Kabel bricht nicht einfach durch.
+
+(0:11:31 - 0:12:02)
+Aber es kann beschädigt werden, von daher ist schon darauf zu achten, dass die Biegeradien immer eingehalten werden. Also Kabel wieder zurück, rausnehmen und den neuen Biegeradius ansetzen und dann sieht man auch schon, dass das Kabel jetzt in dem anderen Kabelgraben auf einmal oben an der Kante liegt. Aber jetzt würde man sehen, wir haben jetzt 700 mm, also 70 cm und wären dann eben größer als der im Datenblatt oder auch normativ vorgeschriebene Biegeradius.
+
+(0:12:02 - 0:12:39)
+Und damit liegt das Kabel erst mal stressfrei im Kabelgraben und wird so auch die nächsten 30 Jahre dort liegen können, ohne dass es kaputt geht. Dann gibt es den Daumen hoch, weil das ist das, was wir wollen. Wichtig oder ein Punkt, den man hier bei so Verlegungen um Ecken immer berücksichtigen sollte, und das seht ihr später auch nochmal in der Tour, in Original oder in Echt, es gibt sogenannte Kabelrollen und gerade wenn man um Ecken zieht die Kabel, dann sollte man Kabelrollen verwenden.
+
+(0:12:39 - 0:13:15)
+Hier haben wir sie jetzt mal einfach dort mittig angeordnet. Ich würde sagen, in der Realität, wäre diese Rolle wirklich an der Ecke des Grabens, dass die da auch schön fest sitzt, kann das Kabel dort rüberrollen, wird nicht beschädigt, schleift nicht über den Sand durch die Steine und dann würden genau die gleichen Kabelrollen wahrscheinlich auch alle paar Meter unter dem Kabel liegen, dass das Kabel sauber geführt wird und nicht geschliffen wird und dadurch vielleicht Schäden erleidet. So, jetzt nächster Punkt, Muffe.
+
+(0:13:16 - 0:13:57)
+Wir haben jetzt unsere zum Beispiel 750 m ausgeschöpft das Kabel ist zu Ende, wir brauchen über 1 km, das heißt jetzt gibt es keine andere Möglichkeit, als hier auf unserer Kabelstrecke eine Muffe anzusetzen, um das Kabel zu verlängern. Einfach gesagt funktioniert das so, dass man das Kabel abisoliert, in der Niederspannung ist das wahrscheinlich auch so einfach und dann gibt es einen Verbinder zwischen den einzelnen Alu- oder Kupferleitern, der kriegt dann nochmal einen Schrumpfschlauch drum und dann gibt es außen nochmal einen Schrumpfschlauch und schon ist die Niederspannungsmuffe fertig. Wenn man jetzt in der Mittelspannung unterwegs ist, ist das schon deutlich aufwendiger.
+
+(0:13:58 - 0:14:26)
+Wir haben mal versucht so eine Muffe hier für eine Ader mal zu zeigen, also das ist dann deutlich aufwendiger. Mittelspannungskabel müssen geschält werden, da muss man dann die Schirme rausführen, man braucht dann genau diese Schrumpfschläuche und muss da wirklich sauber und ordentlich arbeiten, damit das funktioniert. Vielleicht ein Hinweis hier, wenn man am Ende so eine Muffe erstellt, braucht man da tatsächlich auch relativ viel Platz für.
+
+(0:14:28 - 0:14:53)
+Muffen brauchen wir dann eben bei Straßenkreuzungen, das hatte ich gesagt. Häufig setzen wir Muffen auch ein, wenn wir mit großen Querschnitten von externen Kabeltrassen kommen und die letzten Meter nur noch vor der Trafostation, um sauber an der Mittelspannungsschaltanlage anzuschließen. Dann reduzieren wir häufig auch noch mal auf Kupfer, also Materialwechsel wäre das von Alu auf Kupfer, um eben den Anschluss leichter hinzubekommen.
+
+(0:14:54 - 0:15:15)
+Dafür verwenden wir Muffenquerschnittswechsel, Material- und Querschnittswechsel, das geht dann Hand in Hand. Ich hatte eben gesagt, man braucht große Muffengruben, weil wir verlegen dann, wir machen dann eine Überschneidung der Kabel von ungefähr 5 Meter. So viel Reserve lässt man sich, um eben an dem Kabel sauber arbeiten zu können.
+
+(0:15:15 - 0:15:37)
+Dann hat man aber auch eine Muffengrube, wo dann der Monteur drin sitzt, oft mit dem Regenschirm, damit er trocken ist und staubfrei ist. Die ist dann häufig 2x3 Meter ungefähr, einfach damit man ordentlich arbeiten kann, Platz hat für sein Werkzeug. Und hinterher eben diese Schwachstelle Muffe, in Anführungsstrichen, keine Schwachstelle ist, sondern wirklich handwerklich gut ist.
+
+(0:15:37 - 0:15:57)
+Und dass da eben nicht zu einem Kabelfehler kommt. Wenn man das so macht, ist meine Überzeugung, dass Muffen auch durchaus technisch sinnvoll sind und eben nicht unbedingt eine Schwachstelle sein müssen. Das ist nur eine Schwachstelle, finde ich, wenn sie eben im Stress der Baustelle unter schlechten Bedingungen gemacht werden.
+
+(0:15:57 - 0:16:06)
+Dann ist es natürlich eine Schwachstelle. Ansonsten gut gemachte Schwachstellen gibt es im Energieversorgernetz an jeder Ecke, würde ich sagen. Und das funktioniert in der Regel auch gut.
+
+(0:16:09 - 0:16:28)
+So, jetzt kommen Tipps und Tricks. Gesammelte Werke, gesammelte Erfahrungen von der Baustelle, die wir hier für die Kabelbestellung, Kabellegung euch einfach mal mitgeben wollen. Auch wenn es manchmal ein bisschen platt klingt, kann ich euch hier ein paar Tipps geben.
+
+(0:16:28 - 0:16:58)
+Das ist einmal für die Bestellung. Natürlich wollen wir nicht zu viel bestellen und am Ende Geld ausgeben und am Ende natürlich dadurch auch vielleicht Material verschrotten lassen, was dann ja wirklich schade drum ist. Aber auf der anderen Seite ist es auch so, wenn die Baustelle da zwei, drei Wochen nicht weiterarbeiten kann, weil ihr 100 Meter Kabel zu wenig bestellt habt, ist das natürlich auch ein großes Thema, was auf der Baustelle bei der Projektleitung einfach negativ aufstößt.
+
+(0:16:58 - 0:17:05)
+Da müsst ihr ausreichend bestellen, aber auch nicht zu viel. Es ist ein schmaler Grat. Versucht da euren Weg zu finden.
+
+(0:17:06 - 0:17:48)
+Und Gleiches gilt dann natürlich auch, dass die Leute auf der Baustelle eben ausreichend Kabelreserve verlegen für die Anschlüsse, für die Muffen, für die Biegeradien, die man einhalten muss, weil man häufig, man sieht es vielleicht auch später in so einer Tour, häufig das Kabel gar nicht bis zum Ende, bis zum Anschlusspunkt legt, sondern an irgendeiner Stelle erstmal aufhören muss, das Kabel aufrollt und ein paar Wochen später oder ein paar Tage später das Kabel erst bis zum Ende legt. Und dann muss man eben ein gutes Gefühl haben, ein gutes Auge dafür haben. Diese Kabelreserven, die vielleicht nicht gleich angeschlossen werden, immer bitte mit Endkappen versehen.
+
+(0:17:48 - 0:18:03)
+Damit kein Wasser in die Kabel eintritt, die Kabel nicht korrodieren, altern oder einfach kaputt gehen. Deshalb Endkappen und die Kabel einfach geschützt verlegen. Kabelenden markieren, das hatten wir eben schon gesagt.
+
+(0:18:04 - 0:18:15)
+Vor allem bis die Kabel angeschlossen sind, müssen die gut markiert sein. Wenn sie erstmal angeschlossen sind, werden sie natürlich gelabelt usw. Aber bis dahin ordentliche dauerhafte Markierung.
+
+(0:18:16 - 0:18:32)
+Offenes Kabel schützen. Ja, es sind Baustellen, man hat irgendwo offenes Kabel, aber wenn das so ist, versucht es bitte so zu organisieren. Und da ist die Bauleitung dann natürlich in der Verantwortung, dass da keine Baufahrzeuge drüber fahren, entlang fahren, Leute drüber laufen.
+
+(0:18:32 - 0:18:45)
+Das ist ein sensibles Thema, was man dann vielleicht auch nicht am Tag der Inbetriebnahme mitbekommt, sondern erst ein paar Wochen später durch Kabelschäden. So, jetzt geht es weiter. Wir kommen zu unserer nächsten Tour.
+
+(0:18:47 - 0:19:06)
+Ich muss einmal meinen Laptop starten und würde euch da auch schnell einmal einführen. Sekunde. Genau, jetzt haben wir hier eine Tour.
+
+(0:19:06 - 0:19:19)
+Das ist die 6-2 Kabelgraben. Ich starte diese Tour und zeige sie euch einmal im Vollbild. Jetzt haben wir hier den Unterschied, wir haben ja erstmal keine dezentrale Anlage, sondern eine zentrale Anlage.
+
+(0:19:19 - 0:19:26)
+Das heißt, wir haben dann hier auch gleich einen anderen Kabelgraben-Typ. Das habt ihr ja vorher gelernt. Das ist auch ein DC-Kabelgraben.
+
+(0:19:28 - 0:19:48)
+Auch hier gibt es dann diese Checkliste, die ihr gleich bitte abarbeiten sollt. Gleiches Prinzip, ihr könnt hier durch die Kabelgräben laufen, indem ihr auf die Pfeile klickt. Ihr könnt euch umsehen, ihr seht hier eine zentrale Wechselrichterstation und ihr seht hier später auch Zeitverläufe, wo ihr dann einfach mal draufklicken könnt.
+
+(0:19:48 - 0:20:03)
+Ihr seht dann so eine Uhr, klickt da mal drauf und dann seht ihr, dass dann auf einmal das Kabel angeschlossen ist. Wir kommen zu dem vorletzten Punkt, optimale Kabelroute. Das zeigen wir euch einmal schematisch, wie das jetzt bei uns gedacht ist.
+
+(0:20:04 - 0:20:33)
+Im Grunde genommen resultiert es daraus, dass wir schon häufiger mal gesehen haben, dass manche Planer im Zickzack oder anders zwischen Modultischen her sind, zwischen RAM-Profilen und dann würde das Kabel da so durchgezogen werden, um diese RAM-Profile durch. Womöglich kommen die RAM-Profile erst später und das ist natürlich aus unserer Sicht erstmal schwierig, kritisch. Also die Kabel sind dann schwer verlegbar, wenn man sie nicht geradeaus zieht, ist das einfach unheimlich schwer, weil das sehr große Querschnitte sind.
+
+(0:20:33 - 0:20:58)
+Deshalb immer versuchen geradeaus, geradeaus und nicht unnötige Kurven einzubauen. Und natürlich bei dieser Anordnung, die wir hier sehen, hat man hier nochmal eine große Gefahr von einer mechanischen Beschädigung durch die RAM-Profile. Also wir haben nicht viel Gefahr auf den Baustellen, viel mechanische Gefahr, aber die RAM-Profile haben das größte Gefahrenpotenzial.
+
+(0:20:59 - 0:21:21)
+Deshalb sollten wir das tunlichst vermeiden, hier so die Kabel zu verlegen. Wenn wir unter den Modultischen hergehen, dann wohlüberlegt, sodass diese Gefahr ausgeschlossen werden kann. So ist das eben nicht richtig und wir würden jetzt sagen, wir schieben den Graben dann so, wohlüberlegt unter den Modultischen durch, mit ausreichend Distanz zu den RAM-Profilen.
+
+(0:21:21 - 0:21:48)
+Das muss jeder wieder so ein bisschen für sich bewerten, mit seinen Monteuren, mit seinen Bauleitern. Reicht ein Meter, würde ich erstmal sagen ja, aber vielleicht gehen da manche auf Nummer sicher, nehmen zwei Meter und dann ist das erstmal die richtige Version. Geradeaus, drunter durch. 
+
+So, Daumen hoch. Jetzt kommen nochmal ganz schnell alternative Verlege-Methoden. Also wenn wir nicht im Kabelgraben sind, nicht die Freileitung verwenden, dann gibt es einen Kabelflug.
+
+(0:21:49 - 0:22:05)
+Wir haben den eben schon mal kurz gezeigt. Der ist sicherlich auf der Photovoltaikanlage keine sinnvolle Lösung. Aber wenn wir jetzt auf Feldern unterwegs sind und Strecken am Stück geradeaus von mehr als 300 Metern verlegen müssen, das ist ein Daumenwert.
+
+(0:22:05 - 0:22:14)
+Vielleicht sind es auch eher 500. Diese Maschine erstmal auf die Fläche zu bringen, ist natürlich auch erstmal ein Aufwand. Aber ab einer bestimmten Länge lohnen sich dann diese Kabelflüge.
+
+(0:22:14 - 0:22:27)
+Die sind dann unheimlich effektiv und können lange Strecken sinnvoll und einfach verlegen. Dann gibt es natürlich noch die Möglichkeit der Spülbohrung oder horizontale, gesteuerte Spülbohrung. So heißt es auch manchmal.
+
+(0:22:28 - 0:22:45)
+Dann hat man eben einen Bohrer, mit dem kann man eben gut Straßen, Flüsse, was auch immer kreuzen. Ich sage mal als Daumenwert, es gibt da Strecken, die gebohrt werden können, bis 500 Meter zum Beispiel. Allerdings muss dann natürlich auch das Gelände entsprechend geschaffen sein.
+
+(0:22:45 - 0:22:52)
+Durch Gestein usw. wird es dann sicherlich schwierig. Aber wenn man einen lockeren Boden hat, kann man da durchaus lange Strecken unterqueren.
+
+(0:22:53 - 0:23:09)
+Dann ist das eine hilfreiche Lösung. Wir haben das schon häufiger mal in unseren Solarparks gesehen. Wir haben ein ganz kurzes Video, das man mal gesehen hat, wie das aussieht. 
+
+Da ist eben so ein Spülbohrgerät. Wir starten das mal. Das sieht man jetzt schon.
+
+(0:23:09 - 0:23:31)
+Dieses Spülbohrgerät muss dann natürlich auch in einer gewissen Entfernung von dem Objekt, was wir unterqueren wollen, stehen. Damit wir eben die Tiefe überhaupt erreichen. Wenn jetzt dieses Video laufen würde, dann hätte man eben gesehen, dass wir erstmal einmal vorbohren.
+
+(0:23:31 - 0:23:42)
+Wir sehen auf der linken Seite an dem Baum so eine Zielgrube. Da würde dann unsere gesteuerte Spülbohrung rauskommen. Mittig zwischen der Straße und dem Graben seht ihr da einen netten Herrn.
+
+(0:23:42 - 0:23:53)
+Der hat so eine Fernsteuerung in der Hand. Der kann genau überwachen, wo diese Spülbohrung herläuft. Und eben dann Sorge tragen, dass es an der Zielgrube auch rauskommt.
+
+(0:23:53 - 0:24:17)
+Wenn wir dann an der Zielgrube rausgekommen sind mit unserer Bohrung, dann wird der Kopf gewechselt und es wird ein Rohr angeschlossen. Und dieses Rohr wird dann an diesem etwas größeren Kopf, der den Graben nochmal verbreitet, zurückgezogen unter der Straße und unter dem Wassergraben hindurch. Sodass wir dann, nachdem die Spülbohrung beendet ist, ein entsprechendes festes Rohr verlegt haben.
+
+(0:24:17 - 0:24:30)
+Durch das wir dann am Ende unser Kabel wiederum durchziehen können. Das ist eine gute Lösung, um eben solche Hindernisse oder auch kleine Wäldchen zu unterqueren. Man beschädigt damit die Oberfläche nicht.
+
+(0:24:30 - 0:24:44)
+Also das ist eine gute Sache. Ist allerdings auch etwas kostenintensiver als die Verlegung im offenen Graben. Das war jetzt dann auch der letzte Punkt in unserer Präsentation.
+
+(0:24:45 - 0:24:57)
+Wir sind drei Minuten vor elf. Ich bedanke mich für die Teilnahme und freue mich aufs nächste Mal. Ich wünsche ein schönes Wochenende später und wir sehen uns wieder. 
+
+Bis bald. Tschüss.

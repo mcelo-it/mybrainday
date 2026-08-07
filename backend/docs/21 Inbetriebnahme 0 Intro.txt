@@ -1,0 +1,29 @@
+(0:00:00 - 0:00:17)
+Projektgröße, gearbeitet, viel Emotionen, Herzblut und Arbeitsteit reingesteckt in die Planung und Errichtung von so einer PV-Anlage. Und jetzt kommt es endlich zur Inbetriebnahme. Natürlich finde ich alle unsere Schulungseinheiten grandios.
+
+(0:00:17 - 0:00:42)
+Aber wenn ich gezwungen wäre, einen Lieblingseinheit mir rauszusuchen, dann wäre es die heutige, die Inbetriebnahme. Das macht einfach meiner Meinung nach viel Spaß, um zu sehen, ob das hoffentlich alles so ineinander greift, wie man sich das vorgestellt hat, und ob am Ende auch Strom rauskommt. Wir gucken uns an, heute, die folgenden Themen.
+
+(0:00:43 - 0:00:59)
+Erst mal, wie gewohnt, warum. Ich frage nicht, warum Inbetriebnahme, weil ich glaube, diese Frage beantwortet sich nun wirklich von selbst. Ich frage mehr, warum ist es so wichtig, dass man sich da sehr viele Gedanken drüber macht, wie eigentlich so eine Inbetriebnahme abläuft.
+
+(0:00:59 - 0:01:26)
+Werdet ihr dann sehen, das erklären wir kurz und motivieren auf diese Weise ja wieder für die heutige Schulungseinheit. Dann ist es tatsächlich so, dass unsere Bibel, nennen wir sie ja immer so gerne, die VDE ARN 4110 oder 20 oder 05 oder 30, je nach Spannungsebene, sich dazu auch Gedanken gemacht hat, wie so eine Inbetriebnahme ablaufen soll. Sicherlich aus einer anderen Perspektive und in einem ganz anderen Detailgrad, als wir das machen.
+
+(0:01:26 - 0:01:44)
+Aber weil die ja nun mal so wichtig ist für uns, diese Richtlinie, haben wir uns das rausgenommen, wie die, die die Inbetriebnahme definiert. Dann bastle ich alle Puzzleteile, die ich in all meinen Arbeitsjahren mal so zusammen sammeln konnte, zu diesem Kontext in einen Ablaufplan hinein. Das ist dann ein Beispiel.
+
+(0:01:45 - 0:01:57)
+Da kann man, glaube ich, sehr, sehr viel rausziehen für seine eigenen Projekte und muss das am Ende aber projektspezifisch anpassen. Die Grundlogik ist trotzdem ganz deutlich, glaube ich, daraus erkennbar. Und wir machen das eigentlich wie immer.
+
+(0:01:57 - 0:02:12)
+Wir machen das halt an einem konkreten Fallbeispiel. Dann gibt es ein Kapitel Schalthandlung und Elektrosicherheit. Das gehört hier mit rein, ist aber ein in sich sehr, sehr großes, sehr umfänglich und unglaublich wichtiges Schulungsthema an sich.
+
+(0:02:12 - 0:02:30)
+Deswegen geht es hier da nur um grundlegende Anforderungen, die man da stellen sollte an die Sicherheit bei so einer Inbetriebnahme. Natürlich steht sie immer an erster Stelle und erst danach kommen andere, vielleicht zum Beispiel kommerzielle Zwänge. Dann gucken wir uns eine Schaltsequenz an.
+
+(0:02:31 - 0:02:51)
+Das erklärt sich dann, glaube ich, besser an dem realen Beispiel, das ich da zeige. Die Idee ist die, dass man mal aus Sicht so eines Inbetriebnahmepersonals vor Ort sich überlegt, welchen Schalter ich tatsächlich in welcher Reihenfolge dann einschalte. Und zu guter Letzt mein absoluter Favorit.
+
+(0:02:51 - 0:03:02)
+Wir haben eine Inbetriebnahme in einem virtuellen Raum vorbereitet. Da kann dann jeder selber mit reinspringen. Jeder selber auf Knöpfe drücken und wird dann auch selbst feststellen, wie kompliziert das am Ende eigentlich ist.

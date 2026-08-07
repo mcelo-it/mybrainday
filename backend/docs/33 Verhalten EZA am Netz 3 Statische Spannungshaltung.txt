@@ -1,0 +1,323 @@
+(0:00:00 - 0:00:20)
+Und jetzt, ich hatte es schon vorangekündigt, die beiden Warm-up-Kapitel, Warum und Allgemeines, sind jetzt durch. Jetzt schauen wir uns die statische Spannungshaltung an. Ja, und da wird es jetzt wirklich detailliert, interessant, technisch interessant, was es da eben für Maßnahmen gibt.
+
+(0:00:20 - 0:00:43)
+Hier begleitet uns das grüne Icon mit der statischen, mit der stehenden Person, wird mitgeführt. Und wir springen mal rein und schauen, was die 4110 hier zu bieten hat. Also das Kapitel 10.2.2, da sind wir ja jetzt, gliedert sich mal wieder unter und gibt wieder allgemeine Rahmenbedingungen vor, die eben für dieses Unterkapitel erst mal gelten.
+
+(0:00:45 - 0:01:13)
+Also dieses Kapitel sagt erst mal ganz grundsätzlich, ganz allgemein, statische Spannungshaltung, genau, weil wir sind bei Spannungshaltung, dass wir mit unserer PV-Anlage erst mal Blindleistung zur Spannungshaltung bereitstellen müssen. Erst mal ein ganz allgemeiner Satz, wie, wie viel, wie lange und warum, das folgt später noch. So, Ausgleich langsamer, quasi stationärer Spannungsänderung, dem dient das Ganze.
+
+(0:01:14 - 0:01:48)
+Also wenn wir da Änderungen im Netz sehen in der Spannung, die Spannung geht hoch, die Spannung geht runter, langsame Vorgänge, dann sollen wir mit unserer statischen Spannungshaltung dafür sorgen, dass das in einer Balance bleibt, dass wir da nicht zu schnell gegenregeln, aber auch nicht zu langsam, sondern dass wir eben immer in diesen Plus, Minus 10 Prozent spätestens bleiben. Besser natürlich deutlich drunter. Und deshalb sind das langsame, vorsichtige Ausgleichsvorgänge, die wir da über die Blindleistungseinspeisung versuchen zu realisieren.
+
+(0:01:49 - 0:02:00)
+Sollwerte sollen in vier Minuten angefahren werden. Ja, das ist erst mal ein langsamer Prozess, der hier passiert. Vier Minuten, das ist ganz entspannt, würde ich mal sagen.
+
+(0:02:00 - 0:02:27)
+Aber das hängt auch damit zusammen vielleicht, dass in so einem großen Netz einfach keine ganz abrupten Vorgänge hinsichtlich der statischen Spannungshaltung passieren, sondern es schalten wahrscheinlich überall im Netz mal mehr oder weniger Firmen oder Abnehmer ihre Maschinen ein, die vielleicht mehr oder weniger Blindleistung brauchen. Das heißt, es geht langsam hoch, langsam runter. Und deshalb können wir da auch relativ langsam gegenarbeiten und versuchen, die Spannung zu halten.
+
+(0:02:28 - 0:02:46)
+Vier Minuten ist aus elektrotechnischer Sicht ein sehr großer Zeitraum. Demgegenüber stehen dann später in anderen Kapiteln eben die dynamischen Vorgänge, die viel, viel, viel schneller ablaufen müssen. Vier Blindleistungsverfahren werden jetzt hier unter Allgemeinem erst mal ganz grob angerissen.
+
+(0:02:46 - 0:02:53)
+Erst mal nur, dass es die gibt. Was das für Verfahren sind, da kommen wir später im Detail drauf. Aber es gibt erst mal die QvonU-Kennlinie.
+
+(0:02:54 - 0:03:04)
+Das Icon zeigt euch auch schon, wie die Kennlinie aussieht. Später im Detail kriegt ihr das in groß und was da wirklich dahinter steckt. Also QvonU ist Blindleistung, Abhängigkeit in Abhängigkeit von der Spannung.
+
+(0:03:04 - 0:03:21)
+Dann gibt es QvonP, also wir müssen Blindleistung einspeisen in Abhängigkeit von der erzeugten Wirkleistung. Dann gibt es noch Blindleistung mit Spannungsbegrenzungsfunktion. Also wir müssen auch Blindleistung einspeisen, abhängig von der Spannung.
+
+(0:03:21 - 0:03:31)
+Ist aber ein bisschen anders als die QvonU-Kennlinie. Und zum Schluss gibt es dann noch den Verschiebungsfaktor Cosinus-Phi. Ist vielleicht erst mal das simpelste Modell.
+
+(0:03:31 - 0:03:46)
+Also man sagt einfach, Cosinus-Phi muss zum Beispiel immer 0,95 sein. Dann hat man immer eine Blindleistung im Verhältnis zur eingespeisten Wirkleistung. Da sitzt dann nicht allzu viel Intelligenz hinter diesem Regelungsverfahren.
+
+(0:03:47 - 0:04:05)
+Ich sehe es ehrlich gesagt auch nicht so häufig. Aber es ist vermutlich erst mal das leichteste Verfahren, einfach fest so ein Cosinus-Phi einzustellen, sodass man immer das gleiche Verhältnis aus Wirk- und Blindleistung hat. So, dann hätten wir die allgemeinen Rahmenbedingungen erst mal hinter uns.
+
+(0:04:05 - 0:04:23)
+Und jetzt geht es in die Blindleistungsbereitstellung bei PBinst. PBinst, das ist erst mal die in Betrieb befindliche Wirkleistung. Und hier sage ich es auch gleich vorab schon mal, für mich ist das, ehrlich gesagt, innerhalb der gesamten Norm manchmal ein bisschen schwierig wirklich zu greifen.
+
+(0:04:24 - 0:04:51)
+Was ist jetzt genau gemeint? Welche Bezugsgröße verwenden wir jetzt? Ist es PBinst? Ist es PAVE? Ist es Pinst? Hier in dem Kapitel wird es zumindest erst mal gröber oder feiner definiert. Wenn PBinst größer ist als PAVE, dann ist PAVE die Bezugsgröße. Dann ist es nicht PBinst, also nicht das, was sich in Betrieb befindet.
+
+(0:04:52 - 0:05:04)
+Wir versuchen es mal darzustellen, dass es ein bisschen leichter ist. Wir haben ein Beispiel gebaut mit zwei Wechselrichtern, PV-Anlage, zwei Wechselrichter und einer Übergabestation. Und an der Übergabestation haben wir jetzt ein PAVE.
+
+(0:05:04 - 0:05:19)
+Das ist die vertraglich vereinbarte Anschluss-Wirkleistung für die Einspeisung. Sperriges Wort, aber das, was wir tatsächlich ins Netz einspeisen dürfen, wird da definiert. Und unsere PV-Anlage hat meinetwegen 2 Megawatt in Betrieb befindliche Wirkleistung.
+
+(0:05:20 - 0:05:41)
+Also diese zwei Wechselrichter machen 2 Megawatt oder können 2 Megawatt machen. Wir haben aber eben am Netzanschlusspunkt eine Limitierung unserer Anschlussleistung auf 1,5 Megawatt. Das hieße, für den Netzbetreiber ist jetzt nicht dieses PBinst maßgeblich beziehungsweise für diese ganzen Regelverfahren, sondern eben das, was wir am Netzanschlusspunkt einspeisen dürfen.
+
+(0:05:42 - 0:06:06)
+Also Bezugsgröße wird dann diese 1,5 Megawatt. Und aus meiner Sicht ist das auch perspektivisch immer wichtiger, weil die Netzanschlusskapazitäten im Netz, im Mittelspannungsnetz, sind irgendwo begrenzt. Und wir fangen an, immer stärker diese Netzanschlusspunkte zu überbauen, immer mehr Wirkleistung anzuschließen, aber trotzdem limitiert zu sein auf die Netzanschlusskapazität.
+
+(0:06:07 - 0:06:28)
+Und dann beziehen sich eben alle Blindleistungsanforderungen auf die Kapazität, die wir am Netzanschlusspunkt liefern dürfen, also auf das PAVE. So, jetzt gibt es auch noch Grenzen für statische Spannungshaltung. Wir nehmen den Begriff mal mit, dafür brauchen wir eine neue Folie, um mal die Grenzen für die statische Spannungshaltung zu definieren.
+
+(0:06:29 - 0:06:42)
+Also wieder ein Diagramm. Das ist für uns Techniker immer die leichteste Möglichkeit, solche Zusammenhänge darzustellen. Auf der Y-Achse seht ihr dann wieder die Netzspannung im Verhältnis zur vereinbarten Netzspannung.
+
+(0:06:43 - 0:07:00)
+Und auf der Y-Achse, da sehen wir die Blindleistung im Verhältnis zur Wirkleistung. Da könnte man auch Kosinus-Phi dran schreiben, das wäre das Äquivalent aus meiner Sicht. Bei 0,0 hätte man Kosinus-Phi von 1 und bei 0,33 untererregt oder übererregt.
+
+(0:07:01 - 0:07:33)
+Das wäre der Kosinus-Phi von 0,95, das würde dem entsprechen. Und die Norm sagt jetzt erst mal, wenn wir uns oben links den Punkt angucken, bei 10% Überspannung, also wenn die tatsächlich gemessene Spannung 10% höher ist als das, was wir vereinbart haben, dann müssen wir tatsächlich ein Kosinus-Phi von 0,95 untererregt liefern beziehungsweise ein Q von P-Verhältnis von 0,33. Also, wir sind oben links, die Spannung ist 110%.
+
+(0:07:33 - 0:07:43)
+Wir müssen dann voll untererregt einspeisen können. Das heißt im Grunde genommen, spannungsenkend wirken müssen. Das macht natürlich Sinn, die Spannung ist hoch.
+
+(0:07:43 - 0:08:20)
+Wir müssen dann spannungsenkend wirken mit unserer PV-Anlage, um dem Netz ein bisschen zu helfen, dass die Spannung möglichst wieder auf die 1,0 oder 100% Netzspannung zurückkommt. Wenn wir dagegen den Teil oben rechts uns mal ansehen, da müssen wir nur bis 7,5% Überspannung voll Blindleistung einspeisen können, weil es macht an der Stelle auch wenig Sinn, noch weiter spannungshebend zu wirken, wenn wir ohnehin schon in der Überspannung sind. So ist ein bisschen das Diagramm aufgebaut im oberen Bereich und im unteren Bereich ist es dann im Prinzip genau gedreht.
+
+(0:08:20 - 0:08:44)
+Wenn wir bei Unterspannung sind, bei 90%, dann müssen wir natürlich spannungshebend wirken können, voll spannungshebend und spannungsenkend. Da ist dann die Grenze schon bei 92,5% gesetzt. Dann sind da die Anforderungen nicht mehr so groß, weil es ja auch tatsächlich wenig Sinn macht, ein Netz, was ohnehin schon wenig Spannung hat, noch weiter spannungsenkend zu belasten.
+
+(0:08:45 - 0:09:01)
+Das sind die Grenzwerte, die müssen wir einhalten. Und hier der wichtige Hinweis, Wirkleistungsreduzierung zugunsten der Blindleistungsanforderung ist zulässig. Also in der 4110 dürfen wir, wenn eine Blindleistung gefordert wird, unsere Wirkleistung anpassen.
+
+(0:09:01 - 0:09:32)
+Und das ist der große wichtige Punkt, dass wir aufgrund von diesem Blindleistungsverhalten eben nicht in eine dauerhafte Wirkleistungsreduzierung fahren müssen, sondern, wie vorher gesagt, der quasi stationäre Betrieb, der ist hier unser großes Problem, der dafür sorgt, dass wir die Wirkleistung dauerhaft reduzieren müssen, nicht die Blindleistung. Jetzt habe ich es, glaube ich, oft genug gesagt. So, 10.2.2.3, Blindleistungsbereitstellung unterhalb von PBInst.
+
+(0:09:32 - 0:09:53)
+Ja, genau, wir hatten eben PBInst, das war der Nennenbetrieb. Alle Wechselrichter, die sich in Betrieb befinden, müssen dann dazu beitragen. Wenn wir jetzt aber in einem anderen Betriebsbereich uns befinden, der vielleicht nicht auf Nennenbetrieb ausgelegt ist, er nicht im Nennenbetrieb ist, sondern im Teillastbereich, dann gelten erst mal andere Grenzwerte.
+
+(0:09:55 - 0:10:13)
+Und die sehen wir jetzt genau hier. Ja, also wir haben auf der Y-Achse wieder dieses Übererregt, Untererregt, also das Verhältnis von Q zu P, von Blind zu Wirkleistung. Und auf der Y-Achse ist es dann eben die gerade momentane Wirkleistung, die unsere Anlage erzeugt.
+
+(0:10:13 - 0:10:37)
+Und ihr seht das da schon, wenn ihr unter 20 % Wirkleistung lauft, dann ändern sich die Anforderungen. Dann sagt hier die 4110, ihr müsst dann nicht mehr voll Blindleistung bereitstellen können, sondern dann wird es ein bisschen abgeflacht zwischen 20 und 10 %. Und unter 10 %, dann gibt es tatsächlich gar keine Anforderungen mehr. Also da könnt ihr nicht machen, was ihr wollt.
+
+(0:10:37 - 0:10:51)
+Es gibt im Detail dann noch Anforderungen, die haben wir hier aber weggelassen. Wenn es denn mal dazu kommt, schaut da gerne nochmal tiefer rein. Aber erst mal ist das hier so gedacht, dass im unteren Leistungsbereich wirklich geringe Anforderungen gefordert werden.
+
+(0:10:51 - 0:11:07)
+Und das ist in der 4120 dann auch ein bisschen anders. Da muss man dann auch bei null Einspeisung Blindleistung in einem gewissen Rahmen halten, was dann wiederum zu anderen Maßnahmen führen würde. Aber das ist eben die 4120 und heute nicht unbedingt unser Thema.
+
+(0:11:08 - 0:11:23)
+Also 4110 sagt uns, im unteren Lastbereich weniger Anforderungen. So, Verfahren zur Blindleistungsbereitstellung. Ich hatte das eben schon vorweggenommen.
+
+(0:11:23 - 0:11:33)
+Es gibt diese Verfahren, wir haben sie euch auch schon ganz kurz gezeigt. Und wir kommen jetzt ein bisschen detaillierter darauf. Erst mal gilt generell, diese Verfahren, die gibt es.
+
+(0:11:33 - 0:11:42)
+Und die Verfahren müssen erst mal einem PT1-Verhalten entsprechen. Das haben bestimmt schon viele gehört. PT1-Verhalten, Dreitau, das sind da so Begriffe, die sich rumschwüren.
+
+(0:11:42 - 0:11:55)
+Aber erst mal wollen wir dann versuchen zu klären, was ist denn überhaupt ein PT1-Verhalten? Für Regelungstechniker ist das, glaube ich, relativ klar. Die haben das im Studium gelernt. Für mich, ehrlich gesagt, war das nicht immer von Anfang an klar, was denn jetzt PT1-Verhalten ist.
+
+(0:11:56 - 0:12:07)
+Aber es geht grundsätzlich erst mal darum, dass man in so einem Regelungskreis hat man halt Sollwertsprünge. Die kommen halt, da sagt irgendwer, ich will jetzt 100 Prozent. Das ist dann ein Sprung, das kommt sofort.
+
+(0:12:08 - 0:12:19)
+Die Anfrage ist halt, schick mir 100. Von 0 auf 100, schick mir 100. Und so einem Verhalten kann im Grunde genommen kein träges System oder keine elektrische Einheit folgen.
+
+(0:12:19 - 0:12:32)
+Wir können nicht von 0 auf 100 springen mit unseren Wechselrichtern, ohne dass es irgendwo schwingt, ohne dass man irgendwo langsam Sachen anfährt. Das geht nicht, das ist gar nicht möglich. Und deshalb wird definiert, dass wir eben einem PT1-Verhalten folgen sollen.
+
+(0:12:32 - 0:12:50)
+Und ein PT1-Verhalten sieht dann ungefähr so aus. Also es kommt der Sollwertsprung, die gestrichelte gelbe Linie, und das PT1-Verhalten ist dann eben in etwa so eine Kurve, die erst ein bisschen schneller steigt. Also bei einem Sollwertsprung, dann versuchen wir auch erst mal schnell loszulaufen und schnell 100 Prozent zu erreichen.
+
+(0:12:50 - 0:13:22)
+Und wenn wir uns dem 100 Prozent eben annähern, dann flacht die Kurve oben so ganz langsam ab, bis wir dann tatsächlich die letzten paar Prozent, für die brauchen wir dann verhältnismäßig lange, beziehungsweise da nähern wir uns dann relativ langsam an. Weil das hat dann den Vorteil, dass wir nicht so sehr überschwingen am Ende, sondern dass wir uns da tatsächlich langsam annähern. Würden wir diesen Prozess viel, viel schneller machen, würden wir wahrscheinlich erst mal diesen Sollwert überschwingen und dann wieder uns da so von oben annähern müssen.
+
+(0:13:23 - 0:13:42)
+PT1-Verhalten macht das eben so, dass man sich von unten nähert und dann eben möglichst wenig überschwingt. Jetzt hat der Netzbetreiber die Möglichkeit, für dieses PT1-Verhalten eine Geschwindigkeit noch vorzugeben. Was kann er machen? Also die Vorgabe ist erst mal aus der Norm, es muss möglich sein, das von 6 bis 60 Sekunden einzustellen.
+
+(0:13:42 - 0:13:59)
+Und diese Zeit, die gilt dann eben für 3 Tau. Also wenn man jetzt in diese Grafik guckt, dann gilt die nicht für den ganz letzten Bereich, wo wir dann wirklich genau den Wert erreicht haben, sondern es wird ein 3 Tau definiert. Und das zeigen wir euch gleich in der Grafik.
+
+(0:13:59 - 0:14:12)
+Und wenn der Netzbetreiber jetzt keine Vorgaben macht, dann können wir erst mal sagen, 3 Tau gleich 10 Sekunden. Das liegt jetzt in der Grafik genau auf dieser Position. 10 Sekunden, den Wert haben wir da mal rausgesucht.
+
+(0:14:12 - 0:14:28)
+Das ist jetzt hier genau eine PT1-Kennlinie mit 3 Tau. Das ist nicht zufällig, das haben wir genau so reingezeichnet. Und diese 10 Sekunden für 3 Tau sind eben definiert mit, wir erreichen 95 Prozent unseres Sollwertes.
+
+(0:14:28 - 0:14:54)
+Also wenn wir 95 Prozent unserer Regelsollwerts haben, dann gelten 3 Tau und das sind eben diese 10 Sekunden. So, jetzt gibt es genau diese Regelungszeit und maximal, sagt hier diese Norm auch noch, maximal 4 Minuten bei Verfahrensumschaltung. Wenn ein Verfahren umgeschaltet wird, dann müssen wir mindestens 3 Tau brauchen, aber maximal 4 Minuten für diese Regelung.
+
+(0:14:55 - 0:15:08)
+So, 1 Tau haben wir euch auch noch mal gezeigt, weil das einfach physikalisch so mit dazugehört. Das wären dann hier 3,3 Sekunden. Hier hinter mir die Kennlinien, kann ich gerne vorstehen bleiben, weil wir die ja eben schon hatten, wir verschieben die jetzt auch.
+
+(0:15:08 - 0:15:20)
+Das sind die vier Kennlinien aus der Norm, die schauen wir uns jetzt mal im Detail an. Wir starten mit der QvonU-Kennlinie. Das ist aus meiner Sicht eine Kennlinie, die man bei ganz, ganz vielen Projekten sieht.
+
+(0:15:21 - 0:15:43)
+Es ist meistens so, dass sich ein Netzbetreiber so ein bisschen auf eine Kennlinie stürzt, der sich dann fast nur vielleicht zum Beispiel QvonU-Kennlinie macht. Wir wollen jetzt einfach mal schauen, wie diese QvonU-Kennlinie definiert ist. Der Netzbetreiber sagt euch das, bitte QvonU, und er gibt euch dann auch im E9-Bogen diese Stützpunkte an.
+
+(0:15:44 - 0:16:16)
+Stützpunkte im Sinne von, wir gucken es uns jetzt an, vielleicht ist es dann leichter zu erklären, für diese QvonU-Kennlinie wäre jetzt zum Beispiel der erste Stützpunkt den, den wir jetzt sehen in der Grafik, also 1,0 Spannung, die Netzspannung ist auf 100 %, dann brauchen wir ein Kosinus-V-von-1, weil dann haben wir auf der Y-Achse Q von Pbinst hier in dem Fall, ist dann eben 0, das heißt Kosinus-V-von-1. Wir brauchen keine Blindleistung, weil das Netz ist genau bei 100 %, da müssen wir nichts machen. Jetzt steigt aber die Spannung im Netz an.
+
+(0:16:16 - 0:16:41)
+Wir gehen mal hoch auf 104 % und das ist auch tatsächlich ein üblicher Wert. Das wäre dann der zweite Stützpunkt, so nennt man das, und der ist jetzt bei 1,04 und dann wäre eben das Q-von-P-Verhältnis 0,33 beziehungsweise äquivalenten Kosinus-V-von-0,95. Hier zeigen wir es mal, dann sind wir ja auch innerhalb der oder schon am Rande von dem, was wir überhaupt bereitstellen müssen.
+
+(0:16:41 - 0:17:03)
+Dieses 0,33 waren ja unsere Rahmenbedingungen, die wir vorher in dem Kapitel definiert hatten. Also 100 % Netzspannung, keine Blindleistung. Bei 104 % Netzspannung, da müssen wir tatsächlich schon jetzt unsere volle Blindleistung zur Verfügung stellen können und dann kann auch die Spannung noch ein bisschen höher gehen, aber da müssen wir mit unserer Blindleistung nicht noch mehr liefern.
+
+(0:17:04 - 0:17:31)
+Da können wir dann eben bei diesem Kosinus-V-von-0,95 oder dem Q-von-P-Verhältnis von 0,33 im Grunde genommen konstant bleiben. Diese beiden Stützpunkte 100 und 104 %, die würden jetzt, meine ich, schon ausreichen, um diese Kurve im Gesamten zu definieren. Man hat dann den oberen Punkt, man hat den mittleren Punkt, man kennt daraus die Steigung und wenn man jetzt diese Kurve zurückläuft und der Steigung weiterfolgt, dann findet man auch den unteren Punkt.
+
+(0:17:32 - 0:17:49)
+Der ist dann bei 96 % der Netzspannung. Jetzt brauchen wir eben negative Blindleistung. Q-von-P-Verhältnis ist jetzt auf minus 0,33 reduziert und dann sind wir auch da bei unserem unteren Limit, also die Netzspannung sinkt.
+
+(0:17:49 - 0:18:09)
+Wir müssen spannungsstützend wirken. Das tun wir auch an der Stelle schon mit dem, was wir wirklich können, was wir können müssen. Und dann dürfen wir ab dem Punkt dann auch wirklich konstant diese Blindleistung dem Netz zur Verfügung stellen und dann muss das Netz eben von selbst sehen, wie es wieder auf 100 % Netzspannung kommt.
+
+(0:18:10 - 0:18:28)
+Wir haben dann getan, was wir können. So, jetzt gibt es eine weitere Möglichkeit für den Netzbetreiber. Er kann sagen, wenn ich möchte, wenn es notwendig ist, dann kann ich auf meiner Fernwirktechnik auch über meine Fernwirkanlage euch einen Befehl schicken und dann möchte ich, dass ihr diese Kennlinie verschiebt.
+
+(0:18:28 - 0:19:10)
+Dann wäre eben der neue Punkt U0 zu UC nicht mehr 1, sondern er kann dann diese gesamte Linie seitlich verschieben und kommt dann eben auf ein Schickt uns im Grunde genommen den Befehl U0 zu UC gleich 0,98 und dann schiebt sich unsere Kennlinie einfach ein bisschen nach links auf dieser X-Achse und wir würden im Grunde genommen bei geringerer Netzspannung noch einen COSYN 4 von 1 liefern. Also wir würden dann tendenziell eher weniger Blindleistung in der einen Richtung, dafür mehr Blindleistung in der anderen Richtung liefern. Das ist hier das Handwerk oder das Werkzeug, was der Netzbetreiber dann noch verwenden kann.
+
+(0:19:10 - 0:19:35)
+Diese Linie muss verschiebbar sein. So, wir kommen zur Q von P-Kennlinie. Das ist ein bisschen einfacher, wie ich finde, oder einfacher umzusetzen, weil die dann eben nur von der Einspeiseleistung von uns abhängig ist und wir müssen eben nicht die Spannung irgendwo am Netzanschlusspunkt messen, sondern wir können schauen, was machen wir, was erzeugen wir und so viel Blindleistung müssen wir dann eben auch ins Netz speisen.
+
+(0:19:35 - 0:20:01)
+Also wir sehen das dann erst mal auf der X-Achse, ja, minus 100 Prozent. Wir sind hier im Verbraucherzählfeilsystem, deshalb ist unsere eingespeiste Wirkleistung erst mal negativ und minus 1,0 heißt eben, wir speisen voll ein, 100 Prozent Wirkleistungseinspeisung. Und auf der Y-Achse sehen wir dann eben wieder dieses Verhältnis von der Blind- zur in Betrieb befindlichen Wirkleistung.
+
+(0:20:02 - 0:20:20)
+So, wir starten dann oben links in der Ecke, also 100 Prozent Wirkleistung. Und jetzt ist diese Kennlinie, diese Q von P-Kennlinie, haben wir erst mal frei definiert. Ich glaube, im E9-Bogen hat der Netzbetreiber tatsächlich zehn Punkte, glaube ich, zehn Stützpunkte, die er definieren kann.
+
+(0:20:20 - 0:20:34)
+Also er kann da wunderbare Kurven draus basteln mit zehn Punkten. Wir haben nicht zehn gewählt, ein bisschen weniger, ist aber, glaube ich, ein tatsächlich realistisches Beispiel, was wir jetzt haben. Also man würde bei voller Einspeisung erst mal volle Blindleistung fordern.
+
+(0:20:35 - 0:20:57)
+Das heißt, wir gehen mal davon aus vielleicht, dass bei voller Einspeisung in das Netz vielleicht die Netzspannung auch ein bisschen höher geht. Das heißt, wir würden jetzt versuchen, erst mal spannungsenkend zu wirken, damit wir die Netzspannung nicht weiter anheben. Deshalb sind wir oben bei dem Punkt 100 Prozent Wirkleistung und dann auch volle Blindleistung.
+
+(0:20:58 - 0:21:14)
+Und den fahren wir bis ungefähr 90 Prozent. Das wäre dann der nächste Stützpunkt, den wir so im E9-Bogen finden würden. Und ab da sagt jetzt unser Netzbetreiber, bis 60 Prozent könnt ihr gerne dann die Blindleistung reduzieren auf, ja, ich denke, das sind ungefähr 5 Prozent.
+
+(0:21:15 - 0:21:27)
+Der tatsächliche Wert ist jetzt gar nicht wichtig. Es geht ja eher darum, dass man hier sieht, wie diese Kurven definiert und aufgebaut sind. Und ab 60 Prozent gehen wir auf 50 Prozent und dann braucht ihr gar keine Blindleistung mehr bereitstellen.
+
+(0:21:28 - 0:21:41)
+Zwischen 50 und 10 Prozent könnt ihr gerne das so machen. Kursen ist 4 gleich 1. Und unter 10 Prozent sind die Anforderungen dann nicht definiert. Da gibt es dann keine Angaben.
+
+(0:21:41 - 0:21:52)
+Das ist dann wieder diese Wirkleistungsgrenzen, die wir am Anfang gesehen haben. Deshalb wird da gar nichts angegeben, weil es da keine Anforderungen gibt. Hier gibt es noch ein Toleranzband.
+
+(0:21:52 - 0:22:05)
+Zwei Prozent definiert die Norm. In dem muss dann eben diese Regelung sich verhalten. Und wir haben dann hier nochmal diese Grenzen, die wir ja vorher vielleicht ein bisschen gedreht schon gesehen haben.
+
+(0:22:05 - 0:22:18)
+Ja, und unter 10 Prozent ist das dann eben nicht definiert. Da gibt es keine Anforderungen. Irgendwo in diesem grauen Bereich müssen wir uns mit dieser Q-von-P-Kennlinie befinden.
+
+(0:22:18 - 0:22:26)
+Außerhalb gibt es für uns keine Anforderungen. Untererregt, übererregt ist jetzt nochmal drin. Also untererregt ist Erspannung senkend.
+
+(0:22:26 - 0:22:38)
+Übererregt ist Erspannung stützend. Das entscheidet für uns der Netzbetreiber, wie wir das hier machen sollen. So, jetzt gibt es die Blindleistung mit Spannungsbegrenzungsfunktion.
+
+(0:22:39 - 0:22:55)
+Die ist also etwas ähnlich, würde ich sagen, zu der Q-von-U-Kennlinie, unterscheidet sich aber schon nochmal im Detail. Die Q-von-U-Kennlinie regelt ja relativ schnell sofort mit und versucht gleich, Spannungsschwankungen auszugleichen. Die Blindleistung mit Spannungsbegrenzungsfunktion ist dann ein bisschen anders.
+
+(0:22:55 - 0:23:04)
+Die Achsenbezeichnung ist erst mal gleich. Auf der X-Achse sehen wir die Spannung, auf der Y-Achse die Blindleistung. Und wir starten die Kennlinie jetzt auch einfach in einer anderen Ecke.
+
+(0:23:05 - 0:23:21)
+Also wir starten hier nicht im Spannungspunkt von 0, sondern wir starten mal unten links, also bei einer Spannung von kleiner 94% bis 94%. Und da müssen wir jetzt erst mal die volle Blindleistung bereitstellen. So ist es definiert hier in unserem Beispiel.
+
+(0:23:21 - 0:23:34)
+Das ist der erste Stützpunkt, den wir auch im E9-Bogen dann genannt bekommen würden. Und dann gibt es erst mal eine Steigung in dieser Kurve bis zum Beispiel 96%. Definiert wieder vom Netzbetreiber, der sagt uns das tatsächlich.
+
+(0:23:35 - 0:23:52)
+Und ab 96% sagt jetzt diese Blindleistungskennlinie mit Spannungsbegrenzungsfunktion, jetzt müsst ihr erst mal gar nicht so viel machen. Also zwischen 96% und 104% haben wir hier im Grunde genommen viele Freiheiten. Nein, wir haben nicht viele Freiheiten.
+
+(0:23:52 - 0:24:08)
+Wir sollen Kosinus-4 von 1 einspeisen. Das ist hier unsere Vorgabe, also es ist eigentlich keine Freiheit, sondern die Anforderung ist vielleicht nicht so groß. Kosinus-4 von 1. Das hat jetzt für den Netzbetreiber vielleicht erst mal ein bisschen den Vorteil, er kann selbst erst mal schauen, wie er in diesem Bereich die Spannung ausgleicht.
+
+(0:24:09 - 0:24:26)
+Man muss jetzt nicht damit rechnen, dass ganz viele Solaranlagen schon mitmachen in der Regelung. Hier will der Netzbetreiber erst mal für sich selbst sorgen, dafür Sorge tragen, dass er seine Spannung in Grenzen hält. Und erst wenn wir eben über 104% kommen beispielsweise, dann sagt er PV-Anlagen, bitte macht mit, helft mir.
+
+(0:24:26 - 0:24:34)
+Jetzt habe ich es vielleicht nicht mehr so ganz unter Kontrolle, so ganz alleine. Jetzt brauche ich diese ganzen Tausenden von Einspeisern. Jetzt müsst ihr mir helfen, die Spannung zu drücken.
+
+(0:24:35 - 0:24:54)
+Und dann machen wir das auch bis zu dem Punkt 0,33q zu p. Und dann schaffen wir es hoffentlich gemeinsam, die Netzspannung wieder unter diese 104% zu schieben. Und dann können wir mit unserer PV-Anlage auch wieder den Kosinus-4 von 1 einstellen. So ist gedacht.
+
+(0:24:54 - 0:25:08)
+Das ist hier der letzte Stützpunkt, den man dann genannt bekommt. Die können alle ein bisschen variieren. Also auch die Steigung im Überfrequenzbereich oder im Unterfrequenzbereich kann man ein bisschen anpassen oder kann der Netzbetreiber ein bisschen anpassen, sodass es eben für ihn, für sein Netz sinnhaft ist.
+
+(0:25:10 - 0:25:21)
+So, genau. Hier auch möglich für den Netzbetreiber, er kann diese Kennlinie verschieben, genauso wie bei der QvonU-Kennlinie. Nur hier geht es eben um die vertikale Verschiebung.
+
+(0:25:21 - 0:25:41)
+Er kann also dafür sorgen, dass bei einer, wenn ich jetzt den Nennspannungsbereich zwischen 96 und 104% definieren würde, dass in diesem Bereich schon dauerhaft Blindleistung bereitgestellt wird. Das kann er anfordern per Knopfdruck ungefähr. Und dann schalten unsere Fernwirkanlagen unsere Parkregler um.
+
+(0:25:42 - 0:26:07)
+Und dann würden wir eben bei 100% Netzspannung schon anfangen, dauerhaft Blindleistung einzuspeisen in diesem Bereich, in diesem Bereich, wo zum Beispiel der Netzbetreiber eben selbst regeln möchte. Und dann stützen wir sozusagen von vornherein ein wenig seine Spannung oder reduzieren seine Spannung von vornherein ein wenig. So, jetzt kommt die vierte Kennlinie.
+
+(0:26:07 - 0:26:26)
+In der Norm sind die durchnummeriert mit A, B, C, D. Also jetzt kommt Kennlinie D, das ist der Verschiebungsfaktor Cosinus Phi. Hatte ich am Anfang schon gesagt, der ist relativ simpel. Da geht es im Grunde genommen darum, dass wir unabhängig von der Netzspannung und unabhängig von der momentanen Einspeiseleistung ein Cosinus Phi bereitstellen müssen.
+
+(0:26:26 - 0:26:46)
+Also Y-Achse, seht ihr den Cosinus Phi auf der X-Achse, könnte jetzt sowohl die Spannung als auch die momentane Wirkleistung sein. Weil vom Grundsatz her ist der Cosinus Phi fest, unabhängig von diesen beiden Werten. Und wenn man Cosinus Phi von 1 einstellen würde, weil der Netzbetreiber uns jetzt gar keine Vorgaben gemacht hat, dann wäre das der Fall.
+
+(0:26:46 - 0:27:10)
+Dann würde die Linie hier liegen, wo jetzt die grüne Linie liegt. Wenn man jetzt aber eine andere Anforderung hat, beispielsweise 0,975, dann würde sich diese Cosinus Phi-Kennlinie eben nach dort oben verschieben und wir würden ständig ein Cosinus Phi von 0,975 fahren. Also immer das gleiche Verhältnis von Wirk- zu Blindleistung.
+
+(0:27:15 - 0:27:26)
+So, jetzt haben wir noch in diesem Kapitel, bevor es an die Pause geht, noch zwei Punkte. Also es gibt einmal die Erweiterung von Erzeugungsanlagen. Wir haben jetzt diese ganzen Kennlinien, diese Regelungsverfahren erst mal hinter uns.
+
+(0:27:27 - 0:27:48)
+Jetzt geht es noch darum, was machen wir denn eigentlich, wenn wir eine PV-Anlage erweitern? Das sehen wir häufig. Also sowohl Freiflächenanlagen kriegen gelegentlich mal eine Erweiterung als auch Dachanlagen. Und besonders, glaube ich, bei Dachanlagen ist das oft so, dass da in einem Industriekomplex mit einem Netzanschlusspunkt vielleicht noch ein Dach belegt wird und noch eins oder noch eine Erweiterung gebaut wird.
+
+(0:27:48 - 0:28:03)
+Und dann erst mal wichtig, ich habe das, ehrlich gesagt, auch für mich ein bisschen neu gelernt, Anforderungen sind dann nur für den neuen Anlagenteil zu erfüllen. Also die Zertifizierer wissen das natürlich, ihr könnt die fragen. Aber es ist natürlich auch schön, wenn ihr es selbst wisst.
+
+(0:28:04 - 0:28:22)
+Die Anforderungen jetzt, sagen wir, ihr habt einen ganz alten Anlagenteil, der vielleicht noch gar nicht nach der 4110 gebaut wurde und jetzt kommt ein neuer, dann gelten natürlich die Anforderungen für den neuen Anlagenteil. Aber eben nur für den neuen Anlagenteil. Der alte Anlagenteil genießt dann Bestandsschutz, den müsst ihr nicht nachrüsten, aufrüsten, das geht ja zum Teil gar nicht.
+
+(0:28:22 - 0:28:40)
+Dafür gibt es keine Einheitenzertifikate. Deshalb müsst ihr dann eben nur den neuen Teil erst mal berücksichtigen. Und das macht man dann im Grunde genommen, indem man anteilig an der Gesamtleistung am Netzanschlusspunkt dann zum Beispiel die Blindleistung bewertet oder die Blindleistung messen muss und bereitstellen muss.
+
+(0:28:40 - 0:28:55)
+Das ist natürlich eine Vereinfachung, weil sonst, glaube ich, hätte man Schwierigkeiten, Bestandsanlagen und neue Anlagen irgendwie zusammen zu kombinieren an einem Netzanschlusspunkt. Deshalb lässt uns hier die 4110 eben diese Freiheit. Mischanlagen mit Bezug.
+
+(0:28:56 - 0:29:08)
+Genau, schauen wir uns mal an, was gemeint ist. Wir haben eine Übergabestation, das ist jetzt hier unser blauer Bereich und beziehungsweise ist das hier unser Gesamtkomplex der Anlage. Das ist die Übergabestation, die wir hier sehen.
+
+(0:29:09 - 0:29:26)
+Die hat da eine Spannungsmessung und eine Blind- und Wirkleistungsmessung, und einen Leistungsschalter. Hinter dieser Übergabestation da hängt dann was Blaues. Das ist jetzt erst mal unsere Lasten und die 4110 sagt, dass wir diese Lasten erst mal gar nicht berücksichtigen müssen.
+
+(0:29:27 - 0:29:46)
+Das ist auch gut so, weil wir wissen ja in der Regel gar nicht, was für Lasten da so in dem Netz drin sind, wann es die Lasten gibt, ob es sie nachts oder tags gibt. Das könnten unsere Wechselrichter in der Regel dann auch gar nicht realisieren. Wenn da schwere Maschinen, große Maschinen in solchen Hallen sind, dann müssten wir die ja mit kompensieren und das ist nicht möglich.
+
+(0:29:46 - 0:30:24)
+Deshalb erst mal Lasten müssen wir nicht berücksichtigen, können wir rausnehmen, können wir raustrennen gedanklich. Wir lassen sie in dem Schema stehen. Und wenn jetzt unsere Produktion oder unsere Halle, die unten drin ist, mehr verbraucht, als unsere PV-Anlage liefert, und das ist hier mit dieser Formel so definiert, die installierte PV-Anleistung oder PBinst, in Betrieb befindliche PV-Leistung, muss kleiner sein als 50 Prozent der Bezugsleistung, dann lässt der Netzbetreiber zu, dass wir die Verfahren ein wenig anpassen.
+
+(0:30:25 - 0:30:47)
+Also das Verfahren Q von P und Q von Sphä, Q von Sphä war glaube ich D und Q von P war glaube ich B, diese zwei Verfahren, die dürfen wir jetzt vereinfacht umsetzen. Wir müssen jetzt nicht am Netzanschlusspunkt messen und einregeln, sondern wir dürfen hier die Messung anders aufbauen. Das sagt die Norm so, das ist hier keine besondere Kulanz vom Netzbetreiber, sondern die Norm gibt das vor.
+
+(0:30:47 - 0:31:02)
+Der Netzbetreiber muss natürlich mitmachen, der muss schon das genehmigen. Aber im Grunde genommen gibt euch das hier glaube ich ein gutes Handwerkszeug mit, diesen Punkt mal zu diskutieren. Ihr habt eine Halle, ja und wo sollen wir jetzt messen? Die Übergabestation, ja Mist, da gibt es keine Spannungswandler und so weiter.
+
+(0:31:02 - 0:31:43)
+Dann lasst uns noch auf Q von P einigen und dann könnt ihr im Grunde genommen in dem Verteilerschrank der PV-Anlage zum Beispiel mit einem Netzanalysegerät P und Q messen und dann eben vielleicht mit einem Korrekturfaktor noch regeln, sodass man dann rein rechnerisch am Übergabepunkt eben diese Blindleistung im Verhältnis zur Wirkleistung bereitstellen würde. Das hilft glaube ich ungemein bei Dachanlagen, wo es ja häufig wirklich schwierig und komplex ist, in bestehenden Infrastrukturen solche Regelungsverfahren aufzubauen. Für die anderen beiden Konzepte, also Q von U und Q mit Spannungsbegrenzungsfunktion, gibt es auch eine Vereinfachung.
+
+(0:31:44 - 0:31:55)
+Also erst mal ist es dann ja so gedacht, dass wir erst mal die Spannung messen müssen am Netzanschlusspunkt. Das ist schon häufig schwer genug. Häufig sind da vielleicht gar keine Spannungswandler.
+
+(0:31:55 - 0:32:06)
+Häufig hat man keine Verbindung von der Übergabestation zu den Hallen. Aber erst mal ist das die Vorgabe. Und der Regelungspunkt ist jetzt genauso wie bei dem Verfahren davor.
+
+(0:32:07 - 0:32:26)
+Den kann man jetzt trotzdem an der Erzeugungseinheit realisieren. Das heißt, wir wissen, welche Spannung an der Übergabestation anliegt. Und wir dürfen dann eben an unserem PV-Verteilerschrank, meinetwegen irgendwo im Gebäude, die Blindleistung messen und bereitstellen.
+
+(0:32:26 - 0:32:43)
+Das heißt, die Führungsgröße ist schon in der Übergabestation. Aber die Messung und Regelung, der Regelungskreis, ist im Grunde genommen in der Niederspannung irgendwo im Gebäude der Halle. Dazu kriegen wir noch eine Alternative hin, Variante 2. Auch das ist hier in der Norm vorgesehen.
+
+(0:32:43 - 0:33:32)
+Wenn man jetzt irgendwo im Mittelspannungsnetz eine bessere Möglichkeit findet, zum Beispiel die Spannung zu messen, auch dann wird das erlaubt oder auch dann ist das zulässig nach der Norm in Abstimmung mit dem Netzbetreiber, wenn rein rechnerisch der Spannungseinbruch oder der Spannungshub auf dieser Kabelstrecke kleiner 0,2 % ist. Dann beispielsweise kann man sich irgendwo auf dem Industriekomplex, Industriecampus, eine Stelle suchen, wo man die Spannung vielleicht leichter, einfacher messen kann, wo man leichter eine Verbindung, eine Datenleitung errichten kann von dem Netzanalysegerät zu unserem Regelungskreis, sodass man dann einfach diesen Punkt verschieben kann, so wie wir es im Schema gerade gesehen haben. So, das Kapitel statisch hätten wir jetzt erst mal gegriffen, denke ich.
+
+(0:33:32 - 0:33:46)
+Wir haben uns angeschaut, welche Regelvarianten es gibt. Wir füllen jetzt hier die Tabelle, also Q von U, Q von P, Q von U2 haben wir es genannt. Ja, das ist die Blindleistung mit Spannungsbegrenzungsfunktion und die Kosinus-Vieh-Regelung.
+
+(0:33:46 - 0:33:53)
+Das sind die vier Regelungen, die es gibt. Die Einstellung, die findet in der Regel im Parkregler statt. So kennen wir das.
+
+(0:33:53 - 0:34:17)
+Im Wechselrichter haben wir es auch schon mal gemacht, ist aber eher selten. Der Parkregler muss das umsetzen und der Befehl, der kommt in der Regel vollautomatisch, haben wir unterstrichen, das ist erst mal so. Die Leitwarte, da sind wir eben kurz darauf eingegangen, hat schon die Möglichkeit, noch einzugreifen, diese Kennlinien zu verschieben, aber in erster Linie sind diese Kennlinien erst mal vollautomatisch umzusetzen.

@@ -1,0 +1,221 @@
+(0:00:00 - 0:00:14)
+Das war erst mal das Kapitel Warum. Wir springen gleich weiter in die elektrischen Kenngrößen. Wenn hier vorwiegend Elektrotechniker zuhören, dann nehme ich an, sind das jetzt Grundlagen.
+
+(0:00:14 - 0:00:28)
+Ich finde, das macht nichts. Ich mache das jetzt auch schon länger und trotzdem finde ich es immer wieder interessant, mir das noch mal in Ruhe von der Basis aus anzugucken. Und wenn es dann hart auf hart in den Telkurs kommt, dann ist man einfach gewappnet und schneller.
+
+(0:00:28 - 0:00:45)
+Okay, wir gucken uns einmal die Kenngrößen von einem Solarmodul an und dann von einem Wechselrichter. Wir fangen mal an mit dem Solarmodul. Geht es gleich los mit einer Tabelle, die wir gleich gemeinsam ausfüllen und einer Kennlinie, die ihr gleich darüber sehen werdet.
+
+(0:00:45 - 0:01:00)
+Und in der Tabelle habe ich erst mal diese elektrischen Kenndaten Widerstand, Spannung, Strom und Leistung aufgeschrieben, weil im Endeffekt führt man immer alles auf diese vier Kenndaten zusammen. Und dann nehmen wir einen Betriebsfall. Das ist der sogenannte Leerlauf.
+
+(0:01:00 - 0:01:12)
+Den zeige ich jetzt auch gleich noch mal über mir. War ein bisschen klein, aber wer aufgepasst hat, hat es gesehen. Also an dem Plus und dem Minus Pool von dem Modul haben wir jetzt einen geöffneten Schalter als Symbol eingeführt.
+
+(0:01:12 - 0:01:17)
+Das ist der Leerlauf. Also Schalter ist geöffnet. Plus und Minus sind getrennt.
+
+(0:01:18 - 0:01:26)
+Führt dazu, dass der Widerstand unendlich ist. Also diese Luftbrücke dazwischen ist ein unendlicher Widerstand. Da haben wir auch Plus und Minus.
+
+(0:01:27 - 0:01:39)
+Genau, wir nennen das im Fachjargon Open Circuit Voltage, deswegen dieses OC. Und wir werden es jetzt die nächsten eine Stunde 55 mit UOC abkürzen. Also merken sich das bitte alle.
+
+(0:01:39 - 0:01:49)
+Da fliegt da rein die Spannung im Leerlauf. Das ist die Leerlauf Spannung UOC Open Circuit. Jetzt ist es an der Zeit, das Ganze mal im Diagramm zu übertragen.
+
+(0:01:49 - 0:02:01)
+Also Kennlinie Spannung und Strom ganz typische Kennlinie. So sieht man sie in jedem Modul Datenblatt. Und wir bauen sie jetzt mal nach und nach auf, damit man besser greifen kann, warum diese Kennlinie denn so wichtig ist.
+
+(0:02:02 - 0:02:16)
+Als erstes die Leerlauf Spannung, weil die haben wir uns ja schon erarbeitet. Also da liegt sie auf der X-Achse, auf der Spannungsachse, aber die Y-Achse sozusagen null, kein Strom. Da ist er, null Ampere.
+
+(0:02:17 - 0:02:30)
+Ja, die Elektriker wissen es. Leistung ist das Produkt aus Spannung und Strom, also ein UOC, egal wie hoch es ist, ob Plus oder Minus, ist irrelevant. Mal null Ampere ist immer eine Leistung von null Watt.
+
+(0:02:30 - 0:02:38)
+Deswegen können wir die ganz einfach jetzt da auch gleich mit reinschieben. Dazu brauchen wir nur noch eine zweite Achse. So wird das auch oft in der Literatur dargestellt.
+
+(0:02:39 - 0:02:57)
+Haben wir uns natürlich einfach abgeguckt, weil es sinnhaft ist. Also jetzt Achtung, dieser blaue Punkt, der bezieht sich jetzt auf die andere X-Achse, auf die Leistungsachse und liegt dann genau hier auch bei der gleichen Spannung, weil das ja sich auf die gleiche Spannungsebene bezieht. Und die Leistung ist null.
+
+(0:02:59 - 0:03:04)
+Das war erst mal der erste Betriebsfall. Wir springen in den zweiten. Das ist ungefähr das Gegenteil von einem Leerlauf.
+
+(0:03:04 - 0:03:14)
+Ein Kurzschluss, symbolisch über mir mal dargestellt. Zack, da kommt er. Wir haben einfach nur ein Kabel dazwischen gesteckt, sondern ein ganz kurzes Kabel, also Plus und Minus ineinander gesteckt.
+
+(0:03:14 - 0:03:25)
+Wir sind Theoretiker, deswegen ist das auch in Ordnung so. Wir stecken das einfach mal so zusammen. Messgeräte machen das dann natürlich auch, indem sie diesen Widerstand, da ist er, auf 0 Ohm setzen.
+
+(0:03:25 - 0:03:42)
+Und dann hat man im Grunde einen Kurzschluss geschaffen. Was passiert? Die Spannung bricht sofort zusammen, weil ja der Widerstand null ist. Also haben wir an dem Punkt null Volt und der sogenannte Kurzschlussstrom, immer abgekürzt mit ISC aus dem englischen Short Circuit.
+
+(0:03:42 - 0:03:53)
+Bitte merken, wir folgen jetzt nur noch mit UOC und ISC, dem restlichen Kurs. Da ist er, springt in die Tabelle rein und hoch auf die X-Achse. Jetzt ist ja die Spannung null.
+
+(0:03:53 - 0:04:01)
+Deswegen befindet er sich direkt auf der Stromachse, auf der Y-Achse. Produkt ist wieder null. Das macht es so schön einfach.
+
+(0:04:01 - 0:04:18)
+Und deswegen schieben wir gleich den zweiten blauen Punkt hier rein. Also Spannung null und genau und der Strom wird ja hier auf der Achse nicht dargestellt. So, jetzt geht es in den dritten Fall.
+
+(0:04:18 - 0:04:29)
+Tabelle, bitte folgen. Wir haben es Maximum genannt und über mir kommt jetzt ein regelbarer Widerstand mit rein. Wir schauen uns jetzt sozusagen alle Betriebspunkte an zwischen diesem Leerlauf und dem Kurzschluss.
+
+(0:04:29 - 0:04:36)
+Das machen wir auch hier symbolisch. Widerstand mit so einem regelbaren Widerstand. Und jetzt geht es los.
+
+(0:04:36 - 0:04:49)
+Wir schieben wunderbar schön animiert die Spannungswerte meinetwegen langsam nach rechts. Und sehen, dass der Strom erst mal sehr, sehr konstant bleibt. Das ist das Verhalten einer Diode.
+
+(0:04:50 - 0:05:09)
+So kann man sich vielleicht kurz im Hinterkopf abspeichern. So sieht das aus bei einer Diode und bei einem Modul ist es dann eben auch so. Also wir haben jetzt erst mal die ersten Spannungsabschnitte sozusagen abgefahren von unserer Kennlinie und haben jetzt erst mal angehalten, weil es wird schon angedeutet, der Strom sinkt jetzt langsam.
+
+(0:05:09 - 0:05:21)
+Gehen auch gleich weiter. Aber dieser Punkt hier ist sehr bedeutend, weil man sieht es. Die Leistung Produkt aus Strom und Spannung steigt also im Verlauf mit an.
+
+(0:05:21 - 0:05:31)
+Und jetzt sind wir hier bei einem maximalen Punkt. Wenn er gleich mit der Kurve weiterfahren, aber vorher benennen wir diesen Punkt jetzt nochmal. Also an der Stelle hat man die maximale Leistung erreicht.
+
+(0:05:32 - 0:05:48)
+Deswegen nennen wir den Strom IMPP und die Spannung UMPP. Ich hole die Stromwert mir auch gleich dazu. Also den optimalen Betriebs Spannungs Punkt und den Punkt des optimalen Betriebs Stroms, dass es an der Stelle erreicht und daraus ergibt sich dann.
+
+(0:05:48 - 0:06:06)
+Das ist ja der Grund, warum der überhaupt so optimal ist. Also der maximale Leistungswert, maximale Betriebsleistung PMPP ganz wichtiger Punkt. Da versucht der Wechselrichter immer hin zu regeln, damit man aus den Modulen das maximale an Leistung rausholt.
+
+(0:06:06 - 0:06:21)
+Wir fahren jetzt die Kennlinie noch weiter. Dann sieht man nämlich, dass man dann unten an dem Anfangspunkt meiner Darstellung wieder rauskommt. Also wenn man sozusagen eher links und rechts von diesem Betriebspunkt arbeiten würde, kann man machen.
+
+(0:06:21 - 0:06:33)
+Aber dann ist eben die Leistung nicht so groß, wie sie maximal möglich wäre. Und sind bei der zweiten Komponente angekommen, dem Wechselrichter. Da sieht es jetzt ähnlich aus.
+
+(0:06:33 - 0:06:47)
+Das ist auch Absicht, weil wir später die zwei Kennlinien sozusagen ineinander legen wollen. Also wieder Strom Spannungsachse ist wichtig für das, was dann danach folgt. So und dann gucken wir uns den Wechselrichter mal von unten an.
+
+(0:06:48 - 0:07:04)
+Das ist ein typischer Wechselrichter, geht aber nicht um diesen Typ jetzt, sondern nur darum, dass der verschiedene MPPTs hat. Das sind diese Multiple Powerpoint Tracker, Maximum Powerpoint Tracker, Entschuldigung. Und davon hat er jetzt mehrere.
+
+(0:07:04 - 0:07:13)
+Das ist deswegen wichtig, weil wir uns jetzt auf einen konzentrieren. Das ist jetzt erst mal entscheidend. Deswegen haben wir das hier auch so dargestellt mit diesem UDC.
+
+(0:07:14 - 0:07:31)
+Also da wäre jetzt die Gleichspannung angelegt beim Wechselrichter. Und was sagt dir jetzt der Wechselrichter Hersteller? Also mein Wechselrichter hat an diesem MPPT eine sogenannte Startspannung. Wenn die Spannung niedriger ist, dann macht er gar nichts, sondern erst ab dann läuft er sozusagen los oder guckt sich die Sache erst mal an.
+
+(0:07:32 - 0:07:48)
+Oft ist dann die minimale MPP Spannung etwas größer, ist bei uns jetzt nur symbolisch dargestellt, geht jetzt nicht um Relationen. Und dann hat die auch einen maximalen Wert. Also in dem Bereich würde er die beste im Betriebsbereich haben.
+
+(0:07:48 - 0:08:00)
+Und dann hat er einen maximalen Spannungswert. Der ist ehrlich gesagt ganz wichtig. Das sage ich jetzt und später auch noch dreimal, weil höhere Spannung darf er nicht abhaben, verliert man die Gewährleistung und eventuell geht er ja auch tatsächlich kaputt.
+
+(0:08:01 - 0:08:15)
+Dann gibt es noch einen Strom, der ist auf der anderen Achse und der begrenzt das Ganze, wenn man so will, nach oben. So, ich habe es schon gesagt, Optimum, bitte merken, da haben wir ein bisschen grün gemacht, Optimum, Optimum. Das ist der Zielbereich vom Wechselrichter.
+
+(0:08:16 - 0:08:28)
+Hier kann er bestens arbeiten. Dann hat er noch Bereiche, in denen es möglich ist, haben wir es genannt, aber eben nicht optimal und dann ganz wichtig, nicht zulässig. Das ist der äußere Bereich.
+
+(0:08:29 - 0:08:41)
+Also den wollen wir auf gar keinen Fall. Dann sind wir keine Elektroplaner und wenn wir es in den möglichen Bereich machen, dann müssen wir es zumindest gut erklären, warum wir ihn da hingelegt haben. Und jetzt mache ich das, was ich vorhin schon angedeutet habe.
+
+(0:08:42 - 0:08:52)
+Jetzt habe ich sozusagen meine Kernwerte vom Wechselrichter und die, die wir uns vorhin vom Modul erarbeitet haben. Die schiebe ich jetzt genau hier mit rein in die gleich in das gleiche Diagramm. Das mache ich so.
+
+(0:08:53 - 0:09:01)
+Kurzschlussstrom und Leerlaufspannung hat man vorhin definiert. Und da ist jetzt sozusagen unsere Modulkennlinie. Und jetzt gebe ich eine Bewertung ab.
+
+(0:09:01 - 0:09:11)
+Das ist so mein Job als Elektroplaner. Und da sage ich klar Daumen nach unten. Also im nicht zulässigen Bereich dimensioniere ich auf keinen Fall meine Strings.
+
+(0:09:12 - 0:09:19)
+Jetzt schiebe ich die Kennlinie mal nach rechts. Wie ich das mache, kommt später noch. Also nehmen wir einfach mal an, dass man das jetzt willkürlich machen kann.
+
+(0:09:19 - 0:09:26)
+Und jetzt sieht man, ich bin im möglichen Bereich. Da habe ich jetzt mal definiert, der Daumen geht zumindest in die Waagerechte. Jetzt kann ich mal erklären, warum ich das so mache.
+
+(0:09:27 - 0:09:34)
+Aber ich persönlich würde es vermeiden wollen. Also schiebe ich erst mal meine Kennlinie weiter. Jetzt bin ich offensichtlich im optimalen Bereich.
+
+(0:09:35 - 0:10:01)
+Und das ist dann noch mal ein Unterschied, den wir hier darstellen wollen zwischen eben UOC und UMPP, also für wirklich die optimalen Betrieb von Modulen mit Wechselrichter in Kombination muss dieser UMPP von den Modulen im Wechselrichter Optimal Bereich liegen und nicht nur der UOC. Deswegen haben wir das extra hier mit reingenommen, diese gestrichelte Linie. Und jetzt wird der Daumen auch grün und geht nach oben.
+
+(0:10:02 - 0:10:07)
+Natürlich schiebe ich ihn erst mal weiter. Den Fall gibt es ja auch. Also das ist jetzt immer noch möglich.
+
+(0:10:07 - 0:10:18)
+Der Wechselrichter geht zumindest nicht kaputt, aber er arbeitet halt nicht mehr im optimalen Bereich. Und jetzt das ist natürlich der erste Test, den wir später in unserer Übung auch machen werden. Das ist für mich der allerwichtigste.
+
+(0:10:18 - 0:10:36)
+Bei jedem Projekt prüfe ich das zweimal, Minimum. Also da draußen darf dieser maximale Spannungswert der Module nicht liegen. Sonst ist man über dem zulässigen Betriebsbereich des Wechselrichters angekommen.
+
+(0:10:37 - 0:10:44)
+Wir schieben das Ganze wieder zurück, weil da war es ja gut. Daumen wieder nach oben und haben ja noch eine zweite Achse. Die müssen wir auch prüfen.
+
+(0:10:44 - 0:10:54)
+Jetzt gehen wir mal mit dem Strom in einen Bereich, der ja offensichtlich nicht zulässig ist. Also genauer oder offensichtlicher kann man es ja gar nicht aufschreiben. Also da muss der Daumen ganz wichtig wieder nach unten gehen.
+
+(0:10:54 - 0:11:05)
+Deswegen gehen wir auch ganz schnell wieder zurück in den Bereich des Optimums. Da haben wir dann auch den IMPP getestet, dass der auch da mit reinpasst. Und den UMPP hatten wir ja uns vorhin schon mal kurz angeguckt.
+
+(0:11:05 - 0:11:14)
+Und deswegen sagen wir jetzt, da sind wir zufrieden. Hier haben wir unseren Betriebspunkt gefunden. Hier haben wir unser String Design korrekt ausgeführt.
+
+(0:11:15 - 0:11:27)
+Also ich würde sagen, jetzt haben wir die elektrotechnischen Grundlagen gesammelt, wo das eigentlich herkommt und auch schon gleich das Ziel definiert. Jetzt schiebe ich noch was mit rein, was für mich eher ökonomisch ist. Hat es ja vorhin schon gesagt.
+
+(0:11:27 - 0:11:38)
+Ich finde, das waren jetzt technische Grenzwerte. Jetzt kommen für mich in der Tendenz eher ökonomische noch mit rein, auch wenn man auch hier Limitierungen von den Herstellern bekommt. Aber ich zeige es gleich, was ich meine.
+
+(0:11:38 - 0:11:59)
+Also jetzt habe ich hier noch eine orange Kennlinie so angedeutet. Das ist für mich jetzt erst mal die Nennenleistung vom Wechselrichter. Das sogenannte DCAC-Verhältnis, das ich in den nächsten Folien auch noch mal grafisch darstelle, das wäre jetzt in diesem orangenen Bereich größer 1. Ich finde, das muss man jetzt erst mal nur wissen.
+
+(0:11:59 - 0:12:20)
+Das ist ja nicht richtig und falsch, sondern das ist jetzt erst mal nur wichtig zu verstehen, weil mehr die aus meiner Sicht ökonomische Betrachtung des DCAC-Verhältnisses jetzt im, wenn man so will, nachgefolgenden Schritt noch on top kommt. Das machen wir jetzt auch mal kurz, dass wir es zumindest mal gesehen haben. Also Achtung, wir merken uns, da geht es ums DCAC-Verhältnis.
+
+(0:12:21 - 0:12:37)
+Ich schiebe dieses Diagramm nach rechts oben, dann kann man es kaum mehr lesen, aber man hat zumindest noch das Gefühl, dass es irgendwie da ist und machen uns jetzt noch eine zweite Kennlinie rein. Die hat als X-Achse den Tagesverlauf. Das ist so eine ganz typische Solarlinie, die wir jetzt gleich sehen werden.
+
+(0:12:37 - 0:12:52)
+Und nach oben die Y-Achse, das ist die Leistung in Watt. So und jetzt sage ich einfach nur als Beispiel, wir machen es mit absoluten Zahlen, kann man aber auf jede Kennzahl umrechnen. Die Kapazität des Wechselrichters hat jetzt mal ein Megawatt.
+
+(0:12:52 - 0:13:07)
+Das ist eine Nennleistung in Wirkleistung. Und jetzt machen wir der Einfachheit halber auch die installierte Modulleistung gleich. Achtung, das sage ich jedem, bei dem ich den ich dabei erwische, dass er die DC-Leistung nicht mit dem kleinen P hinten angibt.
+
+(0:13:07 - 0:13:21)
+Genau für diese Fälle ist das ganz wichtig. DC-Leistung in Watt Peak angeben bitte. Also jetzt können wir es nämlich schön unterscheiden, auch wenn beide Zahlen eine 1 haben und schieben jetzt eine Solarkennlinie rein.
+
+(0:13:21 - 0:13:47)
+Besser Tag des Jahres. So würde das dann theoretisch aussehen. Also es gibt einen Zeitpunkt, an dem die Modulleistung dann gleich der Wechselrichterleistung ist und deswegen oben unter dem DC-Achse habe ich es reingeschrieben, wäre das Verhältnis 1 zu 1. Also wenn man von DC-Achse Verhältnis spricht, hier ist es 1 zu 1. Und jetzt schiebe ich die Kapazität vom Wechselrichter etwas nach oben auf 1,1.
+
+(0:13:47 - 0:14:15)
+Jetzt sieht man schon, DC-Achse Verhältnis ist jetzt 1 zu 1,1. Und jetzt ergibt sich eben daraus eine ungenutzte AC-Leistung. Ich habe es vorhin schon mal gesagt, das mag ja jetzt Gründe haben, warum man das so gebaut hat, deswegen würde ich sagen, ist das technisch nicht falsch, sondern es ist nur ökonomisch zu hinterfragen, weil man jetzt hier eine AC-Bereichsleistung hat, die man einfach nicht nutzt.
+
+(0:14:15 - 0:14:43)
+Das kann man ja natürlich hinterfragen, gibt es natürlich die diversesten Tools, mit denen man solche Wirkungsgradverläufe von ganzen Parks berechnen kann und da kann man dann verschiedene Varianten gegenstellen. Für uns heute ist es erstmal nur wichtig zu verstehen, was denn ein 1 zu 1,1 DC-Achse Verhältnis bedeutet. Und jetzt würde man das oben an der anderen Kennlinie so sehen, wie wir es jetzt gerade dargestellt haben.
+
+(0:14:43 - 0:14:56)
+Also die Kennlinie vom Modul liegt jetzt nicht in dem orangenen Bereich. Das ist jetzt erstmal wichtig. Jetzt gucken wir uns das weiter an, indem wir es einfach noch ein bisschen extremer machen.
+
+(0:14:56 - 0:15:12)
+Also auf 1,5 haben wir die Wechselrichterkapazität jetzt erhöht, Megawatt und das bedeutet 1 zu 1,5 ist das Verhältnis und unsere Linie wird so ein bisschen verschieben, hat man auch gesehen. Also die rutscht noch ein bisschen weiter weg vom orangenen Bereich. Genau, da ist es.
+
+(0:15:14 - 0:15:26)
+Jetzt drehen wir die ganze Sache mal um. DC-Achse Verhältnis 1,1 zu 1, also mehr Module als Wechselrichter. Bei mir ist das meistens so, das liegt aber auch an der Geografie.
+
+(0:15:26 - 0:15:46)
+Also wo sind die Anlagen installiert, welcher Neigungswinkel, da spielen viele Sachen mit rein. Trotzdem bin ich meistens in diesem Bereich hier ansässig und dann passiert Folgendes. Man hat jetzt einen Ertrag von 1 Megawatt Peak, also eine installierte, das habe ich reingelegt für den Bereich von vorher.
+
+(0:15:46 - 0:16:13)
+Also die Grüne ist die Kennlinie, die wir vorher drin hatten und jetzt sieht man schon, wenn man mehr Leistung an Modulen installiert, das ist die blaue, dann hat man zwar hier diesen orangenen Bereich, den man jetzt verliert, der Wechselrichter kann das nicht, das nennt sich Clipping, da kann er nicht mehr mit. Das müssen wir als Verluste abschreiben, wenn man so will. Aber weil ich ja mehr Leistung installiert habe, ist er vorher und nachher im Gewinnbereich sozusagen.
+
+(0:16:13 - 0:16:23)
+Das heißt, man muss da so ein bisschen gegenrechnen, wenn man so will. Ich zeige das nochmal hier kurz, ich gehe nochmal schnell zurück. Also die Seiten kriegen wir dazu und das Orangene oben, das verlieren wir.
+
+(0:16:24 - 0:16:48)
+Machen wir auch nochmal in einem zweiten Beispiel ein bisschen extremer einfach nur, also noch mehr Module, 1,5 zu 1. Jetzt verlieren wir den Haufen Weiße da oben und die Seiten gewinnen wir dazu. Wir sehen später auch nochmal in unserer Beispielrechnung, ich sehe jetzt da erstmal ökonomisch gesehen keine Probleme. Man kann das halt bewerten und sagen, akzeptieren wir so, ist halt unser Layout, unsere Planung.
+
+(0:16:49 - 0:17:14)
+Man muss dann aber auf jeden Fall auch das mit dem Hersteller des Wechselrichters abstimmen oder er sagt es einem im Manual oder im Datenblatt. Weil hier werden die Wechselrichter jetzt thermisch deutlich stärker belastet als bei den anderen Fällen. Man sieht das ja, der Wechselrichter arbeitet ja jetzt stundenlang an seiner Kapazitätsgrenze und im Zweifel geht er dann mal früher in die Knie und muss sein Leben früher aus dem Leben scheiden sozusagen.
+
+(0:17:14 - 0:17:24)
+Und oben in dem Diagramm sind wir jetzt also im orangenen Bereich angekommen. Nicht falsch, man muss es nur wissen. So, genau, mittendrin, ich habe die Linie noch ein bisschen reingeschoben.

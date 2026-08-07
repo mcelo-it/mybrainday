@@ -1,0 +1,457 @@
+(0:00:00 - 0:00:11)
+Und jetzt kommen wir hier zu dem ersten sehr großen Block. Da müsst ihr jetzt relativ lange aufmerksam sein. Es geht jetzt um die Übergabestation.
+
+(0:00:11 - 0:00:30)
+Wir bauen für euch die Übergabestation einmal vom weißen Blatt Papier auf, sodass ihr hinterher Stück für Stück das Ganze zusammengebaut habt mit uns zusammen und dann wirklich alle Komponenten verstanden habt. Das erste, was wir euch reinzeigen, ist ein weißes Rechteck. Und das machen wir immer so.
+
+(0:00:30 - 0:00:51)
+Das ist stellt erst mal den den Körper der Kompaktstation oft von der Übergabestation da und ist dann ein Betonkörper oder Leichtbau Körper. Es kann beides sein. Wichtig ist eben, dass diese Station erst mal störlichtbogen geprüft ist und gemäß der TAP und VDE 4110 eben errichtet wurde.
+
+(0:00:51 - 0:01:05)
+Störlichtbogen geprüft ist hier wichtig. Wichtig. Beide fordern es, die 4110 und die TAP Übergabestationen stehen meistens im öffentlichen Raum und deshalb muss man dort eine Störlichtbogen Prüfung durchführen.
+
+(0:01:06 - 0:01:20)
+Außerdem hat der Netzbetreiber Zugriff. Der Netzbetreiber muss hier gegebenenfalls schalten. Und das würde er nicht zulassen, dass sein Personal an eine Übergabestation geht, die nicht störlichtbogen geprüft ist.
+
+(0:01:22 - 0:01:38)
+So, jetzt fangen wir an und zeichnen euch in diesen, ich nenne es jetzt Betonkörper, in den Körper dieser Übergabestation schalten wir erst mal oder zeichnen wir ein Eingangsfeld ein. Das ist jetzt erst mal so dargestellt. Das füllt sich jetzt im Laufe mit Inhalt.
+
+(0:01:39 - 0:01:58)
+Wir fangen aber erst mal an, dass dieses Schaltfeld, dieses Eingangsfeld erst mal auf eine Nennspannung dimensioniert sein muss, so wie es uns der Netzbetreiber vorgegeben hat. Also wir sind in einem 20.000 Volt Netz, 20 kV. Und dann kriegt dieses Schaltfeld erst mal eine Nennspannung von 24 kV.
+
+(0:01:59 - 0:02:11)
+Die Nennfrequenz gehen wir mit an. Drei phasig, 50 Hertz, das ist soweit üblich in Deutschland, in Europa. Sofern ihr nicht bei der Deutschen Bahn arbeitet, ist das genau die Frequenz, die ihr überall zu erwarten habt.
+
+(0:02:12 - 0:02:57)
+Dann haben wir einen Nennstrom, den wir eintragen, 630 Ampere. Das ist das, was diese Schaltanlage dann im Dauerbetrieb tragen kann. Und wir haben eine Kurzschlussfestigkeit der Anlage von 20 Kiloampere für eine Sekunde. 
+
+Das sind erst mal Vorgaben, vor allem diese 20 Kiloampere eine Sekunde, die ihr mit dem Netzbetreiber oder die ihr vom Netzbetreiber mitgeteilt bekommt. Das steht meistens in der TAB. Wenn da jetzt mehr Kurzschlussstrom zu erwarten ist, braucht ihr andere Schaltanlagen. 
+
+Im deutschen Netz sind diese 20 Kiloampere eine Sekunde in der Regel ausreichend. Jetzt kommt noch eine Nummerierung mit rein. Also wir nennen das erste Feld jetzt J01 und das J kommt nicht irgendwo her.
+
+(0:02:57 - 0:03:08)
+Das J ist erst mal ein Indikator für das Spannungslevel, in dem wir uns befinden. Wir haben das aufgeführt. K steht für 10 kV Netz, J steht eben für das 20 kV Netz.
+
+(0:03:08 - 0:03:25)
+Wenn ihr mal ein H seht, dann wisst ihr, es geht um das 30 kV Netz und Schaltfelder im Bereich E sind eben im 110 kV Netz. Jetzt schieben wir mal diese Punkte rein. Das wird immer sehr, sehr klein oben links dargestellt.
+
+(0:03:25 - 0:03:59)
+Aber wenn ihr euch da verhaut, wenn ihr euch da vertut mit diesen Werten, dann ist erst mal das Herzstück eurer Übergabestation einfach falsch ausgelegt, falsch dimensioniert und ihr habt dann erst mal ein grundlegendes Problem und könnt vermutlich mit der Übergabestation nicht in Betrieb gehen. So, jetzt stellen wir noch den Verfügungsbereich dar. Verfügungsbereich bedeutet im Grunde genommen, wer darf diesen Bereich benutzen? Und hier wird so eingekreist, eingestrichelt.
+
+(0:03:59 - 0:04:11)
+Das gesamte Feld J01 ist jetzt im Verfügungsbereich EVU. Ihr könnt das oben links relativ klein lesen. Also der Netzbetreiber darf eben diesen Bereich schalten.
+
+(0:04:11 - 0:04:17)
+Das heißt nicht, dass es ihm gehört, aber er darf es schalten. Das heißt auch nicht, dass er es bezahlt. Aber er schaltet, ihr schaltet nicht.
+
+(0:04:18 - 0:04:30)
+Meistens habt ihr dann da auch noch ein Schloss dranhängen. Also ihr könnt da auch gar nicht schalten. Jetzt kommt das Schaltgerät, was sich in diesem Metallgehäuse, in dieser Schaltanlage befindet.
+
+(0:04:30 - 0:04:37)
+Hier haben wir es mal dargestellt. Wir zoomen euch das auch gleich rein, damit ihr es ein bisschen besser seht. Es nennt sich Ringkabelabzweig.
+
+(0:04:37 - 0:04:55)
+Das ist, glaube ich, eine Bezeichnung, die Siemens so in den Handbüchern führt. Ringkabelabzweig in Klammern R. Dann gibt es irgendwann Schaltfelder, die nennen sich zum Beispiel RRL. Und dann kann man aus diesen Abkürzungen erkennen, um was für Komponenten es sich da handelt.
+
+(0:04:55 - 0:05:03)
+Also es geht hier erst mal um die Trennstelle des Netzbetreibers. Verfügungsbereich war das ja hier. Der Netzbetreiber kann hier erst mal trennen.
+
+(0:05:05 - 0:05:19)
+Es ist ein Lasttrennschalter und wir nennen ihn dann Q1, weil Lasttrennschalter Q1 genannt werden. Das machen wir so. Und dieser Lasttrennschalter, der hat drei grundlegende Funktionen, die wir euch jetzt auch einmal zeigen wollen.
+
+(0:05:19 - 0:05:31)
+Also die Trennfunktion, die seht ihr jetzt hier. Der Schalter, der mittig zwischen dem Kreis und dieser Erdung ist, der steht jetzt mittig, der ist getrennt. Also wir haben nicht eingeschaltet, wir haben nicht geerdet, wir haben getrennt.
+
+(0:05:32 - 0:05:39)
+Die nächste Funktion ist eben einschalten. Jetzt seht ihr schon, der Schalter bewegt sich rüber. Und jetzt wäre die Anlage eingeschaltet.
+
+(0:05:40 - 0:05:48)
+Jetzt hätten wir die Spannung hoch zur Sammelschiene geführt. Seht ihr dann später, wenn das Schema ein bisschen weiter ist, wo die Spannung dann so hingeht. Aber jetzt sind wir eingeschaltet.
+
+(0:05:49 - 0:05:57)
+Zum Schluss kommt noch die Erdungsfunktion. Da kommt ihr hin, indem ihr jetzt erst ausschaltet und dann geht es rüber zur Erdung. Das sind zwei Schritte.
+
+(0:05:58 - 0:06:10)
+Hier bei uns ist es in einem durch. Aber man müsste erst wieder abschalten und danach könnte man die Anlage erden. Also drei Funktionen kann dieser Lasttrennschalter trennen, einschalten, erden.
+
+(0:06:11 - 0:06:28)
+Der Nennstrom ist 630 Ampere. Das heißt, das, was wir hier zu erwarten haben an Betriebsstrom, sollte kleiner sein als 630 Ampere. Und dieser Schalter, das ist ganz, ganz wichtig, der soll keine Kurzschlüsse ausschalten.
+
+(0:06:28 - 0:06:36)
+Also er kann Kurzschlüsse tragen. Das ist gar keine Frage. Wenn im Solarpark ein Fehler ist, dann kann da ein richtig großer Kurzschlussstrom bis 20 Kiloampere durch.
+
+(0:06:36 - 0:06:48)
+Aber dieser Schalter, der darf dann nicht zu einer Auslösung führen, weil er kann das nicht. Der würde dann zerstört werden, vermutlich thermisch zerstört werden. Der Lichtbogen könnte nicht gelöscht werden in der Anlage und dann geht er defekt.
+
+(0:06:48 - 0:06:59)
+Also ihr könntet jetzt ein Schutzrelais mit UMZ-Funktion dort anschließen. Das geht, aber das ist dann eben für den Schalter lebensgefährlich. Dann ist dieser Schalter noch motorbetrieben.
+
+(0:07:00 - 0:07:21)
+Das ist bei den modernen Anlagen mittlerweile, glaube ich, fast überall in Deutschland eine Vorgabe, weil diese Schalter von den Netzbetreibern auch fernsteuerbar sind. Und das macht eben nur Sinn, wenn man einen Motorbetrieb oder einen Motorantrieb installiert hat. Diese Fernsteuerbarkeit, die seht ihr jetzt in dem Schema nicht.
+
+(0:07:21 - 0:07:39)
+Aber ihr könnt davon einfach mal ausgehen, dass das gefordert wird als Datenpunkt. Der Lasttrenner wird klein, verschwindet hier in dem Schaltfeld oder ordnet sich dort an. Und wir gehen weiter und schauen uns die Anschlussstelle an, die wir haben.
+
+(0:07:39 - 0:07:56)
+Also wir gehen jetzt erst mal nach unten, raus aus der Schaltanlage. Dort zeigen wir so einen kleinen Pfeil und an diesem kleinen Pfeil schließen wir einen zweiten Pfeil an. Das bedeutet erst mal, dass dieser obere Pfeil soll erst mal die Anschlussstelle für den Endverschluss darstellen.
+
+(0:07:57 - 0:08:34)
+Also man würde jetzt oben physisch diesen Konus zum Beispiel sehen, so ist das bei den meisten Schaltanlagen, dieser Außenkonus, wo man dann einen Endverschluss, das ist der Pfeil, der unten zu sehen ist, draufstecken kann. Wichtiger Hinweis hier, wenn ihr größere Anlagen habt und in Kabelquerschnittsbereiche kommt, 630 Quadrat, 800 Quadrat, prüft das bitte, ob eure Schaltanlagen das können oder ob man sich da nicht was überlegen muss, vielleicht nochmal das Leitermaterial wechseln, damit man dünnere Querschnitte hat, dass man da überhaupt reinkommt. Dann das Zweite ist, Anschlusstyp beachten.
+
+(0:08:35 - 0:08:58)
+Es gibt meistens den Außenkonus, da gibt es noch verschiedene Typen, es gibt aber auch Innenkonusanschlüsse, es gibt Innenraumendverschlüsse. Im Grunde genommen, was wir hier sagen wollen ist, das ist eine klassische Schnittstelle und da muss man immer den Fokus drauflegen. Man muss da immer prüfen, was für Komponenten treffen aufeinander und funktioniert das ebenso.
+
+(0:08:59 - 0:09:22)
+Innerhalb dieser Übergabestation ist das wahrscheinlich alles relativ einfach, da hat das der Stationsbauer für euch gemacht, der hat das abgestimmt, es passt zusammen, aber an der Anschlussstelle, das ist eine klassische Schnittstelle, da treffen zwei Gewerke aufeinander. Auf diese Stellen bitte immer den Fokus legen und prüfen, ob das so hinhaut. Jetzt kommt hier unten noch das kapazitive Spannungsprüfsystem rein.
+
+(0:09:23 - 0:09:57)
+Ihr seht es da, klein eingezeichnet über so ein Kondensatorzeichen und wir zoomen es raus, dann ist das ein bisschen einfacher. So würde so ein kapazitives Spannungsprüfsystem erst mal aussehen. Das zeigt euch erst mal in Anführungsstrichen nur an, ob dort eine Spannung ist oder nicht, aber das ist für den Betrieb, wie ich finde, äußerst sinnvoll, weil man so eine Spannung natürlich sonst schwierig nur messen kann, man hört sie nicht, man sieht sie nicht und ohne diese kapazitiven Spannungsanzeiger wüsstet ihr jetzt nicht, ob dort eine Spannung von 20.000 Volt anliegt oder nicht.
+
+(0:09:59 - 0:10:29)
+Dieser kapazitive Spannungsanzeiger, eben in dem Übersichtsbild hat man das gesehen, der ist in der Schaltanlage verbaut und zwar zwischen dem Konus, zwischen der Anschlussstelle und dem Lasttrenner. Das heißt, unabhängig davon, wie ihr jetzt euren Lasttrenner schaltet, auf, zu, würde dieser kapazitive Spannungsanzeiger die Spannungs anzeigen oder nicht. Also ihr könnt den Trenner auch öffnen, die Spannung, die am Kabel anliegt, würde er trotzdem zeigen und das ist sehr, sehr hilfreich und so muss es auch umgesetzt sein.
+
+(0:10:30 - 0:11:06)
+Das Ganze fordern die Netzbetreiber, das steht in der THB, aber genau, das ist für mich ein wichtiges Instrument, um einfach zu prüfen, ob alles in Ordnung ist, ohne dass man da aufwendig irgendwelche Messungen aufbauen muss. Zusätzlich, das ist auch eine THB-Anforderung, gibt es Kurzschlussanzeiger, wir zoomen den mal rein, der würde so aussehen. Der kann jetzt etwas mehr, der kann eben einen Kurzschluss anzeigen und vor allem kann der auch die Richtung des Kurzschlusses anzeigen.
+
+(0:11:06 - 0:11:40)
+Man sieht das dann mit den grünen und roten Pfeilen, also vorwärts oder rückwärts und man sieht auch, in welchen Phasen dieser Kurzschluss stattgefunden hat und man sieht auch, was für eine Fehlerart das war. Also war es ein Erdfehler oder war es wirklich ein Kurzschluss? Beides wird hier über diese LEDs angezeigt und das Ganze funktioniert nur, wenn man eben diesen Kurzschlussanzeiger zusammen mit einem kapazitiven Spannungsprüfsystem verwendet. Also man muss dann diese beiden Geräte verbinden.
+
+(0:11:40 - 0:12:13)
+Hintergrund ist, dass dieser Kurzschlussanzeiger erstmal nur den Strom misst, der wird mit Stromwandlern geliefert und um eine Richtung zu detektieren, braucht er auch immer eine Spannung und die kriegt er dann eben von einem kapazitiven Spannungsprüfsystem. Diese beiden werden verbunden, das heißt der Kurzschlussanzeiger bekommt von dem kapazitiven Spannungsanzeigesystem eine Spannung übermittelt und kann dann mit Strom und Spannung zusammen eben Richtungen oder Fehlerart detektieren und sehr, sehr einfach anzeigen. Die TAB-Anforderungen hatte ich ja eben schon genannt.
+
+(0:12:14 - 0:12:35)
+Im Eingangsfeld des Netzbetreibers ist das in der Regel verpflichtend gemäß TAB. So, da fliegt er rein, da seht ihr ihn und jetzt kommt die Eigentumsgrenze. Wir schließen jetzt unten an den Konus der Schaltanlage ein Kabel an und jetzt wird hier die Eigentumsgrenze noch definiert.
+
+(0:12:36 - 0:12:50)
+Also alles, was jetzt nach oben geht über die grüne Linie, die dort gezeichnet wurde, gehört dem Kunden. Alles, was nach unten geht, hinter dieser Linie, gehört dem Netzbetreiber. Das ist durchaus von Netzbetreiber zu Netzbetreiber ein bisschen unterschiedlich.
+
+(0:12:50 - 0:13:09)
+Bei manchen ist das die Anschlussstelle an der Schaltanlage, bei anderen ist das die Muffe im Erdreich. Das ist im Grunde abzustimmen, zu erfragen und dann ist es hier in diesem Schema darzustellen. Anschlussstich oder Einschleifung, das ist jetzt hier mit im Grunde genommen auch dargestellt.
+
+(0:13:09 - 0:13:20)
+Hier ist es ein Stich. In der 4110 ist es erstmal nach Definition für unsere Photovoltaikanlagen auch erstmal immer ein Stich. Früher hatten wir auch oft Ringeinschleifungen.
+
+(0:13:21 - 0:13:40)
+Wenn ihr jetzt in einer Gebäudeinstallation mit einem Solarpark kombiniert oder eine Dachanlage habt, darum geht es dann wahrscheinlich, dann habt ihr in der Regel Einschleifungen. Hier in unserer Freiflächenanlage als Beispiel bleibt es der Stich. So, jetzt geht es weiter, Übergabeleistungsschalter.
+
+(0:13:40 - 0:13:50)
+Auch hier bauen wir erstmal einen Panel drumherum. Also das Metallpanel, wir fügen die Beschriftung ein, J02. Und die Sammelschiene oben haben wir jetzt einfach mal eingezeichnet.
+
+(0:13:51 - 0:14:06)
+Also alle Schaltgeräte, wenn die Schaltanlage jetzt größer werden würde, sind immer verbunden oben mit dieser Sammelschiene, die dort eingezeichnet ist. Von da geht es jetzt runter über einen Leistungsschalter. Wir gehen da jetzt mal rein, zoomen den rein und gucken uns den im Detail an.
+
+(0:14:06 - 0:14:18)
+Es ist ein Dreistellungsleistungsschalter, so nennt man den. Das seht ihr später auch nochmal, warum das drei Stellungen sind. Es gibt eine Abschaltfunktion bei Kurzschluss, das kann der.
+
+(0:14:19 - 0:14:26)
+Es gibt eine Erdungsfunktion und es gibt eine Trennfunktion. Das sind diese drei Funktionen. Also Schalten, Abschalten, Erden, Trennen.
+
+(0:14:28 - 0:14:44)
+Und dann ist auch hier wichtig, dass der Nennstrom größer ist als der Betriebsstrom. Also die 630 Ampere kann der Schalter tragen und der Betriebsstrom sollte dann unterhalb der 630 Ampere bleiben. Der Betriebsstrom, nicht aber der Kurzschlussstrom.
+
+(0:14:44 - 0:15:03)
+Im Kurzschluss schaltet dieser Schalter auch gerne 20.000 Kiloampere. So, jetzt gibt es zu diesem Schalter, der hier gezeigt wurde, Varianten. Das wollten wir einmal zeigen, damit man da so ein bisschen ein Gefühl kriegt, dass das nicht immer genau so aussieht.
+
+(0:15:03 - 0:15:13)
+Also das, was wir eben gezeigt haben und auch jetzt zeigen, das ist die Variante, wie man sie bei Siemens kennt. Eine Standard-8DJH-Schaltanlage, so heißt die dann auch. Die ist eben genau so aufgebaut.
+
+(0:15:14 - 0:15:29)
+Und wenn die sich in Betrieb befindet, also Position 1 oder Position 0, dann ist eben der Leistungsschalter geschlossen und der Trenner ist geschlossen. Wenn man jetzt den Leistungsschalter öffnet, dann sieht das Ganze so aus. Das wäre dann Schalthandlung 1, Leistungsschalter öffnen.
+
+(0:15:30 - 0:15:55)
+Schalthandlung 2 wäre den Lasttrennschalter trennen. Das passiert jetzt auch. Also jetzt sind wir in einer getrennten Position und jetzt könnte man noch eine dritte Schalthandlung durchführen und dann wäre der Lasttrennschalter geerdet bzw. 
+
+der Erdungsschalter eingelegt und jetzt könnte man das Kabel, was nach unten rausgeht aus der Schaltanlage, erstmal geerdet. Ihr könntet sicher arbeiten. Schneider Elektrik, das hat ein bisschen ein anderes Schema.
+
+(0:15:55 - 0:16:00)
+Die machen das eben so. Da wäre der Aufbau so. Stört euch nicht an dem Motorantrieb, den gibt es bei Siemens genauso.
+
+(0:16:02 - 0:16:13)
+Aber es gibt eine Betriebsstellung. Es gibt eine Leistungsschalteröffnenstellung. Das wäre dann eben so und das wäre dann auch gleichzeitig die getrennte Position.
+
+(0:16:14 - 0:16:28)
+Und jetzt gibt es als nächstes die Position Erden. Also hier ist eine Schalthandlung im Grunde genommen weniger von der Funktion gleichwertig. Wir wollen hier jetzt nicht eins besser zeigen oder werten als das andere.
+
+(0:16:29 - 0:16:39)
+Die funktionieren alle gut. Die sind gleichwertig in der Funktion. Je nachdem, wo ihr eure Übergabestationen bestellt, habt ihr da vielleicht einen anderen Hersteller drin.
+
+(0:16:39 - 0:16:49)
+Und der macht das ein bisschen anders. Hier haben wir nochmal ABB dazu aufgeführt. Wenn man sich das mal anschaut, mit einem scharfen Blick sieht man das sofort.
+
+(0:16:49 - 0:17:00)
+Die drehen im Prinzip die Reihenfolge. Die haben jetzt den Leistungsschalter unten. Das macht einfach die Bedienung anders und wir gucken uns mal an, warum.
+
+(0:17:00 - 0:17:10)
+Wir stellen jetzt erstmal den Schalter wieder auf Betrieb. Das heißt oben der Lasttrenner wird geschlossen und der Leistungsschalter wird geschlossen. Wenn wir jetzt die Anlage ausschalten wollen, dann müssen wir zuerst den Leistungsschalter öffnen.
+
+(0:17:10 - 0:17:14)
+So geht das. Das macht man auch immer so. Erst den Leistungsschalter öffnen.
+
+(0:17:14 - 0:17:23)
+Danach würde man den Lasttrennschalter trennen. Das sieht man jetzt oben. Jetzt würde man oben diesen Lasttrennschalter in Erdungsposition bringen.
+
+(0:17:25 - 0:17:42)
+Da kommt es. Wenn man jetzt wirklich das Kabel erden will, muss man hier noch einen weiteren Schritt machen, weil man jetzt diesen Leistungsschalter erst noch schließen muss. Erst mit Schließen des Leistungsschalters unten wäre jetzt das Kabel Richtung Solarpark geerdet.
+
+(0:17:42 - 0:17:54)
+Also ein Schritt mehr. Wenn man jetzt da tiefer einsteigen will, macht man Schaltberechtigungslehrgänge. Dann versteht man das auch alles sehr schnell, wie das funktioniert.
+
+(0:17:54 - 0:18:06)
+Für heute soll das erst mal so stehen bleiben. Es gibt da Schaltreihenfolgen, was man wann schalten darf. Man darf also nicht zum Ausschalten den Trenner verwenden, sondern erst mal den Leistungsschalter usw.
+
+(0:18:07 - 0:18:31)
+Für heute reicht das. Dann kommt als nächstes das Schutzrelais. Wir tragen es hier mal so ein. 
+
+Ihr seht es da jetzt links im Panel J02. So ist es dargestellt. Als Beispiel haben wir hier jetzt ein Gutwort an SEG, heißt die Firma jetzt wieder, MCA4 dargestellt.
+
+(0:18:32 - 0:18:46)
+Da haben wir auch die verschiedenen Schutzfunktionen dargestellt in dem Schema. Es gibt einen übergeordneten NA-Schutz, den würden wir jetzt hier mal zeigen. Grün wird hier eingefärbt, das sind die Spannung, Frequenz und auch die QU-Funktion.
+
+(0:18:46 - 0:19:00)
+Dann gibt es einen Kurzschlussschutz, I größer, I größer, größer. Und möglicherweise gibt es vielleicht auch einen Erdschlussschutz usw. Das findet ihr dann raus, wenn ihr in euren E9-Bogen reinschaut, da sind die Vorgaben drin.
+
+(0:19:01 - 0:19:18)
+Und dann könnt ihr im Grunde genommen diese Funktionsliste erweitern. Dann gibt es eine Wirklinie, das soll bedeuten, wohin wirkt denn jetzt dieses Schutzgerät. Die Linie haben wir jetzt grün eingezeichnet, also es wirkt erst mal auf den Arbeitsstromauslöser, den wir da zeigen.
+
+(0:19:18 - 0:19:29)
+Und es wirkt oben auf diese Unterspannungsspule. Der hat jetzt hier zwei Auslöser, die Unterspannungsspule ist grün markiert. Und der Arbeitsstromauslöser wird jetzt auch noch mal grün markiert.
+
+(0:19:29 - 0:19:52)
+Das sind diese beiden Auslöser, die sorgen dafür, dass dann der Leistungsschalter auch wirklich geschaltet wird. Als nächstes kommen Stromwandler. Das kapazitive Spannungsanzeigesystem ist jetzt auch mit reingekommen, ist aber das gleiche wie im Feld 1. Also wir gehen mal zu dem Stromwandler, zoomen den wieder ein bisschen rein.
+
+(0:19:53 - 0:20:20)
+Wir stellen den hier dar, wir zeigen dann auch, wie er aussieht in diesem Fall. Und dieser Stromwandler ist jetzt dargestellt oberhalb der Anschlussstelle. Das heißt, der sitzt ein bisschen in der Schaltanlage bzw. 
+
+meistens auf dem Anschlusskonus der Schaltanlage. Also der ist dann fest verbaut und der Endverschluss wird eben drauf gesteckt. Dieser Stromwandler ist dann für Schutzfunktionen gedacht.
+
+(0:20:21 - 0:20:47)
+Und wenn der Stromwandler so montiert ist wie hier, ist das auch immer sinnvoll, weil er dann auch wirklich alle Fehler auch direkt am Endverschluss immer erkennen wird. Das ist bei anderen Stromwandlern, die vielleicht weiter weg sind von dem Leistungsschalter, immer ein bisschen schwierig, wenn dann am Endverschluss ein Fehler auftritt. Jetzt kommt noch die Schaltanlage im Allgemeinen, würde ich sagen.
+
+(0:20:48 - 0:21:00)
+Jetzt habt ihr das im SLD gesehen. Wenn man vor Ort ist und die Schaltanlage wirklich sieht, dann sieht die so aus. Also der untere Teil, würde ich sagen, ist erstmal der Kabelanschlussbereich.
+
+(0:21:01 - 0:21:16)
+Wir legen den Fokus erstmal auf den oberen Bereich und schauen uns diese Komponenten, die wir eben im Schema gezeigt haben, hier nochmal an. Das heißt, erstmal den Lasttrenner haben wir Feil Feld J01 auf den Lasttrenner gelegt. Das ist genau der.
+
+(0:21:17 - 0:21:33)
+Der Kapazitive Spannungsanzeiger ist hier oben verbaut in der Schaltanlage und der Kurzschlussanzeiger sitzt eben direkt darunter. Feld J01 ist das. Feld J02 haben wir einen Leistungsschalter, der ist eben hier dargestellt.
+
+(0:21:35 - 0:21:52)
+Im Detail ist es jetzt so, dass der Trenner und der Erdungsschalter noch ein bisschen weiter rechts sitzen, aber vom Grundsatz her ist das hier der Leistungsschalter, auf den wir zeigen. Wir haben dann eben auch oben nochmal den Kapazitiven Spannungsanzeiger. Es gibt hier auch noch eine Gasdruckanzeige, es gibt noch Ein- und Austaster usw.
+
+(0:21:53 - 0:22:05)
+Da gehen wir jetzt im Detail nicht drauf ein. Für unser Schema sind das erstmal die Punkte, die wir dargestellt haben, die ihr hier seht. Das Schutzrelais zeigen wir jetzt hier nicht, weil in dieser Schaltanlage ist es erstmal nicht montiert.
+
+(0:22:05 - 0:22:26)
+Das kann jetzt sein, dass das in einem separaten Schutzschrank hängt oder auf der Schaltanlage noch ein Aufbau später drauf sein wird, wo das Schutzrelais sich befindet. Das ist jetzt nur die Schaltanlage. Wir drehen sie mal, dann seht ihr auch nochmal die Anschlussstelle innen und wie so ein Siemens-Schalter es jetzt aufgebaut ist.
+
+(0:22:26 - 0:22:38)
+Ganz rudimentär zeigen wir es euch, einfach nur, damit ihr auch wisst, was wir gezeigt haben. Gibt es wirklich Anordnung der Sammelschiene? Die sitzt oben drin. Also tatsächlich auch so, wie es im Schema gezeigt ist.
+
+(0:22:38 - 0:22:47)
+Oben, Sammelschiene verbindet alle Schaltfelder. Vakuumleistungsschalter gibt es hier. Das ist jetzt, ich würde mal sagen, state of the art.
+
+(0:22:47 - 0:22:58)
+SF6 Gasanlagen setzen wir demnächst nicht mehr ein. Vakuumleistungsschalter oder Alternativen zu SF6. Und es gibt hier noch den Dreistellungslasttrennschalter.
+
+(0:22:58 - 0:23:11)
+Der sieht anders aus. Es ist hier anders gezeichnet. Das seht ihr. 
+
+Was im Detail dahinter steckt, müsst ihr gar nicht wissen. Es sind aber einfach grundlegend andere Technologien da drin. Grundlegend andere Funktionsweisen.
+
+(0:23:12 - 0:23:21)
+Jetzt habt ihr es mal gesehen. Jetzt haben wir hier noch unten das Anschlussfeld. Ihr seht, an beiden Seiten kommt ein Kabel rein, mit einem Winkelstecker oben.
+
+(0:23:22 - 0:23:32)
+Das führt an diesen Kabelanschluss an einen Außenkonus. Das ist dieses braune, was aus der Schaltanlage dann rausguckt. Unten gibt es noch eine Erdungssammelschiene.
+
+(0:23:32 - 0:23:47)
+Meinetwegen noch mit einem Halteeisen, wo das Kabel abgefangen wird. Damit man oben auf diesem Konus keinen Druck, keine mechanischen Lasten legt, sondern das Kabel entspannt oder den Endverschluss mechanisch entspannt oben anschließen kann. Jetzt kommt noch der Stromwandler, den wir eben hatten.
+
+(0:23:47 - 0:23:54)
+Den würde ich jetzt hier noch auf das Leistungsschalterfeld legen. Jetzt seht ihr das nochmal, was ich eben gesagt habe. Der sitzt genau an dieser Stelle.
+
+(0:23:54 - 0:24:12)
+Das heißt, alles, was jetzt am Kabel am Endverschluss passiert, würde dieser Stromwandler erfassen und dem Schutzrelais mitteilen. Das würde dann entscheiden, ob wir abschalten oder nicht. Jetzt kommt der Summstromwandler.
+
+(0:24:12 - 0:24:24)
+Bevor der Summstromwandler kommt, brauchen wir aber erst ein Kabel. Wir haben eine Kabelverbindung in unseren Übergabestationen zwischen Leistungsschalterfeld und Messfeld. Auf diesem Kabel wird ein Summstromwandler installiert.
+
+(0:24:25 - 0:24:39)
+Das ist nicht zwingend in jeder Anlage, aber hier in unserem Beispiel wollten wir es mal mit aufführen. Also 60 zu 1, wenn ihr so etwas seht und eine Leistung von 1,2 VA, ist das in der Regel ein Indikator. Ihr habt hier einen Summstromwandler.
+
+(0:24:39 - 0:24:53)
+Durch diesen Summstromwandler werden alle drei Kabel zusammen durchgeführt. Das macht man so. Der ist rein für Schutzfunktionen benötigt, also für die Erdfehlererkennung.
+
+(0:24:55 - 0:25:08)
+Diese Erdfehlererkennung mit diesem Summstromwandler brauchen wir auch nur, wenn wir ein Netz haben, RESPE und OSPE, also ein kompensiertes oder isoliertes Netz. Das heißt, ihr habt sehr geringe Erdfehlerströme. Dann brauchen wir diesen Kabelumbauwandler.
+
+(0:25:08 - 0:25:24)
+Da gibt es auch noch mal einen separaten Braindate dazu, um das vielleicht tiefer, besser zu verstehen. Wenn das aber so ist, dann setzt ihr den ein. Jetzt erkennt ihr erstmal, ihr habt ihn, ihr wisst, dass das so ein Wandler ist und nicht ein Wandler pro Kabel, sondern ein Summstromwandler.
+
+(0:25:26 - 0:25:35)
+Jetzt kommt das Messfeld. J03 nennt sich das, wird auch durchnummeriert. Es geht erstmal eine Leitung rein.
+
+(0:25:35 - 0:25:44)
+Es kommt jetzt erstmal ein Stromwandler rein. Es kommt ein Spannungswandler rein. Wir haben auch gleich Genauigkeitsklassen mit eingefügt.
+
+(0:25:44 - 0:25:59)
+Dann kommt noch ein Wandler rein. Das ist dann der Eigenbedarfswandler der Übergabestation, weil wir haben ja erstmal nur 20.000 Volt zur Verfügung. Damit können wir keine Geräte, kein Licht, keine Schutzrelais versorgen.
+
+(0:25:59 - 0:26:08)
+Wir müssen uns jetzt irgendwo eine 230 Volt Spannungsversorgung holen. Das machen wir mit dem Eigenbedarfswandler. Wir haben einen Mehrkernwandler.
+
+(0:26:08 - 0:26:17)
+Diese Mehrkernwandler sind erstmal für Messung und Regelung. Jetzt haben wir hier UND in Klammern Schutz gedacht. Der Wandler, den wir hier sehen, könnte das.
+
+(0:26:18 - 0:26:32)
+Aber wir haben ja schon einen anderen Wandler verwendet für unser Schutzgerät. Dann würde hier in unserem Beispiel dieser Schutzwandlerkern einfach kurzgeschlossen werden und nicht verwendet werden. Diese Wandler in dem Messfeld kann der Netzbetreiber beistellen.
+
+(0:26:32 - 0:26:43)
+Das ist im Prinzip euch überlassen. Das könnt ihr mit eurem Lieferant der Trafostation abstimmen. Bestellt ihr ihn beim Netzbetreiber, habt ihr so ein bisschen eine logistische Aufwendung, ihr müsst es abstimmen mit dem Netzbetreiber.
+
+(0:26:44 - 0:26:53)
+Kauft ihr ihn bei dem Übergabestationshersteller. Es ist meistens schneller und einfacher. Das kann jeder Projektplaner für sich entscheiden.
+
+(0:26:53 - 0:27:14)
+Ich würde sagen, das ist 50-50 fast, ob die selbst beigestellt werden oder ob der Netzbetreiber diese Stromwandler liefert. Jetzt nochmal das Messfeld in der Anlage. Hier seht ihr auch in dem kleinen Schaubild, was auf dieser Anlage gedruckt ist, es sind Strom- und Spannungswandler drin, auch die Anordnung.
+
+(0:27:14 - 0:27:26)
+Also erst meinetwegen Spannung, dann Strom. Den Eigenbedarfswandler sieht man jetzt hier nicht. Wir zeigen es gleich nochmal in der Queransicht, wie das wirklich angeordnet ist.
+
+(0:27:28 - 0:27:36)
+Jetzt reicht es erstmal so. Plombierbar ist dieses Messfeld und es ist luftisoliert. Es muss den Anforderungen des Netzbetreibers entsprechen.
+
+(0:27:37 - 0:27:52)
+Eine ganz wichtige Anforderung ist die Störlichtbogenprüfung. Rain-Day-Störlichtbogenprüfung könnt ihr euch im Detail anschauen. Aber für dieses Messfeld, für den Betonkörper, muss es eine Störlichtbogenprüfung geben.
+
+(0:27:54 - 0:28:07)
+Von der Seite sieht das dann genau so aus. Das sind diese Stützer, Stromwandler oder Spannungswandler, die dort verbaut werden. Der Stromwandler ist das untere Bauteil.
+
+(0:28:07 - 0:28:14)
+Perspektivisch sind da jetzt drei nebeneinander. Man sieht das jetzt aus dieser Ansicht nicht. Aber man hat hier drei Stromwandler, einen für jede Phase.
+
+(0:28:15 - 0:28:29)
+Der Strom fließt im Grunde genommen von dem einen Endverschluss durch den Wandler zu dem anderen Endverschluss durch den Wandler. Dann gibt es den Spannungswandler. Der ist oben an die Kupferschiene oder an den Stromwandler angeschlossen.
+
+(0:28:29 - 0:28:38)
+Da reicht meist ein dünner Draht oder so ein flachartiges Kupfer. Das ist der Kupfer, mit dem diese Verbindung hergestellt wird, weil da wenig Strom fließt. Der soll ja nur die Spannung messen, abgreifen.
+
+(0:28:40 - 0:28:45)
+Dann gibt es unten die Kabelanschlüsse. Das sind Innenraumendverschlüsse. Die sehen eben anders aus als die Winkelstecker.
+
+(0:28:46 - 0:29:02)
+Unten gibt es noch mal eine Erdungssammelschiene, wo man dann das Schirmgeflecht der Kabel auflegen kann. Es fliegt wieder zurück. Wir schauen uns an, was an den Stromwandlern im Messfeld angeschlossen wird.
+
+(0:29:02 - 0:29:13)
+Das ist erst mal der Zählerschrank. Der Netzbetreiber hat hier seinen eigenen Messkern, seinen eigenen Stromwandlerkern. Der Netzbetreiber hat auch seinen eigenen Spannungswandlerkern.
+
+(0:29:14 - 0:29:20)
+Da ist erst mal nichts dran zu rütteln. Da dürfte nichts weiter anschließen. Das ist reserviert für den Netzbetreiber.
+
+(0:29:21 - 0:29:28)
+Es gibt dann einen Zählerschrank. Hier ist ein Foto dargestellt. Sie sehen zwei nebeneinander.
+
+(0:29:28 - 0:29:38)
+Wahrscheinlich ist der eine Zähler für die Einspeisung von einer PV-Anlage. Das zweite Feld ist wahrscheinlich für den Bezug von dem Gebäude. Es wird getrennt erfasst in dem Beispiel.
+
+(0:29:39 - 0:29:52)
+Ich denke, dass es so war. Der Netzbetreiber hat hier in dem rechten Zählerschrank schon mal seinen Zähler installiert. In dem linken Schrank hängen die Kabel noch lose rum.
+
+(0:29:52 - 0:29:56)
+Da ist noch kein Zähler drin. Wahrscheinlich ist die Solaranlage noch nicht in Betrieb. Da kommt der Zähler noch rein.
+
+(0:29:59 - 0:30:12)
+Schön ist es, diese Unterschiede mit oder ohne Zähler zu sehen. Prüfklemmleisten sind da unten drin. Es wird auch noch meistens eine Antenne installiert, weil der Netzbetreiber aus der Ferne auf seine Zähler zugreift.
+
+(0:30:12 - 0:30:29)
+Diese Schränke sind plombierbar. Der Anforderungen des Netzbetreibers müssen entsprechen. Es gibt immer Vorgaben, welcher Schrank das ist, welche Größe, 1, 2 oder 3. Dann wird das von eurem Stationslieferanten eingebaut.
+
+(0:30:31 - 0:30:41)
+Jetzt kommt das Netzanalysegerät. Oben haben wir den Spannungswandler, darunter den Stromwandler. Wir schließen jetzt an den anderen Kernen von Strom- und Spannungswandler an.
+
+(0:30:41 - 0:30:50)
+Wichtig ist die Genauigkeitsklasse, die wir damit aufführen. Dann zoomen wir mal das Netzanalysegerät rein. So sieht es aus.
+
+(0:30:51 - 0:30:58)
+Es ist herstellerunabhängig. Es gibt verschiedene, die man nutzen kann. Alle erfüllen wahrscheinlich ihren Zweck.
+
+(0:30:58 - 0:31:18)
+Diese Netzanalysegeräte sind erst mal für die Messung, Regelung und Monitoring notwendig. Sie messen Strom und Spannung und übergeben diese Werte an den Parkregler über eine Schnittstelle. Der Parkregler weiß dann, was am Netzanschlusspunkt passiert und kann dann entsprechend arbeiten.
+
+(0:31:20 - 0:31:28)
+Jetzt kommt auch gleich der Parkregler, den wir anschließen. Wir haben ein Beispiel herausgesucht. Da gibt es Parkregler, die sehen so aus.
+
+(0:31:29 - 0:31:33)
+Die kann man nutzen. Es gibt auch Parkregler, die anders aussehen. Die funktionieren dann genauso.
+
+(0:31:34 - 0:32:15)
+Wichtig ist, dass die nach der entsprechenden Richtlinie zertifiziert sind. Die Parkregler setzen erst mal Steuerbefehle um und regeln die Wechselrichter über einen untergelagerten Datenlogger. Sie sorgen dafür, dass am Netzanschlusspunkt P und Q die Wirk- und Blindleistung oder Leistungsreduzierung durch den Netzbetreiber eingehalten bzw. 
+
+eingeregelt werden. Jetzt gibt es noch ein Beispiel. Das ist ein Protokoll-Umsetzer, den wir euch hier noch einblenden.
+
+(0:32:15 - 0:32:23)
+Wir zeigen das so. In unserem Konzept ist das auch so gedacht. Das ist fast immer eine SPS.
+
+(0:32:23 - 0:32:34)
+Sie kann so aussehen, kann auch anders aussehen. Diese SPS ist die Schnittstelle zum Netzbetreiber. Das ist im Grunde genommen auch etwas, was im Datenschema noch mal ausführlicher dargestellt wird.
+
+(0:32:34 - 0:32:56)
+Wir machen das aber auch in unserem Übersichtsschema, um ein Dokument zu haben, wo man das dann auch auf den ersten Blick sieht, wie das gedacht ist. Der Protokoll-Umsetzer empfängt vom Netzbetreiber Befehle und Rückmeldungen und gibt die dann weiter. Zum Beispiel schickt der Netzbetreiber ein 101er-Protokoll, so nennen wir das, abgekürzt.
+
+(0:32:57 - 0:33:23)
+Der Protokoll-Umsetzer übersetzt das in das Protokoll, was der Parkregler versteht und gibt das dann weiter. Beim Bit-Test geht es darum, ob der Netzbetreiber mit dieser SPS auch reden kann und Signale empfangen und zurückgemeldet werden. Dann haben diese SPS noch ganz viele In- und Outputs, analog und digital.
+
+(0:33:25 - 0:33:44)
+Die sind sehr mächtig, was den Funktionsumfang betrifft. Entsprechend muss man da auch viel programmieren, parametrieren, das machen dann die Fachleute. Zum Schluss gibt es noch die Möglichkeit, Protokoll-Umsetzer und Parkregler zu vereinen.
+
+(0:33:45 - 0:33:57)
+Das haben wir ja auch noch mal dargestellt. Man braucht das also gar nicht in zwei Einheiten zu bestellen, sondern man kann es eben auch so. Da gibt es dann Hersteller von SPSen, meinetwegen Phoenix oder Vargo.
+
+(0:33:57 - 0:34:23)
+Die können sowohl Protokoll umsetzen und haben auch integriert gleich eine Bibliothek für die Parkregelung und können dann auch mit den Datenloggern, mit den Wechselrichtern reden und die Befehle direkt als Parkregler weitergeben. Zum Schluss, damit wir es nicht vergessen, kommt jetzt noch die Fernwirkanlage des Netzbetreibers. Das zeigen wir hier, 101er Protokoll.
+
+(0:34:23 - 0:34:36)
+Wir tragen auch die Schnittstellen unten ein, um es übersichtlich gezeigt zu haben. Das ist hier die Fernwirkanlage e.V.U., so nennen wir das. Die sieht im Netzbereich der Edis beispielsweise so aus.
+
+(0:34:36 - 0:34:45)
+Das ist ein kleiner Schrank. Ihr müsst den beim Netzbetreiber bestellen. Wenn möglich, lasst ihr den auch gleich durch euren Stationslieferanten einbauen.
+
+(0:34:46 - 0:35:02)
+Hinter dieser Fernwirkanlage steckt dann natürlich noch eine Datenpunktliste, die ihr umsetzen müsst. Also viele, viele Datenpunkte, die dort erfüllt werden müssen. Da muss man sich wirklich im Detail überlegen, wer liefert welchen Datenpunkt, woher kommt das, über Schnittstellen mit dem Schutzgerät usw.
+
+(0:35:03 - 0:35:17)
+Da gibt es noch weitere Braindays zu, wie man das dann im Detail lösen kann. Aber im Grunde genommen Schnittstelle zur Leitwarte Netzbetreiber ist das hier. Bittest und Regelungstest werden dann über diese Schnittstelle durchgeführt.
+
+(0:35:18 - 0:35:40)
+Also der Netzbetreiber greift über dieses Gerät auf unsere Anlage zu. Die Schnittstellendefinition gemäß TAB, das ist die Datenpunktliste, die wir projektspezifisch erhalten und die wir dann erfüllen müssen. Jetzt kommt noch die USV.
+
+(0:35:40 - 0:35:48)
+Wir blenden sie dort unten ein, damit wir es vollständig haben. Die zeigen wir hier nur. USV, es gibt sie und die hält 8 Stunden.
+
+(0:35:49 - 0:36:01)
+So geben wir das an. Wir zeigen aber nicht, welche Geräte im Detail damit verbunden sind. Sonst hat man da ein Leitungsgewirr auf dem Plan, was einen am Ende mehr verwirrt, als dass es hilft.
+
+(0:36:02 - 0:36:13)
+Es wird der Schutzrelais versorgt, es wird der Parkregler versorgt, es wird auch der Messwertumformer versorgt. Dann ist es einfach zu unübersichtlich. So kann das aussehen.
+
+(0:36:13 - 0:36:21)
+Man hat dann meistens zwei Bauteile. Einmal so einen Laderegler, das ist das blaue Gerät. Unten hat man meinetwegen das Batteriemodul.
+
+(0:36:21 - 0:36:38)
+Der Laderegler sorgt dafür, dass die Batterie immer geladen ist. Wenn die 230 V Spannung ausfällt, dann wird das System über z.B. 24 V DC weiter versorgt. Wichtig ist, dass alle Komponenten auch auf 24 V DC ausgelegt sind.
+
+(0:36:40 - 0:36:50)
+Also Schutz und Regelung puffern wir. Das ist nach der 4110 für 8 Stunden zu gewährleisten. Deshalb steht dort auch klein, dieses 8 Stunden in dem Kästchen.
+
+(0:36:52 - 0:37:09)
+Zum Schluss geht es dann aus dem Messfeld weiter Richtung TRAFO Station 1. Wir geben da das Mittelspannungskabel im Querschnitt und in der Länge an. Und TRAFO Station 1 folgt dann später. Wir haben jetzt hier nochmal diese Übersicht aufgeführt.
+
+(0:37:10 - 0:37:24)
+Und alle diese Punkte haben wir jetzt hoffentlich in unserem Schema abgearbeitet. Das habt ihr jetzt hier nochmal, um den Kreis zu schließen, nochmal dargestellt. Wir prüfen das Ganze und sagen dann erstmal von uns aus, geprüft, wir sind der Meinung, alles ist drin.
+
+(0:37:24 - 0:37:35)
+Wir sind der Meinung, das Schema erfüllt jetzt erstmal unsere Anforderungen. Und jetzt würde ich sagen, habe ich genug geredet. Wir gehen jetzt erstmal in die Kaffeepause.
+
+(0:37:36 - 0:37:43)
+Machen 5 Minuten Pause. Und sehen uns dann gut erholt später wieder.

@@ -1,0 +1,43 @@
+(0:00:00 - 0:00:06)
+Willkommen zurück. Ich sage an der Stelle auch gleich, wir haben das ja heute ein bisschen anders gemacht. Wir haben ja heute einen Live-Versuchsstand hier.
+
+(0:00:07 - 0:00:39)
+Das ist dann, ja, das wird einfach ein bisschen anders, aber dann kriegt man da einen sehr pragmatischen, sehr praktischen Eindruck. Das führt dazu, dass wir das in einem Block machen und das führt wiederum dazu, dass wir jetzt heute die Pause deutlich früher machen. Ich glaube, in ungefähr 10, 15 Minuten machen wir eine kurze Pause. 
+
+Einfach nur, dass ihr Bescheid wisst. Jetzt nochmal voll mit reingehen in das Kapitel Komponenten. Und das halte ich sehr einfach sehr kurz, weil ich jetzt an der Stelle nicht in die Details gehe für diese einzelnen Komponenten.
+
+(0:00:39 - 0:00:48)
+Das wäre dann so eine Schaltanlage mit Leistungsschalter. Die braucht man, um überhaupt den Fehler dann ja abschalten zu können. Also vielleicht ganz kurz dann doch.
+
+(0:00:48 - 0:01:13)
+Das Schutzrelais erkennt ja meinetwegen den Fehler, aber wenn es dann keinen Kollegen hat, Kollegen, die den Fehler wiederum wirklich löschen kann, also den Schalter öffnen kann, dann bringt das ja alles nichts. Das ist, finde ich, eine ganz Urfrage, Problemstellung der Schutztechnik. Das Relais, alles klar, ist gut, super, wunderbar, funktioniert, aber es ist mindestens genauso wichtig, dass dann auch der Leistungsschalter abschaltet.
+
+(0:01:13 - 0:01:25)
+Sonst hat ja die Kette in Summe nicht funktioniert und dann bringt das gar nichts. Dann leuchtet da immer ein Relais rot, aber der Fehler steht weiterhin an, weil dieser Schalter, den ihr da seht zum Beispiel, nicht abschaltet. Also der gehört immer dazu.
+
+(0:01:25 - 0:01:41)
+Zur Schutztechnik braucht man so einen Leistungsschalter. Das Schutzrelais selbst, natürlich, hatte ich gerade schon beschrieben, dann muss ja der, weil wir sind ja bei Überstrom, der Messwert irgendwo herkommen. In der Mittelspannungstechnik hat man da immer solche Stromwandler.
+
+(0:01:41 - 0:01:46)
+So sehen die ungefähr aus. In der Niederspannungstechnik sehen die ähnlich aus, sind einfach nur ein bisschen kleiner. Braucht man aber immer.
+
+(0:01:47 - 0:01:58)
+Ohne Stromwandler kann man den Strom erstmal nicht messen. Das heißt, das ist genau wie beim Leistungsschalter. Wenn der Stromwandler nicht da ist oder nicht verdrahtet ist oder nicht funktioniert, dann hat das Schutzrelais überhaupt keinen Sinn mehr.
+
+(0:01:58 - 0:02:05)
+Dann würde das immer 0 Ampere anzeigen. Prüfklemmen ist der vierte Punkt. Die braucht man auch.
+
+(0:02:06 - 0:02:24)
+Wir hatten das schon öfter, wir machen ja Schutztechnik oder Prüfungen öfter und wenn dann doch mal keine Prüfklemmen vorbereitet sind, ist das enorm schwierig, so ein Relais zu prüfen. Das liegt dann oft daran, man kann ja dann gar keine Werte simulieren. Man hat eben keinen Ansatzpunkt für die Prüfung selbst.
+
+(0:02:25 - 0:02:31)
+Im allerschlechtesten Fall muss man dann Verdrahtungen entfernen. Das will man aber nicht. Ich finde, das ist auch so eine Grundlogik der Schutztechnik.
+
+(0:02:31 - 0:02:45)
+Man macht ja dann eher wieder was schlechter als was besser. Also Prüfklemmen sind wichtig und in der 4110 steht das ehrlich gesagt auch drin, dass die da zu sein haben. Das machen wir heute aber nicht, diesen Block.
+
+(0:02:46 - 0:03:03)
+Und zwar, weil wir uns neben dem UMZ-Schutz heute ja auch noch den IMD-Schutz anschauen. Online findet ihr aber dieses Kapitel komplett, also wunderbar erklärt von meinem Kollegen Holger. Das heißt, notiert euch das gerne und schaut euch das im Anschluss einfach nochmal an.
+
+(0:03:03 - 0:03:07)
+Wir machen jetzt weiter, damit wir dann in der Praxis später mehr Zeit haben.

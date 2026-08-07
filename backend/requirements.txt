@@ -1,0 +1,9 @@
+openai
+numpy
+python-dotenv
+fastapi
+uvicorn
+
+
+
+

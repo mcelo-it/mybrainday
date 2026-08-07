@@ -1,0 +1,131 @@
+(0:00:00 - 0:00:11)
+Und da gehen wir ins letzte Kapitel Schutztechnik. Wir haben jetzt noch acht Minuten grundsätzlich. Jetzt fällt mir das sehr spät ein, aber das ist grundsätzlich so.
+
+(0:00:11 - 0:00:22)
+Stellt ihr Fragen immer parallel im Chat bitte. Da sitzen Kollegen von mir, die das ja mit aufgebaut haben. Hier, die wissen das also ganz genau und können dann im Chat immer schon mal parallel antworten.
+
+(0:00:22 - 0:00:30)
+So ist das erst mal grundsätzlich gedacht. Das ist ganz, ganz wichtig. Außerdem gibt es bei uns die Regel am Schluss und damit meine ich elf Uhr.
+
+(0:00:30 - 0:00:44)
+Manchmal ist es elf Uhr eins zugegebenermaßen. Gehen wir noch mal in Menti und geben da Fragen den offenen Raum. Aber bitte, bitte, dann tippt sie schon mal vorher ein oder schickt sie jetzt schon per Chat, dann geht es später schneller.
+
+(0:00:46 - 0:01:01)
+Kurzer Ausblick in die Schutztechnik. Sechs Minuten, weil wir das in den nächsten Wochen dann noch mal viel detaillierter machen und man so ein komplexes Thema wie Schutztechnik für ein IT-System auf keinen Fall in sechs Minuten hinkriegt. Aber ich will es zumindest mal gezeigt haben.
+
+(0:01:02 - 0:01:15)
+Also die Schutztechnik-Norm sozusagen, die 410, die sagt, man braucht geeignete Schutzmaßnahmen. Okay, also nur als da auch wieder die Frage warum ist, brauchen wir die Schutzmaßnahmen. Die Norm sagt es halt.
+
+(0:01:16 - 0:01:26)
+Und da sagt dieser Abschnitt 411. Man muss automatisch abschalten und gibt dann zwei zwei Sub-Levels, die im Wording, finde ich, etwas unglücklich sind. Aber so stehen sie halt drin.
+
+(0:01:26 - 0:01:33)
+Einmal braucht man einen Basisschutz. Man braucht auch wirklich beides. Und das wäre dann vom Niederspannungs-Mittelspannungs-Kabel genauso.
+
+(0:01:34 - 0:01:39)
+Erst mal die Isolierung. Das ist erst mal abgehakt. Ich glaube, das hat noch nie jemand anders gemacht.
+
+(0:01:39 - 0:01:51)
+Und jetzt kommt aber das zweite Level, eine automatische Abschaltung. Die ist also gefordert, auch in IT-Systemen erst mal grundsätzlich ganz, ganz klar. Aber nicht beim einpoligen Fehler.
+
+(0:01:51 - 0:02:01)
+Warum hatten wir vorhin, glaube ich, schon gezeigt. Diese Ströme sind dann ja praktisch nicht vorhanden oder sehr, sehr niedrig. Also wir müssen nicht unbedingt abschalten.
+
+(0:02:01 - 0:02:09)
+Und jetzt noch mal im Detail die Bewertung aus der Norm. Die sagt Ja, da muss ich, glaube ich, aus dem Bild. Dann sieht es ein bisschen besser aus.
+
+(0:02:09 - 0:02:41)
+Aber also nicht überrennen lassen jetzt von dem Bild. Da steht einfach nur drin, dass der RA, der Widerstand jetzt zwischen dem Wechselrichter meinetwegen aber den Blitz reingezeigt und der Erde multipliziert mit dem Strom, wenn man so will, den Fehler Strom kleiner sein muss als 50 Volt, weil das ist halt dann die Berührungsspannung, die man ja in Wirklichkeit da anfasst. So, wenn wir uns das hier mal ausrechnen, wäre das bei uns ein Ohm als Beispiel und diese 1,28 Ampere, die wir vorhin schon mal ausgerechnet hatten.
+
+(0:02:41 - 0:02:54)
+Jeder erinnert sich, das war eine typische 5 Kilometer war es, glaube ich, Kabelstrecke. Und dann kommen da jetzt, weil ein Ohm 1,28 Volt dabei raus. 1,28 Volt sind kleiner als 50 Volt.
+
+(0:02:54 - 0:03:06)
+Also haben wir bewiesen, wir müssen nicht abschalten, sondern wir können das mit so einem Isolations Überwachungseinrichtung. Also IMD merkt euch das. Könnte mit den Schutztechnikern viel besser sprechen.
+
+(0:03:06 - 0:03:17)
+So sieht das aus als Beispiel. So ein IMD braucht man dann aber nicht keine Angst haben, wenn man so will. Das ist ja so gedacht.
+
+(0:03:17 - 0:03:32)
+Also wenn man es dann erst mal hat, dann ist das alles in Ordnung. Gut, was muss dieses IMD machen? Es muss den, wir nennen das ersten Fehler melden. Wir hatten es schon gesagt, wenn der zweite Fehler kommt, gibt es vielleicht einen zweipoligen Kurzschluss.
+
+(0:03:32 - 0:03:39)
+Der ist dann nicht mehr zulässig. Also den ersten Fehler, den muss das IMD schon melden. Das muss es visuell oder akustisch machen.
+
+(0:03:40 - 0:03:52)
+Und wir empfehlen, nein nicht wir, die Norm, dass man dann den Fehler so schnell wie möglich abschaltet. Also ganz wichtig, das steht drin, Sie empfehlen das. Wir haben für unsere Projekte bewertet, dass wir es nicht empfehlen.
+
+(0:03:52 - 0:04:10)
+Insofern würden wir beim IMD ersten Fehler nicht abschalten, also auch nicht so schnell wie möglich, sondern wir argumentieren, das ist eine Betriebsanlage, da ist ein Zaun außenrum, die Stationen sind alle abgeschlossen. Das heißt, wir müssen das wissen, dass da jetzt ein Fehler anliegt. Aber wir müssen nicht abschalten.
+
+(0:04:11 - 0:04:24)
+Und beim zweipoligen Fehler wird sofort abgeschaltet. Die NH-Sicherung übernimmt das. So, was macht eigentlich so ein IMD? Da ist es, und ihr hattet es auch schon in der 360°-Tour gesehen, da sieht das eben genauso aus.
+
+(0:04:25 - 0:04:43)
+Und das legt jetzt permanent eine Prüfspannung zwischen Beispiel Phase 1 und Phase 2, also es misst an zwei Phasen und legt da Prüfspannung an und misst immer. Da ist er mit einem definierten Isolationswiderstand. Der Widerstand ist in dem Gerät drin.
+
+(0:04:46 - 0:04:54)
+Entschuldigung, da ist er, Entschuldigung, Entschuldigung, jetzt war ich doch zu schnell, aus dem resultierenden Strom. Genau, wird dieser ISO bestimmt. So ist es, Entschuldigung.
+
+(0:04:55 - 0:05:19)
+Also es misst, es legt die Prüfspannung an, dann fließt ein Strom, der wird gemessen und daraus kann das im Dreisatz einen Isolationswiderstand berechnen, der jetzt in dem Moment an der Stelle auftritt. Wir wiederum und alle anderen Schutztechniker können das prüfen, indem sie da einfach einen einstellbaren Testwiderstand parallel legen. Also das ist ein Messgerät, das legen wir da an.
+
+(0:05:19 - 0:05:34)
+Muss man auch wissen, welche Phasen, weil die sind ja dann unter Spannung. Und dann kann man ohne konkrete Prüfungen, Vorgaben auf irgendeiner Norm diese Widerstände verändern. Man würde sie halt von sehr hoch auf immer weiter niedrig reduzieren.
+
+(0:05:35 - 0:05:59)
+Und dann klickt irgendwann ja offensichtlich dieses IMD, diese Messüberwachung schreitet irgendwann ein und sagt, du bist jetzt unter einem Mindestwert und genau den würden wir dann aufschreiben. Und wir würden prüfen, ob das Alarmsignal oder gegebenenfalls je nach Planung eine Abschaltung überhaupt auftritt. Jetzt entschuldige ich mich und ich will es nicht überstrapazieren, die Geduld nach zwei Stunden.
+
+(0:05:59 - 0:06:12)
+Aber jetzt kommen noch einige Informationen, die wir halt ehrlich gesagt ja dann schon vorbereitet haben für den nächsten Brainday, in dem es dann um Schutztechnik geht. Deswegen gehe ich jetzt sehr schnell hier durch. Ich will es nämlich nur mal gezeigt haben, dass es das halt gibt.
+
+(0:06:12 - 0:06:19)
+Also man muss jetzt die Einstellwerte ermitteln. Und da gibt es drei Varianten. Auf der DC-Seite ist das sehr einfach.
+
+(0:06:19 - 0:06:27)
+Da steht das in der Norm drin. Da will ich nicht in die Zahlen reingehen, um Himmelswillen. Aber da gibt es eine Norm.
+
+(0:06:27 - 0:06:34)
+So würden wir dann die DC-Seite einstellen. Das, was wir in der 360-Grad-Tour gesehen haben, ist AC-Seite. Jetzt nicht verwirren lassen.
+
+(0:06:34 - 0:06:44)
+Aber die Wechselrichter haben so einen Wächter schon immer auf der DC-Seite. Und nur um es der Form halber gesagt zu haben, kommt nach der Norm da dann der Wert rein. Jetzt wird es aber interessanter.
+
+(0:06:44 - 0:06:51)
+Jetzt gehen wir auf die AC-Seite und da können wir das auch nach Norm machen. Achtung, nicht erschrecken. Riesentabelle.
+
+(0:06:51 - 0:07:06)
+Ich zoome dann gleich schon mal da lieber rein, dass man nur in den oberen Haken eigentlich rein muss, in die obere Zelle und sich da dann was raussuchen kann. Das machen wir jetzt nicht. Wir machen jetzt keine Berechnung von Einstellwerten.
+
+(0:07:06 - 0:07:12)
+Das machen wir in einem anderen leeren Block. Aber man hat es mal gesehen. Also auch für die AC-Seite gibt es eine Norm.
+
+(0:07:12 - 0:07:34)
+Und wie oft gibt es aber auch eine andere Möglichkeit, und zwar eine projektspezifische Berechnung finden wir besser, weil dann ist es na ja, dann passt es meistens irgendwie dann doch ein bisschen besser. Und so hat uns der Hersteller das auch empfohlen. Also der Personenschutz wird bei 30 mA deutlich erhöht.
+
+(0:07:34 - 0:07:39)
+Also größer 30 mA ist schlecht. Ein FI-Schalter ist auch so eingestellt. Das wollen wir nicht.
+
+(0:07:39 - 0:07:55)
+Also ist das unser Limit. Und wenn wir jetzt ein 800 Volt System nehmen, haben wir wieder einen sehr einfachen Dreisatz und kommen mit 800 durch 30 mA auf 26,7 Kiloohm. Und dann wäre so ein typischer Einstellwert 25 Kiloohm.
+
+(0:07:55 - 0:08:04)
+Das haben uns auch die Hersteller so bestätigt. Das kann man so machen. Und dann würde ich das jetzt hier auch erst mal für heute genau damit beenden.
+
+(0:08:05 - 0:08:15)
+Wir haben jetzt noch mal in der Schutztechnik gesehen, dass man das braucht und dass man. Nee, ich gehe noch auf eine Seite weiter. Entschuldigung, da auf die will ich noch hinaus.
+
+(0:08:15 - 0:08:29)
+Genau das wollte ich noch gezeigt haben. Es gibt dann drei Ebenen, die wir in einem anderen Brain Day aber uns dann genauer angucken. Einmal die Einstellwerte würden wir machen separat nach Warnung und Alarm.
+
+(0:08:29 - 0:08:48)
+Was könnte so ein Unterschied sein? Der Unterschied könnte sein, die Warnung wird dann eben ein Geräusch ergeben, eine Sirene oder eine Warnlampe. Oder im in der Leitwarte geht ein Alarm an und beim Zweiten eine Warnung an. Und bei der zweiten Stufe gibt es ein Ausbefehl nach einer gewissen Zeit.
+
+(0:08:48 - 0:08:54)
+Wir hatten es vorhin gelernt. Acht Stunden darf das ja maximal anliegen. Also könnte man mal sagen vier Stunden zum Beispiel.
+
+(0:08:54 - 0:09:07)
+Also beim zweiten Stufe schaltet der Hard ab und die Leitwarte muss aber unbedingt beides mitkriegen. Das ist ganz, ganz, ganz wichtig. So das Schutzprüfprotokoll schauen wir uns beim nächsten Mal an.
+
+(0:09:07 - 0:09:16)
+Da hat mich eine geärgert und sagen erst mal für heute ist es super wieder gelaufen. Springen jetzt wieder in Menti rüber und.

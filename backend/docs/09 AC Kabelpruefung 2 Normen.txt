@@ -1,0 +1,44 @@
+(0:00:00 - 0:00:27)
+Wir springen einmal in die Normen. Da ist es so, dass wir jetzt eben diese zwei, was wir eigentlich prüfen, unterteilen in einmal die Niederspannung und dann gleich im Anschluss noch die Mittelspannung, weil die dann eben auch in unterschiedlichen Normen behandelt werden. So, und bevor ich die Normen gleich zeige, in der das alles steht, saugen wir oder picken wir uns ein paar von den wichtigsten Prüfungen heraus, die dann da stehen.
+
+(0:00:27 - 0:00:51)
+Das sind dann auch genau die, die wir jetzt dann später in den Anschlusskapiteln sowohl im Messaufbau als auch in den Messprotokollen mal genau darstellen. Das erste ist die Durchgängigkeit der Leiter und das PE. Da wir später, wie gesagt, konkret beschreiben, was da für Werte rauskommen, wie man das genau macht, mache ich das hier nicht, sondern ich weise erst mal nur darauf hin, dass die Norm das so vorgibt.
+
+(0:00:53 - 0:01:14)
+Den Isolationswiderstand müssen wir uns messen und protokollieren, dadurch den Schutz durch automatische Abschaltung der Stromversorgung durch Messung sicherstellen. Wir müssen die Phasenfolge der Außenleiter überprüfen. Wir müssen die Funktions- und Betriebsprüfung sicherstellen.
+
+(0:01:14 - 0:01:47)
+Das heißt, die wichtigsten Komponenten, das zeige ich später auch noch mal, aber zum Beispiel Leistungsschalter, Sicherung, Wechselrichter, deren Funktion muss sinnvoll nachgeprüft werden, indem man zum Beispiel so einen Leistungsschalter einfach mal ein- und ausschaltet. Na ja, und Betriebsprüfung ist dann eben auch, dass die Norm weiterblickt als nur die Phase vor der Inbetriebnahme, also auch nach der Inbetriebnahme. Sozusagen muss der Prüfer noch mal sicherstellen, dass der Betrieb auch reibungslos funktioniert.
+
+(0:01:47 - 0:02:00)
+Also auch das gehört zu so einer Gesamtprüfung dazu. Und der letzte Punkt, den die Norm da noch vorschlägt, ist der Spannungsfall. Wie das sich auswirkt, zeige ich auch später noch mal.
+
+(0:02:00 - 0:02:15)
+So, und jetzt sehen wir es gleich. Also das ist die Norm VDE 0100-600 Teil 6. Die würde ich mir merken, Highlighten rausschreiben. In der werden die Prüfabläufe erst mal grundsätzlich definiert für unsere AC-Kabel.
+
+(0:02:18 - 0:02:31)
+Der zweite Punkt oder das zweite Was war die Mittelspannung, also unsere Mittelspannungskabel. Und da ist es ein bisschen anders. Jedenfalls ist es auch eine andere Norm, die wir gleich sehen werden.
+
+(0:02:32 - 0:02:46)
+Da wird unter anderem der Aufbau von Leitungen dargestellt. Also wie wird die Isolierung aufgebaut? Wie wird der Schirm aufgebaut? Solche Mittelspannungskabel sind da recht komplex. Sehen wir später auch noch mal in so einem Querschnitt.
+
+(0:02:47 - 0:03:04)
+Dann wird definiert, dass diese Kabel im Werk zu prüfen sind. Also das, was ich gerade meinte, ist, dass man grundsätzlich erst mal davon ausgehen kann, dass die funktionieren, genauso wie es im Datenblatt steht. Aber das heißt ja noch nicht, dass es nach der Installation immer noch so ist.
+
+(0:03:06 - 0:03:18)
+Da wird auch beschrieben, der Transport der Leitungen und zum Beispiel die Kabelrollen. Da geht es ja dann um Kabeltrommeln. Da geht es ja dann um Biegeradien und den sicheren Transport der Kabel.
+
+(0:03:18 - 0:03:29)
+Also sogar dieser sozusagen immer notwendige Schritt wird da auch dargestellt. Die Strombelastbarkeit stehen drin. Naja, da haben wir schon einen ganz eigenen Braindate drüber gemacht.
+
+(0:03:29 - 0:03:41)
+Natürlich ganz wichtige Sache. Also die Strombelastbarkeit der Kabel wird in der Norm definiert. Die Hinweise für Verlegen, Abrollen, Umspulen, Legearten und so weiter stehen da auch drin.
+
+(0:03:41 - 0:04:06)
+Also wenn man mal in seinem Projekt einen realen Ablauf noch mal ein paar Infos haben möchte, kann man sogar da reingucken. Das wäre ja so ein extrem realer Bezug, einfach weil man weiß, dass aufgrund von falschen Verlegungen viele Fehler entstehen. So und dann, das ist natürlich der wichtigste Punkt, dann stehen da auch die empfohlenen Prüfungen nach der Verlegung drin.
+
+(0:04:07 - 0:04:31)
+Das sehen wir dann im übernächsten Kapitel ganz, ganz kleinteilig. Deswegen mache ich es hier nicht, mit welchen Prüfspannungen man das macht, wie man den Aufbau nachbildet und auch welche Grenzwerte da vorgesehen sind, sehen wir später noch. Deswegen zeigen wir hier nur, dass grundsätzlich die Prüfung beschrieben wird in der Norm.
+
+(0:04:31 - 0:04:44)
+Und das ist jetzt die VDE 0276. Dies ist eine übergeordnet große, wichtige Norm für uns Elektroplaner. Aber dann hier den Teil 620, der bezieht sich auf das, was ich gerade hier beschrieben habe.

@@ -1,0 +1,128 @@
+(0:00:00 - 0:00:12)
+Wir haben noch eine halbe Stunde und gucken uns noch drei weitere Kapitel an. Erstmal die Messung. Jetzt haben wir das also gebaut, unser System, und wir wollen drei Messungen zeigen.
+
+(0:00:12 - 0:00:20)
+Einmal die reine Durchgangsmessung. Jetzt wird es richtig real. Dann der Potentialausgleich am Wechselrichter und dann nochmal die Stationserdung.
+
+(0:00:21 - 0:00:31)
+Muss ja dann auch irgendwie gemacht werden. Jetzt haben wir das so schön geplant, die haben das so schön ausgeführt und jetzt muss man das auch noch messen. Wie genau geht das eigentlich? Vermeintlich einfach, finde ich.
+
+(0:00:31 - 0:00:37)
+Am Ende scheint es doch an Details. Deswegen geben wir es sehr detailliert vor, wie wir uns das vorstellen. Und zwar so.
+
+(0:00:38 - 0:00:59)
+Also hier ist es unsere Tischreihe und dann haben wir zwei Reihen in Nord-Süd meinetwegen dargestellt und hier kommt unser Potentialausgleich im Kabelgraben von Nord nach Süd. Jetzt haben wir ja mehrfach gesehen und jetzt auch in der Tour gesehen, dass dann aus dem Kabelgraben hier mein Anschluss an diese Tischbeine kommt. Und wir haben die Brücken gebaut, Aluminium nochmal hierhin gebogen.
+
+(0:01:00 - 0:01:18)
+Und jetzt wollen wir erstmal jede Reihe zur unmittelbar nächsten Reihe messen. Also diese nördliche zur südlichen will ich diesen Durchgang messen, damit ich weiß, dass in dem Kabelgraben, den ich ja gar nicht mehr sehen kann, diese Verbindungsstellen richtig gemacht sind. Jetzt haben wir hier zwei Messpunkte angegeben und ich sage gleich, so würde ich es nicht machen, aber das ist ja der Aha-Effekt.
+
+(0:01:18 - 0:01:48)
+Wenn ich, bin dieser Herr da, jetzt den Widerstand messe mit kleiner 0,2 Ohm, das wäre so ein Maximalwert, den wir empfehlen, 0,2 Ohm messe ich da, dann stelle ich aber fest, Daumen runter, irgendwie habe ich nicht alles mitgedacht, weil ich ja die Brücken jetzt gar nicht mitgemessen habe. Das heißt, ich wüsste gar nicht in meiner Logik, ob denn die Brücken richtig montiert sind. Die hinteren Tische, also die vom Kabelgraben abgewandten Tische, werden jetzt nicht mitgeprüft worden.
+
+(0:01:48 - 0:02:13)
+Deswegen machen wir es nicht so, sondern wir schieben unsere Messpunkte rüber. Ich laufe immer am äußersten Rand meiner Tischreihen entlang, mache da meine zwei Messpunkte dran und jetzt wird das Ganze hoffentlich grün, also vom äußersten Punkt aus messen. Zack, dieser Prüfstrom geht da durch, einmal runter, einmal rüber, einmal hoch und dann habe ich da wieder meine hoffentlich kleiner 0,2 Ohm gemessen.
+
+(0:02:15 - 0:02:26)
+Diesen Messwert, da würde ich jetzt nicht zu sehr drauf rumhacken. Meistens kriegen wir die, wenn das mal 0,3, 0,4 ist, ist das auch in Ordnung. Dann könnte man ja noch mal gucken, ob man irgendwo vielleicht eine Querverbindung vergessen hat.
+
+(0:02:27 - 0:02:45)
+Aber das ist immer noch völlig in Ordnung. Klar ist, wenn ich so irgendeine von diesen 1, 2, 3, 4 Verbindungen, die ich hier zeige, nicht richtig realisiert habe, dann würde ich da überhaupt keinen Durchgangswiderstand messen und dann würde ich das erkennen und könnte den Fehler suchen. Hier ist erstmal Daumen hoch, haben wir gut gemacht.
+
+(0:02:46 - 0:03:07)
+Jetzt gibt es dann meistens, sagen wir mal in unserer Topologie zumindest, auch noch eine Straße, die da so irgendwie mittendurch führt und dann gibt es da so Querverbindungen, wenn man so will. Und die würden wir auch messen, weil die sind immer ja irgendwie speziell. Gerade unter einer Straße muss man ja erstmal bei der Ausführung wirklich beachten, dass die auch mit geprüft wurden.
+
+(0:03:07 - 0:03:14)
+Also das empfehlen wir auch. Dann haben wir hier auch so eine Querverbindung noch mal geprüft. Und man muss das Ganze in ein Messprotokoll eintragen.
+
+(0:03:15 - 0:03:28)
+Das machen wir hier mal beispielhaft. Also sagen wir mal die Nummer 1, das ist jetzt im Areal 1, die Reihe 16, der Tisch Nummer 1 und rüber zum Tisch Nummer 17 meinetwegen. Und dann hat man diesen Wert reingetragen.
+
+(0:03:29 - 0:03:42)
+Und dann sagen wir, gut gemacht, erstens gut gemessen, zweitens die Logik beachtet und drittens in ein Messprotokoll eingetragen. War schon relativ einfach. Je nach Anlagengröße kann das Tage dauern.
+
+(0:03:43 - 0:03:54)
+Ja, und man darf da nicht die Lust am Messen verlieren. Jetzt würden wir als nächstes sagen, machen wir auch noch eine Prüfvorlage für unseren Potentialausgleich am Wechselrichter. Kann ja auch eine DC-Sammelbox sein, das kann alles Mögliche sein.
+
+(0:03:54 - 0:04:02)
+Das kann auch irgendeine Wetterstation sein. Aber jetzt machen wir es mal am Wechselrichter, weil dann hat man vielleicht da auch 10 oder 100 davon. Und da braucht man auch eine schöne Prüfvorlage.
+
+(0:04:03 - 0:04:22)
+Und dann sehen wir wieder hier unseren grünen-gelben, der nur so markiert ist. In Wirklichkeit ist er schon UV-geschützt verlegt, aber er ist zumindest zu erkennen als Potentialausgleich. Und da sage ich jetzt auch erst mal diese 0,2, einfach nur, um da einen sinnhaften Wert erst mal vorzugeben.
+
+(0:04:22 - 0:04:32)
+Sonst kann ich ihn ja nicht bewerten. So, und wir müssen jeden Wechselrichter messen. Also das machen wir nicht stichprobenhaft, sondern jeder wird gemessen und wir tragen das in ein Messprotokoll ein.
+
+(0:04:32 - 0:04:50)
+Und da haben wir das ja auch wieder ähnlich gemacht, hier mit so einer Tabelle, einfach nur, dass man so einen konkreten Vorschlag hat. Also da könnten jetzt in der Tabelle 100 Wechselrichter stehen. Wir sagen halt immer, wo das gemessen wird und Daumen hoch, weil der Wert unter 0,2 oben ist.
+
+(0:04:51 - 0:05:03)
+Vermeintlich einfache Durchgangsprüfung, elektrotechnisch gesehen extrem simpel. Es muss aber gemacht werden und überprüft werden. Die Stationserhöhung, da ist es ein bisschen schwieriger, kriegt man aber auch hin.
+
+(0:05:03 - 0:05:21)
+Also hier haben wir unsere Station mit unseren zwei Ringen und ich sage es schon gleich, Achtung, wir haben es extra ganz diffizil hier so schön aufgezeichnet. Die Ringe sind außen mit der Station verbunden. Der Runddraht in unserem Beispiel von der Unterkonstruktion kommend geht nicht an die Ringe, sondern geht direkt in die Station rein.
+
+(0:05:22 - 0:05:36)
+Da gibt es eine Hauptpotentialschiene und da wird das aufgelegt. Warum, zeige ich dir jetzt. Warum würden wir das so machen? Also es gibt eine sogenannte Drei-Leiter-Prüfung, mit der kann man jetzt diesen Erdausbreitungswiderstand messen.
+
+(0:05:37 - 0:05:57)
+Und was meine ich mit diesen? Ich möchte jetzt den des Ringes messen oder der beiden Ringe. Ich möchte nicht das sogenannte Globalsystem messen, also alle Trafostationen zusammen mit Schirm der Mittelspannung verbunden mit Unterkonstruktion verbunden. Das möchte ich jetzt erst mal nicht, sondern ich möchte den Ring separat messen.
+
+(0:05:57 - 0:06:08)
+Und deswegen nehme ich ihn ab. Also sinnvoll, hier sehen wir die Schere, zack, sinnvoll, dass wir das außen angeschlossen haben. Das ist sichtbar, das ist 20-30 cm über der Erdoberfläche.
+
+(0:06:08 - 0:06:20)
+Man kann das einfach abschrauben. Und den Runddraht von der Trafostation, den muss ich aber nicht abschrauben, den kann ich auf dem Hauptpotentialschiene lassen. Da mache ich gar nichts, weil jetzt habe ich ja mein Erdungssystem, meinen Ring getrennt.
+
+(0:06:21 - 0:06:31)
+Hier sieht das ja immer alles so einfach aus, aber in Wirklichkeit ist das ja alles vergraben, also sehe ich den Ring ja gar nicht. Ich muss wirklich genau wissen, wo meine Anschlusspunkte sind. Ja, gute Dokumentation ist wichtig.
+
+(0:06:32 - 0:07:00)
+Diese 3-Leiter-Prüfung geht dann so, man läuft da ein paar 10-20 Meter weiter und setzt Messpunkte. Und dann folgt das einem logischen Messverfahren, das eben diese 63 % an Abstand anwendet, um dann in ein Berechnungsverfahren auf diesen Erdausbreitungswiderstand zu kommen. Also 63 % der Länge und einmal die Gesamtlänge, das wird halt so gemacht.
+
+(0:07:00 - 0:07:12)
+Das steht dann schon auch in der Bedienungsanleitung von dem Messgerät so drin. Und jetzt habe ich hier einen Erdausbreitungswiderstand gemessen. Ich habe jetzt hier mal vorsichtig 2 Ohm angegeben, weil eine Übergabestation müsste das so machen.
+
+(0:07:13 - 0:07:38)
+In unserem Fall, weil wir das ja getrennt haben von dem globalen System, kommen wir der Erfahrung nach auf höhere Werte, unter 10 aber, unter 10, um eine Zahl zu nennen, sage ich jetzt mal 5-6 Ohm, wäre für mich in Ordnung, weil das ja nur der Ring selbst ist. In meiner Vorgabe wäre das in Ordnung. Und dann mache ich aber noch mal eine zweite Prüfung, indem ich dann den Ring wieder anschließe.
+
+(0:07:38 - 0:07:46)
+Das zeige ich jetzt nicht, das sage ich nur. Ich würde ihn also wieder anschließen, noch mal messen. Und dann habe ich mit Sicherheit weniger als 2 Ohm.
+
+(0:07:46 - 0:08:00)
+Das hat mir in allen unseren Projekten so, sonst wäre das irgendwo und wahrscheinlich ein Fehler drin, weil ich ja dann ein gigantisches, globales Erdungssystem angeschlossen habe, hunderte von RAM-Profilen. Und dann komme ich auch unter die 2 Ohm. Also aus unserer Sicht ist es sinnvoll, beides zu messen.
+
+(0:08:01 - 0:08:33)
+Einmal schere ran separat, vielleicht 6 Ohm, dann noch mal angeschlossen und dann komme ich aber auf 1, 1,2, 1,3, 1,8 Ohm und bin dann zufrieden mit beiden Messergebnissen. Warum mache ich das? Nur kurz, weil aus meiner Sicht es sinnvoll ist, zu verstehen, ob der Ringerder in sich funktioniert. Also es könnte ja sein, dass diese Verbindungsmittel sich gelöst haben und dann komme ich auch nicht mehr auf 6 Ohm, sondern dann werde ich extrem hohe Werte haben, kann das über die Jahre hin ja auch verfolgen, ob meine Messwerte schwächer werden.
+
+(0:08:33 - 0:08:44)
+Und dann stelle ich fest, der Ring hat ein Problem. Das würde ich nie rauskriegen, wenn ich immer das gesamte Globalsystem messe. Also kleiner 2 Ohm und der andere kleiner 6 Ohm und super.
+
+(0:08:45 - 0:09:11)
+Jetzt zeigen wir hier kurz, wie wir das in einem Messprotokoll aufschreiben und als Vorlage nehmen wir das E6. Da empfehlen wir natürlich auch den Braindate, in dem es um diese E-Formulare geht, da kommt das auch vor, deutlich ausführlicher. Aber jetzt kann man also diesen E6-Bogen nehmen, der nennt sich Erdungsprotokoll, steht auch oben drin, folgt der 4110 und ist dementsprechend, finde ich, sehr sinnhaft vorbereitet.
+
+(0:09:11 - 0:09:24)
+Und da wird jetzt zum Beispiel stehen, ich zeige nur wenige Ausschnitte, dass das die Station 1 ist. Also wenn man 10 Stationen hat, hat man schon mal 10 Protokolle und kann die auch zuordnen. Das klingt einfach, mir fällt das immer wieder auf, dass das zum Beispiel vergessen wird.
+
+(0:09:24 - 0:09:35)
+Und dann weiß ich ja gar nicht, welche Messung ist für welche Station. Also das schreiben wir da oben rein. Und dann haben wir gesehen, super, das ist die Station 1, Art der Prüfung.
+
+(0:09:35 - 0:09:42)
+Ich mache so ein kleines gelbes Häkchen rein, das ist die Erstprüfung. Und dann kommt hier ein ganz wichtiger Wert. 2 habe ich reingeschrieben.
+
+(0:09:42 - 0:09:53)
+Also das ist der Wert, den ich fordere für meinen Erdausbreitungswiderstand 2 Ohm. Und jetzt gehen wir da runter und da schreiben wir den Messwert rein. Und da steht Gott sei Dank, steht da 1,9.
+
+(0:09:54 - 0:10:14)
+Wenn da was anderes stünde, dann geht es los. Dann muss man überlegen, hattest du jetzt das globale Erdungssystem angeschlossen oder hat es das nicht angeschlossen? Oder ist dein Tiefenerder nicht richtig drin? Oder hast du irgendwo Verbindungsprobleme? Aber nur so kann ich ja überhaupt in diese Detailprüfung gehen. Wenn ich diese Messergebnisse nicht sehe, wüsste ich nicht, worüber ich diskutieren soll.
+
+(0:10:15 - 0:10:19)
+Jetzt haben wir alles richtig gemacht hoffentlich. Dann steht da unwesentlich bzw. ohne Mängel.
+
+(0:10:19 - 0:10:28)
+Und ganz wichtig, da wird unterschrieben. Das sage ich auch immer, wenn es hier um Messprotokolle geht. Ohne Unterschrift zählt das für mich nicht.
+
+(0:10:29 - 0:10:48)
+Also, was haben wir gemessen? Erdungswiderstand, Trafostation, Ort, Zeit, Unterschrift. Das Material schreiben wir auf. Welche Tiefenerder, welche Banderder werden benutzt? Wie war das Wetter? Ist der ausreichend markiert? Und, finden wir auch super sinnvoll, macht Fotos.
+
+(0:10:48 - 0:11:02)
+Ich würde sagen, die erfahrenen, guten Bauleiter machen das sowieso immer. Aber wenn man das mit ablegt, mit dem Protokoll, dann kann man ja auch nochmal zeigen, wo genau sind denn die Tiefenerder, wo genau sind denn die Verbindungspunkte von den Ringen.

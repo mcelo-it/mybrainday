@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:17)
+Jetzt gucken wir in die Prozesskette rein. Also, wie funktioniert so ein zeitlicher Ablauf von so einer Zertifizierung? Am Anfang steht da der Anschlussnehmer, nennen wir ihn heute. Das bin, wenn man so will, ich, also der Elektroplaner von dem PV-Park.
+
+(0:00:17 - 0:00:26)
+Neues Projekt. Jetzt geht's los. Ich sage, ich muss erst mal ein Anlagenzertifikat mich darum kümmern, weil ich weiß, dass ein ganz langer Prozess ist, ein schwieriger Prozess.
+
+(0:00:26 - 0:00:34)
+Also lege ich gleich damit los. Und dann mache ich als allererstes. Ich besorge mir eine Zertifizierstelle, also eine Bestellung schicken, eine Aufschreibung machen, dann eine Bestellung schicken.
+
+(0:00:35 - 0:00:53)
+Und dann habe ich schon meinen Partner zur Hand. Meine Zertifizierstelle, die schickt mir dann als allererstes eine Checkliste erster Schritt. Wer aufgepasst hat, das ist dann jetzt auch gleich das nächste Kapitel, auf das wir uns konzentrieren, damit wir dann also diesen ersten Schritt gut abarbeiten können.
+
+(0:00:54 - 0:01:16)
+Wenn man jetzt die Checkliste hat, weiß man also, was man alles besorgen muss. Und da sage ich als allererstes, meine Hersteller, die ich da so benutze für die kritischen Komponenten, muss ich ganz sicher anschreiben. Oder vielleicht findet man es auch manchmal online, weil die für ihre Komponenten, also zum Beispiel der Wechselrichter, immer ein Einheitenzertifikat haben müssen.
+
+(0:01:17 - 0:01:32)
+Das ist auch so. Sich etabliert, funktioniert ganz hervorragend. Und dann hole ich mir dieses Einheitenzertifikat zum Beispiel vom Wechselrichterhersteller direkt ab und Komponentenzertifikate nennen, wenn es um andere Komponenten geht, zum Beispiel den Parkregler.
+
+(0:01:34 - 0:01:55)
+Dann schaue ich in die VDE Anwendungsrichtlinie 4110, was ich eigentlich so machen muss in meiner Elektroplanung. Worauf muss ich achten? Haben wir an anderer Stelle sehr ausführlich beschrieben, wie man die vielen, vielen Informationen, die da drin liegen, sehr gut aufbereitet in die eigene Planung integrieren kann. Worauf man also achten muss.
+
+(0:01:55 - 0:02:12)
+Das heißt, ich mache eine Planung natürlich nach 4110. Wenn ich das gemacht habe oder parallel vielleicht sinnhafterweise hole ich den Netzbetreiber mit ins Spiel. Der hat auch Unterlagen beizustellen.
+
+(0:02:12 - 0:02:22)
+Das macht er, welche zeigen wir gleich noch. Und dann schickt er uns die. Und dann habe ich erst mal von dem Hersteller, von meiner Planung und vom Netzbetreiber alle wichtigen Informationen zusammengesammelt.
+
+(0:02:23 - 0:02:37)
+Wenn ich das habe und dementsprechend die Checkliste abgearbeitet ist, reiche ich alles zusammen in einem Riesendokumente Paket bei der Zertifizierstelle ein. Ich sage es gleich mal vorneweg. Feedback von vielen Zertifizierstellen ist ganz klar.
+
+(0:02:37 - 0:03:01)
+Wenn man das strukturiert macht, übersichtlich irgendwelche Logiken drin verbaut, zum Beispiel in der Benennung der einzelnen Dokumente, vielleicht noch eine Gesamtübersicht schreibt, dann hat die Zertifizierstelle natürlich einfacher. Dann gibt es weniger Rückfragen und dann geht es auch insgesamt schneller. Jetzt haben wir das wunderbar aufbereitet und trotzdem passiert Entschuldigung, jetzt haben wir das wunderbar aufbereitet.
+
+(0:03:01 - 0:03:25)
+Die Zertifizierstelle weiß, jetzt kann es losgehen und holt sich wiederum selbst vom Wechselrichterhersteller das digitale Modell, weil es in einem Software Netzberechnungsprogramm jetzt Analysen fahren muss. Das ist für uns ein extra Block. Deswegen steht er da auch so groß, weil diese Modelle kriegen wir als Anlagen, als Anschlussnehmer, als Elektroplaner meist nicht.
+
+(0:03:25 - 0:03:45)
+Das sind geschützte Software Systeme von den Wechselrichterherstellern. Aber den Zertifizierstellen, denen überlassen sie es, da machen sie so eine Vertraulichkeitsvereinbarung und dann kriegen die Zertifizierstellen das direkt vom Wechselrichter. Oft kriegt man das gar nicht mit, weil sich das mittlerweile etabliert hat.
+
+(0:03:46 - 0:04:10)
+Bei ein paar Projekten habe ich es mal mitgekriegt, weil die Zertifizierstelle das einfach noch nicht hatte und dann musste man da so ein bisschen nachhelfen. Aber am Ende kriegen also nicht wir die E-Mail, sondern die läuft direkt an die Zertifizierstelle. So und jetzt kommt der Schritt drei, den ich auch bei meinem wahrscheinlich 25. 
+
+Anlauf noch nicht vermieden haben konnte. Es gibt immer Rückfragen. Ich glaube, das liegt einfach in der Komplexität dieses ganzen Systems.
+
+(0:04:11 - 0:04:38)
+Ich habe es selbst noch nie geschafft. Wenn es jemand geschafft hat, soll er mir gerne Bescheid geben, das alles ohne Rückfragen mal hingekriegt zu haben. Aber so ist das eben. 
+
+Umso weniger Rückfragen, umso besser. Sobald die kommen, stürzen wir uns da drauf, lesen uns das alles durch, verteilen sozusagen wiederum an die, an die das im Endeffekt interessiert ist und arbeiten das ganz schnell ab. Da ist es rübergeflogen, das Anlagenzertifikat.
+
+(0:04:38 - 0:04:50)
+Jetzt sind also die Rückfragen auch beantwortet. Das Anlagenzertifikat ist von der Zertifizierstelle erstellt. Und jetzt haben wir es hier extra noch mal als parallelen Pfeil zum Anschlussnehmer hingezeichnet, weil das wichtig ist.
+
+(0:04:50 - 0:05:01)
+Die Zertifizierstelle schickt dem Anschlussnehmer das Zertifikat. Wir sind der Beauftragende bei der Zertifizierstelle. Deswegen kriegen wir auch das Anlagenzertifikat.
+
+(0:05:01 - 0:05:18)
+Das ist wichtig, weil am Ende hier geht es gleich weiter, muss ja im fünften Schritt dann das unbedingt weiter zum Netzbetreiber. Also bitte nicht das, ich sage mal, im Postfach liegen lassen, sondern unmittelbar das ganze Projektteam informieren. Das ist es auch wert.
+
+(0:05:18 - 0:05:34)
+Das ist ein Meilenstein in so einem Projekt. Also kann man das auch mal kundtun und auf jeden Fall weiterleiten an den Netzbetreiber. Hinweis, das sind riesige Dateien meistens, also große Dateien, die oft über Mails nicht übertragen werden können.
+
+(0:05:34 - 0:05:46)
+Das habe ich schon oft erlebt. Das ist natürlich sehr ärgerlich, wenn man vermeintlich sie verschickt hat, sie aber einfach nie angekommen ist. Also Nachfragen anrufen und eine Bestätigung kriegen, dass das auch angekommen ist.
+
+(0:05:47 - 0:05:59)
+Der Netzbetreiber prüft dann das Ganze. Und im sechsten Schritt haben wir es geschafft, gibt es eine positive Rückmeldung an uns. Jawohl, habt ihr alle unsere Anforderungen eingehalten? Wir sind zufrieden damit.
+
+(0:05:59 - 0:06:07)
+Und dann gibt es grünes Licht für die Inbetriebnahme. Also das ist erst mal die Prozesskette. Die muss bitte jeder so verinnerlichen.
+
+(0:06:08 - 0:06:39)
+Wenn wir uns das jetzt noch mal auf einer anderen Ebene einfach nur anschauen, gehe ich nur ganz kurz darauf ein, weil wir das in einem anderen Schulungseinheit sehr akribisch hier abgearbeitet haben. Aber wenn man das in einem anderen Darstellung einfach noch mal diese verschiedenen Schritte zeigt, sieht das so aus aus der 4110. Und heute, Stichwort Anlagenzertifikat, geht es eben nur um den Schritt 2. Und wenn man den, steht alles so in dieser Richtlinie drin, noch mal herausarbeitet, hat man diese Übersicht.
+
+(0:06:39 - 0:06:58)
+Und auch da, Achtung, grau ich aus, also nur dieser dritte Punkt Erstellung, Anlagenzertifikat und Abgabe beim Netzbetreiber. Das ist das, worum es heute geht. Also das nur so als Hintergrundwissen noch mal, um es einzuordnen, wie die wie die Norm das so bereitet.
+
+(0:06:59 - 0:07:14)
+Und genau das Gleiche, genau diese gleiche zeitliche Logik, die da in der 4110 beschrieben ist, machen wir hier auch noch mal nur als Zeitstrahl. Alles wieder ausgegraut, worum es eben heute nicht geht. Also nur auf das Grüne achten, bitte.
+
+(0:07:15 - 0:07:32)
+Da hatte die 4110 das mal so beschrieben, dass man da ungefähr sechs Wochen wahrscheinlich dafür braucht und dass man das halt dann ungefähr acht Wochen vor der Bestellung der Übergabestation ausführt. Da haben wir gesagt, das steht jetzt links oben. Das ist eine rein theoretische Betrachtungsweise.
+
+(0:07:32 - 0:07:57)
+Und uns ist wichtig, darauf hinzuweisen, dass das so nicht funktioniert aus unserer Sicht, sondern die Realität sieht anders aus. Man bestellt erst mal viel früher die Übergabestation. So ist das. 
+
+Die Feinplanung ist dann eigentlich immer abgeschlossen. Außerdem braucht man für diesen E-Bogen beim Netzbetreiber eigentlich immer deutlich länger, als das sich die Norm mal vorgestellt hat. Und unserer Erfahrung nach braucht die Zertifizierstelle auch länger.
+
+(0:07:57 - 0:08:16)
+Also dieses zwölf Wochen jetzt mal bitte nur als ungefährer Daumenwert annehmen. Das mag mal schneller gehen, mal langsamer. Und das liegt sicherlich nicht nur an den Zertifizierstellen, sondern das liegt auch daran, dass man vielleicht dann Unterlagen vergessen hat, dass da Sachen fehlen, dass Antworten einfach noch nicht da sind, weil das eine vielschichtige Fragestellung ist.
+
+(0:08:18 - 0:08:32)
+So, das war so ein bisschen dieser Realitätscheck sozusagen. Und jetzt letzter letzte Variante der Übersicht einer Prozesskette hier nochmal der Anhang aus der 4110. Auch wieder alles ausgegraut, was heute nicht so wichtig ist.
+
+(0:08:33 - 0:08:47)
+E15 ist es in der 4110. Da steht's Anlagenzertifikat und die Form halber haben wir es hier noch mit reingeschrieben in der Hoch- und Höchstspannungsebene heißt der E13, nur dass man da nicht durcheinander kommt.

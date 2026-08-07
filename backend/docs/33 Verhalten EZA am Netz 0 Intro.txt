@@ -1,0 +1,38 @@
+(0:00:00 - 0:00:14)
+Willkommen zum heutigen Brain Day. Vielen Dank fürs Einschalten. Heute beschäftigen wir uns mit dem Thema Verhalten von Erzeugungsanlagen am Netz und haben dieses Thema für euch wie gehabt strukturiert.
+
+(0:00:15 - 0:00:25)
+Also wir fangen an mit dem Thema Warum, mit dem Kapitel Warum. Das kennt ihr ja schon aus vorangegangenen Brain Days. Da wollen wir erst mal das Interesse ein bisschen wecken.
+
+(0:00:25 - 0:00:41)
+Warum machen wir das? Warum brauchen wir heute den Brain Day? Und kommen dann zu dem Punkt Allgemein. Und der allgemeine Punkt, den finden wir auch so in der 4110 wieder. Also das wird uns heute wieder verfolgen.
+
+(0:00:41 - 0:00:59)
+Die 4110 ist so ein bisschen die Leitschnur hier. Also allgemein aus der 4110 stellen wir euch dann vor. Und dann habt ihr im Prinzip am Ende dieses Brain Days das Wissen, was so in der 4110 steht, was die Anforderungen an die Erzeugungsanlage am Netz eben sind, was jetzt die Erzeugungsanlage ist.
+
+(0:00:59 - 0:01:13)
+Das erklären wir später noch mal ein bisschen mehr im Detail, was da die Unterschiede vielleicht sind zur Erzeugungseinheit. Dann geht es weiter. Ein Punkt eben bei diesem Verhalten der Erzeugungsanlagen am Netz ist eben die statische Spannungshaltung.
+
+(0:01:13 - 0:01:28)
+Wie hat das zu funktionieren? Was sind die Vorgaben? Welche Regelparameter gibt es da vielleicht? Da gehen wir eben hier in diesem Kapitel drauf ein. Stehendes Symbol, das wird euch hier auch eben durch den Brain Day heute folgen. Und als nächstes kommt dann eben das laufende Männchen.
+
+(0:01:28 - 0:01:42)
+Da geht es dann eher um dynamische Netzstützung. Auch hier wieder Limitleistungseinspeisung. Wie funktioniert das? Was steckt dahinter? Welche Regeln gibt die Norm vor? Wie müssen wir das können? Dann geht es erst mal in ein Berechnungsbeispiel.
+
+(0:01:43 - 0:01:52)
+Das haben wir euch vorbereitet. Dann, glaube ich, steigt man einfach noch mal ein bisschen tiefer ein. Wir haben heute ohnehin ein Thema, was technisch sehr tiefgründig wird oder sehr ins Detail geht.
+
+(0:01:52 - 0:02:10)
+Aber wenn ihr dann so ein Berechnungsbeispiel einmal selbst durchrechnet, dann seid ihr fast auf dem Level eines Zertifizierers, weil der Zertifizierer macht genau diese Berechnungen. Der prüft das genauso, wie wir es hier mal an einem Beispiel machen. Und dann werdet ihr, glaube ich, schon sehen, das, was in diesen Zertifikaten am Ende immer drinsteht.
+
+(0:02:10 - 0:02:18)
+Das kann man auch schon verstehen. Da muss man nicht einfach drüber blättern und sagen, der Zertifizierer hat das schon für uns gemacht. Nein, nein, ihr könnt das verstehen.
+
+(0:02:18 - 0:02:31)
+Wir geben euch das Handwerkszeug dazu mit, dass ihr eben so ein Zertifikat auch jetzt mal mit mehr Hintergrundverständnis einfach prüfen könnt. Dann geht es um die Wirkleistungsabgabe. Eben auch ein Kapitel aus der 4110.
+
+(0:02:32 - 0:03:02)
+Welche Anforderungen haben wir? Wie geht das? Welche Regeln? Welche Regeln müssen wir befolgen? Und zum Schluss ein Thema, das ist natürlich auch ein Verhalten von der Erzeugungsanlage am Netz, der Kurzschlussbeitrag von unseren Erzeugungsanlagen. Ich finde, das passt nicht so 100 Prozent hier in die Reihe, ist aber eben das Verhalten am Netz gehört dazu, ist in dem Kapitel der Norm so enthalten. Und deshalb, um das Ganze rund zu kriegen, dieses Kapitel oder dieses Unterkapitel, werdet ihr später sehen, um dieses Unterkapitel abzuarbeiten, gehört das einfach dazu.
+
+(0:03:03 - 0:03:06)
+Und das ist dann auch der, wahrscheinlich der kürzeste Block, den wir hier so heute haben.

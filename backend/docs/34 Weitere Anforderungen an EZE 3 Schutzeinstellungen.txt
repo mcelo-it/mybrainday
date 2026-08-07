@@ -1,0 +1,284 @@
+(0:00:00 - 0:00:13)
+Das nächste Kapitel an Schutzeinstellung. Also wir müssen uns, glaube ich, erst mal wieder oder ich mich zumindest orientieren. Wo sind wir denn jetzt in der Norm? Und das mache ich wieder mit dieser Übersicht.
+
+(0:00:13 - 0:00:29)
+Also Kapitel 3 1 3 2 3 3 hatten wir jetzt gerade uns angeguckt und jetzt sind wir im Kapitel 10 3 4. Wenn sich erinnert Am Anfang habe ich das schon gesagt. Da unterteilt die Norm jetzt in Ich mache das noch mit meinem Bild gleich. Ich kann auch im Bild bleiben.
+
+(0:00:29 - 0:00:36)
+Das ist jetzt egal, finde ich. Also das kennt ja jeder. So eine Zufahrtsstraße von der PV-Anlage, dass es zwei Varianten gibt.
+
+(0:00:36 - 0:00:46)
+Nach Norm einmal Anschluss am UW und einmal im Mittelspannungsnetz. Das im Hintergrund, finde ich, sieht ja eigentlich genau gleich aus. Deswegen zoomen wir da mal rein.
+
+(0:00:46 - 0:00:53)
+So ein bisschen in der Logik haben wir links ein Umspannwerk. So sieht das ja dann aus. Also so wäre das direkt an die Sammelschiene.
+
+(0:00:53 - 0:00:58)
+Und bei dem Rechten ist es nicht so. Da hat man die Übergabestation. Geht irgendwann indirekt auch mal ins Umspannwerk.
+
+(0:00:58 - 0:01:14)
+Das ist aber nicht der Punkt, sondern es wird eben nicht direkt am Umspannwerk angeschlossen, sondern in der Übergabestation. So und da fangen wir jetzt wieder in der vierten Ebene der Unterkapitel an. Dann redet die Norm auch hier wieder von Kurzschlussschutzeinrichtungen.
+
+(0:01:14 - 0:01:25)
+Aber ich halte das ganz kurz, weil der Kurzschlussschluss für mich nicht so relevant ist. Der ist immer gleich. Das hatte ich vorhin schon gesagt.
+
+(0:01:25 - 0:01:43)
+Ich gucke mir das eher an, was noch ein Subkapitel drunter im übergeordneten Entkupplungsschutz dargestellt ist. Ja, genau, genau, genau. Entschuldigung, dieses dieses Subkapitel, das hat hier noch nichts verloren, das kommt jetzt zu früh.
+
+(0:01:43 - 0:01:55)
+Das muss ich gedanklich löschen. Also wir sind bei Kurzschlussschutz und da sage ich, der ist integriert in das Schutzkonzept vom Umspannwerk und gegebenenfalls ist ein Distanzschutz im Umspannwerk erforderlich. Also vielleicht noch mal, um es zu wiederholen.
+
+(0:01:55 - 0:02:04)
+Wir sind jetzt im Umspannwerksanschluss. Dann gelten halt sozusagen diese speziellen Regeln. Ich finde, es ist immer wichtig, Wissen, das macht.
+
+(0:02:05 - 0:02:19)
+Es ist immer gut, wenn man das verstanden hat, was dann im Umspannwerk eigentlich so passieren muss. Dann kann man da ja auch mal so ein Schlagwort reinwerfen. Brauchen wir eigentlich einen Distanzschutz? Am Ende macht ja der Planer und Errichter vom Umspannwerk diese Umsetzung und diese Detailplanung.
+
+(0:02:19 - 0:02:36)
+Ich finde es ja trotzdem besser, wenn man irgendwie weiß, was da jetzt gefordert ist. Und dann kann man ja mal halbwegs schlau mitsprechen sozusagen. Und die Parameter kommen aus der 4110, aber die Anpassung erfolgt dann über den E7-Bogen.
+
+(0:02:36 - 0:02:44)
+Das machen wir nächste Woche. Heute geht es erst mal um den Vorschlag, der da aus der Norm kommt. Und jetzt fangen Tabellen an.
+
+(0:02:44 - 0:03:13)
+Also das ist jetzt super nüchtern und keiner, bitte, fängt jetzt an, diese Werte auswendig zu lernen, sondern es geht jetzt darum, zu verstehen, welche Tabellen gibt es überhaupt und wo finde ich sie? Und da, finde ich, ist die Antwort schon klar. Also in der Kapitel 10, 3, 4, 2, 1 finde ich die folgenden Werte, also Spannungssteigerungsschutz, erste Stufe, zweite Stufe. Habe ich vorhin erklärt, was das ist? Und Spannungsrückgangsschutz, erste und zweite Stufe.
+
+(0:03:14 - 0:03:22)
+Die finde ich, muss gucken. Ja, genau. Und den QU-Schutz, weil am Netzverknüpfungspunkt, also übergeordnet, gibt es ja auch die Forderung nach dem QU-Schutz.
+
+(0:03:23 - 0:03:36)
+Also diese Vorgaben finden wir in der 4110, in dem Kapitel, das ich da oben hingeschrieben habe. Soweit, so gut. Ich habe es noch mal grafisch dargestellt.
+
+(0:03:37 - 0:03:44)
+Also orange ist dieser übergeordnete Entkupplungsschutz. Achtung im Umspannwerk. Ja, also da sind wir jetzt gerade.
+
+(0:03:44 - 0:03:53)
+Und das, was die Norm sagt, haben wir hier jetzt noch mal richtig dargestellt. So würde das aussehen. In für mich besser erkennbarer Diagrammformat.
+
+(0:03:54 - 0:04:09)
+Also bei UN ist in der Mitte und wenn es ein bisschen kleiner ist, also 80 Prozent nur, dann fängt links die Auslösung an und bei 10 und 20 Prozent Überspannung fängt rechts die Auslösung an. Vielleicht schon ein bisschen fürs Gefühl. Da oben steht Zeit 180 Sekunden.
+
+(0:04:10 - 0:04:17)
+Das ist in der Schutztechnik sind das ja mehrere Generationen sozusagen. Also das sind ja Jahrhunderte. Normalerweise schalten die in Millisekunden.
+
+(0:04:18 - 0:04:35)
+Sieht man auch bei der schnellen Auslösung. Also das ist wirklich gedacht für ganz, ganz, ganz langfristige, also aus Schutztechnik Sicht Probleme, die da vielleicht auftreten. Und soll vielleicht gleichzeitig andersrum besser gesagt dafür sorgen, dass um Himmels Willen eigentlich nie wirklich abgeschaltet wird.
+
+(0:04:35 - 0:04:47)
+Deswegen so lange Zeiten, weil das will man ja eigentlich gar nicht, dass die Anlagen vom Netz gehen. So jetzt kommt das nächste Kapitel. Jetzt kommt der zweite Punkt sozusagen in fünfter Ordnung.
+
+(0:04:48 - 0:05:00)
+Der Entkupplungsschutz an der Erzeugungseinheit. Ja, ich wiederhole mich sozusagen ständig. Also in dem Kapitel vorher habe ich ja auch übergeordnet und Entkupplungsschutz an den Erzeugungseinheiten unterteilt.
+
+(0:05:00 - 0:05:10)
+Das ist mir bewusst. Da hatte ich aber erklärt im Kapitel vorher, was das überhaupt ist und wo. Und hier beschreiben wir ja jetzt beziehungsweise die 41 10 macht das halt so.
+
+(0:05:10 - 0:05:22)
+Hier beschreiben sie, was man einstellen muss in dieses Relais, das wir vorhin beschrieben haben. Deswegen neue Spalte. Ich passe auch immer noch hin, kann das vorwegnehmen, da kommt noch mehr.
+
+(0:05:22 - 0:05:31)
+Insofern muss ich dann später noch mal weg. Aber jetzt kann ich erst noch stehen bleiben, weil der Zwischengelage des Schutzes passt hin. Also neue Tabelle in der Norm und dann stehen da diese Werte drin.
+
+(0:05:32 - 0:05:40)
+Gehen wir auf keinen Fall ins Detail. Das kann man sich dann mal angucken, wenn man mal dabei ist oder so. Ob das jetzt schnell ist oder langsam, aber das sind sie auf jeden Fall.
+
+(0:05:42 - 0:05:50)
+Auch den gucken wir uns jetzt an in dem Diagramm. Achtung, er ist noch nicht drin. Also jetzt ist der übergeordnete drin im Umspannwerk.
+
+(0:05:50 - 0:06:01)
+Und jetzt machen wir mal den Zwischengelagerten mit rein. Kann ja jeder vielleicht eine Sekunde noch mal selber dran denken, wo er glaubt, dass jetzt die Linie von dem übergelagerten dem Zwischengelagerten hinschraubt. Da wäre das.
+
+(0:06:02 - 0:06:11)
+Das sind jetzt genau die Kennwerte aus der Norm. Also wie man die Lesung kann, werde ich jetzt nicht erklären. Haben wir nicht die Zeit dafür.
+
+(0:06:12 - 0:06:20)
+Und das machen wir, wenn wir die Relais dann mal prüfen. In einigen Wochen wird das so sein. Dann gehen wir das im Detail durch und dann werden wir hier auch Prüfpunkte setzen.
+
+(0:06:20 - 0:06:43)
+Aber eins mache ich mal als Beispiel und hoffe, ich kriege es selber hin. Also wenn jetzt zum Beispiel wir gehen auf die linke Seite, wenn die Spannung bei sagen wir mal 0, bei 50 Prozent liegt, dann sind wir ja zwischen den zwei gestrichelten Linien. Und dann hätte ich nach einer Zeit bis 2,4 Sekunden, also das wäre der untere Bereich, hätte ich gar keine Auslösung.
+
+(0:06:43 - 0:07:00)
+Da passiert gar nichts. Aber wenn ich dann darüber rutsche, also länger als 2,4 Sekunden, meinetwegen im Beispiel, dann kommt die zweite Stufe, weil wir dann über dieser grünen Linie liegen. Okay, so, den nehme ich jetzt weg und nehme die dritte noch mit rein.
+
+(0:07:00 - 0:07:08)
+Das ist jetzt meine Erzeugungseinheit. Und da hatte ich vorhin gesagt, da steht A N drin. Also das macht genau wir.
+
+(0:07:08 - 0:07:16)
+Wir machen das. Diese Werte definieren wir. Das heißt, die Tabelle, zeige ich auch gleich, müssen wir wirklich selber ausfüllen und das dann der Zertifizierstelle schicken.
+
+(0:07:17 - 0:07:23)
+Vielleicht ein bisschen aufregend, ob die das dann auch für richtig erachten. Aber genauso wird das gemacht. Also da müssen wir ran.
+
+(0:07:24 - 0:07:41)
+Und warum machen wir das so? Ich erkläre es kurz. Also grundsätzlich darf der integrierte Schutz in den Erzeugungseinheiten nicht den zwischengelagerten und auch nicht den übergeordneten NA-Schutz unterwandern. Das ist nicht zulässig.
+
+(0:07:42 - 0:07:58)
+Also wir haben ja sozusagen den Zwischengelagerten jetzt eingeführt, weil wir sagen, der in den Wechselrichtern integrierte hat keine Prüfklemmleiste. Und außerdem sind es ja viel zu viele Einheiten. Das heißt, wir verlagern ja sozusagen die Schutzfunktionen vom Wechselrichter in diesen zwischengelagerten Schutz in der Trafostation.
+
+(0:07:58 - 0:08:18)
+Und weil wir das machen, darf dann nicht plötzlich die Erzeugungseinheit früher schalten als der Zwischengelagerte, der ja die Funktion ersetzen soll. Also grundsätzlich kein Unterlaufen des zwischengelagerten Entkupplungsschutzes zulässig. Wie mache ich das? In dem Diagramm finde ich super einfach.
+
+(0:08:19 - 0:08:26)
+Man muss es nur richtigrum sagen. Aber man sieht es ja jetzt an den blauen Linien sehr gut. Wir gehen wieder in die Unterspannung, in den Unterspannungsbereich.
+
+(0:08:26 - 0:08:44)
+Also die blaue Linie muss sowohl über der grünen und der orangenen sein als auch links davon. Das bedeutet nämlich, dass sie sowohl also drüber später schalten würde als auch zu einer niedrigeren Spannungseinheit. Das ist dann weiter nach links verschoben.
+
+(0:08:45 - 0:09:00)
+Also wenn ich sie sowohl drüber als auch nach links schiebe, dann kann schon nichts mehr passieren, weil sie würde dann bei niedrigeren Spannungen überhaupt erst loslaufen. Und sie braucht außerdem länger als der Zwischengelagerte NA-Schutz, um auszulösen. Und bis sie das dann macht, hat der Zwischengelagerte ja schon abgeschaltet.
+
+(0:09:01 - 0:09:09)
+Das heißt, die Erzeugungseinheit wird nie auslösen. Und genau das ist das Ziel. Auf der Überspannungsseite ist es genau das gleiche Prinzip, nur in die andere Richtung geschoben.
+
+(0:09:11 - 0:09:24)
+So, und dann stehen da noch zwei Bullet Points direkt über mir. Beachtet den Spannungsfall auf dem Kabel. Ja, also man hat ja zwischen dem Wechselrichter, der Erzeugungseinheit und der Trafo-Station, wo der Zwischengelagerte-Schutz ist, eine Distanz.
+
+(0:09:24 - 0:09:33)
+Und da auf diesem Kabel kommt es zu einem Spannungsfall. Das ist Elektrotechnik. Das heißt, die Spannung am Wechselrichter ist höher als am Transformator.
+
+(0:09:34 - 0:09:51)
+Und das muss man in diesem Diagramm beachten. Also als Beispiel, wenn ich einen Spannungsfall von zwei Prozent habe, das kann sein, das ist, finde ich, durchaus möglich. Dann darf ich jetzt nicht meinen integrierten Wechselrichter, meinen integrierten Schutz nur um ein Prozent höher setzen als der Zwischengelagerte.
+
+(0:09:51 - 0:10:03)
+Dann sieht das in diesem Diagramm vielleicht so aus, als wäre alles okay. Ist es aber in Wirklichkeit nicht, weil ich den Spannungsfall nicht mit beachtet habe. Habe ich geschrieben Delta zwei Prozent? Also gut, wir setzen das halt so hoch, wie es geht.
+
+(0:10:03 - 0:10:16)
+Ehrlich gesagt, habe ich nicht aufgeschrieben, weil das machen halt nur wir so. Aber wir setzen den Wechselrichter in allen Funktionen einfach ans Limit. Und dann gucken wir noch mal im Umkehrschluss, ob das größer ist als zwei Prozent und kein Unterlaufen der Netzstützung.
+
+(0:10:17 - 0:10:28)
+Da hole ich, das ist so wichtig, da hole ich gleich ein neues Diagramm raus, dass wir, meine ich, genau letzte Woche hatten wir uns das genauer angeguckt. Also da geht es um dynamische Netzstützung. Das müssen die Wechselrichter machen.
+
+(0:10:29 - 0:10:46)
+Die müssen also das Netz dynamisch im Fehlerfall stützen können. Und das hatten wir sehr detailliert beschrieben, wie das funktioniert anhand dieses Diagrammes. Aber was bedeutet das denn jetzt? Also wir haben hier eine X-Achse, eine Zeit und eine Y-Achse haben wir eine Spannung.
+
+(0:10:46 - 0:10:56)
+Und jetzt mache ich einfach mal ein Beispiel. Ja, weil genau diese Werte setze ich ja in meinen Relais und in meine Erzeugungseinheit. Und dann sage ich immer, das ist auf jeden Fall zulässig.
+
+(0:10:56 - 0:11:17)
+Also als Beispiel ist auch kein Zufall, weil es sind typische Werte bei einer Spannung von 45 Prozent der Nennspannung, also ein richtiger Einbruch, muss die Zeit bei, sage ich mal, 2,5 Sekunden liegen. Das ist dieser grüne Punkt, den ich da gesetzt habe. Dann seht ihr, dass die, dass dieser FRT, dieser Fall Drive Through nicht unterwandert wird.
+
+(0:11:17 - 0:11:34)
+Also der kann, der Wechselrichter kann den trotzdem durchfahren und wird nicht durch dieses Schutz Relais abgewürgt, sozusagen. Jetzt haben wir noch ein Gegenbeispiel. Natürlich also nicht zulässig, nenne ich ihn erst mal gleiche Spannungsebene 0,45, also 45 Prozent Nennspannung.
+
+(0:11:35 - 0:11:50)
+Und jetzt haben wir da aber 200 Millisekunden oder 100 Millisekunden eingesetzt, also wenn man so will, unmittelbar. Das ist so nicht zulässig, weil jetzt kann der Wechselrichter ja seinen schönen Fehler gar nicht durchfahren. Geht ja nicht, weil ich ja durch das Schutz Relais vorgelagert schon ihn rausschmeiße.
+
+(0:11:50 - 0:12:09)
+Und wir haben es aber dazu geschrieben, weil wir das schon viel, viel oder ich habe, glaube ich, in jedem Edis Projekt hatte ich das, glaube ich, so, dass die Vorgaben das durchaus unterwandern dürfen. Ich würde mal sagen, das ist generell so. Netzbetreiber sticht 4110, kann man sich vielleicht auf einen Zettel schreiben.
+
+(0:12:10 - 0:12:30)
+Also wenn der Netzbetreiber über diesen E7-Bogen das aber so vorgibt, dann ist das schon in Ordnung. Ich finde es trotzdem sinnvoll, es zu verstehen, dass es nicht so gedacht ist. So, wir sind wieder bei meiner Tabelle und ich fürchte, jetzt muss ich kurz aus dem Bild raus, weil ich jetzt genau das, was ich gerade gesagt habe, hier hinten reinschiebe.
+
+(0:12:30 - 0:12:43)
+Also das habe ich jetzt gemacht. Würde ich in Zukunft noch mal orange färben, einfach, dass man es besser versteht, dass die Fehler, dass diese Einstellwerte von uns kommen. Das Gleiche machen wir für die Frequenz.
+
+(0:12:43 - 0:13:09)
+Da kann ich auch gerne wieder rein, falls das irgendwie etwas persönlicher oder sympathischer wirkt, kann ich auch wieder ins Bild mit rein und mache das im Schnelldurchlauf. Weil da darf aber keiner sagen, dass ich zu schnell rede, sondern hier ist das jetzt einfach Copy-Paste zu Spannung. Es sind halt nur andere Zeilen aus der Tabelle, aber auch der gleichen Norm aus dem gleichen Kapitel.
+
+(0:13:09 - 0:13:21)
+Also Achtung, links bei Funktionen stehen jetzt nicht Spannungen, sondern Frequenzsteigerungen und Frequenzrückgang. Und dann ist es aber das gleiche Prinzip. Beim übergeordneten steht einfach nichts drin.
+
+(0:13:21 - 0:13:28)
+Deswegen brauchen wir da auch nichts aufschreiben. Beim Zwischengelagerten stehen diese Werte drin. Und ja, genau.
+
+(0:13:28 - 0:13:42)
+Dann haben wir das auch noch mal dargestellt als Entschuldigung als als Diagramm und habe übergeordnet, Zwischengelagert. Und jetzt lege ich wieder die blaue Linie rein. Das ist jetzt wieder meine Erzeugungseinheit.
+
+(0:13:43 - 0:13:58)
+Genau das gleiche Prinzip. Ich habe bei allen Ebenen, die ich so finden konnte, habe ich die Zeiten verlängert und bei der Unterfrequenz die Frequenz niedriger eingestellt und bei der Überfrequenz höher eingestellt. Da habe ich mal 100 Prozent Delta hingeschrieben.
+
+(0:13:58 - 0:14:11)
+Wie gesagt, das liegt vor allem an den Limits im Wechselrichter. Ich stelle das einfach auf Maximum. Und dann sage ich aber nur, wenn im Zwischengelagerten als Beispiel 51,5 Hertz stellt, dann stellen wir nicht auf 51,6.
+
+(0:14:11 - 0:14:17)
+Das mag ja rein mathematisch gesehen höher sein. Aber das machen wir so nicht. Das ist einfach viel zu nah dran.
+
+(0:14:17 - 0:14:26)
+Da kann man richtig, richtig, richtig draufhauen. Und dann stellt man da halt 60 Hertz ein oder so. So, also das ist das, was hinter mir ist.
+
+(0:14:26 - 0:14:39)
+Aber da mache ich direkt weiter, weil ich das schon erklärt habe, wie man an sich darauf kommt. Und mir wichtig ist, dass hier keiner denkt, er müsste diese Zahlen auswendig lernen. So, das ist dann die Gesamtübersicht.
+
+(0:14:40 - 0:14:56)
+So sieht es auch aus in der Norm, außer natürlich der rechten Seite. Diese integrierten Werte, die habe ja ich gesagt. Das heißt, diese Übersicht würde ich mir so ausdrucken und dann meinetwegen irgendwo ablegen oder hinten an die Wand hängen.
+
+(0:14:56 - 0:15:25)
+Weil dann habe ich immer sofort ein Gefühl dafür, wenn sich das interessiert, welche Werte denn tatsächlich gefordert werden. Wir sind am Umspannwerk in der Sammelschiene und machen das dann also mit unserem Schutzschema, das wir dann der Zertifizierstelle schicken. Genau so, was wir jetzt eben so alles da rausgelesen haben, schreiben wir noch mal super ordentlich in dieses Schema rein, weil jetzt sieht man ja den Typ, also übergeordneten Kupplungsschutz.
+
+(0:15:25 - 0:15:33)
+Ich sehe den Ort, also Übergabestation. Ich sehe den Messort. Ich sehe den Ausloseort und ich sehe die Schutzparameter.
+
+(0:15:33 - 0:15:55)
+Und das mache ich für den Zwischengelagerten genauso und für den Integrierten in die Erzeugungseinheit. Da jetzt diesen Screenshot würde ich mit gutem Gewissen genauso meiner Zertifizierstelle schicken oder meinem Gutachter oder meinem Kunden in die Dokumentation ablegen, weil da steht jetzt alles drin, was aus der Schutztechnik Sicht übergeordnet wichtig ist. Für die Details geht man dann in die Stromlaufpläne.
+
+(0:15:56 - 0:16:20)
+Der Schutztechniker übrigens freut sich auch über so eine Übersicht, weil er dann nicht selber überlegen muss, was er denn wo eintippen muss. So, das war an der Sammelschiene des UW, aber ich kann euch beruhigen. Am Mittelspannungsnetz machen wir das jetzt nicht genauso, weil das sieht ja genauso aus, sondern wir fassen das einfach zusammen, damit man es mal gesehen hat.
+
+(0:16:20 - 0:16:29)
+Ich fürchte, da muss ich jetzt auch wieder aus dem Bild raus, weil die Tabelle so groß ist. Also gleiches Spiel, gleiche Tabelle. Deswegen mache ich das genau so.
+
+(0:16:29 - 0:16:52)
+Und Achtung, jetzt kommt es endlich orange. Hier ist der Unterschied. Diese drei Zahlen sind in dem Kapitel 3, 5, 3 anders als im Kapitel 3, 5, 2. Muss man, finde ich, und ich freue mich, dass ich es gemacht habe, selber mal nachprüfen, um vielleicht auch ein bisschen überrascht zu sein, was die für einen Riesenaufwand machen.
+
+(0:16:52 - 0:17:26)
+Das sind mehrere Seiten nur, um am Ende sozusagen drei marginale Unterschiede darzustellen. Sei es drum, es ist so, da liegt der Unterschied zwischen Anschluss am Umspannwerk und Anschluss am Mittelspannungsnetz aus dem Kapitel Schutztechnik Sicht sozusagen. So, dann haben wir auch 10, 3 und 10, 3, 4, 10, 3, 5 uns angeguckt, also Anschluss Sammelschiene, Umspannwerk und Anschluss im Mittelspannungsnetz.
+
+(0:17:26 - 0:17:47)
+Und vor der Pause kommt jetzt noch das Kapitel 3, 6, das sich um Mischanlagen kümmert. Haben wir hoffentlich auch in einem anderen Brainday ausreichend, also mit hoffentlich meine ich ausreichend uns angeguckt. Deswegen machen wir es hier noch mal so, als wüssten schon alle genau, wie man es macht.
+
+(0:17:48 - 0:17:59)
+Also ein übergeordneter Entkupplungsschutz, den gibt es. Und der wird am Netzanschlusspunkt messen. Aber er kann auch an der Erzeugungsanheit messen.
+
+(0:17:59 - 0:18:11)
+Und das steht in dem Kapitel 10, 3, 6 genauso drin. Das kann man in Abstimmung mit dem Betreiber so machen. Und man kann unter gewissen Bedingungen, es sind glaube ich vier oder fünf, ich habe nur eine hingeschrieben.
+
+(0:18:12 - 0:18:40)
+Und die ist, wenn der Spannungsfall zwischen dem Übergabepunkt, sagen wir mal, der Übergabestation und dem Anschlusspunkt der Erzeugungsanlagen intern im Gebäude, ist ja eine Mischanlage, wenn der nur kleiner als 0,2% ist, dann kann man auch die Messung sogar an die Erzeugungseinheit setzen. Und warum das so wichtig ist, weiß jeder, der diese Mischanlagen selber plant. Sagen wir meistens ein Bestandsgebäude von der Logistikhalle.
+
+(0:18:40 - 0:18:55)
+Dann gibt es ja in der Übergabestation schon alles, was man so braucht für den Bezug, also Schutztechnik, Messtechnik. Aber es gibt nicht diese zusätzlichen Anforderungen, die man für die Einspeisung braucht, für die Erzeugung. Die gibt es nicht.
+
+(0:18:55 - 0:19:11)
+Das heißt, man müsste dann nachrüsten, sei es Schutzrelais oder eben auch Auslösemechanismen in der Halle. Und dann braucht man eine Steuerleitung zwischen der Übergabestation und der Halle, dem Schrank in der Halle. Das kann sehr, sehr aufwendig sein.
+
+(0:19:12 - 0:19:25)
+Und an der Stelle empfehle ich nur alle, die mit dieser Technik zu tun haben, lest euch genau dieses Kapitel einmal durch. Das ist nur eine Seite oder zwei. Und dann merkt man, dass sich der Verband also schon auch wirklich um diese Mischanlagen Gedanken gemacht hat.
+
+(0:19:26 - 0:19:40)
+Da stehen auch Anforderungen, diese Steuerleitungen drin und eben diese 0,2 Prozent. Weil die Auslösung, deswegen Steuerleitung, ist an der Erzeugungseinheit selbst ganz einfach. Man will ja nicht, dass der Bezug wegfliegt.
+
+(0:19:40 - 0:19:51)
+Also die Speditionshalle soll nicht dunkel werden, nur weil der NA-Schutz von der PV-Anlage schaltet. Drahtbruchsichere Signalführung. Ich erinnere mich, vor vielen Wochen war das mal eine Frage hier.
+
+(0:19:51 - 0:20:09)
+Ja, steht so drin. Also dieses Signal von der Messung vom Schutzrelais in der Übergabestation zur Erzeugungsanlage soll drahtbruchsicher ausgeführt werden. Der KU-Schutz ist dann nicht zwangsläufig in der Übergabestation, sondern eben an der Erzeugungseinheit.
+
+(0:20:09 - 0:20:14)
+Und wie das aussieht, zeige ich hier jetzt auch noch mal. Gleiches Prinzip. Erst mal das Schema.
+
+(0:20:14 - 0:20:23)
+Und jetzt Achtung, jetzt ändert sich's. Alter, ich mache das einfach noch mal zurück, weil es so schön ist. Das ist in weiß oben dargestellt, das, was wir vorhin gesagt haben, Mittelspannungsnetzanschluss.
+
+(0:20:24 - 0:20:31)
+Und jetzt kommen die Änderungen. Zack, jetzt haben wir so ein Schutzschema Dachanlage. Da ist erstmal eine NSHV mittendrin.
+
+(0:20:31 - 0:20:35)
+Okay, mit Sicherung. Ja, gut, gut. Aber vor allem hat man unten jetzt diesen PV-Schrank.
+
+(0:20:36 - 0:20:42)
+Und hier ist diese zusätzliche Verbindung. Ich mache sie noch mal weg. Der geübergelagerte Kupplungsschutz.
+
+(0:20:42 - 0:20:58)
+Da muss man jetzt einfach sein Schema nehmen und die Linie genauso anders zeichnen als bei Mittelspannungsanlagen, bei Freiflächenanlagen. Der der der auslösende orangene Pfeil hier geht nicht oben auf den Leistungsschalter, sondern im PV-Schrank. Das ist der große Unterschied.
+
+(0:21:00 - 0:21:06)
+So, so sieht es vielleicht aus, die Logistikhalle. Zack. Und jetzt gucken wir uns den Übergeordneten an.
+
+(0:21:08 - 0:21:15)
+Der wirkt nämlich, also das ist jetzt die grüne Linie. Steuerleitung kommt jetzt aus der Übergabestation. Ihr habt es vielleicht gesehen in dem Bild.
+
+(0:21:15 - 0:21:23)
+Das kann ja mega aufwendig sein. Da muss man die Straße aufreißen oder irgendwie Leerrohre verlegen, damit diese Steuerleitung jetzt hierher kommt. Aber so ist das.
+
+(0:21:24 - 0:21:33)
+Und der zwischengelagerte Kupplungsschutz ist hier in grün. So würde der aussehen. Und genau dieses Relais, genau das gucken wir uns jetzt auch dann nach der Pause an.

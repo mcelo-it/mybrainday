@@ -1,0 +1,88 @@
+(0:00:00 - 0:00:23)
+Also wir sind dann wieder zurück in der PPT und machen jetzt noch kurz einmal das Prüfprotokoll, schauen uns dann einmal an, wie das aufgebaut ist. Also grundsätzlich gab es, glaube ich, bis vor kurzem noch ein bisschen die Schwierigkeit, dass diese 4110 erstmal kein Prüfprotokoll umfangklar definiert. Andere Normen machen sowas, aber in der 4110 war das nicht so ganz genau definiert.
+
+(0:00:24 - 0:00:41)
+Ich glaube, im Februar hat dann der FGW hat dann da mal ein bisschen Klarheit für ein bisschen Klarheit gesorgt. Den Link zeigen wir euch später auch noch, was dann wirklich geprüft werden muss, was für Prüfumfänge da rein müssen. Also erst mal, wir haben jetzt ein Prüfprotokoll so definiert, wie wir es immer machen.
+
+(0:00:41 - 0:00:53)
+Und wir tragen erst mal Kundendaten oben ein. Das machen wir ganz allgemein. Wer hat denn uns den Auftrag gegeben? War das hier vielleicht diese Ingenieurpartnerschaft? Und wir tragen dann auch Anlagen, Daten und Adresse ein.
+
+(0:00:53 - 0:01:08)
+Also wo war das Projekt? Die Adresse, wenn es geht. Je nachdem, wenn es keine Adresse gab, kann man da auch gerne Koordinaten reinschreiben. So, dann was ist das? Wo ist dieses Schutzrelais, was wir da prüfen, eingebaut? Der Baukörper, also ihr könnt es vielleicht auch variieren.
+
+(0:01:09 - 0:01:19)
+Übergabestation, es ist im Gebäude, es ist ein Betonkörper, es ist der Hersteller, der Typ, die Seriennummer. All das würden wir hier reinschreiben. Also es ist jetzt hier eine Trafostation von einem Hersteller.
+
+(0:01:19 - 0:01:32)
+Typ und Fabrikatnummer haben wir leider nicht gefunden, mussten wir ein Minus reinmachen. Finde ich, gehört aber in so ein komplettes Dokument schon mit rein. Ist ein Transformator verbaut oder nicht? Und den Transformator, den definieren wir dann immer sehr genau.
+
+(0:01:33 - 0:01:45)
+Also Hersteller nennen Spannung, Leistung, Übersetzungsverhältnis ist es dann. Die Leistung haben wir da und die Position des Stufenstellers, das Baujahr und die Schaltgruppe. Das sind die Punkte, die wir für den Trafo mit übernehmen.
+
+(0:01:46 - 0:01:57)
+Tragen wir ein und können dann weitermachen. Also Angaben, auf welches Schaltgerät das Schutzgerät oder das Schutzgerät wirkt. Ja, also erstmal haben wir den Leistungsschalter.
+
+(0:01:58 - 0:02:10)
+Das ist der Leistungsschalter, der jetzt von dem Schutzgerät betätigt werden würde. Hier ist ein klassischer Siemens Leistungsschalter, Mittelspannung mal eingetragen. Seriennummer, Typ, Herstellerbezeichnung und damit kommen wir dann schon weiter.
+
+(0:02:11 - 0:02:21)
+Dann kommen Herstellertyp, Seriennummern des Schutzgeräts und auch die Firmware-Version. Und das ist jetzt, glaube ich, neu dazugekommen durch diesen FGW. Das war früher nie so ganz klar, ob das rein soll.
+
+(0:02:21 - 0:02:32)
+Manche Zertifizierer haben es dann erwartet, aber hatten ja im Grunde auch nicht so eine richtige Handhabe. Warum soll denn jetzt die Firmware mit rein, haben wir dann gesagt. Aber naja, der Zertifizierer gewinnt meistens.
+
+(0:02:33 - 0:02:52)
+Aber wir nehmen es mit auf. Firmware-Nummer, Firmware-Version, vielleicht auch die Seriennummer des Relais, die Nennspannung des Relais und die verwendeten Wandler, die eben an dieses Relais angeschlossen sind. Auch hier immer ein bisschen, finde ich, sehr, sehr aufwendig.
+
+(0:02:52 - 0:03:02)
+Hier werden ja auch dann Seriennummern immer mit aufgeschrieben. Auch das war nicht klar definiert, wie ich finde. Hier ist es jetzt tatsächlich auch gar nicht mit drin, diese Fabrikatsnummer des Spannungswandlers.
+
+(0:03:02 - 0:03:19)
+Mir hat das in meinen acht Jahren Schutztechnik auch noch nie geholfen, dass ich die Seriennummer des Spannungswandlers weiß. Aber in einem kompletten Schutzprüfprotokoll ist das einfach gefordert. Und auch hier wird es durch den FGW jetzt klargestellt, dass man bitte die Seriennummer der Wandler aufschreiben soll.
+
+(0:03:19 - 0:03:28)
+Und wenn man wirklich nicht drankommt, dann muss man es irgendwie diskutieren. Muss man vielleicht andere Wege finden, um an diese Nummern zu kommen. Bei manchen Stationen ist das dann so.
+
+(0:03:30 - 0:03:37)
+Zweite Seite, weil wir nicht alles hier auf eine PPT bekommen. Das Protokoll geht aber weiter. Einstellwerte und Einstellzeiten aus dem E9.
+
+(0:03:37 - 0:03:51)
+Diese Übung haben wir eben im Grunde genommen gemacht. Da trägt man alles ein, was jetzt hier wichtig ist, was für die Schutzprüfung oder was abgeprüft wird. Und dann kommen die Testergebnisse, genauso wie es eben in der Übung ja schon gesehen habt.
+
+(0:03:51 - 0:04:11)
+Wir tragen dann eben für jede Schutzfunktion Anrege, Rückfallwert und Auslösezeiten hier ein. Und das dann eben, je nachdem, ob ihr Leiter-Leiter messt oder Leiter-Erde. Hier ist es eben Leiter-Leiter für alle drei oder vier Leiter-Leiter-Spannungen.
+
+(0:04:11 - 0:04:23)
+Also L1, L2, L2, L3, L3, L1 und dann für alle drei gleichzeitig. Bei Leiter-Erde wäre es dann eben ein bisschen anders. Dann wäre es halt eben L1 Erde, L2 Erde und so weiter.
+
+(0:04:25 - 0:04:36)
+Hier sind jetzt keine Ergebnisse drin. Das müsste man jetzt nochmal kompletieren, wenn man die Prüfung erledigt hat und alle Werte reinschreiben. So, Angaben des Verhältnisses zwischen Spannung und Blindleistung.
+
+(0:04:36 - 0:04:50)
+Das kommt jetzt hier auch noch mit rein für den QUschutz. Da haben wir dann hier das, was dieses gesamte QU-Schutz-Prüfprotokoll umfasst, haben wir hier dann komprimiert auf das, was wir jetzt hier finden. Und dann würde man hier auch eben die Ergebnisse reinschreiben.
+
+(0:04:51 - 0:05:09)
+QU-Schutz machen wir im anderen Brain Day, kann man sich das nochmal im Detail angucken. Aber wenn man das hat, was man hier aufschreibt, dann glaube ich, ist dieses Schutzprüfprotokoll erstmal bei den meisten Zertifizierern in Ordnung. So, jetzt gibt es noch sonstige Prüfungen.
+
+(0:05:09 - 0:05:19)
+Auch hier vielen Dank an diesen FGW. Hier ist auch der Link dazu, Punkt 40 und 41. Der hat dann auch nochmal klargestellt, was man denn hier wirklich alles prüfen soll.
+
+(0:05:19 - 0:05:33)
+Sowas wie Verdrahtungsprüfung, scharfe Auslösung, primäre Wandlereinspeisung, all sowas fordert oder wird hier nochmal aufgeschrieben. Punkt 40 und 41 ist, glaube ich, einmal für EZA, einmal für EZE. Alle, die wirklich Schutzprüfungen machen, guckt da rein.
+
+(0:05:33 - 0:05:45)
+Oder alle Planer, die mal in so eine Diskussion kommen mit einem Zertifizierer im Rahmen der Konformitätserklärung, guckt gerne auch rein. Da stehen jetzt ein paar Neuerungen, ein paar neue Punkte drin. Anmerkungen kommen dann auch immer noch dazu.
+
+(0:05:45 - 0:06:02)
+Wenn wir vielleicht Einstellwerte angepasst haben, schreiben wir das zumindest auf. Eigenzeiten des Leistungsschalters tragen wir auch mit ein. Und ob die AWE, automatische Wiedereinschaltung, getestet wurde und mit welchen Zeiten, das kommt ja auch mit rein.
+
+(0:06:02 - 0:06:19)
+Prüfgerät und dann ganz wichtig, ob das auch kalibriert ist. Hier sieht man jetzt 2019, da würde ich sagen, das müsste mal wieder gemacht werden. Haben wir auch. 
+
+Also jetzt die neuen Prüfungen, die sind dann 2025 kalibriert. Das passt jetzt wieder. Und ganz zum Schluss Unterschrift, Name des Schutzprüfers.
+
+(0:06:19 - 0:06:31)
+So, das machen wir dann und dann haben wir auch das Schutzprüfprotokoll erfolgreich ausgefüllt. Geben das jetzt an unseren Kunden und der kriegt dann hoffentlich die Konformitätserklärung. Mich hat sehr gefreut.
+
+(0:06:31 - 0:06:35)
+Vielen Dank, dass Sie zugehört habt und bis zum nächsten Mal. Tschüss.

@@ -1,0 +1,20 @@
+(0:00:00 - 0:00:05)
+Herzlich willkommen heute zum 17. Brain Day. Schutztechnik, das ist heute unser Thema.
+
+(0:00:06 - 0:00:14)
+Wir haben heute wieder super viel für euch vorbereitet. Viele Themen, viele Normen, viel warum. Das ist so ein bisschen unser Aufbau.
+
+(0:00:16 - 0:00:24)
+Wie ist ein Schutzsystem aufgebaut? Das soll dann auch eben heißen. Wir haben viele Schutzfunktionen gleich dargestellt für euch. Das Schutzschema zeigen wir euch.
+
+(0:00:24 - 0:00:36)
+Wir zeigen euch Einbauorte von Relais und wir gehen später auf Parameter ein. Ihr kennt das mittlerweile alle, glaube ich, gut. Wir machen das eben in unserem PowerPoint-Präsentationsstil wie immer und zwischendurch haben wir ein paar menti-Fragen.
+
+(0:00:37 - 0:00:52)
+menti.com einwählen. Den Code habt ihr dann in der Präsentation und dann freuen wir uns, wenn ihr da rege teilnehmt. Wir haben heute auch mal etwas früher ein bisschen Feedback eingebaut, Fragemöglichkeiten eingebaut und dann bin ich mal gespannt, ob da was entsteht.
+
+(0:00:53 - 0:01:03)
+Also Schutztechnik. Heute machen wir hier wirklich einen groben Abriss über viele Schutzfunktionen. Wir kommen, ich glaube, gegen Sommer irgendwann dann noch mal wirklich im Detail auf einzelne Schutzfunktionen zu sprechen.
+
+(0:01:04 - 0:01:18)
+Aber das ist erst mal euer Einstieg und nutzt dann vielleicht die nächsten Monate, Wochen, das, was ihr jetzt erst mal gelernt habt, hier vielleicht in den Projekten kennenzulernen. Und dann, denke ich, ist das, glaube ich, gut, wenn man in ein paar Monaten noch mal wirklich die Details anschaut und tief einsteigt. Also, los geht's.

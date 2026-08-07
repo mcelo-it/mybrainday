@@ -1,0 +1,71 @@
+(0:00:00 - 0:00:12)
+Und zwar springen wir jetzt in die Adressliste. Das ist, finde ich, ein wichtiges Thema. Wir würden jetzt mal nochmal durchgehen durch so einen Park und schauen, wie der aufgebaut sein kann.
+
+(0:00:12 - 0:00:49)
+Also wir haben uns jetzt erst mal festgelegt, wir erstellen ein Netzwerk, weil wir wissen ja, dass das 192.168.1.0 ist erst mal ein privates Netzwerk. Deshalb würden wir jetzt erst mal sagen, das ist unser Rahmen, den wir vorgeben, unser IP-Adressbereich für den privaten Adressbereich, eben dieses Netzwerk. Und jetzt schauen wir uns einfach mal an, was für Teilnehmer wir in so einem Solarpark zu erwarten haben, wie viele Adressen wir am Ende brauchen und können dann daraus auch eine Liste erstellen, sodass man immer eine schöne Übersicht hat, welcher Teilnehmer welche IP-Adresse hat.
+
+(0:00:49 - 0:01:05)
+Und wenn dann mal in drei Jahren was mit dem Park ist, dann können wir genau nachschauen, IP-Adresse so und so ist der Teilnehmer. Da schaue ich mal drauf, ob der mir einen Hinweis auf vielleicht eine Fehlermeldung geben kann. So, wir fangen an mit einem Router.
+
+(0:01:06 - 0:01:40)
+Den haben wir dann, ich sage mal, ja, fast immer. Und der Router, das ist in unserer Struktur immer das Gerät mit der 1 am Ende. Hier nehmen wir jetzt, wir befinden uns jetzt in der Übergabestation und da würde ich jetzt mal sagen, in unserer Struktur ist das so, in der Übergabestation verwenden wir immer einstellige Zahlen, also die 1 für den Router, wenn wir dort andere Geräte unterbringen in der Übergabestation, kriegen die einstellige Zahlen, also 2, 3, 4, 1, 9, 2, 1, 6, 8, 1.2, 1.3 und so weiter.
+
+(0:01:41 - 0:01:59)
+Und dann hätten wir eben in der Übergabestation, weil das ist jetzt, ich sage mal, kein Umspannwerk, sondern ein kleiner Park, haben wir dann bis zu 254 Teilnehmer möglich. Das ist ja schon eine ganz ordentliche Zahl. Ja, okay.
+
+(0:01:59 - 0:02:10)
+Allerdings, ich glaube, ich war jetzt ein bisschen falsch, das war noch nicht unsere Übergabestation. Das war, ich sage mal, allgemein gemeint. In dem Gesamtpark haben wir 254 Teilnehmer, so muss man es vielleicht sagen.
+
+(0:02:10 - 0:02:17)
+Jetzt kommt erst die Übergabestation. Aber gleiches Prinzip. Der LTE-Router startet mit der 1. Das ist die Übergabestation.
+
+(0:02:18 - 0:02:46)
+Und dann haben wir Parkregler, denen geben wir meinetwegen die 2. Das ist eben diese einstellige Nummer, die ich eben meinte. Das Janica oder, ich sage mal, wenn wir es herstellerunabhängig machen wollten, ist es das Netzanalysegerät, kriegt dann die 3. Jetzt gibt es noch einen Schutzrelais mit der 4 und dann den Switch mit der 5. Ihr könnt das auch gerne umstellen. Da müsste vielleicht jeder Generalunternehmer, jeder EPC, jeder IT-Fachmann vielleicht so seine eigene Struktur entwickeln, wie es für sich am sinnvollsten ist.
+
+(0:02:47 - 0:03:02)
+Für uns hat sich dann immer herausgestellt, wenn man es immer gleich macht, ist es vielleicht in der Zukunft mal für die Wartung und so weiter und für die Übersichtlichkeit immer hilfreich. Also immer gleiche Struktur würde ich machen. Damit man den Überblick behält.
+
+(0:03:03 - 0:03:30)
+So, und jetzt hätten wir in der Übergabestation, weil ich habe eben festgelegt, wir nehmen nur einstellige Zahlen in der Übergabestation, haben wir noch 4 Reserve. Also wir können dann ja nur bis 9, weil die 10, da kommen wir gleich zu, würde ich ja für die erste Trafo-Station wahrscheinlich verwenden, komme ich gleich zu. Genau, 10 Teilnehmer sind es und auf der nächsten Seite kriegen wir das jetzt nochmal ein bisschen verbildlicht und auch in eine Tabelle eingefügt.
+
+(0:03:30 - 0:04:03)
+Also in der Übergabestation seht ihr jetzt klein den Router mit der 1, den Parkregler oder das Gateway mit der 2 und das Netzanalysegerät und den Switch. Diese Geräte können wir jetzt in der Liste einfügen, Location oder der Standort oder das ist die Übergabestation, da finden sich dann jetzt die einzelnen Geräte wieder. Router mit der zugehörigen IP-Adresse, Parkregler eben auch mit seiner IP-Adresse, das Janitzer und der Switch zum Schluss.
+
+(0:04:04 - 0:04:36)
+Jetzt ist das natürlich alles im gleichen IP-Adress-Bereich, also mit der 192.168.1.1 und dann ist vielleicht vielen schon klar gewesen, ist das genau die Subnetzmaske, die jetzt für das gesamte Netzwerk gilt. Modbus-IDs gibt es hier nicht, diese Modbus-IDs, die würde es ja jetzt nur bei den seriellen Geräten geben. Wir springen weiter, Übergabestation 10 Teilnehmer haben wir jetzt verbraucht, auch wenn wir nur 5 Geräte angeschlossen haben.
+
+(0:04:36 - 0:05:08)
+Aber die Adressen 7, 8, 9, 10, die würden wir jetzt, ne 7, 8, 9, Entschuldigung, die 10 ja eben nicht, aber die freien einstelligen Adressen, die würden wir jetzt erstmal nicht weiter verwenden, weil wir kommen jetzt zu der Trafo-Station. Und in der Trafo-Station grenzen wir das immer logisch ab in unseren Adressen, dass wir dann eben nicht mehr einstellige Nummern nehmen. Also wir nummerieren nicht einfach weiter auf mit der 5, mit der 6, mit der 7, sondern die Trafo-Station kriegt jetzt erstmal die Nummer 10, also der Datenlogger der Trafo-Station.
+
+(0:05:09 - 0:05:36)
+Das heißt, die 1 steht für Trafo-Station 1, vielleicht ist es so einfacher erklärt. Das Netzanalysegerät kriegt die 11, Schutzgerät die 12, Switch die 13 und so weiter. Das kann man so fortführen und je nachdem wie viele Geräte man in der Trafo-Station 1 hat, hat man jetzt natürlich noch eine Reserve von 6 Teilnehmern, die man dann aber wahrscheinlich ungenutzt lässt, weil man hat einfach nicht mehr Modbus-Teilnehmer.
+
+(0:05:37 - 0:06:02)
+Also auch hier in Trafo-Station 1 verbrauchen wir dann in Anführungsstrichen wieder 10 Netzwerkadressen, weil wir eben welche ungenutzt lassen. Jetzt sind wir schon bei 20 und jetzt tragen wir hier diese Adressen auch genauso nochmal in die Adressliste ein. Wir haben jetzt nur 3 Teilnehmer IP, TCP-IP basiert und wir haben jetzt noch 10 Wechselrichter, die wir anschließen.
+
+(0:06:03 - 0:06:18)
+Ach und Sensoren auch noch, ja. Zwei Pyros, das ist hier ein Temperatursensor meinetwegen und jetzt kommt noch ein Windsensor und die packen wir jetzt hier in unsere Liste. Also seht ihr schon, die Liste hier für die Trafo-Station wird ein bisschen länger.
+
+(0:06:19 - 0:06:52)
+Datenlogger Janica Switch kriegt die besagten Adressen 10, 11, 12 am Ende mit der Subnetzmaske, die bekannt ist und kriegen keine Modbus-ID, weil es sind eben Modbus-TCP basierte Geräte. Und dann kommt der Wechselrichter, der kriegt jetzt aber keine IP-Adresse, weil der ist Modbus-RTU basiert. Dann ist natürlich die Adresslogik etwas anders, der kriegt dann auch keine Subnetzmaske, sondern kriegt eine Modbus-ID und wir nehmen 1 bis 10, weil das halten wir für logisch.
+
+(0:06:52 - 0:07:04)
+Ihr könnt auch 31 bis 40 nehmen, das ist auch machbar. Wichtig ist nur, dass ihr die Gesamtanzahl von 32 nicht überschreitet. 1 bis 10 ist für uns logisch, also die ersten 10 Modbus-Teilnehmer sind immer die Wechselrichter.
+
+(0:07:05 - 0:07:26)
+Vielleicht auch, wenn ihr nur 3 habt, aber die ersten 10 reservieren wir für Wechselrichter. Und wir haben ja schon, das seht ihr ja auch oben rechts, wir haben ja jetzt auch schon einfach mal eine Vorgabe gemacht für die Pyros. Das könnt ihr natürlich auch für euch selbst definieren, ihr müsst nicht das erste Pyro 101 nennen, das zweite 102, ihr könnt es auch 21, 22, 23 nennen.
+
+(0:07:26 - 0:07:49)
+Das ist alles möglich, einheitlich ist immer hilfreich. Also die zwei Pyros kriegen ihre Modbus-IDs, der Temperatursensor kriegt dann noch seine Modbus-ID und der Windsensor eben auch. Dann ist die Adressliste jetzt schon deutlich gewachsen, ist aber immer hilfreich für den späteren Betrieb der Anlage.
+
+(0:07:50 - 0:08:30)
+Jetzt kann man das gleiche für TRAFO Station 2 machen, also alles was jetzt grün wird ist TRAFO Station 2. Genauso gibt es wieder die IP-Adressen, genauso gibt es hier jetzt nur Wechselrichter, keine Sensoren, die haben wir ja nicht zwingend überall. Hätten wir welche, wäre es natürlich das gleiche Prinzip und ich würde auch empfehlen, die Sensoren wahrscheinlich wieder mit der gleichen Modbus-ID zu benennen. So, dann kommt das da eben mit rein und die Wechselrichter kriegen auch hier wieder die 1 bis 10, damit es immer einheitlich und verständlich ist für den späteren Betrieb.
+
+(0:08:32 - 0:09:02)
+Das gleiche machen wir jetzt für TRAFO Station Nummer 3, auch hier fliegen wieder die Geräte rein, auch hier fliegen wieder die IP-Adressen rein und auch hier fliegen wieder die Modbus-IDs rein. Warum wir das jetzt hier so machen ist, weil wir euch jetzt im nächsten Schritt mal zeigen wollen, wie das sich jetzt mit den IP-Adressen verhält. Wir haben ja jetzt schon durch Übergabestationen und TRAFO Station 20 Teilnehmer in Anführungsstrichen verbraucht, haben jetzt noch die TRAFO Station 2, da sind wir schon bei 30.
+
+(0:09:02 - 0:10:02)
+Wenn wir jetzt die TRAFO Station 25 hätten, zum Beispiel, kann ja auch noch größer werden der Park, dann kommen wir am Ende in eine Situation, wo wir mit 10 Teilnehmer pro Station und 25 TRAFO Stationen plus eine Übergabestation, also 26 Stationen, diese 254 überschreiten, weil wir haben eben 260. Das würde uns jetzt eben in unserer IP-Adresse der Klasse C den Rahmen sprengen, so muss man es einfach sagen. Also dann funktioniert es nicht, so geht es nicht und dann ist eben die Lösung, wir müssen jetzt eben die Subnetz-Masken-Konfiguration anpassen von der Klasse C in die Klasse B oder man könnte jetzt auch sein Netzwerk nochmal zusätzlich separieren, indem man neue oder weitere Router dazu kauft und dann würde man eben einen anderen Netzwerk, einen anderen privaten Netzwerkbereich aufmachen mit der 192.168.2.0 und dann müsste man es eben neu durchnummerieren.
+
+(0:10:02 - 0:10:03)
+Also das geht auch.

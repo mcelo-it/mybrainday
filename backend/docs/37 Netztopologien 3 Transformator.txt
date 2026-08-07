@@ -1,0 +1,77 @@
+(0:00:00 - 0:00:22)
+Das nächste Kapitel an. Nachdem wir die Netztopologie jetzt so grob beschrieben hatten und gesehen haben, dass wir, um von einer Netzspannungsebene in die nächste rutschen zu können, einen Transformator brauchen und der also so wichtig ist, weil er die Netzform vorgibt, widmen wir dem jetzt erstmal ein ganzes Kapitel. Da gibt es auch eine ganze Schulungseinheit, wenn ich mich richtig erinnere, die das macht.
+
+(0:00:23 - 0:00:39)
+Da haben wir heute nur die elektrischen Parameter rausgezogen, sodass das jetzt auch in 10 Minuten beschrieben werden kann. Also wer sich hoffentlich vollkommen zurecht dafür mehr interessiert, der geht in den anderen Schulungsblock noch rein. Aber jetzt erstmal elektrische Parameter, das sind vier Stück.
+
+(0:00:39 - 0:01:02)
+Wir gucken uns die erste an, das ist die sogenannte Schaltgruppe. Die Schaltgruppe, wir nehmen den Transformator und schauen uns genau, wir öffnen den gleich, also gucken da innen rein und sehen hier schon mal symbolisch, dass es ein Dreieck gibt und einen Stern. Wie das funktioniert, zeige ich jetzt eben ganz genau, aber das sind erstmal die zwei Grundlogiken.
+
+(0:01:03 - 0:01:19)
+Und damit man es besser erkennen kann, öffnen wir jetzt diesen Transformator hier. Ihr seht im Hintergrund, das sind die Oberspannungsanschlüsse und im vorderen Teil, die vier Stück, das sind die Unterspannungsanschlüsse. Jetzt machen wir das einfach mal auf und gucken uns an, wie so ein Dreieck aussieht.
+
+(0:01:20 - 0:01:33)
+Ihr werdet auch gleich sehen, wenn ich jetzt die Unterspannungswicklung auch mit dazu hole, dass das ein bisschen anders aussieht. Das ist aber jetzt für die Verschaltung an sich gar nicht so relevant. Wir nehmen jetzt nur als Beispiel mal diese Oberspannungswicklung.
+
+(0:01:33 - 0:01:44)
+So sieht das also im Trafo aus. Da haben wir drei Wicklungen, die miteinander verschaltet sind. Und die große Frage ist, wie haben die das da drin verschaltet? Das kann man von außen nicht sehen, das sieht man nur auf dem Typenschild.
+
+(0:01:44 - 0:02:09)
+Wir haben das hier gemacht, weil wir diese coolen 3D-Modelle haben und zeichnen das jetzt einfach mal nach. Hier mit Blau habe ich jetzt also mein Dreieck nachgezeichnet. Und ich finde immer wieder, wenn man das jetzt so macht, denkt man sich, wie kommt denn der drauf, dass das ein Dreieck ist? Ich bin also jetzt den Verschaltungen dieser Spule einfach nachgelaufen, das sind die blauen Linien, und finde erst mal nicht, dass das so ungefähr wie ein Dreieck aussieht, vielleicht sind es drei Dreiecke.
+
+(0:02:10 - 0:02:25)
+Aber deutlicher wird es, wenn man das jetzt noch mal verschiebt. Das mache ich jetzt mal, indem ich diese Linien einfach verschiebe. Ich habe die nicht neu angeschlossen, ich habe keine Verbindungen verändert, ich habe einfach nur die Linien gerade gezogen, wenn man so will.
+
+(0:02:25 - 0:02:45)
+Und ich glaube jetzt ist es ganz klar, woher das kommt. Also würde man diese einzelnen Oberspannungswicklungen im Trafo verbiegen, dieses ganze Kupfer mit unbändiger Kraft sozusagen in eine andere Ordnung biegen, dann würde man auf dieses Dreieck kommen. Also merkt es euch, die erste Verschaltungsvariante ist ein Dreieck.
+
+(0:02:45 - 0:03:25)
+Dann kommt die zweite, das ist der sogenannte Stern, und da hole ich mir jetzt die Unterspannungswicklung rein, einfach nur als Beispiel, man kann das auch andersherum machen, das ist hier nicht der Punkt, das kommt später noch, wann man das auf welcher Seite warum macht. Aber jetzt nehmen wir die mal, da seht ihr schon weniger Windungen und dadurch jetzt eine andere Anordnung in meinem Beispiel. Gleiches Spiel, ich verbinde das mal, da habe ich auch wieder meine blauen Linien reingezogen, und ihr seht, die sind jetzt erstmal anders angeordnet, aber auch da, Stern, ich mache es einfach genauso, ich ziehe diesen Stern sozusagen nach unten und verbinde das nochmal.
+
+(0:03:25 - 0:03:56)
+Ich habe auch hier wieder nichts verändert, das müsst ihr mir einfach glauben, oder könnt es ja auch mal selber nachzeichnen, aber am Ende sieht man, jetzt finde ich diese Sterndarstellung viel besser. Also zwei verschiedene Darstellungen von den zwei verschiedenen Verschaltungsvarianten. Jetzt kommt der nächste Parameter, der elektrische, der für uns wichtig ist, der sogenannte Sternpunkt, oder man könnte auch sagen, dann später die Sternpunktbehandlung, aber jetzt erstmal schauen wir uns den Sternpunkt an.
+
+(0:03:56 - 0:04:34)
+Das mache ich hier auch in einem Beispiel, der Sternwicklung mache ich es im Beispiel, seht ihr jetzt gleich, man kann diesen Sternpunkt N herausführen, das sieht dann so aus, jetzt haben wir also ihn hinzugebaut, wichtig ist, vorher war er nicht herausgeführt. Den Sternpunkt N an sich gab es vorher auch, er war aber nicht herausgeführt als separater Anschlusspunkt, es waren also oben auch erstmal nur drei Anschlusspunkte, L1, L2, L3, der N war nicht herausgeführt. Wenn wir dieses N, machen wir gleich ein paar Beispiele, sehen im Typenschild, dann bedeutet das, dass der Sternpunkt nicht nur existiert, sondern dass er herausgeführt worden ist.
+
+(0:04:35 - 0:04:56)
+Bei dem Dreieck, das sage ich nur einmal kurz, gibt es jetzt erstmal ja keinen N, den kann man aber kreieren, das heißt grundsätzlich ist es auch da möglich, einen Sternpunkt zu bilden und herauszuführen. In unserem Beispiel ist es viel einfacher, das an dem Stern zu zeigen, deswegen haben wir es auch so gemacht. Da ist er.
+
+(0:04:58 - 0:05:14)
+Und jetzt ist er auch bei unserer blauen Linie mit herausgeführt. Wir stecken das beides wieder in unseren Trafo hoch rein und sehen jetzt oben auch, das nochmal grün markiert, unseren Sternpunkt. Da ist er herausgeführt, also wir machen das später auch ganz real in unserer Tour.
+
+(0:05:14 - 0:05:42)
+Ihr könnt ja immer erstmal gucken, welcher Anschluss ist Oberspannung, welcher ist Unterspannung, dann könnt ihr auch nochmal gucken, wie viele sind denn das? Sind das drei oder eben vier? Und wenn es vier sind, dann kann man auf dem Typenschild hoffentlich auch irgendwo so ein N finden. Der dritte Punkt ist der Phasenwinkel, den findet man dann auch in der Bezeichnung des Trafos. Das funktioniert so, man nimmt eine Zahl, mache ich gleich ein Beispiel, dann wird es klarer, eine Zahl N und multipliziert die mit 30 Grad.
+
+(0:05:42 - 0:06:03)
+Und dann ist dadurch definiert die Phasenverschiebung der Phasenwinkel zwischen der Unterspannungsseite und der Oberspannungsseite. Also wenn man so will, es gibt keine Phasenverschiebung zwischen Ober- und Unterspannung, wenn diese Zahl Null ist. Das ist vor allem dann wichtig, wenn man parallele Systeme aufbaut.
+
+(0:06:03 - 0:06:22)
+Und da ist aber dann jetzt wichtig zu verstehen, wenn ich parallel sage, meine ich, dass sie sowohl auf der Ober- als auch auf der Unterspannungsseite miteinander verkoppelt sind. In unseren Freiflächenanlagen haben wir ganz viele parallele Systeme, die sind aber dann auf der Unterspannungsseite meistens nicht verbunden oder eigentlich nie. Dann ist das schon selbst da gar nicht so relevant.
+
+(0:06:22 - 0:06:34)
+Wir würden trotzdem immer die gleiche Zahl nehmen. Aber wenn sie gekoppelt sind, dann ist das ganz wichtig, dass man das beachtet, sonst hat man intern sozusagen eine Phasenverschiebung. So und der letzte, das ist die sogenannte Spannungsseite.
+
+(0:06:34 - 0:06:49)
+Also es gibt die Oberspannungsseite und die Unterspannungsseite. Ich sage es mal jetzt hier nur einmal in einem kurzen Seitenentwurf. Ob das dann am Ende die Mittelspannung, die Hochspannung oder die Niederspannung ist, ist jetzt in diesen Definitionspunkten erstmal völlig irrelevant.
+
+(0:06:49 - 0:07:07)
+Deswegen benutze ich, ich denke auch die meisten anderen, die sich viel mit Transformatoren beschäftigen, das Wort Unterspannung und Oberspannung. Weil dann ist es unabhängig davon, welche Spannungsebene, wir haben sie vorhin gesehen, das dann am Ende eigentlich ist. So und jetzt aber wichtig ist vielmehr, wie wird das dargestellt.
+
+(0:07:07 - 0:07:24)
+Der Trick ist mit Großbuchstaben und mit Kleinbuchstaben. Also bei der Unterspannung sieht man jetzt hier der Dreieck, das D ist jetzt ein kleines D, der Stern, das Y ist ein kleines Y und ob der Sternpunkt herausgeführt ist, ist jetzt ein kleines N und bei der Oberspannung sind es immer große Buchstaben. Wir machen das an dem Beispiel.
+
+(0:07:24 - 0:07:37)
+Dann wird es klar, typischer Transformator, basteln wir uns mal zusammen. Oben grün markiert, das große D, also auf der Oberspannungsseite haben wir ein Dreieck, das wäre dann der erste Buchstabe. So sieht das aus, haben wir gerade schon schön hergeleitet.
+
+(0:07:38 - 0:08:12)
+Dann seht ihr es unten mittig, das Y von der Unterspannungseite ist jetzt auch grün, schiebe ich mir rüber, das heißt die Unterspannungseite ist jetzt im Stern geschaltet, das weiß ich jetzt schon. Und dann nehme ich einfach mal so ein N mit, das heißt jetzt weiß ich auch, dass die Unterspannungseite den Sternpunkt herausgeführt hat, die Oberspannungseite nicht. Und dann kommt da noch eine 5 und dann weiß ich, hier zeige ich es, die Phasenverschiebung ist 5 mal 30 Grad, also 150 Grad Phasenverschiebung zwischen Ober- und Unterspannungseite.
+
+(0:08:12 - 0:08:29)
+Das ist ein ganz typischer Trafo, den man immer wieder sieht, in der Mittelspannung vor allem. Und das zeigt jetzt nochmal, was man daraus rückschließen kann, wenn man diese Bezeichnung vor Ort mal findet. Wir haben noch einen zweiten reingenommen, weil das ist ein anderer typischer Anwendungsfall.
+
+(0:08:30 - 0:08:44)
+Und das mache ich jetzt aber relativ zügig, einfach nur um es gezeigt zu haben. Also Oberspannungseite haben wir diesmal einen Stern, dann ist das ein bisschen anders. Der ist tatsächlich, Sternpunkt auch rausgeführt, großes N ist es jetzt, daran erkenne ich es ja, so wird es also aussehen.
+
+(0:08:44 - 0:08:54)
+Und dann auf der Unterspannungseite auch ein Stern und der ist auch rausgeführt, deswegen sieht er dann so aus und der hätte jetzt keinen Phasenversatz, dann sieht das so aus.

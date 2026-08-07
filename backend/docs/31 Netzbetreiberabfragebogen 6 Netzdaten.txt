@@ -1,0 +1,71 @@
+(0:00:00 - 0:00:38)
+Letztes Kapitel, Netzdaten, da schauen wir rein, machen das wie in den vorherigen Kapiteln auch, dass wir uns erstmal wieder ganz kurz in der Übersicht sammeln. Es ist schon ganz viel ausgegraut, es ist jetzt, die letzten zwei Seiten sind das glaube ich, sind jetzt nochmal Netzdaten. Also auch da wieder unglaublich viel elektrotechnisches Know-how, sage ich mal, auf zwei Seiten komprimiert. 
+
+Dafür muss man sich irgendwie lange in irgendwelche Online-Schulungen setzen, damit man genau weiß, was jetzt da dahinter steckt. Da ist unglaublich viel Wissen und Power drin. Wir gucken uns jetzt zumindest mal an, wie die das sortiert haben, sage ich mal.
+
+(0:00:39 - 0:01:16)
+Und da fangen wir an mit dem Kapitel 4, Netzdaten. Da sind wir jetzt ja mittlerweile angekommen und schauen uns dann, was die da so hinschreiben. Da steht jetzt erstmal eine vereinbarte Versorgungsspannung. 
+
+Wir haben 20 kV reingeschrieben. Das ist ganz, ganz wichtig, dass wir wissen, welche Versorgungsspannung der Netzbetreiber überhaupt definiert. Die muss nämlich nicht 20 kV sein, die kann auch, ich sage mal, 20,5 sein. 
+
+Das ist sein alleinergehendes Netz. Er ist der Einzige, der das weiß. Und wir nehmen das aber als Bezugsgröße für zum Beispiel unsere Schutzparameter.
+
+(0:01:16 - 0:05:57)
+Die Zertifizierstelle macht das genauso. Also mehrere Parteien nutzen diese Größe, um Sachen auszurechnen, die an sich schon schwierig sind und wollen dann wieder das gleiche Ergebnis haben. Also ganz wichtig, der Startpunkt muss gleich sein. 
+
+Diese 20 kV UC sind wichtig. Es ist nicht so, Mittelspannung ist Mittelspannung und dann wissen alle, was da gemeint ist, sondern das ist der entscheidende Wert für euer Projekt. Der hat das dann noch so gemacht, dass er sagt, er macht dann so ein Spannungsband von, wir haben jetzt 20,2 bis 20,8 reingeschrieben. 
+
+Das ist für die Zertifizierstelle sicherlich relevant, um solche Worst-Case-Szenarien auszurechnen. Für uns ist diese 20 kV ganz, ganz wichtig. Und hier haben wir so mal hingeschrieben, wie macht er das eigentlich? Naja, der macht das über einen Stufensteller, wiederum eine Ebene höher. 
+
+Also wenn wir auf der Mittelspannung angeschlossen sind, hat der ja auch irgendwo einen Verknüpfungspunkt in die Hochspannung. Und da hat er einen Spannungsregler, einen Stufensteller, der wiederum diese Spannung eben genau in diesem Wert konstant hält. Dann gibt er uns einen Kurzzeitstrom an, einen Bemessungs-Kurzzeitstrom. 
+
+16 Kiloampere haben wir jetzt mal reingeschrieben. Also das ist ein Kurzschlussstrom und wir nehmen diesen Wert unbedingt, um unsere Schaltanlagen zu dimensionieren. Es sind nicht nur die Schaltanlagen, es sind eigentlich auch die Kabel, aber in der Regel geht es jetzt erstmal um die Schaltanlage. 
+
+Also wenn da 16 Kiloampere steht, dann muss unsere Schaltanlage in der Übergabestation, aber auch später dann im Parkintern-System diese Kurzschluss-Kiloampere-Werte auf jeden Fall aushalten können. Wir kennen das aus Projekten, an denen diese Werte deutlich größer sind und 16 Kiloampere ist ehrlich gesagt ein Standardwert von so einer Schaltanlage. 20 Kiloampere gibt es auch, 25 Kiloampere. 
+
+Also wenn die Werte, die hier stehen, größer sind als diese 16, dann muss man wirklich aufpassen. Dann muss man hellhörig sein. Es ist ein Riesendrama, wenn man am Ende des Projektes, damit meine ich in Betriebnahme feststellt, dass die Schaltanlage falsch bemessen ist. 
+
+Hier reingucken, ins Anlagenschema übernehmen und abstimmen mit den Stationslieferanten. Dann stehen da auch noch Netz-Kurzschluss-Leistung und so ein Impedanzwinkel. Das ist für den zweiten Bullet Point wichtig. 
+
+Wir machen dann eine Netzberechnung, der Zertifizierer macht es auch und dann kommen wir auf bestimmte Werte, zum Beispiel, dass die Schutzrelais überhaupt sicher auslösen oder eben ob unsere parkinternen Schaltanlagen das aushalten. Ohne diese Werte ist das ein Schuss ins Blaue, so eine Netzberechnung. Machen wir gerade im Ausland auch teilweise, weil der Netzbetreiber vielleicht selber diese Werte gar nicht kennt, aber dann sind das immer nur Abschätzungen. 
+
+Hier mit diesem E-Bogen ist das eine Superpower von diesem E-Bögen-Prozess, dass man ganz genau weiß, mit welchen Netzparametern man rechnen muss und dann kommen auch alle, die parallel rechnen, auf das gleiche Ergebnis. Dann kommt ein sehr angenehmer Abschnitt, weil der ist für uns einfach nicht so wichtig. Da geht es um Oberschwingung. 
+
+Die Zertifizierstellen kriegen ja eh diesen E-Bogen und die machen dann damit auch was. Also das sind Faktoren, mit denen man dann Oberschwingung berechnen kann oder anpassen, ja, ermitteln kann, ist für uns nicht so wichtig. Die Zertifizierstelle macht das. 
+
+Wir haben da jetzt einfach mal was reingeschrieben, aber das ist einfach sehr hochwertiges Elektro-Know-how. Ich habe selbst ein-, zweimal meinetwegen dann mal gerechnet, aber mehr, um zu verstehen, was da passiert. In Wirklichkeit ist das Zertifizierstelle und Netzbetreiber Abstimmung wichtig, damit unsere Netze sauber bleiben. 
+
+Da steht es, die Zertifizierstelle bewertet diese Oberschwingung. Gleich mit dem nächsten Punkt, dieser Netztransformator und das R und das X von diesem Transformator ist für die Netzberechnung wichtig und das macht vorwiegend die Zertifizierstelle. Kapitel 5. Jetzt sind wir im, Achtung, Mittelspannungsnetz. 
+
+Ich nehme es vorweg, gleich kommt noch Kapitel 6, Hochspannungsnetz. Deswegen habe ich das so über mich geschrieben, damit man das noch mal so nebeneinander sehen kann. Also jetzt ist erst mal wir, 4110 Anschluss Mittelspannung, haben einen Anschluss ans Mittelspannungsnetz des Netzbetreibers und das wiederum hat eine Sternpunktbehandlung. 
+
+Und abhängig von dieser Netztopologie, Sternpunktbehandlung, folgen elektrotechnische Konsequenzen. Wie gesagt, vor allem bei der Schutztechnik, aber nicht nur. Und deswegen ist das sinnvoll, das zu wissen. 
+
+Er gibt es hier an, niederohmige Sternpunktbehandlung. Was daraus folgt, erklären wir in einem anderen Brain Day. Aber hier kriegt man die Info erst mal her.
+
+(0:05:57 - 0:09:10)
+Also Schutzkonzept ist ganz wichtig für den Erdschluss. Und also das mit der Zertifizierstelle, das hätte ich mir sozusagen rechts oben übergeordnet über diese PowerPoint schreiben können, weil alle Angaben hier drin sind für die Zertifizierstelle wichtig. Das sind noch mal Details, die man da rauszieht, so ein Fachmann für seine Netzberechnung. 
+
+Und jetzt sind wir auf der letzten Seite angekommen, 7 von 7. Und da gibt es noch mal ein neues Kapitel. Ich hatte es gerade gesagt. Jetzt ist es Hochspannung und nicht mehr Mittelspannung. 
+
+Also jetzt sogar noch eine Netzebene höher. Da können wir noch weniger wissen, wie das Netz eigentlich aussieht. Und das ist nur für die Zertifizierstelle relevant. 
+
+Für mein Schutzkonzept ist das jetzt schon gar nicht mehr wichtig, weil das sozusagen entkoppelt ist, galvanisch getrennt von dem Mittelspannungssystem. Insofern haben wir das sogar unterstrichen, dass wir da gar nicht mehr darauf achten. Grundsätzlich stehen da aber die gleichen Sachen drin, wie ist die Netztopologie aufgebaut. 
+
+Und dann ist das erst mal eine sehr gute Information. Das Kapitel 7 ist der aller, allerletzte Punkt. Der ist ganz, ganz klein, aber teilweise interessant. 
+
+Ich habe es gerade jetzt auch wieder in einem Projekt. Da hängt ein Haken drin. Der Netzbetreiber möchte ein rechnerlauffähiges Modell der Erzeugungsanlage haben. 
+
+Ich kann mir gut vorstellen, dass das auch wirklich sinnhaft ist für die Netzbetreiber ab jetzt in der Zukunft, weil nun mal die Einspeiser einen überwiegenden Anteil ja der Elektrifizierung jetzt schon haben und vermeintlich irgendwann mal bei 100 Prozent ankommen. Und dann müssen die Netzbetreiber eben genau wissen, wie nicht nur ihr Netz aufgebaut ist, sondern sozusagen auch das der Teilnehmer, also der Einspeiser. Und genau das erfahren sie in diesem Punkt. 
+
+Sie fragen jetzt den Kunden erst mal, ob wir ihm ein rechnerlauffähiges Modell zusenden können. Ich finde es ganz wichtig zu wissen, dass das was kostet. Das ist natürlich immer ganz wichtig für den Projektleiter und dass das auch dauert, sich abzustimmen, was die eigentlich genau brauchen. 
+
+Welche steht da auch, welche Softwarebezeichnung ist überhaupt gewünscht, welche Versionsnummer, welche Schnittstelle genau soll in dieser Version hinterlegt werden oder geöffnet werden. Das ist gar nicht so einfach, weil das natürlich auch gar nicht mehr viele Leute können, weder beim Netzbetreiber noch meinetwegen beim Planer, sich diese Netzmodelle genauer anzugucken. Also wenn es angekreuzt ist, dann zumindest einen Haken auch beim Projektleiter machen, dass man darauf achten muss, dass man das bestellt bei einer externen Firma, die sowas kann und dass man das dann auch noch im Detail abstimmt mit dem Netzbetreiber. 
+
+So, am Ende achten wir wie immer auf die Unterschrift und auch auf das Datum. Hatten wir schon oft, dass da nichts drinsteht. Ich finde, dann ist es einfach nicht richtig. 
+
+Am Ende ist das relevant dafür, dass es gültig ist und dass man auch so eine Art virtuellen Stempel sich da drauf machen kann. So, das war es für heute Netzbetreiber Abfragebogen. Vielen Dank fürs Zuhören. 
+
+Es hat mir viel Spaß gemacht. Ich freue mich aufs nächste Mal. Bis dann. 
+
+Alles Gute.

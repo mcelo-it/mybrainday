@@ -1,0 +1,94 @@
+(0:00:00 - 0:00:12)
+Endspurt. Wir gehen in das vorletzte Kapitel, die statische Spannungshaltung. Da sind wir noch mal für den Kopf, auf welcher Seite wir sozusagen jetzt hin.
+
+(0:00:12 - 0:00:23)
+Also wir haben schon ziemlich viele umgeblättert. Jetzt kommen wir also auf die fünfte von sieben Seiten. Das Ganze nennt sich statische Spannungshaltung und wird als Kapitel 3 benannt.
+
+(0:00:23 - 0:00:41)
+Und da haben wir es jetzt erst mal so gemacht, dass wir da einen Haken reingesetzt haben. Und wie immer für diesen E-Bogen gilt, die Vorgabe kommt vom Netzbetreiber. Hier wieder mal noch extra dazu geschrieben, weil nur er das logisch überhaupt bewerten kann.
+
+(0:00:41 - 0:00:55)
+Nämlich nach seinem internen System. Also wie macht er das? Welchen Blindleistungsstellbereich hat er da so in seiner Logik hinterlegt? Dann macht das wahrscheinlich für alle gleich. Und insofern ist das alles, was man dazu sagen kann.
+
+(0:00:55 - 0:01:10)
+Das muss man einfach erst mal wissen, dass er das für den Blindleistungsstellbereich eben so definiert. Als Allerwichtigstes ist das für die Zertifizierstelle. Die schaut sich diese Daten ganz genau an, weil die das dann braucht für ihre Berechnung.
+
+(0:01:11 - 0:01:27)
+So jetzt für uns ein bisschen greifbarer ist der nächste Punkt. Da geht es um die Blindleistungsvollwerte und die sogenannten Verfahren. Machen wir auch einen riesen Schulungsmodul dazu, wie die Verfahren überhaupt funktionieren, was das genau ist.
+
+(0:01:27 - 0:01:35)
+Das machen wir jetzt hier nicht. Aber ihr kennt sie schon und deswegen könnt ihr jetzt sehr, sehr schnell folgen. Also er hatte gerade erst mal gesagt, ja, das steht ja in meiner Tab.
+
+(0:01:36 - 0:01:45)
+Und hier steckt er jetzt nochmal an, welche von den Verfahren er haben möchte. Das ist eine Oder-Frage. Ich glaube, es sind jetzt vier Verfahren, die jetzt kommen und er gibt meistens nicht alle an.
+
+(0:01:45 - 0:02:00)
+Das ist nicht sinnhaft, sondern eine oder zwei, sage ich auch gleich noch, weil das eine Oder-Frage ist. Jetzt diese erste Blindleistungsspannungskennlinie. Ich zeige sie gleich mal, ist also die Variante 1. So sieht die aus und die hat er jetzt ausgewählt.
+
+(0:02:00 - 0:02:06)
+Die möchte er gern. Die soll in der Parkregelung hinterlegt werden. Wo genau? Das ist wieder eine andere Frage.
+
+(0:02:06 - 0:02:25)
+Aber jetzt erstmal grundsätzlich wissen wir, der Parkreglerhersteller, die Konfirmitätserklärung, die Zertifizierstelle, welche Blindleistungskennlinie denn überhaupt hinterlegt werden soll. Also erstens mal die Art Q von U und zweitens auch mit welchen Kennwerten genau. Die sind dann hier mit Zahlen hinterlegt.
+
+(0:02:25 - 0:02:36)
+Ich zeige das mal, wenn man die ins Diagramm schiebt, wie bei dem Schutzschema, wie bei dem Strom-zu-Zeit-Diagramm. Finde ich, ist das so viel klarer als so als reiner Text. Jetzt haben wir es visualisiert.
+
+(0:02:36 - 0:03:08)
+Das macht ihr auch gleich nochmal in der Übung und dann wird das deutlicher, welcher Wert da an welche Position gehört. Also das gibt er in unserem Beispiel jetzt an und sagt hier nochmal Achtung, dieser Wert ist jetzt in dem Fall nicht, aber er könnte es machen, Variabel von der Fernwirkanlage. Das macht sicherlich Sinn, je nach Anforderung der Leitwarte oder nach ja, ja, genau Schwierigkeitsgrad der Leitwarte, was die alles so umsetzen können überhaupt.
+
+(0:03:08 - 0:03:33)
+Geben die das eben an oder nicht? Wichtig ist für uns, dass wir es genau wie wir es ja hier machen, uns das alles mal angucken und dann auch nicht aus Versehen über so einen Kreuz drüber stolpern oder vergessen, sondern wenn eins gesetzt ist, dann muss man auch prüfen, ob die Parkregelung das auch wirklich so kann. Die zweite Möglichkeit ist eine oder Geschichte ist eine Kennlinie. Hier Q von P habe ich jetzt als Beispiel mal nicht angekreuzt.
+
+(0:03:33 - 0:03:43)
+So würde die aussehen. Mache ich einfach direkt weiter, weil wir sie jetzt ja gar nicht benötigen. Jetzt kommen wir zur dritten Variante.
+
+(0:03:43 - 0:03:59)
+Das ist die Blindleistung Q mit Spannungs Grenzbereich. Die habe ich wieder angekreuzt und ich hatte es gerade schon genannt. Wie kann das sein, dass man zwei Varianten bei einer oder Frage ankreuzt? Der Hintergrund ist, wenn die das so machen, dann fordern sie eine Umschaltbarkeit.
+
+(0:03:59 - 0:04:15)
+Das ist üblich. Ich kenne das so. Und dann muss man mit dem Parkregler Hersteller eben abstimmen und dass sich auch mal angucken, wie er das dann macht in seiner Datenpunktliste, dass der Netzbetreiber da aus der Ferne von zwischen jetzt diesen zwei Kennlinien, die ich da beschrieben habe, umschalten kann.
+
+(0:04:17 - 0:04:37)
+Wie das genau aussieht, mache ich nicht. Ich erkläre die Achsen nicht, sondern das visuelle Bild muss reichen. Und dann hat man auch hier wieder festgestellt, wenn man die Zahlen mal da aus dem Blatt Papier in ein Diagramm reinwirft, wird das sicherlich viel deutlicher, was eigentlich die Spannung da abhängig, die Blindleistung abhängig von der Spannung überhaupt macht.
+
+(0:04:38 - 0:05:01)
+Also in unserem Beispiel haben wir eine umschaltbare Funktion jetzt vorgegeben bekommen und werden das dann auch machen. Die vierte Variante ist so ein Verschiebungsfaktor Cosinus Phi zeige ich auch, ist eine relativ einfache Darstellung, weil das ist dann einfach ein fester Cosinus Phi und er kann das umschalten. Steht da variabel nach Fernwirkanlage oder nach Fahrplan oder eben einen festen Cosinus Phi eingestellt bekommen.
+
+(0:05:02 - 0:05:14)
+Brauchen wir nicht. Jetzt kommt das Regelverhalten bei Sollwertschwimmen. Es wird immer, finde ich persönlich zumindest, schwieriger, anspruchsvoller damit.
+
+(0:05:15 - 0:05:39)
+Ich habe das vielleicht irgendwann mal gelernt, was eine zeitkonstante Tau ist, aber ich muss es jetzt ehrlich gesagt nicht im Detail wissen, weil ich es persönlich nicht unbedingt umsetzen muss. Was ich wissen muss als Elektroplaner ist, dass die hier steht und dass ich diesen Wert weitergeben muss an bei mir wären das dann die Parkregler Hersteller, also diejenigen, die sich dann später um den Regelungstest mit dem Netzbetreiber zusammen kümmern müssen. Die müssen das auf jeden Fall haben.
+
+(0:05:40 - 0:06:03)
+Die Zertifizierstelle sowieso, die guckt ja sich das auch alles an. Aber für euch finde ich es erst mal wichtig, dass man weiß, wo dieses Tau herkommt. Also wie schnell muss dieser Parkregler nachsteuern? Das steht hier drin. 
+
+Die Regelgeschwindigkeit wäre hier angegeben. Dann auch noch wichtig. Was passiert eigentlich, wenn der Fernwirkanlage ausfällt? Da werde ich auch immer so bei Risikoanalysen gefragt.
+
+(0:06:03 - 0:06:25)
+Ich habe auch selbst Risikoanalysen und dann schaue ich hier rein, weil wenn der Weiterbetrieb mit dem letzten empfangenen Wert ist, dann ist das vermeintlich gar nicht so ein großes Risiko. Wenn wir davon ausgehen, dass der die Anlage in dem Moment, wo die ausfällt, gar nicht ansteuert oder nicht limitiert, dann wäre das ja gar nicht so schlimm, wenn die Fernwirkanlage ausfällt. Wenn er sie gerade auf 0% geregelt hat, dann wäre es blöd.
+
+(0:06:25 - 0:06:36)
+Dann muss man sehr schnell wieder die Fernwirkanlage in den Betrieb bringen. Getestet wird es auf jeden Fall. Also in Protokollen später bei der Inbetriebnahme werden diese Punkte einzeln abgetestet.
+
+(0:06:37 - 0:06:48)
+Achtet darauf, legt das Parkregler Prüfprotokoll neben diesen E-Bogen. Das kann man eins zu eins überprüfen. Hat das auch schon oft, dass manche Hersteller das dann einfach nicht testen, diesen Ausfall.
+
+(0:06:48 - 0:06:57)
+Doch müssen sie. Alles, was hier angegeben wird, muss getestet werden. Das Verhalten bei Ausfall des EZA-Reglers.
+
+(0:06:57 - 0:07:04)
+Genau, also jetzt fällt nicht die Fernwirkanlage aus, sondern der EZA-Regler fällt aus. Ist das gleiche Spiel. Man muss wissen, was dann passieren muss.
+
+(0:07:04 - 0:07:16)
+Man muss das ja aktiv einstellen. Die Anforderungen hinsichtlich des Blindleistungsverhalten bei Mischparks. Genau, ist natürlich dann nur bei Mischanlagen wichtig, also Dachanlagen.
+
+(0:07:17 - 0:07:23)
+Das ist dann auch wieder wichtig. Wo soll das passieren? Kann man hier wieder ankreuzen? Haben wir nicht. Haben wir es uns einfach gemacht.
+
+(0:07:23 - 0:07:29)
+Deswegen kein Kreuz. Gleiches Prinzip hier. Führungsgröße, Mischanlagen, da ist das wichtig.
+
+(0:07:30 - 0:07:33)
+Wenn es keine Mischanlage ist, dann ist das nicht so relevant.

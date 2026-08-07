@@ -1,0 +1,56 @@
+(0:00:00 - 0:00:30)
+Und kommen jetzt zum nächsten, zum letzten Kapitel, das auch noch mal relativ kurz gefasst, aber vielleicht noch mal so ein paar Erfahrungswerte aus der Praxis, die wir versucht haben, zusammenzustellen. Eure Anlage ist also, euer Prüfprotokoll ist also ausgefüllt worden. Ihr seid jetzt mit der Anlage in Betrieb und euer Projektleiter fragt euch jetzt, sind denn die Sensoren wirklich, wirklich richtig installiert? Ihr schaut euch dann mal einen schönen sonnigen Tag an und habt hier einen Pyranometer, was meinetwegen horizontal installiert wurde.
+
+(0:00:32 - 0:00:43)
+Und jetzt könnt ihr erst mal anhand eines Pyranometers natürlich noch nicht sagen, ob das jetzt richtig installiert ist oder falsch. Also ihr habt jetzt keinen Referenzwert. Das macht diese Situation ein bisschen schwierig.
+
+(0:00:43 - 0:01:16)
+Zum Glück haben wir eine große Anlage, haben drei Pyros installiert und haben jetzt bei dem zweiten Pyro eine Verschiebung, die wir hier sehen in die Morgenstunden, würde ich mal sagen. Unten sehen wir den Tagesverlauf und dieses Pyranometer bringt jetzt im Grunde genommen etwas mehr Einstrahlung in den Morgenstunden. Und wir haben noch ein drittes Pyranometer, was dann tatsächlich in den Abendstunden komischerweise mehr Einstrahlung anzeigt als das erste gezeigte Pyranometer.
+
+(0:01:17 - 0:01:43)
+Und jetzt kann man sich natürlich überlegen, wie das sein kann. Und aus diesen Werten kann man jetzt ableiten, dass die zwei grünen Pyranometer vermutlich das eine zu weit nach Osten geneigt ist und das andere zu weit nach Westen. Vorausgesetzt natürlich, wir gehen davon aus, dass das Pyranometer, was in der Mitte von diesen beiden grünen Pyranometern steht, mehr oder weniger richtig installiert ist.
+
+(0:01:44 - 0:02:02)
+Es kann natürlich auch sein, dass das Pyro, was ganz nach links verschoben ist, richtig ist und die anderen beiden zu weit nach Westen gucken. Aber das wäre im Grunde genommen die Idee. Eins ist richtig und das, was in den Morgenstunden zu viel Ertrag zeigt, das schaut tendenziell wahrscheinlich zu weit nach Osten.
+
+(0:02:02 - 0:02:18)
+Es guckt in den Osten, wo die Sonne aufgeht und sieht dann morgens mehr Einstrahlung. Und das Pyranometer, was in den Abendstunden bessere Erträge zeigt oder bessere Einstrahlungswerte zeigt, das schaut in der Tendenz wahrscheinlich eher nach Westen. Und so lösen wir das Ganze hier auf.
+
+(0:02:18 - 0:02:45)
+Das ist, finde ich, eine sehr, sehr gute Möglichkeit, nochmal die Pyranometer im Realbetrieb, im wirklichen Betrieb nochmal zu verifizieren. Wenn man da Abweichungen sieht, eben in dieser Verschiebung, dann kann man daraus ableiten, dass manche Pyranometer eben in der Neigung zu weit nach Osten oder Westen schauen. Das Gleiche kann man dann auch nochmal tun für geneigte Pyros.
+
+(0:02:45 - 0:03:05)
+Jetzt zeigen wir hier mal wieder eins, was vermeintlich richtig installiert ist und als vielleicht als Referenzwert dienen kann. Und jetzt haben wir ein Pyro, was mehr Ertrag zeigt. Und wir haben auch noch ein Pyro dazu, ein Pyranometer, was weniger Ertrag zeigt.
+
+(0:03:05 - 0:03:21)
+Und auch daraus könnte man jetzt ableiten. Ich gehe mal davon aus, wir haben eine PV-Anlage, die 15, 20 Grad geneigt ist. Und wenn man jetzt mehr Ertrag auf diesem geneigten Pyro sieht, dann ist wahrscheinlich unser Pyro stärker zur Sonne geneigt.
+
+(0:03:21 - 0:03:43)
+Und wenn wir weniger Ertrag sind, dann ist es tendenziell mehr Richtung horizontal geneigt. Das hat natürlich auch alles seine Grenzen. Aber vom Ansatz her wäre auch das hier eine gute Möglichkeit, die Neigung vielleicht nochmal zu verifizieren, ob alle Pyros wirklich identisch verlaufen oder ob man anhand dieser Messwerte schon sehen kann, dass manche Pyros vielleicht mehr oder weniger geneigt sind.
+
+(0:03:46 - 0:04:01)
+So, und dann vielleicht einfach nur, um das nochmal gesehen zu haben. Das ist jetzt ein realer Verlauf von Umgebungstemperatur, die jetzt im Tagesverlauf natürlich ein bisschen ansteigt und dann nachts wieder ein bisschen abfällt. Und im Verhältnis dazu so eine Modultemperatur.
+
+(0:04:01 - 0:04:12)
+Wir haben das einfach mal rausgesucht, damit man das mal gesehen hat und irgendwie greifen kann. Diese Modultemperaturen gehen dann deutlich hoch im Tagesverlauf. Und interessanterweise sind sie nachts etwas geringer.
+
+(0:04:13 - 0:04:24)
+Als die Luft, die Module werden nachts kühler als die Lufttemperatur. Und im Tagesverlauf steigen sie dann eben stark an. Und dann sind Modultemperaturen bis 70 Grad sicherlich keine Seltenheit.
+
+(0:04:24 - 0:04:37)
+Das kann man dann so erwarten. Natürlich abhängig von der Einstrahlung und der Umgebungstemperatur und der Windgeschwindigkeit und so weiter. Je nachdem, Wind kühlt natürlich, Umgebungstemperatur, die Geringe kühlt auch.
+
+(0:04:38 - 0:04:54)
+Aber so würde dann so ein Verlauf von Umgebungstemperatur und Modultemperatur in der Realität aussehen. Dann haben wir noch eine letzte Darstellung für euch hier mitgebracht. Und da würde man jetzt nochmal einfach ein horizontales Pyranometer sehen.
+
+(0:04:55 - 0:05:05)
+Man hat da vielleicht mal einen kurzen Wolkendurchzug gehabt am Nachmittag. Aber vom Grundsatz her ist das hier wahrscheinlich ein wunderschöner, sonniger Tag gewesen. Horizontal.
+
+(0:05:05 - 0:05:31)
+Und wenn man jetzt ein geneigtes Pyranometer hat, also in der Modulebene, das heißt, es ist besser zur Sonne geneigt bei uns in Deutschland zumindest, dann sieht man hier, dass der Verlauf sehr ähnlich ist, aber dass dieses horizontale Pyro geringere Einstrahlungswerte misst als das geneigte Pyro. So, und damit kommen wir dann auch zum Ende unserer Präsentation. Wir sind ein paar Minuten drüber.
+
+(0:05:32 - 0:05:46)
+Mich hat es trotzdem sehr gefreut. Mir hat es sehr viel Spaß gemacht. Ich hoffe, dass ihr jetzt ein besseres Gefühl habt, wenn ihr über das Thema Sensoren sprecht, dass ihr da mit viel Selbstbewusstsein in Diskussionen starten könnt und dass ihr alle hier ein bisschen was zumindest mitgenommen habt.
+
+(0:05:47 - 0:05:50)
+Vielen Dank fürs Zuhören. Wir sehen uns dann beim nächsten Mal.

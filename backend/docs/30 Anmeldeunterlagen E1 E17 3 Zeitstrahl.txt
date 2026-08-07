@@ -1,0 +1,450 @@
+(0:00:00 - 0:00:11)
+Wir gehen zum nächsten Kapitel der Zeitstrahl. Ich springe einfach direkt rein in den Zeitstrahl. Dann wird viel deutlicher, was wir eigentlich damit bezwecken wollen.
+
+(0:00:11 - 0:00:27)
+Grundsätzlich ist es so, dass eben auch die zeitliche Ablaufplanung von so einem gesamten Projekt in den VDE Anwendungsrichtlinien definiert sind. Das steht genauso da drin, wie wir das jetzt hier darstellen. Inhaltlich.
+
+(0:00:27 - 0:00:44)
+Wir haben es nur ein bisschen noch farblich hinterlegt und vielleicht ein bisschen die Anordnung verändert. Aber vom Grundsatz steht da drin, dass man anfangen muss mit einer Anschlussanmeldung und einer Grobplanung. Genau so steht das in der Anwendungsrichtlinie.
+
+(0:00:45 - 0:00:50)
+Also Anschlussanmeldung. Das ist ja auch der Titel von heute. Da macht man eine Grobplanung.
+
+(0:00:51 - 0:01:06)
+Sogar die VDE weiß das, dass man jetzt nicht das Projekt schon im Detail haben muss. Stichwort Trafo Verluste abschätzen und los geht's. Die Normen und auch wir definieren diesen Startzeitpunkt mit T1 und der ist jetzt erst mal null.
+
+(0:01:07 - 0:01:24)
+Hier beginnt unser Projekt im Zeitstrahl ganz vorne. Was machen wir jetzt? Im ersten Schritt müssen wir einen Antrag stellen oder sie nennen das auch eine Anfrage und wir nennen es eine Anmeldung zum Netzanschluss beim Netzbetreiber. Das machen wir jetzt mal als allererstes.
+
+(0:01:24 - 0:01:35)
+Und dafür übergeben wir alle zur Anschlussbewertung notwendigen Unterlagen. Also wie gesagt, ich will aber da noch mal darauf hinweisen. Diese Wording hier in diese Zeitstrahlen.
+
+(0:01:35 - 0:01:43)
+Alles, was ihr hier seht, kommt nicht von uns. Das kommt aus der VDE Anwendungsrichtlinie. Wir haben es nur etwas zusammengefasst und anders dargestellt.
+
+(0:01:43 - 0:01:53)
+Also die VDE sagt jetzt übergebt erst mal alle zur Anschlussbewertung notwendigen Unterlagen. Welche sind das? Da kommen wir gleich dazu. Wer muss das machen? Das muss der Anschlussnehmer machen.
+
+(0:01:53 - 0:01:58)
+Wir müssen das machen. Wir starten mit dem Anmeldeprozess. Und wie, da ist es.
+
+(0:01:58 - 0:02:13)
+Ich finde, das ist der Kern, auf den wir im Grunde ja heute hinaus wollen. Und am Ende dieser Schulungsanlage sagen alle, alles klar, jetzt weiß ich, dass ich den hier steht es für Erzeugungsanlagen E1, E8, E13 und E14 brauche. Ich habe ihn extra gehighlighted.
+
+(0:02:13 - 0:02:33)
+Die kommen ja jetzt ständig wieder vor in unseren Schulungsmaterialien. Aber hier mache ich sie noch mal grün, weil jetzt hat man noch mal herauskristallisiert, warum man für den chronologisch gesehen ersten Schritt E1 und dann E8, E13 und E14 braucht. Da kann man sich, finde ich, irgendwie das im Hinterkopf merken, den Screenshot machen, neben den Laptop pinnen, was auch immer.
+
+(0:02:33 - 0:02:42)
+Aber hier sind sie. Und wichtig ist, die E2 brauchen wir für unsere PV-Welt nicht. Die ist für Bezugsanlagen vorgesehen.
+
+(0:02:42 - 0:02:54)
+Also wenn man es chronologisch durchgeht, E1, ja mache ich. E2 kann ich dann schon mal rauslöschen. Die Anwendungsrichtlinie sagt, nach acht Wochen passiert wieder was.
+
+(0:02:54 - 0:03:11)
+Nach acht Wochen, also nachdem wir die Übergabe aller Anschlussbewertung notwendigen Unterlagen eingereicht haben, muss der Netzbetreiber was machen. Jetzt ist der mal dran. Und zwar muss er den Netzanschlusspunkt festlegen zum Beispiel.
+
+(0:03:11 - 0:03:33)
+Also er muss, so nennen sie das, eine Grobplanung für den Netzanschluss ausführen. Erstens wichtigster Punkt ist natürlich die Festlegung vom Netzanschlusspunkt. Und dazu kommt dann, das ist aber seine Angelegenheit, da mischen wir uns erst mal nicht ein, dass man dazu vielleicht auch einen Netzausbau braucht oder sonst irgendwelche technischen zusätzlichen Anforderungen hat.
+
+(0:03:35 - 0:04:06)
+Grundsätzlich gilt, egal jetzt für was, wenn der da irgendwie was machen muss für diesen Netzanschluss, was kostenpflichtig ist, dann muss er dann dafür auch euch ein Angebot übersenden. Das ist natürlich sinnhaft, dass man das weiß so früh im Projektstadion, damit man überhaupt eine kommerzielle Bewertung machen kann von so einem Gesamtprojekt. Und er muss alle notwendigen Netzdaten, das ist jetzt für uns als E-Planer wieder wichtig, uns übersenden, damit wir da überhaupt weiter planen können an unserer Kundenanlage.
+
+(0:04:07 - 0:04:12)
+Also der Netzbetreiber macht das beidseitig. Die Richtlinie gilt für beide. Er muss das machen.
+
+(0:04:13 - 0:04:24)
+Er kann sich nicht irgendwie darauf verlassen, dass wir das schon nicht merken werden. Nachhaken nach mindestens höchstens acht Wochen muss er euch das übermitteln. Und wir nennen das jetzt Einspeisezusage.
+
+(0:04:24 - 0:04:34)
+Ich glaube, so steht das nicht unbedingt da drin. Aber ich denke, den Begriff kennt jeder. Also mit der Einspeisezusage müssen diese hier genannten Bullet Points vom Netzbetreiber an den Anschlussnehmer übersendet werden.
+
+(0:04:36 - 0:04:46)
+Damit hätte man mal den ersten Schritt abgehakt, dauert acht Wochen. So sagt es die Norm. Und als Ziel hat man den Meilenstein erreicht, die Einspeisezusage.
+
+(0:04:47 - 0:04:56)
+Erst danach kann man in den zweiten Schritt. Das ist also eine bedingte Definition des Zeitstrahls. Für alle, die eben Projektmanagement machen, ist das wichtig.
+
+(0:04:57 - 0:05:07)
+Wenn man irgendwelche Projektmanagement Tools eintippt, kann man sowas immer definieren. Also der zweite Schritt, die Reservierung und Feinplanung. Wir haben noch Anlagenzertifikat in Klammern geschrieben.
+
+(0:05:07 - 0:05:14)
+Das kommt von uns, weil uns das doch immer so wichtig ist. Das kann erst starten, wenn der erste Schritt erfolgreich abgeschlossen ist. Das ist ganz wichtig.
+
+(0:05:15 - 0:05:27)
+Und das wird man später im Zeitstrahl auch sehen. Wenn jetzt schon der erste Schritt viel länger dauert, dann kriegt man hinten raus sozusagen das Projekt nicht schneller ans Netz, weil sich das aufsummiert. Deswegen fangen die hier auch neu an.
+
+(0:05:27 - 0:05:34)
+Also jetzt haben sie T2 gesetzt. Kann ja sein, dass T1 ein bisschen länger gedauert hat. Da fangen wir lieber mal mit T2 gleich 0 wieder an.
+
+(0:05:34 - 0:05:47)
+Dann ist man sozusagen in der Zeitachse wieder im Zeitplan. Was macht man in diesem zweiten Schritt? Man muss, werden wir gleich sehen, wer man ist. Man muss das Netzanschlussangebot annehmen.
+
+(0:05:47 - 0:06:06)
+Also das, was der Netzbetreiber dem Anschlussnehmer geschickt hat, muss jetzt angenommen werden schriftlich. Man muss gegebenenfalls die kostenpflichtigen Leistungen, also Netzausbau, Fernwirktechnik, was auch immer, das muss man annehmen schriftlich. Dann muss man auch wieder schriftlich bestätigen, dass die Grobplanung schon so ist wie gedacht.
+
+(0:06:07 - 0:06:17)
+Und man muss den E8-Bogen erneut übergeben. Das hatte ich ja schon ein, zwei Mal mit 1 und 2 dargestellt. Also hier kommt jetzt endlich das mal auch beschrieben in der Richtlinie.
+
+(0:06:18 - 0:06:24)
+Der E8, der muss jetzt wieder übergeben werden. Wir sehen ja später, was im E8 drin sind. Ganz viele technische Daten stehen da drin.
+
+(0:06:24 - 0:06:37)
+Und jetzt, jetzt ist das so, dann mag ja sich irgendwie die Anzahl der Wechselrichter verändert haben, weil man jetzt eine Feinplanung hat, steht ja oben, und nicht mehr eine Grobplanung. Der Wechselrichter-Typ hat sich geändert. Die Trafostationsanzahlen, was auch immer.
+
+(0:06:37 - 0:06:54)
+Und deswegen muss man diesen E8-Bogen unbedingt aktualisieren und nochmal an den Netzbetreiber stecken, damit der wiederum auf diesen Daten basierend den E9 erstellen kann. Klingt jetzt erst mal so einfach. Das fand ich schon immer so, wenn man sich diese Zeitachse anschaut.
+
+(0:06:55 - 0:07:09)
+Ja, klar, dann muss er halt den E8 einreichen und dann kriegst du schon den E9. In der wahren Elektroplaner-Alltagswelt ist das nicht einfach. Das ist ein großer Teil meines Alltags, dass ich mich darum kümmern muss, dass diese Punkte abgearbeitet werden und zwar auch richtig.
+
+(0:07:09 - 0:07:21)
+Werden wir auch wiederum später nochmal genauer sehen. Aber wenn sich ja jetzt doch nochmal die Wechselrichterzahl irgendwann ändert, hat das wieder großen Einfluss auf diesen Zeitstrahl. Also jetzt gehen wir erst mal davon aus, dass die sich nicht mehr ändert.
+
+(0:07:21 - 0:07:27)
+Das macht der Anschlussnehmer. Er hat den E8 also jetzt zum zweiten Mal ausgefüllt. Ist schon einfacher als beim ersten Mal.
+
+(0:07:27 - 0:07:34)
+Vielleicht hat sich nicht so viel verändert und schickt das nochmal an den Netzbetreiber. Da ist er, der E8. Drei Wochen.
+
+(0:07:37 - 0:07:46)
+Mit meiner Mimik denke ich, stelle ich schon klar, dass ich das nicht immer so sehe. Aber gehen wir mal die Theorie weiter. Nach drei Wochen passiert jetzt wieder was.
+
+(0:07:47 - 0:07:59)
+Der Netzbetreiber schickt dem Anstragsteller den ausgefüllten E9-Bogen, der Netzbetreiber-Abfrage-Bogen, wieder einen Meilenstein im Projekt. Wieder eine wichtige Sache erreicht. Würde ich wieder einen Riesenhaken dran machen.
+
+(0:07:59 - 0:08:07)
+Und den Projektleiter freudig informieren. Ob das jetzt wirklich immer so in drei Wochen passiert, sei mal dahingestellt. Aber wir sind ja erst mal in der Theorie.
+
+(0:08:08 - 0:08:23)
+Jetzt passiert was relativ komplexes. Der Netzbetreiber rechnet jetzt rückwärts. Der Netzbetreiber definiert jetzt den Zeitpunkt der Werksproduktion der Übergabestation TBB.
+
+(0:08:23 - 0:08:42)
+Also wann bestellen wir die Übergabestation? Das könnte man vielleicht so definieren. Und rechnet von dem Zeitpunkt der Bestellung rückwärts. Er sagt, acht Wochen, bevor ihr überhaupt bestellen solltet, müsst ihr bitte das Anlagenzertifikat beim Netzbetreiber einreichen.
+
+(0:08:42 - 0:08:59)
+Das ist völlig unrealistisch. In meiner Projektwelt haben wir noch nie gemacht, weil das bedeuten würde, dass man erst die Feinplanung und das gesamte Anlagenzertifikat, was Monate dauert, abgearbeitet haben muss, bevor man die Übergabestation überhaupt bestellt. Die wiederum enorm lange Lieferzeiten hat.
+
+(0:09:00 - 0:09:05)
+Also das ist einfach nicht Projektalltag. Aber noch sind wir ja in der Theorie. Machen wir es mal so.
+
+(0:09:05 - 0:09:15)
+Also acht Wochen vorher haben wir jetzt das Anlagenzertifikat erstellt. Super, das machen wir mit dem E15 und reichen das ein. Und deswegen zwei Wochen vorher.
+
+(0:09:15 - 0:09:25)
+Das wäre also eine Differenz von sechs. Hat der Netzbetreiber jetzt das Anlagenzertifikat geprüft und hat endgültig den Netzanschlusspunkt noch mal bestätigt. Sehr gut.
+
+(0:09:26 - 0:09:39)
+Da passieren dann alle möglichen Papierangelegenheiten. Wir haben die Abkürzung oben hingeschrieben für jeden, der sich interessiert. Jetzt passieren so Sachen wie Netzanschlussvertrag, Netznutzungsvertrag, Anschlussnutzungsvertrag.
+
+(0:09:40 - 0:09:51)
+All das wird jetzt erst an den Kunden, an den Anschlussnehmer geschickt. Und erst jetzt kann er sozusagen also diese Verträge unterschreiben. Das verschickt wiederum der Netzbetreiber.
+
+(0:09:51 - 0:10:10)
+Und das macht er ohne E-Bogen. Da gibt es meistens eine E-Mail an den Anschlussnehmer. Und für alle, die von ihren Projektleitern mal gefragt werden, wann können wir denn endlich mal die Netzanschlussverträge unterschreiben? Für all die, die können vielleicht mal diesen Zeitstrahl rausnehmen und da zeigen, wie viel da dazwischen liegt, dass man überhaupt da hinkommt.
+
+(0:10:10 - 0:10:25)
+Stichwort Anlagenzertifikat gibt es eine ganze Schulungseinheit von uns dafür, wie schwierig das ist, eigentlich dieses Anlagenzertifikat zu erstellen. So, das war der zweite Schritt. Jetzt gehen wir in den dritten.
+
+(0:10:26 - 0:10:33)
+Das ist die Bauvorbereitung und der Bau. So macht die Anwendungsrichtlinien das. Wie gesagt, ich würde es ja nicht so machen.
+
+(0:10:33 - 0:10:43)
+Aber jetzt machen wir erst mal das so, wie die das machen. Also auch da wieder fängt jetzt sozusagen irgendein Bau an. Und da bleibt die Norm dabei.
+
+(0:10:43 - 0:10:57)
+Sie sagt, das machen wir auch wieder abhängig von der Bestellung der Übergabestationen. Zehn Wochen vorher, er sich es gemerkt hat, diese Punkt vorher sollte acht Wochen vorher starten. Also diese zwei Sachen können jetzt ruhig parallel laufen.
+
+(0:10:58 - 0:11:10)
+Aber da sage ich gleich, Bauvorbereitung und Bau, das läuft ja sowieso also auf PV-Sicht völlig unabhängig von diesem Anmeldeprozess. Das macht der Projektleiter, wie er es für richtig hält. Hier ist das mehr auf die Übergabestationen bezogen.
+
+(0:11:10 - 0:11:23)
+Also all die Sachen, die korrelieren und in Zusammenarbeit stehen mit dem Netzbetreiber. Gut, also Bauvorbereitung und Bau. Die Vorlage der Unterlagen zur Errichtungsplanung müssen beim Netzbetreiber eingereicht werden.
+
+(0:11:23 - 0:11:30)
+Das macht der Anschlussnehmer und dazu nimmt er den E4. Achtung, wir sind nicht mehr im Anmeldeprozess. Jetzt sind wir ja schon im dritten Schritt.
+
+(0:11:30 - 0:11:35)
+Jetzt sind wir schon richtig im Bauablauf. Deswegen gehen wir heute auf diesen E4 nicht ein. Das machen wir an anderer Stelle.
+
+(0:11:35 - 0:11:56)
+Aber den Gesamtprozess wollten wir ja trotzdem einmal zeigen. Vier Wochen später hat der Netzbetreiber, ich sage jetzt mal zum Beispiel, Detailpläne der Übergabestation geprüft und schickt diese Prüfung schriftlich zurück an den Anschlussnehmer. Und ich sage ja, wir sind ja bei TBB minus sechs Wochen.
+
+(0:11:56 - 0:12:05)
+Also noch haben wir die Übergabestation ja nicht bestellt in der Theorie. Wenn jetzt also Kommentare kommen, können die natürlich noch eingebaut werden. Jetzt ist es soweit.
+
+(0:12:05 - 0:12:11)
+Die Übergabestation wird beauftragt. Hier wird sie bestellt und sie wird gebaut. Das machen natürlich wir.
+
+(0:12:11 - 0:12:25)
+Und da gibt es dann erst mal auch kein E-Formular. Bezogen auf die Übergabestationen passiert dann aber auch doch noch was vom Netzbetreiber oder vom Messstellenbetreiber genau genommen. Das muss nicht der Netzbetreiber sein, weil ich ein bisschen zu schnell.
+
+(0:12:25 - 0:12:45)
+Deswegen steht da extra Messstellenbetreiber. Der stellt dann zwei Wochen nach der Werksproduktionsbeginn ungefähr die Wandler zur Verfügung, weil die werden ja dann meistens beim Stationslieferanten noch vor Ort eingebaut. So, das dauert in Summe ungefähr zwölf Wochen, dieser dritte Schritt.
+
+(0:12:45 - 0:13:05)
+Und dann hat man mehr so die handfesten Sachen mit eingebaut. Dann komme ich auf den vierten Schritt, die Vorbereitung der Inbetriebssetzung der Übergabestation. Die Abkürzung IBS steht auch so in der Anwendungsrichtlinie drin.
+
+(0:13:05 - 0:13:11)
+Auch vielleicht einfach für den Hinterkopf. IBS ist nicht gleich IBN. Ich zeige auch gleich noch mal kurz den Unterschied.
+
+(0:13:11 - 0:13:20)
+Also die Inbetriebssetzung wird jetzt vorbereitet. Wenn man soweit ist, dann hat man ja wirklich schon mal ein gutes Gefühl. Hoffe ich, da wird es jetzt richtig spannend.
+
+(0:13:20 - 0:13:37)
+Was macht man vier Wochen vor der Inbetriebnahme? Da steht es T Inbetriebnahme ist etwas anderes als T Inbetriebssetzung. Also vor der Inbetriebnahme macht man eine Abstimmung, einen Termin zur Abnahme der Übergabestation. Genau das macht der Anschlussnehmer.
+
+(0:13:38 - 0:13:47)
+Und das macht man mit einer E-Mail. Also da stimmt man jetzt mal einen Termin ab oder bestenfalls telefoniert man natürlich ungefähr vier Wochen vorher. Vielleicht lieber noch ein bisschen früher.
+
+(0:13:47 - 0:13:56)
+Dann zwei Wochen vor der Inbetriebnahme muss man haufenweise Unterlagen spätestens eingereicht haben. Die gehen wir jetzt hier nicht durch. Das ist, wie gesagt, eine andere Schulungseinheit.
+
+(0:13:56 - 0:14:03)
+Aber ich sage mal, zum Beispiel muss man. Was muss man machen? Schutzprüfprotokolle. Genau die muss man natürlich zum Beispiel einreichen.
+
+(0:14:03 - 0:14:14)
+Man muss einen Direktvermarkter benannt haben und so weiter. Da haben wir Sternchen dahinter gemacht, weil das unterschiedliche Verantwortlichkeiten hat. Also zum Beispiel beim Inbetriebssetzungsauftrag.
+
+(0:14:14 - 0:14:23)
+Genau da steht der Anschlussnehmer oder beim Schutzprüfprotokoll. Da stehen dann auch wir. Da werden verschiedene Dokumente dafür benutzt.
+
+(0:14:23 - 0:14:35)
+E5, E6, E7. Die gehen wir an einer anderen Stelle einfach auch mal im Detail durch. Aber genau da werden also alle Unterlagen, man könnte es auch Checkliste nennen, abgefragt, die der Netzbetreiber braucht.
+
+(0:14:35 - 0:14:51)
+Natürlich vor der Inbetriebnahme, weil wenn er die Unterlagen nicht hat, dann wird es gar keine Inbetriebnahme geben. Ungefähr noch mal eine Woche vorher gibt es dann eine Vorinbetriebssetzung. Haben wir auch das noch mal im Detail dargestellt, was da so passiert.
+
+(0:14:51 - 0:14:58)
+So einen Ablauf haben wir hier mal durchgespielt. Kann man sich natürlich jederzeit auch angucken. Und das macht dann der Messstellenbetreiber.
+
+(0:14:58 - 0:15:08)
+Und da macht er einfach nur ein Protokoll. Aber dann ist das schon mal vorbereitet für die tatsächliche Inbetriebnahme. Ähnliches Prinzip ist bei der Fernwirktechnik und beim Bittest.
+
+(0:15:08 - 0:15:17)
+Also die Signalübertragung wird unbedingt vorher geprüft. Das macht der Netzbetreiber zusammen mit dem Anschlussnehmer. Ihr erinnert euch, da ist irgendein Schutztechniker oder ein Leittechniker vor Ort.
+
+(0:15:17 - 0:15:38)
+Der Netzbetreiber ist vor Ort und dann wird das vorab geprüft. Auch da gibt es dann ein Protokoll und weiter geht's. Wenn dieser vierte Schritt geschafft ist, dann geht es endlich mal in die Inbetriebnahme des Netzanschlusses und in die Inbetriebssetzung der Übergabestation.
+
+(0:15:39 - 0:15:54)
+Man kann sich das so vorstellen, dass die Inbetriebssetzung ein Teil der Inbetriebnahme ist. Also die Inbetriebnahme definiert das ganze Konstrukt und dann die Übergabestation davon ist ein Teil nur von dem gesamten Ablauf. Deswegen nennt man das dann Inbetriebssetzung.
+
+(0:15:55 - 0:16:08)
+Also jetzt ist Tag der Inbetriebnahme. Wir haben das auf null gesetzt, damit es wieder sozusagen von null starten kann. Und dann passieren mehrere Sachen.
+
+(0:16:08 - 0:16:20)
+Als erstes, der Netzbetreiber kümmert sich um die Inbetriebnahme des Netzanschlusses. Das könnte in so einer Übergabestation einfach das Eingangskabelfeld sein. Da nimmt er dann Spannung drauf und das ist sein Verantwortungsbereich.
+
+(0:16:21 - 0:16:30)
+Und dann hat er seinen Teil schon mal in Betrieb genommen. Darauf folgt dann die Inbetriebssetzung der gesamten Übergabestation. Da hängen ganz viele Sachen drin, auf die wir jetzt nicht im Detail eingehen.
+
+(0:16:30 - 0:16:37)
+Das passiert dann grundsätzlich. Geht das dann da weiter? Das machen wir. Und die Messung wiederum, das macht der Messstellenbetreiber.
+
+(0:16:38 - 0:16:46)
+Wenn wir das hingekriegt haben, kriegt man eventuell danach eine E-Mail. Eine vorübergehende Betriebserlaubnis ist erteilt. Das wäre dann die E7.
+
+(0:16:49 - 0:16:58)
+So, der fünfte, der sechste und letzte Schritt. Ich zoome gleich hoch, dann stehe ich nicht mehr im Weg. Hoffentlich gut zu erkennen.
+
+(0:16:58 - 0:17:07)
+Wir haben hier blau auf blau gewählt. Das ist die Inbetriebssetzung der Erzeugungsanlage in Klammern Konfirmitätserklärung. Das ist auch nochmal so ein Riesending für sich.
+
+(0:17:07 - 0:17:20)
+Also Inbetriebnahme. Vielleicht kommt das ja auch schon mal rüber. Hier ist nicht einfach nur Inbetriebnahme und dann ist der Tag geschafft, sondern das sind viele, viele Einzelschritte, in denen viele Sachen passieren und die sich über viele, viele Tage und Wochen ziehen.
+
+(0:17:21 - 0:17:36)
+Hier wird auch wieder unterteilt, nicht einfach nur Inbetriebnahme, sondern jetzt kommt hier erst mal die Inbetriebnahme der Erzeugungseinheit. Das ist mal der erste Punkt EZE, die Erzeugungseinheit. Und danach kommt die Erzeugungsanlage.
+
+(0:17:36 - 0:17:59)
+Ich sage auch gleich, was der Unterschied ist. Jetzt machen wir aber erst mal die Erzeugungseinheit, also irgendwie so Wechselrichter und geben ein Inbetriebssetzungsprotokoll beim Netzbetreiber ab. Das machen wir. 
+
+Der Anschlussnehmer macht das. Das ist das E10-Formular. Da hat er eine Top-Vorlage, um diese Inbetriebssetzung der Erzeugungseinheiten protokollieren und nachweisen zu können.
+
+(0:18:00 - 0:18:08)
+Wenn er das geschafft hat, dann macht er die Inbetriebnahme der Erzeugungsanlage. Jetzt kann ich den Unterschied, glaube ich, ganz gut erklären. Hier steht es auch.
+
+(0:18:09 - 0:18:24)
+Inbetriebssetzung der Erzeugungsanlage muss er auch wieder protokollieren und beim Netzbetreiber anmelden. Der Unterschied ist, als Anlage ist tatsächlich die gesamte PV-Anlage gemeint. Der Erzeugungseinheit sind die einzelnen Wechselrichter.
+
+(0:18:25 - 0:18:37)
+Und er unterscheidet das, weil vor allem bei Großprojekten es nicht möglich ist und dadurch auch nicht selbstverständlich, dass das gleichzeitig erfolgen kann. Ein Beispiel. Man hat 100 Wechselrichter.
+
+(0:18:38 - 0:18:49)
+Dann kriegt man es vermeintlich nur hin, ich sage mal 10 am Tag in Betrieb zu nehmen. Wenn man das in Ruhe macht, ist das halt so. Und dann hätte man ja zwei Wochen, die man braucht, um die gesamte Anlage in Betrieb zu nehmen.
+
+(0:18:49 - 0:19:08)
+Das ist genau das, was er auch hier oben als Beispiel ansetzt. Also circa zwei Wochen nach der Inbetriebnahme der ersten Erzeugungseinheit wird dann die gesamte Erzeugungsanlage als in Betrieb genommen, angemeldet. Wichtiger Unterschied, deswegen sind es auch zwei Dokumente, die beide von uns ausgefüllt werden.
+
+(0:19:08 - 0:19:17)
+Also E10 und E11, das machen beides wir. Jetzt springen wir mal zehn Monate weiter. Zehn Monate, sechs, Entschuldigung.
+
+(0:19:17 - 0:19:29)
+Jetzt springen wir mal sechs Monate weiter. Sechs Monate später erstellt man eine Konformitätserklärung. Absolutes super Ereignis in jedem Projekt.
+
+(0:19:29 - 0:19:42)
+Wenn man das hingekriegt hat, finde ich, kann man erst mal einen Sekt aufmachen oder vielleicht einen alkoholfreien zumindest in der Gruppe verteilen. Weil dann hat man unglaublich viel geschafft. Das Projekt hat dann einen richtig, richtig elektrotechnisch gesehen Top-Status erreicht.
+
+(0:19:43 - 0:19:51)
+Also diese Konformitätserklärung ist einfach ein ganz wichtiges Ziel. Und jetzt hat man ein Gefühl dafür. Die VDE sagt, na ja, sechs Monate brauchst du bestimmt.
+
+(0:19:51 - 0:20:01)
+Ich sage ja auch, ja, ja, so kenne ich das. Also sechs brauche ich bestimmt. Und zwar sechs Monate nach der Erzeugungsanlagen in Betriebnahme und maximal.
+
+(0:20:01 - 0:20:08)
+Also wenn man es schneller schafft, ist natürlich gut. Aber wenn man länger braucht, dann muss man das anmelden. Sonst können sie einem die Anlage abschalten.
+
+(0:20:09 - 0:20:25)
+Und weil man ja sonst sagen könnte, na ja, dann lasse ich den letzten Wechselrichter halt mal noch monatelang aus. Dann zieht sich ja diese sechs Monate nach EZA komplett in Betriebnahme immer weiter nach hinten. Hat er sich sozusagen da eine Grenzmarke gesetzt.
+
+(0:20:25 - 0:20:48)
+Also das ist jetzt egal, wie lange man dann für die Gesamtanlage braucht. Spätestens zwölf Monate nach der Inbetriebnahme des ersten Wechselrichters, der ersten Erzeugungseinheit, muss der Anschlussnehmer den E12-Bogen, also die Konformitätserklärung eingereicht haben beim Netzbetreiber. Und dann hat der Netzbetreiber noch mal einen Monat Zeit, das zu prüfen.
+
+(0:20:48 - 0:21:05)
+Da ist es und eine endgültige Betriebserlaubnis einzureichen, macht der Netzbetreiber und nennt sich dann E16 und E17. Das war die ganze Kette. Jetzt hat man es mal hoffentlich auf diese Weise gesehen und Achtung, jetzt machen wir das Gleiche nochmal.
+
+(0:21:06 - 0:21:16)
+Das dauert jetzt aber nur irgendwie fünf Minuten. Vielleicht wir machen jetzt genau das Gleiche nochmal, aber als die Darstellung, wie ich es im Hintergrund zeige. Kalendarische Form könnte man es vielleicht sagen.
+
+(0:21:16 - 0:21:49)
+Dann hat man jetzt die Theorie, glaube ich, einmal gehört und setzt das Ganze jetzt um in irgendwie eine Markierung in seinem Wandkalender. Wir fangen am 1. Januar an, weil dann interessanterweise, man sieht es gleich schon im ersten Schritt oder einfacher Weise die Kalenderwochen einfach aufaddiert werden, weil 1. Januar ist die Woche eins und dann kann man das jetzt einfach hochrechnen. Also wenn die Anschlussplanung acht Wochen dauert, kriegt man nach acht Kalenderwochen, also in der Kalenderwoche neun, wahrscheinlich dann die Einspeisezusage.
+
+(0:21:50 - 0:22:20)
+Da ist es. Na ja, also das ist erst mal eine Linie, dass da was passiert. Wenn wir jetzt in den nächsten Schritt gehen, die Reservierung und Feinplanung, ihr erinnert euch, dann geht es jetzt um den E9-Bogen und diese grüne Balken hier drei Wochen ist das, was der Netz, na ja, die 4110 sagt, wird der Netzbetreiber brauchen, um den E9-Bogen zu erstellen und die orange Linie ist, dass wir den E8-Bogen zum zweiten Mal eingereicht haben, also die Feinplanung nochmal im E8-Bogen aktualisiert und nochmal eingereicht haben.
+
+(0:22:20 - 0:22:47)
+Das heißt, in dieser grundsätzlichen Darstellung hat man jetzt am Tag, an dem man die Einspeisezusage bekommen hat, auch gleich wieder den E8 neu eingereicht und drei Wochen später kriegt man den E9-Bogen. Jetzt kriegen wir eine andere Linie, weil auch da erinnert ihr euch dran, kommt doch diese Kuriosität, dass die VDE da rückwärts rechnet von der Bestellung der Übergabestation. Das machen wir jetzt natürlich auch, weil wir wollen es ja darstellen.
+
+(0:22:47 - 0:23:16)
+Also erst mal sechs Wochen braucht man, um das Anlagenzertifikat zu erstellen. Das ist dieser Block und zwei Wochen braucht der Netzbetreiber, um es zu prüfen und dann bestellt, sage ich mal, der Mitarbeiter, der die VDE da geschrieben hat, Anwendungsrichtlinie, erst die Übergabestation. In dem anderen Block, der läuft parallel, das ist, finde ich, für heute nicht ganz so relevant, aber natürlich zeigen wir Ihnen diese Bauverarbeitung und Bau vielleicht hier eher bezogen auf die Übergabestation, läuft parallel.
+
+(0:23:17 - 0:23:42)
+Da sagen die, das dauert ungefähr zehn Wochen. Das sind irgendwie Pläne prüfen und ja, genau, technische Abstimmung machen und dann noch zwei Wochen nach der Bestellung. Jetzt setzen die wieder diese T gleich 0 in Betriebnahme oder T in Betriebnahme gleich 0 Linie hier rein und rechnen vier Wochen für die Vorbereitung der Inbetriebnahme der Station.
+
+(0:23:42 - 0:24:11)
+Das sind irgendwelche vorbereitenden Protokolle vor Ort. Tests gehen wir in einem anderen Modul im Detail darauf ein. Die Inbetriebnahme selbst ist dann dieser fünfte Schritt dauert vermeintlich nur einen Tag. 
+
+Also wir sprechen von der Übergabestation und dann haben wir erst mal die ersten sechs Monate schon verbraten, sozusagen. Und jetzt hat man es ja gesehen. Ich musste jetzt darüber schieben in meinem Jahreskalender bis in den Dezember hinter, weil jetzt kommt noch mal ein ganz langer Block.
+
+(0:24:11 - 0:24:14)
+Da ist er. Da ist er. Der sechste Schritt.
+
+(0:24:15 - 0:24:28)
+Sechs Monate plus eins sogar für die Konfirmitätserklärung hinten raus. Also plus eins. Das war, dass er einen Monat lang prüft und wir haben sechs Monate lang Zeit, die einzureichen.
+
+(0:24:28 - 0:24:36)
+Also die finale Betriebserlaubnis kommt hier im Januar 2000. Was wäre das dann? 26 meinetwegen. Und jetzt steht es obendrauf.
+
+(0:24:37 - 0:24:57)
+Das sind jetzt mehr als elf Monate. Habe ich jetzt mal grundsätzlich hingeschrieben. Sagen wir mal, ungefähr ein Jahr hat es jetzt gedauert nach der Logik der Richtlinie. 
+
+Genau, genau. Habe ich mit da reingeschrieben. Die theoretische Zahl steht ja jetzt da oben.
+
+(0:24:57 - 0:25:20)
+Also merkt sie euch. Elf Monate habe ich jetzt mal gesagt, braucht die VDE Mitarbeiterin der VDE Mitarbeiter, um die Anlage komplett abzuarbeiten. Jetzt ist mir wichtig, dass wir auch noch in, naja, ich sage mal unsere Projekt Realität reingucken, die nämlich anders aussieht.
+
+(0:25:21 - 0:25:24)
+Da will ich jetzt auch gar nicht. Natürlich nicht. Um Gottes Willen.
+
+(0:25:24 - 0:25:49)
+Ich persönlich bin ja ein Riesen Fan. Hoffentlich habe ich das auch mehrfach schon bekundet von dieser Richtlinie, die ist wirklich sinnhaft und herausragend gut gemacht. Also wer sowas sich vor mittlerweile 10, 15 Jahren überlegt hat, der hat das super gemacht. 
+
+Trotzdem hat ihn hier die Realität ein bisschen eingeholt. Deswegen zeige ich jetzt mal, was bei uns eigentlich im Projektatlauf da wirklich noch schief geht, wenn man es so will. Und da habe ich mir mehrere Punkte aufgeschrieben.
+
+(0:25:49 - 0:25:57)
+Also das Erste ist schon mal. Hier ist ja in der Logik die Feinplanung schon abgeschlossen. Das halte ich erst mal für überhaupt nicht realistisch.
+
+(0:25:57 - 0:26:12)
+So ist das halt. Also nur weil man eine Einspeisezusage hat, hat man ja noch keine Feinplanung abgeschlossen. Da geht es ja um Anzahl der Wechselrichter, Typ der Wechselrichter. 
+
+Man braucht die Einheiten, Zertifikate der Wechselrichter. Man braucht den Netzanschluss, Übergabestationen. Also das muss ja alles fertig definiert sein.
+
+(0:26:12 - 0:26:27)
+Sonst könnte ich ja gar nicht diesen E8-Bogen neu einreichen, um dann einen sinnhaften E9-Bogen zu erhalten. Weil es nicht so ist, markiere ich das erst mal. Das heißt, da könnte sich natürlich die Ablaufdauer schon mal ganz schön verzögern.
+
+(0:26:28 - 0:26:40)
+Jetzt gibt es einen zweiten Punkt, die Verschiebung der Bestellung der Übergabestation wegen langer Lieferzeiten. Also das ist aus unserer Realität immer dramatischer geworden. Die Komponenten haben sehr lange Lieferzeiten.
+
+(0:26:41 - 0:26:51)
+Deswegen sagen die Projektmanager, dass wir dringend früher bestellen müssen. Sonst zieht sich also ich sage mal ohne Übergabestation keine Inbetriebnahme. Sonst ziehen sich die Inbetriebnahmen weit nach hinten.
+
+(0:26:51 - 0:27:03)
+Also ich mache das hier mal in meinem Bild. Ich verschiebe die Bestellung der Übergabestation nach vorne und jetzt einfach mal im besten Fall in dem Moment, wo die Einspeisezusage vorliegt, ich den E8-Bogen einreiche. Jetzt habe ich sie bestellt.
+
+(0:27:04 - 0:27:20)
+Die andere Linie graue ich aus. Genau. Sage hinten noch im August, das sind dann ungefähr fünf, sechs Monate Lieferzeit, realistisch und vielleicht sogar sonst sehr schnell, dass die Lieferung der Übergabestation jetzt in der Logik nach der Inbetriebnahme stattfindet.
+
+(0:27:20 - 0:27:25)
+Also darauf will ich hinaus. Das geht natürlich nicht. Das heißt, es werdet ihr gleich sehen.
+
+(0:27:25 - 0:27:39)
+Die Inbetriebnahme verschiebt sich gleich. Bevor ich die nach rechts verschiebe, habe ich sie nur mal nach links verschoben, nur der Form halber, damit ich diese Lücke bei der Feinplanung schließe. Das war dieses rückwärtsgerechnerei von der Vorlage.
+
+(0:27:39 - 0:27:44)
+Das machen wir ja so nicht. Deswegen habe ich diese Lücke geschlossen. Dieser grüne Balken ist jetzt eine Einheit.
+
+(0:27:46 - 0:28:04)
+So, dann passiert ein dritter Effekt. Der Netzbetreiber braucht unsere Erfahrung nach länger als drei Wochen, um den E9-Bogen zu erstellen. Sagen wir einfach mal acht Wochen, ohne irgendjemanden zu nahe drehen zu wollen. 
+
+Das ist jetzt ein Beispiel. Und zack wird der Balken größer. Die Inbetriebnahme rutscht schon Richtung Lieferung der Übergabestation.
+
+(0:28:06 - 0:28:12)
+Vierter Effekt. Die Zertifizierstelle mag länger brauchen als sechs Wochen. Also wenn ihr Zertifizierstellen habt, die das in sechs Wochen machen.
+
+(0:28:13 - 0:28:23)
+Großartig will ich auch niemanden auf die Füße treten. Jetzt hier mit dieser Präsentation. Meine Erfahrung ist, es ist unglaublich schwer, Zertifizierstellen zu finden, die sagen Na klar, dann fange ich nächste Woche an.
+
+(0:28:23 - 0:28:33)
+Meistens kriegt man Reservierungsblöcke in mehreren Monaten zugeteilt. Das heißt, das ist oft sehr schwierig. Denkt da auch dran, frühzeitig die Zertifizierstelle zu beauftragen.
+
+(0:28:33 - 0:28:45)
+Sonst funktioniert dieser Zeitplan so auf gar keinen Fall. Die sagen Wir brauchen vielleicht nur sechs Wochen zur Berechnung, aber ihr startet erst in zwölf. Naja, dann hat man ja auch nichts gewonnen und braucht insgesamt sogar mehr als diese zwölf, die hier stehen.
+
+(0:28:45 - 0:28:50)
+Wir machen mal zwölf. Der Bogen wird länger. Die Inbetriebnahme verschiebt sich immer weiter.
+
+(0:28:51 - 0:29:04)
+Und jetzt passiert noch ein fünfter Effekt, den man natürlich vermeiden will. Aber vielleicht passiert's oder zumindest fragt mal der Projektleiter und der an der der Anlagenerrichter danach. Ich würde doch gern noch fünf Wechselrichter mehr installieren.
+
+(0:29:04 - 0:29:16)
+Also eine Planungsänderung will er machen. Und dann startet die Bearbeitungszeit der Zertifizierstelle definitiv neu, um wie viel die dann länger brauchen. Das müsste natürlich immer im Detail abstimmen.
+
+(0:29:16 - 0:29:33)
+Aber er wird länger brauchen, weil er die Berechnung neu macht. Der ganze Zertifizierprozess startet ja dann wieder. Und jetzt machen wir in unserem Beispiel mal folgendes Wir ändern jetzt hier die Wechselrichter Anzahl, einfach weil wir plötzlich mehr Platz gekriegt haben und dann verschiebt sich die Inbetriebnahme nochmal nach hinten.
+
+(0:29:33 - 0:29:46)
+Und jetzt sind wir auch nach der Lieferung der Übergabestation. Insofern ist das ja erst mal realistisch, dass das überhaupt so passiert. Aber Achtung, durch diesen Effekt haben wir jetzt in unserem Beispiel nochmal 16 Kalenderwochen verloren, wenn man so will.
+
+(0:29:47 - 0:29:58)
+Also jetzt sind wir schon im Oktober. So dazu ein ganz kurzes Zahlenbeispiel. Das finde ich nur fürs Gefühl, weil was sind 16 Wochen? Ja, weiß ich jetzt auch nicht so genau.
+
+(0:29:58 - 0:30:10)
+Ich habe es einfach mal als Techniker in Zahlen gegriffen. Es ist nur ein Beispiel. Aber dann hat man vielleicht die Dringlichkeit noch besser abgespeichert, warum unser Prozess, warum unsere Schulungsunheit heute so wichtig ist.
+
+(0:30:11 - 0:30:24)
+Wir nehmen mal eine 10 Megawatt Anlage, da kann man leichter rechnen. Wir sagen einfach, weil Sommer ist, dass der viele 4 Kilowattstunden pro Kilowatt Peak macht am Tag, denke ich. Dann haben wir einfach 5 Cent pro Kilowattstunde angenommen.
+
+(0:30:25 - 0:30:44)
+Und jetzt sage ich einen Ertragsausfall sozusagen dadurch, dass wir später in Betrieb gehen, sind jetzt 10.000 Kilowatt Peak mal 4 Kilowattstunden pro Kilowatt Peak pro Tag. Da steht es, dass dann mal die 5 Cent und dann kommt man auf 2000 Euro pro Tag bei einer 10 Megawatt Anlage. Ja, also ist halt so.
+
+(0:30:45 - 0:31:04)
+Gibt ja viele Sachen, die mal schiefgehen können im Projekt. Aber jetzt nur bezogen auf diese Zeitachse wäre eine Änderung im Anlagenzertifikat in meinem Beispiel 2000 mal 16 mal 7 sind 224.000 Euro. Da kann man sich noch mal rückwärts rechnen, ob das sinnhaft ist, diesen zusätzlichen Wechselrichter wirklich einzuplanen.
+
+(0:31:04 - 0:31:35)
+Aber worauf ich vor allem hier an der Stelle hinaus will, ist, dass sozusagen alle die Arbeit der, wer auch immer Sachbearbeiter an diesen in Betriebnahme Prozessen zu schätzen wissen. Das ist eine komplexe und vor allem aufeinander aufbauende Logik, die wir da im Hintergrund sehen und das nicht einfach so gemacht ist. Also der Projektleiter, finde ich, muss das wissen, dass das, was wir jetzt hier gezeigt haben, komplex ist, dass es aufeinander aufbaut und dass es enorme Auswirkungen auf so eine Inbetriebnahme hat.
+
+(0:31:35 - 0:32:25)
+Wenn man irgendwo im Prozess was vergisst, was ändern muss, die E-Mail nicht angekommen ist, wie ich schon mal erwähnt hatte, im Spamfilter gelandet ist. Das hilft überhaupt nichts, wenn man sich dann beschwert. Dann muss man es ja neu schicken und irgendein Bearbeitungsschritt hier fängt wieder bei null an. 
+
+So, da sind sie noch mal die fünf. Also die Realität ist bei mir jetzt plötzlich auf 15 Monate gerutscht. Ich will es eben ganz wichtig sagen, wenn ihr jetzt mal die Vorlage aus dem Handout nehmt für eure nächste Projektbesprechung, freue ich mich natürlich, wenn ihr sie nutzt. 
+
+Dann nehmt die Realitätsvariante, finde ich, weil die andere ist einfach zu theoretisch. Letzter Punkt. Letzter Punkt ist, wir nehmen die diese markierten Schrittübersichten und zeigen noch mal die Gesamtdarstellung erst weiß.
+
+(0:32:25 - 0:32:35)
+Jetzt mache ich das auch noch farblich gleich. Mach so Linien rein. Ich finde, das wirkt einfach noch besser, um zuordnen zu können, was jetzt eigentlich da zu wem gehört.
+
+(0:32:37 - 0:32:58)
+Jetzt habe ich oben die E2 rausgenommen, weil dann die ganze Liste nach oben rutscht. Und zack, sieht die ganze Sache doch schon viel einfacher aus. Also das ist es, was ich euch im ersten Teil zeigen wollte, warum wir das machen, warum das chronologisch anders ist als numerisch und welche Teilschritte man an welcher Stelle machen muss.
+
+(0:32:59 - 0:33:03)
+Damit geht es in die wohlverbindende Kaffelpause. Wir sehen uns in fünf Minuten wieder und dann freue ich mich.

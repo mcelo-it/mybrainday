@@ -1,0 +1,272 @@
+(0:00:00 - 0:00:23)
+Wir gehen ins nächste Kapitel und das nennt sich Anmeldung E1. Ich denke, die Vorbereitung der letzten Kapitel hat dazu geführt, dass man jetzt weiß, warum man jetzt dieses Anmelde- und Formular E1 überhaupt ausfüllen muss. Da gehen wir jetzt rein und da gucken wir uns jetzt wirklich im Detail an, wie wir das ausfüllen würden.
+
+(0:00:24 - 0:00:52)
+Die altbekannte Übersicht mit diesen Querbalken, damit man die einzelnen Schritte versteht, mit den farblichen Markierungen und jetzt nehmen wir mal alle raus, weil jetzt konzentrieren wir uns erstmal nur auf den E1. Wir fangen oben an. Auf los geht's los. 
+
+So sieht so ein E1-Bogen aus. Den haben wir uns hier reingenommen und schauen uns den jetzt von oben bis zum Ende mal im Detail an. Rechts seht ihr das schon, der hat nur eine Seite.
+
+(0:00:52 - 0:01:18)
+Das ist erstmal eine gute Nachricht. Relativ überschaubar und nennt sich Antragstellung für Netzanschlüsse in der Mittelspannung. Also wenn man jetzt irgendwie hier feststellt, man ist in der falschen Spannungsebene, dann bitte wieder beiseite legen und sich die andere Norm rausholen. 
+
+Bezeichnung des Bauvorhabens. Da haben wir eine kleine Notiz uns mit reingenommen. Also wenn der Netzbetreiber schon eine Bezeichnung hat, gut.
+
+(0:01:19 - 0:01:37)
+Ansonsten gerade, wenn man jetzt neu Antrag stellt, ganz am Anfang, dann vermeintlich nicht. Dann würden wir eine wählen und wir machen das jetzt einfach mal, weil wir gerne Beispiele real darstellen, dass wir hier bei uns im Büro in Neukölln, da sitzen wir, wer will, kann uns mal besuchen, eine Dachanlage bauen. Das machen wir jetzt.
+
+(0:01:38 - 0:01:47)
+Für Freilandanlagen ist das das Gleiche. Man könnte das jetzt auch PVA-Freiflächenanlage Neukölln nennen. Also man bezeichnet die, damit es irgendwie schon mal eine klare Zuordnung gibt.
+
+(0:01:48 - 0:02:13)
+Dann gibt es die Anlagenanschrift. Vermeintlich einfach. Ich finde, da geht es schon los mit eventuellen Missverständnissen, die ich ganz am Anfang mal erklärt hatte, dass sowas immer wieder auftaucht. 
+
+Ich persönlich stolpere immer wieder drüber. Deswegen haben wir hier geschrieben, wenn es nicht eindeutig ist, dann unbedingt einen Lageplan und Flurstücksnummern angeben. Sehen wir später auch nochmal, wie wir so einen Lageplan machen würden.
+
+(0:02:13 - 0:02:29)
+Aber jetzt eine Freiflächenanlage mit Straße- und Hausnummer und Postleitzahl anzuminden, finden wir nicht ausreichend. Also Lageplan anhängen, Flurstücksnummern, vielleicht auch Zugangswege. Wichtiger Punkt ist, dass der Netzanschlusspunkt ja auch nicht unbedingt der gleiche sein muss, wie die Anlage selbst.
+
+(0:02:30 - 0:02:47)
+Auch da sind Missverständnisse noch schon vorprogrammiert. Der Netzbetreiber sagt doch vielleicht, naja, also was interessiert mich die PV-Anlage? Ich will hier die Anlagenanschrift der Übergabestation haben. Ihr habt das vielleicht anders interpretiert und habt, wie gesagt, die 5 km entfernte PV-Anlage, die im ganz anderen Dorf steht, hier reingeschrieben.
+
+(0:02:47 - 0:02:58)
+Also aufpassen, vielleicht auch beides hinschreiben, vielleicht das Kommentarfeld nutzen. Aber wie gesagt, der Lageplan mit Flurstücksnummern, der hilft bestimmt auch. Bei unserer Dachanlage ist das nicht ganz so schwierig.
+
+(0:02:58 - 0:03:03)
+Also hier sind wir. Das ist auch tatsächlich so. Wie gesagt, ihr könnt mal vorbeikommen.
+
+(0:03:03 - 0:03:14)
+Freitags von 9 bis 11 findet hier meistens eine Schulung statt. Dann der Anschlussnehmer, genau. Das ist aus unserer Sicht klar.
+
+(0:03:14 - 0:03:24)
+Der Vertragspartner mit dem Netzbetreiber. Ich betone das so, weil es gibt ja verschiedene Player in so einem Projekt. Also vielleicht einen Generalunternehmer.
+
+(0:03:25 - 0:03:42)
+Vielleicht gibt es ja auch noch einen Elektrofachbetrieb, der vom Generalunternehmer wiederum beauftragt ist. Und da fragt man sich ja erstmal, welchen trägt man ein? Hier ist es ganz klar, der Vertragspartner mit dem Netzbetreiber. Und das ist nicht der Generalunternehmer und auch nicht das Elektrofachunternehmen, sondern das ist der Betreiber der Anlage.
+
+(0:03:42 - 0:03:49)
+Der kommt hier rein. Genau. Das ist jetzt in dem Fall die Ingenieurpartnerschaft.
+
+(0:03:50 - 0:03:58)
+Dann der Grundstückseigentümer, wenn unterschiedlich zum Anschlussnehmer. Also das kann ja sein. Freifläche, man pachtet so eine Fläche.
+
+(0:03:59 - 0:04:06)
+Dann braucht man hier erstmal andere Kontaktdaten. Welche haben wir? Die Vermiete geben wir. Die schieben wir jetzt auch gleich mal da rein.
+
+(0:04:06 - 0:04:26)
+Und dann muss man aber darauf achten, dass man eine Vollmacht hat oder einen Pachtvertrag, das am besten vorher schon organisieren soll. Sonst kriegt er nach 8 oder 12 oder 16 Wochen nicht eine Einspeisezusage, sondern die Rückfrage, man solle doch bitte auch die Vollmacht einreichen. Also vielleicht lieber gleich mitschicken, wenn der Grundstückseigentümer nicht der gleiche ist wie der Anschlussnehmer.
+
+(0:04:27 - 0:04:41)
+Und ich denke, dass das in den meisten Fällen so ist. Dann nimmt man die Vollmacht und reicht die ein. Das ist deshalb wichtig, weil der Netzbetreiber nur mit einer Partei direkt spricht, eine Konversation betreiben möchte.
+
+(0:04:42 - 0:04:48)
+Und das ist sein Vertragspartner. Und das ist in der Definition der Anschlussnehmer. Er wird nicht auf den Grundstückseigentümer eingehen.
+
+(0:04:48 - 0:04:57)
+Das wird er nicht machen. Deswegen braucht ihr die Vollmacht, damit er das auch nicht muss. Dann kommt noch jemand, der Anlagenerrichter, genau.
+
+(0:04:57 - 0:05:05)
+Das ist in den meisten Fällen nicht der gleiche wie der Anschlussnehmer. Das kann der Generalunternehmer sein. Das ist jedenfalls in unseren Projekten meistens so.
+
+(0:05:05 - 0:05:16)
+Den würde ich da reinschreiben. Und das muss, weil das immer gefragt wird, unserer Meinung nach oder unserer Einschätzung nach nicht zwingend ein eingetragenes Elektrofachunternehmen sein. Das ist ja wieder was anderes.
+
+(0:05:17 - 0:05:36)
+Also derjenige, der die Übergabestation beispielsweise dann wirklich in Betrieb nimmt, der muss ein eingetragener Elektrofachunternehmer sein. Sonst wird der Netzbetreiber sagen, ich weiß nicht, was der da macht oder ob er qualifiziert ist. Aber jetzt erst mal der Anlagenerrichter, der Gesamtanlage aus unserer Definition muss da nicht zwingend drinstehen.
+
+(0:05:37 - 0:05:42)
+Ja, gut. Machen wir mal ein Beispiel rein. Die Kollegen kommen aus Hamburg extra vorbei.
+
+(0:05:43 - 0:05:53)
+Nächster Punkt, die Anlagenart. Ich übe mir auch noch mal im Grunde das Gleiche dargestellt. Hier wollen wir darauf hinaus, dass diese Anwendungsrichtlinie jetzt nicht nur für Photovoltaik geschaffen wurde.
+
+(0:05:53 - 0:06:11)
+Also bei uns setze ich mal jetzt hier bei Erzeugungslagenlage 1 rein. Aber ich glaube, für das Verständnis von diesem ganzen Prozess der Anwendungsrichtlinie ist das sehr sinnvoll zu wissen, dass da auch andere damit bedient werden. Das ist natürlich sehr clever gemacht, weil sie dann ja noch viel mehr Player mit der gleichen Richtlinie abdecken.
+
+(0:06:11 - 0:06:33)
+Daher kommen sicherlich auch Angaben, wo man sich manchmal fragt, was meinen die eigentlich damit? Aber dann meinen die halt den Hersteller von dem Notstromaggregat und nicht den Errichter von der Erzeugungsanlage. Wir sind eine Erzeugungsanlage, da machen wir einen Haken rein. Wir machen erst mal eine neue Errichtung und keine Erweiterung und einen Rückbau, den habe ich jetzt ehrlich gesagt selber auch noch nie gemacht.
+
+(0:06:33 - 0:06:48)
+Das kommt vielleicht dann später, wenn wir bei 100% der Erneuerbaren angekommen sind, dann kann man ja wahrscheinlich perspektivisch vor allem rückbauen. Aber wir machen erst mal eine Neuerrichtung, da kommt der Haken rein und dann weiß der Netzbetreiber Bescheid. Alles klar, neue Anlage.
+
+(0:06:49 - 0:06:55)
+Das ist der Lageplan, von dem ich schon gesprochen habe. Der ist wichtig. Deswegen zeigen wir ihn hier auch mal beispielhaft.
+
+(0:06:56 - 0:07:03)
+Ist nur ein Beispiel. Natürlich sieht eine Freifläche ganz anders aus. Das ist unser Bürogebäude und da machen wir hier eine Dachanlage drauf.
+
+(0:07:03 - 0:07:18)
+Das habe ich ja vorhin schon so gesagt. Deswegen muss ich jetzt auch das Dach hier angeben. Die Grundstücksgrenzen sind wichtig und ich will sagen, wo ist die Dachanlage? Und jetzt, wenn ich da noch eine Übergabestation habe, dann muss ich die irgendwie darstellen, weil das ist ja genau der Punkt.
+
+(0:07:18 - 0:07:31)
+Das sind jetzt verschiedene Adressen. Da habe ich jetzt halt klargemacht, dass das unterschiedliche Positionen sind. Der Netzanschlusspunkt selbst und der Installationspunkt der Dachanlage.
+
+(0:07:34 - 0:07:47)
+Habe ich einfach einen Screenshot daraus gemacht und das Ganze in so ein Dokument gefasst. Jetzt machen wir das Gleiche nochmal da rein. Da gehört in so ein Dokument immer eine Legende, da gehört eine Adresse rein, Koordinaten gehören rein.
+
+(0:07:47 - 0:07:58)
+Bei Freiflächen ist das extrem sinnvoll, dass man da gar nicht so groß mit Adressen herumhantiert, sondern mit Koordinaten. Oft ist es so, dass es da gar keine Adresse in dem Sinne gibt. Die wird vielleicht sogar später erst nochmal vergeben.
+
+(0:07:59 - 0:08:12)
+Ich gebe dem Anhang eine Bezeichnung, weil wir so ordentlich arbeiten. Das ist dann der Anhang 1 erstmal, damit man den auch später wieder richtig zuordnen kann. Der Maßstab muss unbedingt rein, sonst ist es einfach nicht korrekt.
+
+(0:08:12 - 0:08:27)
+Und wir machen noch einen Notfall, kann man selber nochmal kontrollieren, ob man in die richtige Richtung gebaut hat. Aber auch das ist für den Netzbetreiber sehr sinnhaft zu wissen. Da steht er, der Anhang 1 habe ich angehakt mit Ja.
+
+(0:08:29 - 0:08:36)
+Jetzt kommt mal eine elektrotechnische Geschichte. Also Achtung, alle Elektroplaner jetzt richtig gut zuhören. Richtig gut zuhören.
+
+(0:08:36 - 0:08:53)
+Das, was ich jetzt in 5 Minuten mache, habe ich wahrscheinlich in 10 Jahren mir mühsam aneignen müssen. Also erstmal nochmal relativ einfach. Wir machen einen Bezug PAV B. Die ganzen Abkürzungen sind auch sehr gut dargestellt in der Norm, kann man sich immer angucken.
+
+(0:08:53 - 0:09:08)
+Aber PAV B, B für Bezug. Schätze ich ab meinem Daumenwert sind 0,1% der Trafo-Leistung. Ich habe hier ein Trafo 630 kW, also schreibe ich da rein 0,63 kW.
+
+(0:09:09 - 0:09:22)
+Und zwar neu, weil wir haben eine neue Errichtung und bisher steht auf 0, weil bisher hatte ich 0. Das war der einfache Teil. Jetzt kommt der schwierigere. Jetzt kommt die Einspeisung PAVE und die installierte Erzeugungsleistung PINST.
+
+(0:09:22 - 0:09:44)
+Weil das so schwierig ist, schiebe ich erstmal mein Dokument zur Seite und bastel mir eine neue Tabelle. Und da stehen jetzt noch mehr Sachen drin, die ich wissen muss, auch wenn sie im Netzbetrieb in dem E1-Bogen gar nicht abgefragt werden. Ich fange oben an, nach 4110 hole ich mir erstmal aus dem Datenblatt des Wechselrichters die Nennenscheinleistung.
+
+(0:09:45 - 0:09:58)
+Nennenscheinleistung ist aus elektrotechnischer Sicht eindeutig. Jetzt nehmen wir in meinem Beispiel 215 kVA SN. Dann hole ich mir auch die Wechselrichter Nennwirkleistung raus.
+
+(0:09:58 - 0:10:08)
+Da haben wir auch ein ganzes Modul, was eigentlich der Unterschied ist und warum es sinnhaft ist, den Unterschied sehr gut zu kennen. Ich mache das so. Ich nehme 215 kW.
+
+(0:10:08 - 0:10:22)
+Das, finde ich, ist auch das Einzige, was wirklich richtig und sinnhaft ist, jetzt in dieser Stelle. Man nimmt also ein Cosinus V von 1 gleich an und dann ist die Nennenscheinleistung gleich der Nennwirkleistung. Das ist Grundlagen der Mathematik oder Elektrotechnik.
+
+(0:10:22 - 0:10:50)
+Und jetzt Achtung, Fallschritt, weil das ist es oft so, in den Datenblättern der Hersteller steht nicht unbedingt der Wirkleistungs-Nennwert bei Cosinus V gleich 1. Also, die machen natürlich keinen Fehler in ihrem Datenblatt. Sie definieren nur den Nennwirkleistungswert bei einem anderen Cosinus V. Und dann muss man rückwärts rechnen, was nicht so schwierig ist. Also, ich schlage vor, man nimmt die Nennscheinleistung gleich der Nennwirkleistung.
+
+(0:10:51 - 0:11:09)
+Dann haben wir jetzt bei uns zwei Wechselrichter installiert. Deswegen N gleich 2. Und jetzt geht es los. Die installierte Wirkleistung, die ich ja brauche, die ist die Anzahl der Wechselrichter mal die Nennwirkleistung, also 2 mal 215 gleich 430 kW.
+
+(0:11:10 - 0:11:25)
+Die Anzahl mal die Nennwirkleistung. Warum ist das so? Weil die 4110 sagt, dass eine Reduzierung der Wirkleistung P zugunsten der Wirkleistung zulässig ist. Ich sage mal Daumen hoch.
+
+(0:11:25 - 0:11:38)
+Wir dürfen das. Die Wirkleistung darf zugunsten der Blindleistung reduziert werden. Also, allein die Beschreibung oder Erklärung dieses Satzes hat bei uns ein eigenes Modul.
+
+(0:11:38 - 0:11:55)
+Zwei Stunden lang machen wir Netzberechnung und gehen darauf ein, was das eigentlich für Konsequenzen hat. Aber diesen Satz nehmen wir aus dem Modul raus und nehmen das jetzt hier erst mal mit. Das bedeutet, dass diese Bewertung sozusagen, also die Bewertung selbst ist relevant für den E-Bogen.
+
+(0:11:55 - 0:12:11)
+Ich muss ihn aber nicht umreden. Deswegen sage ich jetzt, dass das Modul muss man nicht kennen für den E-Bogen, weil PAVE das gleiche ist wie PINST 430 kW. Warum rede ich denn jetzt eigentlich seit fünf Minuten darüber? Weil das in der 4120 nicht so ist.
+
+(0:12:13 - 0:12:18)
+Hochspannung, Hochspannungsebene. Ein paar haben ja gesagt, sie machen das auch. Jetzt ganz genau zuhören.
+
+(0:12:19 - 0:12:28)
+Wenn ich den gleichen Wechselrichter nehme, sind die Nennwirk- und Nennscheinleistungen gleich. Die Anzahl bleibt natürlich auch gleich. Und das PINST bleibt auch gleich.
+
+(0:12:29 - 0:12:37)
+430 kW. Ich installiere weiterhin 430 kW. Aber Achtung, in der 4120 steht, dass das nicht zulässig ist.
+
+(0:12:37 - 0:12:52)
+Die Reduzierung der Wirkleistung zugunsten der Blindleistung ist eben nicht zulässig. Deswegen ist das höchst relevant für meinen E-Bogen. Und ich brauche, Achtung, jetzt schreibe ich es erstmal hin, PAINST ist nicht gleich der PAVE.
+
+(0:12:52 - 0:13:01)
+Und was ist es denn dann? Also wenn es gleich ist, ist es ja irgendwie recht einfach. Wenn es nicht gleich ist, ist es schwierig. Beauftragt Spezialisten, die eine Netzberechnung machen.
+
+(0:13:02 - 0:13:13)
+Die Zertifizierstellen machen das auch, aber die machen das ja zu einem viel späteren Zeitpunkt. Und da ist ja dann im Grunde schon die Messe gelesen. Dann ist es einfach zu spät.
+
+(0:13:13 - 0:13:23)
+Rückwärts würdet ja 16 Wochen in Betriebnahmeverzug. Machen wir dann keine Änderungen mehr. Aber wenn man es vorher weiß, ist es höchst sinnvoll, diesen Wert richtig einzutragen.
+
+(0:13:23 - 0:13:38)
+Und richtig geht nur durch eine Netzberechnung. Lasst eine Netzberechnung vorher machen, dann weiß man, ist nur ein Beispiel, dass man hier 400 kW eintragen muss. Und das hat einen enormen Vorteil für später die Limitierung, die der Zertifizierer vorgeben wird.
+
+(0:13:39 - 0:13:54)
+Warum das wiederum so ist, machen wir jetzt auch nicht, sondern eben in diesem anderen Modul. Aber hier wichtiger Exkurs. Wenn ihr nicht, wenn ihr in der 4120 seid, 4130 macht eine Netzberechnung und dann ist die PAVE nicht gleich der PINST.
+
+(0:13:58 - 0:14:05)
+Okay, wir sind in der 4110. Deswegen haben wir den gleichen Wert hier reingeschrieben. 430 kW.
+
+(0:14:05 - 0:14:10)
+Schreiben wir an. PAVE, PINST. Nicht geraten, sondern wir wissen einfach, wo das herkommt.
+
+(0:14:10 - 0:14:19)
+Und jetzt stehen die da drin. Bisher haben wir 0 kW. Und na ja, das ist dann einfach 0 plus 430, ist 430 im Endausbau.
+
+(0:14:21 - 0:14:40)
+Ja, auch hier nochmal eine Darstellung, das relativ neu, also Februar, finde ich, ist sehr neu. Die Bundesregierung noch ein Gesetz tatsächlich im Bundestag und Bundesrat verabschiedet hat. Und das betrifft den Paragraph 8 EEG.
+
+(0:14:40 - 0:15:00)
+Warum ist das wichtig? Das ist für uns tatsächlich etwas, was wir seit Jahren erwarten. Und jetzt ganz kurz zusammengefasst bedeutet das, dass eine EEG-Anlage an einem Netzverknüpfungspuls angeschlossen werden darf, auch wenn da bereits eine andere EEG-Anlage genutzt wird. Das ist eine ganz wichtige Geschichte.
+
+(0:15:00 - 0:15:09)
+Wir hatten in der Vergangenheit immer eine PV-Anlage mit 10 Megawatt angeschlossen. Und dann war der Netzanschluss weg. Dann musste die Windkraftanlage sich einen neuen suchen.
+
+(0:15:10 - 0:15:23)
+Und das hat einfach dazu geführt, dass wir nicht mehr so viele Netzanschlusspunkte haben. Diese Neuerung bringt nun mit sich, dass man sogenanntes Cable Pooling machen darf. Warum das ein englischer Begriff sein musste, weiß ich nicht.
+
+(0:15:23 - 0:15:38)
+Aber was die damit meinen ist, dass jetzt mehrere Anlagen, die von unterschiedlichen Betreibern sind, an dem selben Netzverknüpfungspunkt angeschlossen werden können. Das ist neu. Und das wird in Zukunft auch für uns als Elektroplaner sehr große Auswirkungen haben.
+
+(0:15:38 - 0:15:51)
+Und das wird die Zukunft unseres Energiesystems mit beeinflussen. Definitiv. Also, was ich hier so sagen will, ist, dass der E-Bogen aus meiner Sicht dafür noch nicht so perfekt vorbereitet ist.
+
+(0:15:51 - 0:16:01)
+Der ist ja auch älter als dieses Gesetz. Weil jetzt könnte ich hier ja gar nicht richtig darstellen, dass es vorher schon eine Anlage gab. Also, das bisher wäre dann nicht null.
+
+(0:16:01 - 0:16:04)
+Das zeigen wir gleich. Gehen wir mal rein. Genau.
+
+(0:16:04 - 0:16:11)
+Das bisher wäre nicht null. Sondern jetzt sagen wir mal, da ist schon die Anlage installiert. Und jetzt komme ich mit einer neuen Anlage dazu.
+
+(0:16:11 - 0:16:38)
+Und jetzt kommt aber in den Begriff des Cable Poolings, weil das ein anderer Anlagenbetreiber ist, das PAVE aus unserer technischen Einschätzung mit 0 kW. Auch wenn die neue Anlage 430 kW installierte Anlagenleistung hat. Also, wer das jetzt sozusagen genauso sieht wie ich, der hat zumindest jetzt schon mal ein Grundverständnis dafür, was der Unterschied zwischen PAVE und PEinst ist.
+
+(0:16:38 - 0:16:47)
+Wenn der immer gleich ist, dann ist das ja irgendwie ein bisschen langweilig. Aber er ist in Zukunft definitiv nicht mehr so oft gleich. Erstens wegen höherer Spannungsebene.
+
+(0:16:47 - 0:16:57)
+Das war der erste Effekt. Und zweitens, weil durch Cable Pooling jetzt verschiedene Anlagen an die gleichen Netzanschlusspunkte geschoben werden. Und dann muss man das hier richtig aufschreiben.
+
+(0:16:58 - 0:17:11)
+Und zwar so, dass es der Netzbetreiber genauso sieht wie ihr. Im Endausbau, gut, der Bezug, der summiert sich auf, der ist nicht so wichtig. Die Einspeise PAVE bleibt gleich, obwohl man da noch eine Windanlage dran schließt.
+
+(0:17:11 - 0:17:25)
+Die installierte Anlagenleistung bleibt nicht. Wenn der Netzbetreiber das jetzt genauso interpretiert, die Darstellung wie wir, dann ist ihm klar, dass wir Cable Pooling machen wollen. Und dann ist ihm auch klar, dass da verschiedene Anlagenbetreiber an den gleichen Netzverknüpfungspunkt gehen.
+
+(0:17:27 - 0:17:45)
+Wir schieben das Ganze wieder zurück, weil wir es einfach jetzt erstmal leichter machen wollen. Wir wollten hier nur mal diese Neuerung mit reinbringen. Merkt es euch, fragt nach, sprecht mit eurem Team, bereitet euch vor auf die Zukunft der geteilten Netzanschlusspunkte.
+
+(0:17:48 - 0:17:56)
+Nächster Punkt, der Messstellenbetreiber. Der genau kommt hier rein. Also da gehe ich jetzt relativ zügig weiter, weil das ist jetzt nicht so schwierig und nicht so technisch.
+
+(0:17:56 - 0:18:03)
+Der Kunde entscheidet das. Man kann das bei dem gleichen Netzbetreiber machen. Man kann auch einen anderen wählen.
+
+(0:18:03 - 0:18:12)
+Wir nehmen jetzt mal hier unsere Berliner Versorger. Baustrombedarf sage ich erstmal nein. Ich habe ja das Gebäude, das ist in Betrieb.
+
+(0:18:12 - 0:18:19)
+Ich brauche da keinen Baustrom. Eine Freiflächenanlage läuft oft mit riesigen Dieselgeneratoren. Im Hintergrund haben dann auch keinen Baustrom.
+
+(0:18:19 - 0:18:34)
+Aber man kann ihn hier anmelden, wenn man das möchte. Für alle, die aufgepasst haben und die Menti-Fragen am Anfang beantwortet haben, wissen ja jetzt, E2 brauche ich ja überhaupt nicht. Deswegen streiche ich das durch, weil hier steht ja, man soll es anhängen.
+
+(0:18:35 - 0:18:44)
+Also ich kann ja jetzt nicht Ja ankreuzen, weil ich hänge es nicht an. Das heißt, ich streiche das durch. Dann ist es hoffentlich allen klar, dass ich das nicht vergessen habe, sondern dass ich das nicht machen will.
+
+(0:18:45 - 0:19:03)
+Kreuze dann trotzdem Ja an und der Vordruck E8, den machen wir gleich im nächsten Kapitel, der kriegt den Titel Anhang 02 und wird dann ebenfalls angehängt. Ein Bauablaufplan ist sinnhaft. Da sind wir jetzt richtig gut vorbereitet durch das vorherige Kapitel.
+
+(0:19:03 - 0:19:12)
+Da ist er ja. Die gekürzte Fassung, weil ich finde, dass da jetzt nicht alle Punkte relevant sind. Ich finde, die Inbetriebnahme ist das Allentscheidendste.
+
+(0:19:13 - 0:19:30)
+Das wollen die wissen. Dann habe ich hier noch mal so ungefähr reingeschrieben, dass es eine Baugenehmigung gibt schon im Februar und dass wir die Komponenten im März bestellt haben, weil jetzt sind wir vielleicht im April oder wie auch immer. Also, dass man eben allen Beteiligten so eine Skizzierung des Ablaufplans gibt.
+
+(0:19:31 - 0:19:42)
+Das ist wichtig für den Netzbetreiber. Finde ich, noch mal drüber nachdenken, nicht so denken, na ja, das ist doch klar, dass ich jetzt im Juli in Betrieb gehen will. Das ist dem natürlich nicht klar.
+
+(0:19:42 - 0:20:09)
+Der bearbeitet hunderte von Projekten parallel tatsächlich und dann ist ihm durchaus sehr wichtig und sinnhaft wichtig, zu verstehen, wann welches Projekt in welche Phase rutscht. Das sortieren die sich dann auch und natürlich versuchen sie dann dementsprechend die richtigen Sachbearbeiter, Inbetriebnahme-Ingenieure, wie auch immer, richtig einzutakten und zu blocken. Also, den Bauablaufplan, jawohl, der kriegt den Anhang 3, da hängt er drin, ja, angekreuzt und weiter geht's.
+
+(0:20:10 - 0:20:38)
+Aus dem, hatte ich ja gerade gesagt, kommt unsere Logik Q3 2000. 2025, also große Projekte, da kenne ich mittlerweile Projekte, da steht da sowas wie 28, weil das halt Langläufer sind, aber wir versuchen es mal mit Q3. Und dann, bitte, bitte, bitte, nicht vergessen, da kommt meine Unterschrift drauf und auch das Datum, das nicht vergessen, das wäre einfach ärgerlich, aber Unterschriften sind Messprotokolle ungültig und Anträge sind es auch.

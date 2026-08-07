@@ -1,0 +1,153 @@
+(0:00:00 - 0:00:08)
+Das nächste Kapitel ist das Inhalt des Datenblatts. Also das, was wir jetzt gehört haben. Ich habe ja immer viele Sachen angegeben, einfach vorweggenommen.
+
+(0:00:08 - 0:00:19)
+Da zeige ich jetzt ganz einfach, wo man sie herbekommt. So, und das machen wir, genau, mit einer Information. Also all das, was ich gerade verwendet habe, findet man in Datenblättern.
+
+(0:00:20 - 0:00:26)
+Die Datenblättern sind immer frei verfügbar. Also das habe ich noch nie anders erlebt. Man kann sie eigentlich jederzeit aus dem Internet herunterladen.
+
+(0:00:26 - 0:00:37)
+Ist also eine höchst einfache Sache. Es ist nur wichtig, dass man auch wirklich das Datenblatt verwendet. Zu dem Modul und dem Wechselrichter, den man plant, beziehungsweise verbaut.
+
+(0:00:37 - 0:00:47)
+Und da gibt es hier mal so ein beispielhaftes Moduldatenblatt. Und dann gibt es hier so ein beispielhaftes Wechselrichterdatenblatt. Das ist total irrelevant, welcher Typ und welcher Hersteller das ist.
+
+(0:00:48 - 0:00:57)
+Und da hat man jetzt hier nochmal ein bisschen symbolisch dargestellt, dass das eine Rückseite hat. Und auf diese Rückseite gehen wir jetzt. Und da haben wir es jetzt auf Englisch.
+
+(0:00:57 - 0:01:04)
+Das ist aber auch egal. Wir haben ja auch die Begriffe vorhin schon auf Englisch verwendet. Deswegen würde ich das auch so beibehalten.
+
+(0:01:04 - 0:01:13)
+Und dann haben wir das hier so weiß umrandet. Vielleicht zur Orientierung, wer es noch nicht so oft gesehen hat. Also in so einem Moduldatenblatt wird oft ein Typ behandelt.
+
+(0:01:13 - 0:01:23)
+Das wäre jetzt hier der STP C72. Und der wiederum hat verschiedene Leistungsklassen. Die werden im Werk geflasht und dann sortiert.
+
+(0:01:23 - 0:01:34)
+Und dann kriegen die hier sozusagen nochmal eine Wattklasse aufgestempelt. Und wir nehmen jetzt immer nur die erste Spalte. Das wäre die 550er Wattklasse.
+
+(0:01:34 - 0:01:42)
+Die nehmen wir jetzt in unserem Beispiel mit. Und dann sind wir jetzt also bei der Open Circuit Voltage. In unserem Diagramm zeichne ich die unten nochmal ein.
+
+(0:01:42 - 0:01:48)
+Hatten aber, glaube ich, vorhin eh alle richtig. Also diesen Punkt finden wir hier im Datenblatt. Und jetzt ziehen wir uns den rüber.
+
+(0:01:48 - 0:02:01)
+Den UUCSTC vom Modul. Diese Subtitel werden jetzt immer länger, weil wir dann nach der Pause ja eine Übung machen wollen. Und da muss man das immer mitziehen, damit man das auch eindeutig zuordnen kann.
+
+(0:02:02 - 0:02:13)
+Also vom Modul dieser STC UUC ist 49,88. Den nehmen wir mit. Da haben wir unseren Kurzschlussstrom, den Short Circuit Current im Diagramm auf der Y-Achse.
+
+(0:02:13 - 0:02:20)
+Da ist er. Und da haben wir gesagt, Achtung, weil das passiert vermehrt. Hat sich, glaube ich, ziemlich durchgesetzt.
+
+(0:02:20 - 0:02:30)
+Jedenfalls bei unseren Projekten finden wir die jetzt eigentlich überall. Wenn man bifaziale Module hat, muss man aufpassen und dann wahrscheinlich nochmal irgendwie umblättern. Mache ich hier auch symbolisch.
+
+(0:02:30 - 0:02:41)
+Und dann sieht man plötzlich das. Also im Beispiel Short Circuit Current in diesem Modul Datenblatt, weil es ein bifaziales ist, sind 15,72. Aber ohne Bifazialität.
+
+(0:02:41 - 0:02:54)
+Und wenn man jetzt weiter runterrutscht, dann sieht man, dass mit 5 Prozent, geben die hier als Beispiel an, Bifazialität, der Strom natürlich steigt. In dem Fall auf 16,51. Das sind fast linear 5 Prozent.
+
+(0:02:54 - 0:03:06)
+Aber dann würde ich unbedingt auch immer diesen Wert verwenden. Wir haben auch viel recherchiert, wie man diese Bifazialität bewerten kann. Ich sage jetzt erstmal persönlich, für meine Standardprojekte nehmen wir 5 Prozent an.
+
+(0:03:07 - 0:03:14)
+Ich habe in der Realität schon viele Messwerte gesehen. Da war es eher weniger. Und ich habe auch schon Gutachter gesehen, die haben mehr angenommen.
+
+(0:03:15 - 0:03:24)
+Gibt es auch. Aber ich starte erstmal mit 5. Und wenn wir das in unserer Berechnung klar dokumentieren, finde ich, ist es auf jeden Fall erstmal richtig. Wir haben jetzt aber keine Bifazialmodule.
+
+(0:03:24 - 0:03:36)
+Deswegen gehe ich wieder zurück und nehme mir meine 14,01 Ampere mit. Für den maximalen Kurzschlussstrom am Modul. Dann haben wir hier noch eine Stringsicherung.
+
+(0:03:37 - 0:03:43)
+Die zeichne ich hier ein. Die werden wir später aber erstmal nicht brauchen. Ich nehme sie trotzdem mit.
+
+(0:03:43 - 0:03:57)
+Wir brauchen sie auf jeden Fall auch bei anderen Braindays, wenn wir genau diese Sicherung auslegen. Wenn wir die Kabel dazu auslegen, dann braucht man sie auch. Aber für jetzt ist sie erstmal nur wichtig, dass sie definiert, dass wir da schon mal nicht drüber dürfen.
+
+(0:03:58 - 0:04:04)
+Und das Ganze auch auf jeden Fall mit den 1500 Volt. Ich habe das jetzt hier mal aufgeschrieben. Ich nehme den Wert mit.
+
+(0:04:05 - 0:04:13)
+Aber er ist der gleiche wie beim Wechselrichter. Deswegen machen wir die Bewertung später nur mit einer Komponente. Also einmal 1500.
+
+(0:04:13 - 0:04:28)
+Und haben dann nachgewiesen, dass es sowohl für den Wechselrichter als auch für das Modul ausreichend bemessen ist. Und was ich heimlich im Hintergrund gemacht habe, ist, ich habe die X-Achse einfach mal verlängert. Oder, wenn man so will, die Kennlinie verkleinert.
+
+(0:04:28 - 0:04:43)
+Also wenn das jetzt ein Modul ist, dann mache ich jetzt mehrere in Reihe, damit ich zu diesen 1500 irgendwie überhaupt symbolisch hinkomme. Sonst wäre das ja in Relation falsch dargestellt. Also das ist der Wert.
+
+(0:04:43 - 0:04:48)
+Den nehme ich hier mit. 1500. So, und da sind die Konfizienten.
+
+(0:04:48 - 0:04:58)
+Da muss man, finde ich, vor allem aufpassen, dass man nicht durcheinander kommt. Deswegen ist es gut, wenn man sich gemerkt hat, welcher negativ und welcher plus ist. Also der für die Spannung, Alpha UOC, der ist negativ.
+
+(0:04:59 - 0:05:09)
+Das ist der hier. Da haben wir nochmal die Formel eingeblendet. Da ist er. 
+
+Da gehört er hin. Und der für den Strom, der ist positiv. Nehme ich mir auch mit.
+
+(0:05:09 - 0:05:15)
+Und dann, glaube ich, habe ich einfach nur die Formel geändert. Das ist jetzt nicht so relevant. Also da gehört der rein.
+
+(0:05:16 - 0:05:22)
+So, und das war es auch schon aus dem Modul. Die Sachen haben wir uns jetzt, sage ich mal, aufgeschrieben. Ich schiebe die später auch wieder rein.
+
+(0:05:22 - 0:05:27)
+Also die kommen wieder. In eurem Handout sind sie auch. Aber so würde ich das im Projekt erstmal machen.
+
+(0:05:27 - 0:05:37)
+In der Excel oder mit Papier zur Übung vielleicht. Aber am Ende natürlich mit einem Softwareprogramm. Beim Wechselrichter machen wir genau das Gleiche.
+
+(0:05:37 - 0:05:42)
+Da ist er schon. Unser Wechselrichter mit Stromspannungskennlinie. Erstmal 1500 Volt maximal.
+
+(0:05:43 - 0:05:48)
+Hatte ich ja gesagt, beim Modul genau so. Deswegen betrachten wir jetzt nur noch eins von beiden. Das reicht.
+
+(0:05:48 - 0:06:03)
+Und da sind jetzt erstmal die 1500 als Grenzwert vom Wechselrichter. Dann hier das Ganze für den Strom. 60 Ampere maximaler Kurzschlussstrom. 
+
+Ihr erinnert euch an die Kennlinie vom Anfang. Wir bauen sie im Grunde jetzt genau so wieder auf. Nur halt mit realen Werten.
+
+(0:06:06 - 0:06:17)
+Dann kommt hier nochmal ein recht interessanter Wert, wie ich finde. Also jetzt wird hier nochmal ein maximaler PV-Input-Current dargegeben. Das ist ein bisschen schwierig, finde ich, im Wording.
+
+(0:06:18 - 0:06:29)
+Weil der Kurzschlussstrom aus meiner Sicht so ein wirklich maximaler Strom ist. Ich denke, hier ist sozusagen der Arbeitsbereich gemeint. Also wenn wir da drüber gehen würden, dann gibt es eben das Clipping.
+
+(0:06:29 - 0:06:35)
+DC-AC-Verhältnis würde nicht mehr passen. Deswegen nehmen wir diesen Wert natürlich mit. Wir schieben ihn auf jeden Fall mit.
+
+(0:06:35 - 0:07:01)
+Er ist eine wichtige Angabe. Aber er ist, wie ich versuche, in meiner persönlichen Logik zu greifen, keine technische Limitierung, sondern eher eine kommerzielle. Gleichwohl muss sie natürlich, wenn wir sie überschreiten sollten, mit dem Hersteller vom Wechselrichter abgestimmt werden. 
+
+Keine Frage. Diese Datenblätter sind ja auch immer ein bisschen unterschiedlich. Also wird nicht genau das gleiche Wording verwendet. 
+
+Schon sehr ähnlich. Die sind auch noch mattiert. Aber genau das gleiche ist es meistens nicht.
+
+(0:07:02 - 0:07:12)
+Dann sind wir wieder bei der Spannung, und zwar unterer Bereich. Also hier einmal MPP Min wäre das dann. Mit 500 Volt.
+
+(0:07:12 - 0:07:18)
+Und dann gibt es noch die Startspannung. Die seht ihr jetzt hier interessanterweise drüber liegend. Aber okay.
+
+(0:07:19 - 0:07:29)
+Das heißt, der Wechselrichter würde erst bei 550 starten. Ich sage mal morgens. Aber wenn er dann erstmal läuft, dann könnte er auch bis 500 sozusagen im Betrieb bleiben.
+
+(0:07:29 - 0:07:43)
+Deswegen sind die zwei Kennlinien jetzt verschoben gegenüber dem, was ich am Anfang gezeigt habe. Tut aber für das Grundprinzip keinen Unterschied darstellen. Und dann können wir das füllen.
+
+(0:07:43 - 0:07:58)
+Hier wäre also unser Optimum zwischen der Startspannung und der maximal zulässigen. Das Außenrum wäre dann so ein bisschen möglich. Und überhalb vom ISC und auch überhalb vom UMAX ist es auf keinen Fall zulässig.
+
+(0:07:58 - 0:08:15)
+Das ist das, was wir am Anfang auch gemacht haben. Es ist Punkt 10 und wir gehen in die Kaffeepause. Wir machen 5 Minuten Pause. 
+
+Hier läuft ein Timer, sodass auch alle wieder pünktlich zurückkommen. Und dann geht es weiter mit praktischen Übungen. Bis gleich.

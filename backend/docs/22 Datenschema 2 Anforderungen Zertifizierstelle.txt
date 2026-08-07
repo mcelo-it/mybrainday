@@ -1,0 +1,131 @@
+(0:00:00 - 0:00:21)
+Und kommen dann zu unserem ersten größeren Block. Das sind die Anforderungen an die Zertifizierstelle und wie schon gesagt, das ist natürlich Anlagenzertifikat ist ja so ein bisschen der heilige Gral bei uns. Alle sind froh, wenn wir das Anlagenzertifikat in der Hand halten, weil ohne Zertifikat keine Inbetriebnahme, das ist erst mal vorweg gesagt.
+
+(0:00:21 - 0:00:41)
+Und umso ärgerlicher, wenn dann kurz vor Erstellung des Anlagenzertifikats dann noch unnötige Fragen auftreten, die vielleicht im Datenschema schon hätten geklärt werden können. Deshalb jetzt einmal der Block Anlagen, Anforderungen Zertifizierstelle. Und wir haben das unterteilt in Komponenten, in Verbindungen.
+
+(0:00:41 - 0:01:01)
+Ja, also Komponenten müssen verbunden werden, klar. Dann gibt es Regeln von der Zertifizierstelle oder aus der 4110 eben abgeleitet. Und es gibt dann noch einen Block Zusatz, den haben wir mit reingenommen, weil nicht alles, was im Datenschema ist, ist zwingend notwendig für das Anlagenzertifikat.
+
+(0:01:01 - 0:01:26)
+Aber wir haben dann natürlich nochmal vielleicht ein paar zusätzliche Stellungsmeldungen vom Leistungsschalter drin und so weiter, die wir dann nochmal unter Zusatz nachher nochmal zeigen und vor allem später in den späteren Kapiteln dann in den Schemen auch nochmal vorführen. Also Komponenten, damit wollen wir anfangen. Und was machen wir dann eben bei dem Datenschema? Wir stellen schematisch erstmal die Komponenten dar.
+
+(0:01:26 - 0:01:51)
+Das bedeutet natürlich, man muss nicht unbedingt Fotos reinkopieren, man muss keine Detailzeichnung von irgendwelchen Komponenten dort ablegen, sondern es reicht erstmal eine schematische Darstellung der Hauptkomponenten. Also auch da vielleicht ist nicht gemeint, dass jedes Koppelrelais vielleicht noch mit dargestellt werden muss, jede Klemme dargestellt werden muss, sondern Hauptkomponenten werden gezeigt. Beispielsweise Parkregler kann man als Rechteck darstellen, relativ simpel und vereinfacht.
+
+(0:01:51 - 0:02:21)
+Und dann haben wir erstmal eine schematische Darstellung. Und aus dieser schematischen Darstellung des Monitoring-Systems oder des Datensystems an sich muss dann auch hervorgehen oder wird hervorgehen, wo die Komponenten dann tatsächlich auch verbaut sind. Also erstmal in welchen Schränken sind sie vielleicht verbaut? Wo sitzt jetzt das Netzanalysegerät? Oder aber auch, wo ist die Übergabestation? Wo installieren wir den Parkregler in der Übergabestation? Oder bei Dachanlagen kann da ja beispielsweise auch in der Niederspannungs-Hauptverteilung sitzen.
+
+(0:02:21 - 0:02:37)
+Das ist gemeint mit Installationsort. Wo befinden sich Komponenten? Wo messen sie? Wo haben sie vielleicht, wo regeln sie vielleicht auch? Dann wird immer gezeigt das Gateway. Und hier ist gemeint das Gateway erstmal zum Netzbetreiber.
+
+(0:02:37 - 0:02:58)
+Das ist hier primär wichtig, weil der Netzbetreiber seinen eigenen Zugriffspunkt hat. Aber eben auch Gateway im Sinne von, wie greift jetzt der Betriebsführer auf die Anlage zu? Wie kann der Kunde auf die Anlage zugreifen und dort Daten abrufen? Das zeigen wir in dem Schema. Dann haben wir den Parkregler inklusive Hersteller und Typ.
+
+(0:02:59 - 0:03:24)
+Das tragen wir meistens tatsächlich mit ein. Man kann hier aber auch überlegen, ob man es wirklich im Datenschema darstellen will oder vielleicht auch in einem separaten Dokument, wenn man neben Hersteller und Typ dann vielleicht auch noch Firmware und so weiter mit aufschreibt. Kann man auch eine zusätzliche Parkreglerbeschreibung machen oder erstellen und dann einige Details aus dem Datenschema rausnehmen, um einfach eine bessere Übersichtlichkeit zu kreieren.
+
+(0:03:24 - 0:03:43)
+Und dann müsste nicht unbedingt auch der Hersteller und der Typ rein. Das kann jeder so ein bisschen variabel für sich machen. Wichtig vielleicht, schreibt nicht unbedingt an ganz, ganz vielen Stellen Hersteller und Typ auf, weil wenn ihr es dann ändern müsst, dann ist die Wahrscheinlichkeit relativ groß, dass ihr es nicht überall ändert und dann ist das immer sehr, sehr fehleranfällig.
+
+(0:03:43 - 0:03:58)
+Also eine Information würde ich einmal aufschreiben an einer Stelle und nicht unbedingt an fünf Stellen, weil sonst ist das eben bei Revisionen immer schwierig, das überall auch durchzuziehen. Und dann kommt das Netzanalysegerät. Auch hier Hersteller und Typ kann man gerne mit aufnehmen.
+
+(0:03:58 - 0:04:16)
+Die Position des Netzanalysegerät ist dann klar. Wo wird es dann an Strom- und Spannungswandler angeschlossen? Ergibt sich dann und eben der Hersteller und der Typ. Wichtig Hersteller und Typ natürlich, weil diese Geräte meistens dann auch Komponentenzertifikate brauchen nach der 4110 oder eben 4120.
+
+(0:04:17 - 0:04:29)
+Dann kann der Zertifizierer das gleich zuordnen. Hier ist das Komponentenzertifikat, das Einheitenzertifikat und hier ist das Gerät dazu. Dann kann er das gleich abhaken und auf Grün stellen.
+
+(0:04:30 - 0:04:42)
+USV inklusive Dauer, hier mindestens acht Stunden nach der 4110. Ganz wichtig, das wird auch immer abgefragt und es wird auch meistens eine USV-Berechnung abgefragt. Die kommt dann zusätzlich in einem anderen Brainday nochmal.
+
+(0:04:42 - 0:04:52)
+Aber die acht Stunden müssen wir nachweisen. Wir schreiben das immer nur wirklich als so kurzen mindestens acht Stunden in das Schema mit rein. Zusätzlich gibt es dann die Berechnung als zusätzliches Dokument.
+
+(0:04:53 - 0:05:06)
+Und dann denke ich, sind alle Zertifizierer zufrieden. Dann die Struktur unseres Datenschemas oder unseres Systems. Hier haben wir mal nur Slave und Master aufgeschrieben.
+
+(0:05:06 - 0:05:22)
+In der Regel gibt es einen Master, einen Parkregler und dann gibt es viele Slaves. Damit meinen wir dann Datenlogger. Wenn man sich jetzt eine klassische Freiflächenanlage anschaut, hat man meist in der Übergabestation eben den Master und in den einzelnen Trafostationen sind dann die Slaves untergebracht.
+
+(0:05:23 - 0:05:34)
+Dann noch Wandlerdaten. Auch hier gilt, Wandlerdaten kann man in dem Datenschema darstellen. Ich bin mir ziemlich sicher, dass bei den meisten die Wandlerdaten aber auch schon im Anlagenschema dargestellt werden.
+
+(0:05:34 - 0:05:46)
+Dann gilt für mich auch hier der Grundsatz, man muss es nicht unbedingt zweimal zeigen. Wenn man es schon im Anlagenschema gezeigt hat, müssen die Wandlerdaten nicht auch noch im Datenschema gezeigt werden. Weil dann haben wir wieder diese mittlerweile schon fast berühmte Doppelung.
+
+(0:05:47 - 0:05:58)
+Und wenn sich der Wandler dann ändert, vergisst man es meistens an den anderen Stellen eben mitzuziehen diese Änderung. Und dann gibt es am Ende immer Verwirrung. Das waren die Komponenten.
+
+(0:05:58 - 0:06:15)
+Dann kommt der nächste Punkt, die Verbindungen. Und damit ist dann erstmal gemeint, welche Kommunikationswege gibt es denn? Also in so einem System, in unserem Solarpark kommunizieren ja am Ende alle Geräte irgendwie miteinander. Also der Parkregler kommuniziert am Ende natürlich mit den Wechselrichtern, mit den Sensoren.
+
+(0:06:15 - 0:06:28)
+Aber wie ist jetzt genau der Kommunikationsweg? Welche Komponenten sitzen noch dazwischen? Und das soll hier dargestellt werden. Also der Parkregler kommuniziert dann wahrscheinlich erstmal direkt mit dem Datenlogger und nicht direkt mit dem Wechselrichter. Das zeigen wir hier.
+
+(0:06:29 - 0:06:44)
+Dann zeigen wir die Kommunikationsarten. Ist das jetzt eine RS-485-Verbindung, eine Ethernet-Verbindung? Ist es ein Kupfer- oder ein LWL-Kabel? Das zeigen wir im Grunde farblich mit einer kleinen Legende. Dann weiß jeder, um was für ein Kabel es sich da handelt.
+
+(0:06:44 - 0:06:54)
+Und später gehen wir dann ja auch auf diese Kabel nochmal kurz ein. Dann zeigen wir getrennte Schnittstellen. Den hatten wir eben für den Netzbetreiber auch schon mal kurz angedeutet.
+
+(0:06:54 - 0:07:10)
+Der hat in der Regel seine eigene Schnittstelle. Da geht es dann natürlich sehr, sehr viel um, oder vor allem auch um Sicherheitsaspekte, Sicherheitsfragen. Der Netzbetreiber will natürlich nicht sich Zugänge mit anderen teilen, die dann eventuell eine Sicherheitslücke in seinem System bieten.
+
+(0:07:11 - 0:07:29)
+Der Netzbetreiber hat ja mit seiner Regelung einen Zugriff auf ein riesengroßes Leistungsportfolio. Und wenn da jemand wirklich sich einschleusen kann über eine gemeinsame Schnittstelle, meinetwegen, dann ist das Risiko tatsächlich von einem Stromausfall natürlich sehr, sehr hoch. Dann gibt es noch den Direktvermarkter.
+
+(0:07:29 - 0:07:37)
+Der bekommt auch seine eigene Schnittstelle. Der greift dann in der Regel aber über unseren Internetzugang mit drauf zu. Und dann gibt es den Betreiber.
+
+(0:07:37 - 0:08:02)
+Also Direktvermarkter und Betreiber teilen sich in gewisser Maßen einen Internetzugang, bekommen dann aber eigene Tunnel, VPN-Tunnel, sodass sie dann intern trotzdem noch getrennt bleiben. So, der nächste Punkt, das sind dann die Regeln. Die Regeln, die abgeleitet sind natürlich aus der 4110, die dann der Zertifizierer uns auferlegen muss.
+
+(0:08:02 - 0:08:42)
+Aber die kommen natürlich nicht von irgendwoher, sondern eben aus der 4110. Und eine wichtige Regel, und die schreiben wir auch als Text kurz mit rein in so ein Schema an irgendeiner Stelle, ist, dass die Datenspeicherung für mindestens 18 Monate gewährleistet ist. Also jetzt nicht alle Daten, der Netzbetreiber will nicht die Stringen oder die 4110 erwartet da nicht die Stringströme und die Stringspannung für jeden einzelnen String, für jede einzelne Minute, sondern hier geht es dann eher um Regelbefehle vom Netzbetreiber, die dann da für 18 Monate gelockt werden müssen, damit man später auch durch Ertragsverluste, durch Abregelung eben geltend machen kann und das eben gesichert gespeichert wird.
+
+(0:08:44 - 0:09:11)
+Dann, wichtig, müssen wir darstellen den Ort der Messwerterfassung. Und der Hinweis auf diesen E9-Bogen, da wird das dann vorgegeben, wo sollen wir messen und wo sollen wir am Ende regeln. Beide Punkte kommen aus dem E9-Bogen und beide Punkte versuchen wir dann auch im Schema darzustellen beziehungsweise ergeben sich dann aus dem Schema, aus dem Messort, aus dem Parkregler oder Regelungskonzept, was wir dann zusätzlich beifügen.
+
+(0:09:12 - 0:09:24)
+Dann gibt es Parameter. Ein natürlich, wie so oft hier, wichtiger Punkt. Parameter, die kommen dann eben auch häufig aus dem E9-Bogen oder fast immer, die können wir im Schema mit darstellen.
+
+(0:09:24 - 0:09:37)
+Achtung, jetzt, wenn wir sowas alles mit darstellen, wird so ein Schema schnell überladen. Deshalb haben wir auch gleich dahinter geschrieben oder besser in die Parkreglerbeschreibung. Und da geht es dann darum, Verfahren zur Blindleistungsbereitstellung zum Beispiel.
+
+(0:09:37 - 0:09:50)
+Da gehen wir jetzt nicht im Detail darauf ein. Da gibt es andere Braindays, welche Verfahren es da genau gibt. Es gibt da noch Verfahrensumschaltung, Wirkleistungsvorgaben, wie sowas umgesetzt wird, Todzeiten und so weiter.
+
+(0:09:51 - 0:10:08)
+Also alle diese Punkte, die kann man ins Schema packen. Ich würde aber tatsächlich empfehlen, packt das besser als Fließtext in eine Parkreglerbeschreibung. Drei, vier Seiten, wo dann wirklich erklärt wird, wie das umgesetzt wird, welches Verfahren ausgewählt wurde gemäß E9 und dann hat man das sauber dokumentiert.
+
+(0:10:08 - 0:10:22)
+Das gleiche gilt für die Priorisierung. Das kann man auch im Datenschema darstellen. Ich empfehle aber, nehmt es raus, packt es in die Parkreglerbeschreibung und dann ist das dort klar beschrieben, dass die kleinste Sollwertvorgabe erstmal gewinnt.
+
+(0:10:22 - 0:10:40)
+Ja, die hat Priorität. Und dann gibt es noch das Netzsicherheitsmanagement vor dem Direktvermarkter und das Netzsicherheitsmanagement auch vor der P von F-Funktion. So, jetzt kommt noch der letzte Punkt hier in diesem Kapitel.
+
+(0:10:40 - 0:10:54)
+Das ist das, was wir Zusatz genannt haben. Und hier erstmal wichtig, das ist nicht relevant für die Zertifizierung. Diese Punkte, die jetzt hier aufgeführt werden, aber wir versuchen das trotzdem immer mit in unserem Monitoring-System, in unserem Datenschema mit zu erfassen.
+
+(0:10:55 - 0:11:09)
+Zum Beispiel sind das Schutzrelais. Das ist jetzt erstmal nicht zwingend erforderlich für die Zertifizierung. Ich würde vielleicht sagen, zwingend erforderlich vielleicht für die Erfüllung der Bit-Tests, der Datenpunktliste des Netzbetreibers.
+
+(0:11:09 - 0:11:22)
+Aber das ist ein anderes Thema, ein Stück weit. Aber wir versuchen trotzdem, das Schutzrelais mit einzubinden, weil das Schutzrelais in der Regel viele, viele Informationen liefern kann. Vor allem das Schutzrelais am Netzanschlusspunkt verfügt dann ja häufig schon über Leistungsschalterstellungen.
+
+(0:11:24 - 0:11:50)
+Welche Fehler anliegen, welche Schutzauslösungen vorlagen. Viele verschiedene Signale oder Informationen hat das Relais schon. Und wenn man jetzt ein, ich sage mal, etwas besseres Relais hat, was vielleicht auch eine RS-485-Schnittstelle oder eine Ethernet-Schnittstelle hat, dann kann man das auslesen und hat dann alle Informationen gleich mit im System drin und kann sich dann wahrscheinlich auch viel Verkabelungsaufwand sparen.
+
+(0:11:51 - 0:12:02)
+Sensoren zeigen wir natürlich auch. Das obliegt jedem Betreiber, jedem Errichter der Anlage, wie viele Sensoren er haben will. Es gibt natürlich eine Norm, eine Richtlinie, an die man sich orientieren kann.
+
+(0:12:02 - 0:12:19)
+Aber am Ende könnt ihr entscheiden, ob ihr da zwei, drei oder vier Windrichtungssensoren haben wollt, wie viele Pyranometer ihr haben wollt. Und die zeigen wir natürlich im Schema und zeigen dann, an welcher Position diese Sensoren an welchen Datenlager angeschlossen sind. Dann noch den Online-Zugang, den nehmen wir auch noch mit auf.
+
+(0:12:20 - 0:12:33)
+Der gehört auch nicht zwingend hier ins Schema, aber der ist da noch mit drin. Hier nochmal kurz als Übersicht. Also das nehmt mal mit, wenn ihr diese Seite vielleicht in eurem Handout seht und das nächste Mal ein Datenschema durchgeht.
+
+(0:12:33 - 0:12:49)
+Geht einfach mal diese Punkte durch und dann denke ich, geht das relativ schnell, dass man merkt, ach ich habe was vergessen oder ich habe alles drin. Und dann hilft, glaube ich, so eine Checkliste hier. Das soll es genau sein, um sich selbst da nochmal zu kontrollieren und nicht den Zertifizierer alles machen zu lassen.

@@ -1,0 +1,140 @@
+(0:00:00 - 0:00:41)
+Wir kommen jetzt zum nächsten Kapitel, Installation. Wir waren eben, so wie ich das am Anfang gerne beschrieben hatte, im Großen und kommen jetzt bei der Installation dann tatsächlich so ein bisschen mehr auch in die Details, welche Drähtchen man wohin klemmen muss. Aufgebaut ist das Ganze jetzt wie folgt, also wir zeigen immer zuerst ein Datenschema, dann zeigen wir euch den Sensorstandort in 2D, werdet ihr nachher sehen, warum das sinnvoll ist, dann zeigen wir das Ganze nochmal in 3D und zum Schluss kommt dann der Stromlaufplan, und zwar der detaillierte Stromlaufplan, so wie man den vielleicht von einem Lieferanten der Datenloggerboxen geschickt bekommt, wo dann wirklich die Klemmen dargestellt sind.
+
+(0:00:41 - 0:01:22)
+Aber das seht ihr ja gleich und wir würden jetzt mal anfangen mit dem Datenschema. Das Datenschema hatten wir so schon mal in anderen Brain Days aufgebaut, sieht jetzt erstmal sehr aufwendig aus, für uns ist aber jetzt erstmal nur wichtig der Datenlogger, weil in unseren Projekten ist es dann so, dass die Sensoren immer an dem Datenlogger angeschlossen werden. Jetzt hat der Datenlogger erstmal ein Modbus, oder wir verwenden erstmal Modbus-Sensoren und der Datenlogger hat eine limitierte Anzahl von RS-485-Ports, Modbus schließen wir an RS-485 an und deshalb müssen wir uns da grundsätzlich erstmal was überlegen, wie wir jetzt mehr als ein oder zwei Sensoren dort anschließen können.
+
+(0:01:23 - 0:01:46)
+Das machen wir dann erstmal so, wir ziehen erstmal eine Leitungsverbindung raus in unserem Übersichtsschema und können jetzt dort eine sogenannte Junctionbox oder Sensoranschlussbox oder Verteilerbox anschließen. Da gibt es verschiedene Wörter für, wir haben es jetzt mal Junctionbox genannt und die sieht dann genau so aus. In unserem Übersichtsschema kann man das vereinfacht erstmal so darstellen.
+
+(0:01:48 - 0:02:17)
+Jetzt gucken wir uns den Standort in 2D an, weil das ist auch immer ein Plan, den wir erstellen für die Bauleiter, die natürlich das am Ende mit ihren Nachunternehmern umsetzen müssen, damit die wissen, wo die Komponenten sind, wo die Kabelgräben sind, wo man das montiert. Deshalb immer dieser 2D-Plan von oben, immer sehr hilfreich. Der Datenlogger, der befindet sich jetzt in der Trafo-Station, ist erstmal so hier dargestellt und diese Anschluss-Junctionbox, die montiert man jetzt außerhalb der Trafo-Station.
+
+(0:02:17 - 0:02:37)
+So kann man das erstmal machen. Dazwischen ist erstmal eine RS-485-Verbindung, das ist dann meist so ein Twisted-Pair-Kabel, 2x2 oder 4x2 Adernpaare, was man dann eben von dem Datenlogger nach draußen zu der Box verlegen muss. Im 3D-Modell sieht es dann eben so aus, das ist jetzt die nächste Dimension.
+
+(0:02:37 - 0:02:53)
+Der Logger, habt ihr reinfliegen sehen, wo er sich ungefähr befinden könnte in der Trafo-Station. Das Kabel geht raus, unten aus der Trafo-Station, dort hat man meist so einen freien Schacht. Manchmal hat man aber auch Kabeldurchführung und dann geht es an der Außenfassade der Trafo-Station hoch zu dieser Anschlussdose.
+
+(0:02:55 - 0:03:20)
+In einem detaillierten Stromlaufplan sieht es dann immer alles ein bisschen komplizierter aus. Da springen wir jetzt aber hin und machen jetzt den ersten Schritt erstmal, wie kriege ich jetzt überhaupt so eine Anschlussbox an meinen Datenlogger angeschlossen. Dargestellt ist jetzt hier der Datenlogger als Flav und wir haben ja auch dargestellt eine USV, weil für diese Modbus-Kommunikation und auch der Datenlogger braucht man immer eine 24-Volt-Versorgung, die dann hier eben aus dieser USV kommt.
+
+(0:03:22 - 0:04:03)
+Innerhalb so einer Datenbox ist es dann so, dass manchmal die Klemmbezeichnung, die hier gewählt ist, eben X2, unten in der Datenbox vorhanden ist, in der Klemme X2 und darauf kann man dann eben von der USV, Plus- und Minusspannung erstmal auf diese X2 verdrahten. Von der X2 kann man dann die Spannung verteilen und im ersten Schritt haben wir jetzt erstmal dem Datenlogger hier 24 Volt gegeben, damit der erstmal aufwacht und überhaupt arbeiten kann. Dann gibt es eine zweite Klemmleiste, Klemme X1 nennen wir die jetzt mal in unserem Plan und dort soll jetzt eben der RS485-Bus aufgelegt werden.
+
+(0:04:03 - 0:04:20)
+Das ist dann immer A und B, also zwei Leitungen für den Bus und ein Ground und das würde man hier im Grunde genommen erstmal so verdrahten. Wir sind immer noch nur in der Box, wo der Datenlogger drin verdrahtet ist. Wir sind jetzt noch nicht raus zu unserem Datenlogger gegangen.
+
+(0:04:20 - 0:04:40)
+Das kommt dann erst im nächsten Schritt. Wir haben jetzt eine Verteilmöglichkeit geschaffen in der Station und können von dort verschiedene Leitungen rausführen und machen das dann gleich erstmal, indem wir dann zu einer Junctionbox gehen. Die Junctionbox, die befindet sich jetzt außerhalb der Trafo-Station in so einem detaillierten Stromlaufplan.
+
+(0:04:41 - 0:05:15)
+Das zeigt man dann aber nicht unbedingt, dass das Ding außerhalb einer Trafo-Station ist, sondern es ist jetzt sehr benachbart dargestellt zu unserem Datenlogger und wir stellen jetzt erstmal die RS485-Verbindung da. Ihr habt es gesehen, die grüne Leitung für RS485-A, die weiße ist dann für B. Das ist dann meist ein Paar, ein Twisted Pair, was man da verwendet, grün-weiß und dann gibt es noch, jetzt in gelb dargestellt, eine Ground-Verbindung. Zusätzlich müssen wir zu unserer Junctionbox die Spannungsversorgung ziehen und das machen wir dann so, Plus und Minus, grün und blau.
+
+(0:05:16 - 0:05:46)
+Und dann hätten wir in unserer Junctionbox außerhalb der Trafo-Station jetzt erstmal alle Möglichkeiten, dort verschiedene Sensoren anzuschließen. Je nachdem, wie groß man jetzt so eine Box baut, hat man mehr Klemmen und kann dann eben mehr Sensoren oder mehr zusätzliche Junctionboxes anschließen. Hier sieht es für mich erstmal so aus, als hätte man jetzt noch zusätzlich drei Möglichkeiten, vielleicht noch drei Klemmen oder vielleicht sogar zweimal drei Klemmen, also sechs Anschlussmöglichkeiten für weitere Sensoren oder für weitere Junctionboxes.
+
+(0:05:46 - 0:05:58)
+Also das System ist immer erweiterbar. So, wir gehen wieder zurück in das vereinfachte Schema. Also das, was wir jetzt sehen, hatten wir vorher in der Folie detailliert dargestellt.
+
+(0:05:58 - 0:06:12)
+Jetzt ist es vereinfacht und jetzt schließen wir erstmal an so eine Junctionbox eine kompakte Wetterstation an. Auch mit einer RS485-Verbindung und mit einer Spannungsversorgung. So sieht es erstmal vereinfacht aus.
+
+(0:06:13 - 0:06:31)
+Das ist unser Übersichtsdatenschema, was sich hier aufbaut und ist, glaube ich, fürs Verständnis erstmal sehr hilfreich. 2D, also von oben gesehen, wäre das dann so, die kompakte Wetterstation würde man ja wahrscheinlich auf der TRAFO-Station installieren. Wenn es jetzt diese Ecke ist, zeichnen wir es hier.
+
+(0:06:31 - 0:06:49)
+Wenn es aber eine andere Ecke sein soll, aus Verschattungsgründen beispielsweise, dann würde man das eben auf die andere Seite der TRAFO-Station zeichnen. Erstmal nur schematisch, hier geht es nicht um Millimeter oder Zentimeter, aber grundsätzlich so ist es hier erstmal gedacht. In der 3D-Ansicht sieht es dann genau so aus.
+
+(0:06:49 - 0:07:18)
+Die Wetterstation kommt oben ein bisschen oberhalb von dieser Anschlussdose an die TRAFO-Station und wird dann mit einem Datenkabel, mit einer RS485-Verkabelung hochverdrahtet zu der Wetterstation. Detaillierter wird es jetzt wieder im Stromlaufplan und vielleicht auch ein bisschen komplizierter für die Leute, die das noch nicht so oft gesehen haben. Jetzt müssen wir uns ein bisschen Platz schaffen, deshalb schieben wir den Datenlogger mal oben raus und schauen uns jetzt nur noch die Junction-Box an.
+
+(0:07:18 - 0:07:39)
+Also wir gehen jetzt mal davon aus, dass das, was wir bis hierhin verdrahtet haben, alles passt. Also wir haben RS485-A und B und wir haben die Spannungsversorgung und den Ground. Jetzt kommt die Wetterstation dazu und die braucht jetzt A und B. Das sieht man da erstmal oben klein rangeschrieben und sie braucht eben auch die Spannungsversorgung, 24 Volt.
+
+(0:07:40 - 0:07:57)
+Und Achtung, jetzt ist das hier mit Ground bezeichnet. Es ist aber oben bei uns jetzt etwas missverständlich, weil der Ground, der hier gemeint ist, das ist der Minuspol von der 24-Volt-Versorgung. Also erstmal RS485-A und B und jetzt sieht man, wir ziehen den PE zum Ground.
+
+(0:07:57 - 0:08:13)
+Das ist hier ein bisschen, da bin ich auch drüber gestolpert. Es geht hier bei der Wetterstation darum, dass sie 24 Volt Plus und Minus bekommt und das ist eben in der Junction-Box jetzt mit 24 Volt Plus und PE bezeichnet und an der Wetterstation mit Ground. Deshalb ist es hier verwirrend.
+
+(0:08:13 - 0:08:28)
+Wir gehen da weiter. So wäre es aber Spannung plus Datenpaare und dann kann dieser Sensor kommunizieren. Wir gehen weiter zurück in die Übersicht und erweitern jetzt unser Datenschema um eine zusätzliche Junction-Box.
+
+(0:08:28 - 0:08:37)
+Das heißt, das System skalieren wir jetzt ein Stück weit. An die erste Mehrfachsteckdose stecken wir die nächste Mehrfachsteckdose. So kann man sich es vielleicht vereinfacht vorstellen.
+
+(0:08:38 - 0:08:54)
+Das würde man im Grunde so machen, dass man die zusätzliche Junction-Box jetzt entfernt von der ersten installiert. Das heißt, der Vorteil ist, ihr braucht nur eine Datenleitung ziehen von der TRAFO-Station zu dem Modultisch. Das mögen 20, 30 Meter sein, vielleicht auch nur 5 Meter, projektspezifisch.
+
+(0:08:55 - 0:09:15)
+Aber man braucht jetzt nicht für jeden Sensor eine Leitung ziehen, sondern eine Datenleitung, ein RS485-Signal, eine Spannungsversorgung und dann kann man an dieser neuen Junction-Box das System wieder vervielfältigen. So sieht es im 3D-Modell aus. Wir würden an der Stütze hochgehen und haben dann da unsere Junction-Box.
+
+(0:09:16 - 0:09:33)
+Der Stromlaufplan wird natürlich wieder etwas komplexer. Hier kommt die Junction-Box hin und jetzt gleiches System. Wir kopieren jetzt von der Junction-Box 1 alle Kabelverbindungen auf die Junction-Box 2. Also werden alle fünf Leitungen, die dort oben sind, verbunden mit der neuen Junction-Box.
+
+(0:09:34 - 0:09:44)
+Und das sieht dann ungefähr oder genau so aus. Dann springen wir zurück ins Datenschema. Hier schön übersichtlich wieder dargestellt.
+
+(0:09:44 - 0:09:58)
+An die Junction-Box wollen wir jetzt natürlich weitere Sensoren anschließen. Und das ist dann zum Beispiel ein Pyranometer in Modulebene. In unserem Übersichtsbild würden wir es auch genau so bezeichnen, damit man auch gleich weiß, ob es geneigt oder Modulebene ist.
+
+(0:09:58 - 0:10:08)
+Das hilft später auf jeden Fall. Wir würden das jetzt erstmal wieder in 2D darstellen. Und hier, Achtung, es ist schematisch dargestellt.
+
+(0:10:08 - 0:10:22)
+Das Pyro in Modulebene wird natürlich nicht auf dem Modul installiert, sondern neben dem Modul. Für die schematische Darstellung ist das hier aber, denke ich, nicht so relevant. Schöner wäre es natürlich, es wäre jetzt ein paar Zentimeter weiter neben dem Modul.
+
+(0:10:23 - 0:10:30)
+Hier nimmt das mal mit. Es soll darstellen, wo sich dieses Pyro in Modulebene ungefähr befindet. Wenn ihr dann da steht, seht ihr das schon.
+
+(0:10:31 - 0:10:37)
+Es fliegt jetzt rein. Hier in der 3D-Ansicht sieht man es dann auch ganz klar. Es liegt natürlich nicht auf dem Modul, sondern daneben.
+
+(0:10:38 - 0:10:56)
+Und man schafft jetzt wieder eine Datenverbindung von der Junction-Box zu dem Pyro. Im Stromlaufplan überspringen wir es jetzt mal, weil wir es ja eben schon für die kompakte Wetterstation dargestellt hatten. Für das Pyro in Modulebene würde es jetzt vom Grundsatz her genauso aussehen.
+
+(0:10:57 - 0:11:06)
+Das wird dann immer komplexer, immer mehr. Pyro horizontal fügen wir hier noch ein. Das zeigen wir euch dann auch nochmal in der 2D-Ansicht zunächst.
+
+(0:11:06 - 0:11:15)
+Das ist jetzt eben neben dem Pyro in der Modulebene. Und wir zeigen es euch dann auch nochmal in der 3D-Ebene. Die Datenverbindungen werden dann immer mehr, immer mehr.
+
+(0:11:15 - 0:11:33)
+Dieses System, das sich aufbaut, wird immer komplexer. Deshalb muss man natürlich bei der Verdrahtung dann im Detail sehr aufpassen, weil wenn man dann doch mal Plus, Minus dreht oder A und B dreht, dann funktionieren die Sensoren natürlich nicht mehr. Hier haben wir jetzt nochmal den Stromlaufplan im Detail.
+
+(0:11:34 - 0:11:51)
+Und fügen an die Junction-Box 2, alles andere haben wir rausgeschoben, fügen an die Junction-Box 2 jetzt das Pyro in Modulebene und später auch nochmal das geneigte Pyro. Vom Grundsatz her ist es bei beiden ja die gleiche Verdrahtung. Deshalb haben wir es hier in eins zusammengefügt.
+
+(0:11:52 - 0:12:10)
+Das schwarze PE, seht ihr hoffentlich, ist auf dem blauen Hintergrund verschwindet es ein bisschen. Das ist der Minuspol der Spannung, der weiße ist der Pluspol. Und dann haben wir eben Grau und Gelb als RS-485 A und B. Und so kann man das ganze Spiel jetzt immer noch weiterführen.
+
+(0:12:10 - 0:12:23)
+Umgebungstemperatur, auch den fügen wir euch ein. Den installieren wir hier, so hatten wir es vorher auch schon mal gezeigt. Das gehen wir schnell durch, da brauchen wir nicht unbedingt viel Zeit verlieren.
+
+(0:12:23 - 0:12:36)
+Und kommen dann zu dem Modultemperatursensor. Auch der wird hier nochmal eingefügt und dargestellt mittig vom Modul. Wir sind jetzt hier ein paar mehr Module in die Tischreihe reingerückt, als wir es am Anfang beschrieben hatten.
+
+(0:12:37 - 0:12:52)
+Das schadet erstmal nicht, das kann man natürlich so machen, weil das ist natürlich dann mehr repräsentativ als am Rand des Tisches. So würde das aussehen. Der Modultisch ist jetzt so ein bisschen transparent, dass man den Sensor da im Hintergrund noch leicht erkennen kann.
+
+(0:12:53 - 0:13:09)
+Und die Verdrahtung seht ihr dann auch. Genau, die wird dort zu dem Sensor geführt. So, das Übersichtsschema, also Stromlaufplan sind wir jetzt übersprungen, weil das doppelt sich ein Stück weit und kann dann später vielleicht nochmal im Gesamten dargestellt werden.
+
+(0:13:09 - 0:13:16)
+Aber jetzt zurück ins Übersichtsschema. Modultemperatur haben wir hinzugefügt. Jetzt kommen nochmal die drei Pyros rückseitig.
+
+(0:13:17 - 0:13:26)
+Und auch die tragen wir in dem 2D-Plan ein. Dann sieht man das hier genau. Alle drei Pyros sind dort übereinander.
+
+(0:13:26 - 0:13:41)
+Eins unten, eins in der Mitte, eins oben. Und eben dann mit der entsprechenden Verbindung zu der Junction Box 2. Jetzt seht ihr es hier auch nochmal in der 3D-Ansicht. Also etwas transparente Tische, damit man die Pyros durchschimmern sieht.
+
+(0:13:41 - 0:13:50)
+Sie sind auf der Rückseite, das ist klar. Und die Verdrahtung will man jetzt auch durchschimmern sehen. Aber es befindet sich natürlich alles auf der Rückseite der Module.
+
+(0:13:53 - 0:14:02)
+So, das Modul ist jetzt erstmal wieder nicht transparent. Und jetzt schauen wir es uns aus der Seitenansicht an. Also wir sehen hier Einstrahlung, Junction Box pyro-geneigt und pyro-horizontal.
+
+(0:14:03 - 0:14:13)
+Und wenn wir nochmal weiter drehen, dann sehen wir jetzt auch hier die rückseitigen Pyranometer. Und wir sehen den Temperatursensor, also aus der rückseitigen Ansicht des Tisches.

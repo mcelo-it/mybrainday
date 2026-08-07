@@ -1,0 +1,50 @@
+(0:00:00 - 0:00:23)
+Wir hatten die Modellierung, wir hatten jetzt auch schon das elektrische Verhalten und jetzt schauen wir uns die Belastbarkeit der Betriebsmittel an. Das, was ich eben schon so ein bisschen bei diesen 50 Kiloampere immer so ein bisschen in den Raum geworfen habe, das schauen wir uns jetzt nochmal an. Das ist ein eher kürzerer Teil, also da seid nochmal wach und am Ende kommt auch nochmal ein sehr interessanter Block mit der Schutztechnik.
+
+(0:00:23 - 0:00:38)
+Die sind jetzt nicht so lang wie das elektrische Verhalten, das soll hier die Motivation etwas steigern. Also wir gehen in die Belastung der Betriebsmittel und haben uns dann einfach mal so ein paar Betriebsmittel rausgepickt. Das erste Betriebsmittel, was wir immer kennen, ist natürlich der Transformator.
+
+(0:00:39 - 0:00:53)
+Ein Transformator, der hat erstmal, so kategorieren wir das jetzt erstmal, eine Dauerbelastung, ein Inenn. Und das Inenn, das finden wir erstmal im Datenblatt. Ja, so ein Trafo hat auch eine Leistung, daraus kann man sich das natürlich auch ausrechnen.
+
+(0:00:53 - 0:01:16)
+Häufig ist aber wirklich das Inenn angegeben, hier sind es 158,1 Ampere und die nehmen wir dann mal so mit. Das heißt, mehr Strom sollten wir da zumindest nicht dauerhaft über diesem Trafo bringen, das ist unsere Grenze. Und dann gibt es eine kurzzeitige Belastung, für eine Sekunde ist das in der Regel angegeben, das ist das Ik'.
+
+(0:01:17 - 0:01:33)
+Da müssen wir mal schauen, hier bei diesen Transformatoren ist das in der Regel nicht angegeben. Wir würden das jetzt auch nicht hier zu sehr vertiefen. In unseren Berechnungstools gibt es da in der Regel Kennlinien, das zeigen wir nachher auch nochmal, wie das dann aussieht.
+
+(0:01:34 - 0:01:57)
+Hier für diesen Trafo ist das aber erstmal nicht im Datenblatt angegeben. Und wir haben auch noch einen dritten Punkt hier, das ist eben dieser IP, den hatten wir auch vorher mal in der Grafik gesehen. Auch der wird bei den Transformatoren in der Regel nicht angegeben, weil der Trafo selbst ist ja erstmal ein Bauteil, was durch seine Induktivitäten ganz stark so Kurzschlussströme einbremsen kann.
+
+(0:01:57 - 0:02:16)
+Und deshalb ist das hier für diesen Trafo erstmal nicht relevant. Wir haben geschrieben, die mechanische Belastung, die nicht durch die Schutztechnik abgeschaltet werden kann, das ist dieser IP. Aber für die Trafos ist der erstmal gar nicht so relevant, der ist dann eher wichtig später für Komponenten, Schaltanlagen, Schalter.
+
+(0:02:18 - 0:02:30)
+Die nächste Komponente, die wir uns raussuchen, ist das Kabel. Auch ein Kabel hat erstmal eine Dauerbelastbarkeit, die müssen wir uns raussuchen. Das machen wir aus einem Datenblatt, ganz einfach.
+
+(0:02:31 - 0:02:52)
+Das Datenblatt reicht in der Regel nicht, weil es gibt ja auch noch Belastungsfaktoren für das Kabel oder Reduktionsfaktoren F1, F2, F3. Vielleicht je nachdem, nach welcher Norm ihr euer Kabel dimensioniert, müsst ihr aber diesen I nennen. Erstmal reduzieren, je nachdem, habt ihr Häufungen, habt ihr thermische, erdbodenwärmewiderstände usw.
+
+(0:02:53 - 0:03:10)
+Den Wert würden wir dann aber nehmen und als Dauerbelastungsgrad hinzufügen. Dann gibt es noch die kurzzeitige Belastung, eben für diese eine Sekunde, IK', und auch den findet ihr im Datenblatt. Bei diesem Kabel sind das dann 17,3 Kiloampere für eben eine Sekunde.
+
+(0:03:11 - 0:03:41)
+Der dritte Wert wäre dann der IP, auch der ist hier nicht angegeben. Das liegt dann vor allem daran, dass unsere Kabel, wenn sie jetzt im Erdreich verlegt sind, man kann da ruhig ein hoher IP mal durchfließen, dann bewegen sich die Kabel wirklich durch diese stark steigenden Magnetfelder. Aber es ist jetzt nicht so, dass wie bei Kupferschienen Schienen verbogen werden, Verschraubungen aus der Verankerung brechen oder ähnliches, sondern dieses Kabel, ich würde sagen, es bewegt sich einmal in seinem Sandbett und dann ist es aber auch gut.
+
+(0:03:42 - 0:03:58)
+Also ist der IP hier nicht so entscheidend. Jetzt gibt es die Schaltanlage, auch hier gehen wir schnell mal ins Datenblatt, schauen uns dann die Werte an. Das ist hier eine klassische Mittelspannungsschaltanlage, die hat dann erstmal einen Nennstrom, 630 Ampere.
+
+(0:03:58 - 0:04:15)
+Die hat dann aber auch den IK Strichstrich für eine Sekunde, das ist dann üblicherweise 25 Kiloampere. In den normalen Kompaktstationen sieht man eher 20 Kiloampere, manchmal auch 16. Aber das ist erstmal so die Größenordnung, was es so gibt.
+
+(0:04:15 - 0:04:41)
+Und es gibt dann auch einen IP und den sieht man dann hier, der ist angegeben mit 63 Kiloampere. Und hier genau wieder meine Erklärung von vorher, hier gibt es jetzt Sammelschienen, hier gibt es Kupferschienen, hier gibt es Verschraubungen, alles ist fest montiert. Wenn hier jetzt eben extrem große Magnetfelder auftreten durch so einen Pulsstrom, durch so einen Impuls, dann kann es hier natürlich deutliche Zerstörung geben, Verbiegungen und die Schaltanlage ist kaputt.
+
+(0:04:41 - 0:05:06)
+Also dieses IP, 63 Kiloampere dürfen wir auf keinen Fall überschreiten. Jetzt kommt noch der Niederspannungsleistungsschalter, auch hier einen Blick ins Datenblatt. Nennstrom finden wir, hier haben wir mal einen Niederspannungsleistungsschalter rausgesucht mit 1250 Ampere, mit einem IK Strichstrich von 55 Kiloampere, der ist hier sogar ein bisschen größer als die 50.
+
+(0:05:06 - 0:05:24)
+Trotzdem bleibt mein Hinweis, seid vorsichtig, wenn es in solche Größenordnungen geht. Und dann eben auch ein IP von 120 Kiloampere. Also der kann deutlich mehr als der Mittelspannungsschalter, weil aber auch die Ströme üblicherweise auf der Niederspannung einfach viel, viel größer sind als auf der Mittelspannung.
+
+(0:05:27 - 0:05:32)
+Das tragen wir hier mal ein, das ist ein Überblick über die Belastbarkeit der Betriebsmittel.

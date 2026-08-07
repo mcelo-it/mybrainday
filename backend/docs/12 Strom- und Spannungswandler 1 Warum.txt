@@ -1,0 +1,35 @@
+(0:00:00 - 0:00:13)
+Also dann, wir legen mal los mit dem Warum. Da haben wir es auch schon. Und warum machen wir das Ganze ist für uns erst mal klar, weil wir wollen Strom und Spannung und Leistung messen.
+
+(0:00:13 - 0:00:30)
+Dafür gibt es eben Endgeräte, die sehen zum Beispiel so aus, aber das können eben auch Zähler vom EVU sein. Und die sollen eben dann erst mal messen. Hier in dem Fall ist es eben ein Netzanalysegerät, was wir häufig in den Parkreglern sehen.
+
+(0:00:31 - 0:00:46)
+Dann haben wir diese Zählung, hatte ich gerade gesagt. Netzbetreiber beziehungsweise für uns ist das natürlich eminent wichtig, dass wir für den erzeugten Strom aus der Solaranlage oder aus dem Windkraftwerk, was auch immer, auch Geld bekommen. Deshalb brauchen wir da eben eine Zählung am Netzanschlusspunkt.
+
+(0:00:47 - 0:00:59)
+Und die muss eben korrekt ausgeführt sein. Und als Drittes ist dann eben der Schutz immer ein ganz wichtiges Thema. Und zwar ist das hier vor allem auch aufgeführt, weil die Wandler da ein bisschen anders vielleicht noch sind.
+
+(0:00:59 - 0:01:24)
+Aber das sind jetzt erst mal die drei wichtigen Sachen, warum wir überhaupt den Strom messen wollen. Und wenn wir diese Geräte uns dann anschauen, die den Strom messen, dann stellen wir relativ schnell fest, dass diese Geräte einen gewissen Messbereich haben. Und zwar sind das jetzt 0 bis 400 Volt können die in der Regel messen und häufig so 0 bis 5 Ampere.
+
+(0:01:24 - 0:01:49)
+Manche können natürlich auch viele Zähler, vor allem die ihr zu Hause in eurer Installation habt, in eurer Wohnungsinstallation habt, die können dann sicherlich auch ein bisschen mehr. Wir lassen es jetzt mal bei 5 Ampere hier stehen und schauen uns an, was dem gegenübersteht. Und dem gegenübersteht nun mal unser öffentliches Netz, was Spannungsebenen hat von 400 Volt bis zum Beispiel 380.000 Volt.
+
+(0:01:49 - 0:02:28)
+Und da sehen wir dann auch gleich, gibt es bei vielen Spannungsebenen oder bei dem Großteil der Spannungsebenen schon Konflikte mit dem, was eben unser Messgerät am Ende messen kann. Wenn wir unten anfangen und uns die Niederspannungsebene mal anschauen, da funktioniert das bei den normalen Anwendungen vielleicht für Dach-PV-Anlagen noch sehr gut. Wenn wir jetzt aber in die Freifläche gehen und da die moderneren Wechselrichter sehen, die eben 800 Volt rausgeben, dann habt ihr schon Probleme, diese Spannung mit konventionellen Messgeräten zu messen und müsst dann eben nochmal einen Wandler dazwischen schalten.
+
+(0:02:29 - 0:02:58)
+Genau, wir führen jetzt mal hier die ganzen Spannungen zusammen und der Wandler, den wir dann dazwischen schalten, das ist dann eben der Spannungswandler. Gleiches gilt dann natürlich auch für die Stromstärke. Wenn wir jetzt nur 5 Ampere messen können mit unseren Messgeräten, dann ist es natürlich auch hier wichtig, dass wir sehen, vor allem in der Niederspannung, da haben wir ja häufig Ströme, die 1.000, 2.000, 3.000 bis 5.000 Ampere vielleicht sogar überschreiten.
+
+(0:02:59 - 0:03:20)
+Und diese Ströme kann man natürlich nicht durch ein normales Messgerät schieben, das wird sofort schmilzen. Spannungsseitig haben wir es ja sowieso schon gerade geklärt, das funktioniert nicht, da können wir nur 400 Volt. Stromseitig haben wir aber das gleiche Problem oder ein ähnliches Problem, wir kriegen eben die hohen Ströme nicht an unsere Messgeräte angeschlossen.
+
+(0:03:21 - 0:04:09)
+Also haben wir auch hier eben einen Stromwandler, der eben diese beiden Welten, und wir nennen sie Primerwelt für die hohen Spannungen und hohen Ströme und die Sekundärwelt im Grunde genommen verknüpfen. Also alles, was im Prinzip im Netz stattfindet, was direkt an den Kabeln passiert, das ist eben die Primerseite und die Sekundärseite, die Sekundärwerte, das ist eben das, was die Stromwandler aus den Primerwerten übersetzt haben. Also sie wandeln diese Primerwerte in standardisierte, analoge Sekundärgrößen um und die können wir dann eben mit unseren Messgeräten erfassen, messen und dann wieder im Messgerät zurück wandeln auf das, was ja tatsächlich im Netz passiert, weil wir kennen die Wandelfaktoren.
+
+(0:04:11 - 0:04:42)
+Zusätzlich bieten diese Wandler, diese Strom- und Spannungswandler eine galvanische Trennung und das bedeutet im Grunde genommen für uns, wir haben hier eine Sicherheit für Personal und Gerät. Das heißt, erst mal will natürlich keiner an der 380 kV-Kabel irgendwelche Geräte anschließen, geht sowieso nicht, aber das wäre natürlich auch lebensgefährlich. Deshalb hat man eben diese galvanische Trennung, Umsetzung auf geringe Spannungswerte, die dann eben für den Techniker, zum Beispiel im Umspannwerk oder in einer Übergabestation, erst mal relativ ungefährlich sind.
+
+(0:04:43 - 0:05:15)
+Zum Schluss noch, das ist vielleicht eine Sonderanwendung, wenn wir unsere Übergabestation irgendwo in der Landschaft stehen haben, dann gibt es dann auch noch Spannungswandler, die vor allem dann hohe Leistung rausgeben können, die dann nicht für die Messung gedacht sind, sondern für die Hilfsenergieversorgung. Das ist ein spezielles Thema, würde ich sagen, sei hier noch einmal am Rande genannt. Im Folgenden beschäftigen wir uns dann eher mit den Mess- und Schutzwandlern und eben nicht mit den Wandlern für die Hilfsenergieversorgung.

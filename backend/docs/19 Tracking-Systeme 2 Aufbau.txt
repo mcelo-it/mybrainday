@@ -1,0 +1,344 @@
+(0:00:00 - 0:00:26)
+Als nächstes gehen wir mal in das Kapitel Aufbau. Grundsätzlich ist die Idee, bei diesem Kapitel erstmal zu zeigen, welche Komponenten denn eigentlich bei so einem Tracker-System überhaupt auf so einer Anlage vorzufinden sind. Wir gehen nicht ganz tief in die Details bis zum Ende, weil das machen wir dann später noch in den Fachkapiteln.
+
+(0:00:26 - 0:00:43)
+Aber hier ist mir erstmal wichtig, dass man grundsätzlich so eine Übersicht bekommt, wie so ein Aufbau von so einem Tracker-System überhaupt logisch zu erfolgen hat. Wir fangen an mit den Trackern. Zumindest haben wir sie so genannt.
+
+(0:00:43 - 0:00:58)
+Ich zeige es einfach gleich mal hier symbolisch. So machen wir das jetzt mit allen Komponenten, die wir nach und nach einblenden, dass wir die einmal hier zeigen in so einer schematischen Darstellung. Dann seht ihr das auch gleich noch in einer dreidimensionalen Darstellung, damit man es sich vielleicht ein bisschen besser vorstellen kann.
+
+(0:00:58 - 0:01:10)
+Und weil es natürlich einfach cooler aussieht. Aber so wird es schematisch dargestellt werden, was wir unter dem Tracker selbst verstehen. Hier nochmal dreidimensional.
+
+(0:01:10 - 0:01:27)
+Man hatte meinetwegen die Pfosten, die man im Erdreich natürlich fest verankern muss. Man hat irgendwelche Querträger, die, Achtung, sehen wir auch gleich, rotierend sind, die müssen sich bewegen können. Und dann hat man natürlich die Module, die an diesem ganzen Tracker-System fest montiert sein müssen.
+
+(0:01:27 - 0:02:00)
+Also so ein bisschen nach dem Motto Unterkonstruktion. Wir gucken uns das mal im Detail von oben an und sehen glaube ich jetzt schon, worauf so ein Tracker-System ja zu Recht sehr stolz sein kann. Also das ganze System kann sich jetzt in unserem Fall hier in einer Achse bewegen, rotieren und hat aber trotzdem grundsätzlich erstmal die Aufgabe der mechanischen Trägerstruktur, also natürlich die Module, fest verankert, stabil, auch bei Sturm da sicher zu tragen und zu fixieren.
+
+(0:02:00 - 0:02:23)
+Das ist erstmal die Grundaufgabe von diesem Tisch, von diesem Tracker. Dann kommt das, warum wir es ja überhaupt machen, nämlich das Ganze ist also beweglich, kann der Sonne nachgeführt werden, sinnhafterweise, das Ganze nennt sich dann Tracking. Das ist ganz klar, das ist jetzt sozusagen die zweite wichtige Aufgabe, die dieser Tracker nachzugehen hat.
+
+(0:02:23 - 0:02:32)
+Jetzt haben wir es mal gedreht und zeigen es von unten. Da sieht man jetzt mal so Mechanik ein bisschen besser. Das ist so ein Zahnrad, so kenne ich das jedenfalls typischerweise, wie das realisiert wird.
+
+(0:02:33 - 0:02:54)
+An dem sehen wir dann gleich noch ein bisschen, wir zoomen gleich rein, dann sieht man da wieder, wie der Motor irgendwie so da so reingreift. Aber jetzt hat man schon mal den Eindruck, wie das von unten angesteuert wird, die Mechanik. Also gibt es die Aufgabe der Übertragung der Antriebsbewegung von dem Motor an diese Tracker-Einheit, damit sie sich überhaupt bewegt.
+
+(0:02:55 - 0:03:05)
+Und an der Stelle wollten wir das einfach mal nur noch mal erwähnt haben. Ich glaube, jetzt wird schon klar, warum nun mal diese Tracker-Systeme höhere Kosten verursachen. Das Ganze ist einfach aufwendiger.
+
+(0:03:05 - 0:03:18)
+Ich glaube, wird schon klar, dass das jetzt einfach ein bisschen teurer ist, als die Tischreihen. Und das muss dann irgendwie wieder reingespielt werden, durch einen höheren Ertrag im besten Fall natürlich. Letzter Bullet Point hier für den Tracker.
+
+(0:03:18 - 0:03:31)
+Wir haben gesagt, das ist uns wichtig, dass die Tischlänge und die Stringlänge aufeinander abgestimmt werden. So haben wir es mal recht diplomatisch ausgedrückt. Das würde man auf Dachanlagen und vor allem Freiflächen sicherlich auch so machen oder versuchen.
+
+(0:03:32 - 0:03:41)
+Aber bei Tracker-Systemen ist das noch mal wichtiger. Und zwar deshalb, weil die Sprünge von einem Tracker zum nächsten nicht trivial sind. Das sehen wir später auch noch mal so ein bisschen.
+
+(0:03:41 - 0:03:52)
+Die könnten sich ja unterschiedlich bewegen. Theoretisch sind ja eben nicht fest. Deswegen finden wir, ist das ein wichtiger Punkt, den zu erwähnen, dass man darauf achtet, dass man möglichst keine Sprünge hat oder wenig.
+
+(0:03:53 - 0:04:05)
+Und das macht dann ja sicherlich Sinn, die Stringlänge auf die Tischlänge anzupassen. Das erstmal so ganz grob, hat man sich vorher überlegt. Und dann ist dann auch die Verstringung später sehr einfach.
+
+(0:04:06 - 0:04:18)
+Jetzt habe ich es aus der 3D-Betrachtung rausgenommen und schaue mal von der Seite drauf, weil ich noch sagen will, dass es so typische Bewegungswinkel gibt. Ich zeichne den hier mal ein. Dann kann man ihn sich besser vorstellen.
+
+(0:04:18 - 0:04:25)
+Also von der Seite betrachtet ist das, glaube ich, sehr deutlich. Wir haben den jetzt mal als Beispiel. Also da steht auch circa.
+
+(0:04:25 - 0:04:31)
+Es gibt unterschiedliche Systeme, unterschiedliche Anforderungen. Wir haben jetzt hier mal 70° eingezeichnet. Das ist ein Wert, den ich kenne.
+
+(0:04:32 - 0:04:42)
+Und das wäre so ein typischer Maximalwert in die sozusagen eine Richtung. Und der kann dann eben auch die 70° in die andere. Deswegen ±70°.
+
+(0:04:42 - 0:05:00)
+Also wenn man von diesen Winkeln spricht, dann muss man diesen hier betrachten, nicht irgendwie einen anderen, damit man immer eben auch von den gleichen Parametern spricht. Okay, also das war mal Tracker, erste Komponente. Jetzt kommt die zweite, der Motor.
+
+(0:05:00 - 0:05:10)
+Wo finden wir den Motor? Ich mache ihn erstmal hier schematisch rein in mein Schema. Wir haben mal drei Tracker da dargestellt. Könnte natürlich in Wirklichkeit viel, viel mehr sein.
+
+(0:05:10 - 0:05:21)
+Aber das reicht für die Schematik natürlich aus. Und da wäre jetzt also an jedem Tracker ein Motor verbaut. Und da zoome ich mit meiner grünen Lupe hier im 3D-Modell auch rein.
+
+(0:05:21 - 0:05:34)
+Achtung, wir springen näher ran, damit man es besser erkennen kann. Da ist er. Das wäre jetzt beispielhaft der Motor, der dann in das Zahnrad greift, das da auch dargestellt ist und so sozusagen den Tracker selbst bewegen kann.
+
+(0:05:35 - 0:05:51)
+Der Motor, da mal rausgesoomt, einfach nur als mechanisches Bauteil. Darauf konzentriere ich mich als Planer nicht. Ich will nur wissen, klar, der hat erstmal die Aufgabe, das Drehmoment zu erzeugen, damit sich dann der Tracker an sich bewegt.
+
+(0:05:51 - 0:06:05)
+Aber vielleicht eher wichtiger, weil also natürlich bewegt sich der Motor, ist wichtig, dass er das präzise tut. Er muss präzise die Tracker-Position steuern können. Da gibt es dann auch Vorgaben in Grad, wie er das macht.
+
+(0:06:06 - 0:06:14)
+Das ist natürlich ganz wichtig. Der soll das ja über viele Jahre machen und dabei auch seine Präzision nicht verlieren. Und insofern ist dieser Punkt, finde ich, für den Motor sehr wichtig.
+
+(0:06:15 - 0:06:36)
+Dann haben wir noch Selbsthimmlung und Haltefunktion mit reingenommen. Also das wäre die Idee, dass wenn der Motor sozusagen gerade nicht aktiv ist, dass er dann trotzdem die Position stabil hält, damit die Tracker, die ja ständig unter Last, vor allem unter Windlast stehen, da nicht frei im Wind hin und her fliegen. Also auch das wäre eine Aufgabe von diesem Motor.
+
+(0:06:36 - 0:06:53)
+Nur mal so fürs Gefühl. Der Motor fährt permanent, also nicht wirklich permanent hinterher, nicht im Millisekunden-Rhythmus sozusagen, sondern alle paar Minuten stellt er sozusagen eine Position der Sonne nach. Das wäre so eine übliche Aufgabe von so einem Motor.
+
+(0:06:55 - 0:07:03)
+Okay, dritte Komponente in dem Aufbau von unserem Trackersystem. Wir haben es Slavebox genannt. Da sage ich auch gleich, da gibt es verschiedene Ausführungen von verschiedenen Herstellungen.
+
+(0:07:03 - 0:07:15)
+Wir machen das sehr allgemein jetzt und haben uns halt dann mal ein Beispiel genommen. Also an jeden Tracker, also auch jetzt drei Stück, brauchen wir jetzt eine Slavebox. Der Master, der da sinnhaft dazu gehört, der kommt später noch.
+
+(0:07:16 - 0:07:28)
+Also jetzt wichtig, bitte einplanen, dass da jeder Tracker für sich so eine Slavebox zugeordnet bekommt. Die darf man nicht vergessen. Und die hat dann folgende Aufgabe.
+
+(0:07:29 - 0:07:42)
+Ich zoome mal wieder mit meiner Brille, mit meiner Lupe da rein. Also schematisch so über den Motor da jetzt so eine kleine Box reingezeichnet. Und die hat jetzt, ihr seht es in der Legende rechts oben, erst mal den Auftrag der Stromversorgung.
+
+(0:07:42 - 0:08:02)
+Der Motor muss natürlich versorgt werden mit Leistung. Und deswegen haben wir das hier blau eingezeichnet zwischen dem Motor und jeder einzelnen zugehörigen Slavebox gibt es jetzt also ein Kabel, das den Motor mit Strom versorgt. Da ist es jetzt auch in unserem 3D-Modell verdrahtet.
+
+(0:08:02 - 0:08:07)
+Das müsst ihr spezifizieren. Das müsst ihr einplanen. Das muss man vor Ort natürlich auch gut verlegen.
+
+(0:08:07 - 0:08:14)
+Das ist nicht so ganz trivial. So, wir gucken uns die Slavebox an. Wir machen die einfach mal auf.
+
+(0:08:14 - 0:08:21)
+So könnte die aussehen. Wie gesagt, Hersteller machen das völlig unterschiedlich. Worauf wir hinaus wollen ist, die hat jetzt erst mal die Aufgabe der Stromversorgung.
+
+(0:08:21 - 0:08:28)
+Habe ich es gerade genannt. In unserem Bulletpoint hier nennen wir es Leistung übergeordnet. Also sie muss das Ganze mit Leistung versorgen.
+
+(0:08:29 - 0:08:35)
+Und zwar kommend von der Unterverteilung. In dem Modell habe ich es jetzt gerade reingezeichnet. Also da wird ein Kabel reingesteckt.
+
+(0:08:35 - 0:08:53)
+Das kommt übergeordnet von der Unterverteilung und geht dann weiter in den Elektromotor. Das ist erst mal die Aufgabe Nummer 1 von so einer Slavebox. Dann die zweite Aufgabe, die Kommunikation.
+
+(0:08:54 - 0:09:03)
+Da wäre es so, dass natürlich der Motor jetzt angesteuert werden muss. Das kann man auf verschiedene Weisen machen. Es gibt verschiedene Kommunikationsarten, Protokolle.
+
+(0:09:03 - 0:09:11)
+Wir haben aufgeschrieben, RSVF 5, ZigBee, WiFi kann man auch machen. Das wäre dann ohne Verdrahtung. Also man braucht keine Kabel dann mehr.
+
+(0:09:11 - 0:09:25)
+Und Powerline Communication ist auch modern, sehr sinnvoll. Dann nimmt man dann das Leistungskabel, um auch den Kommunikationsweg zu realisieren. Natürlich macht das jeder Hersteller so ein bisschen anders oder vielleicht auch jeder Planer ein bisschen anders.
+
+(0:09:25 - 0:09:38)
+Deswegen haben wir sie immer so allgemein erst mal dargestellt. In unserem Beispiel schließe ich jetzt noch einen Neigungssensor an. Warum der wichtig ist, kommt als nächstes.
+
+(0:09:38 - 0:09:45)
+Aber wir schließen ihn jetzt schon mal an. Das habe ich jetzt in meinem 3D-Modell hier mit auch gemacht. Ein kleines Datenkabel angeschlossen zum Neigungssensor.
+
+(0:09:46 - 0:09:55)
+Und manchmal, ich kenne es optional, gibt es auch Schneesensoren. Wofür die wichtig sind, kommt später. Aber hier schließen wir den auch nochmal an, an unsere Slavebox.
+
+(0:09:55 - 0:10:12)
+Also sowas muss man jetzt vorab in seinem Datenschema beachten und sauber einzeichnen. So, soviel zur Slavebox. Als nächstes kommt die gerade schon kurz erwähnte Unterverteilung.
+
+(0:10:12 - 0:10:25)
+Wir bauen das Ding ja sozusagen rückwärts auf. Also wenn ich jetzt vom Motor an die Slavebox angeschlossen habe, muss ich jetzt von der Slavebox an die Unterverteilungen anschließen. Auch hier habe ich ein 3D-Modell mitgebracht.
+
+(0:10:26 - 0:10:36)
+Darunter ist sie, die Nummer 4 ist sie jetzt. Und jetzt erst nochmal eine zweite mit daneben geführt. In meinem Schema sind es drei, aber in dem 3D-Modell reichen zwei.
+
+(0:10:36 - 0:10:47)
+Und zwar warum? Weil jetzt geht es um die Verbindung der einzelnen Unterverteilungen untereinander. Damit auch die Verbindung der einzelnen Tracker untereinander. Zeichne ich mal ein.
+
+(0:10:47 - 0:10:52)
+Erstmal oben im Schema. In blau wieder die Stromversorgung. Die muss ja irgendwo herkommen.
+
+(0:10:53 - 0:11:01)
+Und jetzt auch in grün dazu noch eine Kommunikation eingezeichnet. Hatte ich ja gerade schon kurz gesagt. Man kann das mit Datenkabeln machen.
+
+(0:11:02 - 0:11:09)
+Man kann es aber auch ohne machen. Also Stichwort WiFi, ZigBee, Powerline Communication. Dann wird das ein bisschen anders dargestellt.
+
+(0:11:09 - 0:11:17)
+Aber nehmt es jetzt mal so mit. Ich baue es jetzt in meinem Beispiel mal mit einem getrennten Datenkabel. Einfach nur, damit ich das Beispiel hier gut darstellen kann.
+
+(0:11:17 - 0:11:26)
+Und dann sind das zwei parallele Linien. Eine in blau für die Stromversorgung, eine in grün für die Kommunikation. Und jetzt im 3D-Modell, da sieht es sehr ähnlich aus.
+
+(0:11:26 - 0:11:38)
+Achtung, ich muss also das Kabel verlegen. Oben von der Slavesbox nach unten zu meiner Unterverteilung pro Tracker. Und dann kommt der Sinn der Unterverteilung jetzt oben im Schema auch mit rein.
+
+(0:11:38 - 0:11:47)
+Ich verbinde die Unterverteilungen jetzt untereinander. Und das mache ich jetzt hier auch mit meinem 3D-Modell. Gestrichelt ist so ein bisschen angedacht.
+
+(0:11:47 - 0:11:56)
+Das sind Unterverteilungen der Anzahl N. Also wie viele es am Ende sind, weiß ich jetzt nicht. Das soll jetzt hier schematisch darstellen. Das könnten auch 10 sein oder 15.
+
+(0:11:56 - 0:12:21)
+Wichtig ist, diese Unterverteilungen sind in Reihe geschaltet, damit ich sowohl die Stromversorgung als auch die Kommunikation von einem Tisch immer weiter zum nächsten durchschleifen kann. So, das waren die übergeordnete Darstellungen erstmal. Jetzt machen wir so eine Unterverteilungsbox auch da erstmal nur beispielhaft wieder auf.
+
+(0:12:21 - 0:12:44)
+Ihr seht schon, oben Kommunikationstechnik, unten mehr so das Hardwire. Also für die Leistung und damit man sich es nochmal besser vorstellen kann, wie man das vor Ort dann machen würde, würde ich jetzt also die einzelnen Tracker, die einzelnen Unterverteilungen in Daisy-Chain miteinander verbinden. Das heißt, von der vorherigen Einheit gibt es ein Kabel, das geht da rein.
+
+(0:12:45 - 0:13:05)
+Und dann ist da eben eine Verteilung drin in der Unterverteilung. Und deswegen geht auch ein anderes Kabel wieder raus über den Ausgang zum nächsten Tracker beziehungsweise zur nächsten Unterverteilung. Gleichzeitig aber Achtung, da gibt es natürlich auch noch einen Abgang eben dann zur Slavebox, wie wir es gerade schon erklärt hatten.
+
+(0:13:05 - 0:13:25)
+Die zeichnen wir mal hier rein. Also die Verteilung führt ja jetzt nur dazu, dass man sowohl weitergehen kann zum nächsten Tracker, zur nächsten Verteilung, aber natürlich auch den Abgang realisiert von diesem Leistungskabel zu dem Tracker, an dem diese Verteilung hier angebracht ist. Bei der Kommunikation ist das ähnlich.
+
+(0:13:25 - 0:13:33)
+Also wenn sie wireless gebaut ist, brauche ich das nicht. Dann könnt ihr euch das wegdenken. Aber in meinem Beispiel mache ich das jetzt hier wunderbar mit so einem schönen Datenkabel.
+
+(0:13:34 - 0:13:54)
+Da brauche ich dann also auch eine Daisy-Chain-Verbindung aller dieser Tracker, die in dieser Linie konzipiert sind, miteinander. Also Eingang von der vorherigen Einheit und dann Ausgang zur Slavebox. Und genau das Ganze brauchen wir eben nur bei Hardwire-Verbindung.
+
+(0:13:54 - 0:14:08)
+Was jetzt hier noch reingehört ist, das seht ihr in dem blauen Kabel, das da nach rechts abgeht. Da geht es dann eben zur nächsten Box. Und so habe ich da meine Daisy-Chain-Verbindung aufgebaut.
+
+(0:14:10 - 0:14:21)
+Gegebenenfalls Notaus, haben wir noch hingeschrieben, herstellerabhängig. Wir haben ihn mal reingezeichnet. Also bei dieser Unterverteilung könnte jetzt ein Notausknopf sein und dann kann man da jederzeit das System sozusagen abschalten.
+
+(0:14:25 - 0:14:39)
+Weiter geht es Richtung Masterbox. Hier das Pendant zur Slavebox sozusagen. Gäbe es jetzt bei uns eine Masterbox für diese Linie in unserem Fall, da zeichnen wir sie mal hin.
+
+(0:14:39 - 0:15:06)
+Und dann auch in unserem 3D-Modell steht die dann ebenso neben den Tischreihen, neben den Trackern, jetzt bei uns an so einem separaten Mast montiert. Das soll vor allem symbolisieren, dass die sozusagen unabhängig von den Trackern nochmal irgendwo daneben aufzufinden ist. In meinem Schema oben verbinde ich jetzt wiederum die Unterverteilung, sozusagen die erste, die Nummer eins mit meiner Masterbox, sowohl für die Stromversorgung als auch für die Kommunikation.
+
+(0:15:06 - 0:15:25)
+Und in meinem 3D-Modell mache ich das auch gerade. Ja, haben wir schon mal alle Slaveboxen mit den Unterverteilern verbunden, alle Unterverteilungen mit der Masterbox verbunden. Und die Masterbox, die kriegt jetzt vor allem die Stromversorgung hier mal über so ein Hilfstrafo dargestellt aus der Trafostation.
+
+(0:15:25 - 0:15:42)
+Irgendwo muss das ja herkommen, die Hilfsenergie und die Kommunikation. Machen wir jetzt in dem Fall auch so. Vielleicht ist ja in der Trafostation nochmal irgendeine Kommunikationseinheit, die dann per LWL das Ganze zur Übergabestation bringt oder ins Umspannwerk oder wohin auch immer zu irgendeiner Internetverbindung, sage ich mal so.
+
+(0:15:44 - 0:15:58)
+Wir machen die Masterbox auf und kennen das Prinzip aber schon, also auch wieder beispielhaft dargestellt. Erst mal die Leistung von der externen Stromversorgung. Bei mir ist das die Transformatorstation, ist damit gemeint, so ein Hilfstransformator, der da drin ist.
+
+(0:15:59 - 0:16:09)
+Der ist dann schon relativ groß, machen wir später in dem Kapitel. Der kann ja dann ruhig 50, 60 KVA haben, je nachdem, wie viele Tracker da angeschlossen sind. Also das ist eine Planungsleistung für sich.
+
+(0:16:09 - 0:16:27)
+Und deswegen sind das auch relativ große Klemmen, die man dann da braucht für diese Leistungskabel. Und da würde man dann also ankommend vom Transformator aus der Trafostation die Kabel anschließen. Dann die andere Seite ist dann ja die Verteilung zu den Unterverteilungen weg.
+
+(0:16:27 - 0:16:46)
+Jetzt sind hier ein paar Sicherungen eingezeichnet. Da müsst ihr auf die Anzahl achten und natürlich auch auf den Typ, damit dann die Unterverteilungen von hier aus abgehend wieder versorgt werden können. Und zusätzlich muss man dann aufpassen, wir machen das später aber in Ruhe, dass man jetzt die maximale Leistung und auch die Kabellänge beachtet.
+
+(0:16:46 - 0:17:06)
+Da geht es dann um Spannungsfall, aber natürlich auch, dass der Hilfstransformator richtig ausgelegt ist und auch die Sicherungen. Bei der Kommunikation ist es so, der bekommt hier jetzt zum Beispiel auch noch Daten von den Sensoren. Sehen wir gleich, das ist gleich der nächste Punkt.
+
+(0:17:06 - 0:17:23)
+Könnte dann irgendwie so aussehen, das ist irgendwie so eine Kommunikationseinheit, die da von externen Sensoren noch Signale bekommt. Und ganz wichtig, da ist ein PC im Gehäuse integriert oder eine SPS. Also jedenfalls hier irgendwie daneben auch symbolisch nochmal dargestellt.
+
+(0:17:23 - 0:17:41)
+Genau, das ist dann der Master und das ist die zentrale Komponente des Tracker-Steuerungssystems. Da werden dann Entscheidungen getroffen, der kriegt ganz viele Informationen und dann kann er von hier aus sagen, bitte Position verändern. Dann werden die Motoren von hier aus angesteuert.
+
+(0:17:44 - 0:17:56)
+Auch hier gilt die Anzahl der Teilnehmer und auch hier die Längen beachten. Also Längen ist dann eben doch bei allen Kommunikationseinheiten so. Irgendwann haben ja auch die Wireless-Systeme sozusagen ein Limit.
+
+(0:17:56 - 0:18:19)
+Also darauf achten, dass man sowohl die Anzahl der Teilnehmer als auch die Entfernung sozusagen der verschiedenen Teilnehmer von dieser Masterbox hier beachtet und sinnhaft auslegt. So, die Masterbox als Nummer 5 auch abgehakt sozusagen. Als nächstes kommen Sensoren.
+
+(0:18:19 - 0:18:32)
+Wir haben sie jetzt erstmal reduziert oder aufgeteilt auf erstmal nur Windsensoren. Das kenne ich so, dass man die auch hier beim Master durchaus mit anbringen kann. Deswegen ist das bei uns im Beispiel auch direkt so gemacht.
+
+(0:18:32 - 0:18:46)
+Also einmal oben im Schema Windsensor angeschlossen mit einer Kommunikationsverbindung und hier sind sie auch im 3D-Modell. Deswegen haben wir den Mast, weil da kann man jetzt so schön oben zwei Sensoren anbringen. Ich zoome mal rein, dann erkennt man sie auch besser.
+
+(0:18:47 - 0:19:19)
+Das ist einmal ein Windrichtungssensor und einmal, das ist der andere, ein Windgeschwindigkeitssensor. Warum braucht man sie alle beide bei Tracker-Systemen? Einmal den Windrichtungssensor, weil diese sogenannten Stow, das ist so eine Halte-Sicherheitsposition, in der die Tracker dann fahren bei eben zu viel Wind. Diese Grenzwerte, bei denen der Tracker sich in diese Stow-Position begibt, sind abhängig von der Windrichtung.
+
+(0:19:19 - 0:19:58)
+Das macht Sinn. Man kann sich das, glaube ich, ganz gut vorstellen. Wenn man diese Tracker in Nord-Süd-Position wäre, typischerweise ist bei uns so aufgebaut, errichtet, dann hat das ja einen Unterschied auf die Belastung der Halterung, ob der Wind jetzt von Norden kommt oder ob er eben von Ost oder West kommt und die Tracker vielleicht gerade so positioniert sind, dass wenn der nach Westen orientiert ist und der Wind aus Osten kommt, die volle Breitseite in seinen Segel reinbekommt und dann ist natürlich die Belastung viel größer, als wenn der Wind zum Beispiel von Nord oder Süd kommen würde.
+
+(0:19:59 - 0:20:42)
+Deswegen ist diese Windrichtung so wichtig und das in Kombination mit der Geschwindigkeitsinformation kann dann der Master sagen, also jetzt ist es soweit, wir gehen jetzt in die Stow-Position und löst diese Funktion aus und dann fahren die Tracker sozusagen in diese geschützte Position. Wenn sie das gemacht haben, reduziert das die Windlast und das führt dazu, dass man bei Sturm geschützt ist. Windsensoren, also ein wichtiger Teil und Unterschied zu fest installierten Freilandflächen zum Beispiel, da wird das meinetwegen auch aufgenommen, hat aber auf keinen Fall diese Wichtigkeit wie jetzt hier bei den Tracker-Systemen.
+
+(0:20:44 - 0:21:24)
+So, dann kommt der Neigungssensor, den sehen wir hier in Blau, da musste man jetzt auch reinzoomen, weil der ist nicht so groß und den, Achtung, im Schema haben wir es dargestellt, würden wir jetzt auch bei jedem Tracker einzeln finden. Also, so ein Neigungssensor bei jedem Tracker installiert, hoffentlich auch kalibriert und richtig eingestellt und der ist jetzt verbunden hier mit einer Kommunikationsverbindung in die Slave-Box und jetzt schauen wir uns den auch nochmal kurz im Detail an, also nicht spektakulär, ist einfach nur so ein Rechteck. Der erfasst den Neigungswinkel von dem Tracker und das macht Sinn, weil er dann die Position an den Master zurückmelden kann.
+
+(0:21:24 - 0:22:01)
+Man kriegt also einen geschlossenen Regelkreis hin und nur dann kann ja der Master Fehler, also Fehlstellungen überhaupt erkennen. Wenn er diese Rückmeldung nicht kriegen würde, könnte der ja immer weiter fröhlich vor sich hindrehen und der Tracker macht vielleicht gar nicht am Ende das, was der Master denkt, dass er tut und das kann man nur verhindern, indem man auch die Position wieder zurückmeldet. Also eine Neigungswinkelerfassung macht extrem viel Sinn und das ist natürlich auch bei der Inbetriebnahme eine spannende Geschichte, dass man das auch testet und richtig einstellt, dass man dann auch weiß, dass die Positionserkennung richtig ist.
+
+(0:22:04 - 0:22:21)
+Weiter geht's, wir schauen uns das sogenannte Control Panel an. Ich zeige es oben erstmal rein im Schema, also bei der Master Box würde man sowas anschließen können und hier im 3D-Modell haben wir es jetzt direkt daneben gestellt. In Realität ist das nicht so, ich zeige auch gleich warum.
+
+(0:22:21 - 0:22:41)
+Also gucken wir mal unser Control Panel an, erstmal angeschlossen mit Stromversorgung und mit Kommunikation und jetzt schauen wir uns das nochmal in Detail an. Da sind jetzt Knöpfe drauf. Also so ein Control Panel sollte relativ einfach mechanisch ausgeführt sein und deutlich beschriftet, dass man weiß, was passiert, wenn man jetzt auf diese Knöpfe drückt.
+
+(0:22:42 - 0:23:29)
+Die Position ist nicht direkt neben der Master Einheit zwangsläufig, sondern die wird grundsätzlich vom Kunden festgelegt. Wir werden es gleich sehen, was jetzt passiert, wenn man auf diese Knöpfe drückt, aber die Idee ist, dass wenn ja das Gelände sozusagen seine eigentliche Aufgabe erfüllt, nämlich die Landwirtschaft, dass dann der Farmer, der diesen Acker bearbeitet, die Tische manuell in die für ihn richtige Position bringen kann. Das ist die Idee von diesem Control Panel und dann würde ja zum Beispiel der Farmer oder der Bauer sagen, wir machen das direkt am Eingangstor, dann komme ich da mal an mit meinem Traktor und kann dann erstmal die Position der Tische so vorgeben, wie ich das jetzt gerade brauche.
+
+(0:23:29 - 0:23:54)
+Also Position, sagen wir mal am Tor, dann beachten wir die maximale Entfernung zur Masterbox, weil das kann durchaus sehr weit sein und jetzt gibt es da verschiedene Modi, die da eingestellt werden können. Machen wir einfach mal den ersten, dann wird es glaube ich klarer. Normalbetrieb, also sagen wir mal, der drückt hier auf den ersten Knopf und dann weiß der Master alles klar, wir sind im Normalbetrieb.
+
+(0:23:54 - 0:24:08)
+Normalbetrieb erklären wir gleich im nächsten Kapitel noch detaillierter. Da fährt dann im Grunde halt der Tracker der Sonne hinterher und optimiert dadurch den Energieertrag. So, jetzt wird es aber interessanter.
+
+(0:24:08 - 0:24:33)
+Jetzt sagen wir mal, der zweite Knopf, wenn wir auf den drücken, dann könnte das in eine ungefähre horizontale Position kommen. Das muss nicht 0° sein, das ist herstellerabhängig, aber das kann er einfach so vorgeben, wenn er das jetzt braucht für was auch immer, da ist der Landwirt der Experte und nicht ich. Die dritte Position nennen wir Agri-PV 1. Zeigen wir mal, was damit gemeint ist.
+
+(0:24:33 - 0:24:59)
+Also in diesem Beispiel die Reihe 1 nach Westen orientiert, die Reihe 2 nach Osten orientiert. Das macht man absichtlich so, damit sozusagen jetzt in unserem Beispiel zwischen der zweiten und der dritten Reihe am meisten Platz ist, damit genau da jetzt der Traktor durchfahren kann. Wenn wir das mal Agri-PV 1 nennen, dann würde der jetzt durch die ungeraden Reihen durchfahren können.
+
+(0:24:59 - 0:25:19)
+Sehr gut, zeigen wir später auch noch mal, wie genau das dann funktioniert. Also der Bauer muss jetzt schon wissen, wo er entlangfahren muss. Und jetzt sagt er, hat er dann jede zweite Reihe bearbeitet, da sein Korn fällt, und dann fährt er wieder zurück zu dem Control Panel oder hat am anderen Ende auch ein Control Panel installiert und drückt dann auf den anderen Knopf.
+
+(0:25:19 - 0:25:37)
+Jetzt fahren die genau gegenläufig die Tracker. Wie man hier, finde ich, gut sehen kann, ist jetzt zwischen Reihe 1 und 2 der maximale Platz, sodass er jetzt die geraden Reihen sozusagen alle durchfahren kann. Also das sind diese vier typischen Modi, so wie wir sie kennen.
+
+(0:25:38 - 0:25:54)
+Und wenn er dann fertig ist, dann drückt er wieder auf die 1 und dann ist der Master wieder sozusagen im Automatik, im Normalbetrieb. Diese Stellung hier, die Winkel, die wir da angegeben haben, wollten wir nur noch mal dazu sagen. Das kann auch nur der Farmer wissen.
+
+(0:25:54 - 0:26:06)
+Das macht nicht der Elektroplaner, weil das ist abhängig von der Größe und vom Typ, zum Beispiel des Traktors. Aber das hat auch noch andere Gründe. Das hängt ja davon ab, wofür diese Landwirtschaft überhaupt verwendet wird.
+
+(0:26:06 - 0:26:10)
+Da gehe ich auf keinen Fall drauf ein. Das ist überhaupt nicht meine Stärke. Das wissen andere besser.
+
+(0:26:11 - 0:26:34)
+Aber das heißt, ihr kriegt die Informationen und definiert dann sozusagen für diese Modi, wie die Tracker dann, in welche Position sie sich bringen sollen. Als nächstes die USV, die Nummer 9. Wir machen die an die Masterbox dran, haben ein ganzes Kapitel später dafür, wie und warum und wenn überhaupt und warum denn überhaupt man diese USV dimensionieren würde. Das machen wir jetzt hier nicht.
+
+(0:26:35 - 0:27:04)
+Wir zeigen nur im 3D-Modell, wenn man sie anschließt, würde man das hier an die Masterbox anschließen, an der ja die Unterverteilungen und die Slaves und die Motoren angeschlossen sind. Und dann passiert jetzt nämlich folgendes, wenn ich jetzt sage, ich habe einen Stromausfall, also Netz weg, dann kann ich trotzdem noch meine Tracker in eine sichere Stow-Position bringen. Das ist die Idee dahinter, weil wenn dann zusätzlich ein Sturm auftritt, dann sind sie geschützt.
+
+(0:27:05 - 0:27:23)
+Wir haben das hier nochmal so ein bisschen grau dargestellt. Also Netzausfall, Blitz hier, der Schutz löst aus und jetzt ist das grau dargestellt, dass ich keine externe Spannungsversorgung mehr habe. Jetzt kommt die USV dazu, springt sozusagen ein und mein System bleibt weiterhin live.
+
+(0:27:26 - 0:27:38)
+Teuer, aufwendig und diskussionswürdig, die USV, aber machen wir im nächsten Kapitel. Die Erdung. Wir springen rein in die Erdung.
+
+(0:27:38 - 0:27:50)
+Dazu müssen wir auch wieder in unser 3D-Modell zoomen und basteln jetzt hier einfach mal so eine Erdungsverbindung dran. Ganz typisch wie bei fest installierten Systemen auch. Was wichtig ist, ist, dass ein flexibles Kabel sehr sinnvoll ist.
+
+(0:27:50 - 0:28:09)
+Und zwar warum? Ja, weil das verbindet jetzt also zwei Systeme miteinander, die rotierend sind. Also die bewegen sich ja absichtlich und das machen die den ganzen Tag hoch und runter und hoch und runter. Also da ist es natürlich sinnvoll, auf genügend Spiel zu achten und dass das Kabel auch flexibel ausgelegt ist.
+
+(0:28:10 - 0:28:27)
+Kupfer 16 Quadrat machen wir in einem anderen Brain Day. Das ist ein typischer Wert. Und jetzt wollten wir hier noch mal zeigen, wenn jetzt unser Tracker, das ist nur ein Beispiel, unser Tracker drei Poles, drei Pfosten hat, dann könnte man Variante A das so machen, dass man jetzt ein Kabel pro Pfosten einsetzt.
+
+(0:28:27 - 0:28:37)
+Achtung, da kommen sie noch rein. Also jetzt ist jeder Pfosten separat mit diesem Querträger sozusagen verbunden. Jetzt hat man wieder überall, da ist ein Potentialausgleich drin.
+
+(0:28:37 - 0:28:46)
+Oder die zweite Variante kenne ich auch. Man hat die Pfosten sowieso im Erdreich angeschlossen. So hier, zack, dann muss ich diese obere Verbindung nicht mehr ausführen.
+
+(0:28:47 - 0:29:04)
+Jetzt habe ich sie oben rausgenommen. Muss man sich vorher überlegen, muss man einen schönen Erdungsplan zeichnen und dann hat man am Ende hoffentlich alle Komponenten im gleichen Potential eingebunden. Die Kabelführung ist, meine ich, der letzte Punkt, auf den wir noch mal kurz hinaus wollten.
+
+(0:29:04 - 0:29:14)
+Ich kenne zwei Systeme, Querträger gibt es sowieso auch in fest installierten Systemen. Oft auch bei Trackern, manchmal aber nicht. Die sind einfach anders manchmal konstruiert.
+
+(0:29:14 - 0:29:22)
+Muss man Hersteller abhängig nachgucken. Und ich kenne welche, die machen das dann auch mit Stahlseilen. Sicherlich Vorteile im Gewicht.
+
+(0:29:23 - 0:29:33)
+Und grundsätzlich finde ich, ist es aber nur wichtig, dass man auf die Kabelführung achtet. Das hat zwei Gründe. Einmal ist es bei diesem Stahlseilen vielleicht nicht ganz so trivial wie sonst.
+
+(0:29:33 - 0:29:47)
+Also bei Freiflächen kenne ich das so, da wirft man das einfach mit rein in die Querträger und da gibt es eigentlich selten Probleme. Hier könnte es sein, dass es ein bisschen schwieriger wird. Also darauf achten, dass man hier symbolisch so ein Stringkabel mit reindreht.
+
+(0:29:49 - 0:29:55)
+Aber der zweite Punkt, finde ich, ist eher noch wichtiger. Wir müssen auf Kabelreserven achten. Wir müssen auf Schlauchen achten.
+
+(0:29:55 - 0:30:14)
+Und ich habe auch gleich noch mal so ein Schutzrohr eingezeichnet, weil wir sowohl bei dem Abgang ins Erdreich von rotierenden Teilen auf feste Teile sozusagen übergehen. Ich zeige es mal hier. Das obere bewegt sich ja den ganzen Tag und der Pfosten und natürlich auch das Erdreich ist ja immer fest.
+
+(0:30:14 - 0:30:34)
+Deswegen würde ich da dieses Schutzrohr, das ich gezeichnet habe, mit ausreichend Reserve, mit Platz so anbringen, dass es sich nicht über die Jahre hinweg kaputt dreht. Und bei Sprungen von einem Tracker zum anderen wäre es das Gleiche. Man kann das ja so machen, dass jeder Tracker ins Erdreich geht und dann von dort wieder hoch zum nächsten Tracker.
+
+(0:30:34 - 0:30:40)
+Das kann man machen. Oder man springt von einem Tracker zum nächsten und dann wäre es das Gleiche wie hier. Da muss man dann auf ausreichend Reserve achten.

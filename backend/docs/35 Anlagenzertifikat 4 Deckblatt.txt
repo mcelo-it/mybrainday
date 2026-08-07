@@ -1,0 +1,80 @@
+(0:00:00 - 0:00:13)
+Und starten erst mal mit dem Deckblatt. Also grundsätzlich haben wir jetzt unser Anlagenzertifikat erhalten. Das ist, finde ich, immer wieder ein besonderer Moment.
+
+(0:00:13 - 0:01:52)
+Die meisten Boardgleiter oder Planer nehmen das wahrscheinlich relativ nüchtern hin. Ich vermittel gerne etwas Euphorie bei der Sache, weil ich weiß, wie schwierig das ist und wie wichtig das ist. Wenn man es nicht rechtzeitig bekommt, dann macht der Job nicht mehr ganz so viel Spaß. 
+
+Also wir haben jetzt das Anlagenzertifikat erhalten und wir würden jetzt erst mal aufs Deckblatt gucken. Das machen wir jetzt einfach mal gemeinsam ein paar Minuten und dann hat man erst mal einen Eindruck, was da eigentlich so passiert. Man sieht das jetzt schon, das ist eine leere Vorlage. 
+
+Die kommt genau so aus der 4110. Das ist genau der Anhang E15. Und da steht oben drin, da soll ein Logo rein. 
+
+Okay, da haben wir mal ganz selbstbewusst unser Logo eingesetzt, wobei ich ganz klar dazu sage, wir sind keine Zertifizierstelle. Das ist ein bisschen anmaßend, ist ja nur, um es ein bisschen sinnbildlich darzustellen. Also da hat eure Zertifizierstelle ihr Logo reingemacht und wichtig, finde ich, ist das dann schon, weil es gibt ja nur eine Handvoll akkreditierte Zertifizierstellen. 
+
+Insofern gibt es dann schon einen gewissen Wiedererkennungswert. Im nächsten Punkt macht man eine eindeutige Nummer rein. Also das Anlagenzertifikat hat eine Nummer. 
+
+Das wird dann auch registriert tatsächlich an einer anderen Stelle. Also auch hier wird auf sehr akribische Arbeit Wert gelegt. Da ist mal so unsere beispielhafte Nummer. 
+
+Dann der Typ A, B oder C steht hier drin. Ihr erinnert euch, das war abhängig von der Anlagengröße. Wir haben jetzt eine Anlage, die ist größer als 950 kW, PAVE.
+
+(0:01:53 - 0:02:17)
+Und dann ist es eine Typ A Anlage. Dann steht hier eine Projektbezeichnung drin. Genau, das haben wir extra hier mit reingenommen, weil ich finde, man fragt sich ja gut, dann heißt das halt, wie das Projekt heißt. 
+
+Aber es hat immer wieder an unterschiedlichen Stellen unterschiedliche Namen, so ein Projekt. Da bin ich sicher. Und deswegen sagt die Zertifizierstelle, sie überlegt sich jetzt auch nicht nochmal einen Namen, sondern die nimmt den aus dem E9-Bogen.
+
+(0:02:18 - 0:06:48)
+Die machen das ganz akribisch und dann steht da genau die gleiche Projektbezeichnung drin wie im E9-Bogen und dann hat der Netzbetreiber den gleichen Namen wie das Anlagenzertifikat auch. Der Anschlussnehmer ist genau das gleiche. Das wechselt auch in so einem Projekt immer mal wieder und auch da wird darauf geachtet. 
+
+Da steht jetzt der aus dem E8-Bogen drin, also nicht E9, sondern der aus dem E8-Bogen, weil das ist der, den ihr ausgefüllt habt. Dann kommt die Zusammenfassung der, ich sage mal, wichtigsten, wenn man das so sagen kann, das sind ja immer alle wichtig, aber der Netzanschlussdaten vielleicht, der elektrischen Netzanschlussdaten. Und da gehe ich jetzt nochmal kurz ein bisschen darauf ein, was das alles so ist. 
+
+Machen wir an anderen Stellen sehr, sehr ausführlich. Aber hier jetzt nochmal kurz zusammengefasst. Für alle, denen das zu schnell ist, schauen Sie sich das an einer anderen Stelle von uns nochmal ganz ausführlich erklärt an, warum das eigentlich so verschiedene Kenndaten sind. 
+
+Also erstmal dieses das kommt aus dem E8-Bogen. Da ist er. Da kann man dann auch nochmal gucken, ob auch die Zertifizierstelle sich nicht vertan hat. 
+
+Kann man ja nochmal reingucken. Aber was ist das nochmal? Also es ist nicht die Modulleistung, sondern es ist, hier kommt sie jetzt, die Wechselrichterleistung. Da ist die Wechselrichterleistung, die installierte Wechselrichterleistung. 
+
+In unserem Beispiel zwei Megawatt. Jetzt habe ich auch in unserem Beispiel aber eine Wirkleistungslimitierung reingesetzt. Berechnet ja die Zertifizierstelle. 
+
+Insofern kommt das jetzt erst zum Tragen. Aber in meinem Beispiel hat die Zertifizierstelle gesagt, die Wirkleistung wird bei 90% hart limitiert. Dann sind das nur noch 1,8 Megawatt und die nennen wir dann PBinst. 
+
+Also die in Betrieb befindliche installierte Wirkleistung. Installiert ist sozusagen mehr, aber in Betrieb befindlich sind nur die 1,8. So, dann fliegen mal diese zwei rüber. 
+
+Ich habe das schon in vielen Zertifikaten gesehen, dass auch das PBinst angegeben wird. Das ist super hilfreich. In dieser Vorlage der 4110 ist es nur nicht dargestellt. 
+
+Also hier nochmal ins Kleinteilige gehen. Die Vorlage, die ihr hier seht, der folgen wir natürlich. Die gibt das PBinst, also den limitierten, den begrenzten Wirkleistungswert in den Wechselrichtern nicht im Deckblatt an. 
+
+Okay, ist halt so. Viele Zertifizierstellen machen das aber, weil der für euch als Planer ganz, ganz wichtig ist. Weiter geht's. 
+
+Jetzt geht nämlich die Trafostation irgendwo an den Netzverknüpfungspunkt. Da ist er, so haben wir den mal dargestellt. Und an der Stelle gibt es jetzt ein PAVE. 
+
+Das ist in unserem Beispiel niedriger, 1,5 Megawatt. Der Grund dafür wird in anderen Einheiten erklärt. Heute nehmen wir das einfach mal so hin, dass der Netzbetreiber nur 1,5 MW PAVE zulässt. 
+
+Deswegen Netzbetreiber kommt das auch aus dem E9-Bogen. Da findet ihr den dann, oder die Zertifizierstelle. Wir zoomen mal kurz rein. 
+
+Genau, ist eben ein bisschen klein im Hintergrund. Macht aber nix. Es fliegt hier ganz groß oben rein. 
+
+Jetzt ist es aus dem E9-Bogen in die E15-Anlagenzertifikat rübergewandert. So, oft wird nur PAVE oder SAVE angegeben, also eins von beiden. Und dann steht da noch SAVB, also Bezug. 
+
+Das geben wir gar nicht an. Jetzt haben wir bei unserer Freilandanlage keinen Bezug. Was wir hier nicht finden, das machen wir ganz selten, dass wir irgendwie sagen, was man nicht findet. 
+
+Aber der Punkt ist uns wichtig, weil wir das suchen als Elektroplaner im Anlagenzertifikat. Wo steht der Wert der Wirkleistungsbegrenzung? Und ich habe es gerade schon gesagt, ich kenne viele, die geben das hier an, dann stimmt es nicht. Aber in der Vorlage nach 41 steht es hier nicht. 
+
+Also die Wirkleistungsbegrenzung, die zumindest meiner Erfahrung nach alle Projektleiter und Kunden und so brennend interessiert, vollkommen zu Recht, enormen Einfluss hat auf die spätere Energieproduktion, steht hier erst mal nicht. Das wäre dieses PBinst. Manche geben es aber an. 
+
+Und was ihr auch nicht findet, ist, was ihr dann eigentlich später in den Parkregler und Wechselrichter einstellen müsst. Das kommt später noch, aber jetzt hier im Deckblatt eben nicht. Aber weil diese drei Sachen Wirkleistungsbegrenzung, meinetwegen Schutzparameter, Wechselrichter und vor allem auch Parkregler-Kenndaten-Parameter so wichtig sind, wollten wir mal hier rot markieren, dass es im Deckblatt noch nicht findet, sondern man muss dann auch ein bisschen weiterlesen. 
+
+Aber erst mal noch Deckblatt. Also Angabe der aktuellen Fassung. Genau, es wird immer wieder novelliert, die Anwendungsrichtlinie.
+
+(0:06:49 - 0:08:14)
+Deswegen ist das sinnhaft, hier reinzuschreiben, nach welcher denn genau zertifiziert wurde. Das gilt auch hier für diese FGW-technische Richtlinien. Also dann weiß der Netzbetreiber im Zweifel nach welchen Anforderungen denn überhaupt zertifiziert wurde. 
+
+Wichtiger Punkt, steht relativ einfach da, aber ist doch erst mal ein ganz, ganz großer Schritt. Nach so viel Arbeit steht dann relativ nüchtern da, so sind wir halt wir Elektrotechniker. Jawohl, wir haben die Anforderungen erfüllt. 
+
+Daumen hoch sozusagen. Und auch das kenne ich genauso von vielen Zertifizierstellen. Die machen eine ganz kurze Zusammenfassung, also wirklich nur mehrere Bullet Points, dass man sagt, wie die Anlage aufgebaut ist. 
+
+Das könnt ihr prüfen, finde ich, in dem Deckblatt mal reinlesen. Ihr habt es vielleicht ja sogar im Kopf, wie viele Wechselrichter, wie viele Transformatoren, welche Spannungsebene. Solche wirklichen Kenndaten stehen dann hier drin. 
+
+Die Seitenzahl steht da noch drin. Ich habe gerade heute noch mal in 1x schnell reingeguckt, um ein bisschen in die Stimmung zu kommen. Und das hatte 160 Seiten. 
+
+Also das ist durchaus üblich. Und die Zertifizierstellen folgen ihren eigenen Regeln. Das heißt, die machen da immer eine Unterschrift rein und ein Datum und ein Stempel. 
+
+Und dann habt ihr da ein sinnvolles Deckblatt, das erstmal in jede Anlagendokumentation reingehört. Ja, genau das Logo vom DAKHS, dass sie auch akkreditiert sind.

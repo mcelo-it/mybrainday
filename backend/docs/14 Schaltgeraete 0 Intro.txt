@@ -1,0 +1,11 @@
+(0:00:01 - 0:00:24)
+Hallo und herzlich willkommen zum heutigen Rainday. Heute konzentrieren wir uns auf das Thema Schaltgeräte. Was sind Schaltgeräte? Wo finden wir die? Warum brauchen wir überhaupt eine ganze Schulungseinheit, um uns mit dem Thema zu beschäftigen? Im Hintergrund seht ihr, wie wir die heutige Schulungseinheit dazu aufgebaut haben.
+
+(0:00:24 - 0:00:37)
+Sechs Kapitel haben wir mitgebracht. Wir starten wie gewohnt mit dem Thema. Warum brauchen wir überhaupt Schaltgeräte? Dann schauen wir ganz elektrisch im Sinne des Stromflusses in PV-Anlagen.
+
+(0:00:38 - 0:00:53)
+Starten von der DC-Seite aus mal auf so eine Anlage und gucken uns die Schaltgeräte dann an. Dann das Gleiche auf der AC-Achtung, ganz wichtig, Niederspannungsseite. Dann geht es weiter Stromfluss Richtung Netz auf die Mittelspannungsseite.
+
+(0:00:54 - 0:01:18)
+Und dann vielleicht eher so separat betrachtet, haben wir uns auch noch was im Monitoring überlegt, den Übergriff genannt, wo man da Schaltgeräte findet und wie die aussieht, seht ihr dann ja in dem Kapitel. Und am Schluss die Superpower 360 Grad Tour. Wir gehen gemeinsam auf so eine Anlage und gucken uns dann die jetzt zu besprechenden Schaltgeräte mal in Realität dann gemeinsam an.

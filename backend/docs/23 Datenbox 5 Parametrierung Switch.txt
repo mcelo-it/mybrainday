@@ -1,0 +1,387 @@
+(0:00:00 - 0:00:14)
+in die Übersicht und sehen, dass wir jetzt noch zwei Punkte vor uns haben. Und zwar erst mal eine ganz praktische Geschichte. Wir gucken uns jetzt an, wie man so einen Switch parametriert.
+
+(0:00:14 - 0:00:24)
+Haben wir jetzt, glaube ich, oft und sehr real gezeigt, wie so eine Datenbox aussehen kann. Und da sind viele Bauteile drin. Aber eine Kernkomponente ist der Switch.
+
+(0:00:24 - 0:00:31)
+Deswegen haben wir uns die rausgesucht. Die braucht man erst mal. Sonst kann man von außen auch auf die anderen Komponenten nicht zugreifen.
+
+(0:00:31 - 0:00:38)
+Der Switch ist einfach so eine Herzkomponente. Zeigt erst mal, wo der so ist. Da oben ist er.
+
+(0:00:38 - 0:00:46)
+Da oben in der Ecke ist er in unserem Modell. Und jetzt zoomen wir ihn nochmal raus, damit man ihn nochmal gesehen hat, wie der so aussehen kann. Hersteller unabhängig natürlich.
+
+(0:00:46 - 0:01:00)
+Also so sieht so ein Switch aus. Jetzt habe ich, wenn man so will, die Werkseinstellungen noch drin. Also die wurden jetzt nicht vorab parametriert und keine IP-Adressen verändert, sondern wir haben da noch Werkseinstellungen drin.
+
+(0:01:00 - 0:01:07)
+So sehen die aus. In unserem Beispiel Subnet-Maske, IP-Adresse fest definiert. Muss ich wissen.
+
+(0:01:07 - 0:01:14)
+Muss ich den Hersteller anrufen, eine E-Mail schreiben oder ins Manual gucken. Da steht das dann so drin. Das ist also unser Ausgangspunkt.
+
+(0:01:15 - 0:01:28)
+Und jetzt gehen wir gemeinsam auf die Baustelle, genau wie wir es in der 360 Grad Tour gerade gemacht haben und wissen, was zu tun ist. Erstens, wir nehmen unseren Baustellenrechner mit. Da ist er, unser Laptop.
+
+(0:01:29 - 0:01:38)
+Und wir wollen jetzt erst mal unseren Laptop mit dem Switch verbinden. Das ist mal der erste Schritt. Das machen wir jetzt erst mal physisch, indem wir hier so ein LAN-Kabel mitnehmen.
+
+(0:01:38 - 0:01:54)
+Da geht es schon weiter. Ich würde sagen, der, der das zum ersten Mal macht, fährt jetzt schon mal erst mal wieder zurück zum Bauleiter-Container oder ins Hotel, weil er dieses LAN-Kabel nicht dabei hat. Also das hat er mitgenommen und steckt das sowohl in den Switch als auch in die vorhandene, hoffentlich, Schnittstelle an seinem Laptop.
+
+(0:01:54 - 0:02:06)
+Jetzt haben wir erst mal eine physische Verbindung gebaut. Jetzt geht es weiter. Wir wollen ja nicht nur eine physische Verbindung haben, sondern wir wollen jetzt wirklich Zugriff haben über unseren Laptop auf den Switch.
+
+(0:02:06 - 0:02:19)
+Und dafür müssen wir am Laptop erst mal die richtigen Netzwerk-Kenndaten hinterlegen. Das zeige ich jetzt hier mal so von einem Screenshot von unserem Baustellenrechner. Das ist natürlich von Version zu Version unterschiedlich.
+
+(0:02:19 - 0:02:30)
+Aber der Punkt, auf den wir hinauswollen, ist sicherlich immer gleich. Wir gehen also in die Ethernet-Einstellungen. Da zoome ich jetzt auch mal rein und aktivieren ein lokales Netzwerk, also die IPv4.
+
+(0:02:31 - 0:02:35)
+Das machen wir. Man sieht es da auf der linken Seite in blau. Das ist jetzt auf On.
+
+(0:02:36 - 0:02:49)
+Das ist wichtig. Sonst funktioniert die Kommunikation nicht in diesem lokalen Netzwerk. Der zweite Schritt ist, dass wir die IP-Adressen und die Netz-Subnet-Masken richtig einstellen.
+
+(0:02:49 - 0:02:55)
+Achtung, wir sind immer noch beim Laptop. Beim Switch sind wir noch gar nicht. Aber wir müssen wissen, welche Werkseinstellungen der Switch hat.
+
+(0:02:56 - 0:03:07)
+Also jetzt gerade, wenn das mal geändert worden ist, dann muss man das auch wissen. Sonst kommt man da nicht so leicht drauf. Aber wir nehmen das jetzt an, dass der Switch immer noch so ist, wie er vom Hersteller ausgeliefert wurde.
+
+(0:03:07 - 0:03:11)
+Das ist die Adresse. Das ist die Subnet-Maske. Und jetzt geht es um den Laptop.
+
+(0:03:12 - 0:03:18)
+Also der hat schon mal die gleiche Subnet-Maske. Das ist richtig. Und ich habe es grün gehighlighted.
+
+(0:03:18 - 0:03:27)
+Er ist auch in dem gleichen IP-Adress-Bereich, hat aber hinten eine Ziffer unterschiedlich versetzt. Also er ist im gleichen Bereich. Das ist richtig.
+
+(0:03:27 - 0:03:34)
+Und er hat nicht genau die gleiche IP-Adresse. Auch das ist richtig. Ich habe das hier links noch mal grün gemacht.
+
+(0:03:34 - 0:03:44)
+Da würde man das sehen an seinem Laptop. Aber ganz typisches Problem auf so einer Baustelle. Also vor allem, ich erzähle da einfach so, wie mir das jahrelang ging, wenn man das noch nicht so oft gemacht hat.
+
+(0:03:44 - 0:03:57)
+Und es jetzt leider kalt ist und der Projektleiter sagt, warum geht es denn immer noch nicht? Wie lange dauert es denn noch? Dann ist es vielleicht sinnvoll, dass man es jetzt hier mal in Ruhe gehört hat, wie es geht. Also in dem Fall wäre das jetzt top. Habe ich mir angeguckt.
+
+(0:03:57 - 0:03:59)
+Erst mal in Ruhe angeguckt. Alles grün. Daumen hoch.
+
+(0:04:00 - 0:04:08)
+Mein Laptop ist richtig eingestellt. Nächster Schritt. Ich gehe jetzt endlich mal Richtung Switch.
+
+(0:04:08 - 0:04:13)
+Also bei meinem Laptop gebe ich im Browser. Man sieht es oben. Ich zoome es glaube ich auch noch mal raus.
+
+(0:04:13 - 0:04:31)
+Genau die IP-Adresse ein vom Switch. Also diese Werkseinstellung, die wir uns da gemerkt haben. Dann, weil das dann, weil das richtig war, also sowohl mein Laptop als auch der Switch, sehe ich die Bedienoberfläche.
+
+(0:04:32 - 0:04:41)
+Ich habe es unten auch extra reingeschrieben. Wir nehmen hier ein willkürliches Beispiel, einen willkürlichen Hersteller, den wir uns da rausgesucht haben. Den kennen wir halt.
+
+(0:04:41 - 0:04:50)
+Das ist uns schon mal öfter über den Weg gelaufen. Aber uns ist immer wichtig zu sagen, dass das völlig unabhängig ist hier von Herstellern. Wir zeigen es jetzt nur halt an einem Beispiel.
+
+(0:04:51 - 0:05:07)
+Okay, also was sieht man jetzt als erstes den Status? Genau, das ist dann so eine Bedienübersicht, die ich jetzt da als erstes vor mir am Laptop sehen würde. Und dann zoomen wir uns da mal rein, damit man ein bisschen orientieren können. Da würde man jetzt diese ganzen Ports, Entschuldigung, das war zu schnell.
+
+(0:05:07 - 0:05:17)
+Da würde man die ganzen Ports sehen. Also der hat jetzt da zehn Ports. Und dann würde man erkennen, welche sind grün, welche sind gelb, grau und rot.
+
+(0:05:17 - 0:05:29)
+Und dann sieht man schon, das wäre jetzt vielleicht eben genau die Quintessenz, auf die ich hier hinaus will. Also irgendwas funktioniert ja offensichtlich nicht. Vielleicht liegt es ja daran, dass da ein Critical Port unterwegs ist.
+
+(0:05:30 - 0:05:34)
+Okay, weiter geht's. Der Hersteller macht das jetzt so. Deswegen zeigen wir es mal.
+
+(0:05:34 - 0:05:52)
+Man kann dann auf so einen Netzwerkbaum klicken und da würde man jetzt die Teilnehmer sehen, die da jetzt gerade schon mit aktiv sind. Auch das hilft, um Fehler zu finden. Sehr schnell, Fehler müssen ja nicht immer wirkliche Probleme sein, sondern bei der Inbetriebnahme liegt das ja in der Natur der Sache, dass erst mal noch nicht alles richtig läuft.
+
+(0:05:53 - 0:06:01)
+Also kann man sich hier erst mal eine Übersicht holen. Jawohl, der rechts unten, das ist vielleicht mein Laptop. Der rechts oben, das ist vielleicht der Switch in der Übergabestation.
+
+(0:06:01 - 0:06:12)
+Der ist auch schon da. Aber wo sind denn die anderen zwei Trafo-Stationen? So ungefähr könnte man da rangehen. Sich also erst mal einen Status, eine Statusübersicht erarbeiten.
+
+(0:06:13 - 0:06:16)
+Das haben wir jetzt gemacht. Das ist einfach nur die Übersicht. Wir haben verstanden.
+
+(0:06:17 - 0:06:27)
+Wir sind erst mal auf dem Switch. Jetzt konfigurieren wir. Da machen wir nur drei, glaube ich, kleine Schritte von wahrscheinlich Hunderten, die man da im Detail machen kann.
+
+(0:06:27 - 0:06:44)
+Das ist überhaupt nicht unser Ansinnen, euch da jetzt jedes Detail zu zeigen, sondern nur die wirklich wichtigen Schritte. Also als Erstes ist es nun mal so überraschend. Man kann da nicht einfach drauf, kritis, kritis, kritis, sondern jetzt braucht man da einen Benutzernamen und ein Passwort.
+
+(0:06:45 - 0:06:51)
+Das geben wir einfach mal ein. Das ist ja immer unterschiedlich. Man muss es aber wissen.
+
+(0:06:51 - 0:06:55)
+Nächste große Stolperfalle. Jetzt sind wir endlich drin. Jetzt können wir konfigurieren.
+
+(0:06:56 - 0:07:15)
+Und was machen wir da als allererstes? Wir gucken mal, welche IP-Adresse dahinterlegt ist. Wir gucken, welche Subnet-Maske dahinterlegt ist und prüfen erst mal, ob das auch das ist, was wir gerne hätten. Würde sagen, das ist erst mal ein grundsätzlicher erster Schritt bei so einer Inbetriebnahme, dass man das macht, dass man das prüft.
+
+(0:07:15 - 0:07:32)
+Gleichzeitig finde ich, ist das ein sinnvoller Prozess. Nicht einfach gleich losdrücken und gucken, ob es funktioniert, sondern einen Schritt nach dem anderen gehen, überprüfen, ob diese Einstellungen richtig sind. Weil dann hat man ja schon mal einen riesen Fehlerberg ausgeschlossen, wenn offensichtlich diese Einstellungen richtig sind.
+
+(0:07:33 - 0:07:53)
+Also machen wir das. Und jetzt gehen wir in diesen Konfigurationsreiter da oben rein und haben vielleicht festgestellt, dass in unserer IP-Adressliste, das ist ein anderer Brainday, da zeigen wir, wie man so eine Adressliste aufbaut. Aber jetzt haben wir diese Liste und stellen fest, dass das, was hier gerade stand, gar nicht richtig ist.
+
+(0:07:53 - 0:08:05)
+Okay, also gehen wir unter Konfiguration. Da wäre sie, die IP-Adresse und stellen fest. Ja, nee, nee, nee, in der Liste steht eine andere Zahl, und zwar steht in der Liste die 202.
+
+(0:08:06 - 0:08:11)
+Habe ich jetzt also eingetippt. Passt, Daumen nach oben. Die Subnet-Maske, die war richtig.
+
+(0:08:11 - 0:08:30)
+Das ist ehrlich gesagt meistens so, die ändern wir jetzt nicht. Aber die IP-Adresse, die muss man eigentlich immer anpassen, weil man ja nicht die Werkseinstellungen für so ein Projekt so übernehmen kann. Jetzt gucken wir noch mal auf eine weitere Funktion und dann ist, glaube ich, auch schon Schluss und zwar die Ring-Funktion.
+
+(0:08:30 - 0:08:40)
+Das macht aus unserer Sicht sehr viel Sinn. Wir wollen also den Ring aktivieren. Was das genau ist, auch das ist wieder noch mal ein anderer Brainday.
+
+(0:08:40 - 0:08:50)
+Da bauen wir so ein Ring-Konzept für ein LWL-System auf, machen wir jetzt hier nicht. Wir wissen jetzt nur, wir müssen es aktivieren, weil wenn das nicht aktiviert ist, kann es nicht funktionieren. Das würden wir hier finden.
+
+(0:08:50 - 0:08:57)
+Ist jetzt auf Englisch, macht aber nichts. Wir würden also hier einen Haken setzen müssen. Dann geht auch der Daumen hoch, ein Able-State.
+
+(0:08:57 - 0:09:05)
+Und wir müssten RSTP auswählen, was das genau ist. Darum geht es jetzt heute auch nicht. Ich weiß aber, dass das eine Vorgabe ist.
+
+(0:09:05 - 0:09:32)
+Sonst funktioniert also dieses Ring-System nicht. So, das war unsere grobe Einführung in Wie parametriere ich einen Switch? Und ich möchte es gerne noch einmal kurz betonen, weil uns ja wichtig ist, dass wir uns an den Bedürfnissen, sage ich jetzt mal, oder den von uns angenommenen Bedürfnissen der Elektroplaner orientieren. Man kann da natürlich noch viel mehr machen in diesen Werkseinstellungen.
+
+(0:09:32 - 0:09:55)
+Es gibt auch noch viel mehr Komponenten. Aber aus unserer Erfahrung heraus ist es so, dass wenn man das macht und kann, was wir da gerade beschrieben haben, dann ist man ganz weit vorne bei den Inbetriebnahmen, bei den Tests, bei dem Aufsetzen der Netzwerkwelt sozusagen bei den Projekten. Also da muss man ja noch nicht mal im Lead sein sozusagen.
+
+(0:09:55 - 0:10:04)
+Aber wenn man vor Ort mit dabei ist, dann kann man jetzt ja schon richtig mitdenken. Dann kann man kluge Fragen stellen. Dann kann man im Vier-Augen-Prinzip einfach mal mit drauf gucken.
+
+(0:10:04 - 0:10:17)
+So, diesen Fokus, also A, Komponente Switch und B, zwei bis drei vermeintlich einfache, aber absolute rudimentäre Einstellungen. Gucken wir uns jetzt mal im Versuchsstand an. Machen wir gleich.
+
+(0:10:17 - 0:10:28)
+Machen wir gleich einen Moment. Wir machen drei Schritte. Wir gucken uns das an, was wir hier bei uns im Büro aufgebaut haben, damit ihr einen Eindruck habt, wie das eigentlich jetzt hier gleich als Nächstes weitergeht.
+
+(0:10:28 - 0:10:38)
+Dann schließen wir den Laptop an, weil das habe ich ja gerade erklärt, dass das wichtig ist. Und zu guter Letzt gibt es Venti-Fragen. Das ist dann mehr so ein Miteinander.
+
+(0:10:39 - 0:10:46)
+Dann werdet ihr sehen, dass ihr genau das macht, was ich gerade beschrieben habe. Also los geht's. Wir machen mal die Kamera ein.
+
+(0:10:46 - 0:10:53)
+Da ist es. Und das werdet ihr auch gleich sehen, dass das jetzt kein Foto ist, sondern dass das wirklich live ist. Das ist bei uns hier im Büro.
+
+(0:10:53 - 0:11:12)
+Und ich habe mich durchgesetzt, im Team das eine Minute in der Kamera zumindest zu zeigen, weil ich finde, dass wenn man so was nicht so oft sieht, dann ist das enorm hilfreich, um mal so einen Eindruck zu kriegen, wie sowas eigentlich wirklich aussieht. Man sieht gleich die Hand von meinem Kollegen. Dann hat man auch wieder eine Größenordnung.
+
+(0:11:13 - 0:11:24)
+Aber grundsätzlich ist es so, in unserem Versuchsstand sind reale Komponenten verbaut. Also das, was wir jetzt gleich zeigen, Einstellungen verändern. Das machen wir genau hier an diesen Komponenten.
+
+(0:11:25 - 0:11:32)
+Jetzt gucken wir mal kurz, wie so ein Versuchsstand aussieht. Wir haben da oben eine Trafostation 1 hingeschrieben. Das heißt, das wäre da ist auch schon genau die Größenordnung.
+
+(0:11:32 - 0:11:40)
+Vielen Dank. Das wäre jetzt so eine Datenbox ohne Deckel in der Trafostation 1. Da ist ein Datenlogger drin. Da sind die Sicherungen.
+
+(0:11:40 - 0:11:46)
+Da ist ein Netzanalysegerät. Genau. Vielleicht noch mal auf das Netz, auf das Schutzrelais gucken.
+
+(0:11:46 - 0:11:50)
+Entschuldigung. Genau. Da ist ein Schutzrelais mit verbaut und da ist ein Switch verbaut.
+
+(0:11:50 - 0:12:08)
+Genau. Da ist auch ein Switch verbaut. Genau. 
+
+Vielen Dank. Und jetzt geht es von dem Switch per LWL rüber über die Splicebox, die da oben drin ist. Genau. 
+
+Im Hintergrund ist ein LWL verlegt zur Übergabestation. Die ist gefühlt genau 500 Meter entfernt. Bei uns sind es 50 Millimeter.
+
+(0:12:08 - 0:12:17)
+Da kommt dann das LWL Kabel an und geht über die Splicebox da auf den Splicebox. Danke. Geht mit dem Patchkabel auf den Switch.
+
+(0:12:18 - 0:12:25)
+Das ist es. Auf diesen Switch konzentrieren wir uns jetzt. Also ich habe erklärt, wie man einen Switch parametriert.
+
+(0:12:26 - 0:12:39)
+Und jetzt sage ich euch genau, den sollt ihr jetzt parametrieren und zwar in der Übergabestation Switch. Genau. Ich glaube, das reicht erst mal, um einen Eindruck zu kreieren, was jetzt im Hintergrund passiert.
+
+(0:12:40 - 0:12:45)
+Jetzt springen wir auf den... Nee, natürlich nicht. Zweiter Schritt. Entschuldigung.
+
+(0:12:45 - 0:12:57)
+Jetzt kommt der zweite Schritt. Also das ist unser Versuchsaufbau. Und jetzt haben wir ja gesagt, wenn wir jetzt vor Ort sind, brauchen wir als allererstes unseren Baustellen Laptop und ein Patchkabel und stecken das jetzt in den Switch.
+
+(0:12:58 - 0:13:11)
+Das machen wir jetzt. Das war dieser erste Schritt, den ich da sehr ausführlich erklärt hatte. Da ist er. 
+
+Bei uns ist es trocken. In Wirklichkeit ist es jetzt ein bisschen nieselig, aber wir kriegen das trotzdem gut hin. Also das weiße Kabel, das ist jetzt neu, extern.
+
+(0:13:11 - 0:13:19)
+Wir haben uns drauf gesteckt. Jetzt kommt der nächste Schritt. Unser Baustellenrechner muss erst mal eingerichtet werden.
+
+(0:13:19 - 0:13:46)
+Dafür springen wir jetzt wieder in einen anderen Modus. Als Hintergrund bitte einmal den Laptop zeigen. Da ist er auch schon. 
+
+Und Menti. Genau, da können jetzt nämlich eben alle mitmachen und ihr könnt nicht selber den Laptop führen. Aber die Idee ist, dass ihr sozusagen jetzt einfach geistig mitmacht und also tut, als würdet ihr jetzt da stehen und den Laptop einrichten.
+
+(0:13:46 - 0:14:07)
+Und einfach, um ein bisschen wieder in Schwung zu kommen, ist das mal eine Vorabfrage noch, wie ihr das kennt. Ist das schwierig, einen Switch zu parametrieren? Ist das schwierig, einen Datenlocker, ein Netzanalysegerät oder einen Parkregler zu parametrieren? Für all die, die das ehrlich gesagt noch nie gemacht haben, müssen sie jetzt auch nicht unbedingt abdrücken. Aber die, die das irgendwie kennen, können das ja mal so ein bisschen einordnen.
+
+(0:14:08 - 0:14:16)
+Vielleicht eben für die, die es nicht so gut kennen. Man kann da Punkte verteilen. Und ich glaube, wenn es nur einer oder zwei macht, dann ist das vielleicht nicht ganz so sinnhaft.
+
+(0:14:16 - 0:14:24)
+Wir können ja noch warten, bis es fünf oder sechs sind. Und dann geht es mir um die Tendenz. Und dann kann ich fünf, sechs Warns.
+
+(0:14:24 - 0:14:29)
+Also für mich ist es auch so, der Parkregler ist das Schwierigste. Das mache ich nicht. Das machen im Grunde Externe.
+
+(0:14:30 - 0:14:38)
+Datenlocker kann ich, Netzanalysegerät kann ich. Und jetzt kommt zu meiner Überraschung, dass der Switch das einfachste ist. Okay, wir machen es sozusagen trotzdem.
+
+(0:14:38 - 0:14:46)
+Ich hatte gehofft, dass der eher so in der Mitte landet. Wir machen es jetzt trotzdem. Wir parametrieren das einfachste Bauteil, das man in so einer Datenbox finden kann.
+
+(0:14:48 - 0:14:55)
+Nächste Slide bitte. Wir parametrieren den Switch. Nächste Seite.
+
+(0:14:57 - 0:15:06)
+Jetzt müsst ihr auf die IP-Adressen gucken. Also die IP-Adresse muss geändert werden. Und ich sage euch, es gibt die Werkseinstellung und hier gibt es ein Soll.
+
+(0:15:06 - 0:15:16)
+Vielleicht macht ihr euch ein Screenshot, schreibt euch schnell das auf den Zettel, dass ihr euch das ein bisschen merken könnt. Also Soll, das muss in den Switch. Das ist das Ziel eurer Aufgabe.
+
+(0:15:17 - 0:15:22)
+Nächste Seite bitte. Wir verbinden den Switch mit dem Laptop. Das haben wir schon gemacht.
+
+(0:15:22 - 0:15:31)
+Und jetzt frage ich euch, welche IP-Adresse müssen wir denn einstellen? Da steht es auch noch mal. Die Soll-Adresse steht da jetzt. Es geht vor allem um die Subnet-Maske.
+
+(0:15:32 - 0:15:38)
+Die muss gleich sein und der IP-Bereich muss gleich sein. Es darf aber nicht die gleiche IP sein. Merkt euch, Screenshot, weiter geht's.
+
+(0:15:38 - 0:15:49)
+Das ist aber jetzt die Frage, die ich an euch stelle. Welche IP-Adresse sollen wir einstellen? Man sieht es ja schon im Hintergrund. Vielleicht geht der Kollege schon mal drauf auf die IP-Adresse.
+
+(0:15:50 - 0:15:52)
+Bearbeiten. Genau. Also genau das sollt ihr jetzt machen.
+
+(0:15:53 - 0:16:07)
+Was soll ich da eintippen? Genau. Genau da. Was soll da rein? Also ich nehme an, dass es nicht ganz so einfach ist, weil jetzt ihr die Liste nicht mehr hattet.
+
+(0:16:07 - 0:16:17)
+Aber vom Prinzip ist es so, Achtung, die 0.250 ist es auf keinen Fall, weil die 0 ist ein anderer Bereich. Das würde schon mal gar nicht funktionieren. Die 1.254 ging auch nicht.
+
+(0:16:17 - 0:16:22)
+Das weiß ich jetzt auswendig, weil das ist die, die im Switch ist. Das wäre genau die gleiche gewesen. Dann geht es auch nicht mehr.
+
+(0:16:23 - 0:16:29)
+Also die 1.250 bitte einmal eintippen. Subnet-Maske. Ja, ja, genau.
+
+(0:16:29 - 0:16:40)
+Danach haben wir nicht gefragt, aber die IP-Adresse muss da unten dann wohl rein. Und los. So, dann in Menti bitte nächster Block.
+
+(0:16:41 - 0:16:57)
+Wir rufen die IP-Adresse des Switches im Browser auf. Das machen wir wieder im Hintergrund. Genau. 
+
+Und hoffen und hoffen. Ja, das ist super. Alles klar.
+
+(0:16:58 - 0:17:11)
+In Menti nehme ich an die nächste Frage. Super, das hat doch jetzt schon mal funktioniert. Erster Schritt erfolgreich. 
+
+Wir sind auf dem Switch. Wir zeigen euch den Port-Zustand und die Baumstruktur unseres Netzwerks mit den vier Teilnehmern. Man sieht hier mal die vier Teilnehmer.
+
+(0:17:12 - 0:17:20)
+Also im Port 1 steckt die PVA-Gateway. Nee, ich brauche das Menti, sonst kann ich es nicht. Port 2 ist das Netzanalysegerät.
+
+(0:17:20 - 0:17:27)
+Also ihr seht im Hintergrund real jetzt unseren Switch. Ihr werdet auch gleich sehen, dass sich das ändert. Also auf der 2 ist das Netzanalysegerät.
+
+(0:17:27 - 0:17:32)
+Die 5 ist der Laptop und die 7 ist das Schutzrelais. Alle grün. Das ist ja mal eine gute Nachricht.
+
+(0:17:32 - 0:17:42)
+Jetzt klicken wir kurz auf die Baumstruktur einfach, weil dann haben wir es auch nochmal gezeigt, dass wir da live sind. Und da sieht man genau diese Teilnehmer. Alles im grünen Bereich.
+
+(0:17:43 - 0:17:51)
+Nächste Menti-Frage bitte. Wir ändern die IP-Adresse am Switch. Welche IP-Adresse sollen wir einstellen? Also das ist ja jetzt die Aufgabe.
+
+(0:17:52 - 0:17:58)
+Wir gehen da erst mal wieder raus. Hier steht es. Merkt euch das. 
+
+Screenshot. Genau. Du gehst auch schon mal rein.
+
+(0:17:58 - 0:18:06)
+Und wir machen mit Menti die nächste Frage. Auf geht's. Sagt uns, was wir einstellen sollen.
+
+(0:18:07 - 0:18:25)
+So genau. Wir sind im Admin-Bereich. Wir gehen mal da auf die Konfiguration. 
+
+Genau. Welche der drei sollen wir einstellen? Richtig gemerkt. Guter Screenshot gemacht.
+
+(0:18:25 - 0:18:28)
+Auf geht's. Machen wir. Bitte gleich mal eintippen.
+
+(0:18:28 - 0:18:34)
+Die... Uh, jetzt weiß ich es nicht mehr, aber du weißt es auswendig. Ich glaube, das war die 11. Alles klar.
+
+(0:18:35 - 0:18:41)
+So geht das. Submit ist wichtig, damit er das speichert. Und jetzt haben wir die IP-Adresse geändert.
+
+(0:18:41 - 0:18:49)
+Und zack ist er wahrscheinlich in der Leitwarte schon im System. Nächste... Nee, nicht nächste Menti-Frage. Wir sind schon in der nächsten Menti-Frage.
+
+(0:18:49 - 0:18:58)
+Wir prüfen die Ring-Funktion, also ob sie richtig aktiviert ist. Der Test selbst, den machen wir jetzt hier nicht, weil wir nur zwei Switcher haben. Wir bräuchten drei.
+
+(0:18:59 - 0:19:04)
+Dann könnte man den Ring aufbauen und testen. Aber wir gehen noch mal rein. Das geht.
+
+(0:19:04 - 0:19:10)
+Ich denke, Menti schon. Nächste Frage, denke ich mal. Geh mal weiter, wir riskieren das mal.
+
+(0:19:12 - 0:19:18)
+Hm, das weiß ich nicht auswendig. Ja, geh mal auf die Frage. Wir testen mal die Frage.
+
+(0:19:21 - 0:19:26)
+Ist die Ring-Funktion schon aktiviert? Also alles richtig gemacht. Ihr seht es jetzt im Hintergrund. Das ist unser Switch.
+
+(0:19:26 - 0:19:41)
+Haben wir die Ring-Funktion bereits aktiviert? Nein, haben wir nicht. Enable State fehlt. Deswegen hat unser Ring nicht funktioniert.
+
+(0:19:41 - 0:19:49)
+Jetzt müssen extra die den Betriebnehmern noch mal hinfahren, noch mal alle Stationen ablaufen. RSTP stellen wir ein. Genau, das war richtig.
+
+(0:19:50 - 0:19:56)
+Und auf geht's. Also ich glaube, ich versuche ein bisschen die Motivation auch dafür zu treiben. Man hat jetzt einen Haken vergessen.
+
+(0:19:57 - 0:20:04)
+Wenn das Ding schon im Netzwerk ist, kann man das auch von außen noch mal machen. Aber wenn die noch nicht im Netzwerk sind, muss man jetzt noch mal alle Stationen ablaufen. Unangenehm.
+
+(0:20:05 - 0:20:25)
+So, dafür gehen wir, glaube ich, zurück in die Übersicht und zeigen noch mal, was man da jetzt Schönes machen kann und demonstrieren noch mal, dass wir auch wirklich live mit unserem Versuchsstand sind. Alles gut, alles gut. Wir sehen die vier aktiven Ports und meine Frage an euch ist jetzt bitte aufpunkt.
+
+(0:20:25 - 0:20:33)
+Achtung, aufpassen. Auf welchem Port ist unser Netzanalysegerät? Dazu ziehen wir es raus. Das brauchen wir, glaube ich, jetzt nicht live zeigen.
+
+(0:20:34 - 0:20:39)
+Wir versprechen euch, dass das der Kollege hier gerade macht. Er zieht das einfach mal raus. Netzanalysegerät hat er rausgezogen.
+
+(0:20:40 - 0:20:49)
+Ich hoffe, ja, es hat sich was verändert. Jetzt in Menti bitte die nächste Frage und los geht's. So kann man das machen.
+
+(0:20:50 - 0:21:13)
+So kann man sich rantasten an Fehlerquellen. Welcher Teilnehmer funktioniert jetzt nicht richtig? Also wir haben das Netzanalysegerät rausgezogen. Auf welchem Port ist er? Gut, super.
+
+(0:21:14 - 0:21:20)
+Port 2 ist nicht schwierig. Ich sage nur dazu, vor Ort ist es schwierig. Man muss sich da reindenken, man muss die Pläne lesen.
+
+(0:21:21 - 0:21:24)
+Aber so kann man sich rantasten an mögliche Fehler.

@@ -1,0 +1,134 @@
+(0:00:00 - 0:00:13)
+Herzlich willkommen zurück. Wir machen weiter mit unserem nächsten Thema, das sind die elektrischen Kenndaten. Elektrische Kenndaten, Transformator, darum geht es erstmal.
+
+(0:00:14 - 0:00:24)
+Wir wollen euch jetzt erklären, was es da so für Daten gibt. Schaltgruppe ist aus unserer Sicht erstmal ein ganz wichtiges Thema. Wird häufig erwähnt, jeder Trafo hat eine Schaltgruppe.
+
+(0:00:25 - 0:00:38)
+Aktuell ändern sich die Schaltgruppen auch ein bisschen Richtung isolierte Netze. Kann man vielleicht nachher ein bisschen besser verstehen, wenn man hier durch ist, warum das so ist. Was das alles bedeutet, was wir da immer so angeben.
+
+(0:00:38 - 0:00:48)
+Also es geht um die Verschaltung der Wicklung. Die Wicklung im Trafo kann man eben im Dreieck wickeln. Das hatten wir ja vorhin auch schon mal gezeigt.
+
+(0:00:48 - 0:00:57)
+Und man kann sie im Stern wickeln. Hier sehen wir das Dreieck, so zeigen wir das hier nochmal. Sieht jetzt ehrlich gesagt nicht ganz aus wie ein Dreieck.
+
+(0:00:57 - 0:01:09)
+Man müsste sich jetzt die einzelnen Spulen so ein bisschen hindrehen und dann ist es ein Dreieck. Ja, hokus pokus. Klasse, so kann man sich das jetzt vielleicht ein bisschen besser vorstellen.
+
+(0:01:09 - 0:01:25)
+Der Stern dagegen ist natürlich leichter sich erstmal dann irgendwie visuell vorzustellen, wie das aussieht. Hier haben wir es auch nochmal mit blauen Linien gemacht. Alle Leitungen treffen sich in einem Sternpunkt am Ende und dadurch ergibt es eben einen Stern.
+
+(0:01:25 - 0:01:34)
+Das ist der Unterschied zu diesem Dreieck. So, der Sternpunkt, mit dem kann man dann natürlich was machen. Man kann ihn herausführen.
+
+(0:01:34 - 0:01:47)
+Das allerdings funktioniert jetzt so ohne weiteres nur bei dieser Sternwicklung. Das ist, wie ich finde, eigentlich erstmal der wesentliche Unterschied. Bei einer Sternwicklung kann man den Sternpunkt herausführen.
+
+(0:01:47 - 0:02:06)
+Man muss es nicht. Wenn wir jetzt hier ein N in unserer Transformatorbezeichnung sehen, dann ist der Sternpunkt herausgeführt. Das ist erstmal der erste Schritt, aber bedeutet trotzdem noch gar nicht so viel, weil mit dem Sternpunkt könnt ihr jetzt machen, vielleicht was ihr wollt, sag ich mal.
+
+(0:02:06 - 0:02:14)
+Also, ihr könnt ihn erstmal starr erden. So ist das dann bei unseren Transformatoren im Solarpark häufig. Ihr könnt ihn aber auch isoliert lassen.
+
+(0:02:14 - 0:02:22)
+Ihr könnt ihn kompensieren oder ihr könnt ihn niederohmig erden. Das hatten wir vorhin im Umspannwerk gesehen. Ist nochmal ein ganz anderes Thema.
+
+(0:02:22 - 0:02:32)
+Da kann man nochmal ganz viel zu erklären, erzählen. Aber für heute ist N herausgeführt. Ihr könnt den Sternpunkt behandeln, sagen wir es mal so.
+
+(0:02:34 - 0:02:51)
+Hier zeigen wir es mal. Das ist eben der Sternpunkt herausgeführt. Und auf dem Trafo würde man das dann daran erkennen, dass man eben nicht nur drei Anschlüsse hat für die drei Phasen, sondern eben noch den vierten, um dann eben den Sternpunkt des Trafos irgendwo anzuschließen oder eben isoliert zu lassen.
+
+(0:02:54 - 0:03:18)
+Dann geht es weiter mit dem Phasenwinkel. Ganz wichtig, es gibt bei den meisten oder bei allen Trafos gibt es dann immer noch eine Zahl in der Bezeichnung, zum Beispiel eine 5. Und diese 5 bedeutet, dass der Phasenwinkel zwischen der Oberspannungsseite und der Unterspannungsseite 5 mal 30 Grad verschoben ist. Also 150 Grad wäre das in dem Fall.
+
+(0:03:18 - 0:03:51)
+Bei unseren Solarparks, Windparks spielt das jetzt erstmal gar keine große Rolle, weil all unsere Transformatoren nicht parallel betrieben werden. Wenn man jetzt in einem Industriebetrieb wäre und die haben parallel betriebene Transformatoren, dann ist es natürlich unheimlich wichtig, dass die Mittelspannung und die Niederspannung exakt gleiche Phasenlage haben. Also wenn man da auf der Niederspannung dann an einem Trafo 150 Grad Verschiebung hat und auf dem anderen zum Beispiel nur 90, dann würde das nicht funktionieren.
+
+(0:03:51 - 0:04:14)
+Dann hätte man eben unterschiedliche Phasenlagen, unterschiedliche Spannungen und das wäre dann wahrscheinlich so eine Art Kurzschluss, den man da bauen würde. Dann gibt es eben noch die Spannungsseite, die in unserer Transformatorbezeichnung auch noch auftaucht. Und zwar funktioniert das so, dass man die Unterspannungsseite mit kleinen Buchstaben beschreibt und die Oberspannungsseite mit großen Buchstaben.
+
+(0:04:14 - 0:04:56)
+Und wenn man sich jetzt diese Dinge, die wir hier erklärt haben, einmal zusammenführt, dann hätten wir zum Beispiel eine Trafobezeichnung von Oberspannungsseite im Dreieck gewickelt, die Niederspannungsseite im Stern gewickelt, den Sternpunkt haben wir dann herausgeführt und dann haben wir noch eine 5 beispielsweise, das würde dann bedeuten, dass wir die Niederspannungsseite 150 Grad zur Oberspannungsseite drehen. Und das ist dann hier so ein klassischer Transformator, den man in den letzten Jahren ganz häufig in den Solarparks gesehen hat. Wenn man jetzt ein isoliertes Netz aufbaut, wäre dieser Transformator auch nicht der falsche.
+
+(0:04:56 - 0:05:14)
+Man würde dann nur dieses N, den herausgeführten Sternpunkt, einfach nicht anschließen. Das haben wir bei einem Projekt auch schon so gemacht, das funktioniert natürlich. Dann würde man vielleicht noch eine kleine Kappe über den N machen, dann wäre der Sternpunkt isoliert und man könnte hier eben auch ein isoliertes Netz mit so einem Trafo aufbauen.
+
+(0:05:15 - 0:05:28)
+Üblicherweise wäre es aber ein geerdetes Netz. So, von der Schaltgruppe kommen wir jetzt zu den Verlusten. Ja, und jetzt wird es hier hoch elektrotechnisch.
+
+(0:05:29 - 0:05:43)
+Wir schauen uns mal den Transformator an. Wir haben euch hier wieder nur die Wicklung gezeigt, das ganze Drumherum, das Öl, das Gehäuse. Das haben wir hier rausgenommen und wir haben euch hier das Ersatzschaltbild eines Transformators gezeigt.
+
+(0:05:43 - 0:06:00)
+Das habe ich in der Uni mal gelernt, wie das funktioniert, ist aber hier, wie ich finde, für diese Anwendung schon sehr interessant, was man hier eigentlich macht, was diese Verluste eigentlich bedeuten. Wir würden jetzt mal an so einen Transformator den Wechselrichter anschließen. Da haben wir U2 und I2.
+
+(0:06:00 - 0:06:27)
+Das ist im Ersatzschaltbild der linke Teil. Das wäre die Unterspannungsseite des Trafos und wir haben die Oberspannungsseite des Trafos. Das ist dann der grüne Teil und in der Mitte, dieser weiße Teil, das ist dann die Induktion, die da im Transformator, der magnetische Fluss, die Ummagnetisierung im Trafo, die da passiert.
+
+(0:06:29 - 0:06:41)
+Und jetzt wollen wir uns die Leerlaufverluste anschauen. Leerlaufverluste haben wir, haben alle schon mal gehört, denke ich. Die kann man dann natürlich auch verwenden bei Ertragsberechnungen und so weiter, kommt auch später noch der Punkt klar.
+
+(0:06:41 - 0:07:04)
+Aber für mich sind Leerlaufverluste immer, wenn wir irgendwelche Netzteile, Transformatoren ans Netz anschließen und die eigentlich gar nicht gebrauchen. Wir würden jetzt mal hier die Prüfung, wie man die Leerlaufverluste ermittelt, trotzdem noch mal ein bisschen, vielleicht bildlicher, ein bisschen besser darstellen, damit das für alle klar ist. Also was wir jetzt erst mal machen, die Voraussetzung, die sekundäre Seite ist offen.
+
+(0:07:04 - 0:07:44)
+Das kann man jetzt machen, indem man den Wechselrichter vom Transformator abklemmt oder man könnte den Leistungsschalter öffnen auf der Niederspannungsseite und schon haben wir eben keine Einspeisung mehr, keine Last mehr auf dem Trafo. Der Trafo befindet sich im Leerlauf. Im Ersatzschaltbild würde es dann, genau, wir würden jetzt im Ersatzschaltbild, das ist jetzt ein bisschen schnell gegangen, gehe ich noch mal zurück, im Ersatzschaltbild eben die sekundäre Seite, weil da fließt jetzt kein Strom, könnten wir jetzt im Ersatzschaltbild vernachlässigen.
+
+(0:07:45 - 0:08:26)
+Ja, Leerlauf, kein Strom auf der Unterspannungsseite, deshalb entfernen wir das jetzt auch aus dem Ersatzschaltbild. So, was wir jetzt machen ist, wir erhöhen die Spannung U1 bis Nenn anliegt, also bis Nennspannung anliegt, man kann auch einfach die Nennspannung anlegen und dann fängt der Trafo an zu brummen, wir sehen das hier, der magnetisiert sich, Spannung liegt an, es fließt ein kleiner Strom und ihr hört an so einem großen Transformator, dass er brummt einfach, auch nachts brummt der, weil er wird ständig ummagnetisiert und das hat dann eben auch einen Effekt. Ja, hier sehen wir noch mal diese Magnetisierung des Eisenkerns, das passiert dauerhaft, das hat man Tag und Nacht im Betrieb und im Leerlauf eben.
+
+(0:08:27 - 0:09:23)
+Und was wir jetzt machen würden ist, wir messen I1 und I1 ist genauso groß wie eben dieses I0, was für diese Magnetisierung sorgt im Transformator und aus diesem I0 kann man dann das P0 ermitteln und das ist eben dann I1 mal U1, für uns ist das jetzt ein P0, natürlich hat das nicht nur Wirkanteile, sondern ihr seht das ja oben, das hat auch Blindanteile, aber für uns wichtig ist heute erstmal nur das P0 und natürlich kann man hier auch die Blindanteile messen und ermitteln, aber das ist jetzt an dieser Stelle nicht so entscheidend für uns, weil wir würden diese Leerlaufverluste in erster Linie mal verwenden, um in unserer Ertragsberechnung zu sehen, wie effektiv ist mein Transformator, wie groß sind die Verluste und so kann man damit arbeiten. Das ist der Leerlauf eines Trafos. So, dann gehen wir weiter.
+
+(0:09:23 - 0:09:43)
+Leerlaufverluste ist das eine, das andere sind die Kurzschlussverluste. Auch sehr interessant, auch ein Thema, was wahrscheinlich jeder Elektroingenieur mal in der Universität bearbeitet hat. Was macht man jetzt hier? Der Wechselrichter bleibt erstmal abgeklemmt, das ist schon mal gut und wir würden jetzt die sekundäre Seite des Transformators kurz schließen.
+
+(0:09:43 - 0:10:01)
+Das ist natürlich etwas, was man im praktischen Betrieb oder im normalen Betrieb nie, nie, nie machen würde, auf gar keinen Fall, aber jetzt für diesen Laborversuch machen wir das mal. Wir wollen die Kurzschlussverluste ermitteln und schließen die Niederspannungsseite des Trafos kurz. Das ist jetzt erledigt, ihr habt das gesehen, hat sich da eingeblendet.
+
+(0:10:01 - 0:10:22)
+Wir haben eine Kurzschlussbrücke an den Trafo gezeichnet. Und im Ersatzschaltbild seht ihr das auch ganz hinten, ganz da bei U2 und I2, ist jetzt eben die orangene Kurzschlussbrücke eingezeichnet. Und das hat zur Folge, dass man jetzt die Magnetisierungsverluste im Trafo im Grunde genommen vernachlässigen kann.
+
+(0:10:23 - 0:11:02)
+Weil dieser Kurzschluss hinten, der überbrückt natürlich dann auch knallhart diese Magnetisierungsverluste, die sind natürlich noch da, aber sind jetzt für diesen Versuch dann erstmal zu vernachlässigen. Was jetzt passiert ist, es fließt ein Strom natürlich durch den Transformator, wir erhöhen jetzt die Primärspannung und zwar so lange, bis wir an dieser Kurzschlussbrücke den Nennstrom messen. Also wir erhöhen auf gar keinen Fall schnell die Primärspannung, weil wir haben ja einen Kurzschluss auf der anderen Seite.
+
+(0:11:03 - 0:11:39)
+Und wenn wir das jetzt aber ganz langsam machen, dann werden wir feststellen, dass wir bei einer Spannung von 4, 6, 8 Prozent, bei größeren Trafos vielleicht 12, 14, 16 Prozent, dass wir dann irgendwann auf der Sekunderseite eben einen Nennstrom messen können. Und dann haben wir erstmal unsere Kurzschlussspannung ermittelt. Wir legen jetzt die Spannung an, es geht los, zack, und der Transformator magnetisiert sich und dann haben wir jetzt auf der Sekunderseite eben einen Strom, I2, und der muss gleich dem Nennstrom des Transformators sein.
+
+(0:11:41 - 0:12:06)
+Und was wir jetzt hier messen, ist eben das UK auf der Primärseite. Sagen wir mal, wir haben jetzt hier ein 1.000 Volt Trafo und dann erhöhen wir jetzt auf der Primärseite die Spannung von 0 hoch bis zum Beispiel 60 Volt, 80 Volt. Dann wären das im Grunde genommen 6, 8 Prozent Kurzschlussspannung, beziehungsweise in absoluten Werten eben 60, 80 Volt.
+
+(0:12:06 - 0:12:20)
+Und die würden eben ausreichen, um dann auf der Sekunderseite diesen Nennstrom zu erzeugen. Aus diesem UK, aus dem absoluten UK, kann man jetzt über den Nennstrom das PK ermitteln. Jetzt haben wir diesen Wert ja auch.
+
+(0:12:20 - 0:12:36)
+Auch hier gilt natürlich, das ist nicht nur reine Wirkleistung, sondern auch viele, viele Blindanteile. Wichtig für uns eben jetzt, dass die Wirkleistung, weil auch die verwenden wir in unseren Ertragsberechnungen. Das war jetzt erstmal ein tiefer Einstieg in die Elektrotechnik.
+
+(0:12:37 - 0:13:02)
+Wir gehen weiter, haben die Verluste erstmal rein technisch erklärt. In der Anwendung ist das für uns meistens dann doch gar nicht so super wichtig, weil erstmal sorgt eine europäische Richtlinie für eben diese Tier 2 klassifizierten TRAFOs. Und die erfüllen dann eben erstmal sehr hohe Verlustanforderungen.
+
+(0:13:02 - 0:13:20)
+Und die Norm, die dahinter steckt, ist dann eben diese Ökodesignverordnung. Also alle Transformatoren, die heutzutage eingesetzt werden, erfüllen diese Klasse Tier 2. Das müssen sie, sonst dürfte sie nicht in Betrieb nehmen. Und dadurch sind erstmal die Verluste von so einem Transformator relativ klar definiert.
+
+(0:13:20 - 0:13:27)
+Ihr könnt nur besser werden. Und dann haben wir hier nochmal das Verlustdiagramm. Leerlaufverluste, die sind immer da.
+
+(0:13:28 - 0:13:36)
+Kurzschlussverluste, die steigen mit der Belastung des TRAFOs. Und daraus resultieren dann Gesamtverluste bzw. ein Transformatorwirkungsgrad.
+
+(0:13:40 - 0:13:55)
+So, zum Schluss, last but not least, hier die Kurzschlussspannung. Wir haben sie ja eben schon gemessen. Das ist also im Grunde genommen der Wert, der PK-Wert, den man jetzt auch noch für andere Themen nutzen kann.
+
+(0:13:56 - 0:14:14)
+Und zwar ist das UK, wenn das jetzt größer wird, haben wir natürlich auch ein größeres X, einen größeren Blindleistungswiderstand. Und daraus resultiert in der Netzberechnung ein größerer Blindleistungsbedarf der Transformatoren. Das muss man vielleicht nochmal ein bisschen greifen.
+
+(0:14:15 - 0:14:41)
+Also, wenn ihr ein kleines UK habt, dann habt ihr aus Sicht der Blindleistungsbereitstellung der Wechselrichter erstmal einen gewissen Vorteil. Weil diese TRAFOs, die benötigen oder die muss man nicht so stark kompensieren aus Blindleistungssicht. Wenn dieses UK jetzt größer wird, und das sehen wir ganz häufig bei 110 kV TRAFOs, da haben wir dann UK von 16, 18 %, dann müsst ihr da sehr, sehr viel Blindleistung kompensieren.
+
+(0:14:42 - 0:15:16)
+Und das wirkt sich dann häufig dahin aus, dass ihr eine Wirkleistungsreduzierung von euren Wechselrichtern oder bei euren Wechselrichtern habt, damit ihr eben die Blindleistung in ausreichendem Maße nach der 4120 bereitstellen könnt. Das ist ein Nachteil natürlich, aber alles was Nachteile hat, hat häufig auch Vorteile. Dieses große UK sorgt aber auch dafür, dass ihr beispielsweise jetzt bei 110 kV TRAFOs, dass ihr dann auf der Mittelspannungseite die Kurzschlussströme besser in den Griff bekommt.
+
+(0:15:16 - 0:15:36)
+Weil dieses UK, diese Induktivität, die dämpft Kurzschlussströme und dadurch ist das in der Mittelspannung dann besser händelbar. Wenn das nicht so wäre, bräuchtet ihr wahrscheinlich immer sehr, sehr große Schaltanlagen in allen Stationen. Und das wird eben hier durch dieses UK ein bisschen, kann man das ein bisschen besser in den Griff bekommen.

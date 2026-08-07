@@ -1,0 +1,149 @@
+(0:00:00 - 0:00:09)
+Wir gehen ins nächste Kapitel, das Thema Schutzkonzept. Da gehen wir jetzt noch durch und danach gibt es die Pause. Also Schutzkonzept, damit legen wir mal los.
+
+(0:00:09 - 0:00:25)
+Wir unterteilen euch das jetzt, wir zeigen euch das jetzt in drei verschiedenen Perspektiven, würde ich sagen. Es gibt eine elektrische Position, es gibt dann eine räumliche Position und es gibt am Ende auch noch einmal Einstellwerte. Das sind im Grunde genommen die drei Faktoren, die wir euch jetzt hier zeigen wollen.
+
+(0:00:25 - 0:00:32)
+Wir starten mal mit der elektrischen Position. Da haben wir jetzt hier erst mal unser Schutzkonzept, so würde ich sagen. Sieht erst mal ein bisschen wild aus.
+
+(0:00:33 - 0:00:47)
+Alles, was UMZ-Kurzschluss ist, nehmen wir mal raus und dann bleiben ja nur noch diese drei blauen Bubbles. Und das sind eben unsere Schutzfunktionen, die wir eben schon mal besprochen haben. Ja, wir schieben das ein bisschen zur Seite, dass wir ein bisschen Platz haben.
+
+(0:00:49 - 0:01:05)
+Und Spannung mindestens 95 Prozent unennen, genau, Frequenz 49,9 und 50,1 Hertz. Das ist ja noch die Wiederzuschaltung, glaube ich. Hier haben wir jetzt den Mittelspannungsschutz als erstes, den wir uns anschauen.
+
+(0:01:05 - 0:01:22)
+Und der misst eben auf der Mittelspannung, so wie es hier dargestellt ist. Und der führt zu einer Auslösung des Mittelspannungsleistungsschalters. So, dann gucken wir uns als nächstes nochmal an den Niederspannungsschutz, und zwar den zwischengelagerten Schutz, der ist dann hier dargestellt.
+
+(0:01:23 - 0:01:36)
+Und der misst eben auf der Niederspannungsseite, mal mit Spannungswandlern, mal ohne, je nachdem welches Spannungslevel ihr habt. Und der löst dann eben auch die Niederspannung aus. So wäre das im Schutzkonzept definiert.
+
+(0:01:37 - 0:01:51)
+Und zum Schluss dann noch den dritten NA-Schutz am Wechselrichter. Hier haben wir jetzt geschrieben deaktiviert. Er lässt sich ja in der Regel nicht deaktivieren im Wechselrichter, aber eben dann auf so hohe Werte einstellen, dass er faktisch deaktiviert ist.
+
+(0:01:51 - 0:02:01)
+Er misst am Wechselrichter und er löst am Wechselrichter aus. Und das sind diese drei Punkte, die wir erstmal haben. Das sind die elektrischen Positionen.
+
+(0:02:01 - 0:02:11)
+So könnte man das in einem vereinfachten Single-Line-Diagramm darstellen. Wir bauen das einmal schnell um, weil wir haben ja noch Dachanlagen. Da sieht das nämlich nicht ganz so aus wie hier bei so einer schönen Freifläche.
+
+(0:02:11 - 0:02:21)
+Nicht ganz so einfach strukturiert, sondern ein bisschen anders. So, wir haben eine Übergabestation und haben da jetzt schon mal einen Transformator reingemacht. Der übergeordnete NA-Schutz bleibt da, wo er ist.
+
+(0:02:21 - 0:02:32)
+Wir müssen dann aber in dem Gebäude erstmal eine Niederspannungs-Hauptverteilung mit berücksichtigen, weil die habt ihr ja meistens. Vom Trafo geht es erstmal auf eine Niederspannungs-Hauptverteilung. Da sind dann ein paar Abgänge gezeichnet.
+
+(0:02:32 - 0:02:43)
+Da werden dann Verbraucher angeschlossen, was auch immer. Und euer PV-Schrank kann da eben auch angeschlossen werden. PV-Schrank und der hat dann da einen Leistungsschalter.
+
+(0:02:43 - 0:03:08)
+Und Achtung, das ist ein zweiter Leistungsschalter. Das ist dann immer so gebaut, redundant, weil der übergeordnete NA-Schutz auf der Mittelspannung ja messen soll, hatten wir schon ein paar Mal gesagt, aber eben auslösen soll an dem PV-Schrank. Wir wollen eben bei einem Spannungsfehler im Netz nicht die ganze Halle abschalten, weil die Halle muss ja produzieren und die soll produzieren, sondern wir wollen dann nur die PV-Anlage abschalten.
+
+(0:03:09 - 0:03:27)
+Das ist dann immer so ein bisschen die schwierige Aufgabe, die wir gleich in Bildern vielleicht nochmal ein bisschen besser darstellen können. Was dann die Herausforderung im Grunde genommen ist. So, weil jetzt kommt dann die räumliche Position und das ist ja erst mal in so einer Freiflächenanlage vielleicht nicht so kritisch.
+
+(0:03:27 - 0:03:39)
+Ihr seht eine Übergabestation haben wir da links in der Ecke auf dem Bild eingezeichnet. Die sieht dann ungefähr so aus wie dieser kleine graue Kasten, der da steht. Ganz klein, kompakt, ungefähr so im Bild.
+
+(0:03:39 - 0:03:59)
+Und da haben wir dann das Schutzrelais drin, diesen übergeordneten NA-Schutz. So kann der aussehen und der sorgt dann eben für Spannungsfrequenzschutz, vielleicht auch für QU-Schutz und meistens auch noch für den UMZ-Schutz. Es ist ein deutlich aufwendigeres Relais, weil es misst Strom und Spannung, weil es hat noch viele Eingänge und Ausgänge.
+
+(0:04:00 - 0:04:14)
+Und deshalb ist das eben so groß im Verhältnis zu dem zwischengelagerten Schutz. So, dann kommt das nächste, der NA-Schutz zwischengelagert. Der sitzt jetzt in den TRAFO-Stationen.
+
+(0:04:14 - 0:04:22)
+Wir haben im Bild schon die erste TRAFO-Station markiert. So kann die aussehen aus dem Luftbild. Wenn man dann davor steht, sieht sie so aus.
+
+(0:04:22 - 0:04:34)
+Da gibt es viele verschiedene Hersteller und Typen. Das ist hier so eine TRAFO-Station. Wenn wir jetzt die Tür aufmachen, findet man da irgendwo einen kleinen Schutzschrank und dann da eben einen zwischengelagerten NA-Schutz.
+
+(0:04:34 - 0:04:44)
+Da oben sitzt einer von den beiden Herstellern, die ich sehr, sehr häufig sehe. So sieht er aus und so ist das dann umgesetzt mit einer kleinen USV und so weiter. Die Prüfkleinmeistung sieht man auch.
+
+(0:04:46 - 0:05:06)
+So, und dann hat man hier drei TRAFO-Stationen auf dieser relativ großen Fläche. Das heißt, man hätte dreimal diesen zwischengelagerten NA-Schutz und ganz zum Schluss eben den Wechselrichter, den NA-Schutz im Wechselrichter, der ja faktisch deaktiviert ist. Also er ist zwar noch da, aber sehr unsensibel eingestellt.
+
+(0:05:07 - 0:05:31)
+Und damit man das hier nochmal, hier sieht man es vielleicht so ein ganz kleines bisschen, da sind Wechselrichter unter so einem Tisch, da ist er ein bisschen besser dargestellt. Und das ist dann ja nicht nur der eine Wechselrichter, sondern das sieht dann eher irgendwie so aus. Wahrscheinlich sind es noch viel, viel mehr Wechselrichter und deshalb will man die nicht alle prüfen und nicht überall Prüfkleinmeisten anbringen, sondern man macht das dann eben zentral am zwischengelagerten NA-Schutz.
+
+(0:05:35 - 0:05:52)
+So, Dachanlage, auch hier gucken wir uns nochmal an, wie das dann ausschaut. Also wir haben es nochmal hier gerade geschoben, wie vorhin. Und in der räumlichen Darstellung haben wir jetzt hier eine schöne große Dachanlage und wir haben eine Übergabestation, so wie wir es im Schema im Grunde dargestellt haben.
+
+(0:05:52 - 0:06:15)
+Eine NSHV, PVHV und Wechselrichter. Zuerst gucken wir mal in die Übergabestation, weil da ist der übergeordnete Entkopplungsschutz. Und die Schwierigkeit, die ich ja eben schon angedeutet habe, ist, jetzt müsst ihr von dem übergeordneten Schutz, der in der Mittelspannung misst, eine Auslöseverbindung schaffen, irgendwo in die Halle, an der Niederspannungshauptverteilung vorbei, zu unserem PV-Schrank.
+
+(0:06:16 - 0:06:26)
+Weil, wir gehen jetzt mal rein in die Halle und gucken uns das an, wie das aussieht. Den PV-Schrank haben wir hier. Die Niederspannungshauptverteilung haben wir gar nicht dargestellt, aber das ist der PV-Schrank.
+
+(0:06:27 - 0:06:39)
+Und da muss jetzt das Auslösesignal von dem übergeordneten Entkopplungsschutz ankommen, um dann eben hier diesen ersten Leistungsschalter auszulösen. So ist das gedacht. Dann gibt es den zwischengelagerten NA-Schutz.
+
+(0:06:39 - 0:06:49)
+Der sitzt dann auch irgendwo hier im Schrank. Da sieht man jetzt mal so ein anderes Relais, so ein anderes NA-Schutz-Relais. Und dieses NA-Schutz-Relais misst jetzt halt in der Niederspannung in dem Schrank.
+
+(0:06:49 - 0:07:06)
+Da unten drin sitzt das irgendwo und löst dann den zweiten, redundanten Niederspannungsleistungsschalter aus. So muss es nach der aktuellen 4110 umgesetzt werden. Da gibt es dann in der Revision 2026 Vereinfachungen.
+
+(0:07:06 - 0:07:18)
+Aber für den Stand heute ist das erst mal so, dass man das so sehr aufwendig, redundant umsetzen muss. So, gut. Dann hätten wir jetzt die räumliche Lage einmal für Freifläche und Dach geklärt.
+
+(0:07:18 - 0:07:27)
+Und jetzt gehen wir noch einmal die Einstellwerte durch. Das können wir auch so ein bisschen im Schweinsgalopp, denke ich, machen. Wir haben die 4110, den E9-Bogen aus der 4110.
+
+(0:07:28 - 0:07:41)
+Den hat uns der Netzbetreiber jetzt ausgefüllt. Und wir gehen, ich glaube, auf Seite 3. Und da hat er uns jetzt Einstellwerte vorgegeben für den übergeordneten Entkoppelungsschutz. Ihr seht das oben, Punkt 1, 2, übergeordneter Entkoppelungsschutz.
+
+(0:07:41 - 0:07:53)
+Ja, 120 Prozent für U-Größe und 300 Millisekunden. Und das macht er dann immer relativ und gibt uns ein UC an. Ja, das ist die vereinbarte Netzspannung am Netzanschlusspunkt.
+
+(0:07:53 - 0:08:03)
+Den findet ihr wahrscheinlich auf Seite 6. Da ist die vereinbarte Netzspannung dargestellt. Das ist dann häufig 20.000 Volt. Aber ich hatte auch schon mal ein Projekt, da waren es dann 20,5 kV.
+
+(0:08:03 - 0:08:19)
+Und dann durften wir die ganze Schutzprüfung noch mal machen, weil alle davon ausgingen, es sind ja 20.000 oder 20 kV mal 1,2 statt 20,5 mal 1,2. Gut, wir nehmen diese Werte rüber, tragen die in unser Schutzkonzept ein. Genauso würden wir das machen.
+
+(0:08:19 - 0:08:31)
+Relativ übersichtlich, vereinfacht und dann Wert für Wert übertragen. Das Gleiche für den Spannungssteigerungsschutz U-Größe. Übernehmen wir die Werte, 1,1, 180 Sekunden.
+
+(0:08:32 - 0:08:51)
+Und für den U-Kleinerschutz, den wir ja auch schon vorbereitet haben, 0,8 mal UC mit 2,7 Sekunden. Frequenz haben wir jetzt hier in dem Fall nicht. Wir machen die Striche da rein und können jetzt erst mal aus unserem Kopf raus, löschen einfach diese zwei Frequenzfelder, weil übergeordnet muss es nicht umgesetzt werden in diesem Projekt.
+
+(0:08:52 - 0:09:01)
+So, dann haben wir das. Und jetzt kommen wir zum Zwischengelagerten NA-Schutz. Wir ziehen uns den rüber und blättern jetzt in dem neuen Bogen eine Seite weiter.
+
+(0:09:02 - 0:09:15)
+Vielleicht sieht man es oben, jetzt sind wir bei 2,1 Entkupplungsschutz. Genau, und da gibt es dann eben auch einen Spannungssteigerungsschutz. Und der ist jetzt hier mit 1,25 mal UNS definiert.
+
+(0:09:15 - 0:09:22)
+Was ist genau UNS? Das muss man sich nochmal im Detail anschauen. UNS muss man sich dann nämlich gleich ausrechnen. Kommen wir dazu.
+
+(0:09:22 - 0:09:35)
+0,8 mal UNS mit 300 Millisekunden für u kleiner. Und für u kleiner kleiner haben wir dann auch nochmal einen Wert angegeben. Achso, jetzt kommt hier mein Hinweis zu UNS.
+
+(0:09:35 - 0:09:51)
+Genau, das ist die Unterspannungsseite des Transformators. Da habe ich lange für gebraucht, bis ich das verstanden habe. Also UNS, 0,8 mal UNS bedeutet im Grunde genommen, wenn ihr jetzt ein 20.000 zu 400 Volt Trafo habt, dann ist UNS 400.
+
+(0:09:52 - 0:10:15)
+Wenn jetzt aber jemand auf die Idee kommt, den Trafo umzustufen, dann wäre das UNS nicht mehr 400, sondern vielleicht 405 oder 395. Wir haben das in vergangenen Projekten häufig mal gesehen, dass irgendwelche Betreiber meinten, sie müssten die Spannung in ihrem Parken ein bisschen anpassen, indem sie den Stufenschalter drehen. Das hat dann aber die Auswirkung, dass sie auch den Schutz anpassen müssen.
+
+(0:10:15 - 0:10:26)
+Das ist hier gemeint mit UNS. Also ändert ihr den Stufenschalter, müsst ihr auch mit einem anderen UNS rechnen und dann die Schutzrelais neu einstellen und wahrscheinlich neu prüfen. Also es hat Konsequenzen.
+
+(0:10:27 - 0:10:39)
+Dann haben wir hier den nächsten Wert mit 0,45 UNS und da stehen 0 Millisekunden. Ja, und da sage ich schon mal, das ist nicht immer einstellbar. Viele Schutzrelais können nur dann 60 Millisekunden.
+
+(0:10:39 - 0:10:45)
+Ist dann aber auch weitgehend akzeptiert durch die Netzbetreiber. Jetzt kommen noch die Frequenzen. Die werfen wir schnell rein.
+
+(0:10:46 - 0:10:54)
+52,5, 51,5. Achtung, Achtung, der Hinweis noch. Bei Frequenzen reagieren viele Relais deutlich langsamer als das, was wir einstellen.
+
+(0:10:55 - 0:11:05)
+Da muss man dann mit dem Schutzprüfer mal abstimmen, wie man damit umgeht oder mit dem Netzbetreiber später, wenn man da gar nicht das Ganze in den Griff bekommt. So, haben wir drin. Super.
+
+(0:11:05 - 0:11:13)
+Und zum Schluss müssen wir jetzt noch für die Wechselrichter Werte ermitteln. Das machen wir mal. Und die Werte, die ihr jetzt hier seht, gehe ich nicht im Detail durch.
+
+(0:11:13 - 0:11:27)
+Die sind alle, lösen alle später aus und lösen auch langsamer aus, sodass das deaktiviert fast zutrifft. Also die kommen wahrscheinlich nie zur Anwendung, die Werte, die wir im Wechselrichter einstellen.

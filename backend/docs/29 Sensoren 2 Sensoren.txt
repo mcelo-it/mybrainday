@@ -1,0 +1,166 @@
+(0:00:00 - 0:00:17)
+Und kommen dann zu dem nächsten Kapitel, was sich Sensoren nennt. Und genau, kurz vorab, es ist relativ kurz gehalten. Es ist erst mal nur ein grober Abriss, eine grobe Einteilung, welche Sensoren es so gibt.
+
+(0:00:18 - 0:00:31)
+Wir teilen das gleich in zwei Kategorien ein. Und zwar ist die Kategorie 1 sind die Umgebungsbedingungen und die andere Kategorie ist die Einstrahlung. So ein bisschen hinkt es vielleicht, weil Einstrahlung natürlich auch eine Umgebungsbedingung ist.
+
+(0:00:32 - 0:00:42)
+Hat aber schon einen Grund. Die Norm, auf die wir dann später im nächsten Kapitel zu sprechen kommen, die macht das genau so, wie wir es hier machen. Also die unterteilt es in Umgebung und in Einstrahlungssensoren.
+
+(0:00:43 - 0:00:59)
+Deshalb halten wir uns da auch dran und unterteilen das eben auch genau in diese beiden Kategorien. Wir starten dann mit der Einstrahlung. Und wenn wir Einstrahlung messen, dann sehen wir vor allem zwei verschiedene Varianten an Einstrahlungssensoren.
+
+(0:01:00 - 0:01:28)
+Und die Variante 1 ist erstmal das sogenannte Thermosäulenpyranometer, umgangssprachlich natürlich dann auch Pyranometer oder Pyro bezeichnet. Ja, das ist das klassische Pyro, was wir so kennen, was man viel im Solarpark sieht. Und die zweite Variante, das ist die Siliziumreferenzzelle, auch ein schon lange im Markt befindliches Messinstrument, was wir eben auch viel in PV-Anlagen sehen und uns schon viele Jahre begleitet.
+
+(0:01:29 - 0:01:54)
+Die beiden Geräte haben wir jetzt mal nebeneinander gestellt, so ein bisschen als wer kann was, wer ist wie gut, wer ist wie schnell und so weiter und vergleichen jetzt einfach mal. Also zunächst das Thermosäulenpyranometer, kurze Erklärung, wie es funktioniert. Also unten sieht man so ein Schaubild, wie so ein Thermosäulenpyranometer erstmal aufgebaut ist.
+
+(0:01:54 - 0:02:13)
+Oben drüber die Glaskuppel, die wir hier in dem Bild sehen, seht ihr natürlich oben auf dem Pyranometer auch, ist dieses halbrunde, was dort oben rausguckt. Da kann dann das Licht reinfallen. Und in diesem Thermosäulenpyranometer befindet sich unten eine Thermosäule, die ist eben schwarz beschichtet.
+
+(0:02:13 - 0:02:26)
+Und unter dieser Thermosäule, da hat man dann nochmal einen Kühlkörper. Wer schon mal so ein Pyro in der Hand hielt, der merkt, dass das relativ schwer ist. Dieser Kühlkörper, der ist sehr metallisch, sehr robust, sehr schwer.
+
+(0:02:26 - 0:02:44)
+Der hält dieses Thermosäulenpyranometer thermisch stabil. Deshalb ist der so schwer, liegt jetzt nicht daran, dass dieses Thermosäulenelement so schwer ist, sondern das ist eben ein Kühlkörper. So, was passiert jetzt? Jetzt strahlt die Einstrahlung oder die Sonne scheint jetzt auf dieses Pyro.
+
+(0:02:44 - 0:02:55)
+Die Sonne dringt ein durch diese Scheibe und fällt dann eben auf diese schwarze Beschichtung. Das funktioniert mit der direkten Strahlung. Das funktioniert aber auch genauso mit der diffusen Strahlung.
+
+(0:02:55 - 0:03:12)
+Das haben wir jetzt einfach mal in so einem Winkel dargestellt. Diffuse Strahlung in Deutschland kommt die direkte Strahlung auch aus dem Winkel, da bin ich mir ziemlich sicher. Diffuse Strahlung ist dann eben nicht unbedingt die direkte Strahlung, sondern die, die vielleicht über Reflexion den Weg auf unser Messgerät findet.
+
+(0:03:13 - 0:03:34)
+Beide Strahlungen sorgen jetzt nochmal dafür, dass sich dieses Thermosäulenelement erwärmt. Und wenn sich dieses Thermosäulenelement erwärmt, dann kann man eben am Thermosäulenelement eine Spannung abgreifen. Und diese Spannung entspricht dann eben unserer Einstrahlung, unserer globale Einstrahlung.
+
+(0:03:34 - 0:03:47)
+Das ist dann eben hier wichtig. Also global, diffus plus direkt, das können wir dann hier messen. Und in der Regel messen wir dann nicht diese Spannung an diesem Thermosäulenelement, sondern setzen das in dem Sensor nochmal um.
+
+(0:03:47 - 0:04:06)
+Auf ein beispielsweise Modbus oder RS485-Signal, sodass wir das dann weiterverarbeiten können. So, das war erst mal kurz zum Thermosäulenpyranometer, damit ihr versteht, wie das funktioniert. Damit man vielleicht nachher auch ein bisschen besser verstehen kann, warum das eben Vor- und Nachteile hat oder warum das so funktioniert, wie es funktioniert.
+
+(0:04:08 - 0:04:21)
+Die Siliziumreferenzzelle, die ist, naja, ich hätte fast gesagt einfacher. Aber im Grunde genommen ist die Siliziumreferenzzelle ein kleines Solarmodul. Haben wir hier mal dargestellt, wie so ein Solarmodul funktioniert.
+
+(0:04:21 - 0:04:34)
+Ist jetzt hier gar nicht so wichtig, welche N-dotierten oder P-dotierten Teile man dort hat. Also es ist eine Solarzelle, photovoltaischer Effekt. Licht fällt auf diese Solarzelle und dann entsteht eben eine Spannung.
+
+(0:04:35 - 0:04:46)
+Bei kleiner Einstrahlung ist die Spannung schon sehr hoch und bei großer auch. Deshalb ist die Spannung hier nicht das, was wir messen, sondern wir messen hier dann eben ein Strom. Haben wir so dargestellt als I-Mess.
+
+(0:04:46 - 0:05:07)
+Der Strom ist dann eben äquivalent zu der Einstrahlung. Die Siliziumreferenzzelle, haben wir hier auch so geschrieben, ist im Grunde genommen ein Miniaturmodell eines PV-Moduls. Also es ist vielleicht eine Zelle eines PV-Moduls, aber dadurch verhält sich diese Siliziumreferenzzelle natürlich sehr, sehr ähnlich wie ein PV-Modul.
+
+(0:05:08 - 0:05:28)
+Genau, so jetzt kommen die versprochenen Vor- und Nachteile von diesen beiden Geräten. Wir starten mal mit der Genauigkeit, weil das ist, denke ich, immer ein wichtiger Faktor, den man bei so Messungen berücksichtigen sollte. Und das Thermosäulenpyranometer, haben wir jetzt erst mal geschrieben, ist genauer.
+
+(0:05:28 - 0:05:52)
+Ja, es ist einfach ein bisschen genauer als diese Siliziumreferenzzelle. Und um das ein bisschen greifen zu können oder besser greifen zu können, auch die Siliziumreferenzzellen, die gibt es mittlerweile in der Klasse A, also da unterscheiden die sich vielleicht noch um wirklich Kleinigkeiten. Aber vom Grundsatz her ist das Thermosäulenpyranometer etwas genauer als die Siliziumreferenzzelle.
+
+(0:05:53 - 0:06:12)
+Und das liegt dann vor allem daran, dass die Siliziumreferenzzelle ein bisschen stärker temperaturabhängig ist. Also die Messwerte sind temperaturabhängiger als die des Thermosäulenpyranometers. Und dass man an dem Deckglas von so einer Siliziumreferenzzelle Reflektionen hat, die kriegt man nicht so einfach weg.
+
+(0:06:12 - 0:06:30)
+Das heißt, das sind dann im Grunde genommen Messungenauigkeiten, die bleiben, die man bei der Thermosäulenpyranometer nicht unbedingt zu erwarten hat. So, jetzt kommt das spektrale Verhalten. Also wie verhält sich so ein Thermosäulenpyranometer, darauf kommen wir jetzt zuerst zu sprechen.
+
+(0:06:32 - 0:06:50)
+Wie kann es die Einstrahlung messen? Welche Einstrahlungsbereiche kann so ein Thermosäulenpyranometer messen? Spectrally flat steht jetzt hier erst mal, das ist ein amerikanischer Begriff. Den gucken wir uns jetzt mal genauer an, was das eigentlich bedeutet. Also ein Thermosäulenpyranometer kann Einstrahlung messen.
+
+(0:06:50 - 0:07:08)
+Wir haben es mal dargestellt hier, die Wellenlänge, die es auf der Welt so gibt, von 0 oder 100 Nanometer bis 4000 Nanometer. Das sind so die Wellenlängen, da verteilt sich das Licht, die Strahlung, die wir auf der Erde haben. Und auf der Y-Achse haben wir dann die Sensitivität.
+
+(0:07:08 - 0:07:30)
+Also wie gut kann unser Pyranometer oder unser Sensor das jetzt messen? Also nochmal die Einstrahlungswerte, die wir haben, UV-A, das liegt bei 300 Nanometer. Dann gibt es noch UV-B, das sind diese Strahlungen, die man so kennt, diese Begriffe. Danach folgt das sichtbare Licht im Wellenlängenbereich meinetwegen von 400 bis 750 zum Beispiel.
+
+(0:07:30 - 0:07:44)
+Da kommt es jetzt nicht so genau darauf an. Und dann gibt es noch den Infrarotbereich oder Nähe-Infrarotbereich, noch ein ziemlich großer Bereich hinten dran. Das sind jetzt im Grunde genommen die Lichtbereiche oder die Strahlungsbereiche, die es gibt.
+
+(0:07:45 - 0:07:59)
+Die solare Einstrahlung, die liegt dann in diesem Bereich, die deckt schon relativ viel davon ab. Der Großteil liegt eben im sichtbaren Bereich, aber eben auch viel im Infrarotbereich oder im UV-B-Bereich. Ich glaube, davon kriegen wir dann unseren Sonnenbrand.
+
+(0:08:00 - 0:08:14)
+Und das menschliche Auge im Verhältnis, das liegt in einem sehr kleinen Bereich eigentlich nur von 500 bis meinetwegen 750 Nanometer. Das ist das, was wir eigentlich nur sehen können. Alles andere können wir mit unserem Auge gar nicht wahrnehmen.
+
+(0:08:15 - 0:08:35)
+Jetzt kommt dazu das Silizium, die Siliziumreferenzzelle, also eine Solarzelle. Die kann im Grunde genommen diesen Bereich messen, schon deutlich mehr als das sichtbare Auge, aber auch längst noch nicht die gesamte Einstrahlung, die von der von der Sonne eben auf unsere Erde fällt. Das Thermosäulenpyranometer kann das deutlich besser.
+
+(0:08:35 - 0:08:50)
+Und jetzt wird vielleicht auch so ein bisschen klar, warum das spektrally flat heißt, weil es einfach oben flach ist. Es misst fast den gesamten Bereich und das mit einer sehr, sehr hohen Sensitivität. Man hat dort eben dieses Flat oben.
+
+(0:08:50 - 0:09:08)
+Deshalb nennen die das so. Fast das gesamte Spektrum wird hier gemessen, wird aufgenommen durch das Thermosäulenpyranometer. Vergleicht die Siliziumreferenzzelle hat in der Darstellung sieht es jetzt ungefähr so aus, als wäre das vielleicht die Hälfte von dem Einstrahlungsbereich, der hier gemessen werden kann.
+
+(0:09:08 - 0:09:22)
+Das ist hier der große Unterschied. Wir springen mal weiter, weil jetzt hatten wir ja auch das spektrally flat von dem Thermosäulenpyranometer und bei der Siliziumreferenzzelle haben wir es geschrieben, ist vergleichbar mit dem PV-Modul. Wir hatten es eben gesehen.
+
+(0:09:22 - 0:09:41)
+Der Messbereich ist viel, viel kleiner als bei dem Thermosäulenpyranometer. Jetzt gibt es eine Schnelligkeit. Wie schnell können diese beiden Sensoren denn auf zum Beispiel Wetterschwankungen reagieren? Es zieht eine Sonne durch, eine Wolke vor der Sonne her.
+
+(0:09:41 - 0:09:55)
+Dadurch kommt es zu einer kurzzeitigen Verschattung. Und bei so einem Thermosäulenpyranometer, sagen wir, fällt sich das eher träge. Es muss ja erstmal eine Temperaturveränderung im Inneren dieser Glaskuppel entstehen.
+
+(0:09:56 - 0:10:13)
+Träge bedeutet, wir brauchen dann vielleicht mal so 15 Sekunden, bis der Wert dann tatsächlich umspringt, geändert ist auf die neuen Einstrahlungsbedingungen. Bei der Siliziumreferenzzelle spricht man dann von fast response. Also sobald Licht auf eine Solarzelle fällt, ist Spannung da.
+
+(0:10:13 - 0:10:31)
+Es fließt ein Strom. Sobald das Licht weg ist, fließt wenig Strom und die Spannung geht auch runter. Wie auch immer. 
+
+Es reagiert viel, viel schneller. Der Stromfluss ist es dann in der Siliziumreferenzzelle. Der ist dann sehr, sehr schnell, viel, viel schneller als die Temperaturänderung im Thermosäulenpyranometer.
+
+(0:10:34 - 0:10:43)
+Jetzt kommt vielleicht ein der wichtigste Punkt in vielen Projekten. Das sind hier die Kosten des Thermosäulenpyranometer. Wir haben jetzt keine genauen Kosten hier.
+
+(0:10:44 - 0:10:48)
+Das geht zu weit. Da hat, glaube ich, auch jeder seine eigenen Einkaufskonditionen. Wir sind auch keine Einkäufer.
+
+(0:10:49 - 0:11:05)
+Der Punkt ist aber, das Thermosäulenpyranometer, da sind die Kosten tendenziell eher hoch. Und bei der Siliziumreferenzzelle haben wir jetzt mal geschrieben, 50 Prozent soll heißen, ungefähr, kostet so eine Siliziumreferenzzelle. Die Hälfte von dem Thermosäulenpyranometer.
+
+(0:11:05 - 0:11:22)
+Und das ist dann in vielen Projekten natürlich auch Grund genug, vielleicht nicht das hochwertige Pyro zu nehmen, sondern vielleicht die etwas kostengünstigere Referenzzelle, die aber natürlich auch den Zweck erfüllt. So, ein Satz. Das ist jetzt erst mal unsere Erfahrung.
+
+(0:11:22 - 0:11:44)
+Wo sehen wir welches Messgerät? Das Thermosäulenpyranometer, das sehen wir in fast allen PV-Freiflächenanlagen, die wir so planen. Hat dann auch noch den Grund, dass das nachher in der Norm, greife ich jetzt ein bisschen vorweg, auch nochmal gefordert wird. Aber sehen wir gleich, wie das gefordert wird.
+
+(0:11:45 - 0:12:04)
+Und die Siliziumreferenzzelle, die sehen wir tatsächlich mehr in Dachanlagen. Ob das jetzt mit den Kosten zusammenhängt oder mit der Anforderung an Performance Ratio Berechnungen, mit der Anforderung an diese Normen, ist ein bisschen schwammig. Aber im Grunde genommen, so teilt sich das aus unserer Sicht ganz grob auf.
+
+(0:12:04 - 0:12:16)
+Man kann natürlich auch ein Pyro auf einer Dachanlage verwenden, das ist kein Problem. So, das waren diese beiden Einstrahlungssensoren. Und jetzt schauen wir uns den Teil der Umgebungsbedingungen an.
+
+(0:12:17 - 0:12:28)
+Also Umgebungsbedingungen sind jetzt keine Einstrahlungssensoren, sondern alles, was wir sonst noch so für wichtig erachten. Und wir starten mit der Modultemperatur. Das ist eine Umgebungsbedingung laut der Norm.
+
+(0:12:29 - 0:12:40)
+Modultemperatur, wir haben hier in dem kleinen Bildchen versucht, diesen Modultemperatursensor mal darzustellen. Im Grunde genommen ist es so ein kleines Plättchen. In der 360-Grad-Tour seht ihr es dann ja nochmal ganz klar.
+
+(0:12:41 - 0:12:51)
+Aber hier ist es ein kleines Plättchen mit einem Kabel dran in der Regel. Und dieses kleine Plättchen klebt man auf die Rückseite eines Moduls. Wo genau und wie genau, das kommt später.
+
+(0:12:51 - 0:13:11)
+Aber vom Grundsatz her messen wir damit die Modultemperatur, die Modulzelltemperatur. Dann gibt es Umgebungstemperatursensoren. Hier sehen wir jetzt nicht direkt den Sensor an sich, sondern hier sehen wir in dem Bildchen so eine Haube, die man auf den Sensor steckt.
+
+(0:13:12 - 0:13:29)
+Der Sensor selbst ist so groß wie ein Stift, vielleicht fünf bis zehn Zentimeter hoch, aber vom Durchmesser her wie ein Stift. Der steckt im Grunde unter diesem weißen Gehäuse. Und dieses weiße Gehäuse sorgt für Verschattung und trotzdem für eine gute Luftanströmung.
+
+(0:13:29 - 0:13:41)
+Und der Sensor befindet sich im Inneren. Dann gibt es die Windmessung, wofür wir brauchen, hatten wir schon erwähnt. Hier sehen wir jetzt, ich glaube ein Schallenanemometer heißt das.
+
+(0:13:41 - 0:13:49)
+Das misst erstmal die Windgeschwindigkeit. Zusätzlich bräuchte man noch so ein Windfähnchen, was dann die Windrichtung detektiert. Aber Windmessung ist, glaube ich, klar.
+
+(0:13:49 - 0:13:56)
+In vielen Projekten verbauen wir häufig. Und sehen wir eben viel. Dann kommt ein Regensensor.
+
+(0:13:56 - 0:14:12)
+Der sieht ungefähr so aus. Und wenn wir jetzt einen Schritt weiter gehen würden und sagen, wir brauchen Umgebungstemperatur, wir brauchen Windmessung, wir brauchen Regensensor. Vielleicht brauchen wir auch noch Luftfeuchte und vielleicht brauchen wir auch noch Taubpunkt und solche Geschichten.
+
+(0:14:13 - 0:14:36)
+Dann kann man auch diese verschiedenen Sensoren zusammenführen und im Grunde genommen eine Wetterstation bestellen, die dann wiederum alle diese Funktionen in einem Messgerät kombiniert. Das ist, wie ich finde, eine ganz gute Sache, weil man muss nur ein Gerät installieren. Man hat nur eine Verdrahtung durchzuführen und wir haben dann eben ganz, ganz viele Messwerte in einem Gerät, die wir eben nutzen und auswerten können.
+
+(0:14:37 - 0:14:47)
+Jetzt kommt zum Schluss noch der Verschmutzungssensor. Hatten wir auch schon angesprochen. Ist für unsere europäischen, deutschen Projekte nicht ganz so wichtig, nicht ganz so relevant.
+
+(0:14:49 - 0:15:02)
+Aber da wir ihn auch in der Tour nachher zeigen, finde ich, sollte man ihn hier jetzt erstmal angesprochen haben und wir kommen dann später nochmal drauf, wann der vielleicht wichtig sein kann. Die Norm gibt uns da schöne Ansätze, schöne Anhaltspunkte.

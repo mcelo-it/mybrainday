@@ -1,0 +1,28 @@
+(0:00:00 - 0:00:32)
+Hallo und herzlich willkommen zum Brainday Datenbox. Heute schauen wir uns mal an, wo eigentlich viele elektronische Komponenten, die wir uns in anderen Braindays schon ganz genau angeguckt haben, untergebracht werden. Wie immer beginnen wir mit der Frage Warum? Warum hört man mir hier hoffentlich vermeintlich gerne zu? Warum ist das sinnvoll? In diesem Fall, warum brauchen wir überhaupt eine Datenbox? Und warum müssen wir uns hier so viele Gedanken darüber machen? Dann schauen wir uns den konkreten Aufbau an.
+
+(0:00:32 - 0:00:45)
+Das ist heute mehr eine physische Frage, keine so groß elektrotechnische Frage. Ich sage mal Grund. Meistens kümmere ich mich in meiner meinem Arbeitsalltag ja mehr um Datenschemen oder Stromlaufpläne.
+
+(0:00:45 - 0:01:09)
+Heute geht es darum nicht, sondern heute geht es mehr darum, wie wird das Ganze physisch auf der Baustelle oder im Werk zusammengebaut? Ganz wichtig immer, da erstellen wir dann auch einen eigenen Plan dafür. Das sind die Schnittstellen. Das mag ja vermeintlich so sein, dass man eine Art Standard Datenbox hat, die man da von Projekt zu Projekt zu Recht, weil sie sich bewährt hat, immer wieder so verwendet.
+
+(0:01:09 - 0:01:30)
+Dann muss man ja auf den Hersteller von dieser Datenbox jetzt gar nicht immer so projektspezifisch einwirken. Aber die Schnittstelle, die Schnittstelle zur Transformatorstation, zum Netzbetreiber, zu anderen Komponenten, die ist meist nicht gleich, sondern die kann sich in jedem Projekt verändern. Und deswegen schaut man da mit ganz besonderem Fokus drauf.
+
+(0:01:31 - 0:01:41)
+Dann freue ich mich sehr auf eine großartige 360 Grad Tour, die wir da erstellt haben. Man kann das also sich dann selbst. Ich zeige erst mal euch, wie ich es machen würde.
+
+(0:01:41 - 0:01:49)
+Aber dann schaut ihr euch selber um. Ihr steigt virtuell ein in so eine Photovoltaikanlage mit Datenboxen. Verschiedene Typen zeigen wir da.
+
+(0:01:49 - 0:02:12)
+Man kann sich das von oben, von unten, von der Seite angucken in verschiedenen Montagezuständen. Großartige Möglichkeit, aus meiner Sicht, in eine Baustelle einzutauchen, sich das richtig selbst anzugucken, ohne da wirklich hinfahren zu müssen. Wir haben uns dann ein Bauteil rausgenommen, dass wir für das Herz von so einer typischen Datenbox halten, den Switch.
+
+(0:02:12 - 0:02:39)
+Ohne den hat die Leittechnik keine Chance, auf alle anderen Komponenten zugreifen zu können. Den haben wir uns rausgenommen. Den schauen wir an. 
+
+Wie parametriere ich ihn? Geht nicht so sehr ins Detail. Dafür gibt es natürlich Fachleute, sondern wir schauen uns an, welche 2, 3, 4 Schritte vermeintlich jeder Elektroplaner kennen müsste, damit er dann auf der Baustelle auch ein bisschen mitreden kann. Und am Schluss gehen wir in die USV-Berechnung ein.
+
+(0:02:39 - 0:02:58)
+Auch ein Bauteil, das man da immer wieder findet und man sich vielleicht fragt, warum ist jetzt die Batterie eigentlich genau so groß, wie sie ist? Zertifizierstellen wollen das auch wissen. Warum man eine Batterie jetzt genau so ausgelegt hat, wie man das nun mal gemacht hat. Und dann schauen wir uns das heute wirklich mal ganz konkret an, Schritt für Schritt, wie man so eine USV berechnet.

@@ -1,0 +1,374 @@
+(0:00:00 - 0:00:16)
+So, willkommen zurück nach der Kaffeepause. Jetzt haben wir noch 45 Minuten Zeit, um uns auf das letzte Kapitel zu stürzen. Im Grunde haben wir hier versucht, das Ganze ein bisschen praktischer darzustellen, was wir jetzt besprochen haben.
+
+(0:00:17 - 0:00:27)
+Jetzt tun wir einfach mal so ein bisschen so, als würden wir jetzt einen PQ-Test auch wirklich durchführen. Dazu erkennen jetzt erst mal alle wieder links die Seite. Das soll uns so ein bisschen führen, was wir eigentlich so machen.
+
+(0:00:27 - 0:00:35)
+Und wir fangen mit dem ersten Punkt an. Also wir müssen jetzt erst mal ein Parkregler-Konzept erstellen. Das soll ja jetzt auch so ein bisschen der Wiederholung dienen.
+
+(0:00:36 - 0:00:49)
+Und dazu brauchen wir bitte im Chat jetzt den Link, wo wir das hinterlegt haben. Und das würden meine Kollegen jetzt auch dann die Lösungen am Ende noch mal in den Chat stellen. Das machen wir am Ende, sonst ist es ja zu langweilig.
+
+(0:00:50 - 0:00:58)
+Also das war nur unser Vorschlag. Ich sage aber auch, weil das haben ja einige gemacht, man kann auch in den Stationen Schutzrelais integrieren. Das ist auf jeden Fall richtig.
+
+(0:00:59 - 0:01:24)
+Ich würde es bei meinen großen Projekten würde ich das nicht machen, weil sonst die Regler-Konzepte ja so kompliziert werden wie das Datenschema oder die Gesamtübersicht. Also hätte ich mich beim Parkregler-Konzept wirklich auf die Komponenten konzentriert, die wirklich nur für die Regelung Blindleistung und Wirkleistung relevant sind. Leistungsschalterstellung, irgendwelche anderen Datenpunkte, die da genannt werden, würden wir jetzt erst mal nicht reinmachen.
+
+(0:01:24 - 0:01:29)
+Wenn es gemacht wird, ist das aber nicht falsch. Auf keinen Fall. Also erst mal super.
+
+(0:01:29 - 0:01:36)
+Vielen Dank für die erste Übung. Wir gehen weiter, bitte. Also guckt noch mal jetzt wieder auf meinen Bildschirm.
+
+(0:01:37 - 0:01:45)
+Nicht mehr in die PowerPoint. Das ist schon richtig. Ich meine, sozusagen die Zuhörer sollen aus dem Whiteboard rausgehen.
+
+(0:01:45 - 0:01:52)
+Ich verspreche euch, ihr könnt gleich wieder rein. Aber jetzt erst mal noch mal kurz bei mir zugucken. Also jetzt haben wir ein Parkregler-Konzept erstellt.
+
+(0:01:53 - 0:02:02)
+Deswegen machen wir es grün hier mal, sozusagen nach dem Motto abgehakt. Jetzt wäre in meiner Projektlogik der E8-Bogen dran. Also den haben wir jetzt gekriegt.
+
+(0:02:02 - 0:02:10)
+Das ist ja auch schon mal wichtig, dass man den überhaupt hat. Und den würden wir uns jetzt durchlesen. Und jetzt übertragen wir die Vorgaben aus dem Datenbogen.
+
+(0:02:10 - 0:02:14)
+Und da ist er jetzt. Also das ist jetzt unser Beispielprojekt. So würde das aussehen.
+
+(0:02:15 - 0:02:20)
+Wir haben das orange gemacht. Und das ist doch immer spannend. Was hat er jetzt angekreuzt? Und das gucken wir uns jetzt genauer an.
+
+(0:02:20 - 0:02:30)
+Wir zoomen da rein und gucken uns jetzt nur einen Teilbereich an. Sonst ist es, finde ich, zu viel. Aber auf den einen konzentrieren wir uns jetzt schon noch mal in aller Ruhe.
+
+(0:02:30 - 0:02:40)
+Also bitte aufpassen. Logik folgen und gerne halt auch selber schon mal vorarbeiten. Dann ist es beim nächsten Projekt auch einfacher.
+
+(0:02:40 - 0:02:52)
+Also was würde man jetzt hier sehen? Ganz wichtig links bei Blindleistungsspannungskennlinie Q von U. Das war die Vorgabe Variante A war das jetzt. Das hat er sich ausgedacht. Die will er haben.
+
+(0:02:53 - 0:03:00)
+Okay, können wir natürlich. Es ist der Parkregler vorbereitet. Und was will er im Detail? Das steht jetzt hier auf der rechten Seite.
+
+(0:03:00 - 0:03:06)
+Da sind Werte jetzt drin. Und dann zeichnen wir uns die jetzt doch erst mal auf. Das würde ich jetzt mal als erstes machen.
+
+(0:03:06 - 0:03:18)
+Wenn ich später ja eine Parkregler Prüfung machen muss, dann kann ich mir das jetzt mal aufmalen, weil dann kann ich später bei den Messergebnissen Soll und Ist Wert vergleichen. Wie funktioniert das? Umachs durch UC. Das hat man gelernt.
+
+(0:03:18 - 0:03:26)
+Ähm, da wissen auch noch alle, wo man das dann in der Kennlinie findet. Ja, das wäre an der Stelle. Da würde man das jetzt mal hinschreiben, sag ich mal.
+
+(0:03:27 - 0:03:38)
+Dann geht man zum zweiten Wert, holt sich die untere Spannungsgrenze 0,96, die ist dann also auf der linken Seite. Dann braucht man auch für die Y-Achse die Begrenzung. Die wäre 0,33.
+
+(0:03:39 - 0:03:51)
+Achtung Blindleistung, das meinen die hier mit sozusagen beide Richtungen. Deswegen schieben wir das hier mit rein. Und dann hat man für den Wert, für den einen untererregt, hat man erst mal diesen orangenen Punkt da oben.
+
+(0:03:53 - 0:04:07)
+So, dann gibt's, weil das Ganze symmetrisch ist, den auch auf der anderen Seite und zack hat man dann seine seine Kennlinie dazwischen. So hätten wir erst mal unsere Kennlinie aus den Daten aufgebaut. Jetzt dieses Spannungstotband, von dem hatte ich vorhin schon gesprochen.
+
+(0:04:07 - 0:04:25)
+Das geben die hier auch an, dass wir jetzt da in der Mitte man sieht so ein bisschen grün hinterlegt. Also die Idee ist, dass der in diesem Bereich noch nicht mitsteuern muss. Habe ich ja gesagt, wenn das immer um diesen Spannungswert herum schwankt, dann würde der, sage ich mal, außer Atem kommen.
+
+(0:04:26 - 0:04:34)
+Deswegen hat er die Chance, in dem Bereich erst mal noch nichts zu machen. Da wäre das Spannungstotband definiert. Und dann unten die Referenz Spannung.
+
+(0:04:34 - 0:04:45)
+Das war dieser Wert, den ich vorhin auch so erwähnt hatte. Also UQ0 jetzt zu UC haben die jetzt hier angegeben mit 1,0. Also da ist er.
+
+(0:04:46 - 0:04:58)
+Wenn der nicht da wäre, dann würde sich die ganze Kennlinie verschieben. Das haben wir jetzt erst mal gemacht im Beispiel. Und jetzt wollen wir das Ganze auch noch mal gemeinsam uns angucken.
+
+(0:04:58 - 0:05:08)
+Wir springen also bitte alle noch mal wieder rüber springen. Ihr könnt ja auch später noch weiterzeichnen, wenn ihr möchtet und uns auch Fragen stellen. Das geht immer grundsätzlich im Chat.
+
+(0:05:08 - 0:05:27)
+Sitzen mehrere Kollegen bereit, die gerne antworten und ansonsten auch im Nachgang, wenn ihr zu diesen Kennlinien Fragen habt. Das ist unsere Lösung Q von U. Das wäre Variante A gewesen oder ist Variante A. Und jetzt haben wir das einfach umgerechnet. 20 kV ist das UC, also unsere Nennspannung.
+
+(0:05:27 - 0:05:32)
+Und der Durchgang, der da definiert wird, war bei 1,0. Dann ist das 20 kV. Den würde ich erst mal setzen.
+
+(0:05:33 - 0:05:43)
+Und die andere. Der andere Dreisatz war 0,33 war definiert als maximaler Q-Wert. Die installierte Leistung waren, glaube ich, zwei Megawatt.
+
+(0:05:43 - 0:05:51)
+Zweimal 0,33 ist 0,66. Dann hat man den zweiten Punkt und das Ganze ist gespiegelt. Das heißt, das wäre unser Ergebnis.
+
+(0:05:51 - 0:06:07)
+Ich habe ein paar gesehen, die sozusagen die Variante C gezeichnet haben. Das würde man ja aus unserer Logik heraus, wäre das nicht so gewesen, sondern wir nehmen ja in unserer Übung aus dem E8-Bogen, den wir gerade gesehen haben, die Variante mit. Und das ist dann die Variante A gewesen.
+
+(0:06:08 - 0:06:20)
+Okay, wir springen gleich wieder zurück in Miro. Die Kollegen haben wieder einen neuen in der Lösung. Und das ist ein Screenshot aus der Edis-Tab ist es, meine ich.
+
+(0:06:20 - 0:06:26)
+Das haben wir bewusst so gemacht. Da haben wir halt ein reales Beispiel uns rausgesucht. Das ist jetzt nicht wichtig, ob das Edis ist oder nicht.
+
+(0:06:26 - 0:06:38)
+Es geht mir nur darum, die machen das hier mit einem positiven Vorzeichen. Meiner Logik folgt das nicht. Aber da sieht man schon viele Player, viele verschiedene Interpretationen.
+
+(0:06:38 - 0:06:47)
+Für mich ist erst mal klar, dass eine Anlage nicht negativ arbeiten kann. Das geht nicht. Deswegen meinen die hier schon den Export.
+
+(0:06:48 - 0:07:02)
+Und was sie darstellen ist, umso größer die exportierte Wirkleistung, umso höher die Blindleistung. So geben die das erst mal vor. Warum sie das aus Netzstabilitätsgründen so machen, das kann und will ich erst mal nicht bewerten.
+
+(0:07:02 - 0:07:11)
+Da müsste man jetzt in dem Fall die Edis fragen. Also so müsste das jetzt bei euch bitte aussehen. Das wäre so eine Q von P-Geschichte.
+
+(0:07:11 - 0:07:26)
+Also die Wirkleistung gibt sozusagen den Sollwert der Blindleistung vor. So kann man es, glaube ich, immer ganz gut lesen. Und diese Kennlinie würde man dann auch später eben im Regelungstest messen und dann mit diesem Sollwert vergleichen.
+
+(0:07:27 - 0:07:42)
+Okay, wir haben jetzt auch die Q von P-Linie mal selber gezeichnet. Jetzt wieder bitte lasst euch abholen und kommt zurück auf die Powerpoint. Wer erinnert euch? Wir hatten links schon mal so einen kleinen Pfad vorgezeichnet.
+
+(0:07:42 - 0:07:55)
+Das Parkregler Konzept ist ja schon grün. Jetzt haben wir auch aus dem Datenabfrage Bogen aus dem E8 heißt er mittlerweile. Hatten wir doch unsere Kennlinie rausgenommen und da jetzt auch ein paar Varianten selber ausprobiert.
+
+(0:07:55 - 0:08:00)
+Deswegen wird er jetzt auch grün. So und jetzt kommt der nächste Schritt. Das läuft natürlich auch vieles parallel.
+
+(0:08:00 - 0:08:16)
+Aber im Grunde brauche ich jetzt, wenn ich meine Sollkennlinie habe, jetzt brauche ich noch die Toleranzen. Ich habe es schon mal gesagt, ohne den Sollwert inklusive Toleranzen kann ich keine Bewertung machen. Das ist für mich unmöglich.
+
+(0:08:16 - 0:08:43)
+Ich kann natürlich ein Prüfprotokoll entgegennehmen und sagen Ja, es sieht gut aus, aber wirklich selbst bewerten kann ich es nur, wenn ich selbst die Sollwerte kenne und auch die Toleranzen kenne. Wir machen das bei uns im Team auch gerne so, dass wir zumindest versuchen, und sozusagen selbst vorher zu überlegen, wie denn die Kennlinie ausliegen muss, um dann die Ergebnisse vom Parkregler-Test selber abwerten zu können. Und dann hat man eine Art Doppelprüfung mit dem, der die Regelungstest gemacht hat.
+
+(0:08:44 - 0:08:58)
+So, wo kriegen wir diese Toleranzen her? Wir gehen als nur ein Beispiel in ein Kapitel von der 4110 rein. Das wäre jetzt hier die QvonU-Kennlinie. Das ist einer von diesen vier Varianten.
+
+(0:08:58 - 0:09:06)
+Und dann reicht mir das als Beispiel auch schon. Und da steht jetzt in der 4110, das kann man sich rausziehen. Da steht jetzt zwei Prozent.
+
+(0:09:06 - 0:09:15)
+Ich habe jetzt hingeschrieben zum Beispiel, weil bei den anderen mag es unterschiedlich sein. Das muss man sich halt einzeln raussuchen. Und dazu kommen wir jetzt gleich als nächstes.
+
+(0:09:15 - 0:09:25)
+Wenn man sich dann so eine Prüfvorlage in Excel baut, dann kann man diese Werte ja hinterlegen. Da muss man sich auch nicht jedes Mal neu denken. Aber so würde es jetzt aussehen in diesem nächsten Schritt.
+
+(0:09:25 - 0:09:49)
+Also wenn wir so eine QvonU-Vorgabe hätten, dann hätte man jetzt die zwei Prozent rausgesucht und dann hätte man sich jetzt diese Kennlinie gebaut mit Toleranzen. Ich betone es gerne. Ich weiß meinetwegen zum dritten Mal, aber ich finde, es ist einfach in der Gesamtkette wichtig, dass man die mit integriert, weil sonst einfach eine Bewertung rein ingenieurtechnisch nicht final ist.
+
+(0:09:51 - 0:10:01)
+So, jetzt haben wir uns diese Toleranzen rausgesucht aus der 4110. Und gehen dann links meiner Übersicht in den nächsten Punkt. Das ist die TAP.
+
+(0:10:02 - 0:10:11)
+Wir haben das jetzt so gemacht, dass wir in unserem Projektbeispiel die TAP nicht brauchen. Ihr habt es ja im R8-Bogen gesehen. Der Netzbetreiber hat das ganz super da alles angegeben.
+
+(0:10:12 - 0:10:23)
+Und deswegen haben wir jetzt alles. Wir haben trotzdem reingeguckt mal in die TAP und da hat man jetzt in unserem Projekt gesehen, da wird einfach nur verwiesen auf den E8 und auf die 4110. Und damit ist dieser Punkt hinfällig.
+
+(0:10:23 - 0:10:42)
+Vom Grundsatz her wäre es jetzt eben im Beispiel bei euch vielleicht so, dass da jetzt noch mal was Spezielles drinsteht zur Regelgeschwindigkeit. Tau zum Beispiel könnte dann ja da anders benannt sein oder auch irgendwelche Nachweise da nochmal explizit beschrieben werden. Aber das machen wir jetzt hier nicht, sondern bei uns ist es einfach.
+
+(0:10:42 - 0:10:55)
+Da steht nichts drin, sondern nur der Verweis auf die 4110. Und das ist deshalb so, weil wir wollen uns lieber konzentrieren auf die Bewertung. Jetzt gehen wir also in den nächsten Schritt.
+
+(0:10:55 - 0:11:08)
+Wir haben uns jetzt super vorbereitet und jetzt bewerten wir die Regelungsergebnisse einmal. So, und da haben wir uns hier tatsächlich reales Messbeispiel rausgenommen. Also das war ja jetzt so eine Kurve.
+
+(0:11:08 - 0:11:15)
+Q von U haben wir in unserem Projekt. Das ist der Sollwert. Und wir haben uns super vorbereitet mit einem Auswertetool.
+
+(0:11:15 - 0:11:26)
+Das kann ja alles sein, aber wir werden es gleich üben in Excel. Und Excel ist auch das Tool, das wir verwenden, wenn wir so einen Regelungstest selbst machen. Und wir haben vorher die Toleranzen festgelegt.
+
+(0:11:26 - 0:11:29)
+Da sind sie. So würde das jetzt aussehen. Und jetzt, jetzt kommt's.
+
+(0:11:29 - 0:11:43)
+Jetzt importieren wir die Messwerte auf eine Frage, die ich gleich gern selbst beantworte. Wo kriegen wir die her? Genau, wir kriegen die aus dem Netzanalysegerät am Netzverknüpfungspunkt Messregelungskonzept. Jetzt wird klar, warum es so wichtig ist.
+
+(0:11:43 - 0:11:55)
+Also im Regelungskonzept sehen wir ja, auf welchem Punkt wir regeln müssen. Und jetzt müssen wir uns auch die Messergebnisse von diesem Punkt holen. Wenn wir die zum Beispiel aus der Trafo Station 2 aus Versehen uns exportieren, dann kann das nicht funktionieren.
+
+(0:11:55 - 0:12:05)
+Das wird nicht stimmig sein. Also Messwerte importieren aus dem Netzanalysegerät am Netzverknüpfungspunkt. Und das machen wir jetzt mal beispielhaft für, ich sag mal eine Woche.
+
+(0:12:05 - 0:12:14)
+Und dann sieht das tatsächlich so aus. Das sind jetzt blaue Punkte vor blauem Hintergrund. Insofern nicht ganz so einfach zu erkennen.
+
+(0:12:14 - 0:12:28)
+Aber ich glaube, es wird trotzdem klar, was wir darstellen wollen. Also die meisten treffen ja die orangenen Linie sehr gut. Also was ist jetzt in dieser zum Beispiel Messwoche passiert? Die Netze haben der Netzwert hat sich leicht verändert.
+
+(0:12:28 - 0:12:50)
+Man sieht bei 1,0 Nennwert war er meistens oder das war der niedrigste Wert, der aufgetreten ist. Und dann gab es auch Zeiten, in denen die Spannung nach oben gerutscht ist. Maximal sehe ich hier so 1,04, also 4 Prozent über der Nennspannung hatten wir tatsächlich teilweise in dieser Messwoche vor Ort anliegen.
+
+(0:12:50 - 0:13:02)
+Und was ist dann passiert? Das sieht man sehr gut. Die meisten Messpunkte folgen dann also dieser orangenen Linie. Ich finde jetzt erst mal klar, dass der Parkregler in dem Moment schon wusste, was er machen soll.
+
+(0:13:02 - 0:13:12)
+Man sieht, wir haben Blindleistungen zur Verfügung gestellt, als die Netzspannung angehoben ist. Das finde ich erst mal gut. Und dann kommt der nächste Schritt.
+
+(0:13:12 - 0:13:23)
+Jetzt kommt der unbeliebte kritische Teil. Hat er es denn auch wirklich genau richtig gemacht? Ja, und das hat er nicht. Weil deswegen betone ich ja immer die Toleranzen so.
+
+(0:13:23 - 0:13:38)
+Also die, die ich jetzt hier noch mal orange gehighlighted habe, da würde ich mal den Daumen. Also gut, ich würde ihn vielleicht mehr so in Mittelposition und nicht gleich nach unten fügen, weil solche Ergebnisse würde ich jetzt sofort. Das würde ich dem Netzbetreiber schicken und fragen, ob diese Abweichungen in Ordnung sind.
+
+(0:13:38 - 0:13:49)
+Und wir hatten es bis jetzt eigentlich immer so, dass das dann auch in Ordnung ist. Wir haben natürlich auch hinterfragt, warum, woher die Abweichungen kommen. Aber das ist eine projektspezifische Frage.
+
+(0:13:49 - 0:13:57)
+Für hier wollte ich nur darstellen. Deswegen sind die Toleranzen so wichtig. Und so würde dann mein Messprotokoll am Ende aussehen.
+
+(0:13:57 - 0:14:18)
+Ich schreibe jetzt noch einen Satz drunter, dass das aus meiner Bewertung heraus akzeptabel ist. Und dann würde ich dann den Netzbetreiber um Bestätigung bitten. So, also jetzt haben wir eine Bewertung der Regelergebnisse gemacht und jetzt hat mein Kollege hoffentlich parallel schon einen Download wieder in den Chat geschoben.
+
+(0:14:20 - 0:14:23)
+Ah, der war schon drin. Da waren die Excel schon mit drin. Alles klar.
+
+(0:14:23 - 0:14:33)
+Also das heißt, ihr habt über den Download-Link schon eine Excel-Tabelle. Die mache ich jetzt bei mir hier auch auf. Und dann war der erste Schritt, wenn ich mich richtig erinnere.
+
+(0:14:33 - 0:14:41)
+Genau, hier steht es ja auch. Also wenn ihr das Handout euch anguckt, dann könnt ihr zur Hilfestellung auf die Seite 40 gehen. Das sage ich euch gleich.
+
+(0:14:41 - 0:14:50)
+Aber ihr sollt es ja bitte selber machen. Deswegen habt ihr ja jetzt dieses Prüfprotokoll von uns bekommen. Die gelben Felder sind jetzt von euch zu füllen.
+
+(0:14:50 - 0:14:54)
+Nur die gelben. Mein Gott, es ist Excel. Also ihr kriegt das auch hin.
+
+(0:14:54 - 0:15:03)
+Aber wenn ihr andere füllt, dann zerschießt er jetzt natürlich erst mal die hinterlegten Logiken. Die vier gelben Felder bitte füllen. Das macht er jetzt in, ich sage mal, zwei bis drei Minuten.
+
+(0:15:04 - 0:15:13)
+Zur Hilfe, man könnte sich diese Werte aus der Seite 40 holen. Und über die Toleranzen habe ich, glaube ich, schon oft genug gesprochen. Aber da warten wir jetzt einfach mal zwei Minuten.
+
+(0:15:14 - 0:15:23)
+So lange machen wir hier auch noch mal auf stumm. Und dann bin ich gleich wieder da und ihr füllt die. Dann zeige ich euch das noch mal.
+
+(0:15:23 - 0:15:30)
+Dann können ja alle mitgucken. Das habt ihr ja genau so gemacht, denke ich mal. Und das war dann hier 1,04.
+
+(0:15:30 - 0:15:36)
+So stand das auf der Seite 40 war das, glaube ich. So kommt das halt aus der 4110. Und ja, ja, ich stimme ja zu.
+
+(0:15:36 - 0:15:44)
+Also das liegt doch jetzt hier komplett außerhalb des Bandes. Irgendwas stimmt doch da nicht, wenn wir jetzt. Also ja, es ist auf keinen Fall richtig.
+
+(0:15:44 - 0:15:54)
+Jetzt kommt natürlich die Ingenieurfrage. Ja, was ist denn da vielleicht schief gelaufen? Kann ja schon mal selber überlegen, was er für Antwortmöglichkeiten hat. Und wir gehen bitte noch mal in die Präsentation zurück.
+
+(0:15:54 - 0:16:07)
+Dann zeige ich euch das nämlich, was wir genau hier falsch gemacht haben. Ich sage jetzt, ich behaupte einfach mal, dass der Parkregler falsch eingestellt war. Das wäre so meine Idee.
+
+(0:16:08 - 0:16:13)
+Und muss gleich mal gucken. Genau. Gebe euch mal als Vorlage diese hier.
+
+(0:16:13 - 0:16:22)
+Jetzt tippt die doch mal bitte in Excel ein und guckt, was dann passiert. Das macht jetzt jeder in ungefähr 15 Sekunden. Und ich folge gleich mit der Excel.
+
+(0:16:22 - 0:16:28)
+Einen Moment, wir bleiben einfach hier. Aber jeder kann das für sich ja schon mal eintippen. Reinstimmen.
+
+(0:16:28 - 0:16:35)
+Also ich habe das hier oben jetzt angepasst. Und aha, die Messwerte sind ja die gleichen. Aber auf einmal funktioniert das ganz hervorragend.
+
+(0:16:35 - 0:16:42)
+Das liegt super auf meiner Soll-Linie. Und ehrlich gesagt, ist das dann hier genau auch unsere Lösung. Wir haben einfach uns da vertauscht.
+
+(0:16:42 - 0:16:52)
+Wir hatten das falsche Datenblatt in der Hand. Der Parkregler hat alles richtig gemacht. Und wir haben bei unserer Excel sozusagen vom Vorgängerprojekt noch die falschen Werte reingetippt.
+
+(0:16:53 - 0:17:01)
+Da lag der Fehler. Ist ja meistens so, wenn man Ist- und Sollwert vergleicht, könnten ja beide falsch sein. Bei uns war es jetzt tatsächlich der Sollwert.
+
+(0:17:01 - 0:17:13)
+Der Istwert war in unserer Übung richtig. So, jetzt ist wieder alles gut. Das heißt, wir gehen wieder bitte zurück in die PowerPoint-Präsentation und haben jetzt diese Excel-Geschichte auch durch.
+
+(0:17:13 - 0:17:22)
+Also hier ist die richtige Lösung. So würde das aussehen. Super, da kann man jetzt ein Prüfprotokoll draus machen und das dann der Zertifizierstelle schicken.
+
+(0:17:24 - 0:17:38)
+Damit ist der Punkt auch geschafft. Und jetzt prüfen und übertragen wir noch die Vorgaben aus der Datenpunktliste. Die hatten wir extra hier noch offen gehalten, weil da kommt jetzt dieses Netz-Sicherheitsmanagement her, die Wirkleistung.
+
+(0:17:38 - 0:17:46)
+Wir haben ja jetzt über Blindleistung gesprochen. Das haben wir jetzt auch richtig getestet. Bei der Wirkleistung war es ja so, dass da die Vorgaben aus der Datenpunktliste kommen.
+
+(0:17:47 - 0:17:59)
+Wir können das nicht sehen, was wir machen sollen anhand der 4110. Das geht nicht, da steht nur drin, dass wir es können sollen. Die realen Vorgaben müssen wir hier aus dem E8-Bogen, heißt der mittlerweile.
+
+(0:17:59 - 0:18:09)
+Früher hieß der mal E9 und davor hieß der mal TL7 oder so. Das machen wir aber in Ruhe in einem anderen Brain Day, das mal sortieren. Da kommen die jetzt her.
+
+(0:18:09 - 0:18:25)
+Jetzt haben wir hier auch ein Beispiel und ich ziehe es jetzt durch, weil dann haben Sie das zum dritten Mal in Ruhe und mit der Datenpunktliste im Vergleich gesehen. Also der Sollwert 100 Prozent, der würde da oben kommen. Mindesteinstrahlung ist erforderlich, hatte ich vorhin schon mal genannt.
+
+(0:18:25 - 0:18:48)
+Jetzt ist es bei meinen Projekten meistens so, dass es jetzt plötzlich Winter ist. Jetzt geht das nicht, weil 100 Prozent kann man ja nur an einem wirklich hervorragenden Sommertag oder meinetwegen Frühlingstag mit guten Einstrahlungsbedingungen messen. Wenn wir im Winter nur bei 13 Prozent rumgurken, kann ich ja noch nicht mal den zweiten Prüfpunkt, das wären hier 60 Prozent, prüfen, noch nicht mal den könnte ich ja prüfen.
+
+(0:18:48 - 0:18:59)
+Und auch den dritten in der Logik in meinem Dezember kann ich noch nicht mal den dritten Punkt prüfen. Also machen wir das auch gar nicht. Die Edes sieht das auch dann zum Beispiel gar nicht mehr vor.
+
+(0:18:59 - 0:19:15)
+Da kriegen Sie eine Bestätigung, dass der Test im Frühjahr nachgereicht werden kann. Und jetzt, also jetzt ist es im April, jetzt geht das wieder so langsam. So, also haben wir jetzt diese vier Stufen hier auch noch mal dargestellt, wo die herkommen.
+
+(0:19:16 - 0:19:27)
+Also haben wir jetzt auch da wieder verstanden, was wir überhaupt machen sollen. Das wäre sozusagen die gleiche Logik wie gerade. Und deswegen habt ihr ja auch zwei Excel-Files von uns bekommen.
+
+(0:19:27 - 0:19:44)
+Ich zeige das hier jetzt noch mal in dem Beispiel, dass wir gleich in der Excel uns noch zusammen angucken. Da müsste man mich, glaube ich, jetzt rausnehmen, weil wir da die Werte aus Versehen da an die Stelle gelegt haben. Also typischer, typischer Test.
+
+(0:19:44 - 0:19:52)
+Das sind reale Ergebnisse, die wir da reingebaut haben. Der Sollwert geht runter. Und jetzt seht ihr auch, die Y-Achse ist jetzt in Kilowatt.
+
+(0:19:52 - 0:20:05)
+Also das ist jetzt eine reale Anlage. Die hat zweieinhalb Megawatt. Und da passiert am Anfang erst mal gar nichts um 10.30 Uhr, weil die Einstrahlung so niedrig ist, dass die Anlage nur auf halber Kraft läuft.
+
+(0:20:05 - 0:20:10)
+Also da passiert nichts. Aber im zweiten Schritt. Der zweite Schritt hat, finde ich, jetzt erst mal sehr gut funktioniert.
+
+(0:20:11 - 0:20:18)
+10.33 Uhr geht es runter. Die Wirkleistung folgt. Nächster Schritt 10.37 Uhr.
+
+(0:20:18 - 0:20:33)
+Das sind auch ganz typische Werte. Also man würde jetzt schon so vier, fünf, sechs Minuten warten, damit man das auch überhaupt in diesen Achsen, in den Messwerten des Jannetzer oder des Netzanalysegeräts sehen kann. Wenn man das jetzt im Sekundenrhythmus macht, dann würde man das nicht so schön darstellen können.
+
+(0:20:33 - 0:20:37)
+Also ganz typischer Test. Geht dann auch so weiter. Dauert dann noch mal fünf, sechs Minuten.
+
+(0:20:37 - 0:20:46)
+Also in Summe haben wir jetzt hier elf Minuten gebraucht für unseren Regelungstest. Dann wartet man noch mal fünf, also 15 Minuten. Übliche Darstellung.
+
+(0:20:46 - 0:21:03)
+So würde ich das sozusagen sehen. Danach lasse ich meinen Regler wieder freien Lauf auf 100 Prozent. Und wir sehen wunderbares PT1 Verhalten, wie die Anlage innerhalb von was sind es? Ungefähr zwei Minuten wieder hinterher regelt auf 100 Prozent.
+
+(0:21:05 - 0:21:15)
+Die Toleranzen nehmen wir hier mit rein, weil das habe ich jetzt schon mehrfach beschrieben. Die brauche ich, um eine Bewertung machen zu können. Und das ist jetzt auch unser letzter Schritt für heute.
+
+(0:21:16 - 0:21:34)
+Wir bewerten jetzt noch mal so einen Regelungstest der Wirkleistung. Dazu gehen wir bitte in die. Also ihr geht bitte in eure zweite Excel Tabelle, die seht ihr jetzt schon hinter mir und tippt einfach mal die Werte ab, die da stehen.
+
+(0:21:34 - 0:21:41)
+Da gehe ich auch noch mal auf Stumm für ein paar Sekunden. Ihr tippt das erst mal ab, was ihr gerade gesehen habt. Und das blenden wir auch noch mal ein.
+
+(0:21:41 - 0:21:48)
+Bis gleich. So willkommen zurück. Ihr habt das Gleiche gemacht wie ich.
+
+(0:21:48 - 0:21:55)
+Das ist auch der Verlauf, den wir gerade in unserem Beispiel gezeigt haben. Also so würde das aussehen. Im Hintergrund hier Messung zweiter Tab.
+
+(0:21:56 - 0:22:02)
+Da sind die aus dem Netzanalyse Gerät. Und jetzt kann man das wunderbar bewerten. Inklusive der Abweichung.
+
+(0:22:02 - 0:22:11)
+Ich müsste noch mal hier rein. Wenn ich hier mal rein zoome, würde ich jetzt mal behaupten, dass wir hier. Also das läuft bei mir wieder unter Toleranz.
+
+(0:22:11 - 0:22:20)
+Kann man ja gerne auch noch mal den Netzbetreiber fragen. Aber das ist schon ziemlich genau. Ich habe die zwei Prozent angenommen, einfach nur als Prinzip jetzt mal angenommen.
+
+(0:22:21 - 0:22:30)
+Der Netzbetreiber sagt euch ein Prozent. Dann könnte man jetzt hier sagen Ja, da haben wir es jetzt irgendwie dummerweise nicht bestanden und man muss weiter drüber nachdenken. Das ist jetzt ein gewolltes Szenario, das ich hier kreiere.
+
+(0:22:30 - 0:22:36)
+In Wirklichkeit ist das nicht so. Also dieser Test ist ganz klar bestanden. Das hat 100 Prozent funktioniert.
+
+(0:22:37 - 0:22:44)
+Und am Anfang sieht man hier auch gut. Am Anfang war die Einstrahlung nicht groß genug. Deswegen habe ich da diese Lampe auch vorhin hingezeichnet.
+
+(0:22:44 - 0:22:50)
+Okay, dann gehen wir zurück in die PowerPoint. Wir sind hier an der Stelle durch.

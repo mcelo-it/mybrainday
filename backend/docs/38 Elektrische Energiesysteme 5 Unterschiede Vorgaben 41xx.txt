@@ -1,0 +1,192 @@
+(0:00:00 - 0:00:25)
+Und jetzt versuchen wir mal, das was wir jetzt gelernt haben, nochmal in den Unterschieden in der 41.10 uns ein bisschen vor Augen zu halten. Also wir gehen jetzt die 41.10 durch und da gibt es eben Vorgaben für dieses Blindleistungsverhalten. Später im nächsten Kapitel, im letzten Kapitel, versuchen wir dann diese Vorgaben mit dem, was wir eben errechnet haben, nochmal zusammenzufügen.
+
+(0:00:25 - 0:01:56)
+Ja, also ihr habt jetzt gelernt, was passiert denn da eben mit so einem Kosinus-Vieh im Solarpark am Netzanschlusspunkt und was können die Wechselrichter, was können sie vielleicht nicht. Und jetzt gibt es die Vorgaben und zum Schluss gibt es dann eben die Summe daraus und ein hoffentlich erhellendes Ergebnis für alle. So, wir gehen, wir gehen hier rein, die Unterschiede, also das machen wir uns dann erstmal wieder für die Übersicht, damit es ein bisschen einfacher ist, zeigen. 
+
+Wir gucken uns hier erstmal diese Normen an, die wir haben. Also die Niederspannung lassen wir raus. Wir machen die 41.10, 20 und 30, also von Mittel bis Höchstspannung. 
+
+Und dazu nur zur Erinnerung nochmal, welcher Bereich das überhaupt ist. Also hier erzählt, ich glaube, den meisten nichts Neues. Wir sind hier in verschiedenen Spannungsbereichen und für jeden Bereich gibt es eben eine passende Norm oder Arbeitsrichtlinie. 
+
+Und jetzt gucken wir uns hier verschiedene Blindleistungsvorgaben an. Hier steht jetzt Q von U und da lasst euch mal nicht, lasst euch nicht durcheinander bringen. Also hier ist jetzt nicht die Q von U Kennlinie gemeint, die der Parkregler fahren muss und auch nicht der QU-Schutz. 
+
+Hier geht es um die Blindleistungsanforderung abhängig von der Spannung. Also diese Normen, alle drei Normen geben erstmal einen Arbeitsbereich vor, den wir erfüllen müssen können am Netzanschlusspunkt Blindleistung in Abhängigkeit von der Spannung. Das wird erstmal vorgegeben.
+
+(0:01:56 - 0:02:19)
+Also unten auf der Achse haben wir dann das Q von PBinst, so wird es genannt in der Norm. Und auf der y-Achse haben wir unsere Spannung U von UC. Das UC ist die vereinbarte Spannung am Netzanschlusspunkt und das U ist dann eben die Variation oder das tatsächliche U. Und jetzt schauen wir uns das mal an.
+
+(0:02:20 - 0:02:49)
+Also wir starten erstmal mit einer grünen Linie. Jetzt brauchen wir da gleich mal Zahlen dran. So, diese grüne Linie, der erste Punkt, den wir da zeigen, ist eben bei einer, ich sag jetzt mal tendenziell Unterspannung, also 92,5 Prozent der vereinbarten Netzspannung, die wir da haben. 
+
+Und da sollen wir ein Q von PBinst abliefern von 0,33. Das ist, ich sag mal, das Äquivalent zu einem Kosinus V von 0,95. Das kann man umrechnen, dann wäre es genau dieser Wert.
+
+(0:02:51 - 0:04:30)
+Und jetzt zeichnet sich hier nachher so eine Art, naja, was ist es, ich glaube ein Trapez, bei eben einem Kosinus V von 0,95. Den müssen wir eben auch abliefern können, wenn die Netzspannung steigt bis zu 110 Prozent. Und so fährt sich jetzt hier dieses, ich nenne es jetzt mal Trapez, zu Ende. 
+
+Hier ist jetzt der Kosinus V von 1. Also wir müssen jetzt hier an dieser Stelle keine Blindleistung am Netzanschlusspunkt zur Verfügung stellen, sondern nur Wirkleistung. Und es geht eben so weiter. Jetzt haben wir euch noch untererregt und übererregt hinzugefügt, dass es eben komplett ist. 
+
+Aber da wollen wir euch jetzt auch gar nicht, ich sag mal, überfordern. Es gibt im Grunde genommen diese Anforderungen, das sollt ihr euch hier im Grunde merken. Und diese Anforderungen müssen wir dann eben einhalten und in der Netzberechnung nachweisen. 
+
+So, jetzt sind wir bei 90 Prozent der Netzspannung angekommen und da müssen wir eben übererregt einspeisen können, weil dann stützen wir das Netz. Das ist erst mal wichtig. Also das ist hier eine Vorgabe, die wir einhalten müssen. 
+
+Und jetzt gibt es hier noch wichtige Themen, weil diese Vorgaben könnten jetzt natürlich dazu führen, dass die Wirkleistung reduziert werden muss. Diesen Schriftzug oben Wirkleistungsreduzierung, den führen wir jetzt immer mit oder fast immer mit und kommentieren jetzt mal, was diese Norm, diese 4110 dazu sagt. Also erst mal sagt hier diese 4110, die Wirkleistungsreduzierung ist zugunsten der Spannung nicht zulässig.
+
+(0:04:30 - 0:04:55)
+Boah, was heißt denn das eigentlich genau? Wenn wir jetzt, sage ich mal, eine reduzierte Spannung haben von 90 Prozent, dann dürfen wir unsere Wirkleistung nicht reduzieren. Das muss man jetzt erst mal so hinnehmen. Das heißt, sagen wir mal, unser 215 kW Wechselrichter, den wir eben gesehen haben, der müsste auch bei 90 Prozent Netzspannung 215 kW liefern können.
+
+(0:04:56 - 0:06:41)
+Und jetzt gab es da immer ziemlich unterschiedliche Ansichten, auch von Zertifizierern, zwischen Zertifizierern untereinander. Und der FNN hat dann am 05.04.2022 einmal was klargestellt und er sagte eben, dann in dieser Klarstellung hat er, er hat dann noch mal klargestellt, dass eben wirklich diese Wirkleistung nicht reduziert werden darf zugunsten der Spannung. Ganz wichtig, zugunsten der Spannung. 
+
+Und seitdem ist es ja auch wirklich so, dass die Anlagenzertifikate in der Mittelspannung dann häufig eine Reduzierung der Wirkleistung vorschreiben. Und jetzt hier ganz wichtig, das ist im Grunde genommen der Punkt, der jetzt hier orange geworden ist, in dem Diagramm. Ich gehe noch mal zurück. 
+
+Da, jetzt wird es orange, genau. Bei einem Cosinus V von 1 muss der Wechselrichter in der Lage sein, auch bei 90 Prozent der Spannung die volle Wirkleistung einzuspeisen. Jetzt gehen wir hier mal in so ein anderes Schaubild und wir reden hier auch immer von diesem quasi stationären Betrieb. 
+
+Unter diesem Oberpunkt hat der FNN nämlich diese Veröffentlichung ausgegeben. Und jetzt schauen wir uns hier so eine Kennlinie von so einem Wechselrichter mal an. Das ist jetzt ein anderer Wechselrichter, spielt aber im Grunde genommen keine Rolle, weil die Wechselrichter sich da, zumindest die Wechselrichter, die ich kenne, alle sehr sehr gleich verhalten. 
+
+Die meisten Wechselrichter sind stromlimitiert, so würde ich das mal sagen. Also ihr könnt in das Datenblatt gucken von den Wechselrichtern, da steht dann meistens ein Strom drin, sagen wir mal 250 Ampere. Und wenn ihr diesen Strom mal der Nennspannung multipliziert, dann kommt ihr meistens auf die Nenn-Wirkleistung.
+
+(0:06:41 - 0:07:36)
+Und dieser Strom kann nicht erhöht werden. Das ist einfach baulich so. Und wenn jetzt die Spannung sich reduziert, dann ist es ja P ist U mal I, das U wird kleiner, das I bleibt gleich, dann wird auch das P kleiner. 
+
+Das ist einfach so. Also die reduzierte Spannung führt dann einfach zu einer Reduzierung der Wirkleistung. Und das ist dann sehr sehr linear. 
+
+Also wenn man jetzt auf 90 Prozent der Spannung runter geht, dann hat man auch nur noch 90 Prozent der Wirkleistung. Und das sollt ihr bitte mitnehmen und in eurer Planung beachten. Vielleicht auch mehr Wechselrichter installieren, das kann man sich dann genau überlegen. 
+
+Da kommen wir auch später noch mal drauf. Aber es ist immer schwierig, wenn das Anlagenzertifikat irgendwann auf dem Tisch liegt. Der Park ist gebaut und dann müsst ihr das erklären. 
+
+Das ist einfach immer schwer. Also nehmt das mal mit. Wir haben jetzt ein Thema rausgegriffen.
+
+(0:07:37 - 0:08:23)
+Spannungsabhängige Blindleistungs-Fahrweisen. Da muss man bei der 4110 wirklich aufpassen. Nimmt das mal mit. 
+
+Und es kommen ja nachher noch eine andere Fahrweise. Das darf man dann nicht mixen. Da braucht man eine klare Trennung. 
+
+Aber das erwähne ich glaube ich in den nächsten 15 Minuten noch fünfmal. Von daher hoffe ich, dass wir da dann auch sauber durchkommen. Wir nehmen das jetzt mal mit. 
+
+4110. Spannungsabhängige Blindleistung. Keine Reduzierung der Wirkleistung zugunsten der Spannung erlaubt. 
+
+Führt zu einer Reduzierung der Wirkleistung am NAP. Und das auch dauerhaft. Das ist hier nicht, dass man mal, wenn die Spannung runtergeht, reduzieren muss.
+
+(0:08:23 - 0:08:31)
+Man wird dauerhaft wirklich dann auf diese Leistung reduziert. Wir springen jetzt mal in die 4120. Das ist das gleiche Thema.
+
+(0:08:31 - 0:09:37)
+Wir gehen jetzt nur in eine andere Norm, in ein anderes Spannungslevel und gucken uns hier die gleiche Kennlinie an. Also es ist auch wieder Blindleistung in Abhängigkeit von der Wirkleistung und eben von 96 Prozent der Spannung bis auf 127 Prozent glaube ich. Also genau. 
+
+Verschiedene Spannungsbereiche und erst mal wichtig. Hier ist jetzt eine die erste Kennlinie dargestellt und hier steht jetzt aber auch, es gibt drei Varianten. Das findet ihr im E7-Bogen. 
+
+Da kann man dann ankreuzen. Also was heißt man? Der Netzbetreiber kann das ankreuzen. Welche Variante er jetzt gerne haben möchte. 
+
+Also hier sagen wir mal Variante 1. Dann kommt als nächstes hier die Variante 2 und zum Schluss die Variante 3. Alle Varianten sind von der Fläche gleich groß, aber sie sind eben verschoben von dem induktiven in den kapazitiven Bereich. Und hier nehmen wir auch wieder dieses Thema Wirkleistungsreduzierung mit. 4120, 4130 gibt es ähnliche Anforderungen.
+
+(0:09:37 - 0:14:29)
+Und auch hier heißt es, zugunsten der Spannung ist die Wirkleistungsreduzierung nicht zulässig oder Wirkleistungsreduzierung zugunsten der Spannung ist nicht zulässig. So steht es hier. Das heißt auch hier dürfen wir, wenn die Netzspannung fällt, die Wirkleistung nicht reduzieren. 
+
+Was uns jetzt hier aber bei diesen Hochspannungsanschlüssen sehr hilft, sehr in die Karten spielt, ist, dass wir im Mittelspannungsnetz dieses Phänomen nicht beachten müssen, weil wir haben ein Onload-Tap-Changer oder einen Stufenschalter, der eben im Betrieb das Übersetzungsverhältnis vom Hochspannungstrafo anpassen kann, so dass wir aus Zertifizierungssicht annehmen können, dass die Mittelspannung konstant ist. Das heißt, wenn wir jetzt unsere Lastfälle durchrechnen, unsere Lastflussberechnung und diesen Fall Q, Blindleistungen in Abhängigkeit von der Spannung analysieren, dann rechnen wir immer mit einer konstanten Mittelspannung, das heißt mit einer konstanten Niederspannung an den Wechselrichter klemmen und dadurch immer mit U nennen. Das heißt, wir dürfen hier immer die Wirkleistung des Wechselrichters, die maximale Wirkleistung des Wechselrichters ansetzen aus Sicht dieser Spannungsabhängigkeit. 
+
+Hier wäre dann eben eine Wirkleistungsreduzierung erstmal nicht zu beachten, nicht anzuwenden, es ist hier nicht notwendig, das zu berücksichtigen. Wir rechnen das natürlich, aber eben aufgrund des Tap Changers hat das hier keine Auswirkungen. Das ist erst mal gut und so nehmen wir das auch erst mal mit, hier als Hinweis in dieser Tabelle, damit ihr das hinterher einmal anschaulich übersichtlich habt. 
+
+Onload Tap Changer verhindert Reduzierung der Wirkleistung zugunsten der Spannung. Jetzt gehen wir noch mal in die Höchstspannungsrichtlinie, wer damit schon mal zu tun hatte. Nur hier als Hinweis, auch hier gibt es drei Blindleistungsfenster, auch die sind so ein bisschen verschoben, sehen jetzt ein bisschen anders aus. 
+
+Das müsst ihr euch auch gar nicht merken, wie die genau aussehen. Wichtig ist, dass es auch hier genauso gilt wie in der 4120. Es ist erst mal nicht zulässig, zugunsten der Spannung die Wirkleistung zu reduzieren und auch wegen des Tap Changers ist das hier jetzt auch nicht so wichtig, weil wir auch hier von einer konstanten Mittelspannung ausgehen dürfen. 
+
+Unser Hochspannungstrafo sorgt dafür. Auch das nehmen wir mit, das heißt was jetzt bei der 4120 stand, das wird jetzt auch bei der 4130 stehen. Der Onload Tap Changer verhindert Reduzierung P zugunsten U. Nehmt das mal mit, verdaut das heute Nacht oder am Wochenende und am Montag habt ihr dann vielleicht noch mal Fragen dazu. 
+
+Aber das seht ihr später auch noch mal, das was hier positiv für uns ist und was negativ ist, das färben wir später noch mal in Farben, dann ist es ein bisschen anschaulicher. So, wir haben jetzt den ersten Block durch. Blindleistung zugunsten der Spannung und gehen jetzt in den nächsten Block. 
+
+Das ist Blindleistung zugunsten der Wirkleistung. Das fliegt jetzt auch rüber und dann steht das da auch noch mal, ich sag mal in Worten, ja, Blindleistung abhängig von der Wirkleistung. Da kommt jetzt eine andere Kennlinie rein, also Blindleistung in Abhängigkeit von der in Betrieb befindlichen installierten Wirkleistung, so wird das im Detail heißen und da wird jetzt natürlich auch eine Grafik draus. 
+
+Also auf der anderen Achse haben wir die momentane Wirkleistung. So, 4110 ist es genau dieses Fenster von 0.33 bis 0.33, also Cosinus V 0,95 bis, von Induktiv bis Kapazitiv, genau das gleiche und eben von, ich sag mal 0% Leistung bis 100% Leistung. Spannt sich dieses Fenster auf und da müssen wir uns drin, ich sag mal, irgendwo befinden, beziehungsweise wir müssen uns außerhalb befinden, wir müssen dieses Fenster mindestens abdecken, wir dürfen es dann eigentlich erstmal nicht unterschreiten. 
+
+So und jetzt sagt die 4110 zu dem Thema Wirkleistungsreduzierung, genauso wie wir es eben schon bei der Spannung hatten, Wirkleistungsreduzierung zugunsten der Blindleistung zulässig. Ja, Achtung, hier kann es passieren, dass wir, sage ich mal, eine Cosinus V Anforderungen haben von 1, wir fahren mit 100% Wirkleistung und dann entscheidet sich der Netzbetreiber meinetwegen, er will jetzt Cosinus V von 0,95. Ja, das hätte ja zur Folge, dass der Wechselrichter Blindleistung einspeisen muss. 
+
+Er wird es auch tun, aber weil er es nicht kann, weil er ja limitiert ist, wird er seine Wirkleistung reduzieren. Also er wird dann nicht mehr mit 100% Wirkleistung einspeisen, sondern nur noch mit 95% zum Beispiel und das ist in der 4110 erstmal zulässig und ich will das also erstmal. Das ist zulässig, das heißt diese Limitierung müssen wir hier nicht beachten.
+
+(0:14:29 - 0:16:42)
+Das ist erstmal hervorragend, weil es wird hier nicht zu einer dauerhaften Limitierung der Wechselrichter kommen aufgrund von Blindleistung zugunsten der Wirkleistung. Und jetzt, ich sage es nochmal wieder, trennen bitte von Blindleistung zugunsten der Spannung, weil dafür müssen wir ja limitieren. Wir nehmen das jetzt hier mit in diese Tabelle. 
+
+Reduzierung der Wirkleistung zugunsten der Blindleistung ist erlaubt oder zulässig. Es gibt eine Variante, das schreiben wir hier noch mit dazu, weil bei den anderen Normen, das sehen wir ja jetzt und haben es ja auch vorher schon gesehen, da gibt es dann mehrere Blindleistungsvarianten. Wir gehen in die nächste Norm, in die 4120 und da schauen wir uns das gleiche Thema nochmal an. 
+
+Hier seht ihr ja erstmal, das ist wieder verschoben. Also es gibt hier erstmal einen größeren übererregten Bereich als einen untererregten Bereich und es gibt hier eben auch mehrere Varianten und die schieben sich jetzt, ich sage mal so sukzessive, in den untererregten Bereich. Vielleicht nochmal Exkurs hier, Zellfallsystem. 
+
+Ihr seht, dass hier die Wirkleistung negativ gezeigt ist. Da wissen jetzt alle sofort, die Norm bezieht sich hier auf das Verbraucherzellfallsystem. Also wir gehen wieder zurück zur Wirkleistungsreduzierung und hier, dritte Kennlinie auch noch, hätte ich fast unterschlagen, die Wirkleistungsreduzierung zugunsten der Blindleistung ist nicht zulässig. 
+
+Also großer Unterschied zu 4110. Hier in dieser Norm 4120, in der 110 KV Norm, sage ich mal, ist die Blindleistungsreduzierung zugunsten der Wirkleistungsreduzierung nicht zulässig. Ja genau, also der Leistungsfaktor ist dann zusätzlich noch größer als der 4110. 
+
+Das ist, finde ich, auch nochmal ein wichtiger Hinweis hier und wenn der Netzbetreiber dann eine der drei Varianten auswählt, kann das natürlich durchaus auch sein, dass er dann genau die Variante auswählt, die für uns von Nachteil ist. Und jetzt ist es schwer zu beantworten, welche Kennlinie das dann ist, die für uns von Vorteil oder von Nachteil ist. Wir haben es jetzt hier mal allgemein gehalten, das ist natürlich von eurer Anlagen-Topologie abhängig.
+
+(0:16:43 - 0:20:15)
+Viele Mittelspannungskabel, viele Trafos oder andersrum, dann würde sich das, kann sich das ändern und kann eben für uns von Vorteil oder von Nachteil sein. So, wir übernehmen das wieder, was ich gerade gesagt habe in der 4110, also Wirkleistungsreduzierung zugunsten der Blindleistung ist nicht erlaubt, nicht zulässig. Drei Varianten, genau, je nachdem welche Variante gewählt wird, ist das für uns besser oder schlechter. 
+
+Dann gehen wir noch in die 4130, um das komplett zu haben. Hier gelten auch drei Kennlinien, die sehen auch exakt so aus wie in der 4120 und hier gilt auch das gleiche wie in der 4120, diese Blindleistungsreduzierung zugunsten der Wirkleistung ist nicht zulässig und deshalb übernehmen wir auch den gleichen Text, 4120 gleich 4130 kann man vielleicht sagen, es ist in diesem, sagen wir mal, im Grunde bei diesen Anforderungen sehr ähnlich. So, das haben wir jetzt mal, sind wir jetzt mal durchgegangen und wir haben jetzt das, was grün eingefärbt ist, werten wir jetzt erstmal für uns als positiv und das was gelb eingefärbt ist, das ist eher das, was wir negativ werten müssen. 
+
+Im Grunde genommen haben alle Normen leider einen Nachteil, bei der 4110 ist es eben diese Spannungsabhängigkeit, bei den 4120 und 4130 ist es dann eben Blindleistung zugunsten der Wirkleistung und dann müsste er jetzt leider auch noch im Kopf haben, dass ja bei der 4120 und 4130 dieser große Trafo am Netzanschlusspunkt leider so viel Blindleistung braucht. Also behaltet das mal im Kopf, damit sind wir jetzt erstmal durch und würden jetzt noch mal in die Bewertung springen. Also wir haben vorhin gelernt, was der Wechselrichter kann, was das Netz unseres Parks macht, jetzt haben wir die Vorgaben aus der Norm kennengelernt und jetzt gucken wir mal, ob wir das irgendwie ineinandergelegt kriegen. 
+
+So, wir gucken uns jetzt hier mal die Bewertung des Blindleistungsverhaltens an. Zur Erinnerung, ein vereinfachtes Netzsystem haben wir euch gezeigt, um mal die, ich sage mal, das Vermögen gleich zu zeigen und das, was wir tun müssen. Also es gibt auch hier wieder Q von P, eine schöne Kennlinie und die dann im Verhältnis zu der installierten Wirkleistung. 
+
+Also wir haben die Wechselrichter und die haben erstmal ein, ich sage mal, Blindleistungsvermögen. Das hier ähnelt natürlich erstmal sehr stark der Kurve, die wir von den Wechselrichtern kennen. Also da sieht nichts verschoben aus, das können die Wechselrichter und jetzt haben wir aber auch noch mal ein Vermögen unserer Wechselrichter, was dann am Netzanschlusspunkt ankommt. 
+
+Also das darf man nicht verwechseln. Die Wechselrichter machen was, was am Netzanschlusspunkt passiert, ist was anderes. Und das haben wir eben ein bisschen hergeleitet, Trafos-Kabel und so weiter, verschieben jetzt den Kosinus-Phi, den der Wechselrichter eigentlich rausgibt. 
+
+Und jetzt zeigen wir jetzt noch mal, das was wir im vorletzten Kapitel hergeleitet haben, was das dann, ich sage mal, vom einen in das nächste, in die nächste Folie dann eigentlich bedeutet, dass diese gelbe Linie verschiebt sich. Ich glaube, im dritten Kapitel haben wir erklärt, dass sich ein Betriebspunkt verschiebt. Also Kosinus-Phi 1 hat sich dann verschoben zu einem anderen Punkt und im Grunde genommen ist das die Spitze der grünen Kennlinie, die verschiebt sich jetzt zu der Spitze der gelben Kennlinie.
+
+(0:20:16 - 0:23:34)
+Das ist der einzige Punkt, den wir bisher berechnet haben. Unsere Netzberechnungssoftware, die muss eben hier deutlich mehr Punkte berechnen und dann eben auch zu verschiedenen Spannungen. Halten wir das mal so fest. 
+
+Jetzt haben wir ein Vermögen des Wechselrichters und das ist für uns wichtig, weil das, was wir am Netzanschlusspunkt liefern müssen, ist im Grunde genommen unsere Anforderung aus der Norm. Die interessiert im Grunde nicht, was der Wechselrichter kann, die interessiert am Ende, was am Netzanschlusspunkt ankommt. Wir haben noch mal Verluste dargestellt, hier sind diese Spitzen noch mal markiert. 
+
+Das, was man im Grunde genommen in der Y-Achse an Verlusten hat, das sind Wirkverluste, die Verschiebung nach rechts, das wären dann eben die Blindverluste. Weiter geht es. Wir nehmen mal das Vermögen der Wechselrichter raus, weil das interessiert uns nur noch am Rande später und schauen jetzt mal, was die 4110 zu diesem Blindleistungsvermögen am Netzanschlusspunkt sagt. 
+
+Hier die Anforderung hatten wir vorhin. Ihr erinnert euch, die sieht in der 4110 genau so aus und wir betrachten jetzt hier Q von P. Diese Spannungsabhängigkeit, die lassen wir mal gerade an der Seite. Interessanter ist für uns jetzt hier Q von P. Ihr seht jetzt, dass das Vermögen, das was die gelbe Linie zeigt, erst mal unterhalb von der grünen Linie liegt. 
+
+Das liegt daran, dass sich diese Anforderungen auf die installierte Wechselrichterleistung beziehen. Jetzt müssen wir vielleicht doch noch mal einblenden, was wir hier als installierte Wechselrichterleistung meinen. Das ist genau das. 
+
+Aus dieser maximalen Wechselrichterleistung ergibt sich das grüne Diagramm. Deshalb sieht das grüne Diagramm so aus, wie es aussieht. Wir nehmen die grüne Kennlinie des Wechselrichters wieder weg, damit es vielleicht ein bisschen einfacher ist und jetzt seht ihr halt, deshalb ist die grüne Linie so wie sie ist und die gelbe Linie ist so wie sie ist, weil das interne Parknetz diesem Kosinus Phi verschiebt. 
+
+Ihr erinnert euch auch an das letzte Kapitel. Keine Wirkleistungsreduzierung zugunsten der Blindleistung nötig. Das heißt, wir haben da oben eine Sekunde. 
+
+Wir haben da ja oben über der gelben Linie einen Bereich, den wir nicht erfüllen können. Aber das ist jetzt bei der 41.10 nicht wichtig. Wir können jetzt die Wechselrichter mit voller Leistung fahren und wenn dann mehr oder weniger Kosinus Phi gefordert wird, dann dürfen wir unsere Wirkleistung weiter reduzieren. 
+
+Das ist der große Vorteil an der 41.10. Diese wirkleistungsabhängige Blindleistungsreduzierung ist hier erstmal nicht zu berücksichtigen. Jetzt machen wir einen Sprung in die 41.20. Also oben in der Überschrift ändert sich das. Da wird es die 41.20 gleich, dass die Kennlinie, die Vorgabe, die grüne hat sich auch verschoben. 
+
+Ich gehe noch mal kurz zurück. Von 0,33 schiebt es sich ein bisschen weiter auf 0,41. Also der Kosinus Phi wird etwas anspruchsvoller, sage ich mal, für unseren Wechselrichter, weil wir sind in der 41.20. Warum auch nicht? Das ist einfach eine Vorgabe. 
+
+Damit müssen wir leben. Und jetzt müssen wir leider auch damit leben, dass unsere Wechselrichter jetzt diese Anforderungen erstmal nicht erfüllen können. Und ihr erinnert euch ja auch, dass sie das aber tun müssen.
+
+(0:23:34 - 0:29:57)
+41.20 war dann ein Unterschied zu 41.10. Hier ist die Anforderung jetzt leider nicht erfüllt und das hat dann eine Wirkleistungsreduktion am Ende zur Folge. Also hier ist das nicht erfüllt. Lösungsmöglichkeiten, was kann man tun? Variante A, die Wirkleistung limitieren. 
+
+Ganz einfach. Stumpf, zack, so wird es der Zertifizierer machen. Der zieht euch hier die Linie rein und sagt euch, bitte reduziert eure Wirkleistung dauerhaft auf 85%. 
+
+Dann machen meistens alle so ein Gesicht wie ich gerade. Das ist sehr, wenn das spät im Projekt kommt, immer sehr, sehr schwierig. Die Anforderung wäre jetzt bei 85% von Pinst erfüllt und damit muss man dann erstmal arbeiten. 
+
+Variante B wäre, ja man weiß das vielleicht ein bisschen vorher und könnte jetzt die Blindleistung, mehr Blindleistung installieren. Jetzt sage ich mal, mehr Wechselrichter und dann würde das folgende passieren, mehr Wechselrichter. Dann geht jetzt hier dieses Vermögen am Netzanschlusspunkt hoch und zwar in alle Richtungen. 
+
+Wir haben mehr Wirkleistung, wir haben mehr Blindleistung und dann habe ich auch gleichzeitig mitgeschoben, diese 0,95, diese Wirkleistungsreduzierung, die würde sich dann verbessern. Das muss man aber ausrechnen, ob das wirklich so ist. Und jetzt hätten wir noch mal eine andere Möglichkeit, eine Kompensationsanlage einzubauen und die hat dann aber einen anderen Effekt. 
+
+Die würde nicht das gesamte Fenster vergrößern, sondern, ihr habt das jetzt gesehen, ich mache es nochmal zurück, da schiebt sich jetzt einfach nur ein bisschen von rechts nach links. Eine Kompensation hat keine Wirkleistung, sondern nur Blindleistung. Deshalb ist das der Effekt von der Kompensation. 
+
+Und dann ist eben auch das Mehr Wirkleistung etwas geringer. So wäre das, schiebt sich hin und her. Jetzt gehen wir wieder zurück, Ausgangspunkt Optimierung. 
+
+Wir waren jetzt hier bei 85 Prozent und wir sagen mal, das ist jetzt so, wir können jetzt nicht mehr Wechselrichter installieren. Deshalb machen wir vor der Anmeldung unserer PV-Anlage schon mal eine Netzberechnung, weil das Q, was wir hier berechnen, errechnet sich aus dem PBinst und das ist eben 33 Prozent, sage ich mal, mal PBinst, 0,33 mal PBinst und daraus resultiert ein Vermögen, was eben so dargestellt ist, wie es hier zu sehen ist. Wenn man jetzt aber vorher schon weiß, wie weit man sich reduzieren muss, dann kann man die Anmeldung ändern und vorher mit einem reduzierten PBinst in die Anmeldung gehen und dann hat man eben ein reduziertes Blind, eine reduzierte Blindleistungsanforderung, weil die Formel oben 0,33 mal reduziertes PBinst hätte dann zur Folge, dass unsere Anforderung so aussähe. 
+
+Das müsst ihr dann aber auch frühzeitig berechnen und nicht auf den Zertifizierer warten und dann habt ihr da so eine kleine, so eine kleine Reserve. Da muss man jetzt noch mal iterativ nachrechnen und könnte jetzt sagen, aha, mein PBinst könnte ich ja noch mal einen Tacken höher machen und hab dann am Ende des Tages ein bisschen was gewonnen, im Gegensatz zu einer Berechnung, die vielleicht später erst bei der Zertifizierung erfolgt. So, das wäre jetzt erstmal ein Schnelldurchlauf. 
+
+Was machen wir jetzt damit? Das will ich euch nicht vorenthalten. Also, normalerweise läuft es ja so, ihr als Elektroplaner kriegt eine Auslegung hier, Wechselrichter, Module, AC-DC-Verhältnis, los geht's, damit arbeiten wir jetzt. Dann gibt es eine Netzberechnung, genau, da kommt dann ein neues Ergebnis raus und aus diesem neuen Ergebnis können wir dann ermitteln, ob die 41.10, 41.20 eingehalten ist. 
+
+Ja, dann nimmt man dieses Ergebnis in die PVSYST und berechnet neu. Dann hat man, ich sage mal, eine kommerzielle Bewertung für unsere Netzberechnungsresultate. Das ist hier erstmal dann das Ergebnis aus der ersten Runde und jetzt kann man natürlich als Vertriebler zum Beispiel sagen, sinnhaft wäre ja, wenn unser Pinst oder unser PBinst, unsere Reduzierung, vielleicht nicht so tief ausfällt. 
+
+Ich biete jetzt meinem Kunden an, zum Beispiel mehr Wechselrichter zu installieren. Ja, dann muss man die nächste Schleife drehen. Wir als Elektroplaner können euch dann eben das neue PBinst nennen. 
+
+Dann kann der Vertrieb oder vielleicht auch ihr als Elektroplaner die PVSYST-Berechnung anpassen. Der Vertrieb kann dann die Kosten gegenhalten und eine neue Rentabilität ermitteln und dann hätte man Variante 2 ermittelt und das kann man jetzt noch zwei, dreimal drehen, diese Schleife und sich am Ende dann eine optimierte Anlagenkonfiguration überlegen. Also Netzberechnung wäre dann im Grunde vielleicht schon sinnvoll in der Angebotsphase oder zumindest mal eine Annäherungsweise-Berechnung, so gut es geht. 
+
+Das ganz schnell, wir sind um 11.02 Uhr, wir sind schon wieder etwas über der Zeit. Was bedeutet das für den PR, für die Performance Ratio? Und hier, wir würden es so machen, wir würden eine Variante kriegen, die wir hier eintragen. Wir sagen es mal 63 Wechselrichter ohne Kompensationsanlage. 
+
+Wir haben dann eine installierte Leistung von 94,5 Megawatt. Okay, wir errechnen eine Wechselrichter- limitierung und DC-AC-Verhältnis können wir vielleicht mal außen vor lassen, aber hätten wir jetzt erstmal so und würden dann, sage ich mal, mehr Ertrag ausblenden, mehr Kosten ausblenden, Rentabilität auch. Wir würden jetzt eine zweite Berechnung machen und mal einen Wechselrichter wegnehmen oder einen Wechselrichter mehr verwenden, eine neue Berechnung machen, eine neue Leistungsreduzierung bekommen und jetzt ist aber euer Vertrieb, sage ich mal, gefragt, der dann auch die Mehrkosten ermittelt, mehr Wechselrichter, mehr Trafostationen, mehr Kabel und so weiter und daraus eine Rentabilität ermittelt. 
+
+Wenn ihr das mal gegriffen habt in der 41.20, 41.30, dann glaube ich, seid ihr schon ziemlich weit, dann könnt ihr wirklich euren Vertrieb auch früh unterstützen und am Ende ist es ja, glaube ich, eine Win-Win-Situation für Vertrieb, Kunde und alle, die mit dem Projekt zu tun haben. Ihr müsst das früh machen, damit ihr später dann nicht in eine komische, blöde Situation geratet. Also, wir sind drei Minuten über die Zeit, hier noch eine Variante drin und ich würde jetzt sagen, wir gehen noch einmal ganz schnell ins Menti und wenn ihr noch Fragen habt, bitte raus damit.
+
+(0:29:58 - 0:30:37)
+Ansonsten, glaube ich, war das heute ein sehr knackiges Thema. Ihr könnt eure Fragen noch gerne morgen, morgen vielleicht nicht, aber Montag schicken, wenn ihr darüber noch mal nachgedacht habt, mit Kollegen noch mal darüber diskutiert habt, was auch immer. Nehmt das gerne mal mit, besprecht das mit dem Vertrieb, mit den Leuten, die früh mit dem Projekt zu tun haben, wie man mit dieser Thematik umgeht und ich freue mich dann total über ein Feedback von euch, weil ich glaube, dass das für viele noch relativ neu ist. 
+
+Also raus mit euren Fragen, wenn keine mehr kommen. Vielen Dank für eure Teilnahme, ich freue mich auf den nächsten Brain Day, wünsche ein schönes Wochenende, bis bald. Tschüss!

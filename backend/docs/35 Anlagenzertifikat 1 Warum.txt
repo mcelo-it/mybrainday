@@ -1,0 +1,79 @@
+(0:00:00 - 0:00:16)
+Los geht's. Die Frage nach dem Warum brauchen wir ein Anlagenzertifikat? Wir haben es oben in der Mitte über uns quasi platziert. Also die Sicherstellung der Netzqualität, die Sicherstellung der Netzstabilität.
+
+(0:00:16 - 0:00:34)
+Das ist der Grund, warum wir im Grunde eben also ein Anlagenzertifikat verbrauchen. Das ist die Motivationsspritze erst mal, das hier mal so ganz grob dargestellt. Also das ist die installierte Leistung von erneuerbaren Energien in den letzten Jahren.
+
+(0:00:34 - 0:00:47)
+Mal so nur so ungefähr, dass man so eine Idee hat. Und dann hat man gesehen 1995, meinetwegen also ziemlich am Anfang, da waren das so ein paar Prozent. Das wird wahrscheinlich vor allem Wasserkraft gewesen sein, ist aber nicht so relevant.
+
+(0:00:47 - 0:01:03)
+Also unter 10 Prozent, da hat noch keiner so richtig darauf geachtet. Und jetzt sind wir da bei ungefähr 50 Prozent und es werden sicherlich noch mehr werden. Also die Erneuerbaren haben jetzt einen enorm großen Anteil an der Energieversorgung in Deutschland.
+
+(0:01:03 - 0:01:12)
+Aber das gilt sicherlich ein bisschen abgewandelt auch für alle anderen Länder der Welt. Und jetzt haben wir da eine gestrichelte Riehle hereingesetzt. 2008 ungefähr hat man gesagt So jetzt reicht es aber.
+
+(0:01:12 - 0:01:24)
+Jetzt sind da so viele Anlagen im Netz. Jetzt ist das so ein großer Anteil unserer Energieversorgung geworden. Jetzt muss das Ganze ein bisschen besser kontrolliert werden.
+
+(0:01:24 - 0:01:46)
+Was da eigentlich so passiert und zwar aus rein technischer Sicht, nicht Projektmanagement, sondern eher die die elektrotechnische Seite muss da besser betrachtet werden, auf mehr auf Qualität geachtet werden. Also führen wir jetzt ein Regelwerk ein und das wiederum führt zu einer Zertifizierpflicht. Das ist im Grunde 2008 passiert.
+
+(0:01:46 - 0:02:04)
+Da musste man anfangen, erstmals Anlagenzertifikate zu erstellen. Dieses Regelwerk ist die VDE Anwendungsrichtlinie 41 10, zumindest für die sogenannte Spannungsebene 3, also in der Mittelspannung 20 30 10 KV. Da haben wir es mal aufskizziert.
+
+(0:02:04 - 0:02:28)
+Da bräuchte man die 41 10 und der Form halber haben wir das mal mit reingenommen, weil auch die anderen Ebenen und dementsprechend die anderen Anwendungsrichtlinien, also 41 20 in der Hochspannung und dann auch hier Höchst Spannungsebene 41 30. Auch die fordern ein Anlagenzertifikat. Also das Grundprinzip ist hier überall das gleiche.
+
+(0:02:30 - 0:02:55)
+Schieben wir uns ein bisschen zusammen, damit wir mehr Platz haben und sagen also grundlegend ist es jetzt die Idee, dass man eine unabhängige Prüfung von einer sehr komplexen Anlagenplanung braucht. Mein Verständnis dabei ist, dass man jetzt dem Elektroplaner erst mal schon zutraut, dass er das kann, aber man macht halt ein Vier-Augen-Prinzip. Und ich glaube, da trete ich jetzt keinem auf die Füße, dass das extrem sinnvoll ist.
+
+(0:02:55 - 0:03:30)
+Die unabhängigen Prüfer, die ich gleich jetzt noch kurz zeige, das sind Fachleute, die machen nichts anderes, die sind top ausgebildet. Und deswegen ist das höchst sinnvoll, dass da nochmal ein Vier-Augen-Prinzip passiert, dass die nochmal auf diese insgesamt mittlerweile sehr, sehr komplexe Anlagenplanung draufgucken, um sicherzustellen, dass das alles nach diesen Regelwerken ausgeführt wurde. Wo kommen die her, diese Prüfer? Also das sind erst mal akkreditierte Zertifizierstellen auf dem DAKKS, Deutscher Akkreditierungsstelle Homepage, kann man das nachlesen, wer alles akkreditiert ist.
+
+(0:03:31 - 0:03:44)
+Also im Wording wäre das so. Eine Zertifizierstelle muss erst mal akkreditiert sein als Zertifizierstelle. Erst dann darf sie diese Anlagenzertifikate ausführen, um die es heute geht.
+
+(0:03:46 - 0:04:05)
+Da ist es also, das Anlagenzertifikat, die Zertifizierstelle macht das. Und wir nennen es auch ein Planungszertifikat. Das ist hilfreich, finde ich, im Wortgebrauch, weil es schon zeigt, dass es also darum geht, die Planung, die elektrotechnische Planung der Photovoltaikanlage zu zertifizieren.
+
+(0:04:05 - 0:04:14)
+Es geht eben nicht darum, die Ausführung zu zertifizieren. Das ist der wahrscheinlich auch bekannte zweite Schritt, die Konfirmitätserklärung. Machen wir ein andermal.
+
+(0:04:14 - 0:04:27)
+Heute geht es nur um die Zertifizierung der elektrotechnischen Planung. So, und da haben die drei Typen eingeführt. Einmal, wenn die Pinst heißt, kommt später auch noch mal größer als 950 kW ist.
+
+(0:04:27 - 0:04:32)
+Ich sage mal, das ist jetzt unser Fokus hier heute. Darauf fokussieren wir uns heute. Darum geht es.
+
+(0:04:32 - 0:04:41)
+Es gibt aber auch Typ B. Das ist eine vereinfachte Form, ist einfach günstiger und geht schneller. Macht sicherlich Sinn. Zertifizierstellen sind eh ziemlich ausgelastet.
+
+(0:04:42 - 0:04:59)
+Und da sind die Anforderungen wie folgt definiert. Also ab 270 kW drunter brauchst du es erst mal gar nicht. Aber ab 270 kW PAVE und eben bis 950 kW Pinst wäre es ein Typ B. Da gibt es noch Typ C. Machen wir heute auch nicht.
+
+(0:04:59 - 0:05:03)
+Das sind Spezialanlagen. Kann man nachlesen, für wen das gilt. Für uns nicht.
+
+(0:05:03 - 0:05:23)
+Unsere großen PV-Packs sind Typ A. Ja, am Ende geht es drum. Wir wollen einen hohen Qualitätsstandard sicherstellen. Also die vielen, vielen, wahrscheinlich mittlerweile 10.000 bis 100.000 Einzelanlagen, die in Deutschland stehen, sollen alle den gleichen Qualitätsstandard beinhalten.
+
+(0:05:23 - 0:05:36)
+Alle gleich hohe Qualitätsstandards nachweisen können. Und dazu brauchen wir eben die Zertifizierstelle. Die Motivationsspritze zum Schluss noch mal von meinetwegen der VDE ausgedacht ist.
+
+(0:05:36 - 0:05:49)
+Also wenn ihr jetzt kein Anlagenzertifikat habt, dann dürft ihr auch nicht in Betrieb nehmen. Das ist ein ganz entscheidender Punkt gewesen, wie ich finde. Damals, wie gesagt, ungefähr 2008, als das klar war, dass das so eine Grundvoraussetzung sein wird, deswegen auch Orange.
+
+(0:05:49 - 0:06:01)
+Da sind alle hellhörig geworden. Sonst kommen ja oft auch vielleicht neue Regeln oder Richtlinien. Aber probieren wir es vielleicht erst mal noch so, wie es bisher gelaufen ist. 
+
+Mal sehen, was passiert. Das war hier klar. Das funktioniert nicht.
+
+(0:06:01 - 0:06:12)
+Also das Anlagenzertifikat muss vorhanden und geprüft sein vom Netzbetreiber. Sonst gibt es keinen Betriebnahmetermin. Wenn das mal eben keine Motivationsspritze ist.
+
+(0:06:13 - 0:06:27)
+Jetzt ordne ich das noch mal ein hier in das Regelwerk. So sieht das ungefähr aus. Das hat ein Deckblatt und dann hat das eben zwölf Kapitel und in dem Kapitel 11, das heißt Nachweis der elektrischen Eigenschaften für Erzeugungsanlagen.
+
+(0:06:27 - 0:06:42)
+Der Titel finde ich jetzt aber nicht so relevant. Aber dieses Kapitel beschreibt ganz hervorragend im Detail, wie die Zertifizierstelle die Nachweisführung auszuführen hat. Und im Grunde folgen wir später im Kapitel 3 auch genau dieser Logik.

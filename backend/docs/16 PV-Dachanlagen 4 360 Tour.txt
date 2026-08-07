@@ -1,0 +1,146 @@
+(0:00:00 - 0:00:21)
+360°-Tour und wir machen jetzt einen Spaziergang über eine Dachanlage. Also Achtung Spannung, die Anlage ist in Betrieb. Aber wir haben, finde ich, mit dieser 3D-Tour eine super Möglichkeit geschaffen, dass man, obwohl man zu Hause vorm Rechner sitzt, jetzt mal den Realbezug von dem, was man gerade gehört hat, besser greifen kann.
+
+(0:00:21 - 0:00:37)
+Der Kollege hat den Link, glaube ich, schon in den Chat gestellt, aber lauft erstmal vielleicht noch nicht rum, sondern folgt mir erstmal. Ich zeige einmal kurz, wie diese Dachanlage aufgebaut ist. Dazu teilen wir einfach hier unseren Bildschirm.
+
+(0:00:38 - 0:00:53)
+Und hinter mir seht ihr jetzt schon unser Gebäude, das wir da heute aufbauen. Und im besten Fall noch die PowerPoint-Präsentation. Wenn das ginge, dann kann ich euch nämlich immer gleich mitführen.
+
+(0:00:53 - 0:01:05)
+Ja, super, da ist die PowerPoint-Präsentation. Ich weiß gar nicht, ob ich so wichtig bin. Ich glaube, wir nehmen mich vielleicht dann doch mal raus, sonst ist das ein bisschen zu viel, oder? Könnt ihr im Chat abstimmen.
+
+(0:01:06 - 0:01:16)
+So, und dann muss man aber noch auf die PowerPoint klicken, damit ich da wieder weiter kann. Ja, genau. Und jetzt doch nichts im Chat schreiben, weil sonst sieht man das immer auf meinem Bildschirm hier.
+
+(0:01:16 - 0:01:36)
+Also, es geht los, indem ich auf meinem zweiten Bildschirm sozusagen die Anlage im Schema zeige und dann immer gleich in Realität dahin laufe, was ich angebe. Also, 360°-Tour funktioniert so. Man kann das hier bewegen, wie man will.
+
+(0:01:36 - 0:01:42)
+Und wenn man dann solche Icons findet, dann kann man da loslaufen. Wir sind jetzt ins Gebäude gelaufen. Hier kommt man wieder raus.
+
+(0:01:42 - 0:01:51)
+Hier ist die NSRV. Da gehen wir jetzt noch nicht hin, weil im Schema sehen wir ja jetzt die Module. Und deswegen drehen wir uns um und gehen oben aufs Dach.
+
+(0:01:51 - 0:01:56)
+So, und da ist sie schon, unsere Dachanlage. Bei super Wetter. Wir haben hier Ost-West.
+
+(0:01:57 - 0:02:08)
+Wir können uns umgucken und wir können jetzt zum Beispiel hier mal ein Stückchen weiter laufen. Da sieht man schon die Wechselrichter, wie sie hier oben stehen. Man sieht schon super, wir haben richtig gute Deckel auf unseren Kablerinnen draufgelegt.
+
+(0:02:08 - 0:02:18)
+Und wir sehen hier hinten bei den Modulen auch noch einen kleinen Punkt. Und das muss ich euch sagen, sonst wisst ihr das gleich nicht. Hier gibt es auch noch einen Punkt.
+
+(0:02:18 - 0:02:26)
+Und dann kann man auch unter die Module gucken. Und dann würde man eben genau das, was ich in meinem Schema zeige, finden. Weiter geht es.
+
+(0:02:28 - 0:02:33)
+Weiter geht es in meinem Schema. Wechselrichter. Im Schema sieht man schon die Wechselrichter.
+
+(0:02:34 - 0:02:39)
+Ich laufe einfach mal zurück. Was wäre denn hier? Wir folgen dem Strom. Wir folgen den Stringkabeln.
+
+(0:02:39 - 0:02:45)
+Und wir gehen zurück zum Ausgangspunkt. Da sind die Wechselrichter. Dann kann man hier hinlaufen.
+
+(0:02:45 - 0:02:55)
+Dann kann man hier noch mal eins weiter gehen. Und dann steht man hier mittendrin in dem Team von unseren dezentralen Wechselrichtern. Hier werden die AC-Kabel immer so eingesammelt.
+
+(0:02:55 - 0:03:03)
+Auf der anderen Seite werden die DC-Kabel eingesammelt. Und bei einem Wechselrichter kann man sich das hier noch ein bisschen genauer anschauen. Da ist ein Typenschild.
+
+(0:03:03 - 0:03:10)
+Man könnte die Stringkabel hier sehen. Also, man kann sich mal ein bisschen im Detail angucken. Im Schema sind das einfach nur vier Striche.
+
+(0:03:10 - 0:03:16)
+In Realität sieht das natürlich ganz anders aus. Jetzt kommt der PV-Schrank. Auf geht es.
+
+(0:03:16 - 0:03:21)
+Das Dach ist beendet. Wir müssen runter. Da gab es irgendwo so einen grünen Exit-Button.
+
+(0:03:22 - 0:03:24)
+Hier geht es runter. Da sieht man das schon. Das Dach ist ein bisschen aufgeklappt.
+
+(0:03:25 - 0:03:29)
+Da kann man wieder runterlaufen. Ab geht es. Und ab zur NSHV.
+
+(0:03:29 - 0:03:42)
+Hier unten ist sie aus elektrotechnischer Sicht fast schon interessanter als die PV-Anlage selbst. Also, so sieht das aus. Für alle, die da nicht so versiert und erfahren darin sehen, das ist ja vielleicht immer ein bisschen unheimlich.
+
+(0:03:42 - 0:03:52)
+Da sind ganz viele Knöpfe drauf. Und man weiß immer nicht so genau. Darf man da jetzt draufdrücken? Und was ist das eigentlich? Ich erkläre es kurz von der PV-Seite aus.
+
+(0:03:53 - 0:04:01)
+Der PV-Schrank startet mit von unten einem Lastrennschalter. Das wäre also hier. Ne, Sicherungen.
+
+(0:04:01 - 0:04:07)
+Entschuldigung. Hier sind die Sicherungen, die man jetzt im Schema sehen kann. Die Kabel kommen also von oben.
+
+(0:04:07 - 0:04:11)
+Ich gehe mal kurz nach oben. Dann sieht man das auch mal. Hier aus dem Dach kommen die runtergehüpft.
+
+(0:04:12 - 0:04:19)
+Und wenn man schwindelfrei ist, kann man jetzt auch hier runtergucken. Da hat extra einer so eine Steigleiter uns besorgt. So, da unten sind sie.
+
+(0:04:20 - 0:04:27)
+Und da sieht man auch schon Kabelverlegung ohne Deckel. Die Kabel gehen hier rein in den Schrank. Ich mache einfach mal den Schrank auf.
+
+(0:04:27 - 0:04:36)
+Und dann sieht man hier, zack, da sind die ganzen Sicherungen. Hier kommen die Kabel runter. Und das ist genau das, was ich gerade im Schema zeige.
+
+(0:04:37 - 0:04:47)
+Jetzt gehe ich einen Schritt weiter. So eine Sammelschiene. Und dann kommt da ein, oh ja, Netzanalysegerät, rate ich jetzt einfach mal.
+
+(0:04:48 - 0:04:54)
+Netzanalysegerät ist ein bisschen schwieriger. Da muss ich hier nochmal raus. Und dann sehe ich, dass hier unten, glaube ich, ist das verbaut.
+
+(0:04:54 - 0:04:59)
+Genau. Da sieht man es schon. Also hier wäre so ein Netzanalysegerät verbaut.
+
+(0:05:00 - 0:05:09)
+Aber wie gesagt, mir geht es ja vor allem darum, dass ihr euch mal ein bisschen umschaut. Wie sieht denn so ein Schrank aus? Jedes Bauteil könnt ihr jetzt benennen. Dann wisst ihr bei jedem Bauteil genau, was das ist und wofür das ist.
+
+(0:05:11 - 0:05:21)
+Ich muss den Exitpunkt wieder finden und gehe in meiner Logik einfach weiter zu dem Schalter. Den hatte man hier gesehen. Das ist jetzt also ein Lasttrennschalter hier.
+
+(0:05:22 - 0:05:24)
+Das ist der erste. Da ist der erste. Hier.
+
+(0:05:24 - 0:05:35)
+Das ist genau der, den man im Schema jetzt sieht. Und wenn wir jetzt weitergehen, kommt hier irgendwo ein Stromwandler. Und der ist wiederum verbunden mit meinem Zählerkasten.
+
+(0:05:36 - 0:05:40)
+Dazu mache ich hier zu. Und dann sehe ich hier meinen Zählerkasten. Kann man auch aufmachen.
+
+(0:05:42 - 0:05:53)
+Weiter geht es zum zwischengelagerten A-Schutz. Der ist auch irgendwo verbaut. Dann habe ich meinen zweiten Leistungsschalter.
+
+(0:05:53 - 0:06:03)
+Der ist hier verbaut. Also der Strom fließt hier weiter über den ersten drüber. Da sind dann vom EVU die Stromwandler verbaut.
+
+(0:06:03 - 0:06:15)
+Und dann geht es hier weiter zum zweiten Leistungsschalter. So, und von dort gehen oben die Kabel weiter in die Gebäude-NSHV rein. Da schaue ich auch nochmal kurz rein.
+
+(0:06:15 - 0:06:29)
+Also das hier rechts ist genau das, was da vorher schon stand. Das hatten wir uns also vorher angeguckt hier. Und geprüft, ob da die Abgangsfelder überhaupt groß genug sind.
+
+(0:06:29 - 0:06:35)
+Das hatten wir uns angeguckt. Und in der NSHV wären das jetzt also hier die Sicherungen. Das ist hier das mittlere Feld.
+
+(0:06:35 - 0:06:40)
+Hier ist das. Da gehen unsere Kabel rein. Und auf der anderen Seite der Verbrauch.
+
+(0:06:40 - 0:06:44)
+Das ist hier hinten. Da gehen die ganzen Verbraucher weg. Und jetzt noch letzter Punkt.
+
+(0:06:44 - 0:06:49)
+Der Trafo-Abgang hier. Trafo-3 heißt er. Trafo-1 heißt er bei uns.
+
+(0:06:49 - 0:06:55)
+Genau. Der wäre dann irgendwo vielleicht hinter der Wand. Aber der Abgang, den sieht man hier.
+
+(0:06:55 - 0:07:03)
+Da kann man hier draufklicken. Da ist das beschriftet. Jawohl, da geht es also zum Transformator 1. Und wenn man hier aufmacht, sieht man das auch nochmal.
+
+(0:07:03 - 0:07:07)
+Da wäre dann der Leistungsschalter drin, den man jetzt im Schema oben gesehen hat.

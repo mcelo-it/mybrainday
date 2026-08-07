@@ -1,0 +1,161 @@
+(0:00:00 - 0:00:16)
+Und schauen uns jetzt mal die Schutzkonzepte an oder das Schutzkonzept. Genau, hier kommen wir nachher dann zu diesem Punkt, warum ich den ich eben schon angerissen habe, warum ich das nicht so sinnvoll erachte, immer am Netzanschlusspunkt zu messen. Aber wir gucken uns das erst mal im Gesamten an.
+
+(0:00:17 - 0:00:35)
+Erst mal ein leichtes Beispiel und bauen unsere Beispiel jetzt erst mal alle gleich auf. Also wir gucken uns elektrische Positionen an von diesem Schutzkonzept, von dem Auslösepunkt. Wir gucken uns die räumliche Position an und danach gucken wir uns für unsere Varianten, die wir darstellen wollen, die Einstellwerte an.
+
+(0:00:36 - 0:00:54)
+Also wir gehen mal los. Wir gucken uns die elektrische Position an von einer Freilandanlage. Das ist, wie ich finde, immer das eher leichtere Projekt, weil wir von Null an planen können und wir haben klare Vorgaben, klare Richtlinien, an die wir uns halten können.
+
+(0:00:55 - 0:01:15)
+Diese FNN-Richtlinie zum Beispiel, denke ich, ist klar auf Freiflächenanlagen ausgerichtet und da geht es dann darum, dass man Übergabestationen hat, man hat Trafostationen, man hat Wechselrichter. Das hier, was ihr seht, ist erst mal unser Gesamtschutzkonzept, was wir denken, immer in solchen Solarparks vorhanden ist. Und wir reduzieren das jetzt mal.
+
+(0:01:15 - 0:01:28)
+Oben links seht ihr noch den NA-Schutz übergeordnet. Das ist jetzt wahrscheinlich das Einzige, was stehen bleibt. Genau, alles andere fliegt raus, weil genau das ist das, was wir uns anschauen wollen, weil da drin sitzt der Q-U-Schutz.
+
+(0:01:30 - 0:01:47)
+Wenn wir uns jetzt eben eine Freiflächenanlage anschauen, ist das meistens genauso gebaut. Der Strom fehlt noch, da ist er. Wir schließen eben Strom und Spannung an dieses Q-U-Schutz-Relais an, weil nur daraus können wir eine Leistung ermitteln, eine Leistung messen und dann lösen wir den Übergabeleistungsschalter aus.
+
+(0:01:47 - 0:01:58)
+Ganz einfache Geschichte. Wir haben hier keine Verbraucher dazwischen, wir haben hier keine Komponenten hintendran, die dauerhaft versorgt werden müssen. Also kann man das so machen.
+
+(0:01:58 - 0:02:11)
+Wenn der Solarpark nicht ordnungsgemäß funktioniert, schalten wir das gesamte Kraftwerk ab. So einfach ist das. Ganz so einfach ist es jetzt nicht, wenn wir hier in unsere nächste Variante wechseln.
+
+(0:02:11 - 0:02:23)
+Das ist eine Dachanlage, Variante A, so nennen wir das jetzt mal. Und das ist das, was wir, wie ich meine, noch relativ häufig sehen. Also wir bauen hier mal unser Single Line Diagramm so ein bisschen um.
+
+(0:02:24 - 0:02:47)
+Wir messen immer noch oben in der Übergabestation Strom und Spannung. Da ist jetzt zwar der Leistungsschalter rausgeflogen, aber das ist jetzt nicht so wichtig, weil die Auslösung soll jetzt nicht an dem Leistungsschalter in der Übergabestation erfolgen, sondern wir haben jetzt noch eine Niederspannungs-Hauptverteilung da drin, wir haben einen PV-Schrank da drin. Manchmal hat der PV-Schrank zwei redundante Leistungsschalter.
+
+(0:02:47 - 0:03:02)
+In unserem Beispiel ist es jetzt eben so, der erste Leistungsschalter ist in der Niederspannungs-Hauptverteilung schon vorgesehen worden, das gibt es ja auch manchmal. Und der zweite Leistungsschalter ist im PV-Schrank. Also der übergeordnete Schutz würde über diesen gelb markierten Leistungsschalter erfolgen.
+
+(0:03:02 - 0:03:37)
+Und unser QU-Schutz, der in der Übergabestation misst, der, sind wir aus, oder was? Ja, okay. Wir waren jetzt, wenn ich das so richtig verstanden habe, kurz weg. Also ich würde jetzt noch mal zwei Schritte zurückgehen.
+
+(0:03:38 - 0:03:52)
+Wir hatten eben erklärt, bei der Freiflächenanlage ist das relativ einfach. Der QU-Schutz misst in der Übergabestation und löst auch in der Übergabestation aus. Und jetzt sind wir zu einem zweiten Beispiel gegangen, Dachanlage A, und haben das umgebaut.
+
+(0:03:52 - 0:04:10)
+Wir messen weiterhin in der Übergabestation und lösen aber in dem übergeordneten Leistungsschalter aus. Und der befindet sich jetzt in der Niederspannungs-Hauptverteilung. Jetzt sehen wir hier die Auslöseverbindung, die dazu kommt.
+
+(0:04:11 - 0:04:39)
+Und jetzt habe ich euch ja auch schon gleich meine großen Bedenken mit reingeschrieben, dass ich das ehrlich gesagt nicht wirklich für sinnvoll halte, weil wir jetzt natürlich am Netzanschlusspunkt nicht den PV-Strom messen oder die PV-Leistung. Ihr habt jetzt hier eine Niederspannungs-Hauptverteilung, die kann so groß sein, wie sie hier dargestellt ist. Es können aber auch viele TRAFO-Stationen sein auf einem großen, ich sag mal, Industriegelände.
+
+(0:04:39 - 0:04:50)
+Und am Ende fließt nie Solarstrom ins Netz. Und trotzdem beharren manche Netzbetreiber darauf, den QU-Schutz am Netzanschlusspunkt zu realisieren. Macht aus meiner Sicht in den meisten Fällen einfach keinen Sinn.
+
+(0:04:51 - 0:05:25)
+Aber viele Netzbetreiber beugen sich da einfach nicht, beharren drauf, sagen sowas wie, die Richtlinie gibt das so vor. Macht aber einfach keinen Sinn, weil wenn kein PV-Strom am Schutzrelais ankommt, braucht man da auch diese Schutzfunktion nicht realisieren. Deshalb machen wir jetzt nochmal eine Dachanlage-Variante B. Oben in der Überschrift ändert sich das, Dachanlage B. Und jetzt würden wir erstmal die Auslösekennlinie rausnehmen und jetzt schieben wir unser Schutzrelais, das QU-Schutzrelais, in den PV-Schrank.
+
+(0:05:25 - 0:05:45)
+So würde ich das dann jetzt machen und würde jetzt im PV-Schrank den PV-Strom messen. Dann weiß ich auch, ob die PV-Anlage falsch arbeitet und nicht irgendwelche Maschinen in dem Industriewerk da falsch anlaufen oder eben anlaufen. Sondern ich kann jetzt wirklich die PV-Anlage bewerten und kann jetzt mir den Leistungsschalter auswählen.
+
+(0:05:45 - 0:06:10)
+Jetzt ist es hier der zwischengelagerte oder der untergeordnete Leistungsschalter, den wir hier dargestellt haben, der jetzt über die QU-Schutzfunktion ausgelöst würde. So, das ist erstmal drei Varianten. Wir haben jetzt die elektrische Position, denke ich, verstanden, also Netzanschlusspunkt, Messung und Auslösung oder eben an der PV-Anlage im PV-Schrank.
+
+(0:06:10 - 0:06:18)
+Das halte ich für die richtige Variante. Muss man dann von Projekt zu Projekt sehen, ob man das so umsetzen darf. So, jetzt kommen wir zu dem nächsten Punkt.
+
+(0:06:18 - 0:06:29)
+Das ist dann die räumliche Position. Da würde ich jetzt auch relativ zügig durchgehen. Freiflächenanlage kennt ihr, Übergabestation, die gibt es hier und wir zeigen es euch nochmal.
+
+(0:06:29 - 0:06:46)
+Die sieht so aus. Da kann man die Tür aufmachen und das Schutzrelais, was dann hier vorgesehen ist, ist so ein Woodward oder SEG-Schutzrelais. Das misst Strom und Spannung und kann dann eben auch Blindleistung ermitteln und dann eben den Park abschalten.
+
+(0:06:48 - 0:07:14)
+Jetzt gibt es die Dachanlage A. Das ist im Prinzip dieses System, was ich nicht empfehlen würde, aber dann hätten wir die Messung in der Übergabestation. Die seht ihr jetzt rechts unten im Bild mit der Nadel drin. Dann würde man versuchen, man muss dann eben die Auslösung Richtung Leistungsschalter führen, der dann irgendwo im Gebäude sich vermutlich befindet.
+
+(0:07:16 - 0:07:29)
+Das ist dann erstmal eine Aufgabe, diese Wirkverbindung überhaupt hinzukriegen. Gibt es Leerrohre, gibt es Kabelschächte und so weiter. Aber dann würde aus der Übergabestation ein Signal abgesetzt werden, was dann diesen Leistungsschalter auslöst.
+
+(0:07:33 - 0:07:49)
+Jetzt gehen wir weiter zu der Dachanlage Teil B. Also diese Variante, die ich eigentlich für sinnvoll erachte. Wir haben dann einen PV-Schrank, in dem wir ein Schutzrelais integrieren. Das kann dann zum Beispiel so aussehen.
+
+(0:07:49 - 0:08:02)
+Da gibt es viele verschiedene Bauweisen, Baumöglichkeiten. Oben links da eingerahmt, seht ihr das QU-Schutzrelais ist jetzt hier wieder ein SEG-Relais. Das ist gut, aber es gibt auch andere gute Relais.
+
+(0:08:02 - 0:08:10)
+Also um Gottes Willen, wählt da das, was für euch am sinnhaftesten ist. Das soll hier keine Werbung für SEG sein. Wir sehen das halt einfach nur oft, dieses Gerät.
+
+(0:08:10 - 0:08:28)
+Und das Schutzrelais löst den Leistungsschalter aus, der jetzt da in dem PV-Schrank sich irgendwo befindet. Das geschulte Auge sieht hier in der schwarzen Linie das Leistungsschalter-Symbol. Wir machen aber nochmal die Tür auf und da sieht man jetzt auch den Schalter in live fast.
+
+(0:08:28 - 0:08:36)
+So sieht er aus. Dieser Leistungsschalter wird dann ausgelöst werden. So ist das, da befindet sich das.
+
+(0:08:36 - 0:08:51)
+Und jetzt haben wir hier auch schon die Variante B durch. Und jetzt kommt nur noch kurz der Block Einstellwerte. Woher kriegen wir die? Egal, ob wir in der Übergabestation messen oder ob wir in der Niederspannungs-Hauptverteilung messen.
+
+(0:08:51 - 0:08:59)
+Einstellwerte müsst ihr nicht selbst ermitteln. Die kriegt ihr von eurem Netzbetreiber über den E9-Bogen. Der ist, denke ich, den meisten Leuten bekannt.
+
+(0:09:00 - 0:09:28)
+Und da gibt es dann wahrscheinlich die Seite 3 oder 4, bin ich mir nicht ganz sicher. Unter Systemschutz wird dann eben der Blindleistungs-Unterspannungsschutz definiert. Und so wie ich das aus den meisten Projekten kenne, folgen die meisten Netzbetreiber den Empfehlungen nach VDE ARN 4110 und tragen dann im Grunde genommen bei Einstellvorgabe das Gleiche ein.
+
+(0:09:28 - 0:09:40)
+Also die Spannungs-Unterspannungskriterium würde bei 85% liegen. Die Zeit mit 500 Millisekunden. Das Mindeststromkriterium ist dann 0,1 mal Wandlerstrom.
+
+(0:09:41 - 0:09:53)
+Und dann haben wir eben diese zwei Varianten. Den Winkel, das ist die Blindleistungskennlinie, oder die Blindleistungsschwelle mit 0,05 SN. Da kann man nur eins von auswählen.
+
+(0:09:53 - 0:10:16)
+Wir nehmen meistens den Winkel, das ist für uns einfacher. Da muss man dann nicht groß rumrechnen und hinterher groß diskutieren, was ist denn jetzt SN? Sondern wir nehmen den Winkel, das macht es für uns am leichtesten. Und jetzt würden wir hier diesen Funktionsbaustein, nenne ich das jetzt mal, Q-U-Schutz nehmen und da diese Werte reinschreiben, damit wir die später auch in unser Schutzkonzept übertragen können.
+
+(0:10:16 - 0:10:34)
+Genau als so ein Baustein. Und Q-Min grauen wir jetzt mal aus, weil den kann man natürlich auch verwenden, gar keine Frage. Wir würden uns jetzt mal auf diese drei Grad, auf den Winkel konzentrieren, weil wir den in der Prüfung, in der Umsetzung erstmal viel leichter finden.
+
+(0:10:34 - 0:10:48)
+Aber das ist bestimmt auch Geschmackssache. Die Freigabespannung zur Wiederzuschaltung, die wird oft nicht angegeben, so wie es hier ist. Weil wenn wir das jetzt in der Mittelspannung haben, dann schalten wir sowieso nicht automatisch wieder zu.
+
+(0:10:49 - 0:11:02)
+AWE, automatische Wiedereinschaltung. Als Hinweis einfach nur mal mitnehmen, meistens haben wir das gar nicht. Und das Blindleistungsverfahren ist wählbar, beziehungsweise man muss wählen, das hatte ich gerade gesagt.
+
+(0:11:02 - 0:11:17)
+Also entweder diesen Winkel, drei Grad, oder das Q-Min, eins von beiden. Wir nehmen die Blindleistungskennlinie, also den Winkel von drei Grad. So würde das dann reinfliegen und könnte dann auch so in unserem Schutzkonzept dargestellt werden.
+
+(0:11:17 - 0:11:31)
+Und was machen wir dann vor Ort? Wir nehmen unseren PC, verbinden uns mit dem Schutzrelais. Ich sag mal hier, bei diesem Woodward, oder SEG heißt es eigentlich, Woodward ist gar nicht mehr richtig. SEG, MCA4.
+
+(0:11:31 - 0:11:42)
+Wäre das so, man kann dieses SmartView-Software sich auf seinen PC laden. Man kann dann in den Baustein QU-Schutz im Grunde genommen reingehen und das sieht dann genau so aus. Dann habt ihr das vielleicht mal gesehen.
+
+(0:11:43 - 0:11:54)
+Und jetzt gehen wir es einmal Reihe für Reihe durch. Also QU-Variante, das ist genau der erste Punkt, den ich schon gesagt hatte. Da kann man jetzt auswählen, welche Blindleistungsvariante wir verwenden.
+
+(0:11:55 - 0:12:10)
+Und wir verwenden jetzt Blindleistungswinkelüberwachung, also diese drei Grad. Dann gibt es den Freigabestrom, den aktivieren wir, wir machen das immer. Bei dieser Winkelgeschichte ist das tatsächlich optional.
+
+(0:12:10 - 0:12:23)
+Dann müsstet ihr diesen Mindeststrom gar nicht aktivieren. Wir machen es trotzdem, so nach dem Motto, doppelt hält besser. Und dann können wir auch diesen I-Min eingeben, mit 0,1 mal I-Nen.
+
+(0:12:24 - 0:12:38)
+So machen wir das. Und da muss man manchmal darauf achten, manche Netzbetreiber, die geben dann nochmal so einen zusätzlichen Hinweis, wenn eure Schutzwandler viel zu groß dimensioniert sind, sag ich mal. Also ich sag mal bei 100 Ampere, was jetzt richtig wäre, nehmt den 200 Ampere zu 1 Wandler.
+
+(0:12:38 - 0:12:49)
+Dann ist 0,1 nicht immer richtig. Behaltet das mal im Hinterkopf. Sondern dann muss man manchmal auch andere Werte eingeben.
+
+(0:12:49 - 0:12:57)
+Erstmal ist 0,1 der Wert, der im E9-Bogen gefordert wird. Dann das Unterspannungskriterium kommt als nächstes. Das sind dann diese 85%.
+
+(0:12:57 - 0:13:08)
+Hatten wir ja oben auch gesehen, geben wir auch ein. Und jetzt können wir diese drei Grad hier als Winkel eingeben. Und die nächste Zeile ist das Q-Min, Q-U.
+
+(0:13:08 - 0:13:14)
+Das ist die Blindleistungsschwelle. Die wird jetzt hier tatsächlich auch rot. Auch wenn ein Wert drin ist, sie ist rot.
+
+(0:13:14 - 0:13:33)
+Ihr seht da den roten Kreis mit weißen Balken. Dieser Wert ist jetzt nicht aktiv, weil wir haben ja ganz oben in der obersten Reihe die Leistungswinkelüberwachung ausgewählt und eben nicht die Blindleistungsschwelle. Und zum Schluss kommen noch die beiden Zeitglieder, die man nach FNN ja benötigt.
+
+(0:13:33 - 0:13:41)
+Also T1 und T2. Da wir immer nur T1 haben, schreiben wir hier bei beiden immer 0,5 Sekunden rein. Dann kann man da auch nicht falsch liegen.
+
+(0:13:42 - 0:13:52)
+Also so wäre die Einstellung für das Schutzrelais. Es gibt drumherum diese ganzen Blockade-Geschichten und so weiter. Natürlich noch viele andere Einstellmöglichkeiten.
+
+(0:13:52 - 0:14:06)
+Aber das ist jetzt erstmal der Kern, das Wichtigste, was man da wissen muss. Ich sage, wenn ihr das wisst, könnt ihr längst noch keine Schutzrelaisprüfung durchführen oder ein Schutzrelais parametrieren. Aber das ist erstmal der Kern der QU-Prüfung.
+
+(0:14:06 - 0:14:15)
+Jetzt müsst ihr euch noch engagieren auf Ausgänge, Eingänge für die Blockade, LEDs. Da kommt noch viel dazu. Aber so würde es vom Grundsatz her erstmal funktionieren.

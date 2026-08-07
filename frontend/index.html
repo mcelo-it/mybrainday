@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lehrvideo-Chatbot PV-Anlagen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main class="app-shell">
+    <aside class="sidebar" aria-label="Lehrvideo-Navigation">
+      <section class="sidebar-section sidebar-intro">
+        <h2>Lehrvideo-Chatbot</h2>
+        <p class="sidebar-text">
+          Stelle fachliche Fragen zu unseren Lehrvideos über PV-Anlagen.
+        </p>
+      </section>
+
+      <section class="sidebar-section" aria-label="Backend-Status">
+        <div
+          id="backend-status"
+          class="status-box status-neutral"
+          role="status"
+          aria-live="polite"
+        >
+          Backend-Status wird geprüft...
+        </div>
+      </section>
+
+      <section class="sidebar-section sidebar-actions" aria-label="Aktionen">
+        <button id="reload-videos-btn" class="secondary-btn" type="button">
+          Lehrvideos laden
+        </button>
+
+        <button id="show-sources-btn" class="secondary-btn" type="button">
+          Letzte Quellenstellen anzeigen
+        </button>
+
+        <button id="rebuild-btn" class="secondary-btn danger-btn" type="button">
+          Suchindex neu aufbauen
+        </button>
+      </section>
+
+      <section class="sidebar-section videos-section" aria-labelledby="videos-title">
+        <h3 id="videos-title">Verfügbare Lehrvideos</h3>
+
+        <div id="videos-list" class="videos-list" aria-live="polite">
+          <p class="muted">Noch nicht geladen.</p>
+        </div>
+      </section>
+    </aside>
+
+    <section class="chat-area" aria-label="Chatbereich">
+      <header class="chat-header">
+        <h1>Fragen zu Lehrvideos über PV-Anlagen</h1>
+        <p>Antworten werden ausschließlich aus den Lehrvideoquellen zitiert.</p>
+      </header>
+
+      <section
+        id="chat-messages"
+        class="chat-messages"
+        aria-label="Chatverlauf"
+        aria-live="polite"
+      >
+        <div class="message bot">
+          <div class="bubble">
+            Hast du Fragen zu unseren Lehrvideos zu PV-Anlagen?
+          </div>
+        </div>
+      </section>
+
+      <footer class="chat-input-area">
+        <form id="chat-form" class="chat-form">
+          <label class="sr-only" for="chat-input">
+            Fachliche Frage eingeben
+          </label>
+
+          <textarea
+            id="chat-input"
+            placeholder="Schreibe hier deine fachliche Frage..."
+            rows="3"
+          ></textarea>
+
+          <button type="submit" id="send-btn" class="primary-btn">
+            Senden
+          </button>
+        </form>
+      </footer>
+    </section>
+  </main>
+
+  <dialog id="info-dialog" class="info-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-header">
+      <h3 id="dialog-title">Information</h3>
+
+      <button id="close-dialog-btn" class="close-btn" type="button">
+        Schließen
+      </button>
+    </div>
+
+    <div id="dialog-body" class="dialog-body"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+(0:00:00 - 0:00:24)
+Kommen wir zu allgemeinen Arbeiten auf PV-Anlagen. Die typischen Gefahren auf einer PV-Anlage sind Mittelspannung anstehend, wenn diese in Betrieb ist, DC-Spannungen bis 1500 Volt, wenn die Strings bereits zusammengesteckt sind. Auf einer Baustelle bewegen sich schwere Baufahrzeuge.
+
+(0:00:26 - 0:00:47)
+Auf der Baustelle sind oft die Kabelgräben noch offen, Fundamentgruben um die Stationen noch nicht verfüllt. Dort herrscht eine Gefahr zu stolpern oder umzuknicken. Wenn die Anlagen in Betrieb sind, haben wir auf der Niederspannungsseite bis zu 800 Volt Wechselspannung.
+
+(0:00:49 - 0:01:17)
+Überall auf der Baustelle sind scharfe Kanten, wie z.B. an Modulträgern. Und es können auch Modulträger, die gerade über die Baustelle transportiert werden, zum Bau von Modultischen können, auch beim Transport von der Gabel des Radladers, herunterfallen und uns erschlagen. Dann gibt es die zusätzliche Erschwernis von Wetterbedingungen.
+
+(0:01:17 - 0:01:28)
+Im Sommer ist man selten in schattigen Bereichen unterwegs. Im Winter hat man häufig mit Schlamm zu kämpfen. Die Schuhe bleiben stecken.
+
+(0:01:29 - 0:02:15)
+Dort ist eine erhöhte Gefahr, sich dann den Knöchel zu verdrehen. Bei der Arbeit auf Dachanlagen herrschen besondere Gefährdungen. Dort muss man sich überlegen, was kann passieren? Wo kann ich abstürzen? Wo kann ich eventuell durchbrechen, weil die Dachhaut nicht stabil genug ist? Oder wo besteht eine elektrische Gefährdung? Schutzmaßnahmen dagegen sind eine Absturzsicherung, Seitenschutz und Fanggerüste, persönliche Schutzausrüstung, wie zum Beispiel ein Klettergurt, der uns beim Abstürzen nach anderthalb Metern bremst.
+
+(0:02:17 - 0:02:29)
+Eine Durchsturzsicherung, das sind tragfähige Überdeckungen, Baugerüste, Laufstege und Netze, elektrische Sicherheit, isolierte Werkzeuge,

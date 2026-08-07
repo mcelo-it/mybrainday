@@ -1,0 +1,205 @@
+(0:00:00 - 0:00:28)
+und gehen weiter zur Sternpunktbehandlung im Niederspannungssystem. Jetzt zeigen wir relativ, ich glaube sogar im gleichen Rhythmus, in der gleichen Reihenfolge, die eben beschriebenen Formen, aber nochmal im Detail und schreiben uns dann einfach auch nochmal Vor- und Nachteile dazu auf. Also, erstmal starten wir mit der Niederspannung.
+
+(0:00:28 - 0:00:40)
+Entschuldigung, das war ein bisschen zu schnell, ich starte hier nochmal mit der Niederspannung. Und zwar dem geerdeten Sternpunkt, also TNC, TNS, TNCS. Das gucken wir uns jetzt nochmal ein bisschen genauer an.
+
+(0:00:40 - 0:01:02)
+Hier ist das erstmal so einpolig gemacht. Ihr seht auf der linken Seite die Oberspannungsseite und auf der rechten Seite seht ihr die Unterspannungsseite von so einem Transformator. In dem Fall ist jetzt die Unterspannungsseite im Stern geschaltet und der Sternpunkt, das N, ist rausgeführt und geerdet.
+
+(0:01:02 - 0:01:15)
+Das seht ihr an dieser Linie senkrecht nach unten und dem Erdungssymbol unten. Also Stern und der Sternpunkt geerdet. Die Oberspannungsseite interessiert uns jetzt nicht, deswegen schiebe ich die weg.
+
+(0:01:15 - 0:01:36)
+Wir gucken uns ja jetzt nur mal eine Sternpunktbehandlung an, also von einem Sternpunkt und dann nehmen wir uns eben dieses Beispiel hier raus. Wir hatten uns schon aufgeschrieben, was es da für Varianten gibt und jetzt gucken wir uns erstmal dieses TNC an, also das kombinierte System. Da brauchen wir einen Pen, der ist grün-gelb dargestellt und auch mit Pen benannt.
+
+(0:01:37 - 0:01:54)
+Das ist ganz wichtig, wenn ihr das in so Stromlaufplänen seht, dann sieht man auch immer noch die Beschriftung dazu. So, wo finde ich so ein System? So finde ich geht es nun mal motivationsmäßig erstmal los. Also erstmal im Verteilnetz der Niederspannung von so einem Netzbetreiber.
+
+(0:01:54 - 0:02:13)
+Also man kann sich das, finde ich, bildlich so vorstellen. Aus der Spannungsebene 3 in die Spannungsebene 4 gibt es einfach so einen Verteilnetztransformator irgendwo in der Reihenhaussiedlung, sage ich mal, irgendwo vorne an der Straße. Da stehen die, die erkennt man offenbar gar nicht so leicht, weil da so kleine graue Gebäude sind.
+
+(0:02:13 - 0:02:24)
+Da ist der dann drin und der versorgt jetzt diese ganze Reihenhaussiedlung mit der Niederspannung. Und dann führt der Netzbetreiber oft das System erstmal raus. Genauso mit so einem TNC-System.
+
+(0:02:26 - 0:02:37)
+Warum macht er das? Da orientiert er sich sicherlich an den Vorteilen. Er macht das, weil er erstmal es schafft, zwei Funktionen miteinander zu kombinieren. Also der PE, das ist der Schutzleiter, der hat eine Funktion.
+
+(0:02:37 - 0:03:00)
+Und der N, das ist der Neutralleiter, der hat eine andere Funktion. Also grundlegend gesagt, der Neutralleiter dient auch für den ganz normalen Betriebsstrom Fluss. Also wenn das System L1, L2 nicht komplett synchron betrieben wird, dann ist das genau so gedacht, dass sozusagen die Ausgleichsströme in diesem Neutralleiter fließen.
+
+(0:03:00 - 0:03:06)
+Das ist ganz normal. Das ist auch in einem einphasigen System so. Also wenn man nur eine Glühbirne hat, hat man ja meinetwegen nur den L1.
+
+(0:03:06 - 0:03:15)
+Und dann gibt es den Rückfluss über den N. Also ein ganz normaler Betriebsstrom. Der PE, der hat eine Schutzfunktion. Das ist natürlich eine ganz andere Herangehensweise.
+
+(0:03:15 - 0:03:25)
+Da fließt also im Normalfall nichts. Ist auch spannungsfrei. Und dann hätte man das nur im Fehlerfall, damit vielleicht der FI-Halter zum Beispiel vorne schneller ausschaltet.
+
+(0:03:27 - 0:03:40)
+Aber jetzt haben wir das kombiniert. Also wir nutzen sozusagen den N auch als PE oder den PE auch als N, wie man das auch mal sehen will. Und hat daraus den resultierenden Vorteil, dass man eine relativ große Materialeinspannung hat, weil man hatte jetzt nur vier Leiter.
+
+(0:03:40 - 0:03:48)
+Wir sehen es ja gleich, wenn man das jetzt aufteilt, sind es fünf Leiter. Also würde man ein Fünftel Material sparen. Und das ist auch ein Vorteil, finde ich.
+
+(0:03:48 - 0:03:56)
+Das ist bekannte Technik. So wurde unser Niederspannungssystem, unser Verteilnetz aufgebaut. Die Elektriker kennen das, die Stadtwerke kennen das.
+
+(0:03:57 - 0:04:04)
+Also das ist immer ein Vorteil, finde ich, wenn man bekannte Systeme weiterführt. Jetzt gibt es aber einen kleinen Nachteil. Da kommt er, da ist er.
+
+(0:04:05 - 0:04:16)
+Das Ganze ist nicht wirklich EMV-freundlich. Das hat damit zu tun, dass dieser Pen, wenn er belastet ist, dann doch kleine Spannungen auftreten. Das ist einfach ein Nachteil aus EMV-Sicht.
+
+(0:04:16 - 0:04:30)
+Und es besteht auch Gefahr, Lebensgefahr, wenn es mal zu einem Bruch kommt bei diesem Pen. Also wenn da ein Defekt dran ist, dann ist das sehr ungünstig. Das erstmal die Übersicht zum TNC-System.
+
+(0:04:31 - 0:04:48)
+Und jetzt nehme ich das erstmal weg, damit ich es mit meinem TNCS neu aufbauen kann. Und ihr seht es jetzt im einpoligen Schema, was sich jetzt verändert. Jetzt führe ich da erstmal noch einen zusätzlichen Pfad raus sozusagen und teile den N und den PE auf.
+
+(0:04:49 - 0:04:59)
+Das ist jetzt ganz wichtig. Das habe ich jetzt nicht direkt am Sternpunkt gemacht, sondern so ein bisschen weiter entfernt, so ein bisschen nach rechts gerückt. Und das erkläre ich auch gleich.
+
+(0:04:59 - 0:05:16)
+Das liegt daran, dass ich jetzt dieses TNCS-System zum Beispiel in Gebäudeverteilungen finde. Also nicht in der Trafostation, die da am Wegesrand von der Reihenhaussiedlung steht. Da ist es ein TNC, aber später in der Gebäudeverteilung, also im Reihenhaus Nr.
+
+(0:05:16 - 0:05:25)
+17. Da wird es dann aufgeteilt oder im Betrieb natürlich auch. Also das ist generell in den Niederspannungsanschlussnehmern.
+
+(0:05:25 - 0:05:40)
+Da wird es dann aufgeteilt und hat eben den Vorteil, dass bis dahin ich mir diesen Leiter gespart habe und die Nachteile waren da nicht so gravierend. Aber jetzt, jetzt innerhalb des Gebäudes, nutze ich mir die Vorteile von der Trennung. Dachanlagen sage ich auch gleich noch.
+
+(0:05:40 - 0:06:01)
+Also zum Beispiel, dass eben jeder Leiter jetzt seine Funktionen separat ausführen kann und dass der PE spannungsfrei ist. Genau, bei Dachanlagen habe ich den Bullet Point auch unbedingt mit reinnehmen wollen, weil wir sind ja hier bei einer Planungsleitfaden für Elektroplaner PV. Also so ein System finden wir ist ganz typisch für Dachanlagen.
+
+(0:06:01 - 0:06:09)
+Da hat man ja schon ein bestehendes System, auf das man aufbaut. Man kommt da ja meistens hin und das Gebäude steht. Also fertig geplant ist es sowieso schon.
+
+(0:06:09 - 0:06:31)
+Meistens steht es ja sogar schon und hat schon einen Anschluss, der in Betrieb ist. Und dann gehe ich erstmal runter in die Gebäudeverteilung und mache da den Schrank auf und sehe dann oft genau das, was ich hier zeige. Also an irgendeiner Stelle, die kann man auch sehen, wird dann oft der Pen, der vom Netzbetreiber kommt, aufgeteilt in einen separierten N und einen PE.
+
+(0:06:32 - 0:06:41)
+So, das ist wie immer im Leben. Jetzt generieren die Vorteile auch Nachteile. Einmal hier, man hat einen höheren Verkabelungsaufwand.
+
+(0:06:41 - 0:06:50)
+Das ist erstmal klar. Da brauche ich jetzt ein Kabel mehr oder ein Leiter mehr innerhalb meines Kabels. Aber es hat noch einen anderen irgendwie Nachteil, haben wir es genannt.
+
+(0:06:50 - 0:07:01)
+Diese dreiphasigen Wechselrichter, die wir eigentlich in meiner Welt zumindest ausschließlich nutzen, die brauchen überhaupt keinen N-Leiter mehr. Meistens jedenfalls. Bei Dachanlagen ist das oft anders.
+
+(0:07:01 - 0:07:20)
+Das ist eben so konzipiert, weil die schon wissen, dass es da dann meistens so ein Fünf-Leiter-System gibt. Aber grundsätzlich brauchen die Wechselrichter das aus ihrer Technik heraus erstmal gar nicht mehr, weil sie symmetrisch arbeiten. Das heißt, der N-Leiter, den kann man jetzt anschließen, aber der hat dann überhaupt keine Funktion mehr.
+
+(0:07:23 - 0:07:34)
+Ich lasse das erstmal so stehen und hole jetzt noch die dritte Variante mit rein. Das S über mir ist gehighlighted worden. Wir hatten gerade C und S und jetzt mache ich mal ein reiner, separiertes System daraus.
+
+(0:07:35 - 0:07:50)
+Achtung, schaut auf das einpolige Schema. Hier wird jetzt die Aufteilung in die Trafo-Station, zum Trafo hingeschoben. Jetzt habe ich von meiner Trafo-Station bis in mein Haus rein die Trennung vollzogen.
+
+(0:07:51 - 0:08:02)
+Also eine reine Trennung von Anfang an. Und das, finde ich, sieht man zumindest früher auf jeden Fall viel, viel, viel. Mittlerweile immer noch bei PV-frei Flächenanlagen.
+
+(0:08:02 - 0:08:28)
+Die Transformatoren sind oft so aufgebaut, wie wir es jetzt hier dargestellt haben. Also da hat man einen Sternpunkt, der ist herausgeführt auf der Unterspannungsseite und dann werden, das sind oft so Kupferschienen, die kann man auch sehen, zeigen wir auch später in unserer Tour, kann man da selber nachgucken, sieht man das dann, wie der herausgeführt ist und dann aber auch nochmal auf zwei verschiedene Sammelschienen aufgeteilt ist. Das ist dann auch wichtig für die Grundlogik, dass man das nicht vertauscht.
+
+(0:08:29 - 0:08:39)
+Die sind auch markiert. Die eine ist dann grün-gelb markiert und das andere ist eben der Neutralleiter. So, hier haben wir das einfach nochmal in der Übersicht zusammengeschrieben.
+
+(0:08:40 - 0:08:52)
+Ist genau das gleiche. Also das TNC-System ist einfacher zu errichten, hat weniger Materialaufwand, weil es sind ja einfach nur vier Leiter. Es ist nicht ganz so EMV-freundlich wie das TNS-System.
+
+(0:08:53 - 0:09:18)
+Und das Wichtigste, finde ich, ist, also aus sicherheitstechnischer Sicht, wird das nicht bevorzugt. Da muss man aber auch ganz klar sagen, dass wenn wir uns in den Reihenhäusern befinden, aber meinetwegen ja auch in Betrieben, da ist das natürlich eine ganz andere Herangehensweise bei der Sicherheit als jetzt bei PV-Freiflächenanlagen, weil bei mir zu Hause, finde ich, kann ich nicht davon ausgehen, dass immer jeder weiß, was er tut und irgendwie Sicherheitsschuhe trägt. Natürlich nicht.
+
+(0:09:18 - 0:09:28)
+Bei Freiflächenanlagen ist das ja schon so. Deswegen würde man da aus einer Risikobewertung heraus das dann als gar nicht mehr so relevant sehen. Aber grundsätzlich ist es so, das ist der wichtigste Unterschied.
+
+(0:09:29 - 0:09:38)
+Wenn dieser PN irgendwie kaputt geht, dann hat man ein erhöhtes Risiko. Und das gilt dann auch indirekt für Brände. Deswegen haben wir es hier mit reingenommen.
+
+(0:09:39 - 0:09:48)
+Und beim TNS-System ist es genau umgekehrt. Erhöhter Kabelaufwand, weil zusätzlicher Leiter. Aber es ist eben vorfreundlich und man hat eben einen höheren Personenschutz.
+
+(0:09:51 - 0:10:01)
+So, das war der erste Punkt in unserem Niederspannungsmast. Und wir gehen in den zweiten. Das ist das IT-System, also der isolierte Sternpunkt.
+
+(0:10:01 - 0:10:12)
+Achtung, Achtung, das ist er hier noch nicht. Wir haben jetzt erst mal das System aus dem TN-System, das vorherige, das wir erklärt haben, mit rüber kopiert. Das haben wir absichtlich gemacht, damit wir die Unterschiede besser sieht.
+
+(0:10:13 - 0:10:32)
+Also jetzt bitte das hier noch nicht merken, sondern jetzt guckt erst mal zu, was wir hier machen. Beim isolierten Sternpunkt gibt es eben keine Sternpunkterdung. Das heißt, wir brauchen ein Radiergummi und radieren das erst mal weg zwischen dem Sternpunkt, der ja trotzdem existiert, und der Erdung.
+
+(0:10:32 - 0:10:49)
+Also raus damit, weg ist er. So könnte das aussehen. Jetzt sagen wir ja zusätzlich, dass wir Wechselrichter vielleicht, gegebenenfalls, Achtung, passt da auf, bei Dachanlagen ist das schon oft so, dass die Wechselrichter nach ihren Betriebsbedienungsanleitungen trotzdem diesen N brauchen.
+
+(0:10:49 - 0:11:07)
+Also das unbedingt prüfen. Aber wenn jetzt die Wechselrichter spezifisch für Freiflächen vorgesehen sind, das macht man halt und prüft das noch mal so, dann ist das gegebenenfalls gar nicht erforderlich, dieser Neutralleiter. Und dann würde ich den hier auch, den würde ich jetzt auch wegnehmen, ausgrauen, und dann ist der auch weg.
+
+(0:11:07 - 0:11:24)
+Jetzt haben wir einen wunderbar isolierten Sternpunkt. So, jetzt ergibt sich auch noch zusätzlich, dass man diesen PE nicht unbedingt mitführen muss. Das liegt daran, dass die Erde sozusagen nun mal allgegenwärtig als Erde definiert ist.
+
+(0:11:24 - 0:11:35)
+Also den brauche ich auch nicht, nehme ich den auch noch weg. Und jetzt sehen wir schon, jetzt ist es so richtig, richtig isoliert. So, diesen Screenshot bitte machen, wenn es um IT-Systeme geht.
+
+(0:11:36 - 0:11:47)
+Wir gucken uns wieder so ein bisschen an, wo das alles so herkommt. Also ich habe mir erstmal einen Vorteil aufgeschrieben, dass das eine sehr hohe Verfügbarkeit hat. Das liegt daran, dass das auch im Fehlerfall weiter betrieben werden kann.
+
+(0:11:47 - 0:12:00)
+Das zeige ich später in der Mittelspannung viel deutlicher, weil da ist das interessanter. Aber die grundlegende Logik gilt für die Niederspannung genauso. Also das hat erstmal eine höhere Verfügbarkeit als die anderen Systeme im Fehlerfall.
+
+(0:12:01 - 0:12:08)
+Das ist ganz wichtig. Also wenn das im Normalbetrieb ist, dann ist die Verfügbarkeit immer bei 100%. Es geht um den Fehlerfall.
+
+(0:12:08 - 0:12:15)
+Da hat das IT-System Vorteile. Außerdem hat es einen hohen Personenschutz. Das kann man sich auch aufzeichnen.
+
+(0:12:15 - 0:12:23)
+Das liegt daran, dass dann eben hier im Grunde keine Strömen fließen. Und es ist ein geringerer Verkabelungsaufwand. Ich glaube, das ist ganz deutlich.
+
+(0:12:23 - 0:12:38)
+Das kann man jetzt auch wirklich sich mal ausrechnen mit irgendeiner Kalkulation. Man legt da verschiedene Kabel nebeneinander. Der eine muss ja 5 Adern haben, der andere nur 3. Da kann man sich schon vorstellen, man hat natürlich deutlich weniger Kupfer, das man da bezahlen muss oder Aluminium.
+
+(0:12:39 - 0:12:48)
+Also das sind die drei großen Vorteile. Dann haben wir noch aufgeschrieben, wo findet man sowas? Also erstmal in Krankenhäusern. Da geht es, denke ich, vor allem um die Verfügbarkeit.
+
+(0:12:48 - 0:12:58)
+Aber eben auch mittlerweile auf PV-Anlagen, würde ich sagen, eher Freiflächen. Da kenne ich das. Da wird das mittlerweile ganz üblich eingesetzt.
+
+(0:12:59 - 0:13:13)
+So, so ein paar Nachteile noch. Ja, vielleicht noch finden wir relativ wenig Erfahrung in der PV-Welt. Achtung, in der Energieversorgerwelt, in der Elektrikerwelt im Allgemeinen auf keinen Fall.
+
+(0:13:13 - 0:13:17)
+Das ist nicht so gemeint. Das kennt jeder Elektriker, diese Systeme. So ist das nicht gemeint.
+
+(0:13:18 - 0:13:26)
+Aber in der PV-Welt oder in der Erzeugerwelt, da finden wir, gibt es erstmal wenig Erfahrung noch. Sie kommen ja, die Systeme. Und das ist immer ein Nachteil.
+
+(0:13:26 - 0:13:38)
+Dann hat man natürlich immer ein bisschen höheres Risiko, dass irgendwas nicht ganz richtig funktioniert. Dann gibt es andere Anforderungen an die Schutztechnik. Also Schutztechnik gibt es immer in allen Systemen.
+
+(0:13:38 - 0:13:49)
+Aber hier gibt es andere, vielleicht vermeintlich komplexere Anforderungen. Ich hatte es in der Seite vorher schon mal gemacht. Das wäre jetzt hier so ein Brainday-Icon, das hier jetzt eigentlich aufflimmern muss.
+
+(0:13:49 - 0:13:59)
+Wir haben also genau hierfür ja noch eine komplette Schulungseinheit gebaut. Da werden auch diese Anforderungen an die Schutztechnik ganz genau beschrieben. So, dann gibt es noch einen Nachteil.
+
+(0:13:59 - 0:14:06)
+Den zeige ich auch bei der Mittelspannung gleich noch viel, viel besser. Es gibt eine höhere Spannung im Fehlerfall. Das ist einfach ein Nachteil.
+
+(0:14:06 - 0:14:14)
+Das liegt an der Technik, zeige ich später auch noch. Es treten dann höhere Spannungen auf, wie gesagt, nur im Fehlerfall. Auch hier ist das eine Zusammenfassung.
+
+(0:14:15 - 0:14:24)
+Ich lese es jetzt noch nicht mal vor. Es ist genau das Gleiche, was ich gerade schon beschrieben habe. Also das sind die Zusammenfassungen von so einem IT-System.
+
+(0:14:24 - 0:14:51)
+So, und der dritte, der geht ganz schnell. Das ist mein TT-System. Wir haben auch wieder wirklich drüber nachgedacht, wie wir das jetzt hier darstellen wollen, wie kleinteilig wir das machen wollen. 
+
+Wir haben uns für Folgendes entschieden. Ich zeige Vor- und Nachteile, aber ich gehe nicht darauf ein, weil wir dieses TT-System in unseren Anwendungen nicht kennen. Das ist einfach nicht so sinnvoll, finden wir damit, ins Detail zu gehen, sondern die anderen zwei Systeme, die wir schon hatten, die sind wichtig.
+
+(0:14:52 - 0:15:11)
+Sei es drum, grundsätzlich sind so TT-Systeme so aufgebaut. Also wir haben da eine Erdung T auf beiden Seiten, die sieht man hier, da ist sie noch mal dargestellt, also auf beiden Seiten TT und dann hat das Vorteile, die wir hier aufgeschrieben haben. Es gibt Nachteile, die wir hier aufgeschrieben haben.
+
+(0:15:11 - 0:15:59)
+Wie schon beschrieben, ich mache jetzt weiter, weil mir das TT-System für den heutigen Zusammenhang nicht so wichtig ist. So und dann haben wir hier noch mal eine Gesamtzusammenfassung gebastelt mit Daumen hoch, also auch da gehe ich jetzt nicht in die Kleinteiligen ein, sondern wir finden, dass das sinnvoll ist, dass man am Schluss noch mal eine Zusammenfassung zeigt und wenn man dann irgendwann später noch mal reinguckt, dann reicht ja vielleicht diese Zusammenfassung. Also das ist eine Gegenüberstellung TNC mit 15 Daumen hoch hatten wir mal gemacht, das ist symbolisch gemeint, dass TNS hat, wenn man so will, nur 17 genau, das wäre vorteilhaft aus unserer Sicht für unsere Anwendung und das IT, da kommt jetzt unser Icon noch mal ganz wichtig, das IT-System für unsere Anwendungen sozusagen gewinnt diesen Contest, da halten wir das für sehr zukunftsorientiert, sehr sinnvoll.

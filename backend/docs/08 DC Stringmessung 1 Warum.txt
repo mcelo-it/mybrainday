@@ -1,0 +1,89 @@
+(0:00:00 - 0:00:19)
+Also das ist der Verlauf jetzt erst mal und auf Los geht es gleich mal los. Die Motivationsspritze gleich am Anfang. Warum sollte ich eine String Messung machen? Das drehe ich tatsächlich so ein bisschen um mit der Frage Was ist denn eigentlich ein String? Das gucken wir uns hier einfach noch mal ganz kurz an.
+
+(0:00:20 - 0:00:36)
+Auch wenn das bestimmt die meisten schon wissen, aber ich zeige es trotzdem, weil das später dann in der Detail Auswertung schon wichtig wird. Was genau ich damit meine? Also das ist erst mal ein Modul, sozusagen der Ursprung allem. Und wenn ich jetzt so einen Tisch zusammenbaue, dann habe ich mehr als einen Tisch.
+
+(0:00:36 - 0:00:48)
+Ab sofort skaliert sich diese ganze Logik der Module. Und das zeigen wir hier einmal kurz. Ich muss meinen Wechselrichter, egal ob zentral oder dezentral, mit meinen Modulen verbinden auf der DC Seite.
+
+(0:00:49 - 0:00:56)
+Unser Modul hat immer ein Plus und Minus. Das habe ich hier jetzt mal eingeblendet. Und wie gesagt, das ist nicht mehr nur ein Modul, sondern jetzt sind es ganz viele Module.
+
+(0:00:57 - 0:01:13)
+Jetzt muss ich immer richtig verbinden meinen Plus Wechselrichter mit dem Plus vom Modul. Da hat es eine interne Verschaltung zum Minus und dann im Tisch sozusagen daraus eben einen String bilden. Das haben wir jetzt hier verkürzt dargestellt.
+
+(0:01:13 - 0:01:25)
+Ihr kennt das. Man springt von einem Minus zum nächsten Plus und hat dann, man sieht es leicht in Orange vor den Modulen dargestellt, einen String aufgebaut. Also mehrere Module in Reihe sind ein String.
+
+(0:01:25 - 0:01:35)
+Und dann geht es wieder zurück zum Wechselrichter. Wenn ich das so mache, wie es hier gezeigt hat, nennen wir das E-String. Das ist kein Fachjargon, glaube ich, steht in keiner Norm so drin, sondern wir haben das so genannt.
+
+(0:01:36 - 0:01:41)
+Ich glaube, das machen viele so. Ich zeige auch gleich, warum. Aber dieser Typ ist später dann eben noch mal wichtig.
+
+(0:01:42 - 0:01:45)
+Genau. Wir blenden die Module aus. Dann kann man sich ein bisschen besser vorstellen.
+
+(0:01:45 - 0:01:57)
+Also das ist jetzt sozusagen so liegend betrachtet. Wäre das jetzt ein I? Deswegen nennen wir den E-String. Jetzt gibt es noch andere Typen, zum Beispiel einen U-String.
+
+(0:01:57 - 0:02:13)
+Und da wird dann eben die Entscheidung, die Unterscheidung interessant. Wie sieht das grob in unserer Logik aus? Detail kann das, wie gesagt, immer ein bisschen anders sein. Aber hier geht man zum Beispiel in einer Reihe sozusagen den Tisch entlang, springt dann eine Reihe nach unten und geht den gleichen Weg wieder zurück.
+
+(0:02:13 - 0:02:26)
+Hat verschiedene Vorteile, zum Beispiel im materialsparenden Ansatz. Aber darum geht es heute nicht, sondern es gibt eben diesen anderen Typus String auch. Und der würde dann so von hier mit dem Minus wieder zurück zum Wechselrichter gehen.
+
+(0:02:26 - 0:02:30)
+Jetzt nur in dem Beispiel. Jede Anlage sieht ein bisschen anders aus. Dachanlagen sowieso.
+
+(0:02:31 - 0:02:36)
+Da würde man das auch anders aufbauen. Aber es geht jetzt nur ums Prinzip. Bleibt ja hier jetzt eine Reihe offen.
+
+(0:02:37 - 0:02:52)
+Die schauen wir uns jetzt auch gleich an und brauchen deswegen auch noch einen zweiten Modultisch, den wir auch mit so einem U da belegen. Weil jetzt bei beiden Tischen also so ein Modulreihe frei geblieben ist. Und die würde man jetzt zum Beispiel mit so einem dritten U auch noch einsammeln.
+
+(0:02:53 - 0:03:10)
+Dann hat man jetzt mal alle Module wunderbar eingesammelt, aber eben nicht mit solchen I Varianten sozusagen, sondern ich blende es nochmal aus. Jetzt sieht man hier, finde ich eigentlich sehr schön, dass das jetzt drei wieder liegende U sind. Aber das wäre also der Gegenentwurf zum E-String.
+
+(0:03:12 - 0:03:28)
+Ich mache weiter, weil es gibt noch einen dritten. Es gibt wahrscheinlich noch viele Zwischenvarianten, aber wir nennen den X-String oder S-String oder Reste-String. Den kann man sozusagen sich so vorstellen, dass es manchmal Tische gibt, die dann irgendwie noch übrig bleiben oder auf Dachanlagen sowieso.
+
+(0:03:28 - 0:03:43)
+Da gibt es ja oft eine relativ komplexe Chaos Verstringung. Und das machen wir hier mal mit so einem X. Also da wird irgendwie der Rest sozusagen eingesammelt. Da geht es zum Wechselrichter zurück und dann sieht das jetzt ungefähr so aus.
+
+(0:03:44 - 0:04:07)
+Warum das wichtig ist, das sehen wir erst später. Wir wollten es trotzdem am Anfang einmal gezeigt haben, dass es verschiedene Strings gibt, weil eben in der Bewertung später von den Messergebnissen es durchaus wichtig ist, im Hinterkopf oder vielleicht in der Excel-Tabelle direkt daneben stehen zu haben, was das überhaupt für Stringtypen sind, weil man dann vielleicht Rückschlüsse ziehen kann auf mögliche Einflussfaktoren. Also das war das Was.
+
+(0:04:08 - 0:04:29)
+Wir gehen weiter in das Warum und werden jetzt schon ein bisschen schlauer, weil wir wissen, was ein String eigentlich ist und wollen hier einmal bitte mitnehmen, dass im Gegensatz dazu das Modul ein Zertifikat vorzuweisen hat. Das ist im Grunde immer so. Also die Module sind typgeprüft.
+
+(0:04:29 - 0:04:40)
+Deswegen wird man für die Modul Lieferung auch so ein Zertifikat mitbekommen. Außerdem gibt es projektbezogene Flashlisten. Also ist das Modul auch noch zusätzlich Komponenten geprüft.
+
+(0:04:40 - 0:04:54)
+Also das Modul, das hat eine ziemlich lange Prüfkette hinter sich. Der String aber nicht, und zwar weil der ja naturgemäß erst vor Ort installiert werden kann. Also das, was sich hier gerade im Schaubild mehrfach gezeigt hat, passiert erst vor Ort.
+
+(0:04:54 - 0:05:22)
+Es gibt also keinen Prüfnachweis und die Fehlererkennung erfolgt dann erst durch eine Stringmessung, die man grün gemacht, weil genau darauf wollen wir ja heute hinaus. Also wenn man eine projektverschiedene, spezifische Verschaltung hat oder auch die Qualität der Module vor Ort noch mal in der Stringmessung überprüfen will, dann braucht man also diese Stringmessung, um die es heute gibt. Jetzt haben wir das Warum.
+
+(0:05:22 - 0:05:28)
+Ich schiebe aber gleich noch zwei weitere Fragen hinterher. Das Welche. Damit meinen wir Messparameter.
+
+(0:05:28 - 0:05:40)
+Also es geht um elektrische Kenndaten. Welche genau sehen wir noch und aber auch Projektdaten, weil das eben einen projektspezifischen Zusammenhang hat. Deswegen gehören für uns diese Daten beide unbedingt zusammen.
+
+(0:05:41 - 0:05:48)
+Sehen wir später auch im Messprotokoll noch. Und die letzte Frage ist dann direkt hinter mir. Das Wann genau.
+
+(0:05:49 - 0:05:59)
+Das Wann ist auch noch mal wichtig. Es geht nämlich nicht nur um die Erstprüfung vor Inbetriebnahme. Das wäre so eine typische Fragestellung für uns in der Planung, sondern es geht auch um eine wiederkehrende Prüfung.
+
+(0:05:59 - 0:06:11)
+Ganz, ganz wichtig. Also die Prüfungen werden mehrfach durchzuführen sein. Das heißt, es hilft nicht nur einmalig, sondern auch wiederkehrend, wenn man die Interpretation verstanden hat.
+
+(0:06:12 - 0:06:21)
+Die vier Fragen zusammen, wenn man es noch mal irgendwie grafisch darstellen will, geben einen Kreis und in der Mitte steht also langfristige Qualitätssicherung. Haben wir reingeschrieben. Das wollen wir erreichen.
+
+(0:06:22 - 0:06:25)
+Und das sieht die Norm, die wir gleich sehen, auch so.

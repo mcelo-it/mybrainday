@@ -1,0 +1,23 @@
+(0:00:00 - 0:00:12)
+So, hallo und herzlich willkommen auch heute wieder zu einem weiteren Brainday. Heute geht es um den sogenannten UMZ und AMZ-Schutz. Das ist Überstromschutz.
+
+(0:00:13 - 0:00:30)
+Wie genau das funktioniert und was das alles hier im Hintergrund bedeutet, die Abkürzung, das werden wir jetzt zu Genüge erfahren. Ich zeige euch mal den Fahrplan für den heutigen Tag. Wir fragen uns erst, wie so oft, warum brauchen wir das überhaupt, diesen Überstromschutz.
+
+(0:00:30 - 0:00:39)
+Dann gucken wir uns mal so ein typisches Schutzkonzept an, konzentrieren uns aber dabei eben auf diese Überstromschutzfunktion. Das gibt es ja noch viel mehr. Das machen wir heute aber nicht.
+
+(0:00:39 - 0:00:52)
+Fokus, Überstromschutz. Dann kurzer Ausblick auf die Komponenten, die man da so braucht, um sowas machen zu können. Schutzfunktion selbst gibt es wiederum selbst in der Kategorie Überstromschutz verschiedene.
+
+(0:00:53 - 0:01:07)
+Da gebe ich mal einen Überblick, damit man sich vorstellen kann, welche verschiedenen Schutzfunktionen es eigentlich so gibt. Dann, wie läuft so ein Prüfablauf ab? Das soll heute auch der Fokus sein. Das ist heute ein sehr praktischer Gedanke, den wir da mittragen wollen.
+
+(0:01:07 - 0:01:29)
+Wir wollen ein bisschen mitnehmen in die Realität sozusagen. Wie funktioniert dann eigentlich so eine Prüfung? Ehrlich gesagt kann man, wenn man die Prüfung mal selber gemacht hat oder zumindest dabei gewesen ist und verstanden hat, was der da so macht, es auch viel besser greifen, finde ich, was eigentlich so ein Überstromschutz genau ist. Das ist dann auch noch Theorie, aber dann wird es richtig praxisnah.
+
+(0:01:30 - 0:01:35)
+Wir machen einen Live-Test. Wir haben hier bei uns im Studio sozusagen ein Schutzrelais. Das gucken wir uns dann zusammen an.
+
+(0:01:35 - 0:01:44)
+Ihr solltet auch ein bisschen mithelfen, das mal richtig einzustellen. So, Prüfprotokolle gehören auch immer mit dazu. Das wäre sozusagen der letzte Schritt.

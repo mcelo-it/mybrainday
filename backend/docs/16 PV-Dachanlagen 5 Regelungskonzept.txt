@@ -1,0 +1,166 @@
+(0:00:00 - 0:00:14)
+Und da geht es jetzt auch gleich weiter. Wir machen das jetzt theoretisch, aber man kann natürlich parallel oder im Nachgang sich das auch mit der Tour dann irgendwie eins zu eins vergleichen. Also es geht weiter mit dem Regelungskonzept.
+
+(0:00:15 - 0:00:47)
+Ganz wichtiges Thema für die Zertifizierung und auch ein großer Stolperstein bei so Planungen. Ich würde es so kurz beschreiben, dass die Regelung selbst ein, die Bauteile der Regelung selbst ein verschwindend kleiner Teil dieser Gesamtkonstruktion sind, aber essentiell für die Zertifizierung, für die Betriebnahme und dementsprechend eben auch für die Regelung. Also wir zeigen das Schema nochmal ganz kurz eins, eins nach dem anderen, weil es jetzt ein bisschen anders aussieht als unser Anlagenschema.
+
+(0:00:48 - 0:00:55)
+Wir machen das absichtlich so. Ich empfehle das auch so. Im Anlagenschema sind ungleich mehr Informationen hinterlegt, die wir hier jetzt nicht brauchen.
+
+(0:00:56 - 0:01:05)
+Deswegen würden wir das. Wir machen es so von oben nach unten darstellen und auch mit deutlich weniger Details ausstatten. Am Ende braucht man in so einer Dokumentation alle Details.
+
+(0:01:05 - 0:01:16)
+Leistungsschalter, Nennströme oder Stromanlage Klassen. Aber im Regelungskonzept jetzt nicht. Deswegen machen wir das ein bisschen einfacher, ist dann auch ein eigenständiges Dokument.
+
+(0:01:17 - 0:01:25)
+Und dann geht es jetzt oben los mit der Übergabestation. Da ist die erst mal die Übergabestation. Und da haben wir jetzt also rudimentär zusammengefasst.
+
+(0:01:25 - 0:01:34)
+Da ist ein Spannungswandler, da ist ein Stromwandler. Dann kommt dann Leistungsschalter und danach kommt der Transformator. Dass da noch mehr verbaut ist, haben wir gerade gesehen.
+
+(0:01:34 - 0:01:47)
+Aber das sind erst mal die Bauteile, die uns reichen. Hinter dem Transformator kommt dann die Gebäude Niederspannung Hauptverteilung. Und da haben wir also eine Sicherung symbolisch dargestellt für unseren PV Abgang.
+
+(0:01:47 - 0:02:00)
+Und ganz wichtig wird nämlich jetzt ganz wichtig auch für den Verbrauch parallel noch Sicherungen. Das ist dieser lange Verteiler Schrank, den wir da rechts in der Tour gesehen haben. Da gehen die Verbraucher Gebäude intern ab.
+
+(0:02:02 - 0:02:06)
+Jetzt kommt als nächstes der PV Schrank. Da ist er. Zwei Trennstellen.
+
+(0:02:06 - 0:02:16)
+In diesem Beispiel sind es jetzt zwei Leistungsschalter. Das ist aber jetzt für die Logik des Regelungskonzepts nicht relevant. Man kann das ja unterschiedlich handhaben.
+
+(0:02:16 - 0:02:37)
+Und dann sind wir da noch mal ein Strommandler zwischen den zwei Trennstellen sozusagen und am Ende eine Sicherung, die dann die Kabel absichert, die hoch aufs Dach gehen und da haben wir unseren Wechselrichter. Also diese Infos reichen uns jetzt, um das Regelungskonzept aufzubauen. Regelungskonzept ist dann schon erste Liga sozusagen.
+
+(0:02:37 - 0:03:11)
+Wir gucken in die 4110 und verstehen erst mal grundlegend, was es da für Anforderungen ans Regelungskonzept gibt. Und wir sehen, dass in dem E9-Bogen, den der Netzbetreiber uns übertragen hat, auswählt, welche der vielen Möglichkeiten, die die 4110 bietet, er denn ausgewählt hat. Welche es im Detail gibt und wie die alle so verschieden funktionieren, machen wir heute nicht. 
+
+Dafür gibt es jeweils einen Render. Ich zeige sie euch jetzt mal kurz. Nicht erschrecken.
+
+(0:03:12 - 0:03:32)
+Also für die Messung und die Erfüllung, also den Regelpunkt, gibt es verschiedene Ansätze, die dann wiederum der Netzbetreiber im E9-Bogen festlegt. Er kann sagen, wir sollen messen und erfüllen, so nennt er das, also Regeln am Netzverknüpfungspunkt. Er kann aber auch sagen, es ist ein Oder.
+
+(0:03:33 - 0:03:51)
+Er kann messen am Netzverknüpfungspunkt, aber am Wechselrichter soll das Ganze erfüllt werden, die Vorgabe. Also der Regelpunkt wäre dann der Wechselrichter. Oder er kann sagen, wir sollen messen und erfüllen am PV-Schrank, also am Wechselrichter, sozusagen da, wo der Wechselrichter angeschlossen ist.
+
+(0:03:52 - 0:03:57)
+Diese drei Möglichkeiten gibt es erst mal. Das ist eine Oder-Frage. Wir gucken uns die gleich eins nach dem anderen an.
+
+(0:03:57 - 0:04:08)
+Jetzt habt ihr erst mal gesehen die Varianten. Und was denn überhaupt? Ich meine, was soll er denn überhaupt regeln? Auch da zeigen wir jetzt hier erst mal die grundlegenden Funktionen. Die gehen wir nicht durch.
+
+(0:04:08 - 0:04:19)
+Ich nenne sie einmal der Formhalber. Q von U-Kennlinie gibt es, eine Q von P-Kennlinie gibt es. Die Blindleistung mit Spannungsbegrenzungsfunktion und den Verschiebungsfaktor Cousinus Phi fest eingestellt.
+
+(0:04:20 - 0:04:59)
+Also ein Braindate, zwei Stunden lang erklären wir genau diese Kennlinien. Das heißt, ich setze sie jetzt als gegeben an. Jetzt haben wir die drei Varianten der Regelung aufgelistet und wir haben die verschiedenen Kennlinien und Funktionen, die der Netzbetreiber auswählen kann, aufgelistet. 
+
+Und jetzt nehmen wir uns da aber erst mal eine raus, um unser Beispiel mit der Q-U-Kennlinie einfach festzusetzen, damit man jetzt eine einfachere Vorstellung hat. Also das, das hat der Netzbetreiber ausgewählt. Und wir gucken uns erst mal den Punkt 1 an.
+
+(0:04:59 - 0:05:08)
+Messung und Erfüllung am Netzverknüpfungspunkt. Wir haben also den neuen Bogen gekriegt. Wir sehen, er will Punkt 1 und er will die Q-U-Kennlinie.
+
+(0:05:08 - 0:05:57)
+Das hat zur Folge, dass ich jetzt erst mal ein Netzanalysegerät an Netzverknüpfungspunkt brauche, an der Übergabestation. Ich habe es schon in mein Schema reinfliegen lassen und jetzt muss ich noch im Detail darauf achten, dass ich es auch richtig anschließe. Stromwandler und Spannungswandler sind jetzt angeschlossen an das Netzanalysegerät und wir haben die Q-U-Kennlinie in unseren Parkregler eingesetzt. 
+
+Also Messung durch das Netzanalysegerät am Netzverknüpfungspunkt auf der Mittelspannungsseite und der Parkregler, den haben wir jetzt auch in die Übergabe gesetzt. Jetzt hätten wir das erst mal so grundlegend vorbereitet. Jetzt sage ich, was eigentlich passiert bei so einer Regelung.
+
+(0:05:57 - 0:06:13)
+Also in unserem Beispiel gibt es jetzt am Netzverknüpfungspunkt eine Spannung und die geht in der Tendenz runter. Also wir sagen jetzt in unserem Beispiel einfach, die Spannung am Netzverknüpfungspunkt sinkt. Das Netzanalysegerät kriegt das natürlich mit.
+
+(0:06:13 - 0:06:25)
+Das Netzanalysegerät misst ja die Spannung und meldet. Das ist jetzt der grüne Pfeil, das kontinuierlich an den Parkregler. Also der Parkregler weiß jetzt auch, dass die Spannung runtergeht.
+
+(0:06:25 - 0:06:42)
+Und weil wir eine Q-von-U-Kennlinie eingestellt haben als Funktion beim Parkregler, entscheidet der Parkregler jetzt, die Blindleistung muss steigen. Anderer Brainday, warum das so ist. Aber das hat er jetzt in seiner Funktion, in seiner Kennlinie hinterlegt und schickt dem Wechselrichter einen Befehl.
+
+(0:06:42 - 0:06:47)
+Das ist wichtig. Das ist jetzt ein Befehl. Du musst die Blindleistung erhöhen.
+
+(0:06:48 - 0:06:55)
+Netzanalysegerät hat es gemessen. Parkregler hat es umgesetzt in einen Blindleistungswert. Und der Wechselrichter führt das jetzt aus.
+
+(0:06:56 - 0:07:11)
+Der Wechselrichter wiederum deswegen gestrichelt. Der ändert ja wirklich jetzt die Blindleistung. Und das hat zur Folge, dass das Netzanalysegerät am Netzverknüpfungspunkt wiederum misst, dass sich die Blindleistung ändert.
+
+(0:07:11 - 0:07:18)
+Wir sprechen dann von einem geschlossenen Kreis. Haben wir, finde ich, visuell schön dargestellt. Oben steht es auch noch mal, wird gleich wichtig.
+
+(0:07:18 - 0:07:28)
+Das ist jetzt ein geschlossener Kreis. Und das hat also zur Folge, dass am Netzverknüpfungspunkt die Blindleistung auch steigt. Und das ist Daumen hoch.
+
+(0:07:28 - 0:07:35)
+Genau so ist das gedacht. Ein geschlossener Regelkreis. Die Blindleistung macht in Abhängigkeit der Spannung genau das, was sie soll.
+
+(0:07:36 - 0:07:43)
+Jetzt kommt aber das Problem und deswegen wird es orange. Das Problem ist, weil wir eine Mischanlage haben. Also wir haben auch den Verbrauch.
+
+(0:07:43 - 0:07:52)
+Ich habe es hier orange gemacht. Das sind die Abgänge von der Halle. Ist das nicht unbedingt so sinnvoll? Ich zeige kurz, warum.
+
+(0:07:53 - 0:08:28)
+Also erst mal Daumen nach unten. Und jetzt habt ihr da noch so einen Kreis vom Wechselrichter aus dargestellt. Der Wechselrichter erzeugt die Blindleistung, aber vielleicht und in welche Richtung ist jetzt egal, saugt der Verbraucher diese erzeugte Blindleistung sofort ab. 
+
+Da fährt plötzlich ein Kran von links nach rechts oder was auch immer diese Halle da so macht. Die Blindleistung geht überhaupt nicht den Weg, wie wir es uns gedacht haben, sondern die wird sofort verbraucht. Das hat zur Folge, ihr habt es in der Tabelle gesehen, dass die Blindleistung am Netzverknüpfungspunkt jetzt nicht mehr so grün ist, wie es gerade hatte, sondern da passiert irgendwas.
+
+(0:08:28 - 0:08:46)
+In unserem Beispiel kommt keine Blindleistung an, obwohl ja der Parkregler dem Wechselrichter gesagt hat, dass er das machen soll. Und zwar hier ist es, weil der Verbraucher eben diese Blindleistung einfach absaugt. So, das ist erst mal nicht so gut.
+
+(0:08:46 - 0:09:03)
+Das ist eine Tatsache. Und wenn wir jetzt sozusagen unseren Regelkreis testen wollen, haben wir ein Problem, weil wir ja immer nicht, wir wissen ja zu keiner Zeit, was der Verbraucher da eigentlich macht. Deswegen, ja, deswegen kommt jetzt erst mal diese zweite Variante ins Spiel.
+
+(0:09:03 - 0:09:18)
+Also wir messen am Netzverknüpfungspunkt und wir erfüllen aber diesen Befehl nicht am Netzverknüpfungspunkt selbst, wie bei der 1, sondern am Wechselrichter. Das hat folgenden Vorteil. Ja, ich zeige es euch wieder eins nach dem anderen.
+
+(0:09:18 - 0:09:26)
+Wir sprechen jetzt von einem offenen Kreis. Also die eine gestrichene Linie ist jetzt weg, weil die wird nicht mehr beachtet. Das ist jetzt ein offener Kreis.
+
+(0:09:27 - 0:09:44)
+Und der Daumen geht wieder nach oben, weil der Parkregler nicht darauf wartet, dass sozusagen die Blindleistung sich auch wirklich am Netzverknüpfungspunkt ändert. Das ist jetzt eben ein offener Kreis. Er wartet nicht auf das Feedback, das es ja auch nicht geben wird.
+
+(0:09:45 - 0:09:53)
+Und deswegen geht der Daumen jetzt nach oben. Der Blindleistungsverbraucher, den ihr da in der Tabelle seht, der bleibt. Also da ändert sich gar nichts.
+
+(0:09:53 - 0:10:04)
+Das habe ich nicht verändert. Ich habe nur die Logik verändert, dass der Parkregler nicht auf das Feedback antwortet, wartet. Und dann sprechen wir von der Steuerung und nicht mehr von einer Regelung.
+
+(0:10:08 - 0:10:20)
+Grundsätzlich hat jetzt der Verbrauch eben keine Auswirkung mehr. Das ist die Quintessenz der ganzen Geschichte. Und um das noch mal zu betonen, das ist die Variante 2. Der Netzbetreiber hat das ja so vorgesehen.
+
+(0:10:20 - 0:10:30)
+Also das sind Kästchen, die der Netzbetreiber in diesem E9-Bogen antagt. Er sagt, Erfüllung am Wechselrichter reicht ihm. Es muss kein geschlossener Kreis sein.
+
+(0:10:32 - 0:10:37)
+So, und da gibt es meiner Meinung nach auch wieder einen Nachteil. Aber wir nehmen das erst mal so hin. Das ist eine Tatsache.
+
+(0:10:38 - 0:10:50)
+Das ist ganz schwierig, dann für die Konfibitätserklärung nachzuweisen. Dritter Punkt oder dritte Variante ist es eigentlich. Die dritte Variante.
+
+(0:10:51 - 0:10:57)
+Dazu schieben wir Parkregler und Netzanalysegerät in den PV-Schrank. Also ich zeige es noch mal kurz. Die waren in der Übergabestation.
+
+(0:10:58 - 0:11:07)
+Das ist ja 500 Meter entfernt. Das machen wir jetzt nicht, sondern wir schieben das runter in den PV-Schrank. Variante 3. Messung und Erfüllung am PV-Schrank.
+
+(0:11:08 - 0:11:17)
+Was hat das für Folgen? Wir machen das gleiche Spiel. Die Spannung diesmal im PV-Schrank sinkt. Der Parkregler kriegt das mit.
+
+(0:11:17 - 0:11:24)
+Grüner Pfeil hier. Reagiert wegen der QU-Kennlinie richtig. Das heißt, die Blindleistung muss erhöht werden.
+
+(0:11:24 - 0:11:43)
+Sagt das dem Wechselrichter. Der Wechselrichter macht das und das Netzanalysegerät kriegt das jetzt völlig unabhängig vom Verbraucher mit, weil der Messpunkt vom Netzanalysegerät ja jetzt nicht mehr übergeordnet ist, sondern ihr seht es im Bild. Der Messort ist ja jetzt im PV-Schrank auf der Niederspannungsseite.
+
+(0:11:43 - 0:11:53)
+Also grüner Pfeil nach oben. Die Blindleistung, gemessen vom Netzanalysegerät, steigt genauso, wie sie soll. Der geschlossene Regelkreis hat funktioniert.
+
+(0:11:54 - 0:12:01)
+Daumen nach oben. Regelungskreis ist genauso möglich. Verbrauch hat keine Auswirkungen.
+
+(0:12:01 - 0:12:16)
+Für uns ist das der... Über Sinnhaftigkeit lässt sich streiten. Für uns ist das der am einfachsten umsetzbare Fall. Also wenn ihr mit dem Netzbetreiber sprecht und abstimmen könntet, dass diese Variante von ihm gefordert wird, dann gibt es aus unserer Sicht erst mal keine Diskussion.
+
+(0:12:17 - 0:12:19)
+Das kann man genauso umsetzen.

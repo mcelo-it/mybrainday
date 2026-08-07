@@ -1,0 +1,699 @@
+(0:00:00 - 0:00:45)
+Wir gehen jetzt weiter in die Datenpunktliste. Das ist ein großes Kapitel und ich erinnere mich aus dem letztes Jahr, dass es vielleicht auch manchmal ein bisschen trocken sein kann, deswegen haben wir es extra so gelegt, dass wir das mit einer Pause unterbrechen. Aber grundsätzlich gilt erstmal, Datenpunktliste, so könnte die aussehen, so wie sie hinter mir ist, kann man erstmal nichts lesen, deswegen zoomen wir gleich rein, aber unsere beispielhafte Datenpunktliste hat jetzt vier Seiten, die kriegt ihr im Laufe des Projektes, ist erstmal auch wieder ein guter Schritt, das heißt, der Netzbetreiber kennt euer Projekt, der hat euch irgendwie da auf seinem Fahrplan und hat euch jetzt dieses Dokument geschickt, das ist sehr, sehr positiv, schaut es euch bitte dann erstmal in Ruhe und im Detail an.
+
+(0:00:45 - 0:01:46)
+Und genau das machen wir jetzt. Wir tun also so, als hätten wir diese Datenpunktliste für unser Projekt gekriegt und fangen jetzt mal oben an. Und da sehen wir, auf der ersten Seite macht er erstmal grundsätzliche Projektangaben, das seht ihr über mir, machen wir so ein Teilkapitel draus, also jetzt gucken wir uns erstmal an, was der Netzbetreiber da eigentlich für Projektangaben uns vorgibt und dann sieht man im ersten Teil, das lese ich jetzt nicht einzeln vor, das machen wir nicht, sondern er schreibt ja da, das ist also die Anschlussanlage, das sind also wir und er füllt diesen Teil aus, das heißt, dieses Beispiel, das ich hier habe, ist wirklich nur eine Vorlage, so ein Projektbeispiel würden da jetzt Registriernummern stehen, da steht eine Projektbezeichnung und eine eindeutige Zuordnung von seinem Gateway, das macht er vielleicht über Seriennummern oder irgendwelche anderen Nummern, die er vergibt, aber das ist extrem sinnvoll, weil man jetzt daraus ableiten kann, dass er auch das richtige Projekt beschreibt.
+
+(0:01:46 - 0:02:13)
+Also vergleicht das unbedingt mit euren Kenndaten, weil nicht, dass er vielleicht da was durcheinander gebracht hat. Also jetzt sagen wir mal, hat er nicht und dann zeigt das, dass ihr beide von dem gleichen Projekt, von dem gleichen Gateway, von der gleichen Datenpunktliste sprecht. Da steht dann auch die Adresse der Übergabestationen drauf, das hilft natürlich auch allein schon, dass man sich dann zu diesem Bittest-Termin auch wirklich trifft und nicht irgendwie an verschiedenen Stationen wartet.
+
+(0:02:15 - 0:02:40)
+Dann hat er hier aufgeschrieben, Betriebsverantwortlicher im Störfall, da habe ich jetzt mal hingeschrieben, da würde ich die Betriebsführung angeben, also das wäre für mich dann so gedacht, dass wenn bei der Fernwirktechnik mal irgendwas nicht funktioniert, dann kann der diese Nummer anrufen. Das heißt, da geht es jetzt aus meiner Sicht nicht unbedingt um den Fernwirktechniker, der nur zur Inbetriebnahme kommt. Solche Leute haben später mit den Projekten eigentlich in der Regel nichts zu tun.
+
+(0:02:41 - 0:03:03)
+Das wäre dann für mich falsch, sondern es sollte eine Betriebsführung geben, die sich im besten Fall 2, 3, 5 oder 20 Jahre um die Anlage kümmert. Die müssen da rein, passiert sicherlich regelmäßig, dass mal so eine Fernwirkanlage nicht mehr richtig funktioniert und dann ruft er da an. So, der Anlagenerrichter ist wieder eine andere Person, da steht extra auch Elektrofachbetrieb dabei.
+
+(0:03:03 - 0:03:20)
+Deswegen habe ich jetzt erstmal hier den Fernwirktechniker hingeschrieben. Ich finde, das kann auch der Stationsbauer sein, das kann der Schutztechniker sein. Wenn ihr da sehr tief drin hängt in der wirklichen Abwicklung dann auch vor Ort, in der Prüfung vor Ort, könnt ihr finde ich auch euren Kontakt da reinschreiben.
+
+(0:03:20 - 0:03:34)
+Auf jeden Fall ist das aus meiner Sicht erstmal derjenige, der sich mit der Station und der Fernwirktechnik auskennt. Der kommt da rein, weil er den Bittest dann auch koordinieren muss. Also dann sage ich es nochmal kurz an der Stelle.
+
+(0:03:34 - 0:04:13)
+So ein Bittest selbst braucht natürlich immer den Netzbetreiber, das ist erstmal klar, aber auf der anderen Seite braucht er eben auch eine Person, die sich sowohl mit der Fernwirktechnik auskennt, als auch mit den Meldungen und Befehlen, die daraus resultieren und die gehen ja meistens in die Übergabestation rein, also zum Beispiel zum Leistungsschalter. Ganz typische Aufgabe finde ich von uns E-Planern, diese Schnittstellen zu koordinieren. Als Beispiel, wenn jetzt die Schalterstellungsmeldung von diesem Mittelspannungsschalter getestet werden soll, hängt vielleicht der Fernwirktechniker seine Arme hoch und sagt, was habe ich mit der Schaltanlage zu tun, ich mache hier nur die Fernwirktechnik, keine Ahnung warum das nicht funktioniert.
+
+(0:04:14 - 0:04:51)
+Der Stationsbauer wiederum sagt, also meine Schaltanlage funktioniert, ich weiß auch nicht, warum deine Fernwirktechnik das nicht erkennt. Typische Schnittstellenproblematik und ich finde, der Netzbetreiber wird auch die Arme hochheben, hat auch nichts damit zu tun, aber ihr als Elektroplaner, ihr dürft nicht sagen, damit habe ich jetzt auch nichts mehr zu tun, sondern ich finde, das ist dann die Aufgabe vom, ich sage mal, richtig guten Elektroplaner, dass der diese Schnittstellen versteht, die zwei Parteien zusammenführt und dann vor Ort dafür sorgt, dass die gemeinsam den Fehler finden und dann eben dieser Bittest erfolgreich weitergehen kann. So, das waren erst mal Projektangaben, das war, finde ich, der einfache Teil.
+
+(0:04:51 - 0:05:32)
+Jetzt gehen wir in bei uns die zweite Seite und in der Überschrift hat sich das geändert, das geht jetzt um die kundeneigene Übergabestation, so nennen die hier das, deswegen haben wir das Wording so übernommen und da steht jetzt auch schon Protokoll, das ist, finde ich, schon mal ein sehr sinnvoller Hinweis, also diese Datenpunktliste fungiert gleichzeitig als Prüfprotokoll. Zeigen wir auch gleich, wie das geht, das steht halt in Ordnung und nicht in Ordnung zum Ankreuzen und am Ende eine Unterschrift, aber das ist sehr hilfreich. Man hat jetzt eine Datenpunktliste, die man abarbeiten soll, die man prüfen soll und deswegen dient dieses Dokument gleichzeitig als Prüfprotokoll.
+
+(0:05:34 - 0:06:30)
+Also, was ist dabei zu beachten, die ist jetzt erst mal projektspezifisch, finden wir auch einen ganz wichtigen Hinweis, also das ist jetzt nicht einfach die Vorlage, die man, wie ich hier zeige, vielleicht aus der Werksnorm, aus den technischen Anschlussbedingungen des Netzbetreibers sich vorher kopiert hat, das ist nicht so, sondern der Netzbetreiber hat die projektspezifisch angepasst. Nur mal ein Beispiel, vielleicht hat die Standardvorlage drei Schaltfelder, also Eingangsfeld, Ausgangsfeld, Übergabefeld, aber unser Projekt hat das nicht, weil es ein Stich ist und dann werden die die Datenpunktliste projektspezifisch anpassen und genau die brauchen wir, also nicht die allgemeine Vorlage, sondern die projektspezifische. Genau, und dieses Prüfprotokoll dient dann erst mal zum Test der Austausch Datenpunkte zwischen dem Gateway PVA und dem Gateway EVU.
+
+(0:06:31 - 0:06:54)
+Ich gehe so Schritt für Schritt da weiter, nicht alles ist immer ganz wichtig oder vieles ist vielleicht auch selbsterklärend, wie zum Beispiel jetzt dieser Punkt hier. Also wir wollen jetzt den Prozessdatenumfang prüfen von dieser kundeneigenen Übergabestation und das machen wir, indem wir die ganzen Datenpunkte einzeln durchprüfen. So ein Datenpunkt sehen wir auch gleich noch mal.
+
+(0:06:54 - 0:07:03)
+Das kann zum Beispiel eine Meldung sein. Also wir melden an den Netzbetreiber eine Leistungsschalter Position. Das kann ein Befehl sein.
+
+(0:07:03 - 0:07:21)
+Also der Netzbetreiber sagt zu uns, öffne den Leistungsschalter und es kann Messwert sein. Das heißt, wir übertragen zum Beispiel eine Temperaturen Einstellungswert oder natürlich elektrische Kenndaten, Strom, Spannung, Leistung. Darum geht es erst mal in dieser Prozessdatenumfang Prüfung.
+
+(0:07:23 - 0:07:43)
+So jetzt stellt er hier noch so richtig technische Parameter mit rein, die zeigen wir nur kurz, weil da finden wir, das muss der Fernwirktechniker machen, das muss nicht der Durchschnittselektroplaner, sage ich mal, verstehen. Also das sind hier Adressen. Da geht es um Protokolle und die definiert der Netzbetreiber hier, weil er eben sonst die Kommunikation nicht aufbauen kann.
+
+(0:07:44 - 0:07:55)
+Das weiß der schon. Das sind bei den Standardangaben. Wir übernehmen die hier aber bitte nur und leiten sie weiter an den Fernwirktechniker, der das dann aber in seiner in seinem Gateway richtig einstellen muss.
+
+(0:07:55 - 0:08:05)
+Das sind zum einen die Linkadressen. Die findet man auch in der THB, aber hier steht sie auch noch mal. Und dann gibt es sogenannte ASDU Adressangaben.
+
+(0:08:05 - 0:08:14)
+Was das genau ist, sagen wir jetzt hier nicht. Wichtig ist aber, dass man sie kennt und denjenigen mitteilt, der die SPS programmiert. Die sind projektspezifisch.
+
+(0:08:14 - 0:08:20)
+Das kann immer ein bisschen anders sein. Wir nehmen das jetzt mal hier so mit. Jetzt mal ein bisschen konkreter.
+
+(0:08:21 - 0:08:47)
+Jetzt kommt als erstes, ihr seht es auch über mir, ich mache diese Subkapitel immer eins nach dem anderen aufgelistet und in grün gehighlighted, dass wir uns jetzt erst mal ganz am Rand in der Datenpunktliste angucken, was es eigentlich für Prüfarten gibt. Also in der ersten Spalte erklärt uns der Netzbetreiber jetzt, dass dieser erste Datenpunkt eine Prüfart F ist. Okay, ist erstmal gut.
+
+(0:08:48 - 0:08:57)
+Und dann müssen wir wissen, was F bedeutet. Ich sage es euch, das bedeutet Funktionsprüfung. Wir nennen das auch Quelle Senketest, habe ich vorhin schon mal gezeigt.
+
+(0:08:57 - 0:09:18)
+Und wenn man jetzt gleich sagt, was eine Quelle und Senke ist, dann, finde ich, wird es deutlich, was mit F gemeint ist, mit der Funktionsprüfung. Also damit ist gemeint, dass ich glaube, ich habe es dann aufgeschrieben, habe ich nicht. Damit ist gemeint, dass das Signal wirklich von der Quelle, also der Leitstelle bis zur Senke, also dem Gerät getestet werden muss.
+
+(0:09:18 - 0:09:41)
+Immer wieder beim Befehl, den Leistungsschalter zu öffnen als Beispiel. Also dieser Datenpunkt, wenn der als F definiert ist, muss er vom Gateway des Netzbetreibers wirklich bis zur Schaltanlage selbst getestet werden, weil das, weil die Schaltanlage selbst dann die Senke, also das Gerät ist. Vielleicht wird es klarer, wenn man so ein Gegenbeispiel mal zeigt.
+
+(0:09:42 - 0:09:54)
+Das nennen die mit B. Ich zeige es auch hier. Das ist jetzt aus einer ganz anderen Position von dem gleichen, von der gleichen Datenpunktliste als Beispiel dargenommen. Also die Außentemperatur will der Netzbetreiber auch übermittelt bekommen.
+
+(0:09:55 - 0:10:33)
+Aber da sagt er, da brauchen wir jetzt keine Funktionsprüfung machen. Das sagt er halt so, weil er vielleicht aus seiner Erfahrung her weiß, dass so ein Temperatursensor zu dem Zeitpunkt noch gar nicht installiert ist, zum Beispiel oder dass der vielleicht im Park installiert ist. Und weil wir ja nicht in Betrieb sind, gibt es die Kommunikationsverbindung in den Park noch gar nicht. 
+
+Also solche Erfahrungen, denke ich, hat er gemacht. Und bevor da groß rum diskutiert wird, sagt er Okay, das heißt, wir machen hier nicht von der Quelle bis zur Senke die Prüfung, sondern wir machen eben nur eine Prüfung der Schnittstelle selbst. Also zwischen den zwei Gateways, da zeigen wir später auch, da kann man dann einfach im Gateway eine Außentemperatur simulieren.
+
+(0:10:33 - 0:10:38)
+35 Grad und der Netzbetreiber sieht dann alles klar. Ich kriege den Wert. Das reicht mir.
+
+(0:10:39 - 0:10:52)
+Ich muss also nicht bis zum Sensor wirklich real prüfen, sondern nur bis zu eurer Gateway Schnittstelle. Das wäre der Unterschied dieser zwei Prüfarten. Einmal Funktionsprüfung und einmal Bittest.
+
+(0:10:53 - 0:11:16)
+Ich glaube, auch noch mal so aus der Erfahrung heraus. Ich gehe das dann durch und wenn ich dann sehe, dass ich irgendeine Funktionsprüfung aber noch nicht realisieren kann, eben bis zur Senke, weil warum auch immer das jeweilige Gerät halt noch nicht installiert ist, dann markiere ich das, sagt das dem Netzbetreiber und meiner Erfahrung nach wird das dann auch immer toleriert. Aber man sollte einmal drüber gesprochen haben.
+
+(0:11:17 - 0:11:27)
+So, wenn wir jetzt eine Spalte weitergehen, das machen wir erst mal. Wir schauen uns erst mal oben die einzelnen Spalten Bezeichnungen an. Dann kommt jetzt als nächstes der Datenpunkt.
+
+(0:11:27 - 0:11:35)
+Darum geht's ja. Und da wird beschrieben. Wo kommt der Datenpunkt eigentlich her? Jetzt hier in dem Beispiel steht Stationen allgemein.
+
+(0:11:36 - 0:11:49)
+Später weiter unten kommen dann noch Übergabefeld oder Eingangsfeld 1, Eingangsfeld 2. Also jetzt geht es erst mal um allgemeine Stationsinformationen. In dem Beispiel werden wir es gleich sehen. Aber ich nehme es schon mal vorweg.
+
+(0:11:50 - 0:12:00)
+Hier steht Ort. Damit ist gemeint so ein Ort Fernumschalter, den wir auch gleich nochmal zeigen. Und dieser Ort Fernumschalter, der bezieht sich dann auf alle Schaltfelder in der Schaltanlage.
+
+(0:12:00 - 0:12:19)
+Und weil er sich auf alle Schaltfelder bezieht, schieben die das Ganze in den Abschnitt allgemein. Also da wissen wir jetzt erst mal, jetzt geht es allgemein um die Übergabestationen und dann wissen wir noch, ja, was ist das eigentlich für ein Datenpunkt? Naja gut, jetzt haben sie es mit Ort beschrieben. Man sieht schon eins drunter SF6 Gasverlust.
+
+(0:12:19 - 0:12:33)
+Das ist vielleicht ein bisschen eine deutlichere Beschreibung. Grundsätzlich geht es darum, hier wird der Datenpunkt beschrieben, der zu testen ist. Eine Spalte weiter kommen Einheit und Zustand.
+
+(0:12:34 - 0:13:04)
+Gucken wir uns mal an. Also grundsätzlich wird hier jetzt definiert, wie dieser Wert dargestellt oder übertragen werden soll. Ich glaube, man versteht es besser, wenn wir jetzt zeigen, was es für Varianten gibt. 
+
+Also einmal gibt es den Zustand aus und es gibt den Zustand ein und der wird binär mit 0 oder 1 definiert. Das ist, finde ich, somit die einfachste Darstellung, die man sich vorstellen kann. Er unterscheidet dann aber mit kommt und geht.
+
+(0:13:04 - 0:13:51)
+Das machen Netzbetreiber ebenso, weil die bei anderen Datenpunkten dann hier sozusagen die Begrifflichkeiten ändern wollen. Das ist wichtig zu wissen, was meinetwegen kommt ist, also in unserem Fall die 1 und was geht ist, damit man das genauso dann in seinem Gateway definiert. Wenn man es verdreht, kriegt naturgemäß der Netzbetreiber die Meldung genau falsch rum. 
+
+Das würde man beim Test feststellen. Und genau darum geht es ja dann auch. So, dann gibt es noch eine dritte Definition, eine dritte Art von einem Wert, ihn zu übertragen. 
+
+Und das wären Einheiten. Also ganz einfach, ehrlich gesagt, elektrische Kenngrößen wie Strom in Ampere Leistung in Megawatt oder Megawatt Ampere. Hier sieht man noch die Spannung in Kilowolt.
+
+(0:13:52 - 0:14:09)
+Das ist ein relativ einfacher, dann zu übertragener Wert. Wichtig ist, dass man eben diese Kenngrößen, diese Einheiten definiert, weil sonst übersende ich zum Beispiel Volt und der Netzbetreiber erwartet Kilowolt. Und naturgemäß wäre das dann eben nicht richtig.
+
+(0:14:10 - 0:14:28)
+Die nächste Spalte ist die Typkennung, abkürzt mit TK. Und da gibt es auch verschiedene Gruppierungen, die zeigen wir jetzt mal. Also erst mal, wenn das sich um eine Meldung handelt, dann kann man von einer Einzelmeldung sprechen oder von einer Doppelmeldung.
+
+(0:14:29 - 0:14:41)
+Was das ist, zeige ich, glaube ich, später auch nochmal in einem besseren Beispiel. Deswegen hier nur ganz kurz dargestellt. Also eine Einzelmeldung bedeutet, ich schicke, mache mal wieder das Beispiel der Leistungsschalter Position.
+
+(0:14:42 - 0:14:54)
+Ich würde dann, wenn das sich wie hier beschrieben um eine Einzelmeldung handelt, würde ich einfach nur die Meldung schicken. Der Leistungsschalter ist geöffnet. Bei einer Doppelmeldung frage ich immer noch die Gegenfrage ab.
+
+(0:14:55 - 0:15:02)
+Also ich würde sagen, der Leistungsschalter ist geöffnet. Ja. Und gleichzeitig würde ich beantworten.
+
+(0:15:02 - 0:15:13)
+Ist der Leistungsschalter geschlossen? Nein, ich mache also sozusagen einfach nur die logische Gegenprüfung. Das ist eine Redundanz, wenn man so will. Die Doppelmeldung ist dann einfach sicherer.
+
+(0:15:14 - 0:15:24)
+Hier in unserem Beispiel ist es erst mal die 30, also die Einzelmeldung. Dann gibt es Messwerte, wie ich schon gezeigt habe. Es wäre eine 36, also Ampere oder Kilowolt oder so weiter.
+
+(0:15:25 - 0:15:38)
+An der 36 wäre das dann zu erkennen. Und dann gibt es noch Befehle und Sollwerte. Also zum Beispiel kann er eben den Leistungsschalter öffnen, er kann ihn schließen, er kann die Wirkleistung steuern, er kann die Blindleistung steuern.
+
+(0:15:39 - 0:15:47)
+Das wäre so die dritte Kategorie. Und die unterteilt er dann in die 45 und die 46. Ist wieder das gleiche Prinzip wie bei den Meldungen.
+
+(0:15:47 - 0:16:04)
+Aber diesmal sind es ja eben keine Meldungen, sondern diesmal sind es ja Befehle oder Sollwerte. Also das muss man nicht auswendig wissen, sondern ich finde, man muss mitnehmen, dass es die Kategorien gibt, Meldung, Messwert und Befehle, Sollwert. Und dass man das in der Datenpunktliste hier wunderbar ablesen kann.
+
+(0:16:04 - 0:16:18)
+Nicht auswendig wissen, sondern einfach nur verstehen, was das dann bedeutet. Der Fernwirktechniker, der muss es dann wirklich wissen und dann in seiner SPS parametrieren. So, wir gehen weiter zum IUA3.
+
+(0:16:20 - 0:16:38)
+Das ist eine Informationsobjektadresse. Erstmal starten wir mit der 3, gleich kommt noch die 2 und die 1. Die IUA3, also die Informationsobjektadresse 3, definiert die Energieart am Netzanschlusspunkt. Hier steht die Null, alle Energiearten.
+
+(0:16:39 - 0:16:56)
+Ich gehe erst mal weiter, was es noch gibt, weil es dann, glaube ich, klarer wird. Es gibt auch die 1 für Photovoltaik. Da ist er als Beispiel, also die Vorgabe Wirkleistung Energieart 1. Da steht jetzt IUA3 steht die 1 drin, weil das bezieht sich dann wirklich auf eine PV-Steuerung.
+
+(0:16:56 - 0:17:23)
+Also wenn die jetzt hier in unserem Projekt die Wirkleistung reduzieren wollen, dann machen die das mit einer PV-Meldung sozusagen und nicht mit Wind gibt es noch, das wäre die 2 oder 3 BHKW. Sicherlich sinnvoll, wenn der Netzbetreiber sagt, er will jetzt alle Windanlagen ansteuern, aber nicht alle Solaranlagen in seinem Netzbetrieb, dann kann er das machen über diese IUA3. Und nochmal, um auf die Null zurückzukommen.
+
+(0:17:23 - 0:17:41)
+Wir sind ja jetzt in unserem Beispiel oben noch bei diesen allgemeinen Angaben, da geht es jetzt um den Ort Fernschalter oder SF6-Scan-Lars. Das ist völlig unabhängig von PV oder wenn zum Beispiel auch ein Verbraucher dranhängt, muss ja keine Erzeugung sein, dann nimmt man die Null. Weiter geht's.
+
+(0:17:43 - 0:17:54)
+Die IUA2 bezieht sich auf das Schaltfeld. Sehen wir auch gleich noch mal schöner dargestellt in unserem 3D-Modell. Aber jetzt kann so eine Anlage mehrere Schalt-, Mittelspannungsschaltfelder haben.
+
+(0:17:54 - 0:18:04)
+Ihr erinnert euch an die Tour. Wir hatten zwei, können bis zu drei sein in dem Beispiel hier. Und dann wäre das Übergabefeld wäre die Nummer eins.
+
+(0:18:04 - 0:18:25)
+So ein Eingangsfeld eins wird mit einer elf hier dann beschrieben und das Eingangsfeld zwei wird mit einer zwölf beschrieben. So kriegt man sozusagen in dieser Kette noch die Zuordnung zu den jeweiligen Feldern hin, weil die Felder wiederum vielleicht die gleichen Datenpunkte liefern müssen. So, Informationsadresse Nummer eins.
+
+(0:18:25 - 0:18:34)
+Das ist eine richtig, richtig, richtig spezifische Zuordnung des Datenpunkts. Ich habe es ja gerade schon gezeigt. Da gibt es Meldungen, Messwerte oder Befehle.
+
+(0:18:35 - 0:18:49)
+Aber ich zeige es gleich noch mal hier in der Gesamtliste. Da wird also jeder Datenpunkt, den es überhaupt so gibt, mit einer Kennziffer beschrieben, kann man in der THB nachlesen. Und dann ist das eine eine eindeutige Zuordnung zu einem Datenpunkt.
+
+(0:18:49 - 0:19:08)
+Und wenn man jetzt diese fünf wichtigen Kenndaten noch mal nebeneinander hängt, dann reicht das ja auch vielleicht als Ausdruck oder als Hinweis fürs Gedächtnis. Also es gibt verschiedene Einheiten, die wir erklärt haben. Es gibt verschiedene Typkennungen, die wir erklärt haben.
+
+(0:19:08 - 0:19:26)
+Und dann gibt es eben diese drei IOAs. Diese beziehen hier einmal auf die Energieart, dann einmal auf das Feld an sich, das geschaltet wird. Und dann, hier steht es noch mal, gibt es bis zu 255 Möglichkeiten, diese einzelnen Datenpunkte durchzunummerieren.
+
+(0:19:28 - 0:19:33)
+Wir gehen in unserer Liste weiter nach rechts. Da kommt eine Spalte Hinweise. Das ist relativ einfach.
+
+(0:19:34 - 0:19:38)
+Und wir haben hier ein Beispiel mal gezeigt. Das muss man sich projektspezifisch durchlesen. Anders geht das nicht.
+
+(0:19:38 - 0:19:51)
+Hier wäre das jetzt nur als ein Beispiel. Der Netzbetreiber sagt also, die Datenpunkte, die er da rot markiert, die braucht er wirklich nur, wenn er als Netzbetreiber auch die Betriebsführung übernimmt. Wenn nicht, dann braucht er die Datenpunkte nicht.
+
+(0:19:53 - 0:19:58)
+So und jetzt hier noch mal. Das ist auch nur einmal, dass wir es zeigen. Danach gehen wir hier nicht mehr darauf ein, weil das ist ja immer gleich.
+
+(0:19:59 - 0:20:10)
+Jetzt kommt die Spalte Vorprüfung erfolgreich. Datenpunkt oder Datenpunkt nicht vorhanden. Und wir haben hier in unserem Beispiel schon ganz positiv ein Ja angekreuzt.
+
+(0:20:10 - 0:20:15)
+Also das ist jetzt für die Vorprüfung. Ihr erinnert euch, Netzbetreiber ist noch gar nicht da. Da seid ihr vielleicht da.
+
+(0:20:15 - 0:20:34)
+Und der Fernwerktechniker, der Stationsbauer und ihr geht diese ganze Liste durch und prüft das mal vorab, um sicherzustellen, dass wenn dann eine Woche später der Netzbetreiber kommt, es auch wirklich funktioniert. Hier hakt ihr ab für euren Vorbildtest. Da ist er, der Kunde und der Fernwerktechniker.
+
+(0:20:34 - 0:20:42)
+Und in der Spalte ist eine ganz dicke schwarze Linie dazwischen. Ich glaube, das ist schon sehr symbolisch gemeint. Also hier, das macht der Netzbetreiber, steht auch extra da.
+
+(0:20:43 - 0:20:58)
+Er übernimmt dann euer Vorprüfprotokoll. Der nimmt wirklich das gleiche Dokument, macht ja auch Sinn und überprüft jetzt noch mal mit euch, ob es erstens wirklich funktioniert und ob jetzt zusätzlich noch diese Brücke zu eurem Gateway funktioniert. Also das ist jetzt seine Checkliste.
+
+(0:20:58 - 0:21:11)
+Der Netzbetreiber macht hier ein Ja. Und der Fernwerktechniker, der muss dabei sein. So, wir ziehen uns jetzt drei von diesen acht, neun Punkten, die ich da genannt habe, raus.
+
+(0:21:11 - 0:21:27)
+Den Rest schauen wir uns nicht mehr an. Also Hinweise oder auch die einzelnen Checkpunkte, sondern diese drei, die nehme ich jetzt mit und gehe jetzt noch diese Seite der Datenpunktliste einmal durch. Also erst mal die allgemeinen Stationsdaten.
+
+(0:21:28 - 0:21:45)
+Wir gucken uns den ersten Punkt an und sehen uns da diesen Ort an. Das mit ist gemeint, dass man die Station in Ort und Fern definieren kann. Ort heißt einfach nur, dass er aus der Ferne nicht mehr schalten kann.
+
+(0:21:45 - 0:21:53)
+Das macht Sinn bei Wartungsarbeiten. So wird das gemacht. Also wenn man da an der Station arbeitet, würde man erst mal diesen Ort Fernschalter auf Ort schalten.
+
+(0:21:54 - 0:22:05)
+Dann kann der Netzbetreiber aus seiner Leitwarte nicht mehr nicht mehr schalten. Er kann da irgendwie nicht mehr dazwischen funken, sozusagen. Und über diesen Datenpunkt würde er das mitkriegen.
+
+(0:22:06 - 0:22:19)
+Jetzt haben wir das ja gesagt, dass ich dann eine Einheit und eine Typkennung immer dafür brauche. Und das mache ich jetzt hier noch mal ein bisschen ausführlicher. Später wiederholt sich das.
+
+(0:22:20 - 0:22:31)
+Dann mache ich das nicht mehr. Aber hier noch einmal erklärt. Also er würde das jetzt erwarten, ob Ort eingeschaltet ist oder Fern als ein Aus- und Einsignal, also eine Null oder eine Eins.
+
+(0:22:32 - 0:22:41)
+Und die Typkennung dafür ist eine Einzelmeldung. Das heißt, er will einfach nur eine einzelne Meldung kriegen. Ja, der ist auf Ort ausgeschaltet.
+
+(0:22:41 - 0:22:48)
+Oder das wäre die andere Meldung. Er ist auf Ort eingeschaltet. Die zwei Varianten gibt es.
+
+(0:22:48 - 0:22:56)
+Er braucht nicht die Gegenprüfung. Die Gegenprüfung zeigen wir später noch mal. So, wie sieht so ein Schalter aus? Dann kann man sich das besser vorstellen.
+
+(0:22:57 - 0:23:02)
+Hier ist unsere 3D-Modell von der Schaltanlage. Wir gehen da rein. Da oben sieht man es schon ein bisschen.
+
+(0:23:02 - 0:23:10)
+Und hier, so sieht das aus. Da ist ein Ort-Fernschalter. Und wir machen jetzt genau das, was wir in der Prüfung machen und später auch in unserem Live-Versuchsstand.
+
+(0:23:10 - 0:23:14)
+Wir schalten jetzt mal die Schaltanlage von Ort auf Fern. So geht das. Klack.
+
+(0:23:14 - 0:23:29)
+Jetzt gibt es den Hintergrund. Gibt es jetzt einen potenzialfreien Kontakt, der sich ändert? Und dann würde der Netzbetreiber das sehen und in seinem Netzbetreiber-Abfragebogen hier in seinem BIT-Test-Protokoll ein OK klicken. Weiter geht's.
+
+(0:23:29 - 0:23:39)
+Wir haben noch ein paar vor uns. Wie wir als nächstes den SF6-Gasverlust. Also wenn aus der Schaltanlage das Gas entweicht, will der Netzbetreiber eine Meldung haben.
+
+(0:23:40 - 0:23:50)
+Der Leistungsschalter ist dann nämlich nicht schaltbereit. Das heißt, das ist für ihn sehr wichtig. Er würde nicht aus der Ferne den Leistungsschalter öffnen, wenn der gar nicht schaltbereit ist, weil er das SF6-Gas verloren hat.
+
+(0:23:51 - 0:24:02)
+Unabhängig davon ist das sehr klimaschädlich. Also man will das mitkriegen, dass man das SF6-Gas verliert. Wie geht das? Gleiches Spiel? Nein, nicht ganz gleiches Spiel.
+
+(0:24:02 - 0:24:10)
+In dem Fall definiert er eben nicht aus und ein, sondern er definiert das nun mal als kommt und geht. Das ist seine Entscheidung. Das nehme ich einfach so hin.
+
+(0:24:10 - 0:24:18)
+Und er differenziert sozusagen das Wording gegenüber so einem Ort-Fernschalter. Aber er macht es wieder als Einzelmeldung. Und wir gucken es uns noch mal kurz an.
+
+(0:24:18 - 0:24:29)
+Wie würde das gehen? Haben wir so ein schönes 3D-Modell gebastelt. Also wir haben jetzt hier zwei Varianten, die wir so kennen. Wir haben einmal das Schutzrelais und unser Gateway und natürlich die Schaltanlage.
+
+(0:24:29 - 0:24:43)
+Ich hoffe, die ist zu erkennen. Und in der Schaltanlage gibt es jetzt diesen potenzialfeinen Kontakt von der Meldung, dass da ein SF6-Gasverlust stattfindet oder nicht. Und diesen potenzialfreien Kontakt, den verbindet man zum Beispiel mit dem Schutzrelais.
+
+(0:24:44 - 0:24:53)
+Das Schutzrelais weiß das dann. Der Schutztechniker hat das zugeordnet. Und über bei uns ist das dann hier die Schnittstelle, die wir uns da ausgesucht haben.
+
+(0:24:53 - 0:25:04)
+In unserem Beispiel würde das Schutzrelais die Info dann weiter an das Gateway geben. Zeigen wir hier noch mal so ein bisschen farblich dargestellt. Also hier das SF6-Gas geht da raus.
+
+(0:25:05 - 0:25:10)
+Das ist nicht gut. Es ist nicht gut. Oben diese Gasanzeige wird jetzt von grün auf rot gehen.
+
+(0:25:10 - 0:25:21)
+Ich hoffe, ihr habt es gesehen. Über dem Schaltschalter ist das jetzt auf rot gegangen. Und jetzt kommt eben dann so eine Binärmeldung ins Schutzrelais und weiter zu unserem Gateway PVA.
+
+(0:25:21 - 0:25:29)
+Das wiederum kann es dann weiterleiten an den Netzbetreiber. Eine andere Variante, nur um sie mal gezeigt zu haben, ist, dass man das direkt verdrahtet. Das geht auch.
+
+(0:25:30 - 0:25:39)
+Unser Gateway hat jetzt vielleicht so einen Binäreingang. Da muss man nicht über das Schutzrelais gehen. Aber viele Stationsbauer machen das über das Schutzrelais, weil dann hat man da gesammelt schon ganz, ganz viele Informationen.
+
+(0:25:39 - 0:25:52)
+Zum Beispiel die, die ich gerade gezeigt habe. So, jetzt kommt als nächstes Anlagestörung und Warnung. Aber habe ich schon gesagt, der Hinweis, das ist nur bei der Betriebsführung, ist eben so gedacht.
+
+(0:25:52 - 0:26:03)
+Jetzt sagen wir mal, wir haben die Betriebsführung mit der EDES vereinbart. Dann müssen wir uns darum kümmern, was er hier sagt, nämlich dass man da eine Meldung kreiert mit zuvörtiger Störungsbehebung. Er kriegt das dann halt mit und dann muss er sofort hin.
+
+(0:26:03 - 0:26:25)
+Oder das ist eine andere Definitionsart, dass er das zum Beispiel so macht, dass das erst am nächsten Werktag erforderlich ist. Also er definiert da einfach zwei verschiedene Dringlichkeits-Ebenen. Wir nehmen das jetzt mal raus, weil das für uns nicht wichtig ist, weil wir die Betriebsführung meinetwegen gar nicht bei dem Netzbetreiber beauftragt haben, sondern viel interessanter ist.
+
+(0:26:25 - 0:26:30)
+Wir gehen jetzt mal in die nächste Ebene. Jetzt kommt das nächste Feld. Das ist eine andere Schalter.
+
+(0:26:30 - 0:26:37)
+Das ist jetzt mal eine Schalterlage. Bis jetzt waren wir ja nur bei der allgemeinen Station. Jetzt gucken wir uns mal das Übergabefeld an.
+
+(0:26:37 - 0:26:43)
+Ich glaube, das zeige ich ja auch noch mal. Genau. Also unsere Schalteranlage, die sah ja auch ungefähr so aus in unserem 3D-Modell.
+
+(0:26:43 - 0:27:03)
+Und jetzt muss man halt wissen, was ist denn das Übergabefeld? Und bei uns ist es jetzt das hier in der 360-Grad-Tour, was genau das andere? Das muss man halt wissen. Sonst teilt man jetzt dem Netzbetreiber eben die falsche Schalteranlage zu. Also wir sind im Übergabefeld beim Übergabeschalter.
+
+(0:27:03 - 0:27:17)
+Das ist jetzt ein Leistungsschalter. Und da kommt jetzt ein Befehl vom Netzbetreiber, der eben diesen Schalter schalten möchte. Das Ganze wird ist verriegelbar über diesen Ort-Fernschalter, den ich Ort vorhin genannt habe.
+
+(0:27:17 - 0:27:23)
+Das kann man auch testen. Aber jetzt sagen wir mal, wir stellen den auf Fern. Dann kann der über diesen Befehl den Leistungsschalter öffnen und schließen.
+
+(0:27:24 - 0:27:34)
+Und dann braucht man auch Motorantrieb, weil sonst kann er das nämlich nur einmal machen. Also auch darauf könnte man achten, dass man den vorgesehen hat. Einheit und Zustand geht über Aus und Ein.
+
+(0:27:34 - 0:27:41)
+Und jetzt vielleicht endlich mal ein kleiner Unterschied. Das ist jetzt eine 46 hier. Ich hatte ja vorhin schon mal kurz gezeigt, was es so gibt.
+
+(0:27:41 - 0:27:54)
+Das muss man nicht auswendig wenden. Aber jetzt sieht man, das ist jetzt eine 30 nicht, sondern jetzt ist es eine 46. Und jetzt guckt man in die Übersicht und stellt fest, das ist jetzt nicht eine Meldung, sondern ein Befehl, weil er will ja jetzt was uns vorgeben.
+
+(0:27:54 - 0:28:05)
+Und er hat das auch als Doppelbefehl ausgeführt. Nächster Punkt. Gerade hat er gesagt, wir sollen den Leistungsschalter öffnen.
+
+(0:28:05 - 0:28:19)
+Und in diesem zweiten Datenpunkt will er die Rückmeldung haben, ob das denn im Grunde dann passiert ist, nämlich über die Stellungsmeldung des Leistungsschalters. Das macht er hier offensichtlich mit Aus und Ein. Und jetzt wird es aber leider ein bisschen komplizierter.
+
+(0:28:20 - 0:28:29)
+Er macht das mit der 31. Und das bedeutet, dass das eine Doppelmeldung ist. Und ich hatte es vorhin schon mal kurz angesprochen.
+
+(0:28:29 - 0:28:44)
+Wenn es eine nochmal einfach Meldung ist, dann gibt es eben die 0 oder die 1. Das ist relativ einfach. Bei der Doppelmeldung ist das nicht so, weil man immer diese Gegenprüfung machen will. Ich erkläre es einmal kurz an dem Beispiel von dem Leistungsschalter.
+
+(0:28:45 - 0:28:51)
+Ich glaube, das kommt jetzt hier auch genau. Also so sieht das aus. Das sind so die Stellungsmeldungen von so einem Leistungsschalter.
+
+(0:28:51 - 0:29:05)
+Und jetzt gucken wir uns hier mal die normally open und normally closed Kontakte an. Also der Leistungsschalter zeigt mir immer beides. Er sagt mir einmal, wenn er geöffnet ist, er gibt mir eine 0 und gleichzeitig in einem anderen Kontakt.
+
+(0:29:05 - 0:29:16)
+Das ist natürlich ganz wichtig. Gibt er mir eine 1? Da sieht man hier, das linke ist eine 0. Das rechte ist als eine 1 dargestellt. Und das wäre jetzt in Summe.
+
+(0:29:16 - 0:29:24)
+Er betrachtet beide Punkte eine 1, nämlich er ist aus. So, jetzt hat man es gesehen, ganz leicht. Die Schalter fangen an, sich zu bewegen.
+
+(0:29:25 - 0:29:35)
+Er ist jetzt in so einer Zwischenstellung. Also er geht gerade von aus in ein, ist in der Zwischenstellung. Jetzt kriegt meine Parksteuerung überhaupt keine Meldung.
+
+(0:29:35 - 0:29:43)
+Es ist weder eine 0 noch eine 1. Sie definiert das als Zwischenstellung. Das macht vor allem sicherlich Sinn. Wahrscheinlich eher alten Anlagen, die noch langsamer waren.
+
+(0:29:43 - 0:29:52)
+Da hat das ja vielleicht ein paar Sekunden gedauert von der aus in die Einposition. Und dann gibt es diese Zwischenposition. So, wir schalten weiter.
+
+(0:29:52 - 0:30:04)
+Das ging jetzt relativ schnell, weil unser Schalter topmodern ist. Und jetzt haben sich die beiden Hilfskontakte geändert. Der eine ist von der 0 auf die 1. Der andere ist von der 1 auf die 0. Eine Doppelmeldung wird bewertet.
+
+(0:30:04 - 0:30:27)
+Und weil beide wieder das Richtige im Kontext übermitteln, ist meine Entscheidung. Dann ist der Schalter jetzt offensichtlich ein und er wird zur Meldung 2. Der Form halber, die 3 gibt es, wenn der in die Zwischenstellung geht und nach einer gewissen Zeit nicht weiter in die Aus- oder in die Einposition rutscht. Dann hat er es offensichtlich nicht ganz geschafft.
+
+(0:30:27 - 0:30:38)
+Dann geht der Schalter in Störung. So sieht das aus. Mein Gateway-Netzbetreiber schickt, Achtung, jetzt geht es gleich los.
+
+(0:30:38 - 0:30:42)
+Der schickt einen Befehl Leistungsschalter. Da liegt er los. Los geht er.
+
+(0:30:43 - 0:30:54)
+Also ich soll den Leistungsschalter einschalten über das Gateway, über das Schutzrelais zu meinem Leistungsschalter. Jetzt seht ihr das an dem Kontakt. Da ist das ein bisschen die Lupe reingehupft.
+
+(0:30:54 - 0:31:06)
+Der geht jetzt aus. Ich habe ihn ausgeschaltet und zack geht die Rückmeldung, dass der auch wirklich jetzt in der Aus-Position ist als Doppelbefehl zurück zum Netzbetreiber. Das wäre die Kette.
+
+(0:31:07 - 0:31:21)
+Quelle Senki erinnert euch, er will das von seinem Gateway bis zum Leistungsschalter prüfen. So, nächster Punkt ist auch wieder ein bisschen was anderes. Die Spannung bei der Spannung ist es so.
+
+(0:31:21 - 0:31:28)
+Alles klar. Der will hier einen Effektivwert zwischen L1 und L3 messen. Das kann man über das Schutzrelais machen oder über das Netzanalysegerät.
+
+(0:31:28 - 0:31:34)
+Das geht beides. Das ist für ihn nicht ganz so relevant wie für den Parkregler. Die Genauigkeitsklassen sind nicht ganz so wichtig.
+
+(0:31:35 - 0:31:45)
+Also beides kann man machen. Der Unterschied, den wir hier darstellen wollen, ist die Einheit ist jetzt offensichtlich anders, also in dem Fall in Kilowolt. Und das ist jetzt ein Messwert.
+
+(0:31:45 - 0:31:58)
+Deswegen hat er jetzt den TK36. Auch hier nochmal symbolisch, sag ich mal, dargestellt, wie das funktioniert. Also Netzanalysegerät schickt den Wert an das Gateway.
+
+(0:31:59 - 0:32:11)
+Das Gateway schickt es weiter ans EVU. Oder das Schutzrelais geht auch, schickt den Messwert ans Gateway und weiter ans EVU. Und jetzt haben wir noch hingeschrieben und ein bisschen vertippt.
+
+(0:32:11 - 0:32:22)
+Bei dem BIT-Test ist das jetzt nicht unbedingt erforderlich, wenn wir argumentieren können, dass das Netzanalysegerät noch gar nicht in Betrieb ist. Hatte ich ganz am Anfang mal ausgeblendet. Also jetzt wäre es ja noch gar nicht da.
+
+(0:32:23 - 0:32:32)
+Das muss man ihm halt dann sagen. So, beim Strom ist es ähnlich. Deswegen gehe ich da sehr zügig durch.
+
+(0:32:33 - 0:32:46)
+Den wollen die in Ampere haben, ist auch wieder ein TK36 ein Messwert. Die Wirkleistung, das ist die aktuelle Wirkleistung, kriegt man auch aus dem Netzanalysegerät raus. Wollen die in Megawatt? Und das ist dann wieder die 36.
+
+(0:32:46 - 0:32:57)
+Die Blindleistung, das ist die aktuelle Blindleistung. Das wollen die in Megawatt. Und das ist dementsprechend auch eine TK36.
+
+(0:33:00 - 0:33:10)
+Dann kommt als nächstes die Auslösung durch das Schutzrelais. Also die wollen halt mitkriegen, wenn mein Schutzrelais ausgelöst hat. Das kriegen wir auch über eine Meldung aus dem Schutzrelais raus.
+
+(0:33:10 - 0:33:20)
+Dann haben die das definiert mit kommt und geht. Und deswegen ist das wieder eine Einzelmeldung, die 30. Den Kurzschluss wollen die mitkriegen.
+
+(0:33:20 - 0:33:28)
+Das hatten wir vorhin schon mal gezeigt. Das kann man über so Kurzschlussanzeiger machen oder das Schutzrelais. Das muss der Stationsbauer finden.
+
+(0:33:28 - 0:33:35)
+Wir müssen sich erst mal überlegen. Aber ihr könnt ja diese Datenpunktliste mit ihm vorab mal durchgehen. Und er sagt dann Ja, ja, ja, das habe ich beachtet.
+
+(0:33:35 - 0:33:48)
+Ihr könnt das zum Beispiel über den Kurzschlussanzeiger auslesen. Und was wir hier noch mitgeben wollten war, dass das vorwärts und rückwärts geht. Er will jetzt vorwärts und vorwärts ist immer definiert in Richtung Kabel.
+
+(0:33:49 - 0:33:57)
+Und das bedeutet im Übergabefeld. Das Übergabefeld geht ja in den PV Park rein. Da wäre ein Vorwärts Kurzschluss dann im PV Park.
+
+(0:33:58 - 0:34:15)
+Und weil das wäre, denken wir, der Sinn dieser Information, der seine Kurzschluss im PV Park ja sozusagen nicht auf seiner Verantwortung sieht, könnte er dann den Leistungsschalter öffnen. Dann hat er das Problem sozusagen aus seinem Netz raus. Beim Eingangsfeld wäre es genau anders.
+
+(0:34:15 - 0:34:30)
+Da würde er erkennen, dass der Fehler in seinem Netz ist und dann reagiert er wahrscheinlich anders. Der Form halber, das ist wieder kommt eine 1 und 0 und eine Einzelmeldung. So beim Erdschlusswischer gehen wir zügig durch.
+
+(0:34:31 - 0:34:37)
+Das seht ihr vielleicht noch ausgegraut da rechts. Da hat er wieder Kommentare reingeschrieben. Also das sind spezielle Anforderungen.
+
+(0:34:37 - 0:34:49)
+Aber weil er das auch wieder mitkommt und geht und der Einzelmeldung macht, gehe ich da direkt weiter. Das sind für mich Sachen für den Stationsbauer. Der muss das umsetzen und im Detail verstehen.
+
+(0:34:51 - 0:35:06)
+Jetzt haben wir es gleich geschafft. Jetzt gehen wir nur noch mal der Form halber, um das zu Ende zu bringen, in das Eingangsfeld 2. Das ist jetzt also das Anschlussfeld vom Netzbetreiber. Wir hatten es vorhin schon mal gezeigt.
+
+(0:35:06 - 0:35:12)
+Wir zeigen es hier nochmal. Hier war es unser Übergabefeld in den PV-Park. Jetzt gehen wir ins nächste Feld.
+
+(0:35:13 - 0:35:28)
+Erinnert euch über das IOA2 kann er das zuweisen. Und jetzt wäre das einfach so, dass er da auch wieder den Befehl geben möchte, um diesen Schalter zu schalten. Braucht man auch einen Motorantrieb und der Verriegelung muss auf Fern stehen.
+
+(0:35:28 - 0:35:36)
+Aber das Prinzip ist dann das gleiche. Und er macht das jetzt wieder mit einem Doppelbefehl. Aber hier, finde ich, ist relevant zu verstehen.
+
+(0:35:36 - 0:35:53)
+Man sieht es in der Tabelle auch, dass da jetzt zwei weiter rechts eine 12 steht und nicht eine 1. Also jetzt geht es darum, dass das ein anderer Schalter ist. Wenn man das jetzt testet, darf nicht wieder der gleiche Schalter auf und zu gehen. Das ist, denken wir, der wichtige Punkt hier an dieser Stelle.
+
+(0:35:54 - 0:36:02)
+Und die Meldung ist wieder das gleiche wie vorher. Deswegen gehen wir da zügig drüber. So, wir gehen, habe ich gerade gehört, direkt in die Pause.
+
+(0:36:02 - 0:36:20)
+Habe ich verstanden. Wir brauchen alle mal eine kurze Pause. Wir sehen uns in fünf Minuten wieder. 
+
+Bis gleich. Willkommen zurück aus der Kaffeepause. Ich weiß, dass das nicht ganz einfach ist, so einer nüchternen Datenpunktliste zu folgen.
+
+(0:36:20 - 0:36:25)
+Wir haben uns das auch im Vorfeld überlegt. Ich erkläre das nur, um hoffentlich jetzt wieder alle zurückzuholen. Voll motiviert.
+
+(0:36:26 - 0:36:37)
+Wir wussten, dass es geht, aber nicht spannender, sage ich mal. Wir hatten uns vorgenommen, einen Datenpunkt nach dem anderen durchzugehen. Und das haben wir jetzt gemacht.
+
+(0:36:37 - 0:36:47)
+Und wir haben das gemacht für die Seite zwei. Wir gehen jetzt in die Seite drei und schauen uns das aber versprochen. Ich sage mal nur ungefähr zehn Minuten an.
+
+(0:36:47 - 0:36:59)
+Das ist deutlich reduzierter, was wir jetzt hier zeigen. Und daher die Grundlogik jetzt sehr ausführlich am Anfang schon erklärt wurde, ist es jetzt sicherlich einfacher. Aber in dieser Seite drei steht es ja über mir schon.
+
+(0:36:59 - 0:37:15)
+Geht es jetzt um Photovoltaik? Deswegen ist das natürlich wichtig. Ich finde die Seite davor genauso wichtig, weil ohne Übergabestation, ohne diese Störmeldung, ohne diese Leistungsschalter Befehle dürfen wir auch gar nicht ans Netz gehen. Das hatte ich ja ganz am Anfang mal als Motivation genannt.
+
+(0:37:16 - 0:37:22)
+Also man braucht diese Kommunikation. Sonst ist der Netzbetreiber blind. Das lässt er nicht zu.
+
+(0:37:23 - 0:37:33)
+Jetzt, wenn man so will, im zweiten Teil geht es endlich mal um die Solar- oder Wind spezifischen Meldungen und Befehle. Also wir gucken uns das an. Da steht es ja auch schon.
+
+(0:37:33 - 0:37:46)
+Prozess, Datenumfang, Zusatz für Erzeugungsanlagen. Das macht er jetzt also projektspezifisch, weil wir eine PV-Anlage sind für PV. Das sehen wir jetzt auch gleich bei der nächsten Seite.
+
+(0:37:47 - 0:37:58)
+Hier also erst mal. Er braucht das für die Regelung, um, wie wir es am Anfang genannt haben, Frequenz und Spannung halten zu können. Hier hat er die Energieart PV angekreuzt.
+
+(0:37:58 - 0:38:11)
+Also auch da wissen wir wieder, er hat unser Projekt richtig, sage ich mal, in seinem Prozess Daten hinterlegt. Dann sind wir da schon mal auf der richtigen Seite. Jetzt hier der Text, den lese ich jetzt auf keinen Fall vor.
+
+(0:38:12 - 0:38:32)
+Worauf ich hinaus will, ist, dass hier noch mal beschrieben wird, dass der Bittest ohne angeschalteten Prozess zu erfolgen hat. Also er betont hier noch mal das, was wir am Anfang in unserem Ablaufplan auch beschrieben haben. Keine Wechselrichter bitte in Betrieb nehmen, sagt er, sondern jetzt erst mal nur den Datenaustausch mit mir vortesten.
+
+(0:38:33 - 0:38:40)
+Also Parkregler und Wechselrichter müssen überhaupt nicht aktiv sein. Das machen wir nach der Inbetriebnahme. Das machen wir dann in der Funktionsprüfung.
+
+(0:38:42 - 0:38:59)
+So, und dann sagt er in dem konkreten Beispiel auch noch mal, ist denn dein Parkregler vielleicht schon eingebaut? Funktioniert der schon? Dann können wir die ganzen Rückmeldungen ja über den Parkregler realisieren. Also wenn der schon funktioniert, machen wir das gerne. Dann simulieren wir sozusagen die Regelung direkt über den Parkregler.
+
+(0:38:59 - 0:39:09)
+Ist oft nicht der Fall. Das weiß er. Deswegen sagt er ja, oder machst du das vielleicht mit einem Software Tool, weil der Parkregler eben noch nicht aktiv ist oder dritter Fall.
+
+(0:39:09 - 0:39:16)
+Und so machen wir das heute. Wenn der Parkregler überhaupt noch nicht verbaut ist, kann man trotzdem den Bittest machen. Man braucht ihn eben nicht unbedingt.
+
+(0:39:17 - 0:39:30)
+Aber es ist sinnvoll, dass der Netzbetreiber das weiß und dann kann er das hier auch hinterlegen. So was will er denn eigentlich machen? Also er will das Einspeisemanagement mit uns testen. Jetzt macht er in dem Fall die Wirkleistungsbegrenzung.
+
+(0:39:30 - 0:39:46)
+In unserem Beispiel belassen wir es dann auch dabei. Wir sagen jetzt nur an der Stelle noch mal Achtung für alle E-Planer. So eine ganz typische Regelung, so ein ganz typisches Einspeisemanagement bezieht sich auch immer auf die Blindleistung in unserem Projekt nicht.
+
+(0:39:46 - 0:39:58)
+Ich meine, weil der macht das über eine fest definierte Blindleistung Spannungskennlinie. Deswegen braucht er das nicht. Aber in den meisten Projekten, die ich mittlerweile kenne, will er auch die Blindleistung steuern können.
+
+(0:39:58 - 0:40:04)
+Das nur der Form halber. Gleiches Prinzip wie bei der Wirkleistung. Deswegen machen wir das jetzt erst mal nur für die Wirkleistung.
+
+(0:40:05 - 0:40:21)
+Was macht er? Wir haben hier wieder eine Prüfart F. Wir haben eine Vorgabe Wirkleistung Energie Art 1, ihr erinnert euch, also PV. Und jetzt will er 0% will er. Also schickt er in diesem Bittest uns die minimale Wirkleistungsabgabe, also 0%.
+
+(0:40:21 - 0:40:33)
+So ganz, ganz null ist das dann immer nicht. Das können die Wechselrichtung, die Parkregler nicht. Aber das toleriert der also minimale Wirkleistungsabgabe, sagt er, schickt er uns als Einheit in Prozent.
+
+(0:40:34 - 0:40:40)
+Und das ist dann ein Sollwert. Den hat man bis jetzt noch nicht. Das ist jetzt neu, also eine TK 50.
+
+(0:40:40 - 0:40:54)
+Und wir als Gateway, als Parkregler müssen das richtig einordnen, dass das also jetzt ein Stellbefehl ist. So, wie sieht das aus? In unserem Beispiel ist der Parkregler noch nicht vorhanden. Deswegen ist das total simpel.
+
+(0:40:54 - 0:41:09)
+Der Netzbetreiber schickt an unser Gateway diese Wirkleistungs Vorgabe und wir gehen direkt weiter in die Rückmeldung. Die kommt jetzt als nächstes sinnhafter Weise direkt drunter. Da bestätigen wir, dass wir diesen Sollwert erhalten haben.
+
+(0:41:10 - 0:41:19)
+Wir übertragen diese Rückmeldung, sobald wir den Sollwert bekommen. Also das sehen wir später auch. Das ist tatsächlich so.
+
+(0:41:19 - 0:41:41)
+Wir warten jetzt nicht, dass irgendwelche Wechselrichter was machen, sondern wir spiegeln sozusagen nur zurück, dass wir den Wert bekommen haben. Und deswegen haben wir das hier auch noch mal deutlich dargestellt. Die Rückmeldung empfangender Vorgabewerte erzeugen wir, auch wenn die tatsächliche Abweichung, Absenkung gar nicht erfolgt.
+
+(0:41:42 - 0:41:52)
+Also das ist so definiert. Vielleicht kann man das mal mitnehmen, wenn man da selber mal mit dabei ist. Das ist sozusagen nicht unbedingt erforderlich, dass die Fernwirktechnik auch dann wirklich das macht, was er hier sagt.
+
+(0:41:52 - 0:41:59)
+Hier geht es erst mal nur drum. Ich habe den Vorgabewert erhalten. Das habe ich verstanden und dass ich ihn erhalten habe.
+
+(0:41:59 - 0:42:05)
+Das spiegel ich hier zurück. Das mache ich dann mit einem Prozentwert. Also ich kriege null Prozent.
+
+(0:42:05 - 0:42:11)
+Dann sage ich ihm auch zurück Ich habe null Prozent. Und ja, das mache ich über einen Messwert. Hat man vorhin schon gesehen.
+
+(0:42:12 - 0:42:20)
+Also hier ist auch endlich mal wieder eine andere Zahl drin. Das wäre jetzt eine 36. Formhalber zeige ich das hier jetzt auch noch mal.
+
+(0:42:20 - 0:42:42)
+Wir haben ja gerade gesagt, die Vorgabe ging vom Gateway an unser Gateway und die Rückmeldung geht jetzt natürlich in die andere Richtung. Die nächste Seite haben wir hier zusammengefasst. Das freut die allermeisten, die jetzt mittlerweile das Grundprinzip sehr stark verinnerlicht haben.
+
+(0:42:42 - 0:42:51)
+Also nächsten Punkte werden immer die gleichen nur mit anderen Prozentwerten. Einmal macht das mit 30 Prozent. Dann macht das mit 60 Prozent.
+
+(0:42:51 - 0:43:12)
+Dann macht das mit 100 Prozent. Vom Grundsatz her schickt er also immer die Vorgabe erwartet eine Rückmeldung und das macht er jeweils in Prozent und immer eben mit diesem TK 50 als Sollwert Stellbefehl und als 36 als Rückmeldung. Über mir sieht man es noch ein bisschen unterstrichen.
+
+(0:43:12 - 0:43:25)
+Das ist in Abhängigkeit der Anschluss Wirkleistung. Das ist oft eine Frage, die gestellt wird. Worauf beziehen sich denn eigentlich die 100 Prozent? Also bei den 100 Prozent geht es tatsächlich um die Wirkleistung, die angeschlossen ist.
+
+(0:43:25 - 0:43:36)
+Es geht nicht um die Wirkleistung, die er vielleicht gerade liefern kann. Naturgemäß ist das dann sozusagen das Gleiche, weil er kann ja nicht mehr, als er eben gerade zur Verfügung stellen kann. Das ist dann die Physik.
+
+(0:43:37 - 0:43:55)
+Grundsätzlich bezieht sich das aber auf die Anschluss Wirkleistung. Das heißt, derjenige, der das in unserem SPS oder in unserer Fernsteuerung programmiert, muss auch die vereinbarte Anschluss Wirkleistung kennen. Da sind wir auch schon bei diesem Punkt, den ich gerade genannt habe.
+
+(0:43:56 - 0:44:10)
+Also das eine ist die vertraglich vereinbarte Anschluss Wirkleistung. So viel Wechselrichter Nennleistung haben wir installiert. Etwas ganz anderes ist, wie viel aktuelle Wirkleistung haben wir denn überhaupt? Was der Netzbetreiber das wissen will, ist, finde ich, nachvollziehbar.
+
+(0:44:10 - 0:44:26)
+Jetzt kann man sich nur ein bisschen im Detail darüber streiten, wie genau soll man das eigentlich ausrechnen? Hatte ich jetzt noch nie das Problem, dass das eine große Diskussion war. Die Parametrier, die Fernwirktechniker, die machen das so, wie sie es gewohnt sind. Das heißt, sie brauchen im Grunde immer eine Einstrahlung.
+
+(0:44:26 - 0:44:38)
+Das müssen sie wissen. Und daraus können sie relativ einfach in einem Dreisatz meistens ausrechnen, wie viel Wirkleistung dann die Anlage gerade zur Verfügung stellen kann. Alles klar, das machen wir in Megawatt.
+
+(0:44:38 - 0:44:58)
+Und deswegen ist das ein TK 36. Würde dann wieder hier gleich funktionieren, wiederholt sich jetzt die verfügbare Leistung, wird also über die Einstrahlung berechnet und simuliert. Und das Gateway schickt dann diesen Wert rüber an das Gateway vom Netzbetreiber.
+
+(0:45:01 - 0:45:12)
+Ähnlich verhält sich es mit der Blindleistung, nur dass die Berechnung eine andere ist. Da muss der Fernwirktechniker erst mal unterscheiden können zwischen induktiv und kapazitiv, sieht man jetzt auch. Jetzt geht es also erst mal gerade um unterregt.
+
+(0:45:12 - 0:45:27)
+Als nächstes geht es dann um überregt. Da ist es so, dass es nur indirekt abhängig von der Einstrahlung, weil die Wechselrichter natürlich aktiv sein müssen. Dazu brauchen die allermeisten Licht, also Energie über die Module.
+
+(0:45:28 - 0:45:37)
+Es gibt ja auch so Funktionen wie Q-Ignite bei manchen Herstellern oder auch anders. Das heißt, dass sie das auch nachts können. Wenn wir das aber mal rauslassen, geht es mir hier mehr so um hell und dunkel.
+
+(0:45:37 - 0:45:55)
+Also sind die Wechselrichter aktiv oder nicht aktiv. Wenn die Wechselrichter erst mal aktiv sind, dann können die meisten in ihrem vollen Stellbereich induktive und oder kapazitive Blindleistung zur Verfügung stellen. Also hier ist die Logik die gleiche.
+
+(0:45:55 - 0:46:08)
+Der Fernwirktechniker muss sich überlegen, wie er das ausrechnet, wo er das herkriegt, die Infos. Aber dann übermittelt er das Ganze als Megaware und als Messwert. Genau, weil unterregt ist es ganz genau das Gleiche.
+
+(0:46:09 - 0:46:17)
+Es ist eine Frage des Zellpfeilsystems. Und dann muss man das einmal testen und Netzbetreiber, dass der das auch so sieht. Und dann hat man beide Punkte durch.
+
+(0:46:18 - 0:46:37)
+Jetzt wird es wieder ein bisschen anders. Jetzt kommt hier aus durch Leistungsüberwachung. Also was da bei diesem Projekt damit gedacht war, ist, wenn die Wirkleistung, die da exportiert wird, größer ist als die vertraglich vereinbarte, dann gibt es über den Zähler einen sogenannten Zähler Lastabwurf.
+
+(0:46:37 - 0:46:49)
+Das machen, meine ich, praktisch alle Netzbetreiber so. So schützen die sich davor, dass man einfach mehr installiert, als man darf. Und wenn das passiert, dann wird das auch gemeldet über den Zähler.
+
+(0:46:50 - 0:47:09)
+Ich zeige es gleich noch mal über unser Geld an den Netzbetreiber. Der will das also in diesem Fall auch noch als zusätzlichen Datenpunkt mitkriegen, wenn wir da wegen zu großer Leistung rausfliegen. Und zukünftig, das ist jetzt relativ brandaktuell, wenn man so will, gibt es zusätzlich noch eine PAVE-Überwachung.
+
+(0:47:09 - 0:47:20)
+Das ist eine neue Schutzfunktion, die jetzt auf den Markt kommt. Das kann man über das Schutzrelais machen. Und dann könnte man diesen Datenpunkt der Netzbetreiber sicherlich dann auch aktualisieren.
+
+(0:47:20 - 0:47:30)
+Seine Listen auch hier über das Schutzrelais abfragen. Kennen wir jetzt schon, das macht er mit, kommt, geht. Und es ist eine Einzelmeldung.
+
+(0:47:30 - 0:47:41)
+Wir zeigen es hier einmal im Beispiel in einem 3D-Modell. Kann man sich dann vielleicht auch noch mal besser vorstellen. Also hier ist ein Zähler, da oben ist er jetzt auch nicht der allerneueste.
+
+(0:47:41 - 0:47:51)
+Aber es geht vom Prinzip drum, dass der auch irgendwie verbunden sein muss. Dann mit entweder Schalteranlage, mit dem Gateway, mit einer SPS irgendwie. Weil sonst kommen wir ja an diese Meldung gar nicht ran.
+
+(0:47:52 - 0:48:11)
+Und wenn man jetzt dieses Aus durch den Zähler hat, zack, da wird es orange, weil er sagt, die Leistung war jetzt zu groß. Dann muss der diesen Meldung auch irgendwie übermitteln. Das Ganze muss kombiniert werden mit der Schalteranlage, weil der Netzbetreiber dann verstehen will, dass auch gleichzeitig die Schalteranlage, wir sehen es hier, öffnet.
+
+(0:48:12 - 0:48:19)
+Das soll ja dann als Konsequenz daraus passieren. Also das muss man kombinieren. Und dann fliegt sozusagen die Gesamtmeldung zurück an den Netzbetreiber.
+
+(0:48:21 - 0:48:29)
+Nächstes Subkapitel Einspeise und Blindleistungsmanagement. Jetzt kommen richtige Sondersachen. Es sind auch nicht mehr viele.
+
+(0:48:30 - 0:48:41)
+Hier geht es um eine Not aus über das Gateway. Wir haben uns aufgeschrieben, so eine Besonderheit ist, dass das über einen potenzialfreien Kontakt jetzt realisiert werden soll. Deswegen seht ihr das auch in dem grauen Bereich.
+
+(0:48:41 - 0:48:54)
+Da stehen ja jetzt gar keine Zahlen drin, keine Einheiten, keine TKs. Das liegt daran, dass das eben nicht über dieses Protokoll läuft, sondern über einen zusätzlichen potenzialfreien Kontakt. Also gibt es keine Einheiten und es gibt keine Typkennung.
+
+(0:48:56 - 0:49:09)
+Dieser Notauskontakt hat dann auch wiederum eine Rückmeldung. Macht ja immer Sinn, dass der Netzbetreiber eine Rückmeldung kriegt, dass das auch funktioniert hat. Und da wäre das dann auch so, dass man die Rückmeldung und das Aus kombiniert.
+
+(0:49:09 - 0:49:16)
+Keine Einheit, keine Typkennung. Weiter geht's. So wäre das.
+
+(0:49:17 - 0:49:29)
+Ehrlich gesagt, der Unterschied ist jetzt vor allem die Farbe. Also das ist jetzt eine potenzialfreie Verbindung. Das wollten wir, wie gesagt, auch an der Stelle nur noch mal farblich darstellen, dass das jetzt ein Unterschied ist.
+
+(0:49:29 - 0:49:41)
+Die Rückmeldung, aber vor allem auch der Befehl laufen jetzt nicht über das Protokoll. Das Wendelegende oben, das lila, sondern das ist jetzt ein potenzialfreier Kontakt. Ansonsten hat sich in unserer Darstellung jetzt gar nicht so viel geändert.
+
+(0:49:47 - 0:49:50)
+Schutzfunktion möchte er wissen. Der Netzbetreiber machen wir. Wir haben ja ein Schutzrelais drin.
+
+(0:49:51 - 0:50:03)
+Also wenn der Schutz auslöst, dann kriegt er sein Kommtsignal und das Ganze läuft über eine Einzelmeldung. Hier als letzten Punkt kommen jetzt noch mal die Wetterdaten. Wir hatten es vorhin schon mal ganz kurz.
+
+(0:50:03 - 0:50:16)
+Jetzt ist das endlich mal ein B und kein F. Also vielleicht muss die der Sensor jetzt nicht unbedingt installiert sein. Wir simulieren das über das Gateway. Und naja, diese Daten, die sind abhängig von der Energieart.
+
+(0:50:16 - 0:50:26)
+Was haben wir denn hier? Außentemperatur vielleicht jetzt eher noch unabhängig von der Energieart. Aber grundsätzlich ist es in Temperaturen in Celsius. Und das ist ein Messwert.
+
+(0:50:27 - 0:50:34)
+Und die Globalspannung, wir zeigen es erst im 3D-Modell. So kann das aussehen. Also irgendein Sensor, ein Pyranometer.
+
+(0:50:35 - 0:50:52)
+Aber das ist jetzt nicht der Punkt, ist irgendwo angeschlossen. Und dann kriegt man diese Meldung über vielleicht in über einen Slave, wo auch immer das Ding verbaut ist, in meinen in meinen Gateway rein. Und bei der Globalstrahlung ähnliches Prinzip.
+
+(0:50:53 - 0:51:04)
+Das ist jetzt mal so richtig solarspezifisch. Also der Netzbetreiber will halt wissen, wie wie gut das Wetter vor Ort ist. Dann kann er ja auch Rückschlüsse ziehen darüber, wie viel Energie oder Leistung er dazu erwarten hat.
+
+(0:51:06 - 0:51:12)
+Das macht er über Watt pro Quadratmeter. Also die Definition der Einheit ist immer ganz wichtig. Und das ist dann eben auch ein Messwert.
+
+(0:51:13 - 0:51:31)
+So, wir sind erst mal da durch und weisen hier jetzt noch mal darauf hin, dass da eine IEC 101 Schnittstelle drinsteht, relativ klein. Also wenn man sich das mal in Ruhe alles durchgelesen hat mit einer Pause dazwischen, dann wird man das auch sehen. Dann wird einem das auffallen.
+
+(0:51:31 - 0:51:47)
+Und dann wird man feststellen Oh ja, okay, 101er muss ich beachten. Haben wir in einem anderen Brainday super ausführlich erklärt, was das dann bedeutet, wie man das umsetzt. Hier haben wir jetzt nur mal so aus unserer Erfahrung so ein paar Netzbetreiber aufgelistet, die das mit der 101er machen.
+
+(0:51:47 - 0:51:56)
+Kann sich ja immer ändern. Um Himmels Willen ging es mir um Symbol, dass das Netzbetreiber nun mal unterschiedlich machen. Und das muss man dann wissen, damit der Fernwirk Techniker das auch richtig plant.
+
+(0:51:57 - 0:52:08)
+Hier wird es also stehen in der Tab sicherlich auch. Aber hier hätte man diesen wichtigen Hinweis auch noch mal gefunden. So und bei den Ergebnissen, weil man ja alles richtig gemacht hat, geht es dann ganz schnell.
+
+(0:52:09 - 0:52:14)
+Also das war ja ein Prüfprotokoll. Deswegen kann er da anhaken. Der war erfolgreich.
+
+(0:52:15 - 0:52:21)
+Davon gehen wir jetzt einfach mal aus. Wenn nicht, sagt man hier, wir treffen uns in vier Wochen wieder. Das war natürlich nicht so schön.
+
+(0:52:21 - 0:52:33)
+Und hier hat er mehrere Auswahlmöglichkeiten für grundsätzliche Fehler dargestellt. Also was vielleicht nicht so richtig funktioniert hat. Kontaktdaten hat er auch noch mal hingeschrieben.
+
+(0:52:33 - 0:52:38)
+Und jetzt, jetzt haben wir es geschafft. Da haben wir jetzt die Unterschrift drauf. Alles in Ordnung, hoffentlich Datum.
+
+(0:52:39 - 0:52:46)
+Und erinnert euch an den Ablaufplan. Das war ganz wichtig. Ohne dieses Dokument kriegen wir keine Inbetriebnahmeerlaubnis.

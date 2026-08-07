@@ -1,0 +1,104 @@
+(0:00:00 - 0:00:34)
+über das Design zu sprechen. Und zwar haben wir ein paar 3D-Modelle zusammen gebastelt. Also wir bleiben erstmal bei einer Freilandanlage. 
+
+Für Dachanlagen ist das Konzept gleich. Da geht es ja dann um den Gebäudeerder. Also unsere Freilandlage sieht ungefähr so aus. 
+
+Wir sehen da eine Trafostation, Module und einen dezentralen Wechselrichter. Und jetzt gehen wir erstmal zur Trafostation und kümmern uns da um die Erdung der Transformatorstation. Dann laufen wir einfach weiter sozusagen zur Unterkonstruktion und gucken da, ob wir da mit dem Potentialausgleich ankommen.
+
+(0:00:35 - 0:04:38)
+Dann gucken wir uns die Module an und als letztes sind wir dann beim Wechselrichter. Diesen Weg laufen wir übrigens auch in der 360-Grad-Tour, kann man sich also jetzt schon mal so merken. Hier ist meine Trafostation, die steht jetzt erstmal auf der grünen Wiese und drunter ist das Erdreich. 
+
+Die Wiese nehmen wir weg, weil auf so einer Baustelle gibt es die nach ungefähr einen Tag nicht mehr. Und wir bauen einen Ring. Wir haben das gleich absichtlich hier in zwei Ebenen geteilt, weil es aus meiner Sicht oder in Abstimmung mit Fachkollegen der Best Case ist, wenn man zwei Ringe bauen sollte, dass man die dann in unterschiedliche Tiefen verlegt. 
+
+Das liegt einfach daran, dass die dann einen größeren Effekt auf diesen Erdausbreitungswiderstand haben. Der Effekt wird verbessert. Das heißt nicht, dass wenn man es in die gleiche Höhe legt, das Ganze falsch ist. 
+
+Aber ich zeige hier jetzt eben, Achtung, unseren Best Case Vorschlag. Der ist aus unserer Sicht mehrfach geprüft von Fachfirmen. Die haben das berechnet und uns so freigegeben. 
+
+Trotzdem, ja genau, also hier keine Gewährleistung, sondern das ist sozusagen ein projektspezifischer Vorschlag, der aus unserer Sicht extrem sinnvoll ist, den man auch adaptieren könnte, wenn man das will. Also man hat jetzt Ringe und zwar zwei Stück und die legt man jetzt den ersten ungefähr bei 0,5 bis 1 Meter Tiefe. Also 0,5 hat man schon und tiefer 1 Meter hatten wir auch schon, macht eben nicht mehr so viel Sinn, also zwischen 0,5 und 1 Meter und den zweiten legt man tiefer, weil der dann einen größeren Effekt hat. 
+
+Da ist er, der erste und dann kommt hier der zweite. Dann kommt jetzt in unserem Beispiel ist das Bandstahl, 30 x 3,5, ganz typische Anwendung und jetzt brauchen wir natürlich auch noch die Abstände und die hatte ich auch genannt. 1 Meter wird meistens genannt. 
+
+Das liegt daran, dass man davon ausgeht, dass ein Schritt ungefähr einen Meter hat. Ich glaube sogar mein Schritt hat nicht mal einen Meter, aber okay, da kommt die Herleitung her und wir haben das jetzt eben so ein bisschen reduziert mit 0,5 bis 1 Meter, kann man sich das so mal so hindenken, weil umso größer man diesen Abstand macht, umso größer wird natürlich die Grube. Aber so kann man das aus unserer Sicht erstmal verlegen, indem man da zwei Ringe drumherum setzt, dann ist man auf der sicheren Seite. 
+
+Die muss man jetzt verbinden, da machen wir unsere Verbindung untereinander und außen haben die meisten Trafostationen erstmal so einen Anschluss, der genau dafür gedacht ist. Das machen wir an zwei Seiten, halten wir für einfach sinnvoll, eine Redundanz aufzubauen, weil das nicht so aufwendig ist und dafür hat man dann für 20 Jahre lang eine Redundanz gebaut. Also wenn sich ja dann doch mal einer löst, ist das nicht so schlimm. 
+
+Wie gesagt, das ist so ein bisschen unsere Best-Case-Darstellung, die wir aber vertreten. Und jetzt brauchen wir die Verbindungsklemmen, die wir vorhin gezeigt haben. Dann gehen wir hier mit der Lupe rein. 
+
+Also an dieser Stelle zum Beispiel muss man jetzt akribisch achten, dass man diese Verbindung richtig baut. Man nimmt die untere Hälfte, man legt das Flachband rein, man legt dann oben so eine Zwischenebene rein und dann oben das Flachband und dann noch mal von oben drauf. Und jetzt kommen die Schrauben und das Ganze wird fixiert. 
+
+Also man hat schon gesehen, die Oberfläche, weil die ist ja eben wichtig, die Oberfläche ist wichtig für den Widerstand, die wird jetzt optimal sozusagen übertragen und dann schieben wir da unsere Klemme rein. Wir haben noch eine Lupe außenrum gemacht. Also so sieht dieses Verbindungsstück aus und da haben wir ja jetzt hier bei uns vier Stück davon, die sehen natürlich alle so aus. 
+
+Die müssen bitte wirklich qualitativ hochwertig ausgeführt werden, weil sonst das ganze Erdungssystem sozusagen, das da ja dran hängt, an Sinnhaftigkeit verliert. So, wir nehmen die Klemme weg und nehmen als nächstes die Tiefenäder mit rein. Den haben wir uns ja auch schon genau angeguckt. 
+
+Da kommt auch die Spitze mit rein und ich glaube genau, jetzt zeigen wir mal zwei Seiten gegenüber diagonal, dann hat man den größten Abstand, den man sehr einfach realisieren kann. Ich habe ja vorhin die Grafik gezeigt. Der Abstand macht Sinn, führt die möglichst weit auseinander, deswegen diagonal.
+
+(0:04:39 - 0:07:57)
+Und jetzt haben wir die an zwei Stellen hier mal so vorgesehen. Da hauen wir die rein, der nächste kommt oben raus, nochmal rein. Jeder, der aufgepasst hat, weiß, jetzt sind wir bei drei Metern und jetzt machen wir das vielleicht noch zweimal. 
+
+Dann sind wir bei sechs oder dann später bei neun Meter. Auch hier brauchen wir Verbindungsklemmen, damit man die besser sehen kann. Nehmen wir hier mal das halbe Erdreich weg und haben aber im Grunde das Gleiche. 
+
+Das ist einfach nur eine andere Klemme. Also einmal wieder der Bandstahl vom Ring, dann kommt wieder so ein Verbindungsteil, dann kommt jetzt diesmal eben der Tiefenäder obendrauf. Der ist halt rund und deswegen braucht man auch so ein rundes Anschlussstück und dann ist das auch perfekt aufeinander abgestimmt, miteinander verbunden und hier nochmal irgendwie schön dargestellt. 
+
+Auf der anderen Seite wäre das genauso, da fliegt das rein und da haben wir dann jetzt auch unsere zwei Klemmen für den Tiefenäder vorgesehen. Gut, was fehlt uns noch? Viel kann es nicht sein. Die externe Erdung, genau. 
+
+Also jetzt sagen wir mal, das ist unser Erdungssystem von der TRAFO-Station. Das wäre in sich jetzt schon schlüssig, so kann das stehen bleiben. Eine Übergabestation steht ja auch so alleine für sich, aber wir haben jetzt noch einen externen Erdungsanschluss, weil wir gehen ja noch in unseren PV-Pakt rein. 
+
+So sieht der aus und den habe ich jetzt extra so nochmal mit einer Lupe umrandet, weil ich zeigen will, dass ich den in die Station hineinführen würde, weil in der Station der Hauptpotentialausgleichsschiene ist. Dann kann ich trennen, sozusagen an der Schiene zwischen Ringanschluss und externem Anschluss. Warum das sinnvoll ist, zeigen wir in der Messung später. 
+
+Jetzt haben wir unsere Stationserde gebaut und ihr erinnert euch noch an diesen externen Anschluss, den ich gerade gezeigt habe. Der kommt jetzt hier wieder. Also jetzt sind wir zum Tisch gelaufen und dieser Erdungs, dieser runde 10 V4A Stahldraht, der kommt jetzt hier in unserem Kabelgraben an. 
+
+Da ist er, der Runddraht, also der Kabelgraben neben meinem Tisch, liegt er jetzt da unten drin und kommt von meiner Traffungsstation jetzt hier meinem ersten Tisch an. Und was muss ich da machen? Eine Verbindung bauen. Also lege ich es wieder so ein Stück nach oben und habe da jetzt genau die gleiche Aufgabe. 
+
+Ich muss eine Verbindung schaffen und ich muss darauf achten, dass der Anschluss mindestens 20 Zentimeter über der Oberfläche ist. Das ist auch so eine Regel, die wir von Anfang an mitgeschnitten haben. Das macht Sinn, dass das nicht unterirdisch ist, sonst könnte man es nicht überprüfen, auch nicht visuell gucken, ob das überhaupt angeschlossen ist. 
+
+Und man muss es markieren, damit man das auch wiederfinden kann. Aber das wiederholt sich jetzt ein bisschen, deswegen ist es zwar ziemlich cool animiert, muss ich ehrlich sagen, aber wiederholt sich eben, deswegen mache ich es relativ zügig. Also da unten gibt es auch wieder eine Klemme, da kommen jetzt zwei Drähte rein. 
+
+Ihr seht schon, das ist eine andere Klemme. Die Hersteller machen das absichtlich. Auch hier wieder optimaler Übergang und weiter geht es. 
+
+Es gibt Länder, in Deutschland habe ich es nicht gesehen, in denen wird sowas auch geschweißt gemacht, aber wir haben es jetzt hier mal mit der Klemme dargestellt. So, wir gehen weiter von der Trafostation zum ersten Tisch. Jetzt gehen wir zum nächsten Tisch und da sehen wir wieder so eine Verbindungsklemme und jetzt haben wir einen Potentialausgleich zwischen zwei Reihen geschaffen.
+
+(0:07:58 - 0:11:39)
+So sieht man natürlich von oben nicht, aber so ist es in der Logik. Also Tisch, runter, rüber und wieder hoch zum nächsten Tisch. Wir gehen weiter und müssen ja in einer Reihe auch die Tische miteinander verbinden. 
+
+Das machen wir eben mit so einer Brücke, die wird da angeschlossen. Meistens oben, da kommt man ganz gut hin und dann hat man jetzt nicht nur Reihe zu Reihe verbunden, sondern auch Tisch zu Tisch. So, wir gehen weiter in den dritten Schritt zum Modul selbst. 
+
+Also den Tisch haben wir jetzt auch mitgeerdet und jetzt brauchen wir eben eventuell beim Modul auch noch so eine Klemme. Da zeige ich sie einmal, wo man die findet. In der 3D-Tour seht ihr das ja dann auch und ist auch gleich eine Frage dann dazu. 
+
+Und da haben wir es nochmal gesagt, Schutzklasse 2. Also man kann das machen und damit argumentieren, dass man jetzt hier, wenn man die Klemme da drauf setzt, das Ganze auch nochmal an das Unterkonstruktionssystem integriert hat. Schutzklasse-2-Module müssen aber nicht zwingend eingebunden werden. Und wenn man jetzt noch einen Schritt weiter geht, sieht man hier links den Wechselrichter und da würde man das zum Beispiel so machen. 
+
+Man braucht dieses Kupferkabel, das wir vorhin gezeigt haben, grün-gelb markiert. Das ist ganz wichtig. Der Querschnitt 16 Quadrat Kupfer mindestens. 
+
+Schauen auch nochmal in die Bedienungsanleitung, aber da steht das dann auch drin. Und dann schließt man den am Wechselrichter an und man schließt ihn an der Unterkonstruktion an. Kann man hier finde ich gut sehen, dass man ihn sehen kann. 
+
+Das ist immer sinnvoll bei Potenzialausgleich, dass man das sofort sehen kann, dass das Gehäuse jetzt in dem Fall dann in den Potenzialausgleich eingebunden ist. Genau, und da hängt dann dieser Kabelschuh dran. Den zeigen wir deshalb, weil das auch immer wieder eine sehr detaillierte Frage war in der Vergangenheit. 
+
+Wie genau muss ich jetzt hier einen Kabelschuh befestigen? Also das mag dem einen oder anderen jetzt ein bisschen komisch vorkommen, wie genau wir das machen. Aber die Frage hatten wir immer wieder und deswegen haben wir es einmal aufgeschrieben und das zeige ich jetzt. Eine Variante ist, man nimmt eine Scheibe, V2A, V4A, kann man beides machen, aber die legt man erstmal auf den Kabelschuh. 
+
+Da geht es halt um die Druckverteilung, die Fläche. Dann braucht man natürlich einen Bolzen, den man reinschiebt. Das ist glaube ich jetzt nicht das große Thema, aber diese Scheibe ist tatsächlich immer wieder ein Thema. 
+
+Und ja, wir sagen auch, man braucht sie. So wird so etwas gebaut. Auf der anderen Seite auch. 
+
+Auch hier geht es wieder um den Druck, um den Anzugsdruck. Und jetzt kommt noch eine Federscheibe. Weil, wenn man sowas mal festschraubt, jeder der das mal gemacht hat, auch zu Hause, wenn man das ein Jahr oder zwei später nochmal nachzieht, wundert man sich, warum sich das denn eigentlich gelöst hat. 
+
+Man hat ja gar nichts gemacht. Aber das ist so und diese Feder sorgt dafür, dass das von alleine den Druck nachführt. Und dann kommt hinten eine Mutter drauf und dann hat man da eine saubere Erdungsverbindung, die auch über viele Jahre halten wird. 
+
+Realisiert mit Druck, der nicht nachlässt und mit einer Markierung. Und dann hatten uns letztes Jahr ehrlich gesagt hier Leute gesagt, wir machen das mit einer Sperrzahnmutter. Haben wir nachgelesen. 
+
+Kann man auch machen. Also unser Verständnis ist das auch. Dann braucht man nicht diesen Feder, sondern man kann das mit so einer Sperrzahnmutter machen. 
+
+Da gibt es wahrscheinlich noch viel mehr Varianten. Aber das sind erstmal welche, finden wir, die gut sind. Und wenn man andere nimmt, hat man jetzt zumindest mitgenommen. 
+
+Achtung, darauf muss man achten, dass man da nicht einfach nur einen Kabelschuh dran schraubt und gut ist. So, das war erstmal die die die die Anschlüsse jeder für sich. Und jetzt zeige ich das nochmal im System.
+
+(0:11:40 - 0:13:55)
+Und da sieht man jetzt also mehrere Tische und auch mehrere Reihen und meine Trafo Station. Also wir sind diesen Weg ja gerade gegangen, aber jetzt zeige ich ihn halt nochmal von oben. Hier sieht man auch, meine Ring ist an die Trafo Station angeschlossen und meine hier externe Erdung der Tische geht in die Trafo Station separat. 
+
+Kommt mein Kabelgraben. Da liegt jetzt dieser Erdungsdraht drin und jetzt schließe ich den an die verschiedenen Reihen an. Zoom raus, weil so eine richtige große PV-Anlage sieht ja noch viel, viel größer aus. 
+
+Hat so ein bisschen die Markierung, denke ich, zerschossen. Das ist aber nicht schlimm vom Prinzip, weil die Frage ist, wie schließe ich denn jetzt die anderen Nord-Süd-Reihen miteinander an? Und da sagen wir, ich mache es nochmal zurück, das muss man nicht machen für jede Tischreihe sozusagen. Hier wäre das in weiß dargestellt. 
+
+Das muss man aber nicht unbedingt machen, sondern, das zeige ich hier, wir können ja auch diese Nord-Süd-Verbindungen weglassen und dafür mit den Tischen eben eine Ost-West-Verbindung einziehen. Ja genau, die fehlt jetzt hier. Entschuldigung, müssen wir noch nachführen. 
+
+Also da wäre jetzt also in Ost-West eine Verbindung der Tische zueinander eigentlich dargestellt und dann braucht man die Nord-Süd- So, ich habe es nur als Foto hier mit reingenommen, aber wir gehen jetzt in die Pause, deswegen zeige ich das nur mal als Bild und im Handout ist es, denke ich, auch drin. Bei Dachanlagen ist das nicht so, also da braucht man auch eine Erdung für das Gebäude, aber das ist für heute nicht relevant, weil wir heute nicht über Gebäude sprechen. Und dann muss man unbedingt den Potenzialausgleich auf dem Dach für die PV-Anlage ausführen, das ist klar. 
+
+Das ist genau das Gleiche, was ich auch gerade für die Freilandanlage gezeigt habe, aber wenn man dann in das Gebäude-Erdungssystem sich integriert hat, ist das ausreichend und das, was ich unten jetzt sozusagen an Fundamenterde oder Tiefenerde baue, hat aus unserer Sicht dann nicht so viel zu tun mit der Ausführung der Planer, um die es heute geht.

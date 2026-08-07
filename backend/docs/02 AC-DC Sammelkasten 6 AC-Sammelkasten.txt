@@ -1,0 +1,131 @@
+(0:00:00 - 0:00:25)
+Und jetzt gehen wir noch mal in die letzte Abteilung, den AC-Sammelkasten, weil das Thema des Tages ist ja AC- und DC-Sammelkasten. Und wir haben viel darüber nachgedacht, wie man da sozusagen eine Logik reinkriegt, wie man diese unterschiedlichen Bauteile doch irgendwie in ihrer Aufgabe her zusammenführen kann. Das, was wir heute gemacht haben, ist das Resultat daraus.
+
+(0:00:25 - 0:00:34)
+Wir haben uns entschieden, der DC-Sammelkasten ist als Komponente an sich ein eindeutiger. Da kann man sehr viel klar definieren und beschreiben. Das haben wir ja jetzt auch gemacht.
+
+(0:00:34 - 0:00:49)
+Wir haben den ausgelegt, spezifiziert und die Herausforderungen dargestellt. Und jetzt haben wir noch zehn Minuten, um uns quasi den AC-Sammelkasten anzugucken. Und da gebe ich jetzt vorweg, dass das eben nicht so eindeutig ist wie der String-Sammelkasten.
+
+(0:00:49 - 0:01:04)
+Warum, werden wir gleich sehen. Aber sozusagen die Möglichkeit, AC-Systeme einzusammeln, sind vielfältig. Und diesen ganz einfachen AC-Sammelkasten, der vielleicht genauso aussieht wie so ein String-Sammelkasten, den sehen wir praktisch gar nicht mehr.
+
+(0:01:04 - 0:01:21)
+Das kann aber in anderen Baustellen natürlich schon der Fall sein. Aber das kennen wir so nicht mehr so häufig, sondern es sind dann oft eher große Verteilungen, entweder in der Trafo-Station oder auch im Gebäude. Aber genau das zeige ich jetzt gleich.
+
+(0:01:21 - 0:01:41)
+Trotzdem versuchen wir, die Analogie zu halten mit dem, was wir eben gerade erzählt haben, dass man das übertragen kann auf die AC-Seite. Das versuchen wir jetzt noch und zwar folgendermaßen. Ihr könnt euch noch erinnern an die fünf Schritte aus der DC-Combiner-Box-Auslegung.
+
+(0:01:41 - 0:01:57)
+Und die finden wir jetzt hier auch, nur mit leicht anderem Text. Also der AC-Sammelkasten ist ja jetzt sozusagen aus Sonnensicht hinter dem Wechselrichter. Deswegen muss man jetzt nicht mehr den String dimensionieren, der hat ja jetzt gar nichts mehr damit zu tun, sondern jetzt muss man den Wechselrichter dimensionieren.
+
+(0:01:57 - 0:02:28)
+Also erster Schritt wäre, dass man den Wechselrichter auslegt. Keine Angst, wir machen das jetzt nicht so, wie wir es vorhin für die DC-Seite gemacht haben, sondern wir zeigen nur das Prinzip. Das Ausrechnen, das kann dann gerne jeder sozusagen selber machen, beziehungsweise, das sage ich dann gerne auch schon jetzt schon an der Stelle, das wird in folgenden Brain Days noch ganz oft kommen, weil wenn wir erst mal über Trafostationen reden, wenn wir über Anforderungen für Niederspannungsverteilung sprechen, dann kommt dieses Prinzip sowieso wieder.
+
+(0:02:29 - 0:02:46)
+Für heute ist das eben dann nicht ganz so relevant. Also wir haben den Wechselrichter ausgelegt, dann wissen wir, welche Ströme in diese Sammelboxen hineinfließen. Dann muss man eben die andere Seite ausrechnen, das könnte so eine Verteilung sein, eine Niederspannungsverteilung oder eine Niederspannungshauptverteilung.
+
+(0:02:46 - 0:02:59)
+Das wäre jetzt das Pendant vorhin zum Wechselrichter, wer sich da noch dran erinnern kann. Und dann muss man eben nicht irgendein DC-Design dazwischen ausrechnen, sondern ein AC-Design. Also das sind einfach nur andere Formeln, weil der Strom ein bisschen anders ausgerechnet wird.
+
+(0:03:00 - 0:03:11)
+Und dann geht man aber auch da in eine wirtschaftliche Bewertung. Gleiches Prinzip. Also dann ist der Anzahl der Wechselrichter flexibel sozusagen, also das Verhältnis von Wechselrichter zu Verteilung.
+
+(0:03:12 - 0:03:27)
+Man kann zwei Wechselrichter auf eine Verteilung legen, man kann aber auch 15 Wechselrichter auf eine Verteilung legen. Das ist die gleiche Grundlegung wie vorhin. Wenn man sozusagen die Anzahl erhöht, dann resultieren daraus Folgen, zum Beispiel, dass der Strom, der Gesamtstrom sich erhöht.
+
+(0:03:27 - 0:03:38)
+Aber das Prinzip ist das gleiche. Also auch hier kann man eine wirtschaftliche Optimierung starten mit irgendwelchen Kurven, die man in Excel ausrechnet. Und da ist auch der Schritt 5 der gleiche wie vorhin.
+
+(0:03:38 - 0:04:04)
+Die Lage des Wechselrichters hat hier auch wieder enormen Einfluss. Also als Beispiel, wenn ich den Wechselrichter Richtung Verteilung schiebe, dann werden die Stringkabel länger und die AC-Niederspannungskabel werden kürzer zur Verteilung. Wenn ich die Verteilung sozusagen zum Wechselrichter schiebe, wie auch immer, dann würden sich sozusagen die Kabel auf der einen Seite auch da verkürzen und auf der anderen Seite länger werden.
+
+(0:04:04 - 0:04:21)
+Also dieses Grundprinzip, dass ich nicht alles haben kann, ist dann genau das gleiche. Und so eine richtige projektspezifische Darstellung schaffen wir hier in fünf Minuten auf gar keinen Fall. Wir wollten euch das Rüstwerk, wenn man so mitgeben oder den Denkanstoß für die Logik, um dann sozusagen das auch mal selber durchzuführen.
+
+(0:04:21 - 0:04:41)
+Wenn man jetzt also die Analogie-Betrachtung, nenne ich es mal, von DC zu AC jetzt mit dieser Prozessfolge geschafft hat, dann schafft man es bestimmt auch mit unseren 3D-Bildern. Also das ist unser Copy-Paste-Slide von vor einer Stunde. Also der Generator-Anschlusskasten in der Mitte.
+
+(0:04:42 - 0:04:56)
+Und jetzt machen wir Folgendes, das ist doch auch visuell, dann bleibt es vielleicht länger haften. Wir schmeißen die Wechselrichter raus, das war ein Zentralwechselrichter, den haben wir rausgeworfen. Und das Pendant aus unserer Sicht wäre dann der Transformator.
+
+(0:04:56 - 0:05:06)
+Da müssen ja die AC-Systeme zusammenkommen. Der hat ein Limit, ich mache das nochmal rückwärts. Moment, kriege ich das rückwärts? Ich kriege das rückwärts.
+
+(0:05:06 - 0:05:22)
+Der Wechselrichter war vorhin sozusagen das Limit für den Anschluss der Gags. Und jetzt, wenn wir in die AC-Seite gehen, ist der Transformator das Limit für den Anschluss der AC-Boxen. Das heißt, der Gag muss auch raus und die AC-Box muss rein.
+
+(0:05:22 - 0:05:38)
+Wie sieht eine AC-Box aus? Hier haben wir mal das Beispiel genommen von einer Verteilung in einer Trafo-Station. Also jetzt nicht irritieren lassen, da in dieser Station ist ja vielleicht auch ein Trafo drin, das meinen wir nicht. Sondern wir meinen diese Niederspannungsverteilung, die da vorne in dieser Trafo-Station drin hängt.
+
+(0:05:38 - 0:05:55)
+Das ist ja eine AC-Ansammlung, aus Energieversorgersicht vielleicht eine AC-Verteilung. Wird auch oft Niederspannungsverteilung genannt oder Verteilerkasten. Wir haben es absichtlich Sammelkasten genannt, weil wir ja als Solaris von der anderen Seite gucken.
+
+(0:05:56 - 0:06:12)
+Wir sammeln sozusagen den AC-Strom hier ein und schicken ihn dann von dort gesammelt zum Transformator. Das Pendant zum Gag ist hier diese Niederspannungsverteilung. Also die Anzahl der Trenner, der Typ der Trenner und natürlich auch der Typ des Leistungsschalters.
+
+(0:06:13 - 0:06:21)
+Die Nennstrom und Nennspannung vom Leistungsschalter. Gag raus, Niederspannungsverteilung rein. Dann müssen auch die Module raus.
+
+(0:06:22 - 0:06:31)
+Im Zweifel ein Screenshot machen, weil erst jetzt ist es richtig. Die Module raus. DC-String ist einfach nicht mehr relevant für AC-Seite, sondern der Wechselrichter muss hier rein.
+
+(0:06:31 - 0:06:39)
+Das ist jetzt aus unserer Sicht ein dezentrales System. Ich hatte es ganz am Anfang gesagt, jetzt schlage ich einen Riesenbogen. Ein Zwei-Stunden-Bogen wird jetzt geschlagen.
+
+(0:06:39 - 0:06:51)
+Ich hatte gesagt, diese AC-Verteilung, die muss rein, damit wir überhaupt dezentrale Wechselrichter nutzen können. Wenn man das denn will, das ist eine projektspezifische Fragestellung. Aber jetzt sagen wir mal, machen wir das.
+
+(0:06:52 - 0:07:07)
+Dann führt also der dezentrale Wechselrichter dazu, dass ich in der Mitte diese Verteilung brauche. Nicht die Station, sondern die Verteilung brauche, damit gesammelt an den Nennenleistungen von dem Transformator angeschlossen werden kann. Es funktioniert, glaube ich, wirklich.
+
+(0:07:07 - 0:07:19)
+Ich habe die ganze Woche sozusagen auf dem Weg zur Arbeit drüber nachgedacht, ob diese Analogiebetrachtung funktioniert. Ich meine, sie funktioniert genauso, wie wir es jetzt gemacht haben. Man kann die DC-Box gegen eine AC-Box austauschen.
+
+(0:07:20 - 0:07:33)
+Dann muss man aber auch die Spieler auf den anderen Seiten austauschen. Das Dritte, wenn man so will, was wir mit DC gebastelt haben, war nochmal diese Art der Darstellung. Jetzt auch wieder nicht verwirren lassen.
+
+(0:07:34 - 0:07:41)
+Das ist jetzt eben diese zentrale Form. Und die tauschen wir jetzt Schritt für Schritt wieder aus. Also Gags raus, Wechselrichter rein.
+
+(0:07:42 - 0:07:50)
+Ist beides ein bisschen weiß und ähnlich. Aber ich hoffe, man kann den Unterschied erkennen. Also das ist jetzt Gag raus, dezentraler Wechselrichter rein.
+
+(0:07:50 - 0:08:09)
+Und dann muss natürlich der zentrale Wechselrichter auch raus. Hier geht er raus, der muss weg, damit an die Stelle, die meinetwegen Transformatorstation kommt, die Niederspannungshauptverteilung. Es können ja auch erst mal kleinere AC-Sammelboxen sein, die dann nochmal in einer Niederspannungsverteilung münden.
+
+(0:08:09 - 0:08:28)
+Aber das Prinzip, hoffe ich, wird hier jetzt auch nochmal klar, dass man also die elektrischen Kenngrößen jetzt zwischen diesen Teammitgliedern definieren muss. Schreiben wir auch gleich nochmal kurz auf. Wir schieben das Bild nach oben, damit es so ein bisschen erhalten bleibt für unsere Tabelle.
+
+(0:08:29 - 0:08:48)
+Auch da, aha, hoffe ich, das kam doch vorhin schon mal, die Euromünzen, ihr erinnert euch, Länge Stringkabel, Länge DC-Hauptkabel bei zentral als Beispiel dargestellt. Und jetzt versucht, die Analogie zu schlagen zum dezentralen System. Und da muss man sagen, ja, also da brauche ich jetzt auch einen Euro für die Stringkabel.
+
+(0:08:48 - 0:08:58)
+Und jetzt, Achtung, DC-Hauptkabel, einmal darauf achten, das gibt es jetzt ja gar nicht mehr. Jetzt wird es ein AC-Hauptkabel. Man kann natürlich auch vielleicht drunter schreiben können und dann sieht man nochmal den Unterschied.
+
+(0:08:58 - 0:09:16)
+Weil bei AC-Hauptkabeln brauche ich jetzt auch wieder einen Euro, um mir das kaufen zu können. Die Verluste sind da und die Verluste sind jetzt nicht mehr auf der DC-Seite, sondern auf der AC-Seite. Also auch hier wieder nur der Versuch, klarzumachen, dass es eine 1 zu 1 Analogie-Betrachtung geben kann.
+
+(0:09:16 - 0:09:28)
+Also auch hier wieder eine kaufmännische Bewertung ausgeführt werden kann. Wechselrichter, Montage, Trafo gehört jetzt hier mit rein. Und dann kommt man im Zweifel, das haben wir natürlich ganz diplomatisch gemacht, auch wieder auf fünf Euro.
+
+(0:09:29 - 0:09:40)
+Also wenn man jetzt mal vergleicht, zentral und dezentral, würden wir jetzt auf das gleiche Ergebnis kommen. Einfach, um da niemanden auf die Füße zu treten. Und meiner Erfahrung nach wechselt das auch so im 2-3-Jahres-Rhythmus.
+
+(0:09:40 - 0:09:53)
+Das hängt ab von Materialpreisen. Das hängt natürlich ab von Wechselrichter-Lieferzeiten, von Wechselrichter-Materialpreisen. Also diese Topologien, die ändern sich ja immer mal wieder.
+
+(0:09:53 - 0:10:19)
+Und wir haben es deswegen erst mal gleich dargestellt. Letzter Punkt in diesem Kontext. Wenn man jetzt als allerletztes auch noch mal die Analogie greifen will für die Auslegung, dann sage ich, brauchen wir jetzt Anzahl der AC-Niederspannungskabel vom Wechselrichter in die Station zur Verteilung und von der Verteilung zum Transformator.
+
+(0:10:20 - 0:10:31)
+Das ist das Gleiche wie vorhin. Also die Anzahl und da wiederum die Nennstrom und die Nennspannung. Beziehungsweise natürlich die Ausgangsströme und die Eingangsströme der verschiedenen Komponenten.
+
+(0:10:32 - 0:10:48)
+Auch hier grundsätzlich gilt, wie in dem Stringsammelkasten, im Potentialausgleich müssen wir beachten, da ist auch ein Überspannungsableiter drin. Da kann man jetzt auch Monitoring reinbauen, Temperaturen überwachen. Also das ist sozusagen auch hier der Versuch zu zeigen, das Grundprinzip ist das Gleiche.
+
+(0:10:48 - 0:10:59)
+Die Checkliste sieht halt nur vielleicht ein bisschen anders aus. Und ein Foto haben wir noch mit reingenommen. Ja, also so könnte so eine AC-Sammelkasten sozusagen aussehen.
+
+(0:10:59 - 0:11:15)
+Es gibt auch kleinere, die im Feld verteilt sind, aber vielleicht hier nochmal ein ganz großer für die Kollegen aus dem Dachbereich. Auch das ist für uns jetzt erstmal sozusagen das Pendant, also das AC-Sammelkastenprinzip. Hier wird vom Dach in der Niederspannungsverteilung zusammengesammelt.

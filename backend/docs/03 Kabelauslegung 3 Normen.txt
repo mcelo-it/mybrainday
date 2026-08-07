@@ -1,0 +1,140 @@
+(0:00:00 - 0:00:17)
+gehen damit in den Teil der Normen. Normen, da hoffe ich mal, dass alle noch ordentlich Luft haben, noch gut aufpassen können. Das ist aus meiner Sicht, ehrlich gesagt, das, was wir in Deutschland haben, eine tolle Sache, weil viel erklärt wird.
+
+(0:00:17 - 0:00:43)
+Hier bei der String-Kabel-Berechnung muss man sich damit wirklich regelmäßig, ausgiebig beschäftigen, dass man diesen Überblick hat und auch wirklich weiß, welche Norm jetzt sinnhaft ist oder nicht sinnhaft ist. Weil mir selbst, mir persönlich das auch schwerfällt, wenn ihr mich in zwei Wochen anruft und fragt, Holger, welche Norm nimmst du für String-Kabel? Dann muss ich das nachschlagen. Ich kann mir das nicht so gut merken.
+
+(0:00:44 - 0:01:41)
+Und deshalb hilft mir jetzt diese Zusammenfassung am Anfang erst mal selbst auch, damit ich verstehe, welche Normen gibt es denn überhaupt? Wo gucke ich denn rein? Und wie greifen diese Normen ineinander? Ich hoffe, dass wir das hier einigermaßen gut veranschaulichen können und dass euch das vor allem dann später hilft, um schnell mal nachzuschlagen, ja, welche war es denn? Also gut, ich würde jetzt mal sagen, oben drüber steht jetzt erst mal die 0100712 Errichtung von Niederspannungsanlagen und da geht es um Anforderungen an PV-Anlagen. Ich habe mir jetzt dazu mal aufgeschrieben, nur Belastungsgrad 1. Also wenn ich jetzt über eine Kabel-Berechnung spreche, dann wäre die 712 vielleicht gar nicht die erste Norm, die ich mir greifen würde. Aber eben als wichtigen Punkt, diese Norm gibt uns eben erst mal vor, dass wir für Kabel-Berechnungen in PV-Systemen einen Belastungsgrad von 1 annehmen müssen.
+
+(0:01:41 - 0:01:58)
+Das hat die, ich sage mal, die deutsche, die VDE hat das, sage ich mal, aus der europäischen Norm abgeleitet und auch selbst diesen Einser-Belastungsgrad, glaube ich, reingeschrieben. Auf europäischer Ebene steht er erst mal gar nicht drin, aber hier steht er eben als 1 drin. Deshalb müssen wir uns daran erst mal halten.
+
+(0:02:00 - 0:02:23)
+Und ansonsten würde ich sagen, stehen in dieser Norm eher Schutzmaßnahmen und so weiter drin, also nicht unbedingt Themen, die ich jetzt für meine Kabel-Berechnung brauche. Also ich sage mal, keine Angaben für Temperaturkoeffizienten oder Reduktionsfaktoren oder Belastungsgrade, das findet ihr hier nicht. Ihr findet hier den Belastungsgrad 1, ja, das ist es, genau.
+
+(0:02:24 - 0:02:41)
+Und dann gehen wir mal weiter in die VDE 0283-618. Die Norm heißt erst mal Leitung für PV-Systeme, also erst mal ein sehr guter Ansatz, finde ich. Und hier geht es dann erst mal um den Kabelaufbau und Kabelkennzeichnung.
+
+(0:02:41 - 0:03:09)
+Also es ist eine sehr, sehr große Norm, aber viele Themen da drin sind für uns jetzt erst mal gar nicht, ich sage mal, für die Berechnung so entscheidend, weil den Kabelaufbau, haben wir euch ja schon erklärt, ist natürlich wichtig, aber Belastbarkeiten findet ihr in der Norm zum Beispiel nur an Flächen. Da findet ihr jetzt keine Belastbarkeiten in Erde, in Leerrohr und so weiter. Das steht da nicht drin, sondern nur Strombelastbarkeiten an Flächen und den Temperaturfaktoren.
+
+(0:03:10 - 0:03:40)
+Wenn wir später noch mal tiefer in diese Faktoren eingehen, die ihr wirklich braucht, dann werdet ihr feststellen, dass nur der Temperaturfaktor für eine Kabelberechnung noch nicht ausreichend ist, weil ihr braucht auch zum Beispiel Belastungsgrade und so weiter. Also diese Norm gibt einen Temperaturfaktor, aber zum Beispiel keinen Belastungsgrad oder keine Werte für thermische Erdbodenwärmewiderstände oder sonst irgendwas. Also schöne Norm, aber auch wieder nur ein paar Teile von dem, was man braucht.
+
+(0:03:42 - 0:03:54)
+Dann kommt die nächste. Das ist die 02984, Strombelastbarkeit von Kabel und Leitung. Da kann man erstmal eine vollständige Kabelberechnung mit machen, so habe ich es mir zumindest notiert.
+
+(0:03:55 - 0:04:35)
+Also die ist, ich sage jetzt mal, im Sinne der Kabelberechnung vollumfänglich und bezieht sich dann aber tendenziell eher auf die Kabelverlegung in und an Gebäuden. Das heißt, auch hier haben wir erstmal viel Input, viele Details, viele Inhalte, die wir verwenden können, aber übergeordnet ist es eben nicht, das ist eine PV-Anlage, sondern wir verlegen gerade ein Kabel in oder am Gebäude. Und deshalb ist es natürlich nicht ganz so einfach, diese Norm für eine Stringkabelverlegung unter einem Modul anzuwenden, weil da hat man ja schon spezielle Gegebenheiten.
+
+(0:04:37 - 0:05:01)
+Jetzt kommt die 27663, da geht es um Starkstromkabel. Also 0,6 Slash 1 KV in öffentlichen Netzen, das ist, würde ich sagen, auch erstmal eine schöne Norm, aber nicht unbedingt zutreffend für einen Solarpark und Belastbarkeiten werden für die Erdverlegung angegeben. Können wir also verwenden in manchen Teilen, nicht überall.
+
+(0:05:01 - 0:05:23)
+Und es gibt in dieser Norm leider keine Reduktionsfaktoren. Die wiederum müssen wir uns aus einer anderen Norm greifen. Das zeigen wir euch auch gleich hier im Anschluss, direkt nach der Folie nochmal in Tabellenform, wie wir uns diese Normen dann zusammenbauen, damit wir am Ende für verschiedene Verlegetypen die entsprechenden Normen oder die richtigen Normen aus unserer Sicht greifen.
+
+(0:05:23 - 0:05:39)
+So, die letzte ist jetzt die 2761000, Strombelastbarkeit von Starkstromkabeln, da finden wir jetzt Reduktionsfaktoren. Also die Faktoren, die wir in der 603 nicht gefunden haben, sind jetzt hier drin. Und das ist eine Norm für die Mittelspannung.
+
+(0:05:39 - 0:05:55)
+Ja, muss man sich jetzt auch genau überlegen, wo man das ansetzt. So, wir haben da jetzt einfach mal ein wahren Dreieck reingestellt, dass es verschiedene Berechnungsvarianten und natürlich auch Interpretationsmöglichkeiten gibt. Das ist nun mal so.
+
+(0:05:56 - 0:06:35)
+Ich denke aber, dass wir mit der jetzt folgenden Tabelle euch da, naja, ich sag mal, Normen rausgesucht haben oder eine Normenfolge für eine Berechnung, die wir schon, ich sag mal, x-mal so durchgeführt haben und die auch schon regelmäßig geprüft wurde und mit der man, denke ich, nicht ganz falsch liegt. Es gibt immer wieder Diskussionen, aber deshalb machen wir die Berechnungen und reden drüber mit dem Kunden, mit dem Gutachter, mit dem Projektleiter, immer wieder drüber reden und dann denke ich, wenn dann die Kabel bestellt werden, gibt es keine Probleme. Also was wir machen ist, wir überlegen uns erst mal, welche Verlegearten gibt es.
+
+(0:06:36 - 0:06:51)
+So fängt unsere Tabelle an und tragen da jetzt zum Beispiel mal ein im Leerrohr in Luft. Das können wir uns jetzt überlegen, nach welcher Norm wir das berechnen. Es gibt eine Norm, die gibt dann auch noch Referenzverlegearten an mit Buchstaben.
+
+(0:06:51 - 0:07:00)
+Das ist jetzt für die Norm, die gleich folgt, nicht ganz zutreffend. Deshalb habe ich es hier mal in Grau gemacht. Trotzdem wäre das hier die Verlegeart B1.
+
+(0:07:01 - 0:07:18)
+Und jetzt gibt es Belastbarkeiten, die wir uns dann eben auch aus einer Norm raussuchen. Und das ist eben die VDE 0283, 618, Tabelle A3. Da kann jetzt jeder reingehen in die Norm, mal in diese Tabelle gucken und für sich bewerten, ob für die Kabelverlegung im Leerrohr in Luft diese Tabelle auch wirklich die richtige ist.
+
+(0:07:19 - 0:07:34)
+Danach suchen wir uns einen Faktor für die Temperaturreduktion raus und den finden wir eben in der gleichen Norm, aber eine Tabelle später, in der A4. Dann geht es weiter mit der Häufung. Jetzt gibt es hier so einen kleinen Link.
+
+(0:07:34 - 0:08:04)
+Das habe ich mir so als Pfeil reingeschrieben. Die 283618 gibt eben nur diese Temperatur und die Belastbarkeit an und sagt dann, bitte schaut in die IEC 603645 in Tabelle B5217, weil da findet ihr jetzt wiederum Faktoren für die Häufung. So wird das hier in diesem Fall gemacht und dann kann man sich eben aus zwei Normen die Berechnung für das Kabel im Leerrohr in Luft zusammenbauen, sage ich mal.
+
+(0:08:05 - 0:08:18)
+Dann gibt es noch den Erdbodenwärmewiderstand. Der hat hier in Luft erstmal keine Relevanz, deshalb kommt ein Minus rein. Mit diesen Normen in dieser Kombination ist es aus unserer Sicht sinnhaft, dieses Kabel zu berechnen.
+
+(0:08:19 - 0:08:41)
+Das gehen wir jetzt, ich sage mal, im Schweinsgalopp hier durch. Wir haben hier noch weitere Normen aufgeführt oder weitere Verlegearten vor allem aufgeführt, die wir nach den entsprechenden Normen berechnen. Ich gehe die jetzt nicht im Einzelnen durch, weil sonst enden wahrscheinlich die zwei Stunden hier nach Folie 78 und das wäre nicht zielführend.
+
+(0:08:41 - 0:08:59)
+Für euch, denke ich, ist das am Ende eine gute Hilfestellung, wenn mal ich ein Kabel im Leerrohr in Erde verlegen will. Welche Norm kann ich da ansetzen? Dann könnt ihr hier reinschauen und habt, denke ich, gleich erstmal einen guten Ansatz, wie das Ganze funktioniert. Stringkabel in Erde gibt es ja auch noch.
+
+(0:08:59 - 0:09:17)
+So machen wir das und so ist das, denke ich, auch erstmal sinnvoll. Später, das sind dann die letzten drei Kapitel, die wir hier haben, machen wir dann eben eine Beispielrechnung. Zwei Leitungen berührend entlang der Unterkonstruktion in Luft, weil wir denken, dass das eine klassische Verlegung ist.
+
+(0:09:18 - 0:09:28)
+Stringkabel an Modulen an der Unterkonstruktion in Luft. Dass wir das dann einmal durchgehen und ihr das dann wirklich mal gesehen habt, wie man so ein Stringkabel berechnet. Das waren die Normen für Stringkabel.
+
+(0:09:29 - 0:09:38)
+Jetzt das Gleiche für Niederspannungskabel. Hier doppeln sich die Normen, das seht ihr schon. Die 2984, die gibt es auch oben.
+
+(0:09:39 - 0:09:52)
+Auch hier sind die gleichen Hinweise drin. Eine Norm für die Gebäudeverlegung, auch wenn sie vollständig ist, nicht immer zutreffend für uns. Dann gibt es die 276603.
+
+(0:09:53 - 0:10:11)
+Starkstromkabel in öffentlichen Netzen. Ist auch gut, kann man mit arbeiten, auch wenn sie nicht immer 100% zutreffend ist und sie keine Reduktionsfaktoren bietet, weil die ziehen wir uns aus der 1000, die dann jetzt hier gezeigt wird. Da sind die Reduktionsfaktoren drin für die 603.
+
+(0:10:13 - 0:10:32)
+Hier ist dann noch der Hinweis darauf, dass es eine Mittelspannungsnorm ist. Auch hier gibt es wieder verschiedene Berechnungsvarianten und Interpretationen. Das geht tatsächlich auch so weit, dass wir für manche Kunden auch schon Kabel nach IEC-Normen berechnet haben, obwohl es Kabel sind, die nach VPE gebaut wurden.
+
+(0:10:32 - 0:10:50)
+Das ist sehr komplex, sehr vielschichtig das Thema. Jetzt kommt noch das Niederspannungskabel als Tabelle. Wie berechnen wir Niederspannungskabel, damit ihr nochmal eine Tabelle und eine Übersicht habt, wie das funktionieren kann.
+
+(0:10:51 - 0:11:06)
+Im Leerrohr in Erde gehen wir jetzt mal durch. Da gibt es eine Referenzverlegerart. Die Belastbarkeit holen wir uns aus der 2984, Tabelle 4. Den Temperaturkoeffizienten eben auch aus der 2984, aus den Tabellen 19 und 21.
+
+(0:11:08 - 0:11:24)
+Die Häufung findet ihr dann in der Tabelle 25. Den Erdbodenwärmewiderstand in der Tabelle 20. So ist das einmal durchgängig nach einer Norm berechnet und funktioniert dann, denke ich, auch sehr gut.
+
+(0:11:25 - 0:11:38)
+Dann gibt es aber in einem Solarpark für Niederspannungskabel noch viel mehr Anwendungsfälle. In Erde ist, denke ich mal, ein Klassiker und wird wahrscheinlich auch über große Strecken angewendet. Und in Luft gibt es dann auch noch.
+
+(0:11:38 - 0:11:50)
+Wir berechnen dann ja in der Regel für ein Kabel den letzten Meter unterm Wechselrichter. Vielleicht in Luft dann die längste Strecke in Erde. Und wenn wir dann nochmal eine Straßenkreuzung haben, eventuell auch nochmal ein Kabel im Leerrohr.
+
+(0:11:50 - 0:12:09)
+Also dass man dann für ein Kabel mehrere Berechnungsfälle hat, die dann hoffentlich alle positiv ausfallen. Später haben wir hier eingerahmt, machen wir euch die Berechnung in Erde einmal als Beispiel. Und jetzt gucken wir uns auch nochmal an, was wir im Gebäude für Normen haben.
+
+(0:12:09 - 0:12:28)
+Das ist jetzt nochmal ein bisschen detaillierter und kommt hier als Tabelle rein. Da geht es dann ja eher um Kabelwannen oder Kabelpritschen oder Kabel an der Wand, Kabel auf Steigleitern. Hier auch nur kurz, dass ihr es gesehen habt, welche Normen da sinnhaft sind und welche man da anwenden kann.
+
+(0:12:29 - 0:12:45)
+Nehmt das mit, wenn ihr rechnen müsst, wenn ihr einen Anhaltspunkt braucht. Wie machen es andere, wie machen es wir? Dann könnt ihr das vergleichen und damit, denke ich mal, in die Diskussion gehen. Das letzte ist das Mittelspannungskabel.
+
+(0:12:46 - 0:12:57)
+Hier haben wir dann die 276620. Die ist jetzt neu dazu gekommen. Die ist jetzt für Mittelspannung, Aufbau- und Prüfanforderungen findet man da drin sehr viel.
+
+(0:12:57 - 0:13:13)
+Da geht es dann darum, wie wird im Werk das Kabel geprüft zum Beispiel. Für uns in der Berechnung nicht sehr relevant, aber wir finden hier Strombelastbarkeiten und keine Reduktionsfaktoren. Dafür wiederum, das ist ein bisschen anstrengend, aber müssen wir leider durch.
+
+(0:13:13 - 0:13:37)
+Dafür wiederum gibt es nämlich die 2761000 und da sind die Strombelastbarkeiten drin, Entschuldigung, die Reduktionsfaktoren, die wir eben in der 620 nicht hatten. So ergänzen sich diese beiden Normen und so kann man mit diesen beiden Normen Mittelspannungskabel berechnen. Wir haben hier im Leerrohr in Erde mal als Beispielberechnung gemacht.
+
+(0:13:38 - 0:13:46)
+Da gibt es eine Referenzverlegerart. Dann nehmen wir die 2984. Dann nehmen wir Temperaturkoeffizienten.
+
+(0:13:46 - 0:14:08)
+Dann nehmen wir ein Häufungskoeffizienten aus diesen entsprechenden Normen und auch einen Erdbodenwärmewiderstand. Wenn wir das Kabel in Erde verlegen, dann kommen wir zu der 620, die wir eben hatten, und zu der 2761000 für den Temperaturkoeffizienten und so weiter. Das ist jetzt, glaube ich, ein bisschen müßig, da auf jeden Berechnungsfall im Detail einzugehen.
+
+(0:14:08 - 0:14:22)
+So viel Zeit haben wir leider auch gar nicht, aber auch hier, ihr habt es jetzt. Später kommt dann die Berechnung in Erde einmal als Beispiel. Das waren die Normen, die VDE-Normen, so würde ich es mal bezeichnen.
+
+(0:14:22 - 0:14:32)
+Es gibt natürlich das Äquivalent dazu, die internationalen Normen. Die werfen wir euch jetzt hier einfach mal rein, also die IEC-Normen. Danach kann man natürlich auch Kabel berechnen.
+
+(0:14:32 - 0:15:01)
+Aber immer Achtung, Achtung, wenn ihr jetzt ein NA-ÜPS-ÜPS-Kabel habt oder ein Mittelspannungskabel, was nach VDE gebaut und geprüft wurde, ist es immer ein bisschen schwierig, diesen Link zu schaffen und nach einer IEC-Norm zu berechnen. Also wenn ihr nach IEC berechnet, würde ich sagen, bestellt auch Kabel, was nach IEC gebaut wurde, weil sonst habt ihr da immer eine kleine Lücke und kriegt die, glaube ich, nicht so richtig geschlossen. Wir haben es trotzdem mal gemacht.
+
+(0:15:02 - 0:16:08)
+Wir haben ein VDE-Kabel genommen, das sieht man hier ganz gut an der Bezeichnung, und haben einfach mal eine Beispielrechnung gemacht mit einem Betriebsstrom und so weiter, mit Rahmenfaktoren, die wir angenommen haben, zum Beispiel auch einen Belastungsgrad, den es in der IEC gar nicht gibt, den gibt es nur in der VDE, und haben dann mal gesagt, wir berechnen euch mal das Kabel nach VDE und kriegen dann bei dieser gewählten Verlegeart mit den entsprechenden Faktoren, die wir uns nach unserem Muster rausgesucht haben, eine resultierende Belastbarkeit von 247 Ampere, würde ich sagen, nach VDE. Wenn wir das Ganze nach IEC gemacht hätten oder mit einem XLPE-Kabel, sagen wir mal, was ja baulich sehr, sehr identisch ist, aber trotzdem nicht das Gleiche, kommt ein resultierender Strom raus, der etwas höher ist. Also ein IEC-Kabel ist offensichtlich besser als ein VDE-Kabel, beziehungsweise ist die VDE-Berechnung dann wahrscheinlich etwas strenger, etwas konservativer und reduziert uns die Belastbarkeit des Kabels etwas mehr.
+
+(0:16:08 - 0:16:28)
+Also die deutschen, die VDE, ist da, denke ich, eher auf der sicheren Seite, sodass wir mit unseren Kabelberechnungen, glaube ich, immer ein gutes Gefühl haben können, dass die auch halten. Hier wieder der Hinweis, Berechnung nach IEC, Herstellung und Prüfung der Kabel nach VDE, immer schwierig. Das ist schwierig, merkt euch das, würde ich nicht empfehlen.

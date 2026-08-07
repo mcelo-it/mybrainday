@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:27)
+PowerPoint-Präsentation und gucken uns jetzt noch an das Design Level 1. Dann machen wir eben eine gemeinsame kleine Übung und dann gibt es auf jeden Fall auch eine Pause, die ist ganz klar festgesetzt. Also für alle, die jetzt das Gefühl haben, sie müssten sich ein Glas Wasser holen, tut es jetzt nicht, sondern in 15 Minuten. Also wir fangen an mit dem Design Level 1 und jetzt verabschieden wir uns als erstes Mal von den schönen 3D-Modellen.
+
+(0:00:27 - 0:00:36)
+Die sind in so einer Zeichnung nicht hilfreich. Wir machen das anders. Wir persönlich machen es genau so, wie wir es jetzt hier darstellen.
+
+(0:00:36 - 0:00:57)
+Aber klar ist, das ist jetzt kein fancy 3D-Modell mehr, sondern jetzt wird es zweidimensional. Und jetzt muss man sich halt vorher gemerkt haben, wie sowas in Realität aussieht. Man muss ja jetzt ein bisschen Matrix mäßig umdenken und sich das Ganze jetzt immer hier in diesem wir nennen es Splice-Plan oder LWL-Topologie-Plan-Darstellung vorstellen können.
+
+(0:00:57 - 0:01:03)
+So sieht das jetzt aus. Wir haben eine Übergabestation. Da starten wir jetzt mal und ich habe es links oben aufgeschrieben.
+
+(0:01:03 - 0:01:17)
+Wir starten mal mit dem Patch-Kabel. Wir wollten das so machen, dass wir halt wirklich in aller Ruhe anfangen, nicht alles gleichzeitig erzählen, sondern jetzt einmal nur hier einen Switch reingesetzt haben. Und der aufmerksame Zuschauer sieht das schon.
+
+(0:01:17 - 0:01:27)
+Da ist jetzt nur ein TX. Also jetzt mache ich erst mal nur mein Transmit-Signal und brauche jetzt als nächstes eine Splice-Box. Da auch, das ist Absicht.
+
+(0:01:27 - 0:01:38)
+Die Splice-Box hat jetzt nur den Eingang A1, weil mit dem fangen wir mal an. Direkt über mir seht ihr so eine Tabelle. Das ist, wenn man so will, die Spezifikation, die am Schluss in den Einkauf geht.
+
+(0:01:38 - 0:01:52)
+Und die wird jetzt immer mit locken. Je nach Topologie, je nach Design, umso komplexer es wird, umso mehr Zahlen stehen da oben. Wenn wir mal einfach anfangen, haben wir jetzt also ein Stück Splice-Box mit einem Eingang.
+
+(0:01:52 - 0:02:04)
+Unabhängig davon, dass man das so, glaube ich, nicht bestellen kann, wäre das jetzt erst mal so. Also wir würden jetzt eine Splice-Box kaufen mit einem Eingang und dann wäre unser Design ja schon abgehakt. So einfach ist es natürlich nicht.
+
+(0:02:04 - 0:02:21)
+Ich zeichne die gestrichelte Verbindung ein zwischen dem Switch Transmit und dem Eingang A1 in der Splice-Box. Und in der Tabelle seht ihr jetzt schon, jetzt brauche ich also ein Patch-Kabel. Außerdem nicht vergessen, ich brauche ein SFP-Modul, hatte ich vorhin schon gesagt.
+
+(0:02:21 - 0:02:28)
+Man sieht das jetzt hier nicht, aber das muss man eben bei dem TX da reinstecken. Sonst funktioniert da gar nichts. Sonst hält ehrlich gesagt auch das Patch-Kabel gar nicht.
+
+(0:02:29 - 0:02:54)
+Aber in dem Moment, wo man das erkennt, dass das nicht hält, ist es dann für den Moment schon zu spät. Also lieber vorher nochmal überlegen, ob man es ausreichend dimensioniert und bestellt hat. Der nächste Schritt wäre, dass man ein LWL-Kabel verbaut, in den Kabelgraben legt und das sinnhafterweise dann eine Gegenstelle hat.
+
+(0:02:54 - 0:03:09)
+Das ist bei uns jetzt die TRAFO-Station 1. Da haben wir auch einen Switch drin, da haben wir auch eine Splice-Box drin. Ist jetzt erst mal komplett baugleich und jetzt seht ihr in meiner Tabelle, das sage ich jetzt nicht jedes Mal, da kann jeder natürlich gerne selber drauf achten. Da haben wir jetzt die Zahl geändert.
+
+(0:03:09 - 0:03:24)
+Jetzt haben wir zwei Splice-Boxen und die haben aber weiterhin jeweils nur einen Eingang. Die LWL-Linie habe ich jetzt reingezeichnet und auch das ist Absicht. Die ist jetzt erst mal weiß gezeichnet.
+
+(0:03:24 - 0:03:45)
+Die Farbe wird sich noch ändern, aber in unserer Logik ist es so, wenn man ja eh nur eine Faser hat, also dann braucht man jetzt auch den Farbcode nicht. Deswegen haben wir es erst mal weiß gemacht. Das ist die Verbindung und die geht jetzt weiter von dem A1, genau, da haben wir die Stücke hochgezählt, in unseren Switch rein.
+
+(0:03:46 - 0:03:54)
+So, jetzt kommt der nächste Schritt für mich, den ich darstellen will. Diese berühmte Kreuzung zwischen TX und RX. Die ist an sich ganz einfach.
+
+(0:03:55 - 0:04:26)
+Bis jetzt haben wir aber nur das Transmit uns angeguckt und jetzt nehmen wir dieses Receive mit rein. Das ist in dem Switch schon so vorgesehen, man ja vorhin auch gesehen, das war eine einzelne separate Buchse. Jetzt haben wir sie mit drin, aber wenn die jetzt eben mit drin ist, dann kommt jetzt der ganz große Trick, den ich auch selbst in meiner Karriere ganz am Anfang schmerzhaft lernen musste, dass jetzt von der Splice-Box A1 das Patchkabel eben nicht an die gleiche Stelle geht wie eine Übergabestation, sondern jetzt muss die Drehung rein.
+
+(0:04:26 - 0:04:48)
+Ich hoffe, das ist klar und deutlich zu sehen, dass diese Linie jetzt auf das RX geht und nicht wie in der Übergabestation auf das TX. Und ich glaube, jetzt wird spätestens klar, wenn ich ja zweimal das gleiche Patchkabel gekauft habe, dann kann ich das so ja gar nicht machen. Deswegen musste ich bei der Station 1 diesen Stecker entfernen, einmal die Phasen drehen, wieder zumachen.
+
+(0:04:48 - 0:05:01)
+Und wenn ich ihn dann reinstecke, dann sieht es so aus, wie es jetzt hier ist. So, damit haben wir dann diese TX- und RX-Kreuzung erst mal erfolgreich bestanden. Rechts oben verändern sich die Zahlen also immer so ein bisschen mit.
+
+(0:05:01 - 0:05:10)
+Jetzt haben wir ja schon zwei Patchkabel und die haben wir unterschiedlich belegt. Jetzt kommt der nächste Schritt. Ich nenne es Voll-Duplex.
+
+(0:05:10 - 0:05:25)
+So ist das LWL-Kommunikationssystem ausgelegt. Voll-Duplex bedeutet eben, dass es ein Transmit und ein Receive gibt, also ein Duplex-Signal. Es geht immer hin und zurück, wenn der Switch das Rückwärts-Signal nicht erhält.
+
+(0:05:25 - 0:05:31)
+Obwohl er gesendet hat, dann wird er das so nicht annehmen. Er wartet immer auf eine Rückmeldung. Also es sind immer zwei Wege.
+
+(0:05:32 - 0:05:47)
+Und warum habe ich das hier so groß dargestellt? Weil jetzt muss es ja auch wieder zurückgehen, das Signal. Das machen wir jetzt mal mit dem Farbcode als erstes. Genau, weil jetzt kommt nämlich eine zweite Faser, die ja mitverwendet wird.
+
+(0:05:47 - 0:05:59)
+Ihr habt es gesehen, in der Splicebox gibt es jetzt plötzlich auch das B1. Das ist sozusagen der Buddy, der Partner, der jetzt da dazugehört. Und jetzt geht die Linie zurück vom TX über das B1.
+
+(0:05:59 - 0:06:14)
+Die Faser ist gelegt und gespliced und von dort, ganz wichtig, auf das RX. Also auch da geht jetzt wieder TX auf das RX, nur in die andere Richtung. Jetzt haben wir die Kreuzung gebaut und wir haben das Voll-Duplex-System integriert.
+
+(0:06:15 - 0:06:25)
+Und jetzt machen die Farben auch Sinn. Wenn man jetzt sozusagen die Spliceboxen zum Beispiel anders gespliced hätte, funktioniert das schon nicht mehr. Jetzt würden ja Transmit und Receive schon nicht mehr passen.
+
+(0:06:26 - 0:06:31)
+Also das muss stimmen. Und von außen kann ich das auch nicht sehen. Deswegen ist dieser Code halt so sinnvoll.
+
+(0:06:32 - 0:06:40)
+Ich habe oben in der Tabelle auch jetzt das LWL-Kabel geändert, wer das gesehen hat. Jetzt braucht man nämlich schon ein LWL-Kabel mit mindestens zwei Fasern. Das mal vorweg.
+
+(0:06:40 - 0:06:52)
+Das werden immer mehr. Aber hätten wir jetzt in der Theorie eins verlegt mit nur einer Faser, dann würde es schon nicht mehr funktionieren. So, das war erst mal jetzt die Grundlage.
+
+(0:06:52 - 0:07:08)
+Und jetzt würde ich das gerne vor der Pause noch zehn Minuten lang ausprobieren mit der Übung 1 und Miro. Dazu brauchen wir, wie sieht man das auch noch mal? Das ist meine Lösung. Ich habe C. C ist für mich richtig.
+
+(0:07:08 - 0:07:19)
+Und das liegt an der Zuordnung von TX auf A1 und RX auf B1. So, jetzt kommt die versprochene Kaffeepause. Wir machen vier Minuten, würde ich sagen, machen wir Pause.
+
+(0:07:19 - 0:07:27)
+Dann ist es neun Uhr zehn. Und dann haben wir noch schöne Varianten in unserem Design vorbereitet. Bis gleich.

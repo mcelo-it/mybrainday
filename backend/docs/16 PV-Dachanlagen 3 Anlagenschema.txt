@@ -1,0 +1,314 @@
+(0:00:00 - 0:00:09)
+Also Kabelberechnung habe ich gezeigt am Beispiel Dachanlagen. So würden wir das machen. Jetzt schauen wir uns das Anlagenschema an.
+
+(0:00:09 - 0:00:22)
+Das ist ein großes Kapitel, in dem unglaublich viel Know-how steckt. Wir haben einen zweistündigen Brainday, in dem wir uns ausschließlich das Anlagenschema anschauen. Darauf verweise ich gerne.
+
+(0:00:22 - 0:00:42)
+Also das finde ich, würde ich jetzt mal in meiner Logik hier als Grundlage ansetzen. Und weil das sozusagen jetzt so viel Grundlage schon geschaffen ist, gehen wir jetzt bei so einer Dachanlage relativ zügig durch so ein Schema und gucken uns an, auf was man da so achten muss. Und im ersten Schritt würde ich das so machen.
+
+(0:00:42 - 0:00:53)
+Ich habe also ein neues Projekt. Dann sage ich jetzt den Kunden oder dem Projektleiter erst mal, er solle mir bitte die Bestandsplanung schicken. Damit meine ich die elektrotechnischen Pläne.
+
+(0:00:53 - 0:01:13)
+Die brauche ich mal als allererstes. Wenn es ein Neubau ist, ist das meistens relativ einfach, weil das ist ja dann gerade in der Mache bei Bestandsanlagen meistens schwieriger. Führt oft dazu, dass jemand hinfahren muss und tatsächlich Fotos macht oder einscannt die Pläne, die in der Übergabestation zum Beispiel in so einer Tasche stecken.
+
+(0:01:13 - 0:01:24)
+Also so ist das oft. Anders kommt man da nicht weiter. Erinnert eure Projektleiter daran, dass sie bitte jetzt nicht ein also sie können eine Solarmodule aufs Dach setzen, das hielt sie keiner daran.
+
+(0:01:24 - 0:01:40)
+Aber wir brauchen diese elektrotechnischen Pläne von der von der Bestandsanlage. Sonst werden wir im Prozess der Zertifizierung und dann auch der Inbetriebnahme nicht zum Ziel kommen. Wir gucken uns also die Bestandsplanung an und vergleichen das Ganze mit den aktuellen Anforderungen.
+
+(0:01:40 - 0:01:59)
+Das ist sozusagen die große Herausforderung jetzt bei Elektroplanung für Dachanlagen, dass sie diesen Schritt greifen können. Dafür brauchen sie die Pläne und auf der anderen Seite oder in der anderen Hand brauchen sie eben die aktuellen Anforderungen. Das steht in der 41 10 drin und das steht in den technischen Anschlussbedingungen drin.
+
+(0:01:59 - 0:02:19)
+Die ändern sich regelmäßig, wenn das Dach zehn Jahre oder die Gebäude zehn Jahre alt ist, bin ich ganz sicher, dass da jetzt Unterschiede zu finden sind. Und die machen wir jetzt mal beispielhaft. Was meine ich denn damit? Deswegen habe ich es jetzt mal orange gemacht, um das Ganze so ein bisschen die Dringlichkeit auch farblich rüberzubringen.
+
+(0:02:20 - 0:02:26)
+Wir starten in der Übergabestation. Da ist er. So machen wir das in so einem Anlagenschema.
+
+(0:02:26 - 0:02:45)
+Einfach nur als Rechteck dargestellt und gucken uns jetzt vom Bezugspunkt aus an vom Einspeisepunkt aus an. Erst mal startend so ein Eingangsfeld. Das ist bei Gebäuden ist das ganz oft so ein Ring, so ein Ringkabel fällt also rein und wieder raus.
+
+(0:02:45 - 0:03:03)
+Dann sieht man da auch den Übergang vom Kunden zum Netzbetreiber. Und das gucken wir uns jetzt noch mal ein bisschen detaillierter an. Also wie gesagt, auf Kleinigkeiten darf ich mich jetzt nicht hinreißen, dass darauf einzugehen, weil das machen wir eben in anderen Schulungs Einheiten.
+
+(0:03:03 - 0:03:13)
+Wir nehmen den jetzt einfach mal so hin und fokussieren uns darauf, was wir nicht sehen. Und das sind jetzt zum Beispiel die Kurzschluss Anzeiger. So würden die aussehen.
+
+(0:03:13 - 0:03:27)
+Und jetzt stellen wir also fest, die gibt es nicht. Aber in der aktuellen Tab werden die gefordert. Zeichne ich mir unbedingt, ich sage mal, orange in mein Schema ein, damit dann auch alle Beteiligten sofort erkennen, dass das ja offensichtlich jetzt erst mal noch ein Problem ist.
+
+(0:03:28 - 0:03:40)
+Typischer Unterschied aus unserer Erfahrung ist dann auch Motorantrieb. Also moderne Gebäude haben das, aber gerade die älteren definitiv nicht. Sowas ändert sich halt im Laufe der Zeit.
+
+(0:03:41 - 0:03:46)
+Und jetzt muss man es gegebenenfalls nachrüsten. Dazu kommen wir später. Erst mal Schritt eins.
+
+(0:03:47 - 0:04:03)
+Was ist denn überhaupt der Unterschied? Also da haben wir schon unsere ersten orange markierten Highlights und ich nehme das schon mal vorweg. So ein Motor nachzurüsten ist nicht ganz einfach. Also aber das ist nicht für jetzt sozusagen der entscheidende Punkt, sondern wir sammeln ja erst mal die Problemfälle sozusagen.
+
+(0:04:04 - 0:04:09)
+Weiter geht's. Über mir seht das schon das Übergabefeld. Also das nächste ist immer das Übergabefeld.
+
+(0:04:09 - 0:04:19)
+Wir machen es wieder genauso. Wir zoomen es erst mal raus und gucken uns das im Detail an. Und jetzt kann ja jeder schon mal überlegen, was er glaubt, was jetzt fehlen könnte.
+
+(0:04:19 - 0:04:31)
+Ich sage es euch. Es ist auf jeden Fall der Schutz. Beim Schutz kann man jetzt mal ganz sicher sein, dass wenn die PV, die PV Anlage nicht mit berücksichtigt worden ist, dass man dann jetzt hier was tun muss.
+
+(0:04:32 - 0:04:41)
+Sehen wir im Kapitel Schutzschema dann auch noch mal detaillierter. Aber grundsätzlich gibt es erst mal die Anforderungen nach Frequenz, Spannung und Schutz. Das ist so.
+
+(0:04:41 - 0:04:59)
+Und jetzt kann man sich überlegen, wie ihr hier seht, haben wir den nicht. Da ist jetzt einfach nur ein UMZ drin mit den zwei Überstromstufen und aber keine Frequenz, Spannung und Schutzfunktion. Was könnte man machen? Ich zeige euch mal die Funktion 1. Ich baue da noch mal ein zusätzliches Schutz Relais ein.
+
+(0:04:59 - 0:05:13)
+Und diese Gestriche, die nach unten, die ist da nicht aus Versehen, sondern die geht zum Spannungswandler. Kommen wir auch noch dazu. Also für diese zum Beispiel Unterspannungsfunktion brauche ich ja einen Spannungs Messwert und den habe ich hier gar nicht.
+
+(0:05:13 - 0:05:20)
+Also haben wir dann schon gleich wieder das nächste Folge Problem. Aber jetzt erst mal geht es ums Relais. Die Funktionen sind überhaupt nicht da.
+
+(0:05:20 - 0:05:30)
+Ich könnte also ein zusätzliches Relais einsetzen. Was ich alternativ machen könnte, ist und ich glaube, das ist eigentlich der richtige Weg. Ich tausche das ganze Relais aus.
+
+(0:05:30 - 0:05:41)
+Also dieses alte Relais, wenn man so will, kommt raus. Es kommt ein neues rein, das jetzt zusätzlich die geforderten Schutzfunktionen bietet. So, dann hatte ich die Brücke schon ein bisschen geschlagen.
+
+(0:05:41 - 0:05:47)
+Zum nächsten Punkt. Jetzt brauchen wir dann aber auch ein Messkern. Und bei dem müssen wir wiederum auf Messgenauigkeiten achten.
+
+(0:05:48 - 0:06:00)
+Anderer Brain Day. Da braucht jetzt für neue Schutzfunktionen neue Messkerne mit den entsprechenden Messgenauigkeiten. Eine Unterspannungsspule sehe ich ja auch nicht.
+
+(0:06:00 - 0:06:07)
+Könnte in der Tab stehen. Ich zeichne sie hier mal ein. Also da haben wir dann auch noch einen kleinen Problemfall zu lösen.
+
+(0:06:07 - 0:06:12)
+Und auch hier vielleicht ein Motor. Da ist er so. So würde das hier aussehen.
+
+(0:06:12 - 0:06:24)
+Also ist sogar noch mehr geworden sozusagen gegenüber dem Eingangsfeld, was da eventuell nachzurüsten ist. Jetzt kommt das Messfeld. Ich schlage auch gleich die Brücke vor meinem Schutz Relais.
+
+(0:06:25 - 0:06:30)
+Aber jetzt kommt ja erst mal als nächstes das Messfeld. So, da ist es. Da unten ist ein Zählerschrank.
+
+(0:06:30 - 0:06:33)
+Den haben wir schon drin. Da bin ich sehr sicher. Das ist schon sehr gut.
+
+(0:06:34 - 0:06:42)
+Aber ihr werdet trotzdem sehen, dass auch hier wieder einiges nachzurüsten ist. Erst mal die Zählung ist schon drin. Deswegen ist sie weiß.
+
+(0:06:43 - 0:06:55)
+Aber ich werde wahrscheinlich noch mehr Kerne benötigen. Einmal für eine Messung. Ich habe es in Klammern geschrieben, die würden wir dann nutzen mit einem Netzanalyse Gerät für unsere Parkregelung.
+
+(0:06:56 - 0:07:06)
+Sehe ich hier nicht. Deswegen füge ich sie mal ein. Jetzt haben wir plötzlich beim Spannungswandler zusätzliche Messkerne und für den Schutz würden wir auch noch einen vorsehen.
+
+(0:07:06 - 0:07:20)
+Und da unten links habe ich jetzt auch noch Stromwandler Kerne hinzugeführt. Also sowohl für die Spannungs Messung als auch für die Strom Messung brauche ich jetzt zusätzliche Kerne. Und bei diesen Kernen achte ich auf die Genauigkeits Klassen.
+
+(0:07:20 - 0:07:45)
+Deswegen schreibe ich die da auch schon mal hin. Das macht man nicht in fünf Minuten, sondern da muss man sich im Detail in Ruhe durch die THBs lesen. Dann muss man sich das in Ruhe hier aufschreiben und im besten Fall auch noch den Strom und Spannungswandler sich angucken, damit man überhaupt das bewerten kann, ob vielleicht die aktuellen Strom und Spannungskerne ja schon ausreichend sind.
+
+(0:07:46 - 0:08:04)
+Also in unserem Fall ist wieder einiges orange geworden und jetzt führen wir diese Regelungs Verbindung hier noch unten rein und schieben uns alles mit und sehen auch da gibt es einiges zum Nachdenken. Für alle, die es gerade hier gesehen haben. Ich mache es noch mal.
+
+(0:08:04 - 0:08:16)
+Unser Schutz Relais, das wir ja nachgerüstet haben, das müssen wir mit einem Spannungswandler Kern verbinden, den wir jetzt nachgerüstet haben. Weiter geht's. Wir gehen ins Abgangsfeld der Übergabestation.
+
+(0:08:16 - 0:08:23)
+Da haben wir jetzt mal zwei eingezeichnet. Ich werde euch gleich zeigen, warum das interessant ist. Aber auch hier zoomen wir erst mal rein.
+
+(0:08:23 - 0:08:37)
+Da haben wir jetzt beispielhaft eben zwei Abgangsfelder einer Sicherung und der andere ist ein Leistungsschalter. Und da sage ich jetzt erst mal gute Nachrichten. So wie ich das hier sehe, würde ich jetzt erst mal keine Änderungen für erforderlich halten.
+
+(0:08:37 - 0:08:43)
+Das ist erst mal positiv. Ich gebe nur einen Hinweis. Wir werden ja dann hier nicht nur Verbrauch haben.
+
+(0:08:43 - 0:09:03)
+Das ist sozusagen die alte Logik, sondern da unten steht es jetzt. Wir werden ja jetzt auch hier in diesem Abgangsfeld 05 muss der Planer wissen, welches Feld er nutzt, auch eine Erzeugung haben. Das heißt, jetzt geht der Strom plötzlich in beide Richtungen und dann muss man sich auch da wieder überlegen, ob der Nennstrom denn jetzt in diesem Fall der Sicherung überhaupt noch der richtige ist.
+
+(0:09:04 - 0:09:10)
+Machen wir gleich auch einen Transformator. Und dann sage ich gleich, wenn der Transformator groß genug ist, ist auch die Sicherung groß genug. Aber man prüft es dennoch.
+
+(0:09:10 - 0:09:24)
+Also was ist der Nennstrom eurer PV-Anlage? Und der darf um Gottes Willen nicht dazu führen, dass diese Sicherung durchbrennt. Sonst habt ihr ja da ganze Logistikhalle abgeschaltet. Also den prüfen wir.
+
+(0:09:24 - 0:09:30)
+Und deswegen habe ich ihn trotzdem mal orange gemacht. Im Zweifel muss er ja dann nicht geändert werden. Aber dann hat man ihn sich zumindest noch mal in Ruhe angeguckt.
+
+(0:09:31 - 0:09:39)
+Hier sind wir erst mal fertig. Die Übergabestation hat es geschafft. Wir sind mit ihr zufrieden oder oder auch nicht.
+
+(0:09:39 - 0:09:51)
+Aber wir haben es zumindest abgearbeitet. Der ganze Pfeil ist noch zur Seite gerutscht und ich habe den Anfang des Pfeiles hier noch stehen lassen, damit man jetzt weiß, wo man herkommt. Also das Abgangsfeld sind wir jetzt weitergegangen.
+
+(0:09:51 - 0:10:02)
+Das Kabel geht ins Gebäude und jetzt sind wir mittendrin. Und stoßen als erstes mal auf den Transformator. Im Beispiel steht er jetzt im Gebäude in irgendeinem kleinen Nebenraum.
+
+(0:10:02 - 0:10:09)
+Da ist er unser Transformator. Und da ist das Gleiche wie beim Abgangsfeld. Prüft die Nennenleistung.
+
+(0:10:09 - 0:10:20)
+In diesem Fall bitte nicht zwei Megawatt Wechselrichterleistung installieren. Dann haben wir da ein Problem. Deswegen orange markiert und die Unterspannung Seite.
+
+(0:10:21 - 0:10:43)
+Das Transformator überprüfen mache ich auch orange und weiß an der Stelle darauf hin, dass vielleicht es mir zum Beispiel so geht, wenn ich aus Jahren der Freiflächen Planung dann mal wieder in eine Dachanlage gehe. Ich aufpassen muss, dass ich bei der Spezifikation der Wechselrichter die Unterspannung Seite mit 400 Volt plane. Typischer Unterschied.
+
+(0:10:43 - 0:10:56)
+Freiflächen werden mittlerweile mit 630 oder 800 Volt AC geplant, haben gewisse Vorteile. Dachanlagen nicht, liegt in der Natur der Sache. Ich kann ja hier nur in 400 Volt Wechselrichter anschließen.
+
+(0:10:57 - 0:11:16)
+Und das indirekt führt übrigens dazu, dass man dann meist 1000 Volt DC Systeme hat und nicht 1500 Volt Systeme. Also kleine Zahl, klein orange gemacht. Aber wenn man hier warum auch immer Denkfehler hatte und dann 1500 Volt Geräte mit 800 Volt einplant, wird das Ganze nicht funktionieren.
+
+(0:11:16 - 0:11:25)
+Dann hat man eine PV Anlage auf dem Dach, die nicht in Betrieb genommen werden kann. Also Unterspannung Seite beachten. Weiter geht's.
+
+(0:11:25 - 0:11:31)
+Wir gehen in so eine Niederspannung Hauptverteilung. Das kommt dann eigentlich immer als nächstes. Das sind so große Schränke.
+
+(0:11:31 - 0:11:41)
+Die sehen wir auch gleich noch in so einer 360 Grad Tour. Also das ist so eine große Schrankwand. Und da geht man jetzt, wenn man zum ersten Mal vor Ort ist, auch hin und guckt sich das mal an.
+
+(0:11:41 - 0:11:50)
+Stromlaufpläne sind natürlich immer besser, aber man kann das vor Ort sich ruhig auch mal genauer angucken. Und dann sieht man eben diesen Hauptschalter da oben. Achtung, jetzt ist er orange.
+
+(0:11:50 - 0:11:57)
+Gleiches Spiel wie beim Trafo. Ihr müsst gucken, ob der Nennstrom euren Ansprüchen genügt. Und auf der anderen Seite.
+
+(0:11:57 - 0:12:08)
+Irgendwo wollen wir ja unseren PV Schrank anschalten. Da müsst ihr gucken, ob der Anzahl und auch der Typ der freien Abgänge ausreichend ist. Also ich sage erst mal, ja, doch, ich habe beides gleichzeitig gemacht.
+
+(0:12:09 - 0:12:19)
+Wir brauchen jetzt, sage ich mal drei mal 630 Ampere. Deswegen habe ich das da oben auch so hingeschrieben. Und das müsst ihr unbedingt vor Ort prüfen, ob sozusagen diese Anforderungen überhaupt gegeben sind.
+
+(0:12:20 - 0:12:26)
+Wenn nicht, muss man die NSRV umbauen. Und auch das passiert nicht in zwei Tagen. Und auch das ist nicht kostenfrei.
+
+(0:12:26 - 0:12:34)
+Also hier auch orange. Jetzt habe ich eine neue Farbe. Das sind für mich gute Nachrichten.
+
+(0:12:34 - 0:12:48)
+Ich schreibe es oben auch rein. Neu. Grün heißt für mich, das ist jetzt nicht mehr die gleiche Logik, dass ihr da das mit sozusagen Bestandsplanung versus aktuelle Anforderungen vergleichen müsst, sondern diesen Schrank, den liefern wir ja neu.
+
+(0:12:49 - 0:12:55)
+Also natürlich wird der nach den aktuellen Anforderungen installiert. Deswegen ist der in meiner Logik jetzt nicht mehr orange. Der ist grün.
+
+(0:12:55 - 0:13:11)
+Der wird genauso gebaut, wie das die aktuelle Norm vorsieht. Schauen wir uns trotzdem natürlich an. Wie sieht so ein Ding aus? Und da haben wir hier als zweite Ebene sozusagen so ein kleines 3D-Modell mit rein gebastelt.
+
+(0:13:11 - 0:13:20)
+Also so sieht so ein Schrank erst mal aus. Und über mir die elektrotechnische Sichtweise, das Ganze. Wir gucken uns Schritt für Schritt an.
+
+(0:13:20 - 0:13:32)
+Tür auf und dann sieht man da drei Sicherungshalter. Das wäre in meinem Anlagen Schema genau so dreimal eine Sicherung. Da sage ich noch dazu, guckt auf die Kabelverlegung.
+
+(0:13:33 - 0:13:47)
+Also 3D-Modell sieht man das jetzt eindeutig. Im Schema kann man es nicht erkennen. Gehen die Kabel nach oben weg? Gehen die nach unten weg? Habt ihr einen Doppelboden? Habt ihr überhaupt genügend Platz für Biegeradien? Kabelbedachten Platzbedarf auch.
+
+(0:13:47 - 0:13:59)
+Wenn da überhaupt kein Platz für so einen Schrank ist, geht's nicht. Die Schränke sind meistens nebeneinander angeordnet, haben dann so einen Durchbruch, so dass man das von außen gar nicht mehr sieht. Das sieht dann aus wie so eine Einheit.
+
+(0:13:59 - 0:14:09)
+Und dann würde der nächste Schrank so aussehen. Da ist jetzt ein Leistungsschalter drin. In unserem Beispiel ist es ein motorbetriebener Leistungsschalter mit einer Unterspannungsspule.
+
+(0:14:09 - 0:14:19)
+So würde der aussehen. Weiter geht's. Dann geht jetzt der Strom fließend ein bisschen nach unten um die Kurve rum und dadurch so rote Stromwandler durch.
+
+(0:14:20 - 0:14:28)
+Im Schema sieht das so aus. Und das wäre jetzt vom Netzbetreiber beispielsweise der Stromwandler. Und da schließt er dann seinen Zählerschrank an.
+
+(0:14:28 - 0:14:37)
+Also in dem Schema ist das ja immer nur eine Linie. In Realität sieht das so aus. Nächster Schrank wird daneben geschoben.
+
+(0:14:38 - 0:14:43)
+Jetzt geht's. Das ist nur ein Beispiel. Der Schrankbauer hat das so gemacht, damit er mehr Platz spart.
+
+(0:14:43 - 0:14:54)
+Jetzt geht die Schiene wieder nach oben. Und da ist dann der nächste Last-Trennschalter verbaut. Braucht dann keine Leistungsschalter-Funktion an der Stelle.
+
+(0:14:55 - 0:15:06)
+Warum, sehen wir später in der Schutztechnik. Aber so wird das meistens gemacht. Also man hat noch eine zweite Trennstelle und die wäre jetzt hier in unserem Fall auch motorbetrieben, auch mit einer Unterspannungsspule.
+
+(0:15:08 - 0:15:12)
+Redundante Trennstelle. Kommt aus der Norm. Deswegen seht ihr da zwei.
+
+(0:15:13 - 0:15:22)
+Jetzt kommt ein Schrank, der ist wieder ein bisschen größer, weil jetzt brauchen wir mehr Platz für mehr Abgänge. In unserem Beispiel sind das vier. Irgendwie ein Überspannungsableiter.
+
+(0:15:22 - 0:15:32)
+Okay. Aber vor allem gehen jetzt in unserem Beispiel da drei Kabel hoch aufs Dach und da werden dann die Wechselrichter angeschlossen. Also auch hier Anzahl und Typ der Abgänge bitte beachten.
+
+(0:15:35 - 0:15:43)
+Kommt sogar noch ein Schrank dazu. Das ist nur symbolisch gedacht für die Datentechnik. Wir haben zwei Geräte da reingehängt, die wir beide uns später angucken werden.
+
+(0:15:43 - 0:15:52)
+Achtung Netzanalyse Gerät kommt jetzt oben im Schema. Da ist es. Hier ist es mit einem Stromwandler angeschlossen und dann hätten wir noch ein zweites drin.
+
+(0:15:53 - 0:16:04)
+Zwischengelagerter NA-Schutz. Seht ihr da auch so leicht in weiß ist das angedeutet und der wäre in unserem Schema dann hier. Das ist jetzt kein Zufall, dass die genau da angeschlossen sind.
+
+(0:16:04 - 0:16:24)
+Aber das sehen wir später im Kapitel Regelungstechnik und Schutztechnik noch genauer, warum das so ist. Hier finde ich erst mal eine super Gegenüberstellung aus der elektrotechnischen Logik über mir. Und wenn man das ein paar Jahre gemacht hat, dann sieht man sozusagen sinnbildlich dann gleich im inneren Auge die 3D-Darstellung, die wir hier noch gezeigt haben.
+
+(0:16:24 - 0:16:31)
+Aber ich finde, beides gehört zusammen. Man muss das sozusagen als Kontext greifen. Und wenn man das kann, dann passieren auch weniger Fehler.
+
+(0:16:34 - 0:16:53)
+So der PV-Schrank, das ist natürlich das Herzstück von unserer Dachanlage jetzt heute. Aber vermeintlich die einfachste Position, weil da reicht wahrscheinlich eine Bestellung gemäß aktueller Norm bei so einem Schaltschrankhersteller. Und dann muss der sich ja die Gedanken machen, wo da welcher Leistungsschalter zu setzen hat.
+
+(0:16:54 - 0:17:13)
+Wir gehen mal weiter und kommen jetzt zu der vermeintlich einfacheren Seite von so einer PV-Anlage, nämlich der PV-Anlage. Also wenn man jetzt hier weiter ein Kabel aufs Dach zieht, bei uns im Schema nach unten, in Realität meist nach oben. Dann kommen jetzt die Wechselrichter.
+
+(0:17:13 - 0:17:29)
+Die zeige ich hier nur, weil um die geht es heute nicht. Wichtig fürs Schema ist, dass man da so eine Grenze einzeichnet, damit man weiß, wo ist das Dach, wo ist das Innere des Gebäudes? Stichwort Überspannungsableiter und solche Geschichten. Aber vor allem kann man jetzt besser greifen.
+
+(0:17:30 - 0:17:35)
+Der Trafo steht im Traforaum. Die Niederspannungsverteilung ist ein Raum für sich. Der Schrank ist ein Schrank für sich.
+
+(0:17:35 - 0:17:55)
+Gut, und die Wechselrichter, die stehen eben auf dem Dach. Letzter Punkt, glaube ich, die Module so rein kommerziell, der mit Abstand größte Teil so rein elektrotechnisch in so einem Schema, der mit Abstand kleinste Teil. Wir machen einfach nur hier unten schematisch, Entschuldigung, jetzt war ich zu schnell.
+
+(0:17:56 - 0:18:12)
+Wir machen hier unten schematisch rein, dass da Module sind, würden dann auch noch den Modultyp angeben. Aber das ist, wie gesagt, nicht für heute das Kernthema. Jetzt sind wir die ganze Anlage von vorne nach hinten durchgelaufen, haben schön aufgeschrieben, wo sind die Unterschiede? Das heißt, diesen ersten Schritt haben wir geschafft.
+
+(0:18:13 - 0:18:18)
+Jetzt kommt der zweite Schritt. Der ist schwieriger. Der zweite Schritt ist, wir müssen uns mit dem Netzbetreiber abstimmen.
+
+(0:18:18 - 0:18:35)
+Und ich schlage zwei Varianten vor. So bereite ich solche Gespräche auch vor, dass man dem Gegenüber, dem Sachbearbeiter vom Netzbetreiber auch gleich Lösungsmöglichkeiten präsentiert. Also wir stellen keine Fragen sozusagen oder Probleme, sondern wir präsentieren Lösungsmöglichkeiten.
+
+(0:18:35 - 0:18:50)
+Und die erste ist, naja, also alles, was ich jetzt orange gemacht habe, muss ich entweder nachrüsten oder, wo das gar nicht geht, austauschen. Das ist in der Mittelspannungstechnik oft sehr mühsam und teuer und aufwendig. Aber okay, das ist natürlich die Variante eins.
+
+(0:18:51 - 0:19:00)
+Die Variante zwei, die wir vielleicht erst mal nach vorne schieben, ist der Netzbetreiber verzichtet darauf. Man kann das gut erklären. Der Netzbetreiber wird das auch nachvollziehen können.
+
+(0:19:00 - 0:19:49)
+Das steht ja auch außer Frage, ob er der ganzen Logik folgt, steht wiederum außer Frage, aber dass sozusagen die Argumentationskette, dass man ja nachträglich auf ein bestehendes Gebäude, das der Netzbetreiber so in der Technik ja schon einmal in der Vergangenheit abgesegnet hat, einfach aufsetzt und aus diesem Grund die kommerziell und zeitlich sehr anspruchsvollen Umbaumaßnahmen weglässt, dieser Argumentationskette folgen Netzbetreiber manchmal schon. Jetzt zeige ich einfach hier noch mal sozusagen mein Gesamtergebnis von gerade und finde, dann kann man von links nach rechts mit dem Netzbetreiber in so einer in so einem Meeting das mal von links nach rechts durchgehen. Und dann kann er ja einen Haken machen.
+
+(0:19:49 - 0:19:54)
+Also nur als Beispiel. Gut, die Kurzschlussanzeige, die brauche ich jetzt nicht. Aber den Schutz, den will ich auf jeden Fall.
+
+(0:19:55 - 0:20:02)
+Und dann ja immer so eins nach dem anderen weitergehen. So würde ich das machen. Dann kommt bei der ganzen Sache raus.
+
+(0:20:02 - 0:20:20)
+Alles klar, so könnt ihr das bauen. Der Netzbetreiber hat das freigegeben und das ist wichtig, weil nur wenn er dem so zustimmt, wird es auch durch die Zertifizierung laufen. Auf die Gefahren, dass ich da jetzt in meinem Gedanken einen Schritt zu schnell war, sage ich es noch mal nicht noch mal.
+
+(0:20:20 - 0:20:33)
+Entschuldigung, ich sage es anders in Ruhe. Grundsätzlich brauchen wir das Anlagenzertifikat, um überhaupt in Betrieb gehen zu dürfen. Der Netzbetreiber wird das Anlagenzertifikat sehen wollen und auch prüfen.
+
+(0:20:34 - 0:21:03)
+Das bedeutet, wenn wir kein Anlagenzertifikat haben, wird er uns auch keine Inbetriebnahmeerlaubnis erteilen. Das Anlagenzertifikat wird klar geprüft nach aktuellen Vorgaben der THB und der 4110 in unserem Fall. Das heißt, die werden genau das gleiche Schema zeichnen und das gleiche orange markiert feststellen und dann uns fragen, ob wir denn diese Abweichungen mit dem Netzbetreiber abgestimmt haben oder ob wir denn Umbaumaßnahmen planen.
+
+(0:21:03 - 0:21:26)
+Also genau die gleiche Frage wird die Zertifizierstelle stellen. Ich empfehle euch, vorbereitet zu sein und möglichst schon eine Antwort darauf zu haben. Das bedeutet, wenn der Netzbetreiber Teile davon als nicht gegeben akzeptiert, brauchen wir das als E-Mail, legen das dem Zertifikatsunterlagen bei und dann wird das Anlagenzertifikat auf Grundlage dieser Abstimmung ausgeführt.
+
+(0:21:28 - 0:22:00)
+Zusammengefasst, wir müssen nicht zwangsläufig bei Dachanlagen der 4110-Vorgabe folgen, wenn der Netzbetreiber zustimmt, dass wir aus gewissen Gründen, zum Beispiel, weil das Haus ja da schon seit 20 Jahren steht, Abweichungen akzeptiert. Ich denke, im Gegensatz zu Freilanlagen wäre das gar keine Fragestellung, weil die wird ja neu gebaut, also warum sollte ich jetzt abweichen? Aber bei Bestandsgebäuden kann man diesem Argumentation gegebenenfalls folgen. Okay, wir haben es geschafft.
+
+(0:22:00 - 0:22:07)
+Wir sind im Zeitplan sozusagen plus eine kleine technische Problematik. Wir sehen uns in fünf Minuten wieder. Bis gleich.

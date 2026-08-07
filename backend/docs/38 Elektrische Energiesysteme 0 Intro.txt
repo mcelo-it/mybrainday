@@ -1,0 +1,14 @@
+(0:00:00 - 0:00:18)
+Herzlich willkommen zu unserem heutigen Brain Day. Es ist Freitag, fast Wochenende und ich hoffe, ihr könnt noch folgen, weil wir heute ein sehr wichtiges, sehr schwieriges Thema vor allem haben, wo wir selbst in der Vorbereitungszeit in dieser Woche noch einige Sachen gelernt haben und auch viele Aha-Effekte hatten. Es geht um Netzberechnung.
+
+(0:00:19 - 0:00:41)
+Wir bauen das Thema wie immer langsam für euch auf. Also wir fangen mal an mit der Frage, warum brauchen wir das überhaupt? Warum machen wir das überhaupt? Dann geht es hier so tief ins technische Detail, dass wir ein bisschen ausholen müssen, in das in den Bereich Zellfallsysteme reingehen. Also welche Richtung hat die Energie? Vielleicht im Groben gesagt, dann schauen wir uns das Thema Modellierung an.
+
+(0:00:42 - 0:00:57)
+Das elektrische Verhalten der Komponenten ist eben ganz wichtig hier in diesem Fall für die Berechnung. Und später kommen wir zu den Unterschieden in den verschiedenen 41xx Normen. Also wir legen den Fokus auf die 4110, 20 und 30.
+
+(0:00:58 - 0:01:16)
+Und ganz zum Schluss, da hoffe ich, dass ihr dann alle noch aufnahmefähig genug seid, geht es dann in die Bewertung von dem, was wir uns bis hierhin erarbeitet haben. Also das ist ein langer Weg, aber ganz zum Schluss denke ich, gibt es dann auch nochmal eine sehr gute Erkenntnis. Deshalb hoffe ich, dass ihr da wirklich konzentriert bei der Sache bleibt.
+
+(0:01:17 - 0:01:27)
+Damit das so ist, haben wir natürlich ein paar Übungen für euch vorbereitet und auch die bieten meines Erachtens nach viel Potenzial für euch, das nochmal besser zu verstehen, was wir jetzt im Folgenden erklären.

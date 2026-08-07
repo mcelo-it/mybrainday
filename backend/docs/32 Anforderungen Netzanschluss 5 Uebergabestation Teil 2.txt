@@ -1,0 +1,310 @@
+(0:00:00 - 0:00:16)
+Jetzt kommt noch mal der Teil 2 von Kapitel 6, das ist dann der elektrische Teil. Das schauen wir uns jetzt mal an, was da dann noch genau drinsteht. Genau, elektrischer Teil und schauen uns die 4110 in aller Ruhe an.
+
+(0:00:17 - 0:00:36)
+Zuerst geht es wieder los mit einem allgemeinen Thema, also allgemeines, allgemeine technische Daten. Das ist ja erst mal der erste Überpunkt. Und da geht es dann im Grunde darum, dass man technische Daten von den Betriebsmitteln mit dem Netzbetreiber abstimmen muss.
+
+(0:00:36 - 0:00:46)
+Also diese Übergabestation müssen wir kaufen, müssen wir bezahlen. Ist dann auch unser Eigentum. Allerdings gibt es ja auch einen Verfügungsbereich des Netzbetreibers.
+
+(0:00:46 - 0:01:02)
+Der Netzbetreiber muss diese Anlage gegebenenfalls bedienen. Im Notfall muss er daran. Das heißt, er will dann eben auch ein Mitspracherecht haben, weil er seine Leute nicht einfach irgendwo hinschickt zu irgendeiner Station, die vielleicht nicht die technischen Daten aufweisen, die er sich eigentlich wünscht.
+
+(0:01:04 - 0:01:15)
+Dann gibt es Kennwerte vom Netzbetreiber, die gibt er uns vor. Und hier ist es jetzt zum Beispiel UNEN und IK. Und das gibt uns der Netzbetreiber vor mit einem E9-Bogen.
+
+(0:01:16 - 0:01:32)
+Das heißt, diese Werte müssen wir berücksichtigen und anhand dieser Werte erst mal unsere Komponenten, unsere Schaltanlagen, unsere Schalter auslegen. Und das genau und dann eben berücksichtigen. Dann gibt es noch Vorgabe-Schutzwerte am Netzanschlusspunkt durch den Netzbetreiber.
+
+(0:01:32 - 0:01:44)
+Auch hier gibt es den E9-Bogen. Hatten wir einen anderen Brainday für. Das ist ein sehr umfangreiches Dokument, was uns eben sehr detailliert diese ganzen Informationen zur Verfügung stellt.
+
+(0:01:49 - 0:02:00)
+Kurzschlussfestigkeit, auch das muss uns der Netzbetreiber erst mal mitteilen. Steht auch im E9-Bogen. Und bei Kurzschlussfestigkeit gibt es dann vor allem erst mal zwei Punkte.
+
+(0:02:00 - 0:02:06)
+Der eine ist thermisch. Das ist dann der IK. Das sind dann oft 16 oder 20 Kiloampere für eine Sekunde.
+
+(0:02:06 - 0:02:13)
+Und der zweite Punkt ist immer mechanisch. Das ist das IP. Das ist der erste Puls, der dort auftritt in so einem Kurzschlussfall.
+
+(0:02:13 - 0:02:27)
+Und der sorgt dann eben nicht für eine thermische Zerstörung, sondern für eine mechanische Zerstörung oder Verformung. Das ist ganz wichtig, dass man das weiß. Weil gegen diesen IP kann man dann auch nicht viel Schutztechnik installieren, weil er kommt sofort.
+
+(0:02:28 - 0:02:38)
+Da kann ein Schutzgerät gar nicht installieren. Da muss diese Schaltanlage eben mechanisch ausgelegt sein, um das auszuhalten. Wohingegen der IK auch gerne mal einfach schneller als eine Sekunde abgeschaltet werden kann.
+
+(0:02:38 - 0:02:51)
+Und dann hat man dann ein bisschen Spielraum. Der Auftragnehmer erbringt Nachweise oder den Nachweis zum Beispiel für die Druckbeanspruchung. Das ist dann eben zum Beispiel diese Stördichtbogenprüfung.
+
+(0:02:51 - 0:03:06)
+Wenn es keine Stördichtbogenprüfung gibt, dann kann man natürlich auch eine Druckberechnung machen. Das ist dann aber deutlich aufwendiger, anspruchsvoller. Ich empfehle immer, wenn möglich, Nutzt Station mit Stördichtbogennachweis.
+
+(0:03:07 - 0:03:23)
+Dann hat man da wenig Probleme. Notwendige Maßnahmen, falls irgendetwas nicht passt an unserer Übergabestation, falls man etwas machen muss oder vielleicht auch Wartungsarbeiten und so weiter, muss eben der Auftragnehmer erbringen. Es ist unsere Verantwortung, diese Übergabestation.
+
+(0:03:23 - 0:03:36)
+Das ist unser Teil im Grunde genommen, dieser Leistung Netzanschluss, den wir erbringen müssen. So, jetzt kommt Schutz gegen Stördichtbogen. Anderer Brainday, wir hatten das schon.
+
+(0:03:36 - 0:03:46)
+Das ist ein sehr ausführlicher Brainday. Das ist ein sehr interessantes, ausführliches Thema. Und da gibt es eben den Hinweis auf die Norm, die dort eingehalten werden muss.
+
+(0:03:47 - 0:03:55)
+Und wir schauen uns nochmal an, was da passiert. Da gibt es dann eben diesen Kabelkeller. Da geht dann dieser Druck hin, dieser Stördichtbogendruck.
+
+(0:03:56 - 0:04:23)
+Und der dehnt sich dann eben aus durch dieses durch dieses Gitter, was wir eben auch in der Tour gesehen haben, dehnt sich dann eben aus zum Transformator und dann muss eben sichergestellt sein, dass Bediener oder eben Passanten geschützt sind, je nachdem, welche Klassifizierung man da eben hat. Die Klassifizierung wiederum, die gibt der Netzbetreiber dann vor. Häufig ist es dann aber eben A und B, weil er will natürlich seine Leute schützen, die an der Station mal arbeiten müssen.
+
+(0:04:23 - 0:04:40)
+Und er will natürlich auch, dass die Passanten, die Leute, die sich in der Umgebung dieser Station aufhalten, dass die eben auch geschützt sind. So, dann gibt es die Isolation dieser Anlagen. Da gibt es eine Norm, da wird hier Bezug genommen.
+
+(0:04:40 - 0:04:54)
+Das ist die DIN EN 619361, Starkstromanlagen über NKV. Die muss eingehalten werden, um eben die Isolation, die elektrische Isolation dieser Station zu gewährleisten. Jetzt kommen die Schaltanlagen.
+
+(0:04:54 - 0:05:11)
+Das ist ja so ein bisschen wie das Herzstück unserer Übergabestation. Und da gibt es eben erst mal Schaltung und Aufbau von solchen Schaltanlagen. Und wichtig ist erst mal, dass die Betriebserfordernisse vom Anschlussnehmer und Netzbetreiber hier berücksichtigt werden.
+
+(0:05:11 - 0:05:31)
+Also natürlich, Netzbetreiber, das war ja klar, der hat da Anfordernisse oder Anforderungen. Aber auch wir als Anschlussnehmer können zum Beispiel sagen, wir wollen jetzt in unserer Übergabestation zum Beispiel zwei Leistungsschalten, also zwei Abgänge noch haben, damit wir noch den Park erweitern können oder was auch immer. Aber wichtig ist, es gibt nur einen Übergabeleistungsschalter.
+
+(0:05:32 - 0:05:52)
+Einen Übergabeleistungsschalter, dann meistens ein Messfeld dahinter. Und danach kann man das aber auch noch ein bisschen vergrößern, ein bisschen mehr Leistungsschalter installieren, damit man vielleicht eine Erweiterung vom Solarpark oder irgendwas anderes da noch mit anschließen kann. Diese Betriebserfordernisse, die kann man mit dem Netzbetreiber abstimmen und lassen sich in der Regel auch sehr gut abstimmen.
+
+(0:05:54 - 0:06:10)
+Jedes Schaltfeld mit Erden- und Kurzschließen-Funktion. Das hatten wir bei einem Projekt mal, dass wir dann nur so ein Kabelfeld hatten und dann hatten wir auch gleich Schwierigkeiten, so ein Kabel, als es dann Schaden hatte, zu erden. Deshalb müssen alle Schaltfelder eben Erden- und Kurzschließfunktion haben.
+
+(0:06:10 - 0:06:26)
+Würde ich in der Zukunft auch immer darauf bestehen, also auch parkintern, dass man da eben nicht nur so Kabelfelder installieren lässt und dann eben das Kabel nicht beidseitig erden kann. Erdungsfestpunkte an geeigneter Stelle. Bei SF6-Schaltanlagen gibt es die erst mal nicht.
+
+(0:06:26 - 0:06:56)
+Es gibt die dann aber bei den luftisolierten Anlagen oder bei den luftisolierten Messfeldern, so wie wir es eben in der Tour auch gesehen haben. Da kann man dann eben mit dem Erdungsgeschirr ran und hat dann eine sichtbare Erdung und Kurzschluss von seinem Messfeld und kann dann da eben beruhigt arbeiten. So, jetzt kommt die Ausführung und da schauen wir uns mal so eine Schaltanlage an oder ein Feld einer Schaltanlage, so sieht das üblicherweise aus.
+
+(0:06:57 - 0:07:23)
+Und diese Schaltanlagen, die haben dann meistens Geräte zur Fehlerordnung. Das könnten Kurzschlussanzeiger sein, könnten aber auch Schutzrelais sein, die dann eben anzeigen, in welcher Richtung jetzt meinetwegen der Kurzschluss oder der Fehler, der Erdschluss liegt, damit der Netzbetreiber dann durch Auswertung dieser einzelnen Anzeiger eben feststellen kann, ah, in der Richtung, in der Richtung und dann weiß er, welches Kabel am Ende da den Fehler hat. Dann gibt es Verriegelungen.
+
+(0:07:23 - 0:07:34)
+Diese Schaltanlagen haben mechanische Verriegelungen häufig. Es gibt dann auch noch elektrische Verriegelungen zusätzlich. Aber wenn beispielsweise hier geerdet ist, so wie es jetzt ist, dann kann man oben nicht den Trenner schließen.
+
+(0:07:34 - 0:07:43)
+Das ist mechanisch dann verriegelt. Das ist hier der Hinweis, so was müssen die Anlagen haben. Und als nächstes, ja genau, da sieht man es nochmal angedeutet.
+
+(0:07:43 - 0:07:55)
+Diese beiden Erder und Trenner, die sind dann eben mechanisch gegeneinander verriegelt. Kurzschlussanzeiger gibt es. Hier sehen wir mal, wie so ein Gerät aussehen kann.
+
+(0:07:55 - 0:08:11)
+Also sehr, sehr klein. Und diese Kurzschlussanzeiger sind eben dafür da, so wie der erste Punkt auf der Folie, den Fehler etwas einzugrenzen. Man sieht jetzt hier, ob der Fehler Richtung oben, also Richtung Sammelschiene und dann vielleicht Park ist oder ob er Richtung unten, also Richtung Netz ist.
+
+(0:08:12 - 0:08:31)
+Das hilft einfach, um Fehler einzugrenzen und ist von der Größe her und von den Kosten her auch viel, viel günstiger als beispielsweise ein Schutzrelais, was dann mit LEDs beispielsweise die Fehlerrichtung anzeigen könnte. Dann gibt es noch die Summenstrommessung für Erdfehlererkennung. Das ist dann vor allem wichtig in gelöschten Netzen.
+
+(0:08:32 - 0:08:38)
+Das würde dann so ein Summenstromwandler. Das ist dann eben, sieht so aus. Da führen alle drei Phasen eben durch diesen Wandler.
+
+(0:08:38 - 0:08:54)
+Und dann wird eben in so einem gelöschten Netz oder kompensierten Netz eben dieser geringe Erdfehlerstrom detektiert. Und dann kann man eben, können Schutzgeräte damit arbeiten und gegebenenfalls abschalten. Schloss an Feldern im Verfügungsbereich des Netzbetreibers.
+
+(0:08:54 - 0:09:09)
+Ja, also der Netzbetreiber macht das in jedem Fall. Wenn der, wenn er die Anlage dann verlässt oder vielleicht auch bevor er einschaltet, dann kommt er mit so einem Schloss und hängt das da einfach ein. Und damit ist dann sichergestellt, jetzt kann hier niemand diese Erdung öffnen.
+
+(0:09:09 - 0:09:21)
+Ja, jetzt kann hier niemand diese Anlage in Betrieb setzen. Oder wenn die Anlage dann in Betrieb ist, dann kann er hier oder um die Anlage in Betrieb zu setzen, muss er das Schloss abnehmen. Dann kann man die Erdung rausnehmen, einschalten.
+
+(0:09:21 - 0:09:31)
+Und dann kann er sein Schloss auch wieder dranhängen, sodass dann niemand einfach abschaltet. Ja, das ist eben dann der Verfügungsbereich des Netzbetreibers. Und er kann das hier mit diesem Schloss eben blockieren.
+
+(0:09:31 - 0:09:48)
+Ihr könntet das Ganze natürlich auch auf eurer Seite machen, wenn ihr das nochmal zusätzlich absichern wollt. Habe ich in Solarparks ehrlich gesagt noch nicht so oft gesehen, aber möglich wäre das. Dann gibt es noch den Hinweis FFN Hinweis Gasisolierte Metallgekapselte Schaltanlagen.
+
+(0:09:48 - 0:09:57)
+Das kann man sich mal durchlesen. Viele interessante Sachen, die da drinstehen. Die 4110 bezieht sich auf diese FNN Richtlinie oder auf diesen FNN Hinweis.
+
+(0:09:58 - 0:10:07)
+Einbau von kapazitiven Spannungsanzeigern haben wir auch. Und seht ihr auch in dem in unserem Bild oben. Kapazitive Spannungsanzeiger sehen so aus.
+
+(0:10:08 - 0:10:25)
+Die zeigen im Grunde genommen an, wenn unten am Kabel Spannung anliegt. Die messen meistens unten nicht direkt am Kabel, aber am Konus zum Beispiel messen die die Spannung und zeigen im Grunde genommen nur an, da ist Spannung. Und wenn das Kabel abgeschaltet ist, dann geht der einfach aus.
+
+(0:10:25 - 0:10:41)
+Das ist erst mal ein guter Hinweis, um festzustellen, die Anlage ist unter Spannung oder nicht. Allerdings ist das natürlich kein Ersatz für eine adäquate Überprüfung, ob die Anlage spannungsfrei ist. Das muss man dann schon nochmal wirklich mit einem Messgerät machen und dann eher nur kurz schließen.
+
+(0:10:41 - 0:11:03)
+Aber erst mal kommt ihr in die Anlage, seht diese Blitze, dann könnt ihr sicher sein, die Anlage steht unter Spannung und müsst dann eben erhöhte Vorsicht walten lassen. Kennzeichnung und Beschriftung DIN EN 60445. Da ist eben vorgegeben, wie so eine Anlage gekennzeichnet und beschriftet werden muss.
+
+(0:11:03 - 0:11:14)
+Und wichtig, das muss natürlich dauerhaft sein. Das muss für die nächsten zehn Jahre halten und das darf eben nicht verblassen. Das muss eben vernünftig gemacht sein.
+
+(0:11:18 - 0:11:39)
+Schaltgeräte, die müssen vor Ort schaltbar sein. Wir sehen mittlerweile auch, dass diese Schaltgeräte in den meisten Fällen auch fernschaltbar sind. Das funktioniert dann über die Fernweganlage, vor allem bei den Anlagen, die neu gebaut werden, ist das mittlerweile Standard, dass der Netzbetreiber beim Bit-Test auch wirklich überprüft.
+
+(0:11:39 - 0:12:07)
+Ich kann die Anlage aus der Ferne ein- und ausschalten. Das macht er und wir haben dann meist auch noch einen Ort-Fernschalter an der Anlage, um diese Fernschaltung zu blockieren, falls wir Wartungsarbeiten an der Anlage durchführen. Erdungsschalter mit Kurzschlusseinschaltvermögen, die sind gefordert, weil es kann ja mal passieren, dass ihr eine Kabelstrecke erden wollt und diese Kabelstrecke steht aber noch unter Spannung.
+
+(0:12:08 - 0:12:38)
+Das heißt, in dem Moment, in dem ihr dann erdet und erden und kurzschließen, das machen diese Schaltfelder dann ja, dann erzeugt ihr einen Kurzschluss und dann hätten wir eben dieses Kurzschlusseinschaltvermögen dieses Erdungsschalters nicht, würde der Schalter wahrscheinlich mechanisch, thermisch zerstört werden und ihr könntet die Schaltanlage austauschen. Deshalb fordern wir hier Erdungsschalter mit Kurzschlusseinschaltvermögen, um eben diesen Fehler zu vermeiden. Erdungshebel und Lasttrennhebel unverwechselbar.
+
+(0:12:38 - 0:12:45)
+Ich hatte es vorhin gesagt und ich glaube, in der Natur hat man es dann auch mal gesehen. Es gibt immer Rot und Schwarz. Rot für die Erdung, Schwarz für die Lasttrenner.
+
+(0:12:50 - 0:13:03)
+Dann kommt die Verriegelung, hatten wir eben schon mal angedeutet. Hier wird sich noch mal auf die Normen bezogen, wo diese Hochspannungsschaltgeräte und Anlagen definiert werden. Und es gibt eben auch noch eine Verriegelung durch einen Ort-Fernschalter.
+
+(0:13:03 - 10:3:23)
+Das ist genau der Schalter, von dem ich eben gesprochen habe, der dafür sorgt, dass eben durch die Fernwirkanlage nicht geschaltet werden kann, wenn dieser Schalter auf Ort steht. Wenn er auf Fern steht, dann hat der Netzbetreiber Schalthoheit und kann dann eben aus der Ferne die Anlage ein- und ausschalten. Transformatoren.
+
+(0:13:25 - 0:13:39)
+Ja, für die Transformatoren gibt es natürlich auch eine Norm, die 50, 5, 8, 8. Mittelspannungstransformatoren bis 50 Hertz, die halten wir ein. Wir haben natürlich auch Effizienzklassen mittlerweile für die Transformatoren. Das ist schon ein sehr altes Thema.
+
+(0:13:39 - 0:13:56)
+Das ist mittlerweile Standard. Und dann sagt uns diese Norm, dass wir diese Transformatoren eben nach dem UC aus dem E9-Bogen auslegen müssen. Also meistens ist es ja 10, 20, 30 kV zu meinetwegen das, was eure Wechselrichter brauchen, 800 oder 400.
+
+(0:13:56 - 0:14:09)
+Und im E9-Bogen steht dann eben genau definiert dieses UC. Schaut da rein, dann wisst ihr, welches für welches Spannungslevel ihr die Trafos bestellen müsst. Stufenschalter notwendig.
+
+(0:14:10 - 0:14:29)
+Den üblichen Stufenschalter, der dann meistens zweimal 2,5 % nach oben und unten stufen kann. Das ist, glaube ich, klar. Es gibt aber auch den Hinweis, dass manche Netzbereiche, die vielleicht auf 15 kV aktuell noch laufen, zukünftig, also in 2, 3, 4 Jahren mal umgeschaltet werden auf 20 kV.
+
+(0:14:29 - 0:15:08)
+Dann gibt es einen zweiten Stufenschalter und dann könnt ihr einen Transformator bestellen, der eben für diese beiden Spannungsebenen z.B. 15 und 20 geeignet ist. Hat dann natürlich den Vorteil, wenn in 2, 3 Jahren das Netz umgeschaltet wird auf die neue Spannung, dass ihr dann keinen neuen Trafo kaufen müsst, sondern den alten einfach weiterverwenden könnt. Wandler, Schutzregeln und Messwandler müssen durch den Auftragnehmer bereitgestellt werden. Das machen wir gerne. Es gibt aber auch die Möglichkeit, diese Wandler zu bestellen. Dann bei dem Messstellenbetreiber oder beim Netzbetreiber, dann stellt ihr ihn sozusagen indirekt zur Verfügung.
+
+(0:15:08 - 0:15:22)
+Ihr seid in jedem Fall dafür verantwortlich, dass ihr euch darum kümmern müsst, dass diese Wandler da irgendwie reinkommen, wo auch immer ihr sie dann besorgt oder wir sie besorgen. Das ist unsere Verantwortung. Und der Netzbetreiber gibt uns die Wandlerdaten dann eben für seine Technik vor.
+
+(0:15:23 - 0:15:45)
+Er sagt, welche Schutzklasse z.B. eingesetzt werden soll. Er gibt vor, welche Messgenauigkeit vorgegeben werden oder bestellt werden soll und vielleicht auch, welche Typen wir einsetzen müssen. Wir messen dann oder wenn wir dann die Wandler einbauen, dann bauen wir vom Netz aus gesehen erst den Stromwandler ein und dahinter den Spannungswandler.
+
+(0:15:46 - 0:15:50)
+Diese Frage wird häufig mal gestellt. Hier steht es jetzt. Könnt ihr reingucken Strom vor Spannung.
+
+(0:15:50 - 0:16:17)
+Das ist die Regel vom Netz aus betrachtet. Und die Genauigkeitsklassen in der 4110 für Schutzkerne sind definiert, also mindestens Klasse 5P und für Messkerne, also für den Parkregler dann vor allem, sind das Klasse 0,2 bei unseren größeren Anlagen, also Anlagen größer 1 Megawatt, bei Anlagen kleiner 1 Megawatt reicht auch Klasse 0,5. Für diese Wandlerthemen haben wir dann einen eigenen Brainday.
+
+(0:16:18 - 0:16:33)
+Könnt ihr euch gerne anschauen, wenn ihr da mehr Details haben wollt. Hier ist erst mal nur die Vorgabe an diese Genauigkeitsklassen gegeben. Überspannungsableiter hatte ich in meinen Projekten bisher nicht wirklich.
+
+(0:16:34 - 0:16:44)
+Also kenne ich erst mal nicht. Wenn man an Freileitungen anschließt, Mittelspannungsnetzfreileitungen haben wir sehr selten, haben wir aber schon. Dann gibt es häufig die Anforderung, Überspannungsableiter einzubauen.
+
+(0:16:45 - 0:17:02)
+Stimmt das nur im Netzbetreiber ab? Bei der Erdverkabelung, bei den Muffenanschlüssen, die wir so haben, ist es in der Regel nicht notwendig. Sternpunktbehandlung. Also wir werden erst mal vom Netzbetreiber informiert über seinen Sternpunkt.
+
+(0:17:02 - 0:17:35)
+Also er betreibt ja ein Netz, an das wir uns anschließen und wir haben dann kein Trendrafo dabei und machen keine eigene Sternpunktbehandlung, sondern der Netzbetreiber sagt uns geerdetes oder gelöschtes Netz und darauf müssen wir dann unsere Komponenten abstimmen. Dann kommt noch die Erdungsanlage und auch da gibt es erst mal einen separaten Brainday, weil es ein sehr großes Thema ist. Der Netzbetreiber gibt uns Erdfehlerströme vor, das tut er, und daran können wir dann erst mal unsere Erdungsanlage dimensionieren.
+
+(0:17:36 - 0:17:55)
+Auch die Erdimpedanz, Erdungsimpedanz gibt uns der Netzbetreiber vor. Das ist in der Regel kleiner 2 Ohm und wir müssen dann, wenn wir die Erdungsanlage geplant und errichtet haben, eben messtechnisch den Nachweis erbringen und dafür sieht die 4110 eben den E6-Bogen vor. Das ist das Messprotokoll für die Erdungsanlage.
+
+(0:17:56 - 0:18:25)
+Wenn unsere Erdungsanlage dann vernünftig errichtet ist und gebaut ist, dann werden in der Regel auch die Berührungsspannungen eingehalten, die in der DIN EN 50522 stehen und alle Metallteile sind eben zu erden. Das ist, glaube ich, die Grundlage, die Installationsnorm, Metallteile sind zu erden. Erderlösbar an der Potentialausgleichsschiene anschließen und wenn wir das gemacht haben, dann sind wir auch in der Lage, diese Erdungssysteme sinnhaft zu messen, getrennt von dem Gebäude.
+
+(0:18:26 - 0:18:50)
+Wir haben jetzt noch zwei kleine Teile vor uns, die sind aber, glaube ich, wirklich klein, da gehen wir jetzt auch noch weiter durch. Sekundärtechnik, unter Sekundärtechnik versteht man ja im Grunde genommen alle Schutzgeräte, alle Skadasysteme, die da so installiert werden. Und unter allgemeinen Anforderungen steht erst mal, dass diese Sekundärtechnik in geschlossenen Räumen installiert werden muss.
+
+(0:18:53 - 0:19:09)
+Dann nehmen wir hier Bezug auf die Fernwirk- und Prozessdatenübertragung an die netzführende Stelle. Ich würde mal sagen, das ist die Fernwirkanlage in meinem Wording. Und diese Fernwirkanlage, die sorgt für den Datenaustausch zwischen Netzbetreiber und Kundenanlage am Netzanschlusspunkt.
+
+(0:19:09 - 0:19:35)
+Das heißt, die Fernwirkanlage wird eingebaut und wir testen die dann hinterher auch und übertragen dem Netzbetreiber die Datenpunkte, die er haben möchte. Damit ist dann der Netzbetreiber eben auch in der Lage, diese Anlage fernzusteuern. Also er kann Schalter schalten und kann eben die Leistung der Anlage vielleicht im Fehlerfall reduzieren, wenn er eben den Bedarf sieht aus Netzschutzsicht.
+
+(0:19:35 - 0:19:53)
+Nicht aus monetären Gründen, sondern wenn das Netz in Gefahr ist, dann greift der Netzbetreiber ein. Dann gibt es den Ort Fernschalter, über den wir, wenn wir vor Ort sind, eben dieses Fernschalten der Schalter unterbinden können. Es gibt einen Prozessdatenumfang, also eine Datenpunktliste, so nennen wir sie auch.
+
+(0:19:54 - 0:20:08)
+Das ist der Anhang C4, ist auch ein Teil dieser Norm. Da kann man gerne schon mal reinschauen, was die Norm eigentlich vorsieht an Datenpunkten. Wenn man dann aber tatsächlich das Projekt umsetzt, dann braucht man eben diese Datenpunktliste vom Netzbetreiber.
+
+(0:20:08 - 0:20:29)
+Dann ist das hier vielleicht eine schöne Vorgabe, aber der Netzbetreiber legt am Ende fest, welche Datenpunkte wir übertragen müssen, welche er sehen möchte. Eigenbedarfs- und Hilfsenergieversorgung. Und da haben wir dann eine Übergabestation am Mittelspannungsnetz, benötigt erstmal eine Hilfsenergieversorgung und USV.
+
+(0:20:30 - 0:20:55)
+Und wenn wir jetzt kein Trafo in dieser Station haben, dann ist das erstmal schwierig, da überhaupt eine nutzbare Spannung zu haben. Man braucht dann eben Eigenbedarfswandler im Messfeld, die dann die Hilfsenergieversorgung zur Verfügung stellen und die dann eben noch zusätzlich mit einer USV für acht Stunden alle Komponenten puffern mit dem kleinen Zusatz. Die Schalteranlage muss dreimal schalten können.
+
+(0:20:55 - 0:21:10)
+Also nicht nur acht Stunden, sondern in diesen acht Stunden schalten wir unsere Schalter dreimal. Wandlerstrom gespeiste Schutzrelais werden ja auch thematisiert. Die sehen wir in Übergabestationen eher selten und benötigen auch die Zustimmung des Netzbetreibers.
+
+(0:21:10 - 0:21:16)
+Das heißt, wenn kein Strom fließt, sind die Geräte aus. Dann kann man die auch nicht kontrollieren. Das wollen die Netzbetreiber in der Regel nicht.
+
+(0:21:17 - 0:21:40)
+In unseren Trafostationen sieht man das dann aber schon häufiger, weil es erstmal die einfachste und kostengünstige Variante ist, so ein UMZ-Schutzrelais beispielsweise zu realisieren. Wenn dann die USV mal ausgelaufen ist, wenn sie leer ist, dann soll unsere Anlage ausschalten. Und wenn das dann so ist, dann brauchen wir meist erst mal einen Generator, um diese USV wieder aufzuladen, bevor wir die Anlage in Betrieb nehmen können.
+
+(0:21:42 - 0:21:49)
+Funktionsprüfung der USV alle vier Jahre. Nehmt das mal mit. Ich hoffe, dass es bei den meisten in den Wartungsintervallen durchgeführt wird.
+
+(0:21:49 - 0:22:05)
+Aber man muss die USV alle vier Jahre prüfen und dokumentieren. Schutzeinrichtungen. Genau, auch hier geht es wieder los mit Allgemeines.
+
+(0:22:05 - 0:22:18)
+Wichtig für den Betrieb der Netze, Kundenanlagen und Erzeugungsanlagen. Für alle im Grunde genommen ist das wichtig, nicht nur für den Netzbetreiber, sondern auch für uns. Und der Schutz in der Übergabestation muss automatisch und selektiv abschalten.
+
+(0:22:18 - 0:22:29)
+Er schaltet automatisch. Das ist für mich selbstverständlich und selektiv. Das heißt, man muss dann eben alles, was danach gelagert passiert, entsprechend staffeln.
+
+(0:22:30 - 0:22:35)
+Bei Netzspannungsausfall müssen diese Geräte auch funktionieren. Deshalb haben wir ja die USV. Deshalb funktioniert das auch.
+
+(0:22:36 - 0:22:48)
+Und die Schutzeinrichtungen, die dann zu realisieren sind, gibt die Norm auch ganz klar vor. Das sind Netzschutzeinrichtungen. Das sind Kurzschlussschutzeinrichtungen des Auftragnehmers, also innerhalb des Solarparks beispielsweise.
+
+(0:22:49 - 0:23:01)
+Und dann noch die Entkoppelungsschutzeinrichtungen. Einstellwerte in der Übergabestation gibt uns dann der Netzbetreiber. Da haben wir auch wieder den E9-Bogen.
+
+(0:23:01 - 0:23:17)
+Und für alle, die sich mit Schutzprüfungen schon mal stärker oder tiefer, intensiver befasst haben. Schutzeigenzeit plus Auslösezeit des Schaltgeräts darf 100 Millisekunden nicht überschreiten. Das ist eine Vorgabe aus der 4110.
+
+(0:23:17 - 0:23:43)
+Das heißt, wenn euer Schutzrelais ein bisschen zu langsam ist und der Leistungsschalter eine gewisse Zeit braucht, müssen diese beiden Zeiten zusammen maximal 100 Millisekunden ergeben. Dann haben wir noch die DIN EN 60255 und die FNN-Hinweise Anforderungen an digitale Schutzeinrichtungen. Da geht es dann wirklich um das Produkt des Schutzrelais, wie das gebaut ist, was das alles können muss, dass das auch Störschreiber haben muss.
+
+(0:23:43 - 0:23:49)
+Das kommt gleich als letzter Punkt noch. Aber da wird das alles im Detail erklärt. Sehr, sehr aufwendig.
+
+(0:23:50 - 0:23:58)
+Automatische Wiederzuschaltung ist am Netzanschlusspunkt nicht zulässig. Das ist eine Frage, die häufig gestellt wird. Das ist jetzt hiermit geklärt.
+
+(0:23:58 - 0:24:09)
+Die Mittelspannungsschaltanlage dürfen wir nicht wieder zuschalten. Schutzsysteme in Eingangsfeldern auf Anforderungen des Netzbetreibers. Das hatte ich ehrlich gesagt noch nicht gesehen.
+
+(0:24:09 - 0:24:16)
+Dann müsste man in den Eingangsfeldern ja auch einen Leistungsschalter einbauen. Ist sehr, sehr selten. Kurzschlusseinrichtung des Anschlussnehmers.
+
+(0:24:17 - 0:24:34)
+Das ist jetzt hier auch noch mal aufgeführt und damit allgemein, also innerhalb der Kundenanlage, Integration in das Gesamtsystem. Das ist das, was ich eben mit Selektivität gemeint hatte. Und dann gibt es verschiedene Schutzfunktionen mit Selbstüberwachung, Ausfallerkennung der Steuerspannung und Überwachung der USV.
+
+(0:24:39 - 0:24:45)
+HH-Sicherung sehe ich bei kleineren Trafostationen. Die kann man dann einsetzen. Das ist die kostengünstigste und einfachste Variante.
+
+(0:24:46 - 0:24:55)
+Abgangsschaltfelder müssen Kurzschlussschutz enthalten. Ja, hatten wir. Und Platzbedarf müssen wir eben auch da einhalten für Schutz- und Hilfseinrichtungen.
+
+(0:24:56 - 0:25:04)
+Und dann kommen wir jetzt gleich zu den letzten Punkten für heute. Automatische Frequenzentlastung können wir für heute wegschieben. Ist nicht relevant für uns.
+
+(0:25:07 - 0:25:20)
+Die Schnittstellen für Schutzfunktionsprüfung. Das ist die Prüfklemmleiste, die wir in jeder Station bei jedem Schutzgerät brauchen. Sie ist in der 4110 im Grunde genommen als so ein Bild definiert.
+
+(0:25:20 - 0:25:28)
+Es gibt verschiedene Hersteller von Prüfklemmleisten. Die werden auch beim Anlagenzertifikaten bei der Konformitätserklärung abgefragt. Also die müssen immer drin sein.
+
+(0:25:28 - 0:25:38)
+Dieses Bauteil und sind in der Regel auch immer mit drin. Mitnahmeschaltung bei parallelen Transformatoren. Das haben wir in der Regel sehr, sehr selten.
+
+(0:25:38 - 0:25:56)
+Wir betreiben meistens keine parallelen Trafos. Wenn es so wäre, müsste die Mittelspannung die Niederspannung mitnehmen, damit die Trafos sauber ausgeschaltet werden. So, jetzt kommt noch Schutzprüfung.
+
+(0:25:56 - 0:26:16)
+Und da haben wir erst mal den Hinweis vor Inbetriebnahme und vor Ort. Also das heißt klar, bevor wir in Betrieb nehmen, muss das Schutzgerät geprüft werden. Aber auch nicht eben in einem Werk mit einem Einstellprotokoll oder wie auch immer, sondern wenn die Anlage wirklich vor Ort ist, müssen wir dort die Schutzführung durchführen und alle vier Jahre dann auch wiederholen.
+
+(0:26:20 - 0:26:38)
+So, jetzt haben wir den letzten, das letzte Kapitel. Das ist dann noch mal Störschreiber und Störschreiber für alle, die das noch gar nicht kennen, die notieren. Die schreiben erst mal auf, wenn ein Kurzschluss entsteht, messen die ein paar Millisekunden vorher und danach, um dann eben hinterher detektieren zu können.
+
+(0:26:38 - 0:26:56)
+Was war denn jetzt das Problem im Netz? Warum haben wir ausgelöst? Also auf Anforderungen müssen diese Störschreiber installiert werden. Die meisten modernen Schutzrelais, die wir so sehen, die haben auch Störschreiber integriert. Von daher ist dieser Punkt dann meistens in den digitalen modernen Schutzrelais schon erledigt.
+
+(0:26:57 - 0:27:09)
+Also genau, Ströme und Spannungen über installierte Messwandler. Das wird dann eben aufgeschrieben, notiert und abgespeichert. Und drei Wochen später, wenn ihr dann vor Ort seid, könnt ihr euch das anschauen und seht, was da passiert ist.
+
+(0:27:09 - 0:27:28)
+Oder ihr könnt diese Daten sogar aus der Ferne ablesen. Platzbedarf und Hilfsenergieversorgung, klar, wenn das jetzt ein separates Gerät ist, muss man dafür sorgen, dass das auch einen Platz bekommt und eben die Hilfsenergieversorgung. Anhang F gibt dann nochmal detaillierte Anforderungen und dann kommen wir jetzt auch zum Ende des heutigen Vortrags.
+
+(0:27:28 - 0:27:33)
+Mich hat es sehr gefreut. Vielen Dank, dass ihr teilgenommen habt. Ich freue mich aufs nächste Mal. 
+
+Tschüss.

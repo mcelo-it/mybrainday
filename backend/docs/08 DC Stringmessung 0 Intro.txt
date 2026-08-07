@@ -1,0 +1,8 @@
+(0:00:00 - 0:00:19)
+Erster Block DC-String-Messpunkt. Also nochmal herzlich willkommen heute zu dem Brainday DC-String-Messung. Wir legen auch gleich los und schauen uns einmal die Übersicht an und starten wie gewohnt mit der Frage, warum sollte man sich DC-String-Messungen überhaupt antun.
+
+(0:00:21 - 0:00:52)
+Da zeigen wir dann den üblichen Normenvergleich sozusagen oder Verweis in die Normen, die ja immer Grund der Motivation schon genug sind eigentlich. Wir gucken uns dann mal den Messaufbau kurz an, wie macht man eigentlich so eine String-Messung und dann hat der Kern des heutigen Tages eigentlich, wie bilde ich das in einem Messprotokoll ab. Man wird es dann sehen im Messprotokoll, da sehen dann naturgemäß Messwerte drin, aber die muss man dann vergleichen mit Sollwerten, wie man die berechnen kann, zeigen wir auch.
+
+(0:00:52 - 0:01:01)
+Und dann vergleicht man sozusagen die gemessenen Werte mit den Sollmessen. Das ist nochmal die Bewertung am Schluss, um die es dann natürlich am Ende gehen wird.

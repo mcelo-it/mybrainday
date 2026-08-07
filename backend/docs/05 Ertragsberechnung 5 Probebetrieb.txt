@@ -1,0 +1,50 @@
+(0:00:00 - 0:01:16)
+In den Probebetrieb, ich nenne das mal technisches Projektmanagement, so nenne ich das mal. Also, jetzt hat der Elektroingenieur gerade nachgewiesen, dass er das technisch einwandfrei beherrscht, auszurechnen und jetzt braucht er aber vielleicht auch noch ein paar Management-Skills, um da in der realen Projektmanagement-Logik noch ein bisschen mitspielen zu können. Da haben wir jetzt beispielhaft aus so einem beispielerfundenen Vertrag mal fünf Kapitel rausgesucht, die er dann ja eben braucht, der Planer, die Planerin, um die Bewertung selbst durchführen zu können. 
+
+Also, zum Beispiel aus einem realen Projekt rausgedacht, was passiert in so einem Probebetrieb, wo man den PR dann eben bewertet? Man muss erstmal verstehen, die Dauer und den Zeitpunkt. Das habe ich hier mal mit so einer Achse gemacht, wie ich das kenne. Das ist völlig unterschiedlich manchmal. 
+
+Jetzt haben wir eben ein Projektbeispiel reingenommen. Also, Zeitachse, in Betriebnahme IBN, dann sage ich, ich bin ready für den Probebetrieb und dann läuft der erstmal 14 Tage. Als Beispiel. 
+
+Diesen ersten Schritt, A haben wir ihn genannt, ist ein initialer Performance-Test, ein Provisional Acceptance-Test, wird er international oft genannt. Ich glaube, das ist USUS. In allen Großprojekten kenne ich das genauso.
+
+(0:01:16 - 0:01:31)
+Provisional PAC, also da gucken erstmal alle Provisional Initial, ob das überhaupt läuft. Dann kann man einen zweiten Schritt definieren, auch üblich ein Jahr. Da hat man schon mal die Jahreszeiten-Effekte raus.
+
+(0:01:32 - 0:01:42)
+Also, wenn man dann durch den ersten Test durch ist, fängt der zweite erst wirklich an. Der dauert auch ein bisschen länger. Und dann hat man vielleicht sogar noch einen dritten, über zwei Jahre, typische Gewährleistungszeiträume.
+
+(0:01:42 - 0:01:50)
+Den würde man dann nennen Final Acceptance Test, also den FAC. Da muss man zwei Jahre warten. Das ist tatsächlich auch bei mir so.
+
+(0:01:50 - 0:02:04)
+Da freue ich mich auch ehrlich gesagt drüber, wenn ich zwei Jahre nach meinem Projektabschluss nochmal eine E-Mail kriege, dass das also funktioniert hat. Da hänge ich oft persönlich nicht mehr drin. Ist aber sehr interessant mitzukriegen, ob die eigenen Projekte dann gut gelaufen sind, wenn man so will.
+
+(0:02:04 - 0:02:37)
+Und das, finde ich, zeigt es jetzt auch nochmal. Also die Bewertung, wenn mich jemand fragt, wie läuft dein Projekt? Aus elektrischer Sicht, sage ich jetzt mal, kann ich das ja wirklich eigentlich erst zwei Jahre später sagen. Weil jetzt ist eben der PR hier bewertet worden, nicht ein absoluter Ertrag, sondern der PR, der Wirkungsgrad. 
+
+Und dann kann man nach zwei Jahren mal gucken, ob der so ist, wie man sich das vorgestellt hat. Dann wird da auch so ein ganz praktischer Ablauf oft definiert. Also grundsätzlich erstmal, dass wir den realen PR mit dem garantierten PR vergleichen.
+
+(0:02:37 - 0:03:08)
+Das haben wir ja gerade in der Excel gemacht. Das muss da erstmal drinstehen, dass man das so machen soll. Vorankündigung macht meistens Sinn. 
+
+Also ich muss offiziell das ankündigen, dass es jetzt losgeht, sonst zählt das alles nicht. Fortlaufende Tage ist oft so, dass das definiert wird. Maximale Unterbrechungen, also da kann ja es mir oft, nicht oft, es ist mir passiert, dass dann ausgerechnet in diesem Zeitraum 14 Tagen Wartungsarbeiten am Übertragungsnetz stattfinden, dann ist dein ganzer Park abgeschaltet, dann macht das natürlich keinen Sinn und dann geht das wieder von vorne los.
+
+(0:03:10 - 0:03:32)
+Automatisierte Auswertung und Dokumentation, also gerade wenn es Richtung ein Jahr, zwei Jahre geht, würde ich das nicht mehr manuell machen, dafür gibt es eine Software Tools, das sind sehr viele Datensätze. Ich würde das automatisiert machen, damit gleich um 17 Uhr der Tagesertrag rauskommt und dann weiß ich, dass ich für den nächsten Tag vielleicht was verbessern muss. Gut, dann hätten wir das Kapitel Wertung.
+
+(0:03:33 - 0:04:09)
+Da haben wir uns überlegt, das was wir jetzt schon mehrfach gesagt haben, steht hoffentlich auch im Vertrag, also da muss ein Ziel PR drinstehen. Ich hatte in meiner Übung glaube ich 82 oder 83 Prozent gesagt. Das ist wirklich eine knallharte Zahl, aber die muss irgendwo stehen, sonst ist es schlecht und das sollte nochmal definiert sein, dass das also der PR simuliert nach der Inbetriebnahme ist. 
+
+Solche Details würde ich da mir raussuchen. Die Formeln, die Mittelwertbildung, wie genau mache ich das? Genauigkeitsklassen werden da oft auch nochmal definiert. Man kann ja schreiben nach Norm IEC XY.
+
+(0:04:10 - 0:05:00)
+Mindestverfügbar bei der Komponenten, das ist ehrlich gesagt was Separates, also zum Beispiel habe ich 10 Wechselrichter und einer läuft die ganze Zeit nicht. Könnte sein, dass ich meinen PR trotzdem realisiere, aber das ist natürlich für so eine Anlagenqualitätsnachweis jetzt auch nicht gerade die beste Werbung, deswegen könnte man reinschreiben, dass auch zu 95 Prozent der geprüften Zeit alle Komponenten verfügbar sein müssen, zum Beispiel. Plausibilitätsprüfung der Energiezähler, ja genau, man kann sich das so vorstellen, am Ende basiert das alles im Verhältnis zu den Werten, die aus einem Zähler kommen, wenn man da sich irgendwas falsch überlegt hat, also wenn es ein Faktor ist, dann glaube ich, sieht man das sofort, hier geht es eher so um Messabweichungen oder dass man vielleicht den falschen Zähler angezapft hat oder so was.
+
+(0:05:03 - 0:05:37)
+Rahmenbedingungen. Limitierung Netzbetreiber direkt vom Markt, da hatten wir schon, dass das rausgerechnet wird, geplante Wartungsarbeit, Netzfehler werden rausgerechnet, dass Jahreszeiten zum Beispiel und Tageszeiten definiert werden, macht vielleicht wirklich nicht so viel Sinn, das im Januar nachmittags durchzuführen, kann man sich überlegen und da reinschreiben. Dann minimale und maximale Einstrahlungsdaten, hatten wir vorhin schon, diese 110 Prozent, das ist ganz typisch, das ist einfach direkt morgens gewesen, da war die Einstrahlung noch zu niedrig, das kann man dann rausnehmen, sollte man aber definieren, ab welchen Werten man das macht.
+
+(0:05:38 - 0:06:22)
+Prüft wahrscheinlich Umgang mit fehlerhaften Daten im Allgemeinen, also ich sollte jetzt nicht von 100 Messpunkten sozusagen die Hälfte einfach löschen müssen, weil es irgendwie nicht richtig mit der Übertragung funktioniert hat, sowas könnte man hier definieren, wenn es mal einer von 100 ist, nehmen wir ihn einfach raus. Vielleicht wichtigster Punkt, die Strafzahlung, also ist ja vielleicht auch eine ganz einfache Zahl, die da im Vertrag steht. Ich habe jetzt also meinen PR gerissen, so wie mein Beispiel, und wie rechne ich denn jetzt eigentlich zum Beispiel da die drei Prozent, die ich drunter liege, in einen Eurowert um? Da gehe ich jetzt nicht weiter darauf ein, das kann man sich eben vertraglich überlegen, wie man das genau macht, vielleicht mit tagesaktuellen Energiepreisen, vielleicht mit einem festen Wert.
+
+(0:06:23 - 0:06:54)
+Ich wollte es nur mal genannt haben, dass das natürlich die interessante Konsequenz dann später raus ist und dass man auch negative Strafzahlungen vereinbaren kann, also wenn man so will, eine Bonuszahlung. Jetzt bin ich vielleicht drei Prozent über dem vertraglich garantierten Wert, das ist eins zu eins, ist das dann umrechenbar in absolute Energie, die ja mehr eingespeist wird als gedacht, und das ist natürlich auch wiederum in einen Mehrertrag an Euros umrechenbar. Das heißt, eine Bonuszahlung fände ich durchaus sinnvoll, eigentlich auch fair.

@@ -1,0 +1,116 @@
+(0:00:00 - 0:00:32)
+So, wir springen in das letzte Kapitel und hoffen, dass alle noch voll fokussiert mit dabei sind. Also, die Berechnung ist kurz gefasst und warum, werde ich auch gleich zeigen, aber vielleicht schon mal vorweggenommen. Es ist nicht wie z.B. bei der Kabeldimensionierung, dass wir jetzt hier wirklich von A bis Z diese gesamte Erderkonstruktion, dieses Gesamtdesign rechnerisch bewerten.
+
+(0:00:32 - 0:01:08)
+Das machen wir nicht, also ich zumindest nicht, weil mir da meinetwegen auch Expertise, aber vor allem die Simulationstools fehlen. Deswegen haben wir jetzt drei Sachen rausgezogen, die wir tatsächlich selbst, sage ich mal, bewerten. Die zeige ich. 
+
+Bei den anderen Sachen wendet man sich am besten an Fachfirmen, die meinetwegen einen expliziten Bericht über so ein ganzes Projekt machen, wenn das denn erforderlich ist. Alternativ holt man sich Erfahrungswerte aus anderen Projekten, in denen das schon bestätigt wurde und übernimmt das Ganze. Aber jetzt erstmal diese drei Punkte, die wir ja tatsächlich uns angucken können.
+
+(0:01:08 - 0:01:53)
+Der Ring, dann der Sternpunkt, das ist schon was für Elektrotechnik Insider und dann nochmal der Anschluss von dem Ringerder an die Station selbst. Wie geht das? Die Dimensionierung vom Ring selbst ist, finde ich, eine ganz spannende Sache, weil man sich jetzt also erstmal Annahmen annehmen muss, um erstmal mit der Berechnung starten zu können. Und da ist das Erste, was die mich dann fragen und ich beantworte, wie lange steht denn der Fehler überhaupt an? Jetzt nimmt man einen elektrischen Fehler, also einen Erdschluss und dann sage ich jetzt als Beispiel eine Sekunde, weil nach einer halben Sekunde oder eigentlich noch schneller die Schutzrelais abschalten.
+
+(0:01:54 - 0:02:20)
+Aber eine Sekunde, sage ich jetzt mal, steht der an und dann hole ich mir aus der Norm, die wir ganz am Anfang mal genannt hatten, den zulässigen Schrittspannungs- und den zulässigen Berührungsspannungswert raus. So sieht das aus, das sind die Kennlinien, die man in der Norm findet und für Berührungsspannung bei einer Sekunde hätten wir jetzt 132 Volt. Das ist übrigens auch die Antwort auf die Frage, die der Kollege da etwas übermotiviert vorhin schon reingeschoben hat.
+
+(0:02:20 - 0:02:34)
+Also jetzt ist klar, dass so eine Berührungsspannung zwischen ungefähr 80 und 150 Volt liegt, nämlich bei uns 132 Volt. Und die Schrittspannung deutlich höher, 1176. Achtung, das sind die zulässigen Werte.
+
+(0:02:35 - 0:02:47)
+Jetzt wird auch ein Schuh draus, warum ich gesagt habe, dass sogar die Norm davon spricht, wenn die Berührungsspannung in Ordnung ist, ist auch die Schrittspannung in Ordnung. Einfach, weil diese Werte so deutlich höher sind. Also die haben wir uns jetzt rausgesucht, das war der erste Schritt.
+
+(0:02:47 - 0:03:03)
+Wir sind ja in der Berechnung, ob ich das alles so richtig mache. Und jetzt weiß ich erst mal, abhängig von der Abschaltdauer meines Schutzrelais, wie hoch meine zulässigen Berührungs- und Schrittspannungswerte sind. Dann muss ich wissen, wie hoch dieser Fehlerstrom denn überhaupt sein wird.
+
+(0:03:03 - 0:03:16)
+Das kriegt man aus Netzberechnungen raus oder aus dem neuen Bogen oder auch aus Vergleichsprojekten. Aber man muss diesen Wert haben, sonst kann man es nicht in Summe bewerten. Dann braucht man den spezifischen Erdbodenwiderstand.
+
+(0:03:17 - 0:03:25)
+Und die Anlagentopologie. Und darauf gehen wir jetzt noch mal ein. Das zeige ich jetzt, finde ich, an einem sehr schönen bildlichen Beispiel.
+
+(0:03:26 - 0:03:43)
+Also die Anlagentopologie muss ich jetzt kennen, um überhaupt ansatzweise bewerten zu können, ob ich Schritt- und Berührungsspannung einhalten werde. Wie machen wir das? Wir drehen, Achtung, jetzt muss man aufpassen, sonst kann man nicht folgen. Wir drehen sozusagen unsere Tafelstation und gucken von oben drauf.
+
+(0:03:44 - 0:03:56)
+Das ist hilfreich, um diese Potenzialunterschiede besser bildlich darstellen zu können. Jetzt setze ich mal in meinem Beispiel einen Tiefenerder nur rein. Ich setze nur einen Tiefenerder.
+
+(0:03:57 - 0:04:08)
+Und jetzt sind wir auch bei Software. Das kann ich nicht mit der Hand. Jetzt sagt man mal in der Software, wir simulieren diesen Erdboden mit dem spezifischen Erdbodenwiderstand.
+
+(0:04:08 - 0:04:31)
+Und wir simulieren diese 3 Kiloampere Fehlerstrom und rechnen jetzt in Abhängigkeit von diesem Ausbreitungswiderstand diese verschiedenen Potenziale aus. Und das sieht dann ungefähr so aus. Potenzial, Potenzial, Potenzial, Potenzial, Potenzial.
+
+(0:04:31 - 0:04:52)
+Farblich dargestellt, Berichte, die sowas professionell machen, oder Firmen, die solche Berichte schreiben, machen das auch gerne so. Also die Software zeigt jetzt in Abhängigkeit von dem Fehler und in Abhängigkeit von der Topologie, an welcher Stelle welches Potenzial anliegt. Ihr hattet es vorhin richtig beantwortet, die 1400 Volt da oben, die sind zwar rot, die sind an sich jetzt aber nicht schlimm.
+
+(0:04:53 - 0:05:12)
+Wichtig ist jetzt die Differenz zu, das machen wir jetzt, diesem Männchen, der ja da einen Schritt geht. Also jetzt muss man gucken, zwischen dunkelgrün und hellblau, da ziehen wir es mal raus, sind 146 Volt. Also die 1400, die sind jetzt gar nicht so relevant, sondern die Differenz da, wo der halt steht.
+
+(0:05:13 - 0:05:26)
+Und dann sage ich 1176, rechts oben, ist kleiner als 146. Bei der Berührungsspannung machen wir genau das Gleiche. Da sind es 119 und der schiebt mir da rüber.
+
+(0:05:26 - 0:05:36)
+Und das ist das, was normalerweise dann passiert. Also das passt nicht, das ist zu groß, Daumen nach unten. Und dementsprechend geht das so nicht.
+
+(0:05:36 - 0:05:43)
+Jetzt kommt der Wink mit dem Zaunpfahl. Ja, ihr habt ja auch nur einen gesetzt. Setzt doch einfach mal vier tiefen Erde.
+
+(0:05:43 - 0:05:50)
+Zack. Und was ist jetzt der Unterschied? Ihr werdet es live mitverfolgen können in unserer Simulation. Die Potenziale verändern sich.
+
+(0:05:50 - 0:06:06)
+Das Umax ist schon mal niedriger geworden. Und gleichzeitig haben wir mit diesem Steuererder unsere Potenziale schön abgeflacht. Und das führt dazu, dass wir jetzt niedrigere Schritt und vor allem niedrigere Berührungsspannung haben.
+
+(0:06:06 - 0:06:16)
+Kann man den falschen Wert über mir noch stehen? Sag ich mal, der entscheidende letzte Schritt, der ist hier nicht gegangen worden. Also über mir würde jetzt 115 Volt stehen. Und deswegen geht der Daumen nach oben.
+
+(0:06:17 - 0:06:26)
+Das war die Dimensionierung vom Ringerder. Jetzt gucken wir uns als nächstes die Dimensionierung von der Sternpunkterderung an. Und da zeigen wir hier einmal, warum oder an welcher Stelle das überhaupt erforderlich ist.
+
+(0:06:27 - 0:07:00)
+Man sieht hier im Ersatzschaltbild unseren Transformator, Mittel- und Niederspannungsseite. Und jetzt zeigen wir in Orange einfach mal, wenn ein Fehler hier auf der Niederspannungsseite vom Trafo in unserem Beispiel auftritt, was dann eigentlich passiert. Also da fließt ein Fehlerstrom vom Trafo-Gehäuse, das eben geerdet ist, über diesen Schutzleiter, den wir jetzt dimensionieren wollen, an die Hauptpotentialausgleichsschiene und wieder zurück zum Fehler, weil sich ein Kreis schließen muss.
+
+(0:07:00 - 0:07:16)
+So ungefähr würde sich das dann in Realität darstellen. Und jetzt geht es eben darum, dass man diese Erdung richtig auslegt. Was braucht man dafür? Wir sagen erstmal, der Worst Case ist der einpolige Kurzschluss, von dem wir da sprechen.
+
+(0:07:16 - 0:07:30)
+Und wir haben hier ein Beispiel angenommen mit einem Trafo, mit einer Nennleistung, einem UK, einem Spannungswert und einer Zeit. Das ist wichtig. Also da gehen wir davon aus, nach 150 Millisekunden schaltet der Schutz den Fehler ab.
+
+(0:07:30 - 0:07:56)
+Mit dieser Formel, wenn wir jetzt unsere Beispieldaten eintippen, kommen wir auf 30,1 Kiloampere und jetzt brauchen wir für den nächsten Schritt einen sogenannten K-Faktor. Also abhängig vom Material wird jetzt sozusagen dann ein unterschiedlicher Minimalquerschnitt berechnet, den wir brauchen. Das hatten wir schon, glaube ich, vorhin ganz gut beschrieben.
+
+(0:07:57 - 0:08:10)
+Man kann es sich hier aber auch in der Formel nochmal angucken. Also umso größer der K-Wert ist, bei Kupfer ist er am größten, umso kleiner wird der minimale Querschnitt, den wir da brauchen. Jetzt nehmen wir mal Kupfer, einfach weil das die meisten Trafo-Hersteller auch so machen.
+
+(0:08:10 - 0:08:22)
+Da ist dann der Querschnitt kleiner, den man braucht. Und dann kommt man in unserem Beispiel auf 81,5 Quadratmillimeter. Ja, der installierte Wert muss natürlich größer sein als der minimal berechnete.
+
+(0:08:22 - 0:08:41)
+Also würde ich sagen, typischer Wert 95 Quadrat Kupfer würde man jetzt hier installieren für die Gehäuseerdung und die Sternpunkt-Erdung. Dann kommt die Dimensionierung von dem Ring-Erder selbst. Also hier nur, um den Unterschied klar zu erklären.
+
+(0:08:41 - 0:08:50)
+Jetzt schließt man den Ring außen an die Trafo-Station an. Das machen wir ja meistens redundant, habe ich vorhin gezeigt. Aber um diesen Anschluss geht es jetzt.
+
+(0:08:51 - 0:09:24)
+Und warum? Weil, wenn wir mal den Fehlerfall hier wieder simulieren, diesmal am Wechselrichter, haben wir meinetwegen einen Erdschluss L3 gegen Erde, haben wir hier dargestellt. Dann würde sich jetzt nur als Beispiel dieser Fehlerstrom erst mal aufteilen. Zum Beispiel über den Pen oder den PE, je nachdem wie es ausgeführt ist, würde ein Teil des Fehlerstroms über das Kabel zurückfließen zur Transformator-Station, über die Niederspannungsabverteilung und ein anderer Teil, der hier nach unten geführt ist, über unser Erdungssystem, das wir da aufgebaut haben.
+
+(0:09:24 - 0:09:48)
+Also diesen Rundstahl oder so, den wir in die Kabelgräben gelegt haben. Wie auch immer, beides fließt also zurück zur Trafo-Station. Und jetzt muss also dieser untere Teil, der über die Erdung fließt und auch über unseren Ring-Erder zur Trafo-Station zurückkommt, sinnvoll und sicher tragbar bis zu dieser Potentialausgleichsschiene getragen werden.
+
+(0:09:49 - 0:10:00)
+Und das macht man im Grunde auf dem gleichen Weg, weil es geht ja um Strombelastbarkeit der Materialien. Der große Unterschied ist nur, dass man jetzt zwei Reduktionsfaktoren annehmen darf. Dadurch wird diese Strombelastung deutlich kleiner.
+
+(0:10:01 - 0:10:17)
+Das eine nennt sich Doppelerdschlussfaktor und das andere, das ist, finde ich, deutlich jetzt aus unserer Zeichnung gerade dargestellt worden, der Strom teilt sich ja auf. Es fließt nicht der gesamte Fehlerstrom bis den Ring in die Trafo-Station zurück. Und da spricht die Norm von 0,65.
+
+(0:10:17 - 0:10:31)
+Das ist im Zweifel, wenn wir da ein großes System aufbauen, sogar noch weniger. Aber wir nehmen natürlich die aus der Norm an. Und dann kommt man also wieder mit diesem Startwert 30,1 Kiloampere wie gerade, aber man reduziert ihn eben um zwei Faktoren.
+
+(0:10:32 - 0:11:10)
+Einmal 0,85, einmal 0,65 und ist dann bei 16,6 Kiloampere, also deutlich weniger als gerade bei der Sternpunkterdung. Macht dann aber wieder das Gleiche, also mit so einem Bei-Wert aus den Materialbüchern, rechnet man dann den Mindestquerschnitt aus und kommt dann hier auf 202 Quadratmillimeter in unserem Beispiel. Gut, und wenn man jetzt sagt, dass wir ja zwei Stück redundant aufgebaut haben, kann man das nochmal durch zwei teilen und dann würde man jetzt 105 Quadratmillimeter Fläche zweimal anschließen müssen.
+
+(0:11:10 - 0:11:27)
+Also zum Beispiel zwei Bandeisen. Und damit wären wir mit unserem Design, das wir vorhin gezeigt haben, gut bedient. So, das war's. 
+
+Also vielen Dank auch heute wieder für eure Teilnahme. Es hat mir sehr viel Spaß gemacht. Ich hoffe, ihr habt was mitnehmen können und ich freue mich aufs nächste Mal. 
+
+Tschüss.

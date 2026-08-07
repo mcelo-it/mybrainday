@@ -1,0 +1,26 @@
+(0:00:00 - 0:00:18)
+So, hallo und herzlich willkommen auch heute wieder zum Brainday, heute zum Thema Netzanalysegerät und Zähler. Wir schauen uns heute also zwei Geräte an, die man in jeder PV-Anlage finden kann. Das wird man auch gleich in den nächsten zwei Stunden sehen.
+
+(0:00:19 - 0:00:46)
+Und hier erst mal wieder die gewohnte Übersicht, was wir denn heute eigentlich alles so vorhaben. Wie gewohnt starten wir mit der Frage Warum? Warum brauchen wir Netzanalysegeräte und warum brauchen wir Zähler? Da werde ich auch auf die Unterschiede eingehen, aber hier übergeordnet sofort gleich betont für die als Motivationsschub gedacht sozusagen. Es sind beides essentielle Komponenten, beides essentielle Bauteile von so einer Erzeugungsanlage und die kommt man nicht drumrum.
+
+(0:00:46 - 0:00:58)
+Die findet man jedes Mal. Dann schauen wir uns ein bisschen Theorie an. Das ist so eine Art Basisgrundlagen für das ganze Thema Gedacht Zählpfeilsystem.
+
+(0:00:58 - 0:01:22)
+Was ist das überhaupt? Wie funktioniert das und warum ist das für diese zwei Anwendungsfälle so wichtig? Dann der erste Block sozusagen also das Netzanalysegerät an selbst. Da gehen wir sehr detailliert auf den ganzen Aufbau ein und schauen uns auch mal kurz an, wie man das parametriert. Typische Fehler zeigen wir, die sind aus unserer Sicht ganz wichtig.
+
+(0:01:22 - 0:01:35)
+Wenn man mal in so einer Inbetriebnahme dabei ist, ist es im Grunde bei mir noch nie so gewesen, dass gleich alles richtig funktioniert. Das ist, finde ich, ganz normal. Umso wichtiger ist, dass man sofort ein Gefühl dafür hat, woran es könnte liegen oder vielleicht sogar noch einen Schritt vorher.
+
+(0:01:35 - 0:01:53)
+Ist es denn überhaupt richtig, was da gerade so passiert? Also dass man überhaupt ein Gefühl dafür hat, wie man da eine Wertung, eine Bewertung gleich am Anfang ausführt. Dann nach der Pause machen wir eine Live-Messung. Wir gehen sozusagen mit euch zusammen wirklich live in der Anlage rein.
+
+(0:01:54 - 0:02:05)
+Da bin ich sehr gespannt darauf. Das wird eine richtig gute Geschichte. Ihr werdet sehen, wie sich die Angaben an den Netzanalysegerät verändert und könnt dann auch mit uns zusammen den Fehler suchen.
+
+(0:02:07 - 0:02:19)
+Dann sozusagen der zweite Block Zähler. Das ist ein bisschen kürzer gefasst, weil viel Theorie, die man die ganze Zeit über das Netzanalysegerät hört, dann auch auf dem Zähler sehr gut passt. Also schauen wir da vor allem dann nochmal auf die Unterschiede.
+
+(0:02:20 - 0:02:26)
+Und ganz am Schluss, das bezieht sich vorwiegend auf den Zähler, verschiedene Messkonzepte. Also wo finden wir denn eigentlich die Zähler?

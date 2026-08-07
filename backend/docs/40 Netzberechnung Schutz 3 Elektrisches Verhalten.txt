@@ -1,0 +1,311 @@
+(0:00:00 - 0:00:23)
+Ich starte auch hier mit einer grundlegenden Übersicht. Um die geht es heute im Detail nicht, aber ich will sie einmal zeigen, man hat sie vielleicht schon mal gesehen, aber nochmal mit in den Kopf nehmen, damit man das IK2-Strich zum Beispiel besser einordnen kann. Das ist ein Kurzschlussstromverlauf, so sieht er aus, so ist er in der Literatur angegeben.
+
+(0:00:23 - 0:00:57)
+Ich bewerte das jetzt hier auf keinen Fall im Sinne von Differenzen oder absoluten Werte, das ist jetzt nicht der Punkt, sondern wir wollen nur verstehen, es gibt den sogenannten Stoß-Kurzschlussstrom, der wird meist mit IP abgekürzt. Man sieht den dann auch in Datenblättern, wir sehen ihn später auf dem Typenschild von der Schaltanlage und der definiert diesen höchsten Stromwert, der bei einem Kurzschluss auftritt. Der tritt ganz am Anfang auf, weil so ein Kurzschluss immer abflacht in zeitlicher Abfolge.
+
+(0:00:57 - 0:01:15)
+Also das ist der höchste Wert gleich am Anfang und der ist nicht abschaltbar, weil so schnell kann ein Relais gar nicht reagieren, das ist technisch nicht möglich. Wir gehen jetzt einfach mal davon aus, dass es nicht geht. Also muss so eine Schaltanlage so einen IP-Stoß-Kurzschlussstrom abhaben können, weil den kriegt sie immer mitgewischt.
+
+(0:01:16 - 0:01:29)
+Dann gibt es den Anfangs-Kurzschluss-Wechselstrom, IK2-Strich. Ich habe schon gesagt, die zwei Striche verfolgen uns heute und vielleicht auch noch übers Wochenende hinaus. Also die zwei Striche immer mitnehmen jetzt, weil den gucken wir uns an.
+
+(0:01:29 - 0:01:52)
+Das ist der Anfangs-Kurzschluss-Wechselstrom, der ist da so im Diagramm so ein bisschen mittig und den nehmen wir für unsere Kurzschlussstromberechnung. Und wenn man dann warten würde, wie lange auch immer, wir haben absichtlich hier keine Zeiten rangeschrieben, dann pendelt sich das eben in einen Dauerkurzschluss-Wechselstrom IK ein. Der ist niedriger als der IK2-Strich und den nehmen wir nicht.
+
+(0:01:52 - 0:02:06)
+Also IK2-Strich, da ist er, den brauchen wir. So, jetzt habe ich das unterteilt in vier Schritte. Erstmal gucken wir uns Schritt 1 und 2 an.
+
+(0:02:06 - 0:02:23)
+Wir machen das jetzt für alle Komponenten gleich Schritt für Schritt. Deswegen, wer die erste Runde dann irgendwie nicht ganz verstanden hat, der wartet einfach auf die zweite und dann passiert wieder genau das Gleiche. Also, wir gucken uns erstmal den minimalen Kurzschlussstrom in Schritt 1 und 2 an.
+
+(0:02:23 - 0:02:37)
+Das machen wir dreipolig, nennen wir dann IK3-Strich. Der wäre dann zum Beispiel so, da ist er jetzt. Wir haben eine X-Achse, keine Y-Achse, das ist auch Absicht, die kommt später erst.
+
+(0:02:37 - 0:02:46)
+Und wir haben jetzt auch keine Zahlen dran geschrieben, weil jetzt geht es erstmal um relative Betrachtungsweise. Also da ist er. Jetzt kommt der zweipolige Kurzschluss dazu, 2-Min.
+
+(0:02:47 - 0:03:00)
+Und da gibt es eine einfache Formel, Wurzel 3 Halbe, das sind ungefähr 0,86. Und das multiplizieren wir mit dem IK3-Min. Das heißt, der IK2-Min, der ist dann schon mal kleiner, ja, da ist er.
+
+(0:03:01 - 0:03:24)
+Also links auf der X-Achse. Und jetzt nehmen wir den IK3-Min auch wieder weg, weil jeder der sozusagen, ja, vielleicht hat es der eine oder andere sich schon gedacht, es geht ja um den minimalen Kurzschlussstrom. Und wenn doch jetzt der IK2-Min minimaler ist als der IK3-Min, dann vergessen wir jetzt den IK3-Min, den brauchen wir nicht mehr, weil der ist ja nicht ganz so minimal wie der IK2-Min.
+
+(0:03:24 - 0:03:40)
+Und deswegen haben wir den hier nicht nur symbolisch wieder weggenommen, sondern wir betrachten den jetzt gar nicht mehr. IK2-Min, das ist der, den wir Schritt 1 bis 2 jetzt immer ausrechnen. Und wenn wir das geschafft haben, dann gucken wir uns auf der anderen Seite, wenn man so will, den maximalen Kurzschlussstrom an.
+
+(0:03:40 - 0:03:58)
+Das sind dann immer die Schritte 3 und 4, die wir machen werden. Und den maximalen, haben wir jetzt schon mehrfach gehört, das ist der IK3-Max-Zweistrich. Und den würde man jetzt erst mal am Anfang aus dem E7-Bogen oder aus der Tapsig rausziehen.
+
+(0:03:58 - 0:04:14)
+Das sehen wir auch gleich nochmal, aber das hatte ich oben im Netz gemacht. Und dann könnte man den jetzt mal am Netzverknüpfungspunkt hier hinsetzen und dann hat man da so einen IK3-Max. So, und wenn ich jetzt mir das Diagramm erstmal grundlegend anschaue, und ich sage euch, das wird noch viel komplizierter später.
+
+(0:04:15 - 0:04:47)
+Also haben wir jetzt erstmal diese Basis hier rausgezogen, um irgendwie wirklich mal nur die Grundlage zu betrachten. Dann sage ich, links vom minimalen zweipoligen Kurzschluss wird die Schutzauslösung stattfinden müssen. Und rechts von dem maximalen Kurzleitstrom kann kein größerer Strom mehr auftreten.
+
+(0:04:48 - 0:05:00)
+Also deswegen ist für uns sozusagen der Bereich zwischen diesen zwei Kennwerten jetzt so wichtig. Aber wir sehen das später nochmal deutlicher. Jetzt haben wir nur erstmal den minimalen und den maximalen Kurzschlussstrom gesetzt.
+
+(0:05:02 - 0:05:23)
+Okay, das ist unsere Topologie, wo wir im Kapitel 2 so viele Kenndaten rausgezogen haben und mit der jetzt unser Netzberechnungsprogramm berechnet hat. Und jetzt gucken wir mal, ob wir auf die gleichen Ergebnisse kommen würden. So, dazu überlegen wir uns, dass wir jetzt direkt oben am Netzanschlusspunkt, direkt am Verknüpfungspunkt, da haben wir jetzt einen Kurzschluss.
+
+(0:05:23 - 0:05:36)
+Kurzschluss haben wir vorhin ja bewertet, dass das das ist, worauf wir uns konzentrieren wollen. Wir brauchen mehr Platz für unsere Berechnung, deswegen ziehen wir diese Kenndaten links hin. Also das könnt ihr euch jetzt immer vergleichen, ich rechne ja jetzt.
+
+(0:05:37 - 0:05:53)
+Und links sind die ursprünglichen Kennwerte, die wir dafür benutzen. Rechts habe ich nochmal mein Netz hingezeichnet, weil auch das ziehen wir jetzt immer weiter mit, wenn wir in unserer Berechnung von oben nach unten immer weiter fortschreiten. Ich hatte es gesagt, es sind vier Schritte, jetzt kommt der erste Schritt.
+
+(0:05:53 - 0:06:09)
+Und der war doch, ich muss selber überlegen, ich glaube, minimaler Kurzschlussstrom. Und um den minimalen Kurzschlussstrom zu berechnen, müssen wir jetzt erstmal die maximale Impedanz ausrechnen. Wenn wir die Impedanz haben und die Spannung, ist das relativ einfach, typische elektrische Dreisatz.
+
+(0:06:09 - 0:06:40)
+Aber jetzt brauchen wir erstmal diese Impedanz, und zwar vom Netz auf der Hochspannungsseite. Die rechnen wir uns aus, das sage ich euch mit dieser Formel, U² durch S. Und auf der linken Seite, das ist jetzt genau die Quintessenz aus dem Kapitel 2. Diese Daten haben wir uns ja zusammengesammelt, also jetzt sind wir super vorbereitet, jetzt geht das ganz schnell. Haben wir ein Excel-Tool oder Netzberechnungsprogramm, und dann geht das ja innerhalb von wenigen Sekunden, kommt man auf diesen Wert, also die Netzimpedanz ist 7,87 Ohm in unserem Beispiel.
+
+(0:06:41 - 0:06:52)
+Die schreibe ich mir absichtlich oben übers Netz, weil die brauche ich später jetzt immer wieder. Also merkt euch die gerne da oben, 7,87 Ohm haben wir jetzt ausgerechnet. Dann wissen wir auch, wo die herkommt.
+
+(0:06:55 - 0:07:23)
+So, dann nur mal so ein Beispiel, wenn ich jetzt so eine Leistung erhöhe, also das könnt ihr nicht, sondern das Netz hat sozusagen mehr Leistung, dann würde jetzt, nur um diesen Zusammenhang mal zu greifen, auch die Impedanz sinken. Und das nehme ich mal vorweg, wenn die Impedanz sinkt, dann steigt der Kurzschlussstrom. Das ist aber nicht so relevant, sondern wir haben das jetzt mal mit einem Wert 7,87 Ohm ausgerechnet, das reicht uns jetzt erstmal.
+
+(0:07:24 - 0:07:51)
+Jetzt kommt der zweite Schritt, wir berechnen daraus jetzt den minimalen Kurzschlussstrom, den dreipoligen haben wir uns gemerkt, und zwar minimal, und das ist die Formel, die wir dafür brauchen. Die Herleitung machen wir auf gar keinen Fall, sondern das haben wir uns mühsam hergeleitet, und ihr könnt das jetzt einfach so mitnehmen und mit Zahlen füllen. Dieses C, das ist so ein Sicherheitsbeiwert, der kommt aus der Norm, steht unten, VDE0102, auch der Form halber, finde ich, haben wir ihn hingeschrieben.
+
+(0:07:52 - 0:08:13)
+Wir ziehen den jetzt auch immer mit, der ändert sich dann auch immer so ein bisschen, je nach Spannungsebene, aber auf den würde ich jetzt nicht weiter eingehen, sondern diese Werte, die da jetzt stehen, 1 mal 110 durch Wurzel 3 mal 7,87, das sind einfach Werte, die wir uns schon aus dem vorherigen Kapitel erarbeitet haben. So, wenn wir das machen, kommt jetzt endlich mal ein Strom raus. 8070 Ampere.
+
+(0:08:14 - 0:08:52)
+Wenn wir den jetzt umrechnen in den Zweipoligen, den Zusammenhang hatte ich vorhin schon mal gezeigt, dann kommt eben raus, dass der kleiner wird, und da sieht man es jetzt nochmal in absoluten Zahlen, also 6.989 ist kleiner als 8070, und wir suchen ja den minimalen, also bitte merkt euch, 6.989, den nehmen wir mit. Das machen wir auch höchst physisch so, indem ich das hier mal so ein bisschen zusammenschiebe, und jetzt da mir zwei Zahlen merke. Jetzt kommt der dritte Schritt, und der dritte und vierte Schritt, der geht jetzt immer in die andere Richtung, jetzt brauchen wir dann den maximalen Kurzschlussstrom.
+
+(0:08:52 - 0:09:20)
+Wir brauchen die immer beide, weil wir zwei Bewertungen machen müssen. Wie geht das? Die Berechnung der minimalen Impedanz, ja, sehr einfach, erst mal beim Netz muss ich gar nichts machen, weil der Netzbetreiber das für mich schon gemacht hat. Das sage ich beim Schritt 4, der maximale Kurzschlussstrom, den muss ich also nicht mehr aus der minimalen Impedanz berechnen, weil der Netzbetreiber das für mich gemacht hat und in dem E7 und E9-Bogen angegeben hat.
+
+(0:09:20 - 0:09:43)
+Ihr erinnert euch, also hier an meiner rechten Seite seht ihr das, die 31,5 kA in einer Sekunde, die haben wir ja schon gekriegt, also müssen wir da gar nichts berechnen. Jetzt habe ich also den minimalen Strom ausgerechnet und den maximalen Strom, den habe ich ja schon gekriegt gehabt vom Netzbetreiber. Also jetzt habe ich von diesen vier Schritten erst mal alle vier zu meiner Zufriedenheit abgearbeitet.
+
+(0:09:43 - 0:09:53)
+Achtung, jetzt kommt ein großer Sprung. Ich gehe nämlich wieder zurück in meine Übersicht. Ihr müsst euch das nicht auswendig merken, sondern mir einfach nur vertrauen.
+
+(0:09:53 - 0:10:18)
+Jetzt nehme ich diese Stromwerte, die ich mir hier ausgerechnet habe, mit und stelle die hier mal dar. Zur Erinnerung, iK2-Min, das ist der kleinere minimale, also nehme ich nur den und den iNK3, das ist der maximale, den zeige ich hier mal dargestellt. 31,5 kA hatten wir gesagt und der minimale, der war, Achtung, das sind jetzt nicht Kiloampere, also 6,9 Kiloampere.
+
+(0:10:21 - 0:10:47)
+So, haben wir den mal an der Stelle berechnet und das hoffentlich auch gut mitgenommen, weil jetzt machen wir wieder genau das gleiche. Wir rutschen jetzt eine Position weiter runter und machen genau das gleiche jetzt am Trafo, auf der Unterspannungsseite. Weil wir jetzt gerade ja schon irgendwie so gefestigt sind in dem, was wir da berechnet haben, wird es jetzt auch ein bisschen komplizierter, weil ich muss zwei Effekte beachten.
+
+(0:10:48 - 0:11:08)
+Ich versuche es einfach nach und nach oder der Reihe nach und dann, glaube ich, wird es also mir klar und dann hoffentlich auch allen Teilnehmern. Wir machen wieder die vier Schritte. Erstens, wir berechnen die maximale Impedanz und zwar jetzt nicht mehr oben am Netz, sondern auf der Unterspannungsseite des Transformators.
+
+(0:11:08 - 0:11:20)
+Dazu brauchen wir ein paar Teilschritte. Die haben wir hier aufgeschrieben. Ich habe ja schon gesagt, diese Indizie, die werden jetzt immer komplizierter, aber wir haben uns dafür entschieden, weil wir glauben, dass man dann immer besser nachvollziehen kann, wo das eigentlich herkommt.
+
+(0:11:20 - 0:11:41)
+Ich lese es jetzt nicht immer vor, aber jetzt lese ich es halt hier mal vor. Also die Impedanz Netz-Mittelspannung plus Transformator ist sozusagen die Impedanz des Netzes auf der Mittelspannungsseite plus die Impedanz des Trafos. Relativ einfach, aber man muss es mitführen, sonst kommt man durcheinander.
+
+(0:11:41 - 0:11:58)
+Und dazu brauchen wir zwei Zahlen. Einmal die Impedanz des Netzes, aber Achtung, auf die Mittelspannungsseite berechnet. Das ist wichtig. Ich denke, das ist eine typische Stolperfalle. Wir haben es gerade schon gerechnet, diese Impedanz. Genau die haben wir ausgerechnet jetzt gerade eben, aber bezogen auf die Oberspannungsseite.
+
+(0:11:58 - 0:12:12)
+Das hilft uns jetzt nicht. Wir müssen es jetzt auf die Unterspannungsseite berechnen. Deswegen ist das jetzt 31,5. Ich habe es grün gemacht. Vorhin stand da 110 und die Leistung ist aber die gleiche. Und jetzt werden wir gleich den Unterschied sehen.
+
+(0:12:12 - 0:12:38)
+Da ist es. Wir haben jetzt plötzlich nur noch 0,6 Ohm. Ist der gleiche Punkt. Ich habe es extra oben neben die Schiene geschrieben. Also nicht da, wo der Blitz ist, sondern oben an die Schiene 0,646, weil das jetzt der ohmsche Widerstandswert vom Netz ist, bezogen auf eine Mittelspannung, 31,5 kV. Wir brauchen den zweiten Wert, einen Trafo.
+
+(0:12:38 - 0:12:52)
+Da kommt jetzt endlich mal dieses UK, das irgendwie ja immer viel besprochen wird, glaube ich. Da ist es drin. Und jetzt sieht man auch den Zusammenhang, wenn so ein UK also plötzlich größer oder kleiner wird, ändert sich offensichtlich die Impedanz des Trafos.
+
+(0:12:52 - 0:13:04)
+Das machen wir jetzt hier mit unseren Kenndaten 31,5. Wir rechnen also mittelspannungsseitig die Leistung 31,5 MVa und dann kommen da 3,94 raus. Und jetzt Achtung, wieder über mich gucken.
+
+(0:13:04 - 0:13:26)
+Das schreibe ich jetzt extra dahin, weil das ist die Impedanz nur vom Trafo. Die 0,646 ist nur vom Netz und die 3,94 ist nur vom Trafo. Und jetzt kommt endlich die Summe. Das ist endlich das, was wir eigentlich brauchen. Wenn man das zusammenaddiert, kommt 4,58 raus. Das heißt, die Impedanz hat sich jetzt deutlich vergrößert durch den Transformator.
+
+(0:13:27 - 0:13:47)
+Das ist, denke ich, die Quintessenz von dieser Seite. Der Trafo hat die Impedanz an der Unterspannungsseite, also auf dieser Sammelschiene, jetzt sozusagen deutlich vergrößert. Was führt dazu, dass der Kurzschlussstrom sich deutlich verringert? 3,968 Ampere nur noch.
+
+(0:13:47 - 0:13:59)
+Er wird sozusagen gedämpft durch diesen Transformator. Wir haben wieder den Zweipoligen ausgerechnet und dann kommt man auf 3,436 Ampere. Wir sehen das gleiche in der Übersicht, die Veränderungen sozusagen.
+
+(0:14:00 - 0:14:09)
+Aber so hätte man jetzt an dieser Stelle mit der Hand den Kurzschlussstrom berechnet. Dritter Schritt, minimale Impedanz. Wir brauchen wieder die andere Seite auch.
+
+(0:14:09 - 0:14:27)
+Für eine minimale Annahme setzen wir die Netzimpedanz einfach mal auf 0. Das ist der unumstrittene Worst Case. Negativ kann sie nicht werden, also man setzt die Impedanz quasi so schwach, wie es nur irgendwie geht. Und Achtung, ich hoffe, es hilft eher, als dass es das komplizierter macht.
+
+(0:14:27 - 0:14:38)
+Jetzt haben wir oben Zmax und Zmin reingeschrieben. Und neben die 0,646, das war unser Max, haben wir jetzt die 0,0 geschrieben. Also jetzt rechnen wir die minimale Variante aus.
+
+(0:14:39 - 0:14:58)
+0 plus 3,94 ist 3,94. Und wenn man das jetzt einsetzt für den maximalen Kurzschlussstrom, also Netz gleich 0, wir haben es ein bisschen durchgestrichen, dann kommt raus 5077 Ampere. Also der maximale Kurzschlussstrom ist zum Glück größer als der minimale Kurzschlussstrom.
+
+(0:15:00 - 0:15:13)
+Also wir haben den Trafo mit reingerechnet. Dazu mussten wir das Z aufsummieren und da darf man keinen Fehler machen. Dann haben wir das für maximal und für minimal gemacht.
+
+(0:15:13 - 0:15:22)
+Und jetzt kommen zwei Ströme raus. Und die sind erstmal positiv. Also wir haben hier erstmal einen Kurzschlussstrom von 5 Kiloampere.
+
+(0:15:22 - 0:15:38)
+Werden wir später sehen, wer das schon öfter mal gemacht hat, sagt sich in der Mittelspannung 5 Kiloampere total unkritisch. So eine typische Schaltanlage hat einen Bemessungskurzschlussstrom von 20 Kiloampere oder mehr. Und so ein Kabel kann das auch, jedenfalls für eine gewisse Zeit.
+
+(0:15:38 - 0:15:50)
+Aber das ist der entscheidende Punkt jetzt, um später die Komponenten bewerten zu können. Maximaler Strom 5 Kiloampere, sage ich jetzt erstmal Daumen hoch. Aber die Bewertung im Detail kommt dann später noch.
+
+(0:15:51 - 0:16:01)
+Wir nehmen diese Ströme mit, darum ging es ja eigentlich. Und haben jetzt sozusagen hier einen deutlich kleineren Strom. Also von 31 Kiloampere jetzt auf 5 Kiloampere runter.
+
+(0:16:02 - 0:16:14)
+Und der minimale, der ist von 6,9 Kiloampere auf 3,4 Kiloampere runtergegangen. Ich glaube, das hilft sehr gut visuell. Das war jedenfalls unsere Intention, um zu verstehen, was jetzt eigentlich so nach und nach mit diesen Strömen passiert.
+
+(0:16:16 - 0:16:24)
+Jetzt wiederholt sich es in Anführungsstrichen einfach nur. Wir machen das Ganze mal mit dem Kabel. Die Mathematik dahinter ist eine andere.
+
+(0:16:24 - 0:16:32)
+Die Logik ist genau die gleiche. Schritt 1, wir berechnen die maximale Impedanz. So geht das halt mit einem Kabel.
+
+(0:16:32 - 0:16:47)
+Also Widerstandsbeläge, Länge, Beläge der Kapazitäten und der Induktivitäten. Da ist jetzt die Frequenz mit drin, das ist Elektrotechnik pur. Darauf gehen wir nicht ein, sondern das ist eine wissenschaftliche Tatsache.
+
+(0:16:48 - 0:17:12)
+Und wenn man jetzt hier die Kapazitätsbeläge und die Länge, ganz wichtig, aus dem Datenblatt eintippt, dann kommen jetzt diese Werte für das Z raus. Und ich schreibe das gleich dahin. Also wieder ein bisschen links versetzt, weil ich ja sage, das ist nicht die Summe, sondern das ist jetzt der einzelne Ohmwiderstand des Kabels.
+
+(0:17:13 - 0:17:17)
+Und gleiches Spiel. Ich summiere das jetzt alles auf. Achtung, jetzt wird es immer länger.
+
+(0:17:17 - 0:17:28)
+Da habt ihr ja gesagt, diese Indizes werden immer länger. Jetzt ist es das Netz plus der Trafo plus das Kabel. 0,646 plus 4,58 plus 0,13 ist 4,71.
+
+(0:17:28 - 0:17:35)
+Die Impedanz wird immer größer. Da sage ich gleich im Umkehrschluss, dann wird der Strom auch immer kleiner. Darauf wollen wir ja auch hinaus.
+
+(0:17:36 - 0:17:52)
+Jetzt bin ich es kurz übersprungen und ich sage es der Form halber, dieses Xc wird nicht berücksichtigt. Das liegt daran, dass die Spannungen dann klein bis null werden. Deswegen sind die Kapazitäten gar nicht so relevant.
+
+(0:17:52 - 0:17:59)
+Aber ihr macht es jetzt hier so, wie unsere Formel dargestellt ist. Da ist das auch nicht mehr mit drin. Und das Netzberechnungsprogramm, das weiß es von ganz allein.
+
+(0:18:00 - 0:18:09)
+Also wir haben wieder die Impedanz ausgerechnet und daraus resultiert wieder der Strom. Das funktioniert jetzt wieder mit der gleichen Formel. Nur diese Indizes sehen ein bisschen komplexer aus.
+
+(0:18:09 - 0:18:18)
+Also 1 mal 31,5 auf die Spannungsebene achten. Durch Wurzel 3 mal diese 4,71 oben. Und dann kommt jetzt dieser Strom raus.
+
+(0:18:19 - 0:18:33)
+Wieder übersetzen auf den zweipoligen 3,861 mal 0,87 ist 3,3 Kiloampere. Ich glaube, ich werde jetzt bewusst ein bisschen schneller, weil das ist ja jetzt wieder das Gleiche. Wir machen das jetzt wieder mit der minimalen Impedanz.
+
+(0:18:34 - 0:18:46)
+Überlegen kurz und sagen, dass das nicht relevant ist. Weil wir den Worst Case annehmen. Den Worst Case, das heißt, wir nehmen die Impedanz als 0 an.
+
+(0:18:46 - 0:18:56)
+Also das perfekte Kabel, wenn man so will. Und dann dämpfen wir den Strom ja nicht. Das heißt, wir ziehen einfach wieder den gleichen Kurzschlussstrom für den Maximalwert mit.
+
+(0:18:57 - 0:19:05)
+Ganz wichtig, maximal und Minimalwert gehen jetzt so auseinander. Für den maximalen Wert ist es ja, finde ich, nur logisch. Man tut einfach so, als gäbe es keine Dämpfung.
+
+(0:19:05 - 0:19:13)
+Der bleibt immer gleich. Deswegen wieder 3,94 Ohm. Der minimale, da wird der Strom immer kleiner, weil die Impedanz immer größer wird.
+
+(0:19:14 - 0:19:22)
+Das schieben wir uns hier wieder mit rein. Und jetzt haben wir da ja nur einen Kilometer Kabel gehabt. Also bleibt der maximale unabhängig von der Länge gleich.
+
+(0:19:22 - 0:19:32)
+Aber der minimale, der ist jetzt von 3,4 auf 3,3 runter. Und jetzt kann sich das jeder selber ausrechnen. Wenn wir jetzt 10 Kilometer machen oder 100 Kilometer, dann verstärkt sich dieser Effekt natürlich enorm.
+
+(0:19:33 - 0:19:45)
+Irgendwann wird dieser minimale Fehlerstrom, machen wir doch mal ein Beispiel. Das sind jetzt 0,1 Kiloampere ungefähr. Wenn wir das jetzt mit 10 Kilometer verzehnfachen, wäre das 1 Kiloampere.
+
+(0:19:45 - 0:19:57)
+Dann wären wir nur noch bei 2,4. Und wenn wir jetzt 20, 30 Kilometer dran machen, dann haben wir plötzlich überhaupt keinen Fehlerstrom mehr. Und das ist auch schlecht, weil dann die Schutzrelais nicht mehr auslesen würden.
+
+(0:19:57 - 0:20:08)
+Hat man vorhin kurz gesagt. Also der minimale Fehlerstrom, der muss immer größer sein, als der Einstellwert des Relais. Weil sonst kann das Relais nicht ansprechen.
+
+(0:20:10 - 0:20:16)
+Gut, wir gehen eins weiter. Der Mittelspannungstrafo. Ich hoffe jetzt wiederholt sich es ja tatsächlich einfach nur wirklich.
+
+(0:20:16 - 0:20:24)
+Also wieder die Impedanzformel. Diesmal mit einer anderen Spannungsebene. Das ist jetzt auf 0,8 kV, also auf die Niederspannung gerechnet.
+
+(0:20:24 - 0:20:33)
+Dann kommt hier ein Wert von 0,008 Ohm raus. Also das ist jetzt schon ziemlich klein. Aber das liegt jetzt auch an der Spannungsebene.
+
+(0:20:33 - 0:20:42)
+Wir gehen ja jetzt auf die Niederspannungseite. Und dann rechnen wir also da einen Wert von 0,03 Ohm an der Stelle aus. Ein kleiner Tippfehler da drüben.
+
+(0:20:43 - 0:20:52)
+Also jetzt Achtung. Die 4,69 Ohm, die da standen, jetzt umgerechnet auf die Unterspannungseite. Also die Niederspannung, das haben wir oben ganz genauso mal gemacht.
+
+(0:20:52 - 0:21:03)
+Von der 7,87 auf die 0,646. Das ist der Effekt, der sich dadurch betrachtet, dass wir jetzt in einer anderen Spannungsebene sind. Müssen wir also die Impedanzen und auch die Ströme umrechnen.
+
+(0:21:03 - 0:21:16)
+Also wir sind jetzt in der Betrachtung der Niederspannung. Und dann werden jetzt plötzlich diese Ohmwerte ganz, ganz klein. Und wenn Ohmwerte klein sind, das wäre jetzt eine Top-Menti-Frage, dann nehme ich es gleich mal vorweg, dann werden die Ströme sehr, sehr groß.
+
+(0:21:17 - 0:21:24)
+Da ist er. Jetzt haben wir plötzlich 44 Kiloampere. Wir multiplizieren das wieder mit unserem Faktor.
+
+(0:21:24 - 0:21:34)
+Kommen halt immer noch auf 38 Kiloampere. Okay. Andere Seite, minimale Impedanz nehmen wir wieder mit 0 an.
+
+(0:21:34 - 0:21:38)
+Das haben wir oben auch schon gemacht. Workcase-Betrachtung. Deswegen ist das immer ein bisschen einfacher.
+
+(0:21:39 - 0:21:48)
+Und dann muss man dieses Z nicht mitziehen. Und dann kommt man an der Stelle auf 50,8 Kiloampere für den maximalen Kurzschlussstrom. Und jetzt, glaube ich, haben wir einen Daumen nach unten.
+
+(0:21:48 - 0:22:04)
+Ja, genau. Jetzt haben wir einen Daumen nach unten. Weil ein ganz, ganz typischer Kennwert für Schaltgeräte, für Niederspannungsleistungsschalter zum Beispiel, ist ein maximaler Kurzschlussstromzulässigkeit von 50 Kiloampere.
+
+(0:22:05 - 0:22:11)
+Da sind wir jetzt zugegebenermaßen ganz knapp drüber. Aber es geht jetzt ums Prinzip. 50,8 ist größer als 50.
+
+(0:22:11 - 0:22:38)
+Das heißt, das wäre so jetzt nicht zulässig. Und warum dieser Fall mit diesen 6,5 kVa so auch nicht auftritt, 6,5 mVa, sehen wir später noch mal. Aber jetzt für den Satz hier zu Ende gesagt, nehmt mit, dass man über die Leistung des Transformators, hier sind das 6500 kVa, umso höher die wird, umso größer ist dann auch dieser Kurzschlussstrom.
+
+(0:22:38 - 20:3:00)
+Das heißt, es gibt eine logische Begrenzung für die Leistung, für die maximale Leistung des Transformators, resultierend aus dem resultierenden maximalen Kurzschlussstrom auf der Niederspannungsseite. Das ist tatsächlich so. Die Stationen werden meinetwegen sinnhafterweise immer größer im Leistungsbereich, weil die Anlagen größer werden.
+
+(0:23:00 - 0:23:16)
+Aber dann hat der Techniker, das sind ja meistens die, die die Stationen bauen, das Problem, dass er auf der Niederspannungsseite so einen großen Kurzschlussstrom kriegt. Genau das, was wir hier zeigen, dann sagt er auch Daumen nach unten. Und was jetzt in dem Fall hier die Lösung war, ist, das ist ein Mehrwickler.
+
+(0:23:17 - 0:23:27)
+Also man hat auf der Niederspannungsseite zwei Wicklungen. Und dann muss man jede Wicklung für sich betrachten. Und dann wäre die Leistung halbiert.
+
+(0:23:27 - 0:23:35)
+Und dann wäre auch der Kurzschlussstrom halbiert. Das machen wir hier nicht. Aber deswegen ist das Daumen nach unten, finde ich total sinnvoll.
+
+(0:23:35 - 0:23:47)
+Weil wenn die das so machen würden, dann hätten sie euch jetzt eine Schaltanlage geschickt, die nicht richtig dimensioniert ist oder eine Station. Gut, da haben wir unseren Strom. Man sieht es visuell hoffentlich gut aufbereitet.
+
+(0:23:47 - 0:23:56)
+Der wird jetzt auf einmal wieder viel größer, weil wir eben auf der Unterspannungsseite sind. Letzter Punkt für dieses Kapitel. Wir machen wieder ein Kabel dran.
+
+(0:23:57 - 0:24:03)
+Da gehe ich nicht mehr ins Detail, sondern ihr kennt das jetzt schon. Das sind die gleichen Formeln. Xc wird wieder nicht betrachtet.
+
+(0:24:04 - 0:24:33)
+Man summiert sozusagen diese Ohmwerte auf und kommt in der Quintessenz zu dem Punkt, da muss man mich vielleicht jetzt doch nochmal rausnehmen, dass man jetzt wieder einen maximalen Ohmwert hat, der sich aufaddiert. Also zu dem 0,01 Ohm am Unterspannungsanschlusspunkt des Trafos kommen dazu die Kabel. 0,182, das ist dann in Relation sehr viel.
+
+(0:24:33 - 0:24:44)
+Finde ich, kann man schon mal gut mitnehmen, wie viel die Kabel da ausmachen. Und dann kommt man auf 0,192 Ohm. Wenn man daraus jetzt wieder den Kurzschlussstrom berechnet, dann hat man eine hohe Dämpfung drin.
+
+(0:24:44 - 0:24:49)
+Das heißt, der Kurzschlussstrom wird viel kleiner. Da haben wir ja gerade voll drauf rumgeritten. Wir hatten gerade 50 Kiloampere.
+
+(0:24:50 - 0:25:03)
+Jetzt haben wir plötzlich nur noch 2,2 Kiloampere. Da geht es jetzt ehrlich gesagt schon in die Richtung, dass er wieder zu klein wird. Das ist ja wirklich ein brutales Spiel zwischen Maximum und Minimum, weil gerade war er zu groß, dann hält der Schalter nicht.
+
+(0:25:03 - 0:25:20)
+Jetzt wird er langsam schon zu klein, weil wenn man dann anderer Brainday jetzt in so eine Kennlinie geht von einer Sicherung, dann würde eventuell die Sicherung erst nach einem Tag abschalten oder jetzt nach nicht 5 Sekunden zumindest. Also sie würde erst nach mehreren Stunden auslösen. Das sind so stromspannungsabhängige Kennlinien.
+
+(0:25:21 - 0:25:33)
+Also da wäre jetzt der Strom vielleicht plötzlich zu klein, um tatsächlich das Ende des Kabels zu schützen. Okay, aber wir machen es jetzt mal mit einem Kilometer. Und dann haben wir hier einen Strom ausgerechnet.
+
+(0:25:34 - 0:25:41)
+Impedanz brauchen wir wieder nicht. Schreibe ich rechts hin, nehmen wir wieder den gleichen Wert an, um eine Worst-Case-Betrachtung zu machen. Und jetzt haben wir es erst mal geschafft.
+
+(0:25:42 - 0:26:09)
+Wir haben jetzt tatsächlich für jeden Punkt an meiner Topologie einen minimalen und einen maximalen Kurzschlussstrom ausgerechnet. Ich lasse das 10 Sekunden zumindest sacken, dass das ein Riesenschritt ist in Richtung Schutzkonzept, weil jetzt hat man erst mal den ersten Meilenstein gemacht, den ersten Pfeil gesetzt. Man weiß jetzt erst mal, welche Ströme überhaupt auftreten werden.
+
+(0:26:10 - 0:26:22)
+Und zwar immer eben in dieser Range, die ich gleich am Anfang so schraffiert gezeigt habe, zwischen dem minimalen und dem maximalen. Das wissen wir jetzt erst mal. Gut, den Wechselrichter habe ich vorhin schon erklärt.
+
+(0:26:22 - 0:26:26)
+Den brauchen wir nicht, den nehmen wir nicht mit rein. Haben wir nur der Vorhalter gemacht.

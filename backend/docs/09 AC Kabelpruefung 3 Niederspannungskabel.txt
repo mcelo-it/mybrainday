@@ -1,0 +1,218 @@
+(0:00:00 - 0:00:20)
+Für das nächste Kapitel, die Niederspannungskabel. So, wir gucken uns mal an, wie man Messungen an so einem Niederspannungskabel macht. Und aus der Norm abgeleitet, da steht es ja auch, die 0100600 Teil 6, das ist die wichtigste, für die Niederspannungskabelprüfung haben wir 6 Prüfungen abgeleitet.
+
+(0:00:20 - 0:00:39)
+Wir gucken uns die jetzt nacheinander an, wie das geht, was man beachten muss und dann kann man natürlich auch viel einfacher danach so ein Messprotokoll bewerten. Also zunächst einmal die Durchgängigkeit der Leiter und das PE. Eine, wie ich finde, eher unpopuläre Vorgehensweise vor Ort.
+
+(0:00:39 - 0:00:55)
+Sie steht aber in der Norm drin, wir zeigen einmal kurz, was damit gemeint ist. Also grundsätzlich, es steht ja im Namen drin, soll man die Durchgängigkeit der Leiter, und zwar aller Leiter, nachweisen. Das sind zum einen mal die Schutzleiter und die aktiven Leiter.
+
+(0:00:55 - 0:01:19)
+Und jetzt kommt es, wenn man wirklich diffizil das machen will und die Norm beschreibt es so, dann braucht man da wieder einen Sollwert, mit dem man das vergleichen kann. Und den kann man sich ausrechnen, weil so ein Widerstandswert von dem Kabel ist abhängig von der Länge und vom Kabeltyp und auch noch von der Temperatur. Also jetzt wird es hochwissenschaftlich, das würde ich so konkret nicht machen, sondern das kann man überschlägig machen.
+
+(0:01:19 - 0:01:57)
+Wir haben es ja trotzdem mal dargestellt, weil es in der Norm so drin steht. Also für mich zusammengefasst, so ein Kabel hat einen theoretischen Leiterwiderstand, den kann man sich ausrechnen und jetzt kommt halt der an sich interessante Punkt, wenn die Anlage noch abgeschaltet ist, das ist wichtig, dann kann man diese Durchgängigkeit auch messen und dann eben mit dem theoretischen Wert vergleichen. Wie macht man das? Ich mache das jetzt bei allen Prüfungen so, dass ich erstmal so ein Schema zeige, aber auch gleich Werbung mache für das, was als nächstes kommt, nämlich wieder so eine kleine 3D-Animation.
+
+(0:01:58 - 0:02:13)
+Also grundsätzlich für die Elektrotechniker so sieht das aus. Meine AC-Seite, dann meinen Wechselrichter, meine Sicherung, mein Trafo und der Sternpunkt ist geerdet, deswegen habe ich da jetzt so ein PE mitgezogen. Und die Durchgängigkeit könnte ich jetzt prüfen, indem ich am Wechselrichter brücke.
+
+(0:02:14 - 0:02:40)
+Achtung, der ist nicht in Betrieb, das ist ganz wichtig, das hat der Elektriker vorher nochmal geprüft, sonst ist das natürlich ein Riesenfehler. Also der setzt eine Brücke rein und jetzt kann er den Widerstand der Leitung messen und zwar von der Trafostation aus natürlich sinnhafterweise, dann hätte er jetzt hier L3 gegen PE gemessen. Ich habe es schon gesagt, das ist die Darstellung in 2D, sage ich mal, wir machen das lieber in 3D.
+
+(0:02:40 - 0:02:59)
+Ich zeige also genau das gleiche jetzt nochmal, vor allem für die, die das halt noch nie gemacht haben. Irgendein Wechselrichter wäre jetzt aber dezentrale Wechselrichter wichtig, weil wir müssen ja auf die AC-Seite, da schließen wir ein Kabel an und dieses Kabel kommt dann in der Trafostation an. Das ist dann so eine NH-Sicherung oft.
+
+(0:02:59 - 0:03:18)
+In unserem Beispiel nehmen wir jetzt also so eine NH-Trennleiste, die kann man so aufziehen. Und dahinter sind Kupferschienen, Phase 1, 2 und 3. Da sind dann immer mehrere Sicherungen zusammengesetzt. Dann ist da meistens so ein Niederspannungsleistungsschalter und nach diesem Leistungsschalter geht es dann weiter zum Transformator.
+
+(0:03:18 - 0:03:41)
+Zack, Phase 1, 2 und 3. Und was man gerade auch gesehen hat, der Sternpunkt da unten wird gelegt auf den PE, auf die Potentialausgleichsschiene von der Trafostation. Und da, wie man sieht, wir zoomen gleich rein, ist dann auch der grün-gelbe von diesem vierartigen Kabel aufgelegt. Also so ist genau das gleiche dargestellt, nur ein bisschen bunter, sage ich jetzt mal.
+
+(0:03:42 - 0:03:50)
+Und die Durchgängigkeit habe ich ja gerade schon erklärt. Man macht den Deckel auf von dem Wechselrichter, so sieht das aus. Das Ganze ist nicht in Betrieb.
+
+(0:03:50 - 0:04:16)
+Jetzt kann ich da eine Brücke reinsetzen, meine zwischen Phase 1 und 2. Dann laufe ich rüber zu meiner Trafostation, nehme diesen Sicherungshalter raus und kann dann da unten jetzt auch messen. Das sind meine Kabelschuhe, die da auf dieser Schiene drauf sitzen und da dann jetzt die Durchgängigkeit prüfen zwischen 1 und 2. Also, die Durchgängigkeitsprüfung, sage ich mal, bildlich, hoffentlich, wirklich schön, anschaulich erklärt. Und jetzt kommt die Bewertung.
+
+(0:04:17 - 0:04:27)
+Mein berechneter Wert sollte größer sein als die Messung. Sagen wir es lieber andersrum, jetzt wo ich drüber nachdenke. Der Messwert sollte einfach kleiner gleich sein als mein berechneter Wert.
+
+(0:04:27 - 0:04:35)
+Dann geht der Daumen hoch. Wenn es andersrum ist, geht der Daumen nach unten. Das wäre die Durchgängigkeit.
+
+(0:04:35 - 0:04:48)
+Jetzt kommt die nächste Prüfung. Der Isolationswiderstand will gemessen werden. Wie geht das? Erstmal steht in der Norm drin, ich muss die Isolationswerte aller aktiven Leiter messen.
+
+(0:04:48 - 0:04:54)
+Das sehen wir auch gleich im Protokoll. L1, L2, L3. Wenn es einen N gibt, dann auch den.
+
+(0:04:54 - 0:05:11)
+Und zwar jeweils gegenüber dem Schutzleiter PE. Wenn er denn mitgezogen ist, sagen wir mal Standard-TN-System, dann hätten wir einen Vierleiter, also dreimal L und den PE. Da könnte man die Phasen dann jeweils gegen den PE messen.
+
+(0:05:11 - 0:05:21)
+Die Prüfspannung und die Grenzwerte sind abhängig von der Nennspannung. Da nehme ich die Tabelle aus der Norm mit rein und sage SELV. Das habe ich über mir kurz erklärt.
+
+(0:05:21 - 0:05:32)
+Das sind extra Low-Voltage-Werte. 24 Volt Kleinspannung und so. Die haben dann andere Isolationswiderstände als der hier, über 500 Volt.
+
+(0:05:32 - 0:05:42)
+Das wäre mein Wechselrichter mit Sicherheit. Vielleicht ein 800-Volt-System. Dann muss der Wert über 1 Megaohm sein.
+
+(0:05:42 - 0:05:48)
+Aber bei 400-Volt-Systemen auch. Ich habe den grün markiert. Merkt euch das, dieses 1 Megaohm hilft immer.
+
+(0:05:49 - 0:05:55)
+Die Anlage muss weiterhin abgeschaltet sein. Dann gucken wir uns das wieder an. Einmal kurz im Schema.
+
+(0:05:55 - 0:06:06)
+Aber wirklich nur kurz, weil ich das 3D-Modell besser finde. Jetzt ist der Wechselrichter getrennt. Weil ich den Wechselrichter nicht mit so einer hohen Prüfspannung belasten will.
+
+(0:06:06 - 0:06:12)
+Man sieht das, die sind nicht mehr angeschlossen. Dann kommt meine Prüfspannung. Im 3D-Modell irgendwie schöner dargestellt.
+
+(0:06:13 - 0:06:22)
+Achtung, Achtung, Achtung. Ich mache den Wechselrichter die Kabel ab. Und gehe dann in meine Trafo-Station rein.
+
+(0:06:23 - 0:06:28)
+Lege hier mein Prüfgerät an. Phase 1 gegen PE. Um meine Isolation zu prüfen.
+
+(0:06:29 - 0:06:37)
+Wie gesagt, für mich wichtig. Ich habe vorher das Kabel vom Wechselrichter getrennt. Weil der gegebenenfalls diese hohen Prüfspannungen gar nicht abhaben kann.
+
+(0:06:38 - 0:06:44)
+Und dann messe ich L3. Das ist in Ordnung. Und zeige euch hier nochmal einen Fehler.
+
+(0:06:44 - 0:06:52)
+Genau so wollte ich das einmal darstellen. Also wenn jetzt diese Isolierung von dem Kabel irgendwo gebrochen ist. Dann wäre das nicht mehr 1 Megaohm.
+
+(0:06:53 - 0:07:00)
+Sondern vielleicht nur 0,02 Megaohm. Und dann geht der Daumen nach unten. Ich suche den Fehler, repariere das Kabel.
+
+(0:07:01 - 0:07:10)
+Und messe dann wieder mehr als 1 Megaohm. Das mache ich für L3 gegen PE, L2 gegen PE. Und jetzt verschiebe ich meine Klemme dann nochmal gegen L1 gegen PE.
+
+(0:07:10 - 0:07:20)
+Und die schreibe ich dann alle auf. Und schreibe sie in mein Messprotokoll. Schutz durch automatische Abschaltung der Stromversorgung.
+
+(0:07:20 - 0:07:28)
+Was können wir uns darunter vorstellen? Wir haben das ein bisschen unterteilt. Und zwar genau so, wie es die Norm macht. Wir haben es im Grunde abgeschrieben.
+
+(0:07:29 - 0:07:41)
+Also wie prüfe ich das? Da steht erstmal tatsächlich drin, dass man prüfen muss. Ob das gegen Berühren gesichert ist. Das wäre halt eine Abdeckung oder eine Tür vor der Station.
+
+(0:07:41 - 0:07:48)
+Oder der Deckel vom Wechselrichter. Dann gibt es elektronische Schutzrelais. Ja, aber die werden separat geprüft.
+
+(0:07:48 - 0:07:54)
+Darum geht es heute nicht. Einen FI haben wir jetzt bei uns auch nicht. Also das steht da erstmal unter allgemein.
+
+(0:07:54 - 0:08:03)
+Das haben wir nur mitgenommen, weil es in der Norm so drin steht. Wichtiger ist, was jetzt passiert. Wir haben Sicherungen in unserer Trafostation.
+
+(0:08:04 - 0:08:12)
+Welcher Typ das ist, ist jetzt nicht so relevant. Aber die sind da drin, um die Kabel zu schützen. Und jetzt haben wir das mal unterteilt in TN-System und IT-System.
+
+(0:08:12 - 0:08:24)
+Weil das IT-System immer wichtiger wird. Und was haben wir zu sagen? Also die Messung der Schleifenimpedanz ist im Betrieb wichtig. Das steht auch schon im Betrieb.
+
+(0:08:24 - 0:08:32)
+Also jetzt sind wir dann nicht mehr freigeschaltet. Sondern das funktioniert dann im Betrieb. Und zwar die Schleifenimpedanz.
+
+(0:08:32 - 0:08:44)
+Also einmal der Weg über den Leiter hin zum Wechselrichter. Und über den PE wieder zurück. Und warum ist das wichtig? Weil wir nachweisen müssen, dass im Fehlerfall die Sicherung auch wirklich auslöst.
+
+(0:08:44 - 0:09:01)
+Das macht man, indem man den Schleife misst. Dann hat man also den Widerstand, dem so ein Fehlerstrom zu begegnen hat. Und kann dann ausrechnen, ob im Fehlerfall der Fehlerstrom auch wirklich zu einem sicheren Auslösen der Sicherung führt.
+
+(0:09:02 - 0:09:10)
+Man will also in dem Fall dann plötzlich mal einen ganz hohen Strom haben. Damit die Sicherung auch sofort auslöst. Also schnell auslöst.
+
+(0:09:10 - 0:09:20)
+Und das führt dazu, dass man möglichst kleine Schleifenimpedanzen braucht. Also so wie zur Bewertung dann. Aber wir sind ja heute erst mal bei der Messung von dieser Schleifenimpedanz.
+
+(0:09:21 - 0:09:28)
+Und beim IT-System macht man das auch. Da gibt es aber ja gar keinen PE. Also zumindest würde er keinen großen Sinn erfüllen.
+
+(0:09:28 - 0:09:40)
+Deswegen macht man da eine Leiter-Schleifenimpedanz-Messung. Finden wir einen ganz wichtigen Unterschied. Wenn jetzt die Systeme immer mehr von TN auf IT gehen, müssen hier die AC-MISS-Protokolle dementsprechend angepasst werden.
+
+(0:09:43 - 0:09:53)
+So, wir zeigen es mal wieder am Beispiel. Also so sieht das in unserer Elektrotechnik-Darstellung aus. Einfach, ehrlich gesagt, simpel.
+
+(0:09:53 - 0:10:03)
+Weil es war ja nur PE gegen L3. Aber hier kann man es einfach schöner erklären, was der Unterschied ist. Also Achtung, wir machen erst mal wieder den Deckel drauf.
+
+(0:10:03 - 0:10:11)
+Weil jetzt ist ja der große Unterschied, jetzt ist das System in Betrieb. Also das ist hier unsere blaue Strommarkierung. Das ist jetzt ein ganz wichtiger Unterschied.
+
+(0:10:11 - 0:10:23)
+Die Anlage ist jetzt in Betrieb. Und da sagen wir, aus unserer Erfahrung heraus, kommt man jetzt an die Leiste, die NH-Leiste, gar nicht mehr so richtig ran. Deswegen haben wir sie hier animiert extra zugemacht.
+
+(0:10:24 - 0:10:31)
+Ich komme da gar nicht mehr hin. Deswegen kann man das vermeintlich besser machen im Wechselrichter. Kann aber jeder Elektriker so machen, wie er es für sinnvoll hält.
+
+(0:10:32 - 0:10:42)
+Aber diesen Deckel, den kriegt man eigentlich immer noch auf. Und da sieht man jetzt live die drei Phasen. Achtung, das ist eben nur was für Elektrofachkräfte jetzt an der Stelle.
+
+(0:10:42 - 0:10:54)
+Das will ich ganz klar noch mal betonen. Das muss man gelernt haben, damit man auch genau jetzt den Unterschied greifen kann. Nehmen wir hier die blaue Markierung, die vermeintlich gefährlich ist.
+
+(0:10:55 - 0:11:04)
+Die ist jetzt mit meinem Prüfgerät drauf, mit den richtigen Prüfspitzen. Und jetzt kann ich den Schleifenwiderstand messen. Das mache ich einfach L1 gegen PE.
+
+(0:11:05 - 0:11:13)
+Genau, Daumen ist hoch. Ja gut, wenn es zu klein ist, geht der Daumen nach unten. Und das würde bedeuten, dass wenn jetzt ein Fehler wäre, würde die Sicherung nicht auslösen.
+
+(0:11:14 - 0:11:25)
+Das machen wir auch für L2. Und dann machen wir das natürlich auch für L3. Also ich hoffe, hier hat vor allem diese 3D-schematische Darstellung gezeigt, wie das passiert.
+
+(0:11:26 - 0:11:40)
+Weil wenn man es einfach nur in der Liste wie hier liest, glaube ich, kann man damit eigentlich wenig anfangen. Man muss das einfach mal gesehen haben und sei es nur als so ein 3D-Effekt. Die Phasenfolge der Außenleiter muss man auch prüfen.
+
+(0:11:40 - 0:11:44)
+Das passiert auch im Betrieb. Deswegen ist das hier alles blau. Und das passiert so.
+
+(0:11:45 - 0:11:51)
+Ich mache wieder den Deckel auf. Jawohl, da ist es im Betrieb. Jetzt komme ich wieder mit meinem Phasenprüfer.
+
+(0:11:51 - 0:12:00)
+Ich brauche alle 3 diesmal. L1, L2 und L3. Und dann würde ich jetzt hier so eine Phase in Folge erst L1, dann L2, dann L3 testen.
+
+(0:12:00 - 0:12:08)
+Das ist die Drehrichtung von meinem System. Und wenn das andersrum ist, nämlich linksdrehend, dann wäre es L1, L3, L2. Und das wollen wir nicht.
+
+(0:12:09 - 0:12:25)
+Deswegen prüfen wir das auch. Dann kommt die Funktions- und Betriebsprüfung. Da haben wir, glaube ich, nur Bullet Points gemacht, weil wie mache ich eine Funktions- und Betriebsprüfung einer PV-Anlage? Da gibt es, denke ich, viele Möglichkeiten.
+
+(0:12:25 - 0:12:30)
+Ein Bullet Point wäre Schaltgeräte. Wir haben da zum Beispiel diesen Niederspannungsleistungsschalter. Da drücke ich drauf.
+
+(0:12:31 - 0:12:37)
+Das mache ich bei der Inbetriebnahme ja sowieso. Aber das wäre für mich eine klare Funktionsprüfung. Das schreibt man auf, dass man das getestet hat.
+
+(0:12:37 - 0:12:45)
+Schalter geht ein, Schalter geht aus. Dass die Funktion eben überprüft worden ist. Bei den Wechselrichtern macht man das auch.
+
+(0:12:45 - 0:12:56)
+Also auch hier, dieser Bullet Point kommt nicht von uns, sondern die Norm sagt das schon so. Auch wenn da bestimmt jeder Anlagenbetreiber selber eh großes Interesse daran hat, das zu machen. Aber es steht eben auch in der Norm drin.
+
+(0:12:56 - 0:13:10)
+Also irgendwo muss in so einem Prüfprotokoll auch stehen, dass die Wechselrichter alle reibungslos funktionieren. Falls es irgendwelche Verriegelungsmechanismen gibt, muss man die auch prüfen. Notaus muss man prüfen, Schutzrelais muss man prüfen.
+
+(0:13:10 - 0:13:24)
+Und dann sagt man im Protokoll, jawohl, wir haben die Funktion geprüft. Und damit ist die Anlage betriebsbereit. Die letzte Prüfung, die da in der Norm so drin steht, ist der sogenannte Spannungsfall.
+
+(0:13:24 - 0:13:31)
+Auch das berechnet man erstmal theoretisch. Das macht man genau wie die Schleifenimpedanz. Hatte ich ja schon erklärt.
+
+(0:13:31 - 0:13:53)
+Also im Zweifel müsste man jetzt nochmal zurück spulen. Das geht linear, die Spannung zur Impedanz Z. Deswegen kommt da im Grunde linear betrachtet das Gleiche raus. Und wenn man jetzt also diesen Spannungsfall berechnet hat, dann kann man auch eine Messung noch machen an der Niederspannung und am Wechselrichter.
+
+(0:13:53 - 0:14:03)
+Das könnte man auch durch Monitoring meinetwegen machen, um nochmal zu überprüfen, ob das wirklich so ist. Hat Folgeeffekte, das machen wir nicht heute. Da geht es meinetwegen um NA-Schutzsysteme.
+
+(0:14:03 - 0:14:22)
+Also wenn die Spannungen nun mal unterschiedlich sind am Wechselrichter und an den Trafostationen, dann hat das Folgen meinetwegen für die Zulassung. Aber in solche Bereiche kommen wir eigentlich nicht durch die Spannungserhöhung, sondern vielleicht eher durch die Schutzmechanismen, die darauf angepasst werden können. Aber für heute ist das einfach nur so.
+
+(0:14:22 - 0:14:29)
+Dieser Spannungsfall soll nach Norm kontrolliert werden. Und deswegen kann man das im Prüfprotokoll einfach auch nochmal bestätigen.

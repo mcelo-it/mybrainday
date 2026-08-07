@@ -1,0 +1,17 @@
+(0:00:00 - 0:00:20)
+Hallo und herzlich willkommen zum heutigen Brain Day NA-Schutz. Für mich heute ein Thema, was mir sehr am Herzen liegt, weil wir ja selbst auch viel Schutzrelaisprüfung machen und eben gerade diesen NA-Schutz übergeordnet oder zwischengelagert häufig prüfen. Also, ich freue mich drauf und wir starten grundsätzlich mit unserer Struktur.
+
+(0:00:20 - 0:00:37)
+Wir haben das eingeteilt in sechs Kapitel. Wir starten mit dem Warum, also die Motivation. Warum brauchen wir einen NA-Schutz? Wer fordert das? Woher kommt das überhaupt? Warum machen wir das? Hilft uns dann später wahrscheinlich mit Motivation weiter zuzuhören.
+
+(0:00:38 - 0:00:55)
+Der nächste Punkt ist dann Norm. Wir haben hier vor allem eine große Norm, wie so oft, die 4110, wo wir uns das entsprechende Kapitel für den NA-Schutz raussuchen und dann im Detail durchgehen und besprechen. Andere Normen zeigen wir kurz, aber legen wir heute keinen Fokus drauf.
+
+(0:00:55 - 0:01:13)
+Der nächste Punkt ist dann das Schutzkonzept, also aus der 4110 und den resultierenden Werten erstellen wir ein Schutzkonzept. Braucht man dann ja auch für das Anlagenzertifikat und später auch für die Konformitätserklärung. Das bauen wir dann mal auf anhand von Freiflächenanlagen und Dachanlagen.
+
+(0:01:13 - 0:01:50)
+Dann gehen wir zu einem Block Schutzprüfung, wo wir dann mal versuchen, euch näher zu bringen, wie man so ein Schutzrelais dann tatsächlich prüft. Wie geht das? Was für Funktionen gibt es? Wie erreiche ich die Grenzwerte? Was muss ich denn überhaupt messen? Dann gehen wir in so einen Live-Test und versuchen, euch das dann live auch nochmal wirklich zu zeigen. Und zum Abschluss dann haben wir das Prüfprotokoll, wo dann im Grunde genommen ja alles, was wir vorher zusammen erarbeitet haben, in dem Prüfprotokoll mündet, damit wir mit dem Prüfprotokoll an unsere Kunden, an die Betreiber treten können, damit die zum Schluss diese Konformitätserklärung bekommen.
+
+(0:01:50 - 0:01:55)
+Also, das wären unsere sechs Kapitel. Wir starten jetzt mit dem Warum.

@@ -1,0 +1,30 @@
+(0:00:00 - 0:00:21)
+Hallo und herzlich willkommen zum heutigen Brain Day. Heute mit dem Thema Tracking-Systeme oder vielleicht auch einfach kurz gesagt Tracker. Für mich ein super spannendes Thema ist nun wirklich nicht alltäglich bei uns, auch im Büro, sondern das läuft schon unter dem Motto Spezialsysteme.
+
+(0:00:21 - 0:00:52)
+In Zukunft vielleicht nicht mehr wirklich so, werden wir gleich sehen, warum wir glauben, dass das in Zukunft einen höheren Anteil an den Gesamtsystemen und Installationszahlen haben wird. Aber gut, nicht zu viel vorweggenommen. Auf jeden Fall ein sinnvoller Baustein von so einem Gesamtfachbereich der Anbindung. 
+
+Wir fangen wie immer an mit der Frage, warum, warum brauchen wir also Tracker? Was ist sozusagen der Vorteil? Aber ich werde es auch gleich vorwegnehmen. Es gibt auch Nachteile, die gucken wir uns dann einfach mal kurz an. Dann gehen wir in den Aufbau.
+
+(0:00:52 - 0:01:20)
+Also was ist eigentlich das Besondere an so einem Tracker-System? Welche zusätzlichen Komponenten kommen da mit rein? Und gerade aus unserer Sicht der Elektroplaner, auf welche Details müssen wir dabei dann achten? Die Steuerung und jetzt Achtung bezogen auf die Tracker nur bezogen, ist ein großes und sehr eigenständiges Thema. Auch das gucken wir uns dann im Detail an. Da gibt es eben verschiedene Möglichkeiten, verschiedene Modi, wie man so einen Tracker ansteuern kann.
+
+(0:01:20 - 0:01:47)
+Und das in Kommunikation und Kombination mit der Kommunikationstechnik wird dann in dem Kapitel genau angeguckt. Die Spannungsversorgung und hier auch explizit bezogen auf den Tracker, also auf die Motoren, ist auch wieder eine Planungsaufgabe in sich sozusagen. Man baut ja sozusagen ein Versorgungsnetzwerk innerhalb eines, innerhalb einer PV-Anlage, wo sowieso schon überall Elektroleitungen rumliegen.
+
+(0:01:47 - 0:02:20)
+Und dann kommen da noch mehr dazu. Die gucken wir uns in dem Kapitel an, dimensionieren das Ganze und schauen uns dann auch den Hilfsdraht voran. Manchmal, aber eben nur manchmal, braucht man dann auch eine USV zusätzlich zu vielleicht der, die es eh schon gibt in der Trafostation oder auch im Monitoring System. 
+
+Also jetzt auch hier wieder bezogen, zusätzlich eine USV nur für das Tracker-System. Ich nehme es mal vorweg. Das ist deswegen so wichtig, weil man dann die Tracker gegebenenfalls noch in eine sichere Position fahren kann, wenn dann das Netz ausfällt.
+
+(0:02:20 - 0:02:44)
+Also deswegen ist diese USV deutlich größer als die anderen und auch irgendwie mit der anderen Sinnhaftigkeit belegt. Gucken wir uns an, dann machen wir eine 360 Grad-Tour, ist ja immer meine Lieblingsdisziplin eigentlich. Da gehen wir auf eine Anlage mit Trackern, schauen uns die in verschiedenen Zeitschritten an und dann kann man da auch mal selber Hand anlegen und mal so einen Tracker steuern.
+
+(0:02:46 - 0:02:57)
+Letztes Kapitel ist Prüfung und Betriebnahme. Hier gibt es viele Besonderheiten zu beachten. Was ist bei Trackern speziell? Es ist einfach ein bisschen komplexer, als wenn das eine feste Aufständerung ist.
+
+(0:02:57 - 0:03:11)
+Allein schon, weil rotierende Teile einfach nur mal ein bisschen gefährlich sind und es da auch verschiedene Positionen oder Modi dann eben gibt. So, das ist die Aufgabe. Wir starten mit dem Kapitel.
+
+(0:03:11 - 0:03:11)
+Warum?

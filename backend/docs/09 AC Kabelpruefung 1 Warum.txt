@@ -1,0 +1,38 @@
+(0:00:00 - 0:00:25)
+Wir haben uns hier einen kleinen Fragenkatalog aufgeschrieben, der dann hoffentlich die Frage nach dem Warum am Ende beantwortet. Erstmal, was prüfen wir überhaupt? Wenn es um AC-Kabel-Messprotokolle geht, würden wir das unbedingt unterscheiden in Mittelspannungskabel und in Niederspannungskabel. Das machen wir jetzt heute auch im Verlauf des Brain Days genau so.
+
+(0:00:25 - 0:00:46)
+Die Messprotokolle und auch die Bewertung, das wird genau in diese zwei Teilkategorien unterteilt. Also was wird geprüft? Für uns sind es die Niederspannungskabel und die Mittelspannungskabel. Dann wann wird eigentlich so ein Mittel- oder Niederspannungskabel geprüft? Das sind für uns zwei wichtige Ereignisse.
+
+(0:00:46 - 0:01:07)
+Einmal unbedingt vor der Inbetriebnahme. Ohne unterschriebene und korrekte und als richtig bewertete Messprotokolle werden die Teile nicht in Betrieb genommen. Das heißt, die Messprotokolle sind unbedingt Grundlage für so eine erfolgreiche Inbetriebnahme und dadurch natürlich vorgelagert auch die Messungen selbst.
+
+(0:01:07 - 0:01:19)
+Aber es gibt auch wiederkehrende Prüfungen. Das sehen die Normen auch ganz klar so vor. Das heißt, wenn man es einmal geschafft hat, ist man nicht für immer durch, sondern diese Prüfungen sollen wiederholt werden.
+
+(0:01:19 - 0:01:41)
+Dann auch wieder genau so richtig protokolliert, damit man da auch einen langfristigen Qualitätsverlauf sinnvoll nachvollziehen kann. Wie wird sowas gemacht? Da haben wir ein paar Bullet Points uns rausgezogen. Einmal die 0100600 Teil 6. Die schauen wir uns auch genauer an.
+
+(0:01:41 - 0:02:00)
+Die definiert im Grunde, wie solche Kabelprüfungen durchgeführt werden müssen. Und dabei, das jetzt erstmal vorneweg als rudimentäre Unterteilung, spricht sie dabei von Schutz gegen direktes Berühren. Das ist dann die Isolation, die geprüft werden muss, aber auch Schutz gegen indirektes Berühren.
+
+(0:02:00 - 0:02:16)
+Das werden dann die Abschaltungen. So etwas wie Schutzreleeprüfungen machen wir heute nicht, sondern es geht höchstens indirekt um das indirekte Berühren. Wenn man z.B. den Schleifenimpedanzmesser, hat die Einfluss auf die Schutzfunktion, die Sicherung.
+
+(0:02:17 - 0:02:30)
+Das wäre dann also indirekt aus unserer Kabelprüfung, um die es heute geht, ableitbar. Dann haben wir den vierten Punkt. Das ist ja dann im Grunde das, worauf wir heute hinaus wollen.
+
+(0:02:30 - 0:02:45)
+Warum ist das dann überhaupt erforderlich, dieses Was, Wann und Wie? Nämlich einmal Beschädigungen beim Transport. Das ist ganz typisch, dass so etwas natürlich passieren kann. Aber auch während der Lagerung von solchen Kabeln.
+
+(0:02:45 - 0:02:58)
+Oder ganz, ganz klar, wahrscheinlich der häufigste Fall, während der Verlegung. Im Brainday Kabelgraben haben wir ausführlich darüber gesprochen. Da müssen Sandblätter verlegt werden, damit die Isolierung nicht bestätigt werden.
+
+(0:02:58 - 0:03:15)
+Aber auch wenn über lange Strecken Kabel gezogen werden, können da auch Stress auf die Isolierung auftreten, auf den Mantel. Und dann da Mikrorisse entstehen. Also grundsätzlich ist es so, Kabel werden auch schon im Werk geprüft und haben auch Zertifikate.
+
+(0:03:15 - 0:03:40)
+Aber durch den Transport, die Lagerung oder die Verlegung können danach ja auch nochmal Fehler auftreten. Dann kann es auch sein, das hat dann sozusagen mit der Beschädigung des Mantels nichts zu tun, sondern einfach nur mit dem Fehler des Monteurs, dass er das Kabel falsch anschließt. Auch das will man durch Prüfungen dann später ausschließen und dadurch die projektspezifische Verschaltung nochmal überprüfen.
+
+(0:03:41 - 0:03:49)
+Also das Warum hier sehr ausführlich nochmal dargestellt. Ich hoffe, das war Motivation genug, um jetzt weiter dran zu bleiben.

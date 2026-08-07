@@ -1,0 +1,50 @@
+(0:00:00 - 0:00:29)
+So, dann geht es jetzt zu dem Aufbau und der Aufbau unterscheidet sich jetzt natürlich zu dem Aufbau des Strom- und Spannungswandlers im Schnitt zu einem Aufbau im Gesamtkonstrukt einer Übergabestation. Also was wir eben gesehen haben, das Messfeld, das ist hier mit J03 bezeichnet, da befinden sich jetzt diese Strom- und Spannungswandler. Und wir wollen uns jetzt mal anschauen, wie das dann tatsächlich verdrahtet ist oder wie man das umsetzt in der Praxis.
+
+(0:00:30 - 0:00:49)
+Also wir haben unten Netzanalysegerät, das wird jetzt erstmal so ein bisschen eingefärbt, dass ihr das seht. Und wir sehen hier Stromwandler, die haben wir auch eingefärbt, die haben jetzt hier eben drei Kerne. Und da ist dann neben dem Netzanalysegerät sind da dann auch noch andere Geräte angeschlossen, zum Beispiel der Zähler oder vielleicht auch das Schutzrelais.
+
+(0:00:49 - 0:01:12)
+So, hier sehen wir die Bauteile, wie sie dann in der Realität aussehen, Netzanalysegerät und der Stromwandler mit den zwei signifikanten Anschlüssen oben. Das ist der Stromwandler und diese beiden Bauteile sind eben miteinander verbunden. Ich hoffe, man hat das jetzt gesehen, diese Linie hat sich da eingefärbt und führt jetzt eben vom Netzanalysegerät zum Stromwandler.
+
+(0:01:13 - 0:01:35)
+Beide Geräte nehmen wir mal rüber auf die nächste Folie und schauen uns jetzt mal an, wie die tatsächlich verdrahtet sind. Also Stromwandler vielleicht erstmal, der hat eine Einbaurichtung, es gibt immer P1 und P2, das könnt ihr euch mal merken. Früher hieß das K und L, jetzt ist es eben P1 und P2 und damit ist die Einbaurichtung des Stromwandlers definierbar.
+
+(0:01:36 - 0:02:02)
+Das steht im Stromlaufplan und so wie es im Stromlaufplan steht, soll es dann natürlich hinterher auch gebaut sein. Jetzt gucken wir uns das mal an, das Netzanalysegerät, da führen wir erstmal zwei Drähte raus aus dem Messeingang für den Strom, zum Beispiel für Phase 1 und diese beiden Drähte führen wir dann erstmal über Prüfklemmen. Das heißt erstmal wichtig, wir brauchen immer Prüfklemmen, das ist so zumindest für den Schutz erstmal vorgeschrieben.
+
+(0:02:02 - 0:02:23)
+Für Netzanalysegerät nicht zwingend in der Norm, aber wir sehen das immer vor, das ist wichtig, damit kann man das prüfen. Dann kann man auch mal trennen und kurzschließen und vielleicht Arbeiten durchführen. Und von dieser Prüfklemme geht es dann eben weiter zu den Sekundäranschlüssen des Stromwandlers S1 und S2.
+
+(0:02:24 - 0:02:56)
+Dann hätten wir jetzt diesen Stromwandler erstmal sekundärseitig angeschlossen und wichtig ist dann, dass man hier auch nochmal eine Erdung durchführt. Normalerweise wird dann der S2, glaube ich, von dem Stromwandler immer nochmal geerdet. Jetzt schauen wir uns noch den Spannungswandler an, der dann eben auch noch an diesem Netzanalysegerät angeschlossen wird, weil nur mit Strom können wir erstmal nicht viel messen.
+
+(0:02:56 - 0:03:12)
+Wir brauchen immer Strom und Spannung, um dann Leistungen, Wirkleistung, Windleistung, Scheinleistung und so weiter zu bewerten, zu ermitteln. Deshalb gibt es eben auch einen Spannungswandler, der angeschlossen ist. Hier habt ihr wieder gesehen, wo die Verbindung in dem Übersichtsplan dargestellt wird oder wie sie dargestellt wird.
+
+(0:03:13 - 0:03:22)
+Und im Detail ist das dann natürlich nochmal ein bisschen umfangreicher. Den Stromwandler haben wir weiter stehen gelassen. Zusätzlich kommt da jetzt der Spannungswandler daneben.
+
+(0:03:22 - 0:03:50)
+Und auch hier gibt es dann eben oben das große A, ist der Primäranschluss. N, da sitzt der Wandler dann eben im Messfeld und ist dann automatisch über diese Bodenplatte geerdet. Und wir ziehen die Linie aus dem Netzanalysegerät über eine Prüfklemmleiste zum Beispiel und über eine Sicherung, ganz wichtig, dann zu dem kleinen A, zu dem Sekundäranschluss des Spannungswandlers.
+
+(0:03:50 - 0:04:14)
+Das N wird dann hier auch nochmal geerdet und das N führen wir dann hier in unserem Beispiel jetzt auch auf das Netzanalysegerät. Häufig ist das dann so, dass man ein N verwendet für alle drei Spannungsphasen, sodass man dann eben nur in Summe vier Leiter vom Spannungswandler zum Netzanalysegerät zieht. Hier müssen wir es jetzt, weil wir nur einen Wandler darstellen, eben so zeigen.
+
+(0:04:14 - 0:04:34)
+Und ihr seht schon, wenn man das jetzt weiter aufbauen würde in dieser Darstellung mit drei Stromwandlern, drei Spannungswandlern, dann hat man auf einmal ziemlich viele Kabel, ziemlich viele Drähte und das Ganze würde sehr, sehr unübersichtlich werden. Deshalb würden wir es jetzt erstmal hierbei belassen. So ist das vom Grundsatz, vom Prinzip.
+
+(0:04:34 - 0:04:52)
+So verbindet man Netzanalysegerät mit Strom- und Spannungswandlern. Das fliegt jetzt zurück wieder in die Übersicht und das Gleiche wollen wir euch jetzt nochmal an so einem Schutzrelais zeigen. Da gehe ich relativ schnell durch, weil viele Sachen einfach sehr gleich sind zu dem Netzanalysegerät.
+
+(0:04:53 - 0:05:34)
+Ein paar Sachen unterscheiden sich aber im Detail und wir wollten das jetzt nochmal zeigen, weil wir gleich an unserer Live-Messung auch nochmal diese Messung genau an so einem Schutzrelais durchführen. Also Spannungswandler, die müssen wir auch wieder anschließen an unserem Schutzrelais. Vom Grundsatz her genauso wie bei dem Netzanalysegerät, Prüfklemmen und hier sind Prüfklemmen dann tatsächlich auch vorgeschrieben, damit wir eben mit einer Sekundärprüfung später auch unser Schutzrelais prüfen können und wieder diese Sicherung, um den Spannungswandler dann eben vor Kurzschluss zu schützen.
+
+(0:05:35 - 0:05:55)
+Das ist der Anschluss a, klein a und der n, der wird dann geerdet und wird dann auch nochmal zum Schutzrelais geführt. Dann kommt hier der Stromwandler und hier machen wir es ein bisschen anders. Hier nehmen wir einmal diesen Stützerstromwandler und nochmal einen Summstromwandler mit dazu.
+
+(0:05:55 - 0:06:25)
+Das heißt, wir haben hier zwei verschiedene Stromwandler und so wird das dann tatsächlich auch gebaut. Also wir nehmen für die normale Kurzschlussmessung, Leistungsmessung den Stützerstromwandler und bei gelöschten oder isolierten Netzen hat man dann diesen Kabelumbauwandler, der dann nochmal nur für die Erdschlusserfassung gedacht ist. Beide Wandler müssen wir dann eben an das Schutzrelais anschließen und für die Erdschlusserfassung gibt es dann eben einen separaten Messeingang an dem Schutzrelais.
+
+(0:06:26 - 0:06:56)
+Beide führen wir über Prüfklemmen, damit wir auch hier für die Schutzrelaisprüfung das prüfen können und dann eben die VDE 4110 erfüllen können, weil hier wird das ganz klar gefordert, dass man Prüfklemmleisten für das Schutzrelais einzusetzen hat. Wir schließen dann beide S1 an das Schutzrelais an und hier in diesem Beispiel dann auch S2 geerdet, auch mit an das Schutzrelais.

@@ -1,0 +1,168 @@
+(0:00:00 - 0:00:15)
+Wir haben noch ein Kapitel und würden damit jetzt gleich loslegen. Kritis, ein ganz, ganz wichtiger Punkt, den wir bis jetzt noch nicht so richtig gegriffen hatten. Wir tun das jetzt heute in der Präsentation mal für euch.
+
+(0:00:15 - 0:00:30)
+Wir haben uns da viel, viel recherchiert, viel Informationen zusammengetragen und versuchen das jetzt mal für euch hier noch in den letzten paar Minuten euch zu erklären. Also es gibt dann erst mal Vorgaben, das ist schon mal gut zu wissen. Es gibt eine kritische Infrastruktur.
+
+(0:00:31 - 0:00:40)
+Da wird jetzt, glaube ich, auch klar, was Kritis bedeutet oder woher das kommt. Das ist kritische Infrastruktur. Vielleicht steht das IS auch für Infrastruktur, das wussten wir nicht so genau.
+
+(0:00:40 - 0:00:51)
+Auf jeden Fall, Kritis, das bedeutet kritische Infrastruktur. Und die kommt nicht von irgendwoher. In Europa ist es in der Regel so, dass es erst mal europäische Richtlinien gibt.
+
+(0:00:52 - 0:01:08)
+Das ist eben die NES2-Richtlinie, die europäisch aufgesetzt wird. Als Pendant gibt es dann ja auch immer den RFG-Code in Europa, aus dem dann die 4110 abgeleitet wird. Bei der kritischen Infrastruktur ist dann eben die NES, europäische Richtlinie.
+
+(0:01:09 - 0:01:26)
+Und in Deutschland wird dann eben ein BSI-Gesetz daraus, wird dann vom Parlament verabschiedet. Das Bundesamt für Sicherheit in der Informationstechnik ist dann für solche Gesetzesentwürfe zuständig. Und unter diesem Gesetz findet man dann auch noch eine Kritis-Verordnung.
+
+(0:01:27 - 0:01:47)
+Zusätzlich zu der Kritis-Verordnung gibt es jetzt noch eine ganze Reihe weiterer IT-Sicherheitsgesetze, auf die wir jetzt auf gar keinen Fall im Detail hängen werden. Ich finde aber wichtig, es wird sich hier schon sehr, sehr viel Gedanken gemacht. Es gibt ein IT-Sicherheitsgesetz 2.0, das Energiewirtschaftsgesetz ist eingebunden.
+
+(0:01:47 - 0:01:57)
+Ein IT-Sicherheitskatalog der Bundesnetzagentur. Und dann gibt es auch noch einen branchenspezifischen Sicherheitsstandard. Und es gibt noch viele mehr, die wir euch hier vorenthalten.
+
+(0:01:57 - 0:03:19)
+Aber vom Grundsatz her, das ist ein sehr, sehr wichtiges Thema, was auch sehr, sehr hoch aufgehangen wird, wo sich viele Fachleute wirklich viele Gedanken machen, damit man eben schutzsystemrelevante Sektoren durchführen kann. Und es ist ganz wichtig, wir wollen hier, oder diese Kritis-Verordnung, die will nicht eure PV-Anlage schützen. Um Gottes Willen, darum geht es nicht. 
+
+Es geht hier darum, dass man tatsächlich die Gesellschaft schützt. Wenn eure Solaranlage mal einen Tag abgeschaltet wird, wenn die auch 100 Megawatt hat, ist das gar nicht so entscheidend. Ist gar nicht so schlimm. 
+
+Aber wenn jetzt mal wirklich flächendeckend Solarparks ausfallen und dadurch eben vielleicht zu einem tatsächlichen Blackout kommt, weil die Infrastruktur nicht geschützt wurde, dann wollen wir hier die Gesellschaft schützen, weil dann geht es ja wirklich darum, dass ihr zu Hause sitzt, kein Strom mehr habt, kein Telefon mehr habt, kein Kühlschrank, keine Heizung. Und das soll hier geschützt werden, nicht eure mittelgroße PV-Anlage. So, und die Sektoren, die von dem Bundesamt für Sicherheiten der Informationstechnik ausgewählt wurden, sind zum Beispiel Energie. 
+
+Es gibt dann aber noch weitere. Das ist hier dieser Kuchen, den man so beim Bundesamt für Sicherheit und Information findet. Unstrittig ist, denke ich, dass wir hier mit unseren PV-Anlagen im Bereich der Energie tätig sind.
+
+(0:03:19 - 0:03:36)
+Das können wir, glaube ich, erstmal so rausnehmen, ziehen das Kuchenstück weiter und schauen uns jetzt mal an, welche Grenzwerte gibt es denn da jetzt. Also nicht jeder im Bereich der Energie ist jetzt erstmal verpflichtet, diese Kritis-Verordnung einzuhalten. Es gibt erstmal eine klare Größe für Einzelanlagen.
+
+(0:03:36 - 0:04:09)
+Also wenn ihr einen Solarpark habt, der größer ist als 36 Megawatt AC, wichtig, es geht nicht um die KW-Peak-Leistung, sondern die AC-Leistung, dann fallt ihr erstmal unter diese Kritis-Verordnung. Dann seid ihr erstmal verpflichtet, Kritis umzusetzen, so würde ich es erstmal ausdrücken. Oder, und das ist dann schon ein bisschen schwieriger manchmal zu ermitteln, wenn ihr in Summe eine Leistung von über 104 Megawatt habt, beispielsweise in der Betriebsführung, auch dann seid ihr verpflichtet, diese Kritis-Verordnung, diese Richtlinien umzusetzen.
+
+(0:04:10 - 0:04:33)
+Und das vielleicht als interessanter Hinweis, das haben sich da, glaube ich, mal ein paar Ingenieure zusammengesetzt und gesagt, alles, was mehr als 500.000 Personen versorgt, das müssen wir schützen. Und die sind dann darauf gekommen, dass eben 104 Megawatt für die Versorgung von 500.000 Personen reichen. Und deshalb haben die mal bei 104 Megawatt diese Grenze gesetzt.
+
+(0:04:33 - 0:04:52)
+Das gilt sicherlich auch für andere Zweige, für andere Bereiche, wenn man wahrscheinlich 500.000 Leute mit Nahrungsmitteln versorgt, auch dann ist man wahrscheinlich Kritis verpflichtet. Für Solarparks gilt jetzt erstmal die Größenordnung oben, also 36 Megawatt oder 104. Oder es gibt eben auch noch Batteriespeicher.
+
+(0:04:53 - 0:05:07)
+Und da geht es dann eben darum, ob diese Batteriespeicher netzdienlich sind. Und wenn ihr netzdienlich seid, dann greift diese Richtlinie schon ab 1 Megawatt. Und hier vielleicht noch der Unterschied, hier geht es nicht darum, dass ihr so ein bisschen Peakshaving macht.
+
+(0:05:07 - 0:05:20)
+Netzdienlich ist dann was anderes und dann gilt eben 1 Megawatt schon als Grenze. Verantwortung, und diese Frage wird immer gestellt. Ich als Elektroplaner bringe dieses Thema immer ein in meine Geofixe und spreche es an.
+
+(0:05:20 - 0:05:34)
+Die Verantwortung trage ich aber tatsächlich nicht. Ich kann da nur beraten, zur Seite stehen und das, was ich weiß, mitteilen. Aber der Anlagenbetreiber, der ist am Ende dafür verantwortlich, diese Kritisanforderungen umzusetzen.
+
+(0:05:37 - 0:05:57)
+Und was bedeutet das dann? Erstmal Anlagenbetreiber, es gibt jetzt erstmal in Deutschland 30.000. Da kann sich jetzt jeder vielleicht mal überlegen, ob er vielleicht zu den 30.000 gehört, die jetzt unter diese Kritisverordnung fallen. Also eine ganze Menge und ich hoffe, das wissen auch alle. Also sie sind erstmal dann eigenverantwortlich dafür zuständig.
+
+(0:05:57 - 0:06:13)
+Es gibt jetzt nicht unbedingt eine Zertifizierstelle, die schaut, ob diese Kritisanforderungen eingehalten werden. Das gibt es nicht, sondern ihr seid eigenverantwortlich. Und die Eigenverantwortlichkeit fängt wahrscheinlich dabei an, erstmal zu identifizieren, ob ihr überhaupt 104 Megawatt habt.
+
+(0:06:13 - 0:06:22)
+Vielleicht gibt es viele Betreiber, die wissen das gar nicht so genau. Ich habe irgendwie 12 Solarparks, könnte sein, dass das 104 Megawatt sind. Das ist erstmal die Identifikation.
+
+(0:06:22 - 0:06:35)
+Dann müsst ihr erstmal sagen, alles klar, ich bin kritisverantwortlich. Ich muss mich jetzt erstmal damit auseinandersetzen, muss mich dann auch beim BSI registrieren. Dann muss ich eben diese Verordnung umsetzen.
+
+(0:06:35 - 0:06:49)
+Und da wird es gleich ein bisschen schwammig, würde ich fast sagen, wie es im Detail geht. Aber wir haben es versucht, mal gleich später mal ein bisschen zusammenzufassen. Aber ihr seid grundsätzlich für die Umsetzung verantwortlich.
+
+(0:06:49 - 0:07:03)
+Und dann eben auch für die Einhaltung. Das heißt, man setzt Kritis nicht heute um und nächstes Jahr ist alles in Ordnung und es passt so. Sondern ihr müsst dann auch fortlaufend in diesem Prozess alles Mögliche tun, dass eure Infrastruktur geschützt ist.
+
+(0:07:05 - 0:07:15)
+Dann gibt es Bußgelder vom BSI bei Nicht-Einhaltung. Da gibt es auch Prozentwerte, aber da wollen wir jetzt gar nicht so drauf ein. Aber es gibt Bußgelder, das ist so.
+
+(0:07:19 - 0:07:39)
+Was ist denn jetzt eigentlich nochmal genau das Problem, haben wir uns hier gefragt? Es gibt jetzt eine Verordnung und warum brauchen wir die überhaupt? Wir haben unser Datenschema eben mal dargestellt, noch ein bisschen vereinfacht, sieht so aus. Und die Frage ist ja jetzt wert, erstmal Zugriff. Und dann gibt es Netzbetreiber, dann gibt es Direktvermarkter, dann gibt es Betriebsführer.
+
+(0:07:39 - 0:07:59)
+Und es gibt aber leider auch immer diese Unbefugten. Dann gibt es jetzt erstmal zwei Möglichkeiten, so einen Park zu schützen. Physikalisch oder physisch. 
+
+Physisch machen wir das so, wir bauen einen Zaun. Das macht jeder so, das weiß auch jeder und das ist irgendwie so in Fleisch und Blut übergegangen. Es kriegt jetzt auch nicht einfach jeder einen Schlüssel und darf da rein.
+
+(0:07:59 - 0:08:10)
+Wir schließen das ab, wir haben dann noch ein CCTV-System. Und wenn einer das Tor eintreten will, dann werden wir aktiv. Auch wenn er nicht reinkommt, wir werden aktiv, wir melden das, wir stellen eine Anzeige.
+
+(0:08:10 - 0:08:20)
+So wäre jetzt die Idee. Der Schlüssel geht eben nur an die Leute, denen wir vertrauen, die wir vielleicht kennen. Oder sie kriegen gar keinen, sie müssen ihn zurückgeben.
+
+(0:08:20 - 0:08:27)
+Oder es kommt immer jemand mit auf die Baustelle. Ganz, ganz wichtig. Für Unbefugte gibt es eben keinen Zugang.
+
+(0:08:27 - 0:08:39)
+Wenn wir einen Schlüssel verlieren, dann werden wir den Zylinder tauschen. Wenn uns der Schlüssel gestohlen wird, dann vielleicht noch viel eher. Weil dann müssen wir damit rechnen, dass das vorsätzlich geklaut wurde.
+
+(0:08:39 - 0:08:59)
+Das sind eben diese Punkte, die wir vielleicht bei Türschlössern, bei Zäunen, bei Haustüren ganz automatisch machen. Wenn ich mein Portemonnaie mit meinem Haustürschlüssel verliere, ist das Erste, was ich tue, ich wechsle den Zylinder. Wenn ich nur meinen Schlüssel verliere, dann schätze ich das Risiko vielleicht ein bisschen anders ein und sage, naja, der wird schon nicht an meine Tür kommen und da versuchen, den Schlüssel reinzustecken.
+
+(0:08:59 - 0:09:26)
+Also das ist eine gewisse Bewertung, die wir bei Türschlössern immer machen. Und auch dann, wenn jemand versucht reinzukommen, das melden. Bei der IT ist das vielleicht alles noch nicht so weit. 
+
+Es gibt natürlich auch eine IT-Sicherheit. Es gibt eine Firewall und ich zu Hause habe auch eine Firewall. Die habe ich mir irgendwie eingerichtet. 
+
+Ob die so richtig funktioniert, das weiß ich ehrlich gesagt nicht. Ich habe da keinen Fachmann gefragt. Die ist einfach aktiviert.
+
+(0:09:26 - 0:09:43)
+Es gibt eine Firewall und Zugriff auf das Netzwerk habe ja erstmal nur ich und dann noch meine Freunde. Beim Solarpark ist das dann ja vielleicht anders. Der Netzbetreiber hat erstmal Zugriff, der Direktvermarkter hat sowieso Zugriff, der Betriebsführer hat auch Zugriff und dann gibt es eben wieder diese Unbefugten, die keinen Zugriff haben sollen.
+
+(0:09:44 - 0:10:07)
+Und es gibt natürlich auch immer mal wieder Leute, so wie mich zum Beispiel. Holger, wir haben ein Problem mit der Solaranlage. Kannst du mal gerade drauf gucken? Wir schalten dir gerade einen VPN-Tunnel frei. 
+
+Guck mal gerade. Die dann eben zusätzlich Zugriff kriegen und da muss man eben sehen, wie viel Zugriff kriegt er denn jetzt? Was kann er mit seinem Zugriff am Ende tun? Wichtig, wichtig. Unbefugte, eben kein Zugriff und das müssen wir eben prüfen.
+
+(0:10:08 - 0:10:28)
+Und die Firewall muss das verhindern, dass die eben reinkommen in unser Netzwerk. Jetzt gibt es organisatorische Maßnahmen, die man dagegen, gegen diese IT-Thematik, IT-Sicherheit tun kann. Das ISMS, Informationssicherheitsmanage-System muss man, Management-System muss man dann eben erstmal aufsetzen.
+
+(0:10:28 - 0:10:38)
+Und da stehen verschiedene Sachen hinter. Eine Risikoanalyse-Methode, das ist erstmal ein wichtiger Punkt. Geht so ein bisschen in die Richtung, was ich eben gesagt habe.
+
+(0:10:38 - 0:10:50)
+Ich kann meinen Haustürschlüssel verlieren, nur als Schlüssel. Dann muss ich vielleicht nicht den Schließzylinder tauschen, weil es weiß ja keiner, wo der Schlüssel reinpasst. Wenn er mir aber geklaut wurde mit meiner Adresse, dann bewerte ich das Risiko anders.
+
+(0:10:50 - 0:11:07)
+Genau so würde man das auch hier bei der IT-Sicherheit machen und Risiken analysieren, Fehler, Angriffe analysieren und schauen, wie man damit umgeht. Dann gibt es eine personelle und organisatorische Sicherheit. Ja, das ist vielleicht ähnlich.
+
+(0:11:08 - 0:11:21)
+Meinen Haustürschlüssel würde ich auch nicht jedem übergeben, den ich nicht kenne, sondern immer nur Leute, die ich geprüft habe, die ich kenne, Freunde, Familie. Das ist eine personelle und organisatorische Sicherheit. Dann gibt es Vorfallserkennung und Bearbeitung.
+
+(0:11:21 - 0:11:43)
+Ja, mein Router zu Hause, der meldet glaube ich schon, dass ich mal angegriffen wurde, aber ich tue dann im Grunde genommen nichts. Wenn es jetzt hier aber bei diesen großen Solarparks Vorfälle gibt, dann soll ich schon diese Vorfälle erkennen, identifizieren und auch bearbeiten. Also ich soll tatsächlich aktiv werden, nicht einfach warten, bis vielleicht meine Firewall nicht mehr steht.
+
+(0:11:44 - 0:11:59)
+Dann muss ich Lieferanten, Dienstleister und Dritte qualifizieren. Also alle, die irgendwo mit meinem System zu tun haben, müssen qualifiziert sein. Wechselrichter, Lieferanten, die vielleicht für Wartungszwecke drauf schauen können auf die Anlage.
+
+(0:12:01 - 0:12:11)
+Servicetrupps, die da mal mit dem Monitoring-System zu tun haben. All die muss ich irgendwie qualifizieren. Und dann das Letzte, alle genannten Punkte laufend aktuell halten.
+
+(0:12:12 - 0:12:29)
+Ja, Updates, das heißt nicht am Tag der Inbetriebnahme ist die Kritisverordnung erfüllt und danach bleibt das so. Nein, nein, nein, das ist ein Prozess und der ist unternehmensspezifisch und immer fortlaufend. Das ist einfach unheimlich komplex und da braucht ihr Fachfirmen.
+
+(0:12:29 - 0:12:49)
+Noch einmal, um auf die Risikoanalyse zu sprechen zu kommen, projektspezifisch ist sie, Fachkompetenz braucht ihr dafür. Also ich habe euch jetzt mal ein Beispiel erstellt, aber das ist bestimmt nicht von einer Fachfirma erstellt, sondern das ist jetzt mal mein Beispiel, damit ihr das grundsätzlich versteht. Es gibt erstmal ein Risikobereich, ja, unberechtigter Zugang im Netzwerk ist das.
+
+(0:12:50 - 0:13:07)
+Das ist erstmal so jetzt identifiziert worden, das ist ein riskanter Bereich. Dann gibt es jetzt eine Ursache, warum ist das so? Jetzt hat uns jemand das Passwort geklaut durch Phishing. Also Passwort ist weg und den Schaden, den er jetzt anrichten kann, mit diesem gestohlenen Passwort, der ist erstmal enorm hoch.
+
+(0:13:08 - 0:13:30)
+Maßnahmen, ich unternehme erstmal keine Maßnahmen. Das ist natürlich erstmal schlecht, aber hier für unser Beispiel gut, weil jetzt können wir eine verantwortliche Firma erstmal ausmachen, die IT-Fachfirma, die muss sich jetzt erstmal um dieses Thema kümmern. Die Wirkung von diesem Problem, was ich habe, mein Passwort ist weg, die kann erstmal sehr, sehr hoch sein.
+
+(0:13:30 - 0:13:56)
+Wir ordnen das jetzt mal hier in eine 5-Kategorie ein und die Wahrscheinlichkeit, dass der jetzt mit diesem gestohlenen Passwort auch einen Schaden einrichtet, kategorisieren wir hier mal mit der 4, weil er klaut das Passwort ja, dann hat er damit bestimmt auch was vor. Und daraus ergibt sich dann 5 mal 4 ein Gesamtrisiko von 20 und auch das kategorisieren wir als hohes Risiko. Und das ist erstmal schlecht, Daumen runter.
+
+(0:13:57 - 0:14:42)
+Was wir jetzt tun, Maßnahmen, ihr habt es gesehen, da ist was verschwunden, da taucht jetzt was Neues auf und als Maßnahme, die wir da jetzt ergreifen würden, wäre jetzt zum Beispiel kontinuierlich Passwörter ändern, das könnte man machen. Das sind meine Vorschläge, die sind jetzt nicht von einer Fachfirma oder zum Beispiel eine Zwei-Wege-Autorisierung. Wenn wir das tun, dann könnt ihr ja nochmal schauen, bei Wirkung und Wahrscheinlichkeit, das können wir dann anpassen, also die Wahrscheinlichkeit, dass der dann mit dem gestohlenen Passwort etwas tun kann, sinkt drastisch, weil wir haben ja noch eine zweite Autorisierung und wir ändern das Passwort ohnehin regelmäßig und dann ist das Risiko am Ende nicht 20, sondern 5. Das heißt, wir haben ein Problem erkannt, wir haben etwas unternommen, wir haben das Risiko gesenkt und dann ist der Status eben niedrig und dann geht jetzt auch der Daumen hoch.
+
+(0:14:43 - 0:15:14)
+Das heißt, mit dieser Risikobewertung und mit diesem Verhalten, fortlaufenden Verhalten, damit kann man dann eben Kritis, Kritisanforderungen erfüllen. Technische Maßnahmen, das kommt jetzt nochmal ganz kurz, sequentielles Netzwerk, Aufteilung von Fasern und VLANs, das geht ein bisschen in die Richtung von diesem Managed Switch, diese Geräte können das meistens, man muss es dann aber eben auch aktivieren und nutzen. Attack-Defense-Sensoren gibt es für Anlagen größer, 104 Megawatt.
+
+(0:15:15 - 0:15:54)
+Redundanz von Komponenten, auch das kann man aufbauen und dann eben zusätzlich noch Verhinderung von unerwünschten Angriffen durch bauliche Sicherheit, also CCTV, Zäuneschlösser, Komponenten in verschlossenen Räumen, dass die Leute auch nicht physisch direkt auf die Komponenten Zugriff haben und sich mit dem Netzwerkstecker anstöpseln können. Ich hoffe, dass das jetzt ein kleiner Einblick in diese Kritis-Thematik ist. Nehmt das mit als Elektroplaner und weist eure Kunden und die Anlagenbetreiber darauf hin, dass es kein Thema ist, was man so ganz am Rande mal nur betrachten kann.
+
+(0:15:54 - 0:16:13)
+Also da braucht man wirklich Fachkompetenz, IT-Fachfirmen, die das machen, nicht unbedingt der klassische Elektroplaner. Ich kann nur darauf hinweisen. Aber wenn ihr da eine Fachfirma habt, dann kann die euch da solche Prozesse aufsetzen und euch unterstützen und dann ist es auch in eurem eigenen Sinne, dass euer System erstmal gegen Angriffe von außen geschützt ist.
+
+(0:16:14 - 0:16:26)
+Ich hoffe, dass ihr jetzt nicht nur Kritis behaltet, sondern auch wisst, wie man Datenschema aufbaut, welche Komponenten man braucht. Mich hat es sehr gefreut und ich freue mich, euch dann nächste Woche wiederzusehen. Bis bald. 
+
+Tschüss.

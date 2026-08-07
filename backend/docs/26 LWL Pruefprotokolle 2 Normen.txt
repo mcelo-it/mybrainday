@@ -1,0 +1,103 @@
+(0:00:00 - 0:00:26)
+Schauen uns jetzt das Kapitel Normen an. Also Normen, ich hatte es schon vorweggenommen. Wir haben euch hier drei Normen erst mal rausgesucht, bei denen wir finden, dass sie wichtig sind. 
+
+Wir halten es möglichst kurz hier, dass man sich da nicht zu sehr verliert. Die erste Norm ist die IEC 14763. Leichter zu merken, VDE 0800 vielleicht, 7633.
+
+(0:00:26 - 0:00:37)
+Dann kommt die IEC 60304. Und zum Schluss auch noch mal die VDE 0888, 1011. Was das genau bedeutet, kommt später.
+
+(0:00:37 - 0:00:58)
+Wir steigen mal ein in die erste Norm. Und die erste Norm, die beschreibt uns dann erst mal Messungen, wie man Lichtwellenleiterverkabelung messen kann. Also die Norm selbst heißt Informationstechnik, Errichtung und Betrieb von Standortverkabelung, Teil 3. Hier diese Normen, wir zeigen nicht die ganze Norm, auf gar keinen Fall.
+
+(0:00:58 - 0:01:24)
+Selbst der Teil 3 hat, glaube ich, schon 100 Seiten, bezieht sich dann eben auf Messungen von Lichtwellenleiterverkabelung. Wir zeigen euch jetzt im Folgenden einfach nur im Groben, was wir meinen, hier wichtig ist, in dieser Norm gefunden zu haben, dass ihr das mal gehört habt, vielleicht im Hinterkopf parat haben könnt. Und wenn es dann mal darauf ankommt, könnt ihr euch hier gerne natürlich das Handout wieder raussuchen, reinschauen.
+
+(0:01:24 - 0:02:04)
+Welche Norm ist das? Euch die Norm dann wirklich schnappen und dann wirklich in diesen knapp 100 Seiten mal selbst den Punkt rauszusuchen, den ihr wirklich braucht. Also was steht denn eigentlich drin in so einer Norm? Diese Norm befasst sich erst mal grundsätzlich mit den Prüfgeräten, die es für LWL-Verkabelung, für optische Verkabelung gibt und definiert dann eben auch Anforderungen und Eigenschaften an diese Prüfgeräte. Es werden hier eine ganze Reihe Prüfgeräte erst mal vorgestellt und auch wie sie funktionieren. 
+
+Wir haben jetzt hier nur ein paar rausgesucht. Wie gesagt, es ist sonst viel zu umfassend, hier eine ganze Norm durchzugehen in zehn Minuten. Aber es gibt erst mal ein Dämpfungsmessgerät.
+
+(0:02:04 - 0:02:25)
+Das ist eine sehr einfache Variante der Messung oder deutlich einfacher als das, was danach kommt. Also man würde jetzt einen Lichtimpuls in das Kabel schicken. Der Lichtimpuls geht dann von hier bis, also von Berlin Süd bis nach Berlin Nord und in Berlin Nord misst man dann, was eben noch an Licht rauskommt.
+
+(0:02:25 - 0:02:37)
+Und das ist dann eben die Dämpfung. Dadurch hat man die Dämpfung der gesamten Strecke, kann man dann analysieren. Man weiß aber vielleicht nicht genau, wo liegen auf dieser Kabelstrecke Schwachstellen.
+
+(0:02:37 - 0:02:45)
+Also kann man machen, ist erst mal eine valide Prüfung. Danach gibt es das OTDR-Messgerät. Das ist dann schon deutlich aufwendiger.
+
+(0:02:45 - 0:03:07)
+Das gibt aber auch viel, viel mehr Informationen zurück, die man dann auch auswerten kann. Und das zeigen wir euch ja später auch nochmal, wie das genau funktioniert und wie dann so ein Prüfprotokoll aussieht. Und dann wird zum Beispiel auch eingegangen, ich habe es nur mit reingenommen, das ist für uns gar nicht so relevant, aber damit man mal ein Gefühl bekommt, diese Norm, die beschreibt auch noch Geräte für die Sichtprüfung.
+
+(0:03:07 - 0:03:40)
+Das heißt, es geht tatsächlich um sowas wie Lupen, damit man sich diese dünnen Fasern mal anschaut, im Detail prüfen kann, ist die Faser jetzt sauber, 90 Grad geschnitten, ist sie wirklich sauber, liegt da noch Staub drauf? Also solche Geräte, solche Messgeräte, Prüfgeräte werden hier vorgestellt und definiert. Dann geht es weiter. Prüfungen. 
+
+Welche Prüfungen gibt es? Welche Prüfung kann man durchführen? Also allgemeine Prüfanforderungen werden da vorgestellt. Es ist die Dämpfung. Also wir hatten eben das Dämpfungsmessgerät.
+
+(0:03:40 - 0:03:48)
+Dann gibt es natürlich auch die Dämpfungsmessung. Dann gibt es eine Durchgängigkeitsmessung. Das ist sicherlich die allereinfachste Art und Weise der Messung.
+
+(0:03:48 - 0:04:03)
+Also ein Laser an so eine LWL-Leitung anstecken und schauen, ob er hinten wieder rauskommt. Dann ist das Kabel durchgängig. Dann hat man sicherlich keine Erkenntnisse über die Qualität der Leitung, aber man weiß, es ist durchgängig und weiß vielleicht auch, wo es ankommt.
+
+(0:04:03 - 0:04:28)
+Was dann auch so ein bisschen die Polarität ist. Also wir schicken den Laser rein und sehen auf der anderen Seite, dass er an der falschen Stelle rauskommt. Dann ist die Polarität, die Zuordnung hier vielleicht nicht ganz richtig. 
+
+Wir haben ja im anderen Brain Day erklären wir genau, wie man, dass man von Send to Receive immer verdrahten muss. Und wenn das dann mal nicht gedreht wird an einer Stelle, dann ist die Polarität eben falsch. Und das kann man hier oder muss man hier eben prüfen.
+
+(0:04:29 - 0:04:41)
+Laufzeit und Länge, das hängt direkt miteinander zusammen. Also es wird Licht in das Kabel reingeschossen und dann wird es reflektiert und zurückgemessen. Das heißt, das ist eine Laufzeit.
+
+(0:04:41 - 0:05:02)
+Wie lange braucht das Licht hin und her? Und aus dieser Laufzeit über die Lichtgeschwindigkeit, die das Licht natürlich hat, kann man dann eben die Länge der Kabelstrecken ermitteln. Und das mit einer, wie ich finde, verblüffend hohen Genauigkeit, weil wir reden hier wirklich von extrem kurzen Zeiten von Lichtgeschwindigkeit. Und das kriegen wir trotzdem in den Griff.
+
+(0:05:03 - 0:05:19)
+Dann gibt es noch die LWL-Kerngröße. Also man schaut sich eben dann die Kerne an dieser LWL-Leitung. Und wenn man dann feststellt, man hat zum Beispiel eine 9 Mikrometer und eine 50 Mikrometer Faser, die man jetzt zusammenspleißen will, dann funktioniert das nicht.
+
+(0:05:19 - 0:05:40)
+Also man muss die Kerngröße prüfen, damit man die gleichen Kerngrößen hinterher zusammenführt und zusammenspleißt. So, der nächste Punkt ist dann die Bewertung. Und da gibt es dann erstmal bei der Grundlage, also erstmal werden Grundlagen der OTDR-Messung erklärt.
+
+(0:05:40 - 0:05:51)
+Und das fand ich auch, ich sage das relativ häufig, diese Normen, es lohnt sich tatsächlich, die zu lesen. Die sind ja immer sehr verrufen, weil sie sehr trocken sind. Und das stimmt ja auch zu großen, zu weiten Teilen.
+
+(0:05:51 - 0:06:18)
+Aber viele dieser Normen haben dann auch sehr interessante oder sehr hilfreiche Informationen parat. Zum Beispiel wird hier die OTDR-Messung erklärt und die Reilly-Streuung und die Frechnellze Reflexion werden dann auch nochmal kurz erklärt, wie das funktioniert, damit man später bei der Bewertung eben das nötige Handwerkszeug dabei hat. Also diese Reilly-Streuung, das sind, glaube ich, Streuungen in der Faser selbst.
+
+(0:06:18 - 0:06:36)
+Die werden dann überall zurückgestreut. Das heißt, wenn man auch eine funktionierende, ein Kilometer lange Glasfaser hat, gibt es da immer kleine Rückstreuungen, die dann auch zurückgemessen werden, sodass man dann auch sieht, dass es eine lange Faser ist, die auch zurückstreut. Also man bekommt da schon Informationen zurück, auch wenn die Ader okay ist.
+
+(0:06:36 - 0:07:05)
+Und diese Frechnellze Reflexion, die würde dann verwendet werden, wenn es wirklich Störstellen gibt, wenn es da große Reflexionen gibt, durch zum Beispiel Spleißstellen oder Stecker. Das sind diese zwei Phänomene, die man sich da zu Nutzen macht, um eben am Ende die Messprotokolle, um eben das, was man da sieht in den Messprotokollen später, auch auswerten zu können. Dann gibt es Einflussfaktoren, die es auf die Messungen gibt.
+
+(0:07:05 - 0:07:24)
+Werden hier definiert, würde ich aber mal den Fachleuten dann wirklich überlassen, welche Einflussfaktoren er hier in sein Prüfgerät noch mit aufnehmen will. Temperatur spielt sicherlich keine große Rolle, aber das überlassen wir den Fachleuten. Und dann gibt es noch die Dämpfung von Schnittstellen.
+
+(0:07:24 - 0:07:38)
+Genau das muss man bewerten. Das tut diese Ode OTDR Messung natürlich auch. Und die gibt dann eben auch Grenzwerte, die Norm, damit man diese Werte, diese Reflexion dann auch wirklich bewerten kann.
+
+(0:07:40 - 0:07:47)
+Die Dokumentation wird vorgegeben. Das haben wir ja in vielen Normen grundsätzlich. Wir müssen immer alles dokumentieren, was wir messen und prüfen.
+
+(0:07:48 - 0:08:06)
+Finde ich, ist einfach die Pflicht eines jeden Ingenieurs. Und hier gibt es dann eben noch mal Inhalte des Prüfprotokolls, die sich dann in weiten Teilen auch gleichen mit Strommessprotokollen. Also wo ist die Anlage? Wer hat es geprüft? Wann hat das geprüft? Ist das Gerät auch geeicht? Das gehört sicherlich in jedes Protokoll.
+
+(0:08:07 - 0:08:21)
+Aber hier bei LWL gibt es dann besondere Anforderungen, die dann eben auch noch rein sollen. Und das sehen wir später dann, wenn wir uns ein LWL Protokoll mal ansehen, was da wirklich drin ist. Jetzt gibt es noch Anhänge und bei den Anhängen auch sehr interessant.
+
+(0:08:21 - 0:08:47)
+Es gibt tatsächlich relativ viele Anhänge in dieser Norm. Es gibt Grenzwert Ermittlungen. Da wird mal vorgerechnet, wie ermittle ich denn überhaupt die Grenzwerte für eine 1,5 Kilometer lange Kabelstrecke mit drei Spleißstellen? Wie kann ich die Kabel, wie kann ich die Flächen vor allem vor der Spleißung reinigen? Wie darf man das machen? Was für Mittel gibt es dafür? Wie führt man Sichtprüfungen durch? Also sowas wird dann noch mal wirklich im Detail in den Anhängen beschrieben.
+
+(0:08:48 - 0:08:56)
+Damit haben wir es auch geschafft. Die erste Norm haben wir hinter uns. Wir springen zur zweiten, zur 6034, also IEC 6034.
+
+(0:08:57 - 0:10:21)
+Und hier denke ich, kann ich das sehr, sehr kurz und knapp halten. Hier geht es um Standardfarben für die Isolierung von Niederfrequenzkabeln und Leitungen. Also jeder, der sich schon mal gewundert hat, warum vielleicht diese Pigtails in den Spleißboxen, so wie wir sie da jetzt sehen, Farben haben, für den kommt jetzt vielleicht die Antwort. 
+
+Also es ist klar definiert in einer Norm, dass jede Faser oder dass die Farbe zugeordnet bekommt. Und das sind sie jetzt alle. Also Faser Nummer eins wäre dann zum Beispiel rot, zwei ist grün, drei ist blau und so weiter. 
+
+So ist das hier definiert. Und dem Spleißer, dem Monteur hilft sowas natürlich, dass er da immer eine klare Zuordnung hat, welche Faser wo drauf, damit es dann hinterher auch kein Vertun, keine Fehler gibt und beide Seiten die gleichen Farbcodes besitzen. Jetzt gibt es noch die dritte Norm für heute und auch die kann ich, glaube ich, sehr, sehr kurz halten. 
+
+Das ist die DIN VDE 0 8 8 8 100 1 1 und in dieser Norm geht es um die Kennzeichnung von Kabeln. Also die Kabel, die wir bestellen, die haben erst mal ein Code, die werden beschrieben und genau dieser Code, der geht aus dieser Norm hier hervor. Und wenn man sich das jetzt mal so im Detail anschauen möchte, so würde das aussehen.
+
+(0:10:21 - 0:10:41)
+Also wir gucken uns nachher noch mal ein Datenblatt vom Kabel an, dann seht ihr genau, wie das, wie der Kabeltyp heißt und was jeder Buchstabe in dieser Typbezeichnung von dem Kabel für eine Bedeutung hat. Und wir zeigen euch dann auch ein paar Alternativen, die man vielleicht hat, um das, um vielleicht mal ein anderes Kabel zu bestellen, um dann gleich den Code zu kennen.

@@ -1,0 +1,215 @@
+(0:00:00 - 0:00:14)
+Das wäre der Kabelaufbau. Also es geht los, wie ist ein Kabel aufgebaut? Wir fangen jetzt hier mal bei so einem Kabelaufbau von außen an. Außen ist der Mantel und schauen uns mal an, was da gemeint ist.
+
+(0:00:15 - 0:00:24)
+Hier ist jetzt mal ein 3D-Modell vom Kabel reingeflogen. Ich sage jetzt mal, so wird klassischerweise ein Mittelspannungskabel aussehen. Und außen, das Schwarze, ist jetzt der Mantel.
+
+(0:00:25 - 0:00:43)
+Der schützt das Kabel erstmal gegen äußere Einflüsse, würde ich mal so ganz im Wesentlichen sagen, mechanische, thermische, chemische Einflüsse. Also ich sehe da in erster Linie, würde ich sagen, diese mechanischen Einflüsse. Das Kabel liegt im Erdreich, wird vielleicht auch auf der Baustelle relativ grob behandelt.
+
+(0:00:43 - 0:00:57)
+Dagegen schützt dieser robuste Außenmantel, so würde ich ihn mal nennen. Feuchtigkeit ist natürlich auch ein Punkt, klar. Und das Material, aus dem er hergestellt ist, ist oft Kunststoff im Allgemeinen, würde ich mal sagen.
+
+(0:00:57 - 0:01:17)
+Und da fallen uns dann immer ein PE, also Polyethylen ist es, VPE, was dann das Äquivalent zum Crosslinked Polyethylen ist, also vernetztes Polyethylen oder Crosslinked. Oder PVC oder eben Gummimaterialien, die da eingesetzt werden. Das sieht man in der Regel so auf unseren Baustellen.
+
+(0:01:18 - 0:01:29)
+Und die Auswahl, wo es dann zum Einsatz kommt, sehen wir dann später noch. Nach dem Mantel geht es dann in die nächste Schicht. Hier kommen wir jetzt zur Hülle und Bewährung.
+
+(0:01:30 - 0:01:41)
+Diese Reihenfolge, die wir zeigen, die folgt so ein bisschen der Bauart-Kurzzeichen-Reihenfolge. Da kommen wir auch später noch zu, dann seht ihr das. Aber da gibt es dann eben einen Punkt Hülle und Bewährung.
+
+(0:01:42 - 0:01:58)
+Und der ist für uns ein bisschen unterschiedlich zu greifen, weil wir in unseren Projekten oder in Deutschland, so kenne ich das, in erster Linie Hüllen haben. So würde ich das jetzt mal definieren. Hier sieht man das jetzt, also die erste Schicht unter dem Mantel.
+
+(0:01:58 - 0:02:08)
+Da ist eine Hülle oder eine Bewährung. In England gibt es da nochmal andere Themen, sage ich gleich. Aber das Erste, was ich dann immer habe, ist sowas wie ein Quellvlies.
+
+(0:02:08 - 0:02:20)
+Bei Mittelspannungskabeln ist das dann für die Querwasserdichtigkeit gedacht. Wenn da Wasser eindringt, dann quillt das auf, das Wasser fließt nicht weiter. Das ist dann eine Art Hülle.
+
+(0:02:21 - 0:02:49)
+Und was ich dann gerade gesagt habe, Bewährung, in England habe ich das mal kennengelernt, sind dann wirklich robuste Eisen-Stahl-Mäntel, waren das glaube ich, die nochmal um das Kabel gelegt wurden, um da einfach nochmal einen sehr, sehr robusten mechanischen Schutz aufzubringen. Also nicht zu verwechseln mit dem Schirm, der gleich kommt, ist diese Bewährung dann nochmal was sehr Robustes, was ich aber in Deutschland nicht so kennengelernt habe. Jetzt geht es weiter zum Schirm, den haben wir hier.
+
+(0:02:50 - 0:03:02)
+Und der Schirm ist in der Mittelspannung Usus, würde ich jetzt mal sagen. In der Niederspannung sehen wir ihn auch manchmal, nicht so oft, aber auch manchmal. Bei der Datentechnik ist es dann schon viel, viel häufiger.
+
+(0:03:03 - 0:03:25)
+Also beim Mittelspannungskabel sehen wir es hier. Der Schirm ist dann erstmal so aufgebaut, liegt dann eben unter den ersten beiden Schichten und ist dann im Grunde genommen oft ein Geflecht aus konzentrischen Leitern, wie auch immer, geartet. Er soll dafür sorgen, dass keine magnetischen Felder in oder aus dem Kabel heraus gelangen.
+
+(0:03:25 - 0:03:55)
+Also eine Abschirmung des Kabels, deshalb heißt es auch Schirm. So, nach dem Schirm kommt jetzt die Isolierung. Und ich sage es nochmal, folgend dieser Bauteil-Kennzeichnung, Bauteil-Kurzzeichnung, was wir jetzt hier überspringen, ich sage es nur kurz, beim Mittelspannungskabel, diese dünne schwarze Schicht, diese Leitschicht, das ist glaube ich hier die äußere Leitschicht, ist beim Mittelspannungskabel auch wichtig, wird aber in dieser Bauart-Kurzzeichnung nicht beschrieben.
+
+(0:03:55 - 0:04:06)
+Deshalb tun wir es auch nicht. Wir gehen jetzt hier auf die Isolierung ein, die sehen wir hier. Und diese Isolierung trennt erstmal galvanisch den Leiter von, ich würde jetzt mal sagen, dem Schirm.
+
+(0:04:06 - 0:04:35)
+Diese Isolierung ist dann spannungsabhängig, also je nachdem wie hoch euer Spannungslevel ist, umso dicker muss dann eben diese Isolierung gewählt werden. Also beim 10 kV Kabel ist diese Schicht dünner als beim 30 kV Kabel. So, was heißt spannungsabhängig? Jetzt fliegen da vor allem in der Mittelspannung bei den Mittelspannungskabeln immer viele Bezeichnungen rum, sage ich mal, U0, wir würden das jetzt mal für uns ableiten als Leiter Erdspannung.
+
+(0:04:35 - 0:05:09)
+Also die Spannung, die man im Betrieb messen könnte zwischen dem Leiter und zum Beispiel dem Schirm oder zwischen dem Leiter und Erde. Da der Schirm meistens geerdet ist, ist das das Äquivalent dazu. Dann gibt es, genau, das U0 leitet sich dann natürlich wiederum bei Drehstromsystemen aus dem Unennen durch Wurzel 3. Für die Elektroingenieure hier ist das jetzt, glaube ich, kein großes Geheimnis, aber wir wollten es zumindest einmal aufschreiben und tragen das U0 jetzt auch mal ganz links in unserem Spannungsstrahl unten ein.
+
+(0:05:10 - 0:05:27)
+Und das U als U-Leiter Leiterspannung ist dann eben U-Leiter Leiterspannung durch Wurzel 3 ist dann eben das U0, so ist es. Das U tragen wir hier auch ein. Und dann haben wir noch eine Betriebsspannung, die wir da normalerweise erwarten.
+
+(0:05:27 - 0:05:37)
+Also ich würde es jetzt als Beispiel vielleicht nochmal sagen, 30 kV Kabel. Jetzt haben wir hier eine Betriebsspannung. In so einem Solarpark hat man dann oft auch mal 31,5 oder 33.
+
+(0:05:38 - 0:05:51)
+Dass man 29 hat, habe ich noch nicht so oft gesehen. Deshalb tragen wir die Betriebsspannung jetzt mal hier rechts von der Nennspannung des Kabels ein. In der Niederspannung ist es aber anders, da kann das dann mal variieren.
+
+(0:05:51 - 0:06:11)
+Deshalb habt ihr gesehen, ist das UB jetzt auch mal nach links von der Nennspannung gewandert und wieder zurück. In der Niederspannung haben wir dann immer das 1 kV Kabel und betreiben es zum Beispiel mit 400 oder mit 800 Volt. Also da wäre dann, kann ich das zurück machen, das UB vielleicht doch auf der linken Seite von dem U und es geht wieder zurück.
+
+(0:06:13 - 0:06:25)
+Danach haben wir noch die höchste zulässige Spannung, das wird auch immer angegeben. Das ist dann Umax, so nennen wir das dann hier. Wichtig ist, dass das UB kleiner ist als das Umax.
+
+(0:06:26 - 0:06:44)
+Also das UB kann sich da ruhig um das Unennen drum herum bewegen, Plus und Minus ein wenig. Aber das Umax ist dann die Grenze, was wir mit unserem UB nicht überschreiten dürfen. Kurz in einer Tabelle gezeigt, dass ihr dann nochmal diese üblichen gängigen Spannungslevel hier seht.
+
+(0:06:44 - 0:07:07)
+Das erste Kabel ist ein klassisches Niederspannungskabel, 0,6 kV für das U0 und 1 kV für die Leiterleiterspannung. Und so baut sich das auf bis zum 30 kV Kabel. Und das Umax ist dann immer 120 Prozent von der Leiterleiterspannung, beim 30 kV Kabel also 36 und beim 1 kV Kabel 1,2.
+
+(0:07:08 - 0:07:24)
+So ist das dann erstmal. Mantel und Isolierung haben aus unserer Erfahrung meistens sehr ähnliche Werkstoffe, so kennen wir das. Deshalb führen wir das hier auch mal zusammen.
+
+(0:07:25 - 0:07:43)
+Wir haben zum Beispiel oft NAYY Kabel, die sind dann glaube ich aus VPN, beide Schichten. Und es gibt eben auch Kabel, da ist eine Schicht aus VPE und eine aus PVC. Das sind hier so die beiden Typen, die wir kennen.
+
+(0:07:44 - 0:07:59)
+Der eine ist bis 90 Grad belastbar, das ist das VPE oder das XLPE. Und das PVC, also bei dem NAY Kabel zum Beispiel, das ist dann nur bis 70 Grad belastbar. Ist für uns ein wichtiger Punkt, weil der auch später in der Kabelberechnung immer wichtig ist.
+
+(0:08:00 - 0:08:13)
+Je höher ihr natürlich den Leiter erwärmen könnt, je höher die Isolation erwärmt werden darf, desto mehr Tragfähigkeit hat natürlich auch das Kabel. Deshalb wollten wir das hier nochmal zeigen. VPE ist da höher belastbar als PVC.
+
+(0:08:14 - 0:08:36)
+Und diese ganze thermische Betrachtung, die wir dann hier am Ende machen, bringt dadurch natürlich Vorteile für das VPE. Und ganz zum Schluss nach der Isolierung kommt dann noch der Leiter. Also der Leiter ist dann eben das Innere im Kabel.
+
+(0:08:36 - 0:08:46)
+Das ist glaube ich nicht überraschend. Und drumherum nochmal diese dünne Leitschicht. Eure Mittelspannungsmonitore kennen die wahrscheinlich sehr sehr gut, weil die müssen immer fein abschälen und sehr sauber arbeiten.
+
+(0:08:46 - 0:09:03)
+Für uns ist die jetzt erstmal nicht so wichtig, für uns ist der Leiter wichtig. Der ist dann natürlich dafür da, um in unserem Fall meistens die elektrische Energie zu übertragen. Das ist denke ich erstmal sinnhaft und schlüssig.
+
+(0:09:03 - 0:09:20)
+Und im Starkstrombereich, vielleicht auch nochmal der Hinweis, so kenne ich das, zumindest in Solarparks wird da überwiegend auf Aluminium gesetzt. Einfach aus Kostengründen. Das ist zusätzlich auch leichter, hat andere Vorteile vielleicht auch noch, aber auch Nachteile.
+
+(0:09:20 - 0:09:33)
+Der Querschnitt muss größer sein als Kupfer. Aber es hat sich aus meiner Sicht erstmal so durchgesetzt, dass die meisten Kabel aus Alu geliefert werden. So, und wie werden sie geliefert? Man kann sie eindrähtig bestellen.
+
+(0:09:33 - 0:09:46)
+Das ist erstmal vielleicht soweit so klar. Wichtig, worauf wir hier den Fokus legen wollen, ist das Wording eindrähtig. Das ist hier ganz wichtig, weil man kann auch mehr drähtig bestellen.
+
+(0:09:47 - 0:10:13)
+Und das ist natürlich nicht zu verwechseln mit Adrig, kommt später, weil hier seht ihr ja, der linke eindrähtige, das eindrähtige Kabel, das ist wirklich ein massiver Leiter, das ist ein dicker Draht, je nachdem wie dick euer Kabel eben ist. Und das mehrdrähtige Kabel, das besteht dann eben aus mehreren Drähten oder Litzen, wie auch immer man das jetzt beschreibt. Also das ist dann ein vieldrähtiges Kabel, mehrdrähtiges Kabel.
+
+(0:10:13 - 0:10:41)
+Und eindrähtige Kabel gibt es dann auch einadrig. Und eindrähtige Kabel gibt es dann einadrig als Rundleiter und mehradrig als, hier ist es dann ein Sektorleiter. Also hier hat man dann vier Leiter in einem Kabel, das ist dann mehradrig und jede Ader ist eindrähtig, weil es eben ein massiver Leiter ist.
+
+(0:10:43 - 0:11:07)
+Das gleiche eben dann auch bei dem mehrdrähtigen Kabel, das gibt es einadrig und als Rundleiter und das gibt es dann auch mehradrig als Sektorleiter. Es gibt noch weitere Formen, es gibt auch ovale Leiter, da weiß ich ehrlich gesagt nicht, wo man die einsetzt, ist mir im PV-Bereich noch nicht untergekommen. Es gibt auch Hohlleiter, die man dann in der Hochspannung vielleicht einsetzt.
+
+(0:11:08 - 0:11:28)
+Aber das ist erstmal das, was für uns wichtig ist hier in der PV-Welt, im PV-Park. Damit kommen wir dann erstmal relativ weit. Jetzt schieben wir das Ganze mal hoch, weil wenn ihr euer Kabel bestellt oder euer Kabel-Datenblatt checkt, dann kommt euch häufig auch so eine Abkürzung wie RE unter.
+
+(0:11:28 - 0:11:58)
+Das steht dann am Ende der Kabelbezeichnung RE und das heißt dann für euch, es ist ein Rundleiter und er ist eindrähtig. Das gleiche gibt es dann eben auch für den Sektorleiter, SE, Sektorleiter, eindrähtig. Für den Rundleiter gibt es das als mehrdrähtig, also RM und es gibt das Ganze für den Sektorleiter als Sektorleiter mehrdrähtig, mehradrig, entschuldigung.
+
+(0:11:59 - 0:12:26)
+Da kommt man schnell durcheinander. Umso wichtiger ist es, dass man versucht, sich dieses Vokabular so ein bisschen zu verinnerlichen, damit man, wenn man dann in seinem Meeting sitzt und mit den Leuten spricht, alle auch das gleiche Verständnis haben. Oben führen wir jetzt nochmal einen kleinen Draht ein, feindrähtig, das ist nochmal ein kleiner Unterschied, haben wir hier gemacht, weil das klassische Stringkabel dann eben in der Regel feindrähtig geliefert wird.
+
+(0:12:26 - 0:13:02)
+So, Achtung, Achtung, ein Hinweis noch unten drunter, wenn ihr jetzt bei euren Schnittstellen seid, ich sage mal Schnittstelle zum Wechselrichter, Schnittstelle zur Trafostation, zum Modul, achtet bitte immer auf den Kabeltyp, achtet auf eure Kabelschuhe, auf eure Stecker, was auch immer, weil diese Leitertypen haben darauf immer einen Einfluss. Manche muss man dann, Sektorleiter muss man rund drücken, dann kommt man auf andere Querschnitte. Massive Leiter sind dann im Gegensatz zu mehrdrähtigen Leitern im Querschnitt, glaube ich, anders zu bewerten.
+
+(0:13:02 - 0:13:46)
+Also da müsst ihr gerade, was diese Kabelschuhthematik betrifft, sehr, sehr aufpassen, lasst euch das freigeben, holt euch da Experten mit rein, die das regelmäßig machen, sonst, sage ich mal, tritt man da öfter ins Fettnäpfchen. Hier nochmal eine kleine Übersicht, da will ich jetzt gar nicht darauf eingehen, vielleicht hilft euch das, wenn ihr hier in zwei, drei Monaten nochmal etwas nachschlagen wollt, dann findet ihr die Übersicht im Handout, welche Materialien bei welchen Kabeln verwendet werden, was gibt es überhaupt für Bestandteile, wir sind der Meinung, das kann euch helfen, wenn es euch nicht hilft, ihr könnt trotzdem reingucken, wenn ihr möchtet. So, jetzt gehen wir nochmal in den Kabelaufbau und gucken uns diese Bauart-Kurzzeichen an.
+
+(0:13:46 - 0:14:43)
+Was ist denn das überhaupt? Das wollten wir euch aber nicht vorenthalten, das gibt es nämlich in der Norm, Bauart-Kurzzeichen, und die Norm, die das beschreibt, ist eben die 0271, 0276, und da ist erstmal vordefiniert, ich sage mal, ein Zahlencode, den man sich jetzt zusammenbasteln muss, der eben jedes Kabel, was man so verwenden kann, beschreibt. Also wer sich schon mal gefragt hat, was ist denn ein NA2 SF2Y, jetzt gleich wisst ihr das vielleicht. Es geht erstmal darum, die erste Ziffer, die beschreibt erstmal, ob das Kabel nach der DIN-Norm gebaut ist oder nicht, also wenn am Anfang ein N steht, und so habt ihr das bei dem NA2 was auch immer, oder bei dem NA, da steht ein N, dann ist das erstmal ein Kabel nach DIN-Norm und zum Beispiel nicht ein Kabel nach IEC-Norm.
+
+(0:14:43 - 0:14:50)
+Also das ist erstmal ein wichtiger Punkt. Der zweite Punkt, der dann kommt, ist die Leiterart. Da gibt es Aluminium oder Kupfer.
+
+(0:14:51 - 0:15:05)
+In der Regel ist es so, wenn es Kupfer ist, wird es nicht mitgeführt. Wenn es Aluminium ist, dann steht dort ein A. Wir haben jetzt mal ein Kupferkabel ausgewählt, deshalb kommt da das Minus rein. Das Minus wird aber auch nicht mitgeführt, sondern verschwindet einfach.
+
+(0:15:05 - 0:15:16)
+Also es gibt ein N-Üps-Üps-Kabel für Kupfer oder ein NA-Üps-Üps-Kabel, gleiches Kabel mit Alu. So ist das dann gedacht. Dann gibt es den Isolierwerkstoff.
+
+(0:15:17 - 0:15:32)
+Vielleicht noch der Hinweis hier, eben sind wir von außen nach innen gegangen, jetzt gehen wir von innen nach außen, dass es nochmal vielleicht besser greifbar ist. Wir hatten gerade den Leiter von innen, jetzt kommt die Isolierung. Da gibt es jetzt verschiedene Varianten.
+
+(0:15:32 - 0:15:43)
+Es gibt ein Y für PVC oder ein 2X für VPE. In unserem Beispiel nehmen wir jetzt mal das 2X. Ich denke, wir bauen hier ein klassisches Mittelspannungskabel auf.
+
+(0:15:43 - 0:15:54)
+So sieht das für mich zumindest jetzt erstmal aus. Die dritte Stelle ist dann eben der Schirm. Auch da gibt es jetzt ganz viele Möglichkeiten.
+
+(0:15:54 - 0:16:12)
+In der Niederspannung sehe ich öfter mal das CW als Schirmbezeichnung. Hier bei dem Mittelspannungskabel kommt jetzt das SF, also ihr seht da Kupferschirm und Längswasserdichterschirm. Dieses Längswasserdicht ist dann dieses Quellvlies, was eingebaut wird.
+
+(0:16:13 - 0:16:23)
+Und der Schirm, der hier verwendet wird, der ist eben aus Kupfer. Dann kommt Bewährung. Wir hatten das ja ganz am Anfang schon, die wir in Deutschland ehrlich gesagt nicht so oft sehen.
+
+(0:16:23 - 0:16:37)
+Zumindest in unseren PV-Parks taucht die nicht so sehr auf. Und so eine Bewährung aus Stahlband oder Flachdrahtverzint, das haben wir in der Regel nicht. Deshalb ist das hier beim Mittelspannungskabel auch ein Minus und verschwindet aus der Bezeichnung.
+
+(0:16:40 - 0:16:46)
+Danach kommt der Mantel. Den kennen wir ja schon. PVC oder PE, gibt es beides.
+
+(0:16:47 - 0:17:08)
+Hier ist PE gewählt worden, also kein vernetztes Polyethylen, sondern nur Polyethylen. Hinten raus kommt dann eben noch, haben wir einen Schutzleiter oder nicht. Das ist, finde ich, vor allem bei den Anlagen, die jetzt als isolierte Niederspannungsanlagen eingesetzt werden, immer ein wichtiger Punkt.
+
+(0:17:08 - 0:17:20)
+Da hat man dann dreiadrige Kabel und muss eben sehen, dass kein Schutzleiter dabei ist. Hier in unserem Mittelspannungskabel, bei einem einadrigen Kabel, brauchen wir ohnehin keinen Schutzleiter. Es gibt ihn nicht, deshalb kommt ein Minus rein.
+
+(0:17:20 - 0:17:38)
+Aber wenn ihr ein dreimal, ich sage mal, n-üps-üps bestellt, achtet drauf, ob ihr einen Schutzleiter braucht. Wenn ihr den habt, ist das im Grunde ein einphasiges System. Wenn ihr den Schutzleiter nicht habt, könnt ihr das Kabel als dreipoliges, für ein dreipoliges System, isoliert verwenden.
+
+(0:17:40 - 0:17:51)
+So, dann geht es weiter zu der Aderanzahl. Hier ist es eindeutig im Bild zu erkennen, nur eine Ader. Manchmal haben wir auch drei oder vier Adern in einem Kabel.
+
+(0:17:52 - 0:18:00)
+Dann wird dort eine andere Zahl stehen. Dann kommt noch der Querschnitt. Da wir hier einen Leiter und einen Schirm haben, werden hier beide angegeben.
+
+(0:18:00 - 0:18:11)
+Einmal 240 Quadrat für den Leiter und 25 Quadrat für den Schirm. Dann kommt noch der Leitertyp. Den haben wir euch eben, glaube ich, ausgiebig erklärt.
+
+(0:18:12 - 0:18:25)
+Den kann man als Rundenleiter haben, als Sektorleiter oder Ovalerleiter. Hier ist es rund und man kann ihn mehrdrähtig haben oder eindrähtig oder hohl. Ich denke, hier ist es rund und mehrdrähtig.
+
+(0:18:26 - 0:18:28)
+Schauen wir mal. Ja, so fliegt es auch rein. Klasse.
+
+(0:18:29 - 0:18:41)
+Das Letzte, was da noch kommt, ist die Nennspannung. Die haben wir eben auch schon beschrieben. Wenn das hier ein 30kV-Kabel ist, dann wird das so angegeben mit U0 und U-Leiter-Leiter.
+
+(0:18:44 - 0:18:56)
+Jetzt noch einmal zusammengefasst. Für mich ist es zu klein, ich kann es nicht lesen. Für euch aber, denke ich, wieder als gute Übersicht geeignet, später da noch mal reinzuschauen.
+
+(0:18:56 - 0:19:14)
+Was bedeutet was? Da stehen diese ganzen Details und dann könnt ihr natürlich nachvollziehen, was für ein Kabel ihr braucht, was für ein Kabel das überhaupt ist. Typische Kabel, die wir so kennen, Mittelspannungskabel, das habt ihr oft genug gesehen. Hier nochmal beschrieben, wie das aufgebaut ist, wie es eingesetzt wird.
+
+(0:19:15 - 0:19:32)
+In der Niederspannung haben wir diese Kabel. Hier ist es ein 4-aderiges Kabel mit einem gelb-grünen Leiter drin. Der Klassiker für unsere Wechselrichterverdrahtung in einem TN-System.
+
+(0:19:33 - 0:19:47)
+Dann haben wir hier ein Einzelader-Aluminiumkabel. Das sehen wir häufig in der DC-Hauptverkabelung. Bei zentralen Wechselrichtern kommt so etwas häufig zur Anwendung.
+
+(0:19:49 - 0:20:08)
+Unten zeigen wir nochmal, dass hier dieses mehrdrähtige diese Litzen sind dann im Millimeterbereich groß. Jetzt kommt dagegen nochmal das Stringkabel. Da sind diese Litzen deutlich kleiner als ein Millimeter, weil das dann eben feindrähtig ist.
+
+(0:20:08 - 0:20:16)
+Das ist hier unser Stringkabel. Rund und eindrahtig. Wir haben jetzt mal in den Mikrometerbereich herangeschrieben.
+
+(0:20:17 - 0:20:25)
+Diese Drähtchen sind sehr fein und dünn. Dann gibt es natürlich Besonderheiten bei unserem Solarkabel. Das ist doppelt isoliert.
+
+(0:20:26 - 0:20:36)
+Das ist einaderig in der Regel ausgeführt. Und eben auch extrem witterungsbeständig. Es liegt auf Dächern, es liegt auf Freiflächenanlagen.
+
+(0:20:36 - 0:20:50)
+Wind, Wasser, UV sind da immer große Themen. Da muss man darauf achten, müssen sie eben aushalten können, sonst hält das eben nicht 20 Jahre. Dann sind diese Kabel nach der VDE 283 618 gebaut.
+
+(0:20:51 - 0:20:52)
+So, Punkt.

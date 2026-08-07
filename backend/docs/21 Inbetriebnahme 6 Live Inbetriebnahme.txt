@@ -1,0 +1,311 @@
+(0:00:00 - 0:00:19)
+Letztes Kapitel. Da müsst ihr bitte, bitte jetzt mitmachen, dann macht es einfach mehr Spaß. Wir machen diese Mittelspannungs-Inbetriebnahme, die wir jetzt gemeinsam in der Theorie uns erstmal angeguckt haben und die wir dann auch hier in der Schaltsequenz sehr detailliert aufgeschrieben haben, machen wir jetzt mal gemeinsam auf der Baustelle.
+
+(0:00:19 - 0:00:47)
+Wir machen sozusagen eine virtuelle Live-Inbetriebnahme. Dazu machen wir die Übung 2. Und ich brauche wahrscheinlich jetzt parallel immer so ein bisschen Hilfe, aber das kriegen wir schon hin, indem wir jetzt erstmal in Menti springen. Genau, das seht ihr jetzt auch in eurem Handy oder zweiter Bildschirm.
+
+(0:00:47 - 0:01:00)
+Das war die Erkenntnis vom letzten Jahr, dass man im Grunde zwei Sachen braucht. Sonst muss man zu viel springen und dafür sind wir dann einfach zu schnell, wenn man so will. Also ihr macht jetzt auf der Baustelle bitte den ersten Schritt.
+
+(0:01:00 - 0:01:16)
+Die Inbetriebnahme der Übergabestation ist abgeschlossen. Sie ist abgeschlossen und ihr sollt jetzt erstmal prüfen, ob das Eingangsfeld unter Spannung steht. Nächste Seite bitte in Menti, dann sieht man das auch nochmal als Skizze.
+
+(0:01:16 - 0:01:26)
+Super, sieht super aus. Das lassen wir genau so und ihr prüft jetzt in der 360°-Tour, ob das auch wirklich so ist. Ich zeige es euch gleich, aber ihr habt den Link im Chat.
+
+(0:01:27 - 0:01:57)
+Hinter mir können auch die Daumen hoch gehen, dann sehe ich das. Wenn ihr eine Minute, vielleicht zwei, jetzt bitte den Link öffnet, das Passwort eintippt und dann virtuell auf der Anlage, die ihr im Hintergrund seht, steht, dann könnt ihr jetzt selbst erstmal die Tür aufmachen von der Übergabestation und mir sagen, ob das Eingangsfeld richtigerweise, so soll es sein, unter Spannung steht. Sehe ich da irgendwelche Daumen nach oben? Eigentlich nicht.
+
+(0:01:59 - 0:02:05)
+Macht keiner einen Daumen nach oben. Weil ich frage das jetzt in Menti ab. Ja, jetzt kommt ein Daumen hoch, alles klar.
+
+(0:02:05 - 0:02:14)
+So, dann bitte einmal die nächste Seite. Achtung, ihr habt zehn Sekunden. Los geht's.
+
+(0:02:14 - 0:02:25)
+Und dann zeige ich es auch. Ich zeige es auch, aber erstmal will ich eure Meinung wissen. Steht das Eingangsfeld der Übergabestation unter Spannung? Ja, nein oder ehrlicherweise habt ihr eigentlich keine Ahnung.
+
+(0:02:33 - 0:02:40)
+Ja, es steht unter Spannung. Jetzt gehen wir mal in meinen Bildschirm, bitte. Und ich zeige euch, wie das funktioniert.
+
+(0:02:41 - 0:02:49)
+Das Menti können wir rausnehmen, das brauchen wir jetzt tatsächlich nicht. Ich finde, dann ist es ein bisschen übersichtlicher. Aber ich fange einfach schon mal an und erkläre jetzt, wie das geht.
+
+(0:02:49 - 0:02:57)
+Also, ihr habt diesen Link bekommen und das Ganze geöffnet. Und dann könnt ihr euch auch wunderbar umdrehen in dieser Tour. Und ein bisschen rumgucken.
+
+(0:02:57 - 0:03:09)
+Und das ist also unsere Übergabestation. Und jetzt hätte man, genau wie es im Schema gezeichnet war, eben hier ein Eingangsfeld und ein Abgangsfeld. Und das wiederum ist mit dem Messfeld verbunden.
+
+(0:03:10 - 0:03:17)
+Was da alles so drin ist und wie diese allen Schalter funktionieren. Ja, ehrlich gesagt ja sogar, was hier so beschrieben ist auf den Türen. Das machen wir in anderen Modulen.
+
+(0:03:17 - 0:03:23)
+Heute machen wir das nicht. Heute gucken wir uns ja an, weil wir das ja schon fertig gebaut haben. Hier unten seht ihr es.
+
+(0:03:24 - 0:03:32)
+Die Kabel sind verlegt, aber nicht abgesandet. Vielleicht ein kleiner Kritikpunkt am Rande. Ist jetzt aber für virtuelle Touren nicht ganz so wichtig.
+
+(0:03:32 - 0:03:53)
+Und jetzt wollen wir wissen, hat der Netzbetreiber auch wirklich zugeschaltet? Dazu gehen wir auf das Plus und sehen jetzt diese zwei Felder. Also H02 geht zum Netzbetreiber oder kommt vom Netzbetreiber. Und H01 ist das Abgangsfeld zur Trafostation 1. Was sehen wir da jetzt so? Wir sehen jetzt hier erstmal das Symbol.
+
+(0:03:53 - 0:04:02)
+Das ist also ein Last-Trenn-Schalter, so wie wir es auch in unserem Schema dargestellt haben. Hier ist ein Knopf. Hier kann man jetzt drücken, ein- und ausmachen.
+
+(0:04:02 - 0:04:12)
+Hier ist auch noch ein Knopf, kann man das andere Feld schalten. Und hier, da seht ihr das Leistungsschalter-Symbol. Da ist auch ein Leistungsschalter, den man schalten könnte.
+
+(0:04:12 - 0:04:23)
+Ein- und aus. Und vom Grundsatz her ist jetzt die Idee so, dass ihr selbst auf die Knöpfe drückt, so wie ihr das für richtig haltet. Ich zeige euch auch gleich das Schema wieder.
+
+(0:04:23 - 0:04:27)
+Dann ist es einfacher. Dann habt ihr auf einem Bildschirm die Tour. Hier das.
+
+(0:04:27 - 0:04:43)
+Und auf dem Handy oder so habt ihr das Schema. Das ist einfach viel leichter, um sich orientieren zu können. Aber wenn ihr jetzt zum Beispiel sagt, naja, im nächsten Schritt muss ich also... Was mache ich denn jetzt hier zum Beispiel? Ich muss im nächsten Schritt den Leistungsschalter schließen.
+
+(0:04:43 - 0:04:52)
+Dann würdet ihr hier aufdrücken. Und weil das aber nicht richtig ist, würdet ihr den Zong sehen. Also ich habe jetzt hier absichtlich erstmal einen Fehler gezeigt.
+
+(0:04:52 - 0:05:05)
+Das heißt, das wäre nicht richtig gewesen. Was ihr bitte parallel macht, ist einfach mal so mitzählen, abschätzen, wie viele Zongs ihr denn jetzt eigentlich so in der nächsten Zeit kriegt. Dann könnt ihr mir am Schluss dann nochmal sagen, ob es einer war oder 15.
+
+(0:05:05 - 0:05:17)
+Und die Idee dabei ist, aus Fehlern zu lernen. Also man sieht dann als Feedback, was man falsch gemacht hat. Und dann kann man es natürlich üben, üben, üben und später mal in Realität richtig machen.
+
+(0:05:18 - 0:05:33)
+Die Frage war aber, ist das Eingangsfeld schon unter Spannung? Und dafür brauche ich diesen kapazitiven Spannungsanzeiger. Ihr könnt also mit Sicherheit sagen, ja, der Netzbetreiber hat sein System hier. Hier ist sein Schalter geschlossen.
+
+(0:05:34 - 0:05:47)
+Und das System steht unter Spannung, weil der kapazitive Anzeiger das auch so bestätigt. Das würde ich mal als allererstes machen, wenn der Netzbetreiber sagt, ich bin fertig mit meinem Schritt. Jetzt bist du dran in der Übergabestation.
+
+(0:05:48 - 0:05:57)
+Dann gucken alle erstmal hier, ob das auch wirklich so ist. So, jetzt gehen wir bitte in Menti. Machen wir gerne Fullscreen.
+
+(0:05:58 - 0:06:30)
+Dann kann man es, glaube ich, besser sich vorstellen und gehen in den Schritt 2. Ihr erinnert ihn euch? Ihr habt das auch gerade selbst gebaut, diese Schaltsequenz. Und ihr sagt mir jetzt erstmal, was ihr jetzt als nächstes machen würdet. Bitte eintippen. 
+
+Ich gebe euch auch 15 Sekunden. Aber jetzt bitte eintippen aktiv, was soll ich jetzt als nächstes machen? Was würdet ihr jetzt als nächstes machen? Eintippen, nicht Daumen hoch jetzt, sondern eintippen und alles klar, Erdung aus. Vielleicht können noch mehr was dazu sagen.
+
+(0:06:30 - 0:06:55)
+Also ich stehe ja jetzt vor dieser Übergabestation und würde ja vielleicht in welchem Feld, oder es gibt ja zwei, Eingang, Ausgangsfeld, H01, H02, Schalter einschalten, also nicht mehr erden, Erdung abschalten. Erdung, Schalter öffnen, H02, Übergabestation. Also wir nehmen das mal mit, mit Erde öffnen, H01, Übergabestation, Erde öffnen.
+
+(0:06:55 - 0:07:12)
+Gehen auf die nächste Seite. Und ich sage euch, die Antwort ist, Erde öffnen ist richtig, in der Übergabestation H01, genau. Und zwar nicht nur in der Übergabestation, sondern bitte auch in der Trafostation.
+
+(0:07:12 - 0:07:19)
+Also erstmal, erster Schritt, die Antwort ist richtig. Als nächstes würde ich jetzt die Erde öffnen. Und jetzt seid ihr wieder dran.
+
+(0:07:20 - 0:07:30)
+Ihr könnt jetzt in dem Tool, Dankeschön, vielen Dank, so ist es viel besser. Ihr könnt jetzt in dem Tool in der Übergabestation in H01 den Erde öffnen. Das ist halt einer dieser Knöpfe, die ihr da findet.
+
+(0:07:30 - 0:07:46)
+Wenn ihr das richtig macht, werdet ihr einen Link sehen, der euch zur Trafostation 1 führt. Und dann könnt ihr auch da wiederum in den drei Feldern die Erde öffnen. Das könnt ihr jetzt machen, damit dann das Bild so aussieht, wie es jetzt hier im Hintergrund ist.
+
+(0:07:46 - 0:07:58)
+Da habt ihr jetzt wieder eine Minute Zeit. Und dann erkennt ihr, wenn ihr diese 1, 2, 3, 4 Felder richtig positioniert habt, eine Stadt. Und die frage ich gleich ab.
+
+(0:07:58 - 0:08:09)
+Habt ihr vielleicht Daumen hoch im Hintergrund, wenn der Erste da schon das gefunden hat. Na ja, also eine Minute, sage ich mal, muss ich jetzt auch aushalten hier. Sonst ist es ja grausam.
+
+(0:08:15 - 0:08:21)
+Na ja, kommt eine Stadt raus. Also Erden zur Trafostation laufen. Erde raus, Erde raus, Erde raus.
+
+(0:08:23 - 0:08:28)
+Und Stadt. Na komm, wir gehen weiter. Also los, welche Stadt ist das? Wir waren mal 13.
+
+(0:08:29 - 0:08:49)
+Weiter, weiter, weiter. Also führe die Schalthandlung durch. Welche Stadt erscheint? Madrid.
+
+(0:08:49 - 0:08:54)
+Super. Wir gehen zu mir in den Bildschirm, bitte. Dann zeige ich das nämlich einfach mal.
+
+(0:08:54 - 0:09:01)
+Also Fullscreen meinen Bildschirm. Ich immer noch die gleiche Position. Und das ist für mich der Leistungsschalter.
+
+(0:09:01 - 0:09:11)
+Hier ist meine Erde eingelegt. Und die würde ich jetzt mit so einem Metallhebel da reinstecken und betätigen. Hier ist noch ein Hinweis.
+
+(0:09:11 - 0:09:15)
+Das seht ihr bei euch, glaube ich, viel besser. Bei mir ist es ein etwas dunkler Bildschirm. Aber man kann es erkennen.
+
+(0:09:17 - 0:09:23)
+Also der Abgang ist im Moment geerdet. Das sieht man genau hier. Und das würde ich jetzt ändern wollen.
+
+(0:09:23 - 0:09:30)
+Zack, jetzt ist die Erde geöffnet. Mein Abgang ist nicht mehr geerdet. Wichtig zu wissen für alle, die noch daran arbeiten.
+
+(0:09:32 - 0:09:39)
+Eventuell wollen würden. Jetzt kann ich zu meiner Trafostation gehen. Weil der Abgang in der Übergabestation ist vorbereitet.
+
+(0:09:39 - 0:09:45)
+Das sind jetzt 500 Meter. Muss ich mit dem Auto hinfahren. Und jetzt habe ich auch die Prüfprotokolle.
+
+(0:09:45 - 0:09:51)
+Und weiß, dass die Zuordnung der Mittelspannungskabel stimmt. Das ist wichtig. Und gehe hier in mein Feld H01.
+
+(0:09:52 - 0:10:00)
+Das ja zur Übergabestation führt. Und drücke jetzt nicht den Lasttrennschalter. Ich mache es mal, um zu zeigen, was dann passiert.
+
+(0:10:00 - 0:10:12)
+Zonk, der Inbetriebnehmer, hat das jetzt auch versucht. Das wird nicht gehen, weil das mechanisch verriegelt ist. Aber in dem Moment würde ich schon hinterfragen, ob ich nicht vielleicht doch die Inbetriebnahme abbreche.
+
+(0:10:12 - 0:10:22)
+Und mir jemanden suche, der weiß, dass man auf diesen Knopf drücken muss. Oder diesen Hebel betätigen muss. Weil dann öffnet sich erstmal dieser Erdungsabgang.
+
+(0:10:22 - 0:10:30)
+Der Abgang ist jetzt nicht mehr geerdet. Ich gehe zum nächsten Feld, H02. Auch wenn es Reserve ist.
+
+(0:10:30 - 0:10:39)
+Ich mache das jetzt trotzdem. Nicht mehr der Abgang geerdet. Weiter geht es zum dritten Feld.
+
+(0:10:39 - 0:10:43)
+Das ist mein Trafoabgang. Da ist ein Leistungsschalter, da ist ein Schutzrelais. Sieht einfach anders aus.
+
+(0:10:43 - 0:10:49)
+Hier Leistungsschalterknöpfe. Und hier oben sieht es aber ähnlich aus. Also, zack, Erde geöffnet.
+
+(0:10:50 - 0:10:54)
+Und Madrid erscheint. Ich habe es auch geschafft. Wir gehen in Menti.
+
+(0:10:58 - 0:11:08)
+Nächste Seite, bitte. Was tun wir in Schritt 3? Los geht es. Wir haben die Erde erfolgreich geöffnet.
+
+(0:11:08 - 0:11:18)
+Die Abgänge sind nicht mehr geerdet. In der Schaltsequenz habt ihr das selbst gebaut. Ich habe es auch in der PowerPoint einmal gesagt.
+
+(0:11:18 - 0:11:25)
+Und ihr müsst bitte einmal eintippen. Mittelspannungslinie vorbereiten. D.C., das ist Absicht.
+
+(0:11:25 - 0:11:29)
+Da will mich einer ärgern. Da bin ich mir sicher. D.C. machen wir auf gar keinen Fall.
+
+(0:11:29 - 0:11:35)
+Wir machen weiter in der Mittelspannung. Wir bereiten die Linien vor. Schalter schließen.
+
+(0:11:36 - 0:11:44)
+Bei Schalter schließen würde ich hinterfragen, welcher denn genau. H01 zuschalten. Sehr gut.
+
+(0:11:45 - 0:11:49)
+TS1 H01 zuschalten. Mittelspannungslinie vorbereiten. Nächste Seite, bitte.
+
+(0:11:50 - 0:12:01)
+Die Antwort ist, Trenner schließen in der Trafostation 1. Macht es bitte. Ihr steht da jetzt davor. Ihr habt das ja auf dem anderen Bildschirm.
+
+(0:12:02 - 0:12:09)
+Macht das mal, welche Stadt erscheint. Und dann Daumen hoch. Eins, zwei, drei.
+
+(0:12:10 - 0:12:14)
+Fragezeichen. Ihr steht vor der Trafostation. Habt die Erde rausgenommen.
+
+(0:12:14 - 0:12:18)
+Das ist wichtig. Da stand die Stadt. Und jetzt könnt ihr wieder weitergehen zum H01.
+
+(0:12:18 - 0:12:36)
+Und das machen, was ihr hier seht. Den Lasttrennschalter schließen. Ihr seid bereit? Ab geht's. 
+
+Welche Stadt entschieden? Los geht's. Auf geht's. Ihr habt Schritt 2 abgeschlossen.
+
+(0:12:36 - 0:12:42)
+Jetzt habt ihr Schritt 3 gemacht. In einer Station den Trenner geschlossen. Dadurch die Linie vorbereitet.
+
+(0:12:45 - 0:12:53)
+Und weil das so gut geklappt hat, ist eine Stadt erschienen. Genau, London. Super.
+
+(0:12:53 - 0:12:57)
+Einmal mein Bildschirm, bitte. Ich zeige es euch. Mein Bildschirm.
+
+(0:12:58 - 0:13:10)
+Das war ja erfolgreich Schritt 2. Jetzt kann ich hier weitergehen zum Schritt 3. Damit ist gemeint, ich gehe einen Schritt nach links, wenn man so will, zum Feld H01. Hier ist es. Und jetzt ist das weiterhin nicht.
+
+(0:13:10 - 0:13:16)
+Die Erde ist geöffnet. Aber hier ist mein Lasttrenner. Den möchte ich schließen.
+
+(0:13:16 - 0:13:20)
+Zack, London ist erschienen. So wäre das gewesen. Jetzt gleich der nächste Tipp.
+
+(0:13:20 - 0:13:28)
+Hier geht es weiter zum nächsten Schritt. Einmal Menti, bitte. Und los.
+
+(0:13:28 - 0:13:55)
+Was würdet ihr jetzt als nächstes tun? Linienbetrieb nehmen, genau. Wo muss ich hin? Auf welchen Schalter drücke ich? Ich brauche noch 5 oder 6 Minuten. Jetzt ist es 11 Uhr.
+
+(0:13:55 - 0:14:01)
+Wir sind ja gleich soweit. Ich gehe in die Übergabestation H01. Schauen wir uns an.
+
+(0:14:04 - 0:14:14)
+Übergabestation, Trenner schließen. Genau, mach das mal. Welche Stadt erscheint? H01, genau, war auch richtig.
+
+(0:14:14 - 0:14:21)
+Super, Trenner schließen. Dann habe ich meine Spannungsführung bis in die Treffungsstation. Also los, Menti.
+
+(0:14:21 - 0:14:46)
+Nächste Frage, bitte. Welche Stadt erscheint? Trenner schließen in der Übergabestation durch. Welche Stadt erscheint? Berlin.
+
+(0:14:47 - 0:14:54)
+Super, alle haben es richtig gemacht. Ich zeige es kurz bei mir, weil es mir ja auch so viel Spaß macht. Einmal meinen Screen zeigen.
+
+(0:14:54 - 0:15:01)
+Ich laufe oder fahre mit dem Auto. Meistens ist das alles ziemlich weit wieder zurück zur Übergabestation. Ich bin hin und jetzt muss ich wieder zurück.
+
+(0:15:01 - 0:15:07)
+Ich habe die Türen zugemacht. Ich habe ein Schild hingehangen. Das haben wir jetzt alles hier nicht gezeigt.
+
+(0:15:07 - 0:15:12)
+Aber das wird alles gemacht. Alle Leute weg, jetzt wird da nichts mehr gearbeitet. Jetzt gehe ich hier hin.
+
+(0:15:13 - 0:15:17)
+Hier Spannungsanzeiger. Hier ist Spannung. Hier noch nicht.
+
+(0:15:17 - 0:15:27)
+Die kapazitiven Spannungsanzeiger seht ihr hier. Die sind also unterhalb der Trennstelle angebracht. Das ist das Symbol von diesem kapazitiven Spannungsanzeiger.
+
+(0:15:28 - 0:15:38)
+Jetzt ist die Erde nicht mehr geerdet. Jetzt würde ich mich trauen, hier einmal einzuschalten. Ich freue mich, dass hier die Spannungsanzeige einspringt.
+
+(0:15:39 - 0:15:52)
+Wenn ich einen Fehler gemacht hätte, würde wahrscheinlich dieser Leistungsschalter oder einer im Umspannwerk auslösen, wenn ich auf Erde geschaltet hätte und ein Fehler im Kabel ist. Dann sieht man das gar nicht. Das sind Millisekunden.
+
+(0:15:52 - 0:16:20)
+Das System schaltet sofort wieder ab. Dann wäre hier keine Anzeige und unglücklicherweise wäre, wenn es im Umspannwerk wäre, hier auch keine Anzeige mehr. War ich dabei, habe ich gesehen. 
+
+Sehr unschöne Situation, weil dann hat man den Netzbetreiber wieder voll mit im Boot. Dann wird ja auch erst mal hinterfragt, wie das eigentlich passieren konnte. War man nicht ausgeschlafen, nicht genug ausgebildet? Also, haben wir gekriegt, Berlin ist die Frage.
+
+(0:16:20 - 0:16:41)
+Bitte nochmal ein letztes Mal in Menti. Was tun wir im Schritt 5? Was machen wir als allerletztes? Was tun wir im Schritt 5? Ja, das lasse ich gelten. Jetzt geht es endlich los.
+
+(0:16:41 - 0:16:52)
+Rüber geht es in Menti. Welche Stadt erscheint? Jetzt haben es alle drauf. Also los, auf geht es.
+
+(0:16:53 - 0:17:19)
+Nächste Frage, los geht es. Welche Stadt habt ihr jetzt sozusagen am Ende dieser Schalthandlung noch gefunden? Tokio, super. Nächste Frage in Menti gleich, weil dann haben wir das glaube ich abgefrühstückt.
+
+(0:17:20 - 0:17:35)
+Wie viele Zongs hattet ihr? Seid ehrlich, ihr könnt da reinschieben. Habt ihr es mit 0 geschafft? Oder wenn du da mit der Maus drauf gehst? Meistens eher 0. Aber immerhin kam auch mal ein Zong. Alles klar, super.
+
+(0:17:36 - 0:17:44)
+Da auch nochmal die nächste Seite, weil dann sind wir da glaube ich durch. Und gratulieren wahrscheinlich Earthman. Der hat das bis zum Ende durchgehalten.
+
+(0:17:45 - 0:17:54)
+Glückwunsch. Letzter Brainday in diesem Semester geht an Earthman. Jetzt nochmal meine 3D-Tour bitte, meine Seite.
+
+(0:17:55 - 0:18:01)
+Ich zeige euch das hier nochmal. Also wie ihr es gemacht habt. Ich gehe hier rüber, jetzt kann ich mein Trafo einschalten.
+
+(0:18:02 - 0:18:10)
+Hier erstmal diesen Trenner schließen und jetzt Achtung hier, der ist noch geöffnet. Letzter Schritt. Schalter schließen.
+
+(0:18:11 - 0:18:18)
+Der Form halber ganz kurz. Ich habe es hinzugefügt, wir können jetzt noch auf die Niederspannungsseite springen. Mag so aussehen oder anders, ist nicht so relevant.
+
+(0:18:19 - 0:18:43)
+Nur, dass ich es gezeigt habe. Die Sicherungen sind offensichtlich jetzt schon drin. Ihr erinnert euch, ganz viele Prüfprotokolle, das ist jetzt ein ganz anderer Arbeitsschritt. 
+
+Irgendwo die Displays laufen schon, der Trafo brummt und jetzt kann ich auch nochmal bei meinem Niederspannungsleistungsschalter, der ist, kann ich den auch nochmal einschalten und dann würden jetzt die Wechselrichter loslaufen. Super. Bitte mit mir zusammen sozusagen zurück in die PowerPoint.
+
+(0:18:45 - 0:19:11)
+Ja genau und ich schaue hier nochmal in die Lösung, aber will vor allem sagen, vielen Dank. Will ich nochmal sagen, da habe ich hier auch nochmal zwei Kollegen mitgebracht, die kommen jetzt einfach hier mit hierher. Ich muss irgendwie zur Seite gehen. 
+
+Drei sogar. Und wir verabschieden uns in eine Sommerpause. Es hat Spaß gemacht. 
+
+Wir haben viel gemacht zusammen. Wir sehen uns ja auch schon bald wieder, aber ich hoffe, es hat euch ebenso beigebracht. Tschüss.

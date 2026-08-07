@@ -1,0 +1,144 @@
+(0:00:00 - 0:00:13)
+Das war jetzt unser Aufbau und jetzt würden wir weitergehen in die Live-Messung. Und zwar haben wir da auch Übungen für euch vorbereitet. Wir haben auch einen Teststand hier.
+
+(0:00:13 - 0:00:26)
+Also wir haben ja erstmal einen Teststand aufgebaut. Das ist erst mal klar und machen jetzt hier Übungen für euch. Wir haben Stromwandler und wir müssen diese Stromwandler vor der Inbetriebnahme erst mal messen und prüfen.
+
+(0:00:26 - 0:00:49)
+Das heißt, wir machen das dann häufig so, dass wir eine Primäreinspeisung in die Stromwandler durchführen und dann prüfen, ob die Stromwandler erst mal richtig mit dem Schutzrelais verdrahtet sind und ob die Übersetzungsverhältnisse stimmen. Das kann man hier alles vor der Inbetriebnahme prüfen und das muss man eben auch prüfen. Genau, da gibt es Prüfprotokolle und die sind eben erforderlich für die Dokumentation.
+
+(0:00:49 - 0:01:01)
+Und zum Schluss nochmal der Hinweis. Es kann dann durchaus lebensgefährliche Spannungen geben bei solchen Prüfungen. Deshalb sind Stromwandler immer kurz zu schließen und der Sekundärkreis ist nie offen zu betreiben.
+
+(0:01:01 - 0:01:13)
+Das ist ganz, ganz wichtig. Das ist immer hier die Maxime beim Stromwandler und auch ganz wichtig. Das darf man natürlich nicht verwechseln mit dem Spannungswandler, weil der funktioniert im Grunde genommen genau andersrum.
+
+(0:01:16 - 0:01:34)
+So, jetzt kommen wir ins Menti und lassen uns da so ein bisschen durch unsere Übung führen. Also ich würde mich freuen, wenn ihr auch wieder alle zurück ins Menti kommt. Wir starten mit der Übung 3, das ist die Live-Messung und jetzt haben wir hier erstmal so einen Prüfstand aufgebaut.
+
+(0:01:35 - 0:01:51)
+Und zwar stellen wir jetzt erstmal nur eine Frage und ihr könnt hier gerne rein tippen, wo speise ich primär ein. Ich meine, man braucht jetzt hier schon ein bisschen geschultes Auge, um wirklich zu erkennen, wo man hier primär einspeist. Wir haben da unten so ein Prüfgerät stehen in blau.
+
+(0:01:51 - 0:02:08)
+Daneben liegen Stromwandler und oben im Bild sieht man dann oben rechts das Schutzrelais. Und ihr solltet hier mal rein tippen und sagen, wo speise ich primär ein. Vier Leute haben schon getippt.
+
+(0:02:11 - 0:02:32)
+Ich sehe da auch schon den Ersten, der auf das Prüfgerät getippt hat. Das sorgt natürlich dafür, dass da nachher ein primär Strom fließt. Aber die Einspeisung an sich, die dann im Stromwandler, die primäre Einspeisung am Stromwandler erfolgt, das erfolgt direkt rechts neben diesem Prüfgerät.
+
+(0:02:32 - 0:02:54)
+Genau diese weißen Klötze, die da liegen, würde ich sagen, das sind die Kabel-Umbau-Wandler, die wir hier im Büro haben, wo wir gleich auch wirklich live einspeisen. Und ihr dann auf dem Split-Screen, den ihr jetzt schon eingeblendet seht, seht, was für ein Strom das Schutzrelais auswertet. Also wir gehen mal zur nächsten Frage.
+
+(0:02:56 - 0:03:16)
+So, und jetzt ist die Frage, wo lese ich Sekundärwerte ab? Also auch da wieder rein tippen. Genau. Ja, prima.
+
+(0:03:16 - 0:03:24)
+Also wir sehen ja die Ergebnisse. Die meisten tippen hier auf das Schutzrelais. Und das halte ich auch erst mal für richtig.
+
+(0:03:24 - 0:03:35)
+Das ist das Gerät, was jetzt hier die Sekundärwerte misst. Das kann man sich dann anzeigen lassen. Wenn wir gleich in unserer Prüfung sind, lassen wir uns aber vom Schutzrelais erst mal die Primärwerte anzeigen.
+
+(0:03:35 - 0:04:02)
+Also wir gehen zur nächsten Frage. So, und jetzt haben wir hier erst mal den Messaufbau dargestellt, den wir jetzt hier tatsächlich in der Realität aufgebaut haben. Und was wir jetzt vorhaben, ist, dass wir über unser Prüfgerät 75 Ampere in die Stromwandler einspeisen.
+
+(0:04:03 - 0:04:33)
+Das ist jetzt erst mal das, was der Kollege macht. Und wir würden jetzt in die nächste Folie gehen, in die nächste Menti gehen. Entschuldigung. 
+
+Und da kommt dann erst mal noch eine Frage. Und wenn wir jetzt 75 Ampere in unsere Stromwandler einspeisen, wie groß ist der zu erwartende primäre Strom auf dem Display dieses MCA4-Relais, dieses Schutzrelais? Das ist jetzt erst mal die Frage. Also wir speisen 75 Ampere ein.
+
+(0:04:33 - 0:04:40)
+Ihr macht eine Inbetriebnahmeprüfung. Was erwartet ihr auf dem Relais? Wir gehen mal zur Frage. Die läuft dann los.
+
+(0:04:40 - 0:04:59)
+Dann habt ihr zehn Sekunden Zeit, um da euren Tipp abzugeben. Also hier nochmal die gleiche Frage, die ich gerade schon vorgelesen habe. Wie groß ist dann der zu erwartende Strom? Ich denke, die Frage ist noch relativ einfach.
+
+(0:05:01 - 0:05:06)
+Ich soll so ein bisschen prüfen, ob ihr noch alle dabei seid. Und herzlichen Glückwunsch. Das haben auch alle richtig erkannt.
+
+(0:05:06 - 0:05:20)
+Also wenn man 75 Ampere in die Wandler einspeist, dann soll man auch 75 Ampere am Relais ablesen können. Nächste Frage. So, und jetzt würde ich meinen Kollegen mal bitten, wirklich einzuspeisen in das Relais.
+
+(0:05:21 - 0:05:26)
+Wir haben das vorbereitet. Das Schutzrelais ist auch mit 75 zu 1 Ampere eingestellt. Das haben wir geprüft.
+
+(0:05:27 - 0:05:54)
+Und jetzt haben wir hier einen tatsächlichen Wert. Und wir gehen in die nächste Frage. Und die lautet, also wie groß ist denn jetzt der tatsächliche Wert? Und dadurch, dass man immer so eine gewisse Messungenauigkeit drin hat, müsst ihr jetzt den tatsächlichen Wert herausfinden.
+
+(0:05:54 - 0:05:58)
+Nehmt den, der am nächsten dran ist. Ja, genau. Das sind 112,5 Ampere.
+
+(0:05:59 - 0:06:16)
+Und das wäre die richtige Antwort. Und wir gehen dann zur nächsten Frage, zur nächsten Folie. Die Frage ist jetzt, ist der Ist-Wert am MCA4 korrekt? Ja, also wir haben eben gesagt, was wir erwarten.
+
+(0:06:16 - 0:06:47)
+Und wir haben jetzt einen Wert, den wir hier sehen. Ist er denn korrekt? Das sollten dann jetzt hoffentlich auch alle richtig bewerten. Na gut. 
+
+Na gut. Also er ist natürlich nicht korrekt. Ja, also wir haben ja 75 Ampere erwartet und sehen jetzt 113 Ampere auf dem Display.
+
+(0:06:47 - 0:06:51)
+Das heißt, da ist irgendwas schiefgelaufen. Da ist irgendwas verkehrt. Das Relais ist ja aber richtig.
+
+(0:06:51 - 0:07:09)
+Und wir gehen mal zur nächsten Frage. Und jetzt glaube ich, dass wahrscheinlich der Stromwandler falsch ist. Und jetzt solltet ihr mir vielleicht mal, das ist ein bisschen schwierig, sollt ihr mal mir sagen, wie groß ihr glaubt, dass der Stromwandler ist.
+
+(0:07:10 - 0:07:18)
+Was für ein Übersetzungsverhältnis der Stromwandler hat, der hier eingebaut ist. Also wir speisen 75 Ampere ein. Wir sehen 112,5.
+
+(0:07:19 - 0:07:37)
+Und wie groß ist der Stromwandler? Wir gehen mal zur Frage. Und dann habt ihr nochmal 10 Sekunden, um euren Tipp dort abzugeben. Vielleicht versucht es über das Ausschlussverfahren und versucht herauszufinden, ob der Wandler denn jetzt größer oder kleiner ist.
+
+(0:07:38 - 0:07:59)
+Also 50 zu 1, 100 zu 1 oder 75 zu 1. Ich habe mich ehrlich gesagt auch schwer getan, das schnell zu beantworten. Aber im Grunde genommen würde ich jetzt mal versuchen zu argumentieren, warum es der 50 zu 1 ist. Also wir haben 50 zu 1 Wandler.
+
+(0:07:59 - 0:08:15)
+Wir speisen 75 Ampere ein. Das heißt, dieser Wandler überträgt jetzt nicht 1 Ampere, sondern 1,5 Ampere. Und das Schutzrelais berechnet aus 1,5 Ampere eben 1,5 mal 75.
+
+(0:08:15 - 0:08:24)
+Und dann kommen wir auf diese 112,5. Das heißt, 50 zu 1 ist richtig. 75 zu 1 ist natürlich nicht, weil wir haben ja falsche Messwerte.
+
+(0:08:26 - 0:08:39)
+Hat nur einer richtig, aber das habe ich mir schon gedacht, weil diese Frage auch wirklich nicht leicht war. Es geht weiter. Wir haben jetzt festgestellt, dass die Wandler falsch sind.
+
+(0:08:39 - 0:08:51)
+Und jetzt muss mein Kollege schnell mal diesen Wandler austauschen. Er geht jetzt hin, muss natürlich das Kabel abmachen, muss den Wandler da runterziehen. Das ist wahrscheinlich eine Tagarbeit, aber er macht das jetzt.
+
+(0:08:51 - 0:09:00)
+Und gleich hat er das dann hoffentlich auch schon erledigt. Wir gehen mal zur nächsten Menti-Folie. Und jetzt hat er das, glaube ich, auch schon hingekriegt.
+
+(0:09:00 - 0:09:12)
+Der ist nämlich richtig schnell, ist ein guter Monteur. Deshalb machen wir jetzt mal weiter. Und wir haben jetzt tatsächlich wieder 75 Ampere eingespeist.
+
+(0:09:12 - 0:09:34)
+Und jetzt ist es auch genau das, was wir auf dem Display des Relais sehen. Können wir zur nächsten Menti. Wir haben jetzt erst mal in unserer ersten Prüfung festgestellt, dass die Amplitude, die übertragen wird von unseren Stromwandlern, erst mal korrekt ist.
+
+(0:09:34 - 0:09:39)
+Wir haben die Wandler ausgetauscht. 75 Ampere speisen wir ein. Das Relais zeigt 75 Ampere an.
+
+(0:09:39 - 0:09:57)
+Also alles gut, alles richtig. Und was wir jetzt im nächsten Schritt machen, wäre, wir schauen, ob auch der Wandler 1 am Messeingang 1 des Schutzrelais angeschlossen ist. Und das machen wir, indem wir Phase 1 nur 70 Ampere einspeisen, Phase 2 75 und Phase 3 80.
+
+(0:09:57 - 0:10:14)
+Und dann erwarten wir natürlich auch am Schutzrelais, dass genau diese Werte dort angezeigt werden. Dann gehen wir mal weiter in die nächste Folie oder in die nächste Menti. Und dann ist die Frage, ob die Zuordnung der Phasen korrekt ist.
+
+(0:10:14 - 0:10:25)
+Dafür speist mein Kollege jetzt ein. Und ihr seht hier auf dem Display unterschiedliche Größen. Und wir gehen mal jetzt in die Frage tatsächlich.
+
+(0:10:25 - 0:10:48)
+Und da müsst ihr jetzt eure Antwort abgeben. Also ist diese Phasenzuordnung korrekt? Wir hatten eben 70, 75, 80 gesagt. Phase 1, Phase 2, Phase 3. Und auf dem Relais-Display sieht man jetzt eben, dass IL1 70 Ampere ist.
+
+(0:10:49 - 0:10:58)
+Und Phase 2 ist dann aber 80 Ampere. Und Phase 3 ist 75 Ampere. Also ist eben die Zuordnung der Phasen erstmal nicht korrekt.
+
+(0:10:58 - 0:11:16)
+Und das haben hier erstmal elf Leute richtig erfasst. Gehen wir zur nächsten. So, die Frage ist jetzt, welche Phasen sind vertauscht? Also könnten wir nochmal einschalten, damit wir nochmal sehen, welche Phasen vertauscht sind.
+
+(0:11:16 - 0:11:41)
+Also wir sehen 70, 80, 75. Welche zwei Phasen sind vertauscht? Phase 1 und 2, Phase 1 und 3 oder Phase 2 und 3? So, es ist Phase 2 und 3. Die sind tatsächlich vertauscht. Also schaut nochmal aufs Display.
+
+(0:11:41 - 0:11:59)
+Phase 1 ist korrekt, 70. Phase 2 müsste dann 75 sein und Phase 3 eben 80. Das heißt, wir tauschen jetzt mal Phase 2 und 3. Auch da muss natürlich dann der Techniker schnell sein, schnell arbeiten, muss den Fehler sofort finden, muss auch an der richtigen Stelle am besten drehen.
+
+(0:12:01 - 0:12:09)
+Weil man kann auch einfach irgendwo drehen. Wenn man zweimal dreht, ist es auch wieder richtig. Allerdings macht es natürlich Sinn, die richtige Stelle zu erfassen.
+
+(0:12:09 - 0:12:20)
+Das hat mein Kollege sofort erkannt, sofort gemacht. Und jetzt ist auch hier die Wanderer-Zuordnungsprüfung erstmal korrekt. 70, 75, 80, das ist genau das, was wir sehen wollten.

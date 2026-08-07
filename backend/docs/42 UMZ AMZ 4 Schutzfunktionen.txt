@@ -1,0 +1,152 @@
+(0:00:00 - 0:00:14)
+So, wir gehen in die Schutzfunktionen rein. Welche Schutzfunktionen gibt es denn? Also den Überstromschutz gibt es erst mal, hatte ich vorhin ja auch gesagt, so im Allgemeinen. Und den gucken wir uns jetzt eben auch an.
+
+(0:00:14 - 0:00:27)
+Und dann gibt es noch den Erdschlussschutz. Das machen wir aber eben nicht jetzt, sondern da geht es Richtung isolierte Netze, da geht es Richtung IMD-Schutztechnik. Graue ich aus, wir machen jetzt erst mal den Überstromschutz.
+
+(0:00:27 - 0:00:43)
+Und da gibt es einen Kurzschluss und einen Erd-Kurzschluss, also Leiter, Leiter und Leiter Erde. Vier Schutzfunktionen gucken wir uns jetzt mal genauer an. Und wir starten mit dem UMZ-Schutz.
+
+(0:00:43 - 0:00:50)
+Achtung, rein geht's. Was hieß das nochmal? Vielleicht hat es sich der eine oder andere gemerkt. Für alle anderen schreibe ich es hier nochmal auf.
+
+(0:00:51 - 0:01:08)
+Unabhängiger Maximal-Strom-Zeitschluss. So wichtig ist, ich zeige hier, dass das die schematische Darstellung der Sammelschiene oben, dann kommt ein Leistungsschalter und ein Transformator. Wichtig ist, dass die Auslösung vor dem Schutzobjekt zu sein hat.
+
+(0:01:09 - 0:01:45)
+Und jetzt auch wieder Definition vor dem Schutzobjekt bedeutet aus Sicht des der Quelle des Fehlerstroms. Also wenn ich einen Fehler hier jetzt hätte im Transformator selbst als Beispiel, dann wäre es so, dass der Fehlerstrom aus dem Netz kommt, also oben von der Sammelschiene. Und dann würde ich über diesen Leistungsschalter den Transformator vom Netz trennen und damit hätte ich sozusagen meine Quelle zum Versiegen gebracht.
+
+(0:01:45 - 0:02:08)
+Also darauf muss man achten, wo ist mein Schutzobjekt und wo kommt eigentlich der Fehlerstrom her und dann dementsprechend die Auslösung, den Auslöseort, den Leistungsschalter setzen. Der Schutzbereich beginnt immer am Wandler. Das zeige ich hier mal ganz kleinteilig, weil am Ende ist es ja der Wandler, der den Fehlerstrom erkennt.
+
+(0:02:08 - 0:02:29)
+Also auch hier vielleicht wieder so ein kleines Beispiel. Wenn jetzt der Fehler hier oberhalb von dem Stromwandler stattfinden würde, dann würde das der Stromwandler ja gar nicht mitkriegen. Der würde den Fehler nicht erkennen können, weil der ja von der Sammelschiene kommt.
+
+(0:02:29 - 0:02:49)
+Deswegen setzt man diese Stromwandler sozusagen so nah wie möglich oben an dem Leistungsschalter, damit es zwischen Leistungsschalter und Stromwandler gar keinen Fehlerort gibt, wenn man so will. Manchmal ist das aber trotzdem so, gerade so Endverschlüsse, Kabel, Umbauwandler liegen im Doppelboden von so einer Station. Und wenn man dann eben an dem Endverschluss den Fehler hätte, würde der Stromwandler das gar nicht mitkriegen.
+
+(0:02:50 - 0:03:05)
+Okay, wir versuchen das zu verhindern, indem wir den so weit wie möglich oben installieren. So sieht so eine Schutzlogik dann aus. Also jetzt hätten wir unserem Relais gesagt, wenn Strom entweder Phase 1,2 oder 1,3 oder 2,3, also deswegen eine Oder-Verknüpfung.
+
+(0:03:05 - 0:03:19)
+Da muss keine Unbedingung sein, sondern es reicht ja, wenn eine von diesen Fehlern auftritt, dann fängt ein Timer an zu laufen. Den sehen wir später auch noch mal. Eine Sekunde, 100 Millisekunden, vielleicht auch 10 Sekunden.
+
+(0:03:19 - 0:03:38)
+Völlig unterschiedlich. Aber das ist ganz wichtig, jetzt schon mal mitzunehmen. Das Relais schaltet nicht unmittelbar, nie, sondern es schaut dann erst mal, welche Zeit T aus wurde mir denn überhaupt vorgegeben? Und selbst wenn das meinetwegen 50 oder 100 Millisekunden sind, erscheint das für uns als unmittelbar.
+
+(0:03:38 - 0:03:48)
+Für das Relais ist das nicht so. Es wartet erst mal, bis diese Zeit T aus abgelaufen ist und dann sendet es den Auslösebefehl an den Leistungsschalter. Es ist ein wichtiger Unterschied im Wording.
+
+(0:03:49 - 0:04:15)
+Wir nennen das Anregung und Auslösung, ist also ein Unterschied für das Relais und später dann auch für die Schutzprüfung. So, dann kann das so ein UMZ-Relais, der kann das gerichtet und ungerichtet machen. Das ist, damit ist gemeint, dass es bei ungerichtet nicht darauf achtet, in welche Richtung der Fehler stattfindet, also sozusagen in Richtung Netz oder Richtung Anlage.
+
+(0:04:15 - 0:04:42)
+Und bei gerichtet tut es das aber schon. Das macht oft in der Übergabestation Sinn, im Verteilnetz des Netzbetreibers macht es immer Sinn, dass er sozusagen entscheidet, ob der Fehler weiter vorne liegt oder weiter hinten und dann oft unterschiedliche Bedingungen dafür implementiert, zum Beispiel verschiedene Abschaltzeiten. Also man könnte das so machen, dass die Übergabestation sagt, in den Park rein, das schalte ich sofort ab, weil das ist dann euer Fehler.
+
+(0:04:42 - 0:05:00)
+Aber ins Netz rein, warte mal noch kurz, weil vielleicht schaffe ich es intern, meinen Fehler schneller zu bereinigen und dann könnt ihr ja am Netz bleiben. Dafür braucht man Spannungswandler, nur das noch dazu gesagt, dann wird es ein bisschen komplizierter. Und diese AMSI-Nummern, die da hingeschrieben haben, das ist so ein internationaler Code.
+
+(0:05:00 - 0:05:16)
+Also weil dann schreibt man nicht irgendwie auf Deutsch dann diese unabhängige maximale Zeitschutzungerichte, das macht man nicht, sondern man schreibt dann da Nummern hin, dann geht das irgendwie ein bisschen schneller. Man macht das mehrstufig, sehen wir gleich im Detail. Also jetzt bitte aufpassen, i größer und i größer, größer.
+
+(0:05:16 - 0:05:34)
+Ich würde das mit erste Stufe und zweite Stufe benennen, dann ist das ein bisschen einfacher im ständigen Sprachgebrauch. Jetzt zeichnen wir uns das mal auf. Wir nehmen auf jeden Fall immer erst mal eine Zeitachse und eine Stromachse.
+
+(0:05:35 - 0:05:51)
+So würde man das auch in der Schutztechnik dann machen, egal ob man jetzt so eine Schutzauslegung macht, so einen Schutzbericht schreibt oder ob man sich das vielleicht mal aufzeichnet, dann für die Schutzprüfung selbst. Also so ein Diagramm ist ganz typisch. Jetzt brauchen wir eine Auslösung durch das Überschreiten.
+
+(0:05:52 - 0:06:01)
+Also erst mal brauchen wir immer eine Stromschwelle. Das ist erst mal die erste Bedingung. Also ich löse mit meinem Relais aus, wenn ich eine gewisse Stromschwelle erreicht habe.
+
+(0:06:02 - 0:06:08)
+Erste Stufe, i größer markiere ich jetzt mal symbolisch hier. Wir brauchen keine Absolutwerte. Das reicht so.
+
+(0:06:08 - 0:06:18)
+Also an der Stelle würde jetzt also meine Stromschwelle liegen. Und wenn ich die überschreite, dann würde mein Relais das mitkriegen. Ich kann eben das mehrstufig ausführen.
+
+(0:06:18 - 0:06:22)
+Kennen wir bis dreistufig. Wir machen jetzt mal hier zwei. Das reicht eigentlich meistens.
+
+(0:06:22 - 0:06:31)
+Aber da kann man natürlich das schön fein justiert zusammenbasteln. Und so eine zweite Stufe wäre dann weiter rechts auf der Kennlinie. Also hier wäre meine zweite Stufe.
+
+(0:06:31 - 0:06:39)
+Jetzt braucht das Relais immer eine zweite Bedingung. Noch die Verzögerungszeit. Also wenn die Stromschwelle erreicht ist, beginnt die Anregung.
+
+(0:06:40 - 0:06:47)
+Aber dadurch kommt es noch nicht zur Auslösung. Es muss noch der zweite Sachverhalt geklärt werden. Die Verzögerungszeit muss auch erreicht werden.
+
+(0:06:47 - 0:07:00)
+Deswegen diese zweite Achse, diese Y-Achse. Und jetzt würde logischerweise zu dem I größer, das T größer gehören. Und zu der zweiten Stufe eine vermeintlich schnellere Zeit.
+
+(0:07:00 - 0:07:04)
+Das ist sinnhaft. Größere Ströme. Dann würde ich schneller abschalten.
+
+(0:07:05 - 0:07:15)
+So baut man das meistens. Und wenn ich jetzt ein Schutz Relais bin, erfolgt daraus für mich die folgende grüne Linie. Was damit passiert, zeige ich gleich nochmal in einem Beispiel.
+
+(0:07:15 - 0:07:27)
+Aber das Relais erkennt durch die Vorgabe eure Vorgabe von vier Parametern zweimal Stromstufe, zweimal zügerige Zeit. Diese Kennlinie. Das ist das Resultat für die Schutz Relais.
+
+(0:07:28 - 0:07:38)
+Das kann man verschieben, je nachdem, wie man die Zeiten hin und her schiebt oder die Ströme hin und her schiebt. So jetzt machen wir mal ein Beispiel. Dann wird das super, super deutlich, was so ein Schutz Relais da jetzt macht.
+
+(0:07:38 - 0:07:46)
+Also ich sage mal, das ist mein Strom in diesem Moment. Ist ja eine Zeitachse mit drin. Das heißt, das ist einfach nur eine Momentaufnahme.
+
+(0:07:47 - 0:08:02)
+Das macht das Relais quasi in Millisekunden oder Mikrosekunden wahrscheinlich Intervall. Aber jetzt gerade in dieser Mikrosekunde habe ich diesen Stromwert für eine gewisse Zeit anliegen. Und jetzt seht ihr schon, der Stromwert ist kleiner als die erste Stufe.
+
+(0:08:03 - 0:08:09)
+Das könnte jetzt mein Betriebs Strom sein. Da ist für mich alles gut. Daumen hoch bedeutet keine Abschaltung.
+
+(0:08:10 - 0:08:19)
+Jetzt dauert aber dieser Strom deutlich länger. Also meinetwegen nicht nur eine Mikrosekunde, sondern meinetwegen eine ganze Stunde. Also in der Zeitachse ist das jetzt ganz weit nach oben gerutscht.
+
+(0:08:19 - 0:08:28)
+Das ist immer noch kein Problem, weil der Nennstrom Betriebs Strom, der darf ja ruhig so lange laufen, wie er will. Dafür ist das ja ausgelegt. Wir haben also immer noch keine Abschaltung.
+
+(0:08:28 - 0:08:40)
+Aber jetzt kommt natürlich der große Trick. Jetzt rutschen wir da in diesem gleichen Zeitebene in einen höheren Strom. Das heißt, ich habe für die gleiche Dauer diesen höheren Strom jetzt anliegen.
+
+(0:08:40 - 0:08:52)
+Vielleicht zehn Sekunden lang eben einen Strom, der über der ersten Stufe liegt. Und dann passiert ja endlich mal was. Das Relais hat jetzt erkannt, du bist über der ersten Stufe und zwar für eine längere Zeit, als du sollst.
+
+(0:08:52 - 0:09:04)
+Also Signal Abschaltung. Jetzt schaltet der Leistungsschalter und im nächsten Moment wird dieser Strom gelöst sein, gelöst sein, das Problem gelöst sein. Wir machen noch ein Beispiel.
+
+(0:09:04 - 0:09:16)
+Wir schieben nochmal rechts unten. Jetzt ist so ein bisschen von der anderen Gedankenperspektive betrachtet. Jetzt haben wir einen extrem großen Strom, also richtig, richtig Tausende von Ampere vielleicht in unserem Beispiel.
+
+(0:09:16 - 0:09:23)
+Aber wir haben das eben nur ganz, ganz kurze Zeit. Zehn Millisekunden oder so. Das Beispiel, das wir dann nennen wollen, ist so eine Art Inrush Current.
+
+(0:09:24 - 0:09:36)
+Sowas gibt es, wenn man Transformatoren zuschaltet, gibt es oft einmal ganz kurze, hohe Einschaltströme, aber die Relais würden das eben erkennen. Huh, da ist ja ein riesiger Strom, aber er ist ja ganz kurz da. Er ist gleich wieder weg.
+
+(0:09:36 - 0:09:40)
+Also Daumen wieder hoch. Ich schalte nicht ab. Wir lassen das genauso, wie es ist.
+
+(0:09:42 - 0:09:55)
+Aber jetzt bleibt dieser Strom irgendwie doch länger, als die zweite Stufe eingestellt ist, zum Beispiel länger als 100 oder 500 Millisekunden. Und dann sagt das Relais, das stimmt fast nicht. Das ist kein Inrush, sag ich jetzt, sondern das ist wirklich ein Kurzschluss.
+
+(0:09:55 - 0:10:06)
+Wir müssen abschalten. Also Daumen runter im Sinne von Das ist ein Fehler. Aber natürlich gut, dass das Relais jetzt abschaltet, weil dadurch werden ja weitere Probleme verhindert.
+
+(0:10:07 - 0:10:22)
+So macht das so ein Schutzrelais. Jetzt hat man, finde ich, die Schutzfunktionen von so einem UMZ erst mal finde ich grafisch super dargestellt. Zumindest habe ich das genau so gemacht, als ich mir das mal beibringen wollte.
+
+(0:10:23 - 0:10:33)
+Jetzt wird es für mich wieder ein bisschen einfacher. Das AMZ und den Niederspannungs Leistungsschalter und auch die Sicherung, die schaut ihr euch bitte online an. Das würde jetzt hier einfach noch mal 15 bis 20 Minuten dauern.
+
+(0:10:33 - 0:10:40)
+Das machen wir nicht. Machen wir genau so online. Wie gesagt, toll erklärt jetzt zufällig ungefähr vor genau einem Jahr.
+
+(0:10:40 - 0:10:54)
+Und das skippe ich jetzt hier, weil ich mir heute in der Praxis auf die A Praxis konzentrieren will und B auf den UMZ Schutz. Deswegen war der jetzt noch mal ganz wichtig. Die anderen drei schaut er euch einfach heute Nachmittag noch mal an.
+
+(0:10:54 - 0:11:00)
+So und jetzt geht es in die versprochene Kaffeepause. Wir sehen uns in fünf Minuten. Dann gibt es noch mal ein Kapitel Theorie und dann ab in die Praxis.
+
+(0:11:00 - 0:11:01)
+Bis gleich.
