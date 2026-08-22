@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = window.location.origin;
 
 const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
@@ -136,7 +136,7 @@ async function checkBackend() {
   } catch (error) {
     setBackendStatus(
       "status-error",
-      "Backend nicht erreichbar. Bitte prüfe, ob der Server auf Port 8000 läuft."
+      "Backend nicht erreichbar. Bitte prüfe die Serververbindung."
     );
 
     setChatEnabled(false);
@@ -255,8 +255,18 @@ async function rebuildIndex() {
   setActionButtonsEnabled(false);
 
   try {
+    const rebuildToken = window.REBUILD_TOKEN || "";
+
+    if (!rebuildToken) {
+      openDialog("Nicht verfügbar", "<div>Der Neuaufbau des Suchindex ist für die öffentliche Version deaktiviert.</div>");
+      return;
+    }
+
     const result = await safeFetch(`${API_BASE}/rebuild`, {
       method: "POST",
+      headers: {
+        "X-Rebuild-Token": rebuildToken,
+      },
     });
 
     openDialog(
