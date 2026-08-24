@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
-from rag_utils import RAGSystem
+from .rag_utils import RAGSystem
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -43,12 +43,12 @@ class ChatResponse(BaseModel):
 
 
 rag = RAGSystem(
-    docs_path="docs",
-    cache_dir="cache",
+    docs_path=str(BASE_DIR / "docs"),
+    cache_dir=str(BASE_DIR / "cache"),
     embedding_model="text-embedding-3-small",
     chat_model="gpt-4.1-mini",
-    max_files=20,
-    max_chunks=5000,
+    max_files=None,
+    max_chunks=None,
     retrieval_top_k=8,
     min_similarity_score=0.30,
 )
