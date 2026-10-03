@@ -2,13 +2,15 @@ from pathlib import Path
 from typing import List, Dict, Any
 import os
 import secrets
+from threading import Lock
 
 from fastapi import FastAPI, HTTPException, Header
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from .rag_utils import RAGSystem
+from .sessions import SessionStore, SessionNotFound, SessionCapacityExceeded
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -29,18 +31,25 @@ app.add_middleware(
     allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["GET", "POST", "OPTIONS"],
-    allow_headers=["Content-Type", "X-Rebuild-Token"],
+    allow_headers=["Content-Type", "X-Rebuild-Token", "X-Conversation-ID"],
 )
 
 
 class ChatRequest(BaseModel):
-    message: str
+    message: str = Field(max_length=8000)
 
 
 class ChatResponse(BaseModel):
+    conversation_id: str
     answer: str
     sources: List[Dict[str, Any]]
 
+
+sessions = SessionStore(
+    ttl_seconds=int(os.getenv("SESSION_TTL_SECONDS", "3600")),
+    max_sessions=int(os.getenv("MAX_SESSIONS", "500")),
+)
+rebuild_lock = Lock()
 
 rag = RAGSystem(
     docs_path=str(BASE_DIR / "docs"),
@@ -131,62 +140,69 @@ def get_video(video_id: int) -> Dict[str, Any]:
     }
 
 
+def source_previews(chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return [
+        {
+            "module_number": chunk.get("module_number", ""),
+            "module_name": chunk.get("module_name", ""),
+            "video_number": chunk.get("video_number", ""),
+            "video_name": chunk.get("video_name", ""),
+            "time_range": chunk.get("time_range", ""),
+            "score": chunk.get("score", 0),
+            "text_preview": chunk.get("text", "")[:300],
+        }
+        for chunk in chunks
+    ]
+
+
 @app.get("/sources")
-def get_sources() -> List[Dict[str, Any]]:
-    sources = []
-
-    for chunk in rag.last_retrieved_chunks:
-        sources.append(
-            {
-                "module_number": chunk.get("module_number", ""),
-                "module_name": chunk.get("module_name", ""),
-                "video_number": chunk.get("video_number", ""),
-                "video_name": chunk.get("video_name", ""),
-                "time_range": chunk.get("time_range", ""),
-                "score": chunk.get("score", 0),
-                "text_preview": chunk.get("text", "")[:300],
-            }
-        )
-
-    return sources
+def get_sources(x_conversation_id: str | None = Header(default=None, max_length=128)) -> List[Dict[str, Any]]:
+    if x_conversation_id is None:
+        return []
+    try:
+        with sessions.transaction(x_conversation_id) as (_, state):
+            return source_previews(state.last_retrieved_chunks)
+    except SessionNotFound:
+        raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
 
 
 @app.post("/chat", response_model=ChatResponse)
-def chat(payload: ChatRequest) -> ChatResponse:
+def chat(payload: ChatRequest, x_conversation_id: str | None = Header(default=None, max_length=128)) -> ChatResponse:
     message = payload.message.strip()
     if not message:
         raise HTTPException(status_code=400, detail="Nachricht darf nicht leer sein.")
 
-    answer = rag.ask(message)
-
-    sources = []
-    for chunk in rag.last_retrieved_chunks:
-        sources.append(
-            {
-                "module_number": chunk.get("module_number", ""),
-                "module_name": chunk.get("module_name", ""),
-                "video_number": chunk.get("video_number", ""),
-                "video_name": chunk.get("video_name", ""),
-                "time_range": chunk.get("time_range", ""),
-                "score": chunk.get("score", 0),
-                "text_preview": chunk.get("text", "")[:300],
-            }
-        )
-
-    return ChatResponse(answer=answer, sources=sources)
+    try:
+        with sessions.transaction(x_conversation_id) as (token, state):
+            worker = rag.for_conversation(state)
+            answer = worker.ask(message)
+            return ChatResponse(
+                conversation_id=token,
+                answer=answer,
+                sources=source_previews(state.last_retrieved_chunks),
+            )
+    except SessionNotFound:
+        raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
+    except SessionCapacityExceeded:
+        raise HTTPException(status_code=503, detail="Zurzeit sind alle Chat-Sitzungen belegt. Bitte versuche es später erneut.")
 
 
 @app.post("/rebuild")
 def rebuild(x_rebuild_token: str | None = Header(default=None)) -> Dict[str, str]:
+    global rag
     rebuild_token = os.getenv("REBUILD_TOKEN")
     if not rebuild_token or not x_rebuild_token or not secrets.compare_digest(x_rebuild_token, rebuild_token):
         raise HTTPException(status_code=404, detail="Nicht verfügbar.")
 
     try:
-        rag.load_documents()
-        rag.build_chunks()
-        rag.create_embeddings()
-        rag.save_cache()
+        with rebuild_lock:
+            # Build a separate snapshot; in-flight turns keep a consistent old index.
+            replacement = rag.for_conversation(type(rag.state)())
+            replacement.load_documents()
+            replacement.build_chunks()
+            replacement.create_embeddings()
+            replacement.save_cache()
+            rag = replacement
         return {"status": "ok", "message": "Lehrvideoquellen und Suchindex wurden neu aufgebaut."}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Neuaufbau fehlgeschlagen: {e}")

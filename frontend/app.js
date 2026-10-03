@@ -1,4 +1,11 @@
 const API_BASE = window.location.origin;
+// A page owns its conversation; separate tabs and reloads start fresh.
+let conversationId = null;
+let chatInFlight = false;
+
+function conversationHeaders() {
+  return conversationId ? { "X-Conversation-ID": conversationId } : {};
+}
 
 const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
@@ -118,7 +125,9 @@ async function safeFetch(url, options = {}) {
       (data && (data.detail || data.message)) ||
       `HTTP-Fehler ${response.status}`;
 
-    throw new Error(message);
+    const error = new Error(message);
+    error.status = response.status;
+    throw error;
   }
 
   return data;
@@ -202,7 +211,7 @@ async function loadVideos() {
 
 async function loadSources() {
   try {
-    const sources = await safeFetch(`${API_BASE}/sources`);
+    const sources = await safeFetch(`${API_BASE}/sources`, { headers: conversationHeaders() });
 
     if (!Array.isArray(sources) || sources.length === 0) {
       openDialog(
@@ -283,6 +292,8 @@ async function rebuildIndex() {
 }
 
 async function sendMessage(message) {
+  if (chatInFlight) return;
+  chatInFlight = true;
   addMessage("user", message);
   chatInput.value = "";
   setChatEnabled(false);
@@ -293,19 +304,26 @@ async function sendMessage(message) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        ...conversationHeaders(),
       },
       body: JSON.stringify({ message }),
     });
 
+    conversationId = data.conversation_id;
     removeLoadingMessage();
     addMessage("bot", data.answer || "Es wurde keine Antwort geliefert.");
   } catch (error) {
+    if (error.status === 404 && conversationId) {
+      conversationId = null;
+      error.message = "Deine Sitzung ist abgelaufen. Die nächste Nachricht beginnt einen neuen Chat ohne den bisherigen Kontext.";
+    }
     removeLoadingMessage();
     addMessage(
       "bot",
       error.message || "Die Anfrage konnte nicht verarbeitet werden."
     );
   } finally {
+    chatInFlight = false;
     setChatEnabled(true);
     chatInput.focus();
   }
@@ -355,3 +373,4 @@ async function init() {
 }
 
 init();
+
