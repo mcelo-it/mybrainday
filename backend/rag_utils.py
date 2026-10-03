@@ -1,4 +1,5 @@
 import os
+from copy import copy
 import re
 import json
 from pathlib import Path
@@ -7,6 +8,11 @@ from typing import List, Dict, Any, Optional
 import numpy as np
 from dotenv import load_dotenv
 from openai import OpenAI
+
+if __package__:
+    from .conversation import ConversationState
+else:
+    from conversation import ConversationState
 
 load_dotenv()
 
@@ -50,19 +56,17 @@ class RAGSystem:
         self.documents: List[Dict[str, Any]] = []
         self.chunks: List[Dict[str, Any]] = []
         self.embeddings: np.ndarray = np.array([])
-        self.chat_history: List[Dict[str, str]] = []
-        self.last_retrieved_chunks: List[Dict[str, Any]] = []
-
-        self.pending_clarification: Optional[Dict[str, Any]] = None
-        self.last_user_query: Optional[str] = None
-        self.last_effective_query: Optional[str] = None
-        self.last_answer_type: Optional[str] = None
-        self.last_selected_chunks: List[Dict[str, Any]] = []
-        self.last_topic_summary: Optional[str] = None
+        self.state = ConversationState()
 
         self.chunks_file = self.cache_dir / "chunks.json"
         self.embeddings_file = self.cache_dir / "embeddings.npy"
         self.meta_file = self.cache_dir / "meta.json"
+
+    def for_conversation(self, state: ConversationState) -> "RAGSystem":
+        """Share index/client references, but bind all dialogue data to this turn."""
+        worker = copy(self)
+        worker.state = state
+        return worker
 
     def load_documents(self) -> None:
         if not self.docs_path.exists():
@@ -280,7 +284,7 @@ class RAGSystem:
             chunk["score"] = round(score, 4)
             results.append(chunk)
 
-        self.last_retrieved_chunks = results
+        self.state.last_retrieved_chunks = results
         return results
 
     @staticmethod
@@ -464,7 +468,7 @@ class RAGSystem:
         if self.looks_like_follow_up(user_query):
             return "FOLLOW_UP"
 
-        if not self.last_user_query and not self.last_selected_chunks:
+        if not self.state.last_user_query and not self.state.last_selected_chunks:
             return "NEW_QUESTION"
 
         system_prompt = (
@@ -476,7 +480,7 @@ class RAGSystem:
             "NEW_QUESTION, wenn eine neue eigenstaendige fachliche Frage gestellt wird."
         )
 
-        last_context = self.last_topic_summary or self.last_user_query or ""
+        last_context = self.state.last_topic_summary or self.state.last_user_query or ""
         user_prompt = (
             f"Vorheriger fachlicher Kontext:\n{last_context}\n\n"
             f"Aktuelle Eingabe:\n{user_query}\n\n"
@@ -609,10 +613,10 @@ class RAGSystem:
     def resolve_clarification_option(self, user_query: str) -> Optional[int]:
         """Ermittelt den 0-basierten Index der gewaehlten Option.
         Erst regelbasiert (Nummer, Label), dann per LLM als Fallback."""
-        if not self.pending_clarification:
+        if not self.state.pending_clarification:
             return None
 
-        options = self.pending_clarification.get("options", [])
+        options = self.state.pending_clarification.get("options", [])
         if not options:
             return None
 
@@ -697,8 +701,8 @@ class RAGSystem:
         return self.normalize_whitespace(response.choices[0].message.content or "")
 
     def build_follow_up_query(self, user_query: str) -> str:
-        previous = self.last_effective_query or self.last_user_query or ""
-        topic = self.last_topic_summary or ""
+        previous = self.state.last_effective_query or self.state.last_user_query or ""
+        topic = self.state.last_topic_summary or ""
 
         parts = []
         if previous:
@@ -792,8 +796,8 @@ class RAGSystem:
         selected_indices = self.select_relevant_quotes(user_query, retrieved_chunks)
 
         if not selected_indices:
-            self.last_user_query = user_query
-            self.last_answer_type = "non_domain"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "non_domain"
             return "Kein Bestandteil der Lehrvideos"
 
         selected_chunks = [
@@ -803,18 +807,18 @@ class RAGSystem:
         ]
 
         if not self.validate_selected_chunks(selected_chunks):
-            self.last_user_query = user_query
-            self.last_answer_type = "non_domain"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "non_domain"
             return "Kein Bestandteil der Lehrvideos"
 
         answer = self.construct_answer_from_chunks(selected_chunks)
 
-        self.last_user_query = user_query
-        self.last_effective_query = user_query
-        self.last_selected_chunks = selected_chunks
-        self.last_topic_summary = self.summarize_topic(user_query, selected_chunks)
-        self.last_answer_type = "source_answer"
-        self.pending_clarification = None
+        self.state.last_user_query = user_query
+        self.state.last_effective_query = user_query
+        self.state.last_selected_chunks = selected_chunks
+        self.state.last_topic_summary = self.summarize_topic(user_query, selected_chunks)
+        self.state.last_answer_type = "source_answer"
+        self.state.pending_clarification = None
 
         return answer
 
@@ -822,38 +826,38 @@ class RAGSystem:
         retrieved_chunks = self.retrieve(user_query, top_k=self.retrieval_top_k)
 
         if not self.is_relevant_by_score(retrieved_chunks):
-            self.last_user_query = user_query
-            self.last_answer_type = "non_domain"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "non_domain"
             return "Kein Bestandteil der Lehrvideos"
 
         context = self.build_selection_context(retrieved_chunks[:8])
         classification = self.classify_request_with_context(user_query, context)
 
         if classification == "NON_DOMAIN":
-            self.last_user_query = user_query
-            self.last_answer_type = "non_domain"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "non_domain"
             return "Kein Bestandteil der Lehrvideos"
 
         if classification == "DOMAIN_GENERIC":
             options = self.build_clarification_options(user_query, retrieved_chunks[:8])
-            self.pending_clarification = {
+            self.state.pending_clarification = {
                 "original_query": user_query,
                 "retrieved_chunks": retrieved_chunks[:8],
                 "options": options,
             }
-            self.last_user_query = user_query
-            self.last_answer_type = "clarification"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "clarification"
             return self.format_clarification_question(options)
 
         if classification == "DOMAIN_SPECIFIC":
             return self.answer_specific_question(user_query, retrieved_chunks)
 
-        self.last_user_query = user_query
-        self.last_answer_type = "non_domain"
+        self.state.last_user_query = user_query
+        self.state.last_answer_type = "non_domain"
         return "Kein Bestandteil der Lehrvideos"
 
     def handle_follow_up(self, user_query: str) -> str:
-        local_candidates = self.last_selected_chunks[:]
+        local_candidates = self.state.last_selected_chunks[:]
         effective_query = self.build_follow_up_query(user_query)
 
         if local_candidates:
@@ -866,18 +870,18 @@ class RAGSystem:
                 ]
                 if self.validate_selected_chunks(selected_chunks):
                     answer = self.construct_answer_from_chunks(selected_chunks)
-                    self.last_user_query = user_query
-                    self.last_effective_query = effective_query
-                    self.last_selected_chunks = selected_chunks
-                    self.last_topic_summary = self.summarize_topic(effective_query, selected_chunks)
-                    self.last_answer_type = "source_answer"
+                    self.state.last_user_query = user_query
+                    self.state.last_effective_query = effective_query
+                    self.state.last_selected_chunks = selected_chunks
+                    self.state.last_topic_summary = self.summarize_topic(effective_query, selected_chunks)
+                    self.state.last_answer_type = "source_answer"
                     return answer
 
         retrieved_chunks = self.retrieve(effective_query, top_k=self.retrieval_top_k)
 
         if not self.is_relevant_by_score(retrieved_chunks):
-            self.last_user_query = user_query
-            self.last_answer_type = "non_domain"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "non_domain"
             return "Kein Bestandteil der Lehrvideos"
 
         context = self.build_selection_context(retrieved_chunks[:8])
@@ -885,28 +889,28 @@ class RAGSystem:
 
         if classification == "DOMAIN_GENERIC":
             options = self.build_clarification_options(effective_query, retrieved_chunks[:8])
-            self.pending_clarification = {
+            self.state.pending_clarification = {
                 "original_query": effective_query,
                 "retrieved_chunks": retrieved_chunks[:8],
                 "options": options,
             }
-            self.last_user_query = user_query
-            self.last_answer_type = "clarification"
+            self.state.last_user_query = user_query
+            self.state.last_answer_type = "clarification"
             return self.format_clarification_question(options)
 
         if classification == "DOMAIN_SPECIFIC":
             return self.answer_specific_question(effective_query, retrieved_chunks)
 
-        self.last_user_query = user_query
-        self.last_answer_type = "non_domain"
+        self.state.last_user_query = user_query
+        self.state.last_answer_type = "non_domain"
         return "Kein Bestandteil der Lehrvideos"
 
     def handle_pending_clarification(self, user_query: str) -> Optional[str]:
         option_idx = self.resolve_clarification_option(user_query)
 
         if option_idx is not None:
-            options = self.pending_clarification.get("options", [])
-            retrieved_chunks = self.pending_clarification.get("retrieved_chunks", [])
+            options = self.state.pending_clarification.get("options", [])
+            retrieved_chunks = self.state.pending_clarification.get("retrieved_chunks", [])
             option = options[option_idx]
             label = option.get("label", "").strip()
 
@@ -918,7 +922,7 @@ class RAGSystem:
             if not selected_chunks:
                 return "Ich konnte die Auswahl nicht eindeutig zuordnen. Bitte nenne den Aspekt noch etwas konkreter."
 
-            original_query = self.pending_clarification.get("original_query", "")
+            original_query = self.state.pending_clarification.get("original_query", "")
             # WICHTIG: das Options-Label statt der Roh-Eingabe ("2.") verwenden,
             # damit die Zitatauswahl inhaltlich arbeiten kann
             effective_query = f"{original_query}\nPraezisierung: {label}"
@@ -941,12 +945,12 @@ class RAGSystem:
             confirmation = f"Okay, du meinst also eher das {option_idx + 1}. Thema: {label}."
             answer = f"{confirmation}\n\n{answer}"
 
-            self.last_user_query = user_query
-            self.last_effective_query = effective_query
-            self.last_selected_chunks = final_chunks
-            self.last_topic_summary = self.summarize_topic(effective_query, final_chunks)
-            self.last_answer_type = "source_answer"
-            self.pending_clarification = None
+            self.state.last_user_query = user_query
+            self.state.last_effective_query = effective_query
+            self.state.last_selected_chunks = final_chunks
+            self.state.last_topic_summary = self.summarize_topic(effective_query, final_chunks)
+            self.state.last_answer_type = "source_answer"
+            self.state.pending_clarification = None
             return answer
 
         if self.is_smalltalk(user_query):
@@ -960,18 +964,18 @@ class RAGSystem:
         if not user_query:
             return self.smalltalk_response()
 
-        if self.pending_clarification:
+        if self.state.pending_clarification:
             clarification_response = self.handle_pending_clarification(user_query)
             if clarification_response is not None:
-                self.chat_history.append({"role": "user", "content": user_query})
-                self.chat_history.append({"role": "assistant", "content": clarification_response})
+                self.state.chat_history.append({"role": "user", "content": user_query})
+                self.state.chat_history.append({"role": "assistant", "content": clarification_response})
                 return clarification_response
 
         if self.is_smalltalk(user_query):
             answer = self.smalltalk_response()
-            self.last_answer_type = "smalltalk"
-            self.chat_history.append({"role": "user", "content": user_query})
-            self.chat_history.append({"role": "assistant", "content": answer})
+            self.state.last_answer_type = "smalltalk"
+            self.state.chat_history.append({"role": "user", "content": user_query})
+            self.state.chat_history.append({"role": "assistant", "content": answer})
             return answer
 
         turn_type = self.detect_turn_type(user_query)
@@ -981,8 +985,8 @@ class RAGSystem:
         else:
             answer = self.handle_new_question(user_query)
 
-        self.chat_history.append({"role": "user", "content": user_query})
-        self.chat_history.append({"role": "assistant", "content": answer})
+        self.state.chat_history.append({"role": "user", "content": user_query})
+        self.state.chat_history.append({"role": "assistant", "content": answer})
 
         return answer
 
@@ -1016,12 +1020,12 @@ class RAGSystem:
             print("\n... [gekuerzt] ...")
 
     def show_last_sources(self) -> None:
-        if not self.last_retrieved_chunks:
+        if not self.state.last_retrieved_chunks:
             print("Noch keine Quellenstellen vorhanden.")
             return
 
         print("\nZuletzt verwendete Quellenstellen:")
-        for i, chunk in enumerate(self.last_retrieved_chunks, start=1):
+        for i, chunk in enumerate(self.state.last_retrieved_chunks, start=1):
             preview = chunk["text"][:200].replace("\n", " ")
             print(
                 f"[{i}] Modul {chunk.get('module_number', '')} - {chunk.get('module_name', '')} | "

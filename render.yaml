@@ -3,7 +3,7 @@ services:
     name: lehrvideo-chatbot
     runtime: python
     buildCommand: pip install -r backend/requirements.txt
-    startCommand: cd backend && uvicorn app:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn backend.app:app --workers 1 --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
       - key: OPENAI_API_KEY
@@ -12,3 +12,4 @@ services:
         value: ""
       - key: REBUILD_TOKEN
         sync: false
+
