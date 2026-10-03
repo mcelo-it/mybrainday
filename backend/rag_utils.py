@@ -11,8 +11,10 @@ from openai import OpenAI
 
 if __package__:
     from .conversation import ConversationState
+    from .citations import citation_from_chunk, format_citation_source
 else:
     from conversation import ConversationState
+    from citations import citation_from_chunk, format_citation_source
 
 load_dotenv()
 
@@ -758,23 +760,17 @@ class RAGSystem:
         return selected
 
     def format_source(self, chunk: Dict[str, Any]) -> str:
-        return (
-            f"Modul {chunk['module_number']} - {chunk['module_name']} | "
-            f"Video {chunk['video_number']} - {chunk['video_name']} | "
-            f"{chunk['time_range']}"
-        )
+        return format_citation_source(citation_from_chunk(chunk))
 
     def construct_answer_from_chunks(self, selected_chunks: List[Dict[str, Any]]) -> str:
-        answer_blocks = []
-
-        for chunk in selected_chunks:
-            quote = chunk["text"].strip()
-            source = self.format_source(chunk)
-            answer_blocks.append(
-                f'Zitat: "{quote}"\n'
-                f"Quelle: {source}"
-            )
-
+        # These exact excerpts form both the answer and its public citations.
+        citations = [citation_from_chunk(chunk) for chunk in selected_chunks]
+        answer_blocks = [
+            f'Zitat: "{citation["text"]}"\n'
+            f"Quelle: {format_citation_source(citation)}"
+            for citation in citations
+        ]
+        self.state.last_citations = citations
         return "\n\n".join(answer_blocks)
 
     def validate_selected_chunks(
@@ -959,6 +955,8 @@ class RAGSystem:
         return "Bitte antworte mit der Nummer oder formuliere kurz, welchen Aspekt du meinst."
 
     def ask(self, user_query: str) -> str:
+        # Citations describe only this answer; follow-up context stays separate.
+        self.state.last_citations = []
         user_query = self.normalize_whitespace(user_query)
 
         if not user_query:
@@ -1020,17 +1018,10 @@ class RAGSystem:
             print("\n... [gekuerzt] ...")
 
     def show_last_sources(self) -> None:
-        if not self.state.last_retrieved_chunks:
-            print("Noch keine Quellenstellen vorhanden.")
+        if not self.state.last_citations:
+            print("Die letzte Antwort enthält keine zitierten Quellenstellen.")
             return
 
-        print("\nZuletzt verwendete Quellenstellen:")
-        for i, chunk in enumerate(self.state.last_retrieved_chunks, start=1):
-            preview = chunk["text"][:200].replace("\n", " ")
-            print(
-                f"[{i}] Modul {chunk.get('module_number', '')} - {chunk.get('module_name', '')} | "
-                f"Video {chunk.get('video_number', '')} - {chunk.get('video_name', '')} | "
-                f"Zeit: {chunk.get('time_range', '')} | "
-                f"Relevanz: {chunk['score']}\n"
-                f"    {preview}..."
-            )
+        print("\nZuletzt zitierte Quellenstellen:")
+        for i, citation in enumerate(self.state.last_citations, start=1):
+            print(f"[{i}] {format_citation_source(citation)}\n{citation['text']}")
