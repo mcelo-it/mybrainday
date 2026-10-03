@@ -86,7 +86,12 @@ function removeLoadingMessage() {
 
 function openDialog(title, htmlContent) {
   dialogTitle.textContent = title;
-  dialogBody.innerHTML = htmlContent;
+  if (typeof htmlContent === "string") {
+    dialogBody.innerHTML = htmlContent;
+  } else {
+    dialogBody.replaceChildren(htmlContent);
+  }
+  dialogBody.scrollTop = 0;
 
   if (typeof infoDialog.showModal === "function") {
     if (!infoDialog.open) {
@@ -192,7 +197,7 @@ async function loadVideos() {
 
           openDialog(
             `Modul ${detail.module_number} - ${detail.module_name} | Video ${detail.video_number} - ${detail.video_name}`,
-            `<div>${escapeHtml(detail.content_preview || "")}</div>`
+            `<div class="transcript-text">${escapeHtml(detail.content_preview || "")}</div>`
           );
         } catch (error) {
           openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
@@ -209,6 +214,41 @@ async function loadVideos() {
   }
 }
 
+function createSourcesList(sources) {
+  const list = document.createElement("div");
+  list.className = "sources-list";
+
+  for (const source of sources) {
+    const card = document.createElement("article");
+    card.className = "source-card";
+
+    const area = document.createElement("p");
+    area.className = "source-area";
+    const areaNumber = source.subject_area_number ? ` ${source.subject_area_number}` : "";
+    area.textContent = `Fachbereich${areaNumber} · ${source.subject_area_name || "Nicht zugeordnet"}`;
+
+    const module = document.createElement("h4");
+    module.className = "source-module";
+    module.textContent = `Modul ${source.module_number} · ${source.module_name}`;
+
+    const video = document.createElement("p");
+    video.className = "source-video";
+    video.textContent = `Video ${source.video_number} · ${source.video_name}`;
+
+    const time = document.createElement("p");
+    time.className = "source-time";
+    time.textContent = `Zeitstelle: ${source.time_range || "Nicht angegeben"}`;
+
+    const quote = document.createElement("blockquote");
+    quote.className = "source-quote";
+    quote.textContent = source.text || source.text_preview || "";
+
+    card.append(area, module, video, time, quote);
+    list.appendChild(card);
+  }
+  return list;
+}
+
 async function loadSources() {
   try {
     const sources = await safeFetch(`${API_BASE}/sources`, { headers: conversationHeaders() });
@@ -216,37 +256,12 @@ async function loadSources() {
     if (!Array.isArray(sources) || sources.length === 0) {
       openDialog(
         "Letzte Quellenstellen",
-        "<div>Noch keine Quellenstellen vorhanden.</div>"
+        "<p>Die letzte Antwort enthält keine zitierten Quellenstellen.</p>"
       );
-
       return;
     }
 
-    const html = sources
-      .map(
-        (source) => `
-          <div class="source-card">
-            <div class="source-meta">
-              Modul ${escapeHtml(source.module_number)} - ${escapeHtml(source.module_name)}
-              |
-              Video ${escapeHtml(source.video_number)} - ${escapeHtml(source.video_name)}
-              |
-              ${escapeHtml(source.time_range)}
-            </div>
-
-            <div>
-              Relevanz: ${escapeHtml(source.score)}
-            </div>
-
-            <div style="margin-top: 8px;">
-              ${escapeHtml(source.text_preview || "")}
-            </div>
-          </div>
-        `
-      )
-      .join("");
-
-    openDialog("Letzte Quellenstellen", html);
+    openDialog("Letzte Quellenstellen", createSourcesList(sources));
   } catch (error) {
     openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
   }

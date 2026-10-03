@@ -93,24 +93,114 @@ und Stromwandlern fragen, danach jeweils „Warum?“ eingeben und die Quellen
 öffnen. Beide Gespräche müssen beim eigenen Thema bleiben. Nach Neuladen
 beginnt die jeweilige Seite ohne gespeicherten Dialogkontext.
 
+## Schritt 2: Wörtliche Zitate, Fachbereiche und Quellenlayout
+
+**Produktvorgabe:** Antworten bleiben direkte Zitate aus den Lehrvideos. Eine
+freie Antwortgenerierung oder Paraphrasierung wird nicht eingeführt. Die
+ursprüngliche Empfehlung zur Antwortgenerierung entfällt.
+
+### Zuordnung aus der bereitgestellten Gesamtübersicht
+
+Die zentrale Datei `backend/subject_areas.json` enthält folgende Zuordnung:
+
+| Fachbereich | Bezeichnung aus der Vorlage | Module |
+| --- | --- | --- |
+| 1 | Komponenten der Photovoltaik | 01–09 |
+| 2 | Komponenten der Transformator- und Übergabestation | 10–15 |
+| 3 | Systemintegration | 16–21 |
+| 4 | Datentechnik | 22–29 |
+| 5 | Anwendungsregel VDE-AR-N 4110 | 30–36 |
+| 6 | Elektrische Energiesystem | 37–44 |
+
+Die Bezeichnungen wurden aus der vom Nutzer bereitgestellten Übersicht
+übernommen, einschließlich der Schreibweise von Fachbereich 6. Die Bilddatei
+selbst wird nicht ins Repository aufgenommen.
+
+Die Zuordnung erfolgt deterministisch anhand der Modulnummer (z. B. `1` oder
+`01`), nicht durch das Sprachmodell. Doppelte Zuordnungen und fehlende Module
+1–44 verhindern das Laden einer fehlerhaften Konfiguration. Neue, noch nicht
+zugeordnete Modulnummern werden als „Nicht zugeordnet“ angezeigt. Änderungen
+an der JSON-Datei benötigen einen Backend-Neustart, aber **keinen Neuaufbau
+der Embeddings**. Die Fachbereiche werden auch an die Video-API angehängt.
+
+### Zitat und Quelle gehören zusammen
+
+`construct_answer_from_chunks()` erstellt die Antwort und `last_citations`
+aus genau denselben ausgewählten Ausschnitten. Der Zitattext wird nicht
+umformuliert; wie bisher wird lediglich äußerer Leerraum entfernt. Jede
+Quellenangabe enthält Fachbereichsnummer und -name, Modulnummer und -name,
+Videonummer und -name sowie den ursprünglichen Zeitbereich.
+
+`POST /chat` liefert zusätzlich `citations`. Das bisherige Feld `sources`
+bleibt als Alias erhalten, enthält aber ebenfalls nur tatsächlich zitierte
+Ausschnitte. `GET /sources` liefert dieselben Belege für die letzte erfolgreiche
+Antwort dieser Sitzung. Technische Retrieval-Scores werden nicht ausgegeben.
+`text` enthält das vollständige Zitat; `text_preview` bleibt als gekürztes
+Kompatibilitätsfeld erhalten. Die neue Oberfläche verwendet `text`.
+
+Zu Beginn jedes Turns werden dessen Zitate geleert. Smalltalk, Ablehnungen und
+noch offene Rückfragen zeigen deshalb keine alten Quellen. Der fachliche
+Folgefragenkontext (`last_selected_chunks`) bleibt unabhängig davon erhalten.
+Das schützt Folgefragen davor, ihren Kontext nach einem „Danke“ zu verlieren.
+Bei einem fehlgeschlagenen Turn bleibt durch die Transaktion aus Schritt 1 der
+letzte erfolgreiche Zustand erhalten.
+
+### Layoutkorrektur
+
+Die Ursache der großen Leerflächen im Screenshot war `white-space: pre-wrap`
+am gesamten Dialoginhalt. Das machte Einrückungen und Zeilenumbrüche der
+HTML-Vorlage sichtbar. Der Dialog verwendet jetzt normalen HTML-Textfluss.
+Nur Zitate und Transkripte erhalten ihre tatsächlichen Zeilenumbrüche.
+
+Jede Quellenkarte zeigt Fachbereich, Modul, Video und Zeitstelle kompakt
+oberhalb des vollständigen Zitats. Metadaten und Zitat werden über DOM-Knoten
+mit `textContent` eingesetzt, sodass HTML-artiger Transkripttext als Text
+erscheint. Die technischen Relevanzwerte und alleinstehenden Trennstriche
+entfallen. Der Dialogkopf bleibt sichtbar, während lange Quellenlisten im
+Dialogkörper scrollen.
+
+### Prüfung und Abnahme
+
+Die Backend-Suite umfasst jetzt 15 Tests. Zusätzlich zu Schritt 1 deckt sie
+alle 44 Modulzuordnungen, fehlerhafte Zuordnungsdateien, vollständige wörtliche
+Zitate, den Ausschluss nicht zitierter Treffer, Folgefragen und das Leeren der
+Belege bei Smalltalk, Ablehnungen und Rückfragen ab. Modellschritte bleiben
+ersetzt; fachliche Relevanz echter Modellentscheidungen wird damit noch nicht
+bewertet.
+
+Die Browserprüfung `tests/test_sources_ui.cjs` wurde mit Chromium bei
+1440 × 1000 und 390 × 844 Pixeln erfolgreich ausgeführt und visuell kontrolliert.
+Sie prüft vollständige Zitate, Fachbereich und Zeitstelle, den Sitzungsheader,
+kompakte Abstände, fehlenden horizontalen Überlauf, scrollbare lange Listen,
+sichtbaren Schließen-Button, sichere Textdarstellung und den Leerzustand.
+Die API ist dabei lokal simuliert; dies ersetzt keinen produktiven End-to-End-Test.
+
+Für eine eigene Browserprüfung Playwright lokal installieren und ausführen:
+
+```bash
+npm install --no-save --package-lock=false playwright
+npx playwright install chromium
+node tests/test_sources_ui.cjs
+```
+
+Manuell nach Deployment: eine Antwort mit Zitaten anfordern, „Letzte
+Quellenstellen“ öffnen und Zitat sowie Zeitbereich vergleichen. Alle Karten
+müssen Fachbereich, Modul und Video enthalten. Nach „Danke“ dürfen keine alten
+Belege erscheinen. Anschließend muss eine Folgefrage weiterhin das vorherige
+Thema verwenden können.
+
 ## Weitere Etappen
 
-Diese Liste ist der Arbeitsplan; nur Schritt 1 gehört zu diesem Änderungspaket.
-Jede weitere Etappe erhält eigene Änderungen, Prüfung und Erläuterung.
+Schritt 1 und Schritt 2 sind als getrennte Änderungspakete vorbereitet.
+Die folgenden Etappen richten sich nach der Vorgabe, direkte Zitate zu liefern.
 
 | Etappe | Ziel und Nachweis |
 | --- | --- |
-| 2 | `answer` und tatsächlich verwendete `citations` trennen; keine alten Quellen bei Smalltalk oder Ablehnung; Quellenanzeige im Frontend anpassen. |
-| 3 | Belegte Antworten aus Quellen formulieren; Quellen-IDs prüfen und unbelegte Antworten abfangen. |
-| 4 | Ein fachlich geprüftes Golden Testset und Evaluation aufbauen; erste Fragen früh sammeln, Referenzantworten nicht ungeprüft automatisch erzeugen. |
+| 3 | Zitatauswahl und Umfang verbessern: passende wörtliche Ausschnitte samt Zeitstellen auswählen, ohne Aussagen zu paraphrasieren. |
+| 4 | Ein fachlich geprüftes Golden Testset und Evaluation aufbauen; relevante Quellen und erwartete Textstellen als Referenz verwenden. |
 | 5 | Hybrid Retrieval und vektorisierte semantische Suche; Ranking-Fusion evaluieren, rohe BM25- und Cosine-Scores nicht ungeprüft gewichten. |
 | 6 | Metadaten in Embeddings, Segmentfenster sowie Fingerprint/Indexversion gemeinsam einführen; kontrollierter Neuaufbau erforderlich. |
-| 7 | Kandidaten reranken und Answerability anhand des Testsets kalibrieren. |
+| 7 | Kandidaten reranken und Beantwortbarkeit anhand des Testsets kalibrieren. |
 | 8 | Eigenständige Suchfragen aus Folgefragen und begrenztem Gesprächskontext erzeugen. |
 | 9 | Router-Aufrufe bündeln und Klassifikationen auf validierte strukturierte Ausgaben umstellen. |
 | 10 | Latenz, Retrieval-Qualität und Modellverbrauch messen; Verbesserungen gegen die Ausgangswerte vergleichen. |
-
-Die Quellenliste enthält in Schritt 1 weiterhin Retrieval-Kandidaten. Ihre
-semantische Korrektur gehört ausdrücklich zu Schritt 2. Auch eine bessere
-fachliche Antwortqualität wird durch die Sitzungsisolation allein noch nicht
-nachgewiesen.

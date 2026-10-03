@@ -316,11 +316,17 @@ body {
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.18);
 }
 
+.info-dialog[open] {
+  display: flex;
+  flex-direction: column;
+}
+
 .info-dialog::backdrop {
   background: rgba(15, 23, 42, 0.45);
 }
 
 .dialog-header {
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -335,11 +341,12 @@ body {
 }
 
 .dialog-body {
-  max-height: calc(85dvh - 65px);
+  min-height: 0;
   overflow-y: auto;
   overflow-x: hidden;
   padding: 20px;
-  white-space: pre-wrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
   line-height: 1.5;
   background: white;
 }
@@ -355,17 +362,53 @@ body {
   background: #d1d5db;
 }
 
+.sources-list {
+  display: grid;
+  gap: 16px;
+}
+
 .source-card {
+  min-width: 0;
   border: 1px solid #e5e7eb;
   border-radius: 12px;
-  padding: 12px;
-  margin-bottom: 12px;
+  padding: 18px;
   background: #f9fafb;
 }
 
-.source-meta {
+.source-area {
+  margin: 0 0 8px;
+  color: #075267;
+  font-size: 13px;
   font-weight: bold;
-  margin-bottom: 8px;
+}
+
+.source-module {
+  margin: 0 0 4px;
+  font-size: 16px;
+}
+
+.source-video {
+  margin: 0;
+  color: #374151;
+}
+
+.source-time {
+  margin: 8px 0 12px;
+  color: #075267;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.source-quote {
+  margin: 0;
+  padding-left: 14px;
+  border-left: 3px solid #9bbdc5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.transcript-text {
+  white-space: pre-wrap;
 }
 
 /* Unsichtbares Label für Screenreader */
@@ -437,3 +480,4 @@ body {
     max-width: 100%;
   }
 }
+

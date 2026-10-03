@@ -10,6 +10,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 
 from .rag_utils import RAGSystem
+from .citations import subject_area
 from .sessions import SessionStore, SessionNotFound, SessionCapacityExceeded
 
 
@@ -42,6 +43,7 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     conversation_id: str
     answer: str
+    citations: List[Dict[str, Any]]
     sources: List[Dict[str, Any]]
 
 
@@ -109,6 +111,7 @@ def get_videos() -> List[Dict[str, Any]]:
         videos.append(
             {
                 "id": doc["doc_id"],
+                **subject_area(meta["module_number"]),
                 "module_number": meta["module_number"],
                 "module_name": meta["module_name"],
                 "video_number": meta["video_number"],
@@ -131,6 +134,7 @@ def get_video(video_id: int) -> Dict[str, Any]:
 
     return {
         "id": doc["doc_id"],
+        **subject_area(meta["module_number"]),
         "module_number": meta["module_number"],
         "module_name": meta["module_name"],
         "video_number": meta["video_number"],
@@ -140,28 +144,13 @@ def get_video(video_id: int) -> Dict[str, Any]:
     }
 
 
-def source_previews(chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    return [
-        {
-            "module_number": chunk.get("module_number", ""),
-            "module_name": chunk.get("module_name", ""),
-            "video_number": chunk.get("video_number", ""),
-            "video_name": chunk.get("video_name", ""),
-            "time_range": chunk.get("time_range", ""),
-            "score": chunk.get("score", 0),
-            "text_preview": chunk.get("text", "")[:300],
-        }
-        for chunk in chunks
-    ]
-
-
 @app.get("/sources")
 def get_sources(x_conversation_id: str | None = Header(default=None, max_length=128)) -> List[Dict[str, Any]]:
     if x_conversation_id is None:
         return []
     try:
         with sessions.transaction(x_conversation_id) as (_, state):
-            return source_previews(state.last_retrieved_chunks)
+            return state.last_citations
     except SessionNotFound:
         raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
 
@@ -179,7 +168,8 @@ def chat(payload: ChatRequest, x_conversation_id: str | None = Header(default=No
             return ChatResponse(
                 conversation_id=token,
                 answer=answer,
-                sources=source_previews(state.last_retrieved_chunks),
+                citations=state.last_citations,
+                sources=state.last_citations,
             )
     except SessionNotFound:
         raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
