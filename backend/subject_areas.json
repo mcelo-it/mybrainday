@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "name": "Komponenten der Photovoltaik",
+    "modules": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "number": 2,
+    "name": "Komponenten der Transformator- und Übergabestation",
+    "modules": [10, 11, 12, 13, 14, 15]
+  },
+  {
+    "number": 3,
+    "name": "Systemintegration",
+    "modules": [16, 17, 18, 19, 20, 21]
+  },
+  {
+    "number": 4,
+    "name": "Datentechnik",
+    "modules": [22, 23, 24, 25, 26, 27, 28, 29]
+  },
+  {
+    "number": 5,
+    "name": "Anwendungsregel VDE-AR-N 4110",
+    "modules": [30, 31, 32, 33, 34, 35, 36]
+  },
+  {
+    "number": 6,
+    "name": "Elektrische Energiesystem",
+    "modules": [37, 38, 39, 40, 41, 42, 43, 44]
+  }
+]
