@@ -22,6 +22,7 @@ const { chromium } = require('playwright');
         time_range: '(0:01:28 - 0:01:46)', text: quote,
       }];
       const headers = [];
+      let sourcesRequests = 0;
       await page.route('http://chatbot.test/**', route => {
         const url = new URL(route.request().url());
         const files = { '/': ['index.html', 'text/html'], '/app.js': ['app.js', 'text/javascript'], '/style.css': ['style.css', 'text/css'] };
@@ -32,10 +33,13 @@ const { chromium } = require('playwright');
         let result;
         if (url.pathname === '/health') result = { status: 'ok' };
         else if (url.pathname === '/videos') result = [];
-        else if (url.pathname === '/chat') result = { conversation_id: 'test-session', answer: quote, citations: sources, sources };
-        else if (url.pathname === '/sources') {
+        else if (url.pathname === '/chat') {
           headers.push(route.request().headers()['x-conversation-id']);
-          result = sources;
+          result = { conversation_id: 'test-session', answer: quote, citations: sources, sources };
+        }
+        else if (url.pathname === '/sources') {
+          sourcesRequests += 1;
+          result = []; // Regression: later lookup has lost the server-side context.
         } else return route.fulfill({ status: 404, body: '{}' });
         return route.fulfill({ contentType: 'application/json', body: JSON.stringify(result) });
       });
@@ -44,11 +48,12 @@ const { chromium } = require('playwright');
       await page.locator('#send-btn').click();
       await page.locator('.message.bot .bubble').filter({ hasText: quote }).waitFor();
       await page.locator('#show-sources-btn').click();
-      await page.locator('.source-card').waitFor();
+      await page.locator('.source-card').waitFor({ timeout: 3000 });
       assert.equal(await page.locator('.source-quote').textContent(), quote);
       assert.match(await page.locator('.source-area').textContent(), /Fachbereich 1 · Komponenten/);
       assert.equal(await page.locator('.source-time').textContent(), 'Zeitstelle: (0:01:28 - 0:01:46)');
-      assert.equal(headers[0], 'test-session');
+      assert.equal(sourcesRequests, 0);
+      assert.equal(headers[0], undefined);
       assert.doesNotMatch(await page.locator('#dialog-body').textContent(), /Relevanz/);
       const layout = await page.evaluate(() => {
         const dialog = document.querySelector('#info-dialog');
@@ -70,6 +75,8 @@ const { chromium } = require('playwright');
       }
       await page.locator('#close-dialog-btn').click();
       sources = Array.from({ length: 12 }, () => ({ ...sources[0], text: quote + '\n<script>window.untrusted = true</script>' }));
+      await page.evaluate(() => sendMessage('Weitere Quellen'));
+      assert.equal(headers[1], 'test-session');
       await page.locator('#show-sources-btn').click();
       await page.waitForFunction(() => document.querySelectorAll('.source-card').length === 12);
       assert.equal(await page.locator('.source-card script').count(), 0);
@@ -78,9 +85,11 @@ const { chromium } = require('playwright');
       await page.locator('#dialog-body').evaluate(el => { el.scrollTop = el.scrollHeight; });
       await page.locator('#close-dialog-btn').click();
       sources = [];
+      await page.evaluate(() => sendMessage('Danke'));
       await page.locator('#show-sources-btn').click();
       await page.locator('#dialog-body').filter({ hasText: 'keine zitierten Quellenstellen' }).waitFor();
       assert.equal(await page.locator('.source-card').count(), 0);
+      assert.equal(sourcesRequests, 0);
       assert.deepEqual(errors, []);
       await page.close();
       console.log(`Sources UI passed: ${viewport.width}x${viewport.height}`);

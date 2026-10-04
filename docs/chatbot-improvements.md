@@ -204,3 +204,31 @@ Die folgenden Etappen richten sich nach der Vorgabe, direkte Zitate zu liefern.
 | 8 | Eigenständige Suchfragen aus Folgefragen und begrenztem Gesprächskontext erzeugen. |
 | 9 | Router-Aufrufe bündeln und Klassifikationen auf validierte strukturierte Ausgaben umstellen. |
 | 10 | Latenz, Retrieval-Qualität und Modellverbrauch messen; Verbesserungen gegen die Ausgangswerte vergleichen. |
+
+## Korrektur: Quellen aus der angezeigten Antwort übernehmen
+
+Nach Schritt 2 wurde gemeldet, dass der Quellenbereich trotz Zitaten im Chat
+leer bleibt. Das Frontend verwendete die bereits in POST /chat gelieferten
+citations nicht, sondern führte beim Öffnen des Dialogs eine zweite Abfrage
+gegen GET /sources aus. Eine dort leere Antwort konnte vorhandene Belege
+unsichtbar machen. Ob dies im gemeldeten Live-System durch Versionsmischung,
+Sitzungszuordnung oder einen anderen Laufzeitfehler verursacht wurde, ist ohne
+Live-URL noch nicht bestätigt.
+
+Die Oberfläche hält jetzt die citations der letzten erfolgreichen Chatantwort
+im Speicher dieses Tabs und zeigt genau diese im Quellenfenster. Es gibt dafür
+keine zweite Serverabfrage. Eine erfolgreiche Antwort mit leerer citations-Liste
+leert auch die Anzeige. Fehlt das Feld vollständig, erscheint ein Hinweis zur
+fehlenden Zuordnung, statt fälschlich zu behaupten, es gäbe keine Zitate.
+Retrieval-Kandidaten aus alten sources-Feldern werden nicht als Zitate übernommen.
+Fehlgeschlagene Anfragen erhalten die Belege der vorherigen erfolgreichen
+Antwort; eine abgelaufene Sitzung setzt die Zuordnung zurück.
+
+Der neue Test `node tests/test_source_state.cjs` führt die echten Frontend-
+Funktionen mit simuliertem DOM und HTTP-Antworten aus. Er scheitert am bisherigen
+Code und besteht nach der Änderung. Er deckt vorhandene Zitate bei leerer
+separater Quellenabfrage, unveränderten Text, Folgeanfragen mit Sitzungskennung,
+Fehler, leere und veraltete Serverantworten ab. JavaScript-Syntaxprüfungen
+bestehen ebenfalls. Der Playwright-Test wurde an den neuen Ablauf angepasst,
+konnte für diese Korrektur in der aktuellen Umgebung jedoch nicht erneut
+laufen, weil der Browser beim Start abbrach. Eine erneute Live-Prüfung steht aus.
