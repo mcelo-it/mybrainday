@@ -10,10 +10,12 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 if __package__:
+    from .retrieval import embedding_norms, cosine_scores, ranked_indices
     from .conversation import ConversationState
     from .context_windows import expand_context, relevance_score
     from .citations import citation_from_chunk, format_citation_source, subject_area
 else:
+    from retrieval import embedding_norms, cosine_scores, ranked_indices
     from conversation import ConversationState
     from context_windows import expand_context, relevance_score
     from citations import citation_from_chunk, format_citation_source, subject_area
@@ -60,6 +62,7 @@ class RAGSystem:
         self.documents: List[Dict[str, Any]] = []
         self.chunks: List[Dict[str, Any]] = []
         self.embeddings: np.ndarray = np.array([])
+        self._embedding_norms = None
         self.state = ConversationState()
 
         self.chunks_file = self.cache_dir / "chunks.json"
@@ -212,6 +215,7 @@ class RAGSystem:
             print(f"Inhalte verarbeitet: {min(start + batch_size, total)}/{total}")
 
         self.embeddings = np.array(vectors, dtype=np.float32)
+        self._embedding_norms = embedding_norms(self.embeddings)
         print("Inhaltsindex erfolgreich erstellt.")
 
 
@@ -251,6 +255,9 @@ class RAGSystem:
             self.chunks = json.load(f)
 
         self.embeddings = np.load(self.embeddings_file)
+        if len(self.embeddings) != len(self.chunks):
+            raise ValueError("Index und Videoausschnitte haben unterschiedliche Längen.")
+        self._embedding_norms = embedding_norms(self.embeddings)
 
         print(f"Index geladen aus: {self.cache_dir}")
         print(f"{len(self.chunks)} Videoausschnitte stehen bereit.")
@@ -275,17 +282,12 @@ class RAGSystem:
         )
         query_vector = np.array(query_response.data[0].embedding, dtype=np.float32)
 
-        scores = []
-        for i, chunk_vector in enumerate(self.embeddings):
-            score = self.cosine_similarity(query_vector, chunk_vector)
-            scores.append((i, score))
-
-        scores.sort(key=lambda x: x[1], reverse=True)
+        scores = cosine_scores(self.embeddings, query_vector, self._embedding_norms)
 
         results = []
-        for idx, score in scores[:top_k]:
+        for idx in ranked_indices(scores, top_k):
             chunk = self.chunks[idx].copy()
-            chunk["score"] = round(score, 4)
+            chunk["score"] = round(float(scores[idx]), 4)
             results.append(chunk)
 
         self.state.last_retrieved_chunks = results
