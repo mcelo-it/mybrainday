@@ -362,3 +362,50 @@ Evaluationstests bestehen ebenfalls. Der echte lokale --answers-Lauf bleibt
 mangels vollständigem Index und API-Schlüssel offen. Der nachgewiesene fachliche
 Antwortfehler ist noch nicht behoben; Produktivlogik wurde in diesem Schritt
 nicht verändert.
+
+## Schritt 6: Zweite Prüfung auf ausreichende und knappe Zitate
+
+Auf eine gültige erste Zitatauswahl folgt jetzt eine zweite Modellprüfung.
+Sie erhält die konkrete Frage, den ungeprüften Vorschlag und alle bereits
+bereitgestellten Kandidaten mit Fachbereich, Modul, Video und Zeitstellen.
+Sie darf nicht nur kürzen, sondern auch andere vorhandene Stellen auswählen,
+wenn beispielsweise statt einer Ankündigung ein Ergebnisabschnitt gebraucht wird.
+Zurückgegeben werden ausschließlich Quellenindizes; Texte und Metadaten werden
+weiterhin unverändert aus den Originalabschnitten übernommen.
+
+Die Prüfregel verlangt eine minimale ausreichende Belegmenge. Bei Zahlenfragen
+gehören Wert, Einheit und notwendige Bedingungen dazu, bei Vergleichen beide
+Seiten. Wiederholungen und unbenötigte Exkurse sollen entfallen. Es gibt keine
+starre Zitatobergrenze, die wichtige Bedingungen oder Ergebnisse abschneiden
+könnte. Chronologische Kandidatenreihenfolge bleibt bei der Ausgabe erhalten.
+
+Bei NONE, freiem Text oder ungültigen Indizes wird kein ungeprüfter Vorschlag
+ausgegeben. Ein Belegset mit einem ungültigen Index wird vollständig verworfen,
+weil die fehlende Stelle eine notwendige Bedingung enthalten könnte. Providerfehler
+werden an die bestehende API-/Sitzungsfehlerbehandlung weitergereicht; es gibt
+keinen Fallback auf ungeprüfte Zitate. Eine fehlende ausreichende Auswahl erhält
+den Antworttyp insufficient_evidence und den Hinweis, dass in den gefundenen
+Stellen kein ausreichendes Zitat gefunden wurde. Das behauptet nicht, die Antwort
+komme im gesamten Videobestand nicht vor. Aktuelle Quellen werden dabei geleert.
+
+Die Prüfung gilt auch bei Folgefragen und nach einer Präzisierung. Ein leerer
+oder ungültiger erster Vorschlag löst keinen zweiten Aufruf aus. Pro gültigem
+Auswahlversuch entsteht ein zusätzlicher Chat-Aufruf mit dem Kandidatenkontext.
+Eine Folgefrage kann zunächst lokale Kandidaten und danach eine neue Suche
+durchlaufen; dann kann die Prüfung zweimal innerhalb einer Anfrage stattfinden.
+Kosten und Latenz steigen entsprechend. Es gibt keine unbeschränkte Retry-Schleife.
+
+Grenzen: Beide Schritte verwenden dasselbe Modell. Die zweite Prüfung ist keine
+unabhängige fachliche Garantie und kann korrekte Belege ablehnen oder ungeeignete
+Belege akzeptieren. Sie kann keine beim Retrieval fehlenden Stellen herbeiholen.
+Der explizite Leerlaufstrom-Fall im Prüfauftrag stammt aus dem Entwicklungsset;
+dieses Set ist damit erst recht kein unabhängiger Testdatensatz. Eine Verbesserung
+ist erst durch erneute Live-Abnahme plus neue, bislang unbenutzte Fragen belegt.
+
+Validierung: Sechs neue Vertragstests prüfen Kürzung mit Erhalt von Bedingungen,
+Ersetzen einer Ankündigung durch vorhandene Antwortstellen, NONE ohne Fallback,
+ungültige Prüfantworten, ausgelassene Zusatzaufrufe und Providerfehler. Zusammen
+mit vier bestehenden Auswahl-, fünf Fenster- und drei Sitzungstests bestanden
+18 Tests (Modellantworten simuliert; fehlende OpenAI-/dotenv-Importbindungen
+ersetzt). Die API-abhängigen Zitatprüfungen konnten mangels FastAPI hier nicht
+geladen werden. Kein Live-Qualitätsgewinn und keine Produktionslatenz gemessen.
