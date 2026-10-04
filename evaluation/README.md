@@ -68,3 +68,58 @@ Die Tests prüfen numerische Übereinstimmung mit skalarer Kosinusähnlichkeit,
 Nullvektoren, Ranggleichstände und ungültige Eingaben sowie das Ankündigungs-
 Beispiel, unvollständige Belege, die Relevanzschwelle und veraltete Referenzen.
 Synthetische Testresultate dürfen nicht als Live-Treffergenauigkeit berichtet werden.
+
+## Finale Antworten und Fehlerlokalisierung
+
+Für den vollständigen Chatablauf zusätzlich `--answers` setzen:
+
+```sh
+python -m evaluation.evaluate --live --answers --cache-dir backend/cache --output evaluation/results/answers.json
+```
+
+Dieser Lauf nutzt `RAGSystem.ask` einschließlich Klassifikation und Zitatauswahl.
+Jede Frage startet in einem neuen ConversationState. Es entstehen zusätzlich
+kostenpflichtige Chat-Modellaufrufe; die Anzahl hängt vom Antwortpfad ab. Es
+werden keine Dokument-Embeddings neu erstellt. Sitzungskennungen und API-Schlüssel
+werden nicht im Bericht gespeichert. Das Chat-Modell wird im Bericht festgehalten.
+
+Die Ausgabe enthält Suchtreffer, Referenzabdeckung im erweiterten Kontext,
+finale Antwort, Zitate und Antworttyp. Die Zitate werden gegen Originaltext,
+Zeitstelle und Fachbereich/Modul/Video geprüft. Eine echte Quellen-ID mit
+erfundenem Text zählt nicht als belegte Antwort. Auch zusätzliche generierte
+Prosa im ansonsten zitierenden Antwortformat wird erkannt.
+
+`reference_diagnosis` unterscheidet: vollständiges Referenzset ausgegeben,
+Referenzset fehlt bereits im rekonstruierten Kontext, oder Referenzset ist dort
+vorhanden und wird nicht vollständig ausgegeben. Dies ist keine automatische
+fachliche Bewertung: Alternative korrekte Belege bleiben möglich. Bei Rückfragen
+oder vorgeschalteten Klassifikationen kann die fehlende Ausgabe mehrere Ursachen
+haben. Der Bericht beweist nicht, welcher einzelne Modellaufruf fehlerhaft war.
+Der Kontext wird aus den Suchankern rekonstruiert; interne Modellprompts werden
+nicht aufgezeichnet. Die Evaluation umfasst neue Einzelanfragen, keine Dialogfolgen.
+
+Gespeicherte Antworten werden beim normalen Replay automatisch mitgeprüft.
+Für diesen Replay müssen top-k und Relevanzschwelle dem Original entsprechen.
+
+## Live-Prüfung vom 4. Oktober 2026
+
+Die zehn Fragen wurden über die Render-Oberfläche mit jeweils neu geladener
+Seite gestellt. Sichtbare Chatantworten und Quellenfenster liegen in
+`results/live-ui-2026-10-04.json`. Der klare Fehler zur Stromfrage wurde einmal
+in einer weiteren neuen Sitzung reproduziert; siehe Wiederholungsdatei und
+Screenshot. Der bereitgestellte Dienst weist keinen Commit aus, deshalb ist
+die exakte Deploy-Version unbekannt. GitHub-main stand bei
+`5d36f08a8328cb83424ce9d481018d6a5ccaef4e`; das beweist keine Deploy-Version.
+
+Der Bericht [Live-Abnahme](live-review-2026-10-04.md) erläutert die Ergebnisse.
+Die sichtbaren Ausgaben lassen sich ohne API erneut gegen die Transkripte prüfen:
+
+```sh
+python -m evaluation.check_ui_run evaluation/results/live-ui-2026-10-04.json --output evaluation/results/live-ui-2026-10-04-checked.json
+python -m unittest discover -s tests -p 'test_answer_evaluation.py'
+```
+
+Für die UI-Prüfung müssen die referenzierten Transkripte im docs-Verzeichnis
+liegen. Der Parser ist bewusst auf das aktuelle deutsche Ausgabeformat
+beschränkt. Der Quellenfenstercheck prüft das Vorhandensein aller Chat-Zitate
+mit Metadaten; er schließt zusätzliche Karten oder Darstellungsfehler nicht aus.

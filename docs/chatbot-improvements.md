@@ -331,3 +331,34 @@ Mikromessung, keine Aussage zur gesamten Chat-Latenz oder Produktionsleistung.
 Nächster fachlicher Schritt: Live-Auswertung auf dem vollständigen Cache,
 anschließend manuelle Abnahme der tatsächlich ausgegebenen Zitate. Erst auf
 dieser Grundlage hybride Suche und adaptive Kontextfenster vergleichen.
+
+## Schritt 5: Live-Abnahme und vollständige Antwortprüfung
+
+Zehn Entwicklungsfragen wurden mit getrennten Sitzungen am Render-Chatbot
+gestellt. Acht Antworten enthalten das vollständige hinterlegte Referenzset.
+Eine Antwort nutzt teilweise andere erklärende Belege; die Frage nach dem
+Leerlaufstrom erhält dagegen nur eine nicht beantwortende Kennlinienpassage.
+Dieser Fehler wurde in einer zweiten neuen Sitzung reproduziert. Bei einzelnen
+Fragen ist die Auswahl zudem sehr breit (bis 13 Zitate).
+
+Alle 41 ausgegebenen Zitate stimmen mit Originaltext und Metadaten überein.
+Alle Quellenfenster enthalten die zugehörigen Chat-Zitate. Rohbeobachtungen,
+Screenshot, reproduzierbare Prüfung und Einschränkungen sind unter
+evaluation/live-review-2026-10-04.md dokumentiert. Die Live-Deploy-Version ist
+nicht ausgewiesen; der gemergte GitHub-Stand belegt keinen abgeschlossenen Deploy.
+
+Der neue Evaluationsschalter --answers führt den vollständigen Chatablauf pro
+Frage in einer eigenen ConversationState aus und vergleicht Referenzabdeckung
+in Suchankern, rekonstruiertem Kontext und finalen Zitaten. Text und Metadaten
+werden am Original geprüft. Die Diagnose unterscheidet fehlende Referenzen im
+Kontext von nicht ausgegebenen Referenzen trotz vorhandenem Kontext. Alternative
+korrekte Belege und vorgeschaltete Klassifikationen erfordern weiterhin Sichtung.
+Es entstehen zusätzliche Chat-Modellaufrufe; Replay bleibt API-frei.
+
+Sieben neue Tests bestehen, darunter ein Test des real beobachteten Fehlers,
+Prüfungen auf verfälschte Zitate und Metadaten sowie ein simuliertes vollständiges
+CLI-End-to-End/Replay mit getrennten Gesprächszuständen. Die vier bisherigen
+Evaluationstests bestehen ebenfalls. Der echte lokale --answers-Lauf bleibt
+mangels vollständigem Index und API-Schlüssel offen. Der nachgewiesene fachliche
+Antwortfehler ist noch nicht behoben; Produktivlogik wurde in diesem Schritt
+nicht verändert.
