@@ -2,6 +2,8 @@ const API_BASE = window.location.origin;
 // A page owns its conversation; separate tabs and reloads start fresh.
 let conversationId = null;
 let chatInFlight = false;
+// Keep citations with the displayed answer, independent of later server lookups.
+let lastCitations = [];
 
 function conversationHeaders() {
   return conversationId ? { "X-Conversation-ID": conversationId } : {};
@@ -249,22 +251,22 @@ function createSourcesList(sources) {
   return list;
 }
 
-async function loadSources() {
-  try {
-    const sources = await safeFetch(`${API_BASE}/sources`, { headers: conversationHeaders() });
-
-    if (!Array.isArray(sources) || sources.length === 0) {
-      openDialog(
-        "Letzte Quellenstellen",
-        "<p>Die letzte Antwort enthält keine zitierten Quellenstellen.</p>"
-      );
-      return;
-    }
-
-    openDialog("Letzte Quellenstellen", createSourcesList(sources));
-  } catch (error) {
-    openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
+function loadSources() {
+  if (lastCitations === null) {
+    openDialog(
+      "Letzte Quellenstellen",
+      "<p>Die Quellen konnten dieser Antwort nicht zugeordnet werden. Bitte lade die Seite neu und stelle die Frage erneut.</p>"
+    );
+    return;
   }
+  if (lastCitations.length === 0) {
+    openDialog(
+      "Letzte Quellenstellen",
+      "<p>Die letzte Antwort enthält keine zitierten Quellenstellen.</p>"
+    );
+    return;
+  }
+  openDialog("Letzte Quellenstellen", createSourcesList(lastCitations));
 }
 
 async function rebuildIndex() {
@@ -325,11 +327,16 @@ async function sendMessage(message) {
     });
 
     conversationId = data.conversation_id;
+    lastCitations = Array.isArray(data.citations) ? data.citations : null;
     removeLoadingMessage();
     addMessage("bot", data.answer || "Es wurde keine Antwort geliefert.");
+    if (infoDialog.open && dialogTitle.textContent === "Letzte Quellenstellen") {
+      loadSources();
+    }
   } catch (error) {
     if (error.status === 404 && conversationId) {
       conversationId = null;
+      lastCitations = [];
       error.message = "Deine Sitzung ist abgelaufen. Die nächste Nachricht beginnt einen neuen Chat ohne den bisherigen Kontext.";
     }
     removeLoadingMessage();
