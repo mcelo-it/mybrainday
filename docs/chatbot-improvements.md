@@ -232,3 +232,59 @@ Fehler, leere und veraltete Serverantworten ab. JavaScript-Syntaxprüfungen
 bestehen ebenfalls. Der Playwright-Test wurde an den neuen Ablauf angepasst,
 konnte für diese Korrektur in der aktuellen Umgebung jedoch nicht erneut
 laufen, weil der Browser beim Start abbrach. Eine erneute Live-Prüfung steht aus.
+
+## Schritt 3: Kontextfenster für die Zitatauswahl
+
+Ein semantischer Treffer wie „Jetzt berechnen wir die Spannung“ kann das Thema
+präzise treffen, aber die Frage nach dem Wert nicht beantworten. Deshalb wird
+nicht nur der Prompt geändert: Die Auswahl erhält jetzt Nachbarabschnitte aus
+demselben Video. Ein Treffer öffnet ein Fenster aus einem vorherigen und bis
+zu drei folgenden Segmenten. Überlappungen werden dedupliziert und Abschnitte
+pro Video in Transkriptreihenfolge angeordnet. Fachbereich, Modul, Video,
+Segmentposition und Zeitbereich stehen im Auswahlkontext.
+
+Die ursprünglichen Top-8-Treffer bilden weiterhin den Einstieg. Die bestehende
+Relevanzprüfung erfolgt vor der Erweiterung. Ein Fenster enthält nur Abschnitte
+mit identischem Dateinamen; unterschiedliche Videos werden nie als fortlaufende
+Erklärung behandelt. Der Kontext ist auf 40 Ausschnitte und 60.000 Zeichen
+Transkripttext begrenzt. Einzelne Texte werden nicht mitten im Zitat gekürzt;
+bei Budgetmangel werden zusätzliche Ausschnitte ausgelassen. Die Begrenzung
+betrifft Text, nicht die zusätzlichen Metadaten oder eine exakte Tokenzahl.
+
+Nachbarabschnitte sind selbst auswählbare Quellen. Sie behalten ihren eigenen
+Text und Zeitbereich. Ihr Zugang zur Auswahl beruht auf dem Relevanzwert des
+Ankertreffers, nicht auf einem erfundenen eigenen Embedding-Score. Dadurch kann
+ein nachfolgender Ergebnisabschnitt auch ohne Wiederholung der Suchbegriffe
+zitiert werden. Die Modellauswahl bleibt für die tatsächliche Beantwortbarkeit
+verantwortlich; der Ankerwert allein beweist keine fachliche Antwortqualität.
+
+Die Auswahlregel fordert die eigentliche Antwort statt einer bloßen
+Ankündigung. Bei Zahlen sind Einheit und Bedingungen mit auszuwählen; ein
+Beispielwert darf nicht zur allgemeingültigen Empfehlung werden. Wenn eine
+Bedingung im vorherigen Abschnitt steht, können beide Stellen separat zitiert
+werden. Die Ausgabe bleibt wörtlich und mit Originalzeitstellen versehen.
+
+Die Erweiterung gilt auch bei Folgefragen. Bei Rückfragen wird die vollständige
+begrenzte Kandidatenliste verwendet, nicht mehr nur deren erste acht Einträge.
+Der bisherige Fallback, bei erfolgloser Auswahl alle Quellen einer Option zu
+zitieren, entfällt. Unerwartete freie Modelltexte werden nicht mehr mittels
+beliebiger enthaltener Zahlen als Quellenliste interpretiert.
+
+Validierung: Fünf Tests für Fensterbildung, Videogrenzen, Überlappungen,
+Budgetgrenzen und Originaltext sowie vier Tests für Auswahlablauf, Folgefragen,
+Originalzeitstellen, NONE nach Rückfragen und ungültige Modellantworten bestehen.
+Die vier Ablaufprüfungen nutzen simulierte Modellantworten; in dieser Umgebung
+wurden außerdem die fehlenden OpenAI-/dotenv-Importbindungen ersetzt. Die
+Produktionsklasse und ihre Auswahl-/Antwortmethoden wurden unverändert geladen.
+Python-Kompilierungsprüfung bestanden. Die komplette API-Suite konnte mangels
+installierter Laufzeitabhängigkeiten hier nicht erneut ausgeführt werden.
+Diese Tests belegen die Datenweitergabe und Auswahlmechanik, noch keine
+verbesserte Treffergenauigkeit mit echten Modellantworten.
+
+Für die fachliche Abnahme werden echte Fragen benötigt, bei denen bisher eine
+Ankündigung statt des Ergebnisses erschien. Zu prüfen sind Ergebnis, Einheit,
+Bedingungen und Videozeit. Ergebnisse weiter als drei Segmente nach dem Treffer
+können weiterhin fehlen; eine spätere adaptive Erweiterung sollte anhand
+solcher Beispiele bewertet werden. Kein neuer Embedding-Index ist erforderlich.
+Die Modellaufrufzahl steigt nicht, die längeren Prompts können jedoch Kosten
+und Latenz erhöhen.
