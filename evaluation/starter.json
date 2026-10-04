@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "status": "assistant-curated development set; not expert reviewed; not a held-out benchmark",
+  "source_commit": "dfb8d8262b425c5c0062f095d2c442b4b251dfc0",
+  "cases": [
+    {
+      "id": "pv-open",
+      "question": "Was bedeutet Leerlauf hinsichtlich Schalter und Anschlüssen?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 2 Elektrische Kenngroessen.txt",
+            "time_range": "(0:01:12 - 0:01:17)",
+            "text": "Das ist der Leerlauf. Also Schalter ist geöffnet. Plus und Minus sind getrennt."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "pv-uoc",
+      "question": "Wofür steht OC in UOC?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 2 Elektrische Kenngroessen.txt",
+            "time_range": "(0:01:27 - 0:01:39)",
+            "text": "Genau, wir nennen das im Fachjargon Open Circuit Voltage, deswegen dieses OC. Und wir werden es jetzt die nächsten eine Stunde 55 mit UOC abkürzen. Also merken sich das bitte alle."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "pv-current",
+      "question": "Wie viel Strom fließt beim Leerlauf eines PV-Moduls?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 2 Elektrische Kenngroessen.txt",
+            "time_range": "(0:02:02 - 0:02:16)",
+            "text": "Als erstes die Leerlauf Spannung, weil die haben wir uns ja schon erarbeitet. Also da liegt sie auf der X-Achse, auf der Spannungsachse, aber die Y-Achse sozusagen null, kein Strom. Da ist er, null Ampere."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "pv-stc",
+      "question": "Welche Einstrahlung gilt bei Standard Test Conditions und in welcher Einheit?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 3 Externe Einflussgroessen.txt",
+            "time_range": "(0:13:36 - 0:13:54)",
+            "text": "Wir haben separiert wieder die gleiche Kennlinie, das gleiche Diagramm und unsere Sonne. Und jetzt ist das so, IRR, das ist die Einstrahlung in Watt pro Quadratmeter. Bei Standard Test Conditions, so wird es definiert, sind es 1000 Watt pro Quadratmeter."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "pv-irradiance",
+      "question": "Wie verändern sich Strom und Spannung bei sinkender Einstrahlung?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 3 Externe Einflussgroessen.txt",
+            "time_range": "(0:14:33 - 0:14:49)",
+            "text": "Jetzt nur noch bei 800, strengt der Strom weiter und die Spannung bleibt ungefähr gleich. Kann man sich zusammengefasst vielleicht so vorstellen. Sinkende Einstrahlung reduziert den Strom linear und die Spannung bleibt bis ungefähr 100 Watt pro Quadratmeter konstant."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "pv-airmass",
+      "question": "Welchen Airmass-Wert nennt das Video für senkrechte Einstrahlung?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "01 Stringdesign 3 Externe Einflussgroessen.txt",
+            "time_range": "(0:15:45 - 0:16:00)",
+            "text": "Es geht im Grunde darum, wie in welchem Winkel die Sonne durch die Atmosphäre auf das Solarmodul scheint. Darum geht es im Endeffekt. Und ich merke mir höchstens noch, dass dieses Airmass bei einer senkrechten Einstrahlung 1 ist."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "trafo-n",
+      "question": "Was bedeutet das N in der Transformatorbezeichnung?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "10 Transformator 5 Elektrische Kenndaten.txt",
+            "time_range": "(0:01:47 - 0:02:06)",
+            "text": "Man muss es nicht. Wenn wir jetzt hier ein N in unserer Transformatorbezeichnung sehen, dann ist der Sternpunkt herausgeführt. Das ist erstmal der erste Schritt, aber bedeutet trotzdem noch gar nicht so viel, weil mit dem Sternpunkt könnt ihr jetzt machen, vielleicht was ihr wollt, sag ich mal."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "trafo-angle",
+      "question": "Welchem Phasenwinkel entspricht die Kennzahl 5 eines Transformators?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "10 Transformator 5 Elektrische Kenndaten.txt",
+            "time_range": "(0:02:54 - 0:03:18)",
+            "text": "Dann geht es weiter mit dem Phasenwinkel. Ganz wichtig, es gibt bei den meisten oder bei allen Trafos gibt es dann immer noch eine Zahl in der Bezeichnung, zum Beispiel eine 5. Und diese 5 bedeutet, dass der Phasenwinkel zwischen der Oberspannungsseite und der Unterspannungsseite 5 mal 30 Grad verschoben ist. Also 150 Grad wäre das in dem Fall."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "trafo-case",
+      "question": "Welche Spannungsseite wird in der Transformatorbezeichnung mit großen Buchstaben angegeben?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "10 Transformator 5 Elektrische Kenndaten.txt",
+            "time_range": "(0:03:51 - 0:04:14)",
+            "text": "Dann hätte man eben unterschiedliche Phasenlagen, unterschiedliche Spannungen und das wäre dann wahrscheinlich so eine Art Kurzschluss, den man da bauen würde. Dann gibt es eben noch die Spannungsseite, die in unserer Transformatorbezeichnung auch noch auftaucht. Und zwar funktioniert das so, dass man die Unterspannungsseite mit kleinen Buchstaben beschreibt und die Oberspannungsseite mit großen Buchstaben."
+          }
+        ]
+      ]
+    },
+    {
+      "id": "trafo-losses",
+      "question": "Wie unterscheiden sich Leerlaufverluste und Kurzschlussverluste hinsichtlich der Belastung?",
+      "evidence_sets": [
+        [
+          {
+            "filename": "10 Transformator 5 Elektrische Kenndaten.txt",
+            "time_range": "(0:13:20 - 0:13:27)",
+            "text": "Ihr könnt nur besser werden. Und dann haben wir hier nochmal das Verlustdiagramm. Leerlaufverluste, die sind immer da."
+          },
+          {
+            "filename": "10 Transformator 5 Elektrische Kenndaten.txt",
+            "time_range": "(0:13:28 - 0:13:36)",
+            "text": "Kurzschlussverluste, die steigen mit der Belastung des TRAFOs. Und daraus resultieren dann Gesamtverluste bzw. ein Transformatorwirkungsgrad."
+          }
+        ]
+      ]
+    }
+  ]
+}

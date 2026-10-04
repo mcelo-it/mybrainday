@@ -288,3 +288,46 @@ können weiterhin fehlen; eine spätere adaptive Erweiterung sollte anhand
 solcher Beispiele bewertet werden. Kein neuer Embedding-Index ist erforderlich.
 Die Modellaufrufzahl steigt nicht, die längeren Prompts können jedoch Kosten
 und Latenz erhöhen.
+
+## Schritt 4: Antwortstellen messbar machen und Suche vektorisieren
+
+Der wissenschaftliche Bezug ist Kontextinsuffizienz (insufficient context):
+Relevanz allein garantiert keine ausreichende Antwortgrundlage. Siehe
+„Sufficient Context: A New Lens on Retrieval Augmented Generation Systems“
+(https://arxiv.org/abs/2411.06037). Durch isolierte Segmente kann die eigentliche
+Antwort außerhalb des anfänglichen Treffers liegen.
+
+Unter evaluation/ liegt jetzt ein Entwicklungsset mit zehn Fragen aus drei
+Transkripten und elf geprüften wörtlichen Referenzstellen. Für eine Frage
+werden zwei Abschnitte gemeinsam benötigt. Die Auswertung misst sowohl den
+Anteil gefundener Belege als auch vollständige Belegsets vor und nach der
+Kontexterweiterung. Sie verwendet den produktiven Fensteralgorithmus. Die
+Anleitung beschreibt einen ausdrücklich gestarteten Live-Lauf sowie API-freies
+Replay mit gespeicherten Rankings und Versionshashes. Fehlende oder veränderte
+Referenzen führen vor kostenpflichtigen Anfragen zum Abbruch.
+
+Dies ist noch keine Messung der finalen Modellauswahl und kein unabhängiger
+Qualitätsbenchmark. Ohne vollständigen lokalen Index und echte Frage-Embeddings
+wurde hier keine Live-Treffergenauigkeit bestimmt. Fachliche Abnahme und ein
+separates Testset bleiben notwendig. Auch nicht beantwortbare Fragen fehlen
+bisher. Es werden keine verbesserten Trefferquoten aus simulierten Tests abgeleitet.
+
+Die semantische Suche berechnet Kosinusähnlichkeiten jetzt als Matrixoperation
+statt einer Python-Schleife über sämtliche Chunks. Die Zeilennormen werden beim
+Laden oder Erstellen des Index berechnet und von Gesprächsinstanzen gemeinsam
+verwendet. Scores, Relevanzschwelle und stabile Reihenfolge bei gleichen Scores
+bleiben erhalten. Kleine Gleitkommaabweichungen können praktisch identische
+Treffer anders ordnen. Ein Index-Neuaufbau ist nicht erforderlich.
+
+Validierung: Drei numerische Retrieval-Tests, vier Evaluationstests, fünf
+Fenstertests und vier bestehende Auswahltests bestanden. Für die Auswahltests
+wurden nur die fehlenden OpenAI-/dotenv-Importbindungen ersetzt; Modellantworten
+waren simuliert. Der produktive Chunk-Parser bestätigte alle elf Referenzstellen.
+Python-Kompilierung bestanden. Ein einzelner synthetischer Vergleich mit
+5.000 Vektoren à 1.536 Dimensionen ergab 22,30 ms für die Schleife und 0,86 ms
+für die Matrixoperation; maximale Scoreabweichung 2,98e-8. Dies ist eine lokale
+Mikromessung, keine Aussage zur gesamten Chat-Latenz oder Produktionsleistung.
+
+Nächster fachlicher Schritt: Live-Auswertung auf dem vollständigen Cache,
+anschließend manuelle Abnahme der tatsächlich ausgegebenen Zitate. Erst auf
+dieser Grundlage hybride Suche und adaptive Kontextfenster vergleichen.
