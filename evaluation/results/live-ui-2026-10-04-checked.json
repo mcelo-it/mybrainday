@@ -1,0 +1,120 @@
+{
+  "cases": [
+    {
+      "id": "pv-open",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 3,
+      "verified_citation_count": 3,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "pv-uoc",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 2,
+      "verified_citation_count": 2,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "pv-current",
+      "evidence_recall": 0.0,
+      "complete_evidence": false,
+      "citation_count": 1,
+      "verified_citation_count": 1,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "pv-stc",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 1,
+      "verified_citation_count": 1,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "pv-irradiance",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 6,
+      "verified_citation_count": 6,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "pv-airmass",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 2,
+      "verified_citation_count": 2,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "trafo-n",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 13,
+      "verified_citation_count": 13,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "trafo-angle",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 2,
+      "verified_citation_count": 2,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "trafo-case",
+      "evidence_recall": 1.0,
+      "complete_evidence": true,
+      "citation_count": 3,
+      "verified_citation_count": 3,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    },
+    {
+      "id": "trafo-losses",
+      "evidence_recall": 0.5,
+      "complete_evidence": false,
+      "citation_count": 8,
+      "verified_citation_count": 8,
+      "citation_issues": [],
+      "quote_only_format_matches": true,
+      "source_dialog_contains_all_citations": true
+    }
+  ],
+  "summary": {
+    "question_count": 10,
+    "complete_reference_sets": 8,
+    "citation_count": 41,
+    "verified_citation_count": 41,
+    "quote_only_format_matches": 10,
+    "source_dialog_contains_all_citations": 10
+  },
+  "provenance": {
+    "capture_sha256": "169801d66b9e62ee598e3c55e0ed03842465c9de4e7e90f631f06514f89ee050",
+    "dataset_sha256": "90952e5861f4dfabaa084bfaba1ce6d9192be7491694c089b90df5f8a71a5b39",
+    "observed_at": "2026-10-04T16:07:25.694Z",
+    "url": "https://mybrainday.onrender.com/",
+    "deployed_commit": null,
+    "note": "Visible UI evidence only; internal retrieval rankings unavailable"
+  }
+}

@@ -74,6 +74,7 @@ def main():
     parser.add_argument("--cache-dir", type=Path, default=Path("backend/cache"))
     parser.add_argument("--rankings", type=Path, help="Previously recorded rankings JSON")
     parser.add_argument("--live", action="store_true", help="Create paid query embeddings via OpenAI")
+    parser.add_argument("--answers", action="store_true", help="Also run the full chatbot with paid chat calls; fresh session per question")
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--top-k", type=int, default=8)
     parser.add_argument("--min-score", type=float, default=0.30)
@@ -82,33 +83,58 @@ def main():
         parser.error("Choose exactly one of --live or --rankings")
     if args.top_k < 1:
         parser.error("--top-k must be positive")
+    if args.answers and not args.live:
+        parser.error("--answers requires --live; recorded answers are replayed automatically")
     dataset = json.loads(args.dataset.read_text(encoding="utf-8"))
     chunks = json.loads((args.cache_dir / "chunks.json").read_text(encoding="utf-8"))
     validate_dataset(dataset, chunks)  # Fail before any paid requests.
     digest = corpus_digest(chunks)
     dataset_digest = hashlib.sha256(args.dataset.read_bytes()).hexdigest()
+    responses = None
     if args.live:
         from backend.rag_utils import RAGSystem
         meta = json.loads((args.cache_dir / "meta.json").read_text(encoding="utf-8"))
-        rag = RAGSystem(cache_dir=str(args.cache_dir.resolve()), embedding_model=meta["embedding_model"])
+        rag = RAGSystem(cache_dir=str(args.cache_dir.resolve()), embedding_model=meta["embedding_model"],
+                        retrieval_top_k=args.top_k, min_similarity_score=args.min_score)
         # Explicit CLI path wins over deployment environment defaults.
         rag.cache_dir = args.cache_dir.resolve()
         rag.chunks_file = rag.cache_dir / "chunks.json"
         rag.embeddings_file = rag.cache_dir / "embeddings.npy"
         rag.load_cache()
-        runs = {case["id"]: [dict(filename=c["filename"], time_range=c["time_range"], score=c["score"])
-                             for c in rag.retrieve(case["question"], args.top_k)]
-                for case in dataset["cases"]}
+        runs = {}
+        if args.answers:
+            from backend.conversation import ConversationState
+            responses = {}
+        for case in dataset["cases"]:
+            if args.answers:
+                worker = rag.for_conversation(ConversationState())
+                answer = worker.ask(case["question"])
+                retrieved = worker.state.last_retrieved_chunks
+                responses[case["id"]] = {"answer": answer, "citations": worker.state.last_citations,
+                                          "answer_type": worker.state.last_answer_type}
+            else:
+                retrieved = rag.retrieve(case["question"], args.top_k)
+            runs[case["id"]] = [dict(filename=c["filename"], time_range=c["time_range"], score=c["score"])
+                                for c in retrieved]
         provenance = {"corpus_sha256": digest, "dataset_sha256": dataset_digest,
-                      "embedding_model": meta["embedding_model"], "top_k": args.top_k}
+                      "embedding_model": meta["embedding_model"], "top_k": args.top_k,
+                      "chat_model": rag.chat_model if args.answers else None,
+                      "mode": "end_to_end" if args.answers else "retrieval"}
     else:
         recorded = json.loads(args.rankings.read_text(encoding="utf-8"))
         provenance, runs = recorded["provenance"], recorded["rankings"]
+        responses = recorded.get("responses")
+        if responses is not None and (recorded["parameters"]["top_k"] != args.top_k
+                                       or recorded["parameters"]["min_score"] != args.min_score):
+            raise ValueError("Answer replay requires the original top_k and min_score")
         if provenance["corpus_sha256"] != digest or provenance["dataset_sha256"] != dataset_digest:
             raise ValueError("Recorded corpus or dataset differs; cannot compare runs")
         if provenance["top_k"] < args.top_k:
             raise ValueError("Recorded rankings contain fewer requested ranks")
     report = evaluate(dataset, chunks, runs, args.top_k, args.min_score)
+    if responses is not None:
+        from .answers import attach_answers
+        attach_answers(report, dataset, chunks, responses)
     report.update(provenance=provenance, rankings=runs,
                   parameters={"top_k": args.top_k, "min_score": args.min_score,
                               "before": 1, "after": 3, "max_chunks": 40, "max_chars": 60000})
