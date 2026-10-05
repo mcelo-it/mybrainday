@@ -15,3 +15,4 @@ class ConversationState:
     last_selected_chunks: list[dict[str, Any]] = field(default_factory=list)
     last_citations: list[dict[str, Any]] = field(default_factory=list)
     last_topic_summary: str | None = None
+    last_metrics: dict[str, Any] = field(default_factory=dict)

@@ -1,6 +1,8 @@
 import os
 import tempfile
 import warnings
+import logging
+from time import perf_counter
 from copy import copy
 import re
 import json
@@ -12,6 +14,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 if __package__:
+    from .metrics import measured_call
     from .index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from .lexical import BM25Index, hybrid_indices
     from .retrieval import embedding_norms, cosine_scores, ranked_indices
@@ -19,6 +22,7 @@ if __package__:
     from .context_windows import expand_context, relevance_score
     from .citations import citation_from_chunk, format_citation_source, subject_area
 else:
+    from metrics import measured_call
     from index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from lexical import BM25Index, hybrid_indices
     from retrieval import embedding_norms, cosine_scores, ranked_indices
@@ -87,6 +91,12 @@ class RAGSystem:
         worker = copy(self)
         worker.state = state
         return worker
+
+    def _chat_completion(self, stage, **kwargs):
+        return measured_call(self.state.last_metrics, stage, "chat", self.client.chat.completions.create, **kwargs)
+
+    def _query_embedding(self, **kwargs):
+        return measured_call(self.state.last_metrics, "retrieve", "embedding", self.client.embeddings.create, **kwargs)
 
     def load_documents(self) -> None:
         if not self.docs_path.exists():
@@ -326,7 +336,7 @@ class RAGSystem:
         if top_k is None:
             top_k = self.retrieval_top_k
 
-        query_response = self.client.embeddings.create(
+        query_response = self._query_embedding(
             model=self.embedding_model,
             input=query,
         )
@@ -402,7 +412,7 @@ class RAGSystem:
 
         user_prompt = f"Nutzereingabe:\n{text}"
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("is_smalltalk",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -453,7 +463,7 @@ class RAGSystem:
             "Ist die Frage fachlich Bestandteil der Lehrvideos? Antworte nur mit JA oder NEIN."
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("classify_relevance_with_llm",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -482,7 +492,7 @@ class RAGSystem:
             "Wie ist die Frage zu klassifizieren?"
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("classify_request_with_context",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -552,7 +562,7 @@ class RAGSystem:
             "Ist das eine Folgefrage oder eine neue Frage?"
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("detect_turn_type",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -583,7 +593,7 @@ class RAGSystem:
             "Antworte nur mit JA oder NEIN."
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("is_query_too_generic",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -614,7 +624,7 @@ class RAGSystem:
             "Welche thematischen Rueckfrage-Optionen eignen sich, um die Nutzerfrage zu praezisieren?"
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("build_clarification_options",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -719,7 +729,7 @@ class RAGSystem:
             "Welche Option ist am ehesten gemeint?"
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("resolve_clarification_option",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -754,7 +764,7 @@ class RAGSystem:
             "Formuliere eine kurze Themenzusammenfassung."
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("summarize_topic",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -785,7 +795,7 @@ class RAGSystem:
         fallback = "\n".join(parts)
         if len(user_query) > 1500:
             return fallback  # Preserve long user constraints without compression.
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("build_follow_up_query",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": (
@@ -853,7 +863,7 @@ class RAGSystem:
             "Welche Textstellen enthalten die eigentliche Antwort samt notwendigen Bedingungen?"
         )
 
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("select_relevant_quotes",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -908,7 +918,7 @@ class RAGSystem:
             "Sonst antworte nur mit den Nummern des ausreichenden Belegsets, z.B. 2 oder 2,4. "
             "Keine Begruendung, keine Zusammenfassung, keine neu formulierten Inhalte."
         )
-        response = self.client.chat.completions.create(
+        response = self._chat_completion("review_quote_sufficiency",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -1126,6 +1136,22 @@ class RAGSystem:
         return "Bitte antworte mit der Nummer oder formuliere kurz, welchen Aspekt du meinst."
 
     def ask(self, user_query: str) -> str:
+        self.state.last_metrics = {}
+        start = perf_counter()
+        succeeded = False
+        try:
+            answer = self._ask(user_query)
+            succeeded = True
+            return answer
+        finally:
+            self.state.last_metrics["turn_elapsed_ms"] = round((perf_counter() - start) * 1000, 3)
+            self.state.last_metrics["turn_success"] = succeeded
+            if os.getenv("RAG_LOG_METRICS", "0") == "1":
+                logger = logging.getLogger("rag.metrics")
+                logger.setLevel(logging.INFO)
+                logger.info("rag_turn_metrics %s", json.dumps(self.state.last_metrics))
+
+    def _ask(self, user_query: str) -> str:
         # Citations describe only this answer; follow-up context stays separate.
         self.state.last_citations = []
         user_query = self.normalize_whitespace(user_query)
