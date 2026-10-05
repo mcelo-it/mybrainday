@@ -592,3 +592,41 @@ von Antworten und Fehlern, Inhaltsfreiheit, getrennte Sitzungen und Begrenzung
 der Details. Providerantworten wurden simuliert. Produktionswerte wurden noch
 nicht gesammelt. Die Zusammenführung der Klassifikationsaufrufe bleibt der
 nächste Optimierungsschritt; diese Messung liefert dafür die Grundlage.
+
+## Schritt 11: Turn-Erkennung und Suchfrage in einem Aufruf
+
+Die Unterscheidung zwischen neuer Frage und Folgefrage liefert jetzt zugleich
+eine eigenständige Suchfrage. Ein gemeinsamer Modellaufruf liefert die beiden
+JSON-Felder `turn_type` und `query`. Neue Fragen werden unverändert weitergegeben.
+Einzelne Wörter wie „und“ erzwingen keine Folgefrage, wenn das Modell einen
+Themenwechsel erkennt. Ohne vorherigen Kontext entfällt dieser Aufruf.
+
+Der Plan gehört zur Sitzung, ist an die aktuelle Eingabe gebunden und wird bei
+jedem `ask` zurückgesetzt, auch bei wiederholtem identischem Wortlaut. Die
+anschließende Folgefragenverarbeitung verwendet den bereits erstellten Plan.
+Ungültiges JSON, falsche Felder oder zu lange Suchfragen führen zur lokalen
+Erkennungsheuristik zurück; es gibt keinen zusätzlichen Reparaturaufruf.
+Bei unklarem Bezug bleibt die Suchfrage leer und der bisherige Kontext wird
+zusammen mit der vollständigen aktuellen Frage für die Suche verwendet.
+
+Die bisherige Frage ist auf 1500 Zeichen, die Themenzusammenfassung auf 500
+begrenzt. Aktuelle Eingaben über 1500 Zeichen werden ohne Modellumformulierung
+heuristisch eingeordnet. Neue Zahlenwerte einschließlich Vorzeichen werden
+abgewiesen: Die gültige Einordnung bleibt erhalten, die Umformulierung entfällt.
+Diese Prüfung garantiert keine semantische Richtigkeit oder vollständige
+Erhaltung aller Bedingungen. Die Originalfrage bleibt deshalb Bestandteil
+der Folgefragensuche. Zitatauswahl und Belegprüfung laufen weiterhin separat.
+
+Bei Folgefragen, die vorher erst klassifiziert und dann umformuliert wurden,
+entfällt ein Modellaufruf (zwei werden einer). Bei bereits heuristisch erkannten
+kurzen Folgefragen bleibt es bei einem Aufruf für diese Aufgaben. Die neue
+Metrikstufe heißt `plan_turn`. Das ist keine Halbierung der gesamten Chatkosten:
+Der kombinierte Prompt kann länger sein und weitere Modellaufrufe bleiben.
+Es sind weder ein Indexneuaufbau noch eine Änderung der öffentlichen API nötig.
+
+Validierung: 32 Tests für Turn-Planung, Folgefragen, Kontextauswahl, Belegprüfung,
+Metriken und Sitzungen bestehen mit simulierten Providerantworten. Geprüft sind
+unter anderem der einzelne gemeinsame Aufruf, Themenwechsel, ungültige Antworten,
+neue Zahlenwerte und das Zurücksetzen zwischen Nachrichten. Die API-Tests wurden
+in dieser Umgebung mangels FastAPI nicht ausgeführt. Tatsächliche Laufzeit,
+Tokenverbrauch und fachliche Dialogqualität müssen im Betrieb geprüft werden.
