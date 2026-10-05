@@ -123,3 +123,51 @@ Für die UI-Prüfung müssen die referenzierten Transkripte im docs-Verzeichnis
 liegen. Der Parser ist bewusst auf das aktuelle deutsche Ausgabeformat
 beschränkt. Der Quellenfenstercheck prüft das Vorhandensein aller Chat-Zitate
 mit Metadaten; er schließt zusätzliche Karten oder Darstellungsfehler nicht aus.
+
+## Semantische und hybride Suche vergleichen
+
+Die hybride Variante kombiniert Kosinus-Ranglisten mit einer lokalen BM25-Suche
+über Originaltext und Namen von Fachbereich, Modul und Video. Reciprocal Rank
+Fusion (RRF) kombiniert Rangpositionen; BM25- und Kosinuswerte werden nicht
+addiert. Referenz zur Methode:
+https://www.elastic.co/docs/reference/elasticsearch/rest-apis/reciprocal-rank-fusion
+
+Standard bleibt `semantic`. Für einen kontrollierten Vergleich auf demselben
+vollständigen Cache beide Varianten explizit ausführen:
+
+```sh
+python -m evaluation.evaluate --live --answers --retrieval-mode semantic --output evaluation/results/semantic-answers.json
+python -m evaluation.evaluate --live --answers --retrieval-mode hybrid --output evaluation/results/hybrid-answers.json
+```
+
+Beide Befehle verursachen Embedding- und Chat-Kosten. Ohne `--answers` wird nur
+die Suche geprüft. Der CLI-Standard ist unabhängig von der Deployment-Umgebung
+immer semantisch. Replay verwendet die aufgezeichnete Variante und benötigt
+kein `--retrieval-mode`. Gleiche Fragen, Korpusversion, top-k und Relevanzschwelle
+sowie Modellversionen verwenden; zuerst Referenzabdeckung, dann finale Zitate
+und unnötige Zusatzpassagen vergleichen. Zusätzlich neue, bislang unbenutzte
+Fragen prüfen. Aus dem kleinen Entwicklungsset keinen allgemeinen Qualitätsgewinn
+ableiten. Modellantworten können zwischen Läufen variieren.
+
+Nach erfolgreicher Abnahme lässt sich im Dienst `RAG_RETRIEVAL_MODE=hybrid`
+setzen; Rückkehr mit `semantic`. Ein Neustart lädt den passenden Suchmodus.
+Die Änderung benötigt keine neuen Dokument-Embeddings. BM25 wird beim Laden
+oder Erstellen des Index im Arbeitsspeicher aufgebaut und zwischen Sitzungen
+geteilt. `/health` liefert zusätzlich `retrieval_mode` und die von Render
+bereitgestellte Commit-SHA `revision` (sonst `unknown`). So lässt sich künftig
+prüfen, welche Codeversion tatsächlich läuft. Dies ist keine Indexversion.
+
+Parameter: BM25 k1=1.5, b=0.75; gleichgewichtete RRF mit Rangkonstante 60 und
+je höchstens max(32, top-k) Kandidaten. Nur Kandidaten oberhalb der bestehenden
+Kosinus-Schwelle sind zugelassen, auf vier Dezimalstellen gerundet wie bisher.
+`score` bleibt stets die echte Kosinusähnlichkeit. Lexikalische Nulltreffer
+erhalten keine RRF-Stimme. Ohne lexikalische Treffer gilt die semantische
+Reihenfolge der schwellenberechtigten Kandidaten. Unterhalb der Schwelle
+liegende Treffer können durch BM25 nicht gerettet werden. Anders als die
+semantische Variante kann Hybrid deshalb weniger als top-k Kandidaten liefern.
+
+Tokenisierung normalisiert Groß-/Kleinschreibung, Unicode und Umlautschreibungen;
+Zahlen und Akronyme bleiben erhalten. Es gibt noch kein Stemming, keine
+Kompositazerlegung und keine Stopwortliste. Metadatennamen werden wie Text
+behandelt, nicht als harte Fachbereichsfilter. Diese Entscheidungen und die
+Rangkonstante sind Ausgangswerte, nicht anhand eines unabhängigen Testsets optimiert.

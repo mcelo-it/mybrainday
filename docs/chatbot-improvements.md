@@ -409,3 +409,47 @@ mit vier bestehenden Auswahl-, fünf Fenster- und drei Sitzungstests bestanden
 18 Tests (Modellantworten simuliert; fehlende OpenAI-/dotenv-Importbindungen
 ersetzt). Die API-abhängigen Zitatprüfungen konnten mangels FastAPI hier nicht
 geladen werden. Kein Live-Qualitätsgewinn und keine Produktionslatenz gemessen.
+
+## Schritt 7: Hybride Suche als vergleichbare Variante
+
+BM25 über Transkript und Metadatennamen ergänzt jetzt optional die semantische
+Suche. Die Ranglisten werden per Reciprocal Rank Fusion zusammengeführt.
+Relevanzwerte bleiben echte Kosinuswerte, die bestehende Schwelle wird nicht
+durch lexikalische Punkte ersetzt. Kandidaten unterhalb der Schwelle werden
+in dieser konservativen Hybridvariante ausgeschlossen. Ein neues Embedding
+des Dokumentbestands ist nicht nötig. Der zusätzliche lokale Index wird beim
+Start aufgebaut und zwischen Gesprächsinstanzen geteilt.
+
+Die Variante ist über RAG_RETRIEVAL_MODE=hybrid zuschaltbar; Standard bleibt
+semantic. Die Evaluation unterstützt --retrieval-mode und zeichnet Verfahren
+sowie Parameter auf. Abnahme und Einschränkungen stehen in evaluation/README.md.
+Die Funktion wurde noch nicht mit dem vollständigen Produktionsindex verglichen;
+ein verbesserter Recall wird ausdrücklich nicht behauptet.
+
+Eine erneute Live-Stichprobe am 4. Oktober zeigte weiterhin eine nicht
+beantwortende Leerlaufstrom-Passage und elf Zitate zur N-Bezeichnung. PR #8 war
+gemergt, aber die bereitgestellte Revision nicht feststellbar. Daraus lässt
+sich keine Wirkung des neuen Prüfpasses ableiten. Die Rohbeobachtungen liegen
+in evaluation/results/live-followup-2026-10-04.json. /health enthält künftig
+Commit-SHA und Suchmodus, um diese Unsicherheit bei weiteren Prüfungen zu reduzieren.
+Render dokumentiert RENDER_GIT_COMMIT unter https://render.com/docs/environment-variables.
+
+Validierung: 42 Tests bestanden, davon zehn neue Prüfungen für BM25, Fusion,
+Schwelle, echte Scores, geteilten Index und erneuten Indexaufbau. Bestehende
+Auswahl-, Evaluations-, Sitzungs- und Fensterprüfungen liefen mit. Modellantworten
+waren simuliert, fehlende OpenAI-/dotenv-Importbindungen wurden ersetzt. Die
+FastAPI-Suite bleibt hier mangels Abhängigkeiten offen.
+
+## Aktueller Stand der offenen Etappen
+
+| Bereich | Stand |
+| --- | --- |
+| Sitzungen, direkte Zitate, Fachbereiche, Quellenfenster | Implementiert; Quellenfenster und Originalzitate live geprüft |
+| Nachbarsegmente und Prüfung der Zitatauswahl | Implementiert; Qualitätsabnahme des zweiten Prüfpasses offen |
+| Evaluation | Entwicklungsset und Live-Befunde vorhanden; fachlich abgenommenes unabhängiges Testset fehlt |
+| Vektorisierte und hybride Suche | Vektorisierung integriert; Hybrid als zuschaltbare Vergleichsvariante, Vollkorpus-Abnahme offen |
+| Metadaten in Embeddings, Fingerprint und Indexversion | Offen; Metadaten bisher nur im Auswahlkontext und optionalen BM25-Index |
+| Reranking und Beantwortbarkeit | Zweiter Prüfpass vorhanden; Kalibrierung und Qualitätsvergleich offen |
+| Eigenständige Suchfragen für Folgefragen | Weitergehende Optimierung offen |
+| Router-Aufrufe bündeln, strukturierte Klassifikationen | Offen |
+| Latenz, Qualität und Modellverbrauch | Evaluation teilweise vorhanden; Produktionsmessung und Kosteninstrumentierung offen |

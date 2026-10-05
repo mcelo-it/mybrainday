@@ -75,6 +75,8 @@ def main():
     parser.add_argument("--rankings", type=Path, help="Previously recorded rankings JSON")
     parser.add_argument("--live", action="store_true", help="Create paid query embeddings via OpenAI")
     parser.add_argument("--answers", action="store_true", help="Also run the full chatbot with paid chat calls; fresh session per question")
+    parser.add_argument("--retrieval-mode", choices=["semantic", "hybrid"], default=None,
+                        help="Live retrieval variant; defaults to semantic, independent of deployment environment")
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--top-k", type=int, default=8)
     parser.add_argument("--min-score", type=float, default=0.30)
@@ -85,6 +87,8 @@ def main():
         parser.error("--top-k must be positive")
     if args.answers and not args.live:
         parser.error("--answers requires --live; recorded answers are replayed automatically")
+    if args.retrieval_mode and not args.live:
+        parser.error("Replay uses the recorded retrieval mode; omit --retrieval-mode")
     dataset = json.loads(args.dataset.read_text(encoding="utf-8"))
     chunks = json.loads((args.cache_dir / "chunks.json").read_text(encoding="utf-8"))
     validate_dataset(dataset, chunks)  # Fail before any paid requests.
@@ -95,7 +99,8 @@ def main():
         from backend.rag_utils import RAGSystem
         meta = json.loads((args.cache_dir / "meta.json").read_text(encoding="utf-8"))
         rag = RAGSystem(cache_dir=str(args.cache_dir.resolve()), embedding_model=meta["embedding_model"],
-                        retrieval_top_k=args.top_k, min_similarity_score=args.min_score)
+                        retrieval_top_k=args.top_k, min_similarity_score=args.min_score,
+                        retrieval_mode=args.retrieval_mode or "semantic")
         # Explicit CLI path wins over deployment environment defaults.
         rag.cache_dir = args.cache_dir.resolve()
         rag.chunks_file = rag.cache_dir / "chunks.json"
@@ -119,6 +124,9 @@ def main():
         provenance = {"corpus_sha256": digest, "dataset_sha256": dataset_digest,
                       "embedding_model": meta["embedding_model"], "top_k": args.top_k,
                       "chat_model": rag.chat_model if args.answers else None,
+                      "retrieval_mode": args.retrieval_mode or "semantic",
+                      "lexical_config": {"k1": 1.5, "b": 0.75, "rank_constant": 60, "rank_window": max(32, args.top_k)}
+                          if args.retrieval_mode == "hybrid" else None,
                       "mode": "end_to_end" if args.answers else "retrieval"}
     else:
         recorded = json.loads(args.rankings.read_text(encoding="utf-8"))

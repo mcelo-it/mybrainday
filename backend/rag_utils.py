@@ -10,11 +10,13 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 if __package__:
+    from .lexical import BM25Index, hybrid_indices
     from .retrieval import embedding_norms, cosine_scores, ranked_indices
     from .conversation import ConversationState
     from .context_windows import expand_context, relevance_score
     from .citations import citation_from_chunk, format_citation_source, subject_area
 else:
+    from lexical import BM25Index, hybrid_indices
     from retrieval import embedding_norms, cosine_scores, ranked_indices
     from conversation import ConversationState
     from context_windows import expand_context, relevance_score
@@ -35,6 +37,7 @@ class RAGSystem:
         max_chunks: Optional[int] = None,
         retrieval_top_k: int = 8,
         min_similarity_score: float = 0.30,
+        retrieval_mode: Optional[str] = None,
     ):
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         backend_dir = Path(__file__).resolve().parent
@@ -58,6 +61,10 @@ class RAGSystem:
         self.max_chunks = max_chunks
         self.retrieval_top_k = retrieval_top_k
         self.min_similarity_score = min_similarity_score
+        self.retrieval_mode = retrieval_mode if retrieval_mode is not None else os.getenv("RAG_RETRIEVAL_MODE", "semantic")
+        if self.retrieval_mode not in {"semantic", "hybrid"}:
+            raise ValueError("RAG_RETRIEVAL_MODE muss semantic oder hybrid sein.")
+        self._lexical_index = None
 
         self.documents: List[Dict[str, Any]] = []
         self.chunks: List[Dict[str, Any]] = []
@@ -216,6 +223,7 @@ class RAGSystem:
 
         self.embeddings = np.array(vectors, dtype=np.float32)
         self._embedding_norms = embedding_norms(self.embeddings)
+        self.prepare_lexical_index()
         print("Inhaltsindex erfolgreich erstellt.")
 
 
@@ -258,9 +266,19 @@ class RAGSystem:
         if len(self.embeddings) != len(self.chunks):
             raise ValueError("Index und Videoausschnitte haben unterschiedliche Längen.")
         self._embedding_norms = embedding_norms(self.embeddings)
+        self.prepare_lexical_index()
 
         print(f"Index geladen aus: {self.cache_dir}")
         print(f"{len(self.chunks)} Videoausschnitte stehen bereit.")
+
+    def prepare_lexical_index(self) -> None:
+        self._lexical_index = None
+        if self.retrieval_mode == "hybrid":
+            self._lexical_index = BM25Index([
+                " ".join([subject_area(c.get("module_number", ""))["subject_area_name"],
+                          c.get("module_name", ""), c.get("video_name", ""), c["text"]])
+                for c in self.chunks
+            ])
 
     @staticmethod
     def cosine_similarity(vec_a: np.ndarray, vec_b: np.ndarray) -> float:
@@ -283,9 +301,16 @@ class RAGSystem:
         query_vector = np.array(query_response.data[0].embedding, dtype=np.float32)
 
         scores = cosine_scores(self.embeddings, query_vector, self._embedding_norms)
+        if self.retrieval_mode == "hybrid":
+            if self._lexical_index is None or self._lexical_index.size != len(self.chunks):
+                raise ValueError("Lexikalischer Index fehlt oder passt nicht zum Korpus.")
+            indices = hybrid_indices(scores, self._lexical_index.scores(query), top_k,
+                                     min_score=self.min_similarity_score)
+        else:
+            indices = ranked_indices(scores, top_k)
 
         results = []
-        for idx in ranked_indices(scores, top_k):
+        for idx in indices:
             chunk = self.chunks[idx].copy()
             chunk["score"] = round(float(scores[idx]), 4)
             results.append(chunk)
