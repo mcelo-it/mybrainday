@@ -520,3 +520,45 @@ Quellen/Modelle, verfälschte Vektoren/Zeitstellen, fehlende/teilweise Caches un
 abgebrochene Schreibvorgänge. Zusammen mit bisherigen relevanten Prüfungen
 49 Tests bestanden; Modellantworten simuliert, fehlende OpenAI-/dotenv-Bindungen
 ersetzt. Vollständige FastAPI- und echte Produktionsindex-Abnahme weiterhin offen.
+
+## Schritt 9: Eigenständige Suchfragen aus Folgefragen
+
+Die Repository-Indexprüfung im GitHub-Workflow ist inzwischen erfolgreich
+durchgelaufen: https://github.com/mcelo-it/mybrainday/actions/runs/37286187009.
+Das belegt den erfolgreichen Prüflauf für den dort ausgecheckten Bestand,
+nicht einen gegebenenfalls separat veränderten Render-Cache.
+
+Kurze Folgefragen mit vorhandenem Gesprächskontext werden nun vor der
+Quellensuche in eine eigenständige Suchfrage umformuliert. Beispiel:
+„Und bei niedriger Temperatur?“ kann mit einem zuvor eindeutig genannten
+PV-Modul zu einer Frage nach dessen Leerlaufspannung bei niedriger Temperatur
+werden. Der Modellauftrag verlangt den Erhalt von Bedingungen, Negationen
+und Vergleichspartnern und verbietet Antworten oder Ergänzungen aus Vorwissen.
+
+Die Ausgabe wird als JSON mit genau resolved (Boolean) und query (String)
+validiert. Ein ungelöster Bezug, ungültige Ausgabe, leere/zu lange Frage oder
+neu eingeführte Zahlen führt zum begrenzten bisherigen Kontextformat zurück.
+Das löst eine verbleibende Mehrdeutigkeit nicht automatisch; die bestehenden
+Klassifikations-/Rückfragepfade arbeiten damit weiter. Die numerische Kontrolle
+ist kein semantischer Beweis gegen erfundene Bedingungen oder Bedeutungsverlust.
+
+Maximal 1.500 Zeichen vorherige Frage und 500 Zeichen Themenzusammenfassung
+gehen in den Zusatzaufruf ein. Die aktuelle Nutzerfrage bleibt vollständig
+erhalten und wird neben der Suchfrage an die Auswahl weitergegeben. Fragen
+über 1.500 Zeichen werden nicht umformuliert. Ohne vorherigen Kontext entfällt
+der Zusatzaufruf ebenfalls. Frühere Fallback-Formate werden nicht rekursiv
+ineinander verschachtelt. Die echte Chatantwort bleibt aus Originalzitaten
+zusammengesetzt; die Umformulierung dient nur der internen Suche und Auswahl.
+
+Kosten: höchstens ein zusätzlicher Chat-Aufruf je solcher Folgefrage. Echte
+Providerfehler werden über die vorhandene Fehlerbehandlung weitergereicht;
+der Fallback gilt für ungültige inhaltliche Ausgaben, nicht als versteckte
+Umgehung von API-Ausfällen. Eine spätere Bündelung mit der Turn-Klassifikation
+bleibt offen. Kein neuer Embedding-Index erforderlich.
+
+Validierung: Sechs neue Tests plus vier Auswahl-, sechs Zitatprüfungs- und drei
+Sitzungstests bestanden (19 insgesamt, simulierte Modellantworten und ersetzte
+Provider-Importbindungen). Nachweise betreffen Datenfluss, Grenzen und Fallbacks,
+nicht fachliche Modellqualität. Das bisherige Einzelanfragen-Testset genügt
+nicht zur Abnahme: zusätzlich Dialogfolgen mit Verweisen, Themenwechseln,
+Negationen, mehrdeutigen Bezügen und geänderten Zahlenbedingungen prüfen.
