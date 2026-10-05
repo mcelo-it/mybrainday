@@ -100,7 +100,7 @@ def frontend_js() -> FileResponse:
 @app.get("/health")
 def health() -> Dict[str, str]:
     return {"status": "ok", "revision": os.getenv("RENDER_GIT_COMMIT", "unknown"),
-            "retrieval_mode": rag.retrieval_mode}
+            "retrieval_mode": rag.retrieval_mode, **rag.index_status}
 
 
 @app.get("/videos")

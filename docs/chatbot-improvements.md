@@ -453,3 +453,70 @@ FastAPI-Suite bleibt hier mangels Abhängigkeiten offen.
 | Eigenständige Suchfragen für Folgefragen | Weitergehende Optimierung offen |
 | Router-Aufrufe bündeln, strukturierte Klassifikationen | Offen |
 | Latenz, Qualität und Modellverbrauch | Evaluation teilweise vorhanden; Produktionsmessung und Kosteninstrumentierung offen |
+
+## Schritt 8: Indexmanifest und Konsistenzprüfung
+
+Neue Caches erhalten ein Manifest mit Formatversion, Text-Eingabeformat,
+Embedding-Modell, Segmentierung, Matrixform und Datentyp sowie SHA-256-Prüfsummen
+für Quellen, Chunks und Embeddings. Daraus wird eine reproduzierbare index_id
+gebildet. Chat-Modell, top-k und Relevanzschwelle sind keine Embedding-Eingaben
+und ändern die Index-ID nicht. Die bisherigen Embeddings enthalten weiterhin
+nur Transkripttext; Metadaten in Embeddings sind ein separater offener Schritt.
+
+Beim Laden werden die aktuellen Transkripte mit dem produktiven Parser erneut
+segmentiert und mit den gespeicherten Chunks verglichen. Erst nach erfolgreicher
+Prüfung werden Daten in die RAG-Instanz übernommen. Modellwechsel, veränderte
+Zeitstellen, beschädigte Embeddings gleicher Form und unvollständige Dateien
+führen zu einem CacheValidationError statt einem stillen Weiterbetrieb oder
+automatischen kostenpflichtigen Neuaufbau. Nur ein vollständig fehlender Cache
+löst weiterhin den bisherigen automatischen Erstaufbau beim Serverstart aus.
+
+Bestehende Caches ohne Manifest werden auf aktuelle Quellen, Modell,
+Segmentierung, Matrixdimensionen und endliche Werte geprüft. Sie bleiben als
+legacy-structural-only gekennzeichnet: Ohne historische Prüfsummen lässt sich
+die Zuordnung der vorhandenen Vektoren zu den Texten nicht nachträglich beweisen.
+Es wird deshalb kein scheinbar verifiziertes Manifest automatisch nachgetragen.
+Neue Caches sind verified; /health und Evaluationsberichte enthalten den Status.
+Ein Manifest beweist Dateikonsistenz, nicht fachliche Qualität oder kryptografisch
+authentische Herkunft. Wer Daten und Manifest gemeinsam ändern kann, kann auch
+die Prüfsummen ersetzen.
+
+Beim Speichern wird zunächst ein unvollständiges Manifest atomar veröffentlicht,
+dann werden Daten ersetzt, zuletzt das fertige Manifest. Ein abgebrochener
+Schreibvorgang hinterlässt einen erkennbar unvollständigen Cache. Das ist keine
+vollständig atomare Mehrdatei-Transaktion und kein automatischer Rollback: Bei
+Speicherfehlern kann ein kontrollierter Wiederaufbau bzw. Backup-Restore nötig
+sein. Laufende Anfragen behalten über den bestehenden Snapshot-Mechanismus
+ihren alten Speicherindex. Nach einem Prozessneustart wird ein unvollständiger
+Cache abgewiesen. Gleichzeitige unabhängige Cache-Schreiber sind nicht unterstützt.
+
+### Betrieb und Migration
+
+Ein bestehender Legacy-Cache muss nicht allein für dieses Update neu eingebettet
+werden, sofern seine Struktur mit dem aktuellen Bestand übereinstimmt. Zur
+vollständigen Verifizierung ist ein bewusst gestarteter Neuaufbau erforderlich.
+Das verursacht Embedding-Kosten. Ein startfähiger Dienst kann dafür den bereits
+geschützten /rebuild-Endpunkt verwenden. Startet der Dienst wegen eines ungültigen
+Caches nicht, kann dieser Endpunkt nicht genutzt werden. Dann den alten Cache
+zunächst sichern und im konfigurierten Projekt bei gestopptem Server ausführen:
+
+```python
+from backend.rag_utils import RAGSystem
+rag = RAGSystem()
+rag.load_documents()
+rag.build_chunks()
+rag.create_embeddings()  # kostenpflichtig: kompletter ausgewählter Dokumentbestand
+rag.save_cache()
+```
+
+Keinen Neuaufbau parallel zu einem weiteren Cache-Schreiber starten. Alternativ
+einen vollständigen passenden Cache aus einem Backup wiederherstellen. Fehler
+nicht durch manuelles Entfernen des Manifests umgehen. Die Prüfung liest beim
+Start den gesamten Index und die ausgewählten Transkripte; dadurch steigen
+Startaufwand und kurzzeitig der Speicherbedarf, nicht die Anzahl von API-Aufrufen.
+
+Validierung: Sieben neue Tests für Roundtrip, Legacy-Kompatibilität, geänderte
+Quellen/Modelle, verfälschte Vektoren/Zeitstellen, fehlende/teilweise Caches und
+abgebrochene Schreibvorgänge. Zusammen mit bisherigen relevanten Prüfungen
+49 Tests bestanden; Modellantworten simuliert, fehlende OpenAI-/dotenv-Bindungen
+ersetzt. Vollständige FastAPI- und echte Produktionsindex-Abnahme weiterhin offen.
