@@ -1,0 +1,25 @@
+name: Suchindex pruefen
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Python bereitstellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pruefabhaengigkeiten installieren
+        run: python -m pip install numpy openai python-dotenv
+      - name: Cache nur lesen und pruefen
+        run: python -m backend.check_index

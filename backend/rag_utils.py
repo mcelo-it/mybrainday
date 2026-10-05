@@ -42,8 +42,9 @@ class RAGSystem:
         retrieval_top_k: int = 8,
         min_similarity_score: float = 0.30,
         retrieval_mode: Optional[str] = None,
+        initialize_client: bool = True,
     ):
-        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY")) if initialize_client else None
         backend_dir = Path(__file__).resolve().parent
         repo_root = backend_dir.parent
 
