@@ -105,6 +105,7 @@ def main():
         rag.cache_dir = args.cache_dir.resolve()
         rag.chunks_file = rag.cache_dir / "chunks.json"
         rag.embeddings_file = rag.cache_dir / "embeddings.npy"
+        rag.meta_file = rag.cache_dir / "meta.json"
         rag.load_cache()
         runs = {}
         if args.answers:
@@ -122,6 +123,7 @@ def main():
             runs[case["id"]] = [dict(filename=c["filename"], time_range=c["time_range"], score=c["score"])
                                 for c in retrieved]
         provenance = {"corpus_sha256": digest, "dataset_sha256": dataset_digest,
+                      "index_status": getattr(rag, "index_status", {"index_validation": "unknown"}),
                       "embedding_model": meta["embedding_model"], "top_k": args.top_k,
                       "chat_model": rag.chat_model if args.answers else None,
                       "retrieval_mode": args.retrieval_mode or "semantic",

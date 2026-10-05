@@ -1,4 +1,6 @@
 import os
+import tempfile
+import warnings
 from copy import copy
 import re
 import json
@@ -10,12 +12,14 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 if __package__:
+    from .index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from .lexical import BM25Index, hybrid_indices
     from .retrieval import embedding_norms, cosine_scores, ranked_indices
     from .conversation import ConversationState
     from .context_windows import expand_context, relevance_score
     from .citations import citation_from_chunk, format_citation_source, subject_area
 else:
+    from index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from lexical import BM25Index, hybrid_indices
     from retrieval import embedding_norms, cosine_scores, ranked_indices
     from conversation import ConversationState
@@ -65,6 +69,7 @@ class RAGSystem:
         if self.retrieval_mode not in {"semantic", "hybrid"}:
             raise ValueError("RAG_RETRIEVAL_MODE muss semantic oder hybrid sein.")
         self._lexical_index = None
+        self.index_status = {"index_id": "not-loaded", "index_validation": "not-loaded"}
 
         self.documents: List[Dict[str, Any]] = []
         self.chunks: List[Dict[str, Any]] = []
@@ -230,11 +235,6 @@ class RAGSystem:
     def save_cache(self) -> None:
         self.cache_dir.mkdir(parents=True, exist_ok=True)
 
-        with open(self.chunks_file, "w", encoding="utf-8") as f:
-            json.dump(self.chunks, f, ensure_ascii=False, indent=2)
-
-        np.save(self.embeddings_file, self.embeddings)
-
         meta = {
             "embedding_model": self.embedding_model,
             "chat_model": self.chat_model,
@@ -247,24 +247,55 @@ class RAGSystem:
             "chunking_strategy": "timestamp_segments",
         }
 
-        with open(self.meta_file, "w", encoding="utf-8") as f:
-            json.dump(meta, f, ensure_ascii=False, indent=2)
+        record = manifest(self.chunks, self.embeddings, self.documents, self.embedding_model)
+        meta["index_manifest"] = record
+        expected = self.for_conversation(ConversationState())
+        expected.load_documents()
+        expected.build_chunks()
+        validate_index(meta, self.chunks, self.embeddings, expected.chunks, expected.documents, self.embedding_model)
+        # Publish an explicit incomplete marker before replacing any data file.
+        # Interrupted writes cannot look like a valid mixed-generation cache.
+        write_json_atomic(self.meta_file, {**meta, "index_manifest": {"state": "incomplete"}})
+        write_json_atomic(self.chunks_file, self.chunks)
+        with tempfile.NamedTemporaryFile(dir=self.cache_dir, delete=False) as file:
+            temporary = Path(file.name)
+            try:
+                np.save(file, self.embeddings, allow_pickle=False)
+                file.flush()
+                os.fsync(file.fileno())
+            except BaseException:
+                temporary.unlink(missing_ok=True)
+                raise
+        try:
+            os.replace(temporary, self.embeddings_file)
+        finally:
+            temporary.unlink(missing_ok=True)
+        write_json_atomic(self.meta_file, meta)
+        self.index_status = {"index_id": record["index_id"], "index_validation": "verified"}
 
         print(f"Index gespeichert in: {self.cache_dir}")
 
     def load_cache(self) -> None:
-        if not self.chunks_file.exists():
-            raise FileNotFoundError(f"Cache-Datei fehlt: {self.chunks_file}")
-
-        if not self.embeddings_file.exists():
-            raise FileNotFoundError(f"Cache-Datei fehlt: {self.embeddings_file}")
-
-        with open(self.chunks_file, "r", encoding="utf-8") as f:
-            self.chunks = json.load(f)
-
-        self.embeddings = np.load(self.embeddings_file)
-        if len(self.embeddings) != len(self.chunks):
-            raise ValueError("Index und Videoausschnitte haben unterschiedliche Längen.")
+        paths = [self.chunks_file, self.embeddings_file, self.meta_file]
+        if not any(p.exists() for p in paths):
+            raise FileNotFoundError("Kein gespeicherter Index vorhanden.")
+        if not all(p.exists() for p in paths):
+            raise CacheValidationError("Indexdateien sind unvollständig; kein automatischer kostenpflichtiger Neuaufbau.")
+        try:
+            chunks = json.loads(self.chunks_file.read_text(encoding="utf-8"))
+            meta = json.loads(self.meta_file.read_text(encoding="utf-8"))
+            vectors = np.load(self.embeddings_file, allow_pickle=False)
+            expected = self.for_conversation(ConversationState())
+            expected.load_documents()
+            expected.build_chunks()
+            status = validate_index(meta, chunks, vectors, expected.chunks, expected.documents, self.embedding_model)
+        except (OSError, ValueError, TypeError, KeyError, AttributeError) as error:
+            raise CacheValidationError(f"Suchindex kann nicht validiert werden: {error}") from error
+        self.chunks, self.embeddings = chunks, vectors
+        self.documents = expected.documents
+        self.index_status = status
+        if status["index_validation"] != "verified":
+            warnings.warn("Legacy-Index strukturell geprüft; Embedding-Herkunft nicht durch Hashes belegt.", RuntimeWarning)
         self._embedding_norms = embedding_norms(self.embeddings)
         self.prepare_lexical_index()
 
