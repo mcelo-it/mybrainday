@@ -1,4 +1,5 @@
 import unittest
+import json
 from types import SimpleNamespace
 from unittest.mock import Mock
 
@@ -20,6 +21,12 @@ class ContextSelectionTests(unittest.TestCase):
         self.rag.client = Mock()
         self.rag.client.chat.completions.create.return_value = SimpleNamespace(
             choices=[SimpleNamespace(message=SimpleNamespace(content="3"))])
+        def model_reply(**kwargs):
+            raw = self.rag.client.chat.completions.create.return_value.choices[0].message.content
+            if raw == "3" and "evidence" in kwargs["messages"][0]["content"]:
+                raw = json.dumps({"selected": [3], "evidence": [{"source": 3, "span": self.rag.chunks[2]["text"]}]})
+            return SimpleNamespace(choices=[SimpleNamespace(message=SimpleNamespace(content=raw))])
+        self.rag.client.chat.completions.create.side_effect = model_reply
         self.rag.retrieve = Mock(return_value=[dict(self.rag.chunks[1], score=0.8)])
         self.rag.classify_request_with_context = Mock(return_value="DOMAIN_SPECIFIC")
         self.rag.summarize_topic = Mock(return_value="Spannung bei XY")

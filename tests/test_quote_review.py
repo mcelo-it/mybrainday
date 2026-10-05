@@ -1,5 +1,7 @@
 """Contract tests with simulated model outputs, not a live quality benchmark."""
 import unittest
+import json
+import re
 from types import SimpleNamespace
 from unittest.mock import Mock
 
@@ -28,7 +30,13 @@ class QuoteReviewTests(unittest.TestCase):
         ])]
 
     def outputs(self, *values):
-        self.rag.client.chat.completions.create.side_effect = [response(v) for v in values]
+        outputs = list(values)
+        if len(outputs) > 1 and re.fullmatch(r"\d+(?:,\d+)*", outputs[1]):
+            selected = [int(i) for i in outputs[1].split(",")]
+            outputs[1] = json.dumps({"selected": selected, "evidence": [
+                {"source": i, "span": self.candidates[i-1]["text"]}
+                for i in selected if 1 <= i <= len(self.candidates)]})
+        self.rag.client.chat.completions.create.side_effect = [response(v) for v in outputs]
 
     def test_review_removes_extras_but_keeps_condition_and_value(self):
         self.outputs("1,2,3,4", "3,2")
@@ -77,6 +85,23 @@ class QuoteReviewTests(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             self.rag.answer_specific_question("Spannung?", self.candidates)
         self.assertEqual(self.rag.state.last_citations, [])
+
+    def test_rejected_local_topic_quote_triggers_global_search(self):
+        local = dict(segment(0, text='Kurzschlussstrom und Leerlaufspannung sind Teil der Kennlinie.'), score=.8)
+        answer = dict(segment(0, filename='other-video.txt', text='Beim Kurzschluss haben wir null Volt.'), score=.7)
+        self.rag.chunks = [local, answer]
+        self.rag.retrieval_top_k = 16
+        self.rag.state.last_selected_chunks = [local]
+        self.rag.retrieve = Mock(return_value=[answer])
+        self.rag.classify_request_with_context = Mock(return_value='DOMAIN_SPECIFIC')
+        self.rag.client.chat.completions.create.side_effect = [
+            response('1'), response(json.dumps({'selected':[1], 'evidence':[{'source':1,'span':local['text']}]})),
+            response('1'), response(json.dumps({'selected':[1], 'evidence':[{'source':1,'span':answer['text']}]})),
+        ]
+        result = self.rag.handle_follow_up('Wie groß ist die Spannung beim Kurzschluss?')
+        self.rag.retrieve.assert_called_once()
+        self.assertIn(answer['text'], result)
+        self.assertNotIn(local['text'], result)
 
 
 if __name__ == "__main__":

@@ -4,6 +4,9 @@ import re
 import unicodedata
 import numpy as np
 
+# Query-only function words; negations, numbers and technical terms remain.
+QUERY_STOP_WORDS = set("wie viel gross groß hoch welche welcher welches welchen was ist sind sollte sollten wird werden der die das den dem des ein eine einer eines einem einen bei beim im in am an auf aus fuer für von vom zu zum zur und oder es sein".split())
+
 
 def tokenize(text):
     normalized = unicodedata.normalize("NFKC", text).casefold()
@@ -35,7 +38,7 @@ class BM25Index:
 
     def scores(self, query):
         scores = np.zeros(self.size, dtype=float)
-        for term in set(tokenize(query)):
+        for term in set(tokenize(query)) - QUERY_STOP_WORDS:
             posting = self.postings.get(term)
             if posting is not None:
                 indices, frequencies, idf = posting
@@ -63,4 +66,13 @@ def hybrid_indices(semantic_scores, lexical_scores, top_k, min_score=0.30, windo
     for ranking in (semantic, lexical):
         for rank, index in enumerate(ranking, 1):
             fused[index] += 1.0 / (rank_constant + rank)
-    return sorted(fused, key=lambda i: (-fused[i], -float(semantic_scores[i]), i))[:top_k]
+    ranking = sorted(fused, key=lambda i: (-fused[i], -float(semantic_scores[i]), i))
+    # Preserve complementary lexical recall even outside the semantic rank window.
+    # The final budget stays top_k and every reserved item still passes cosine.
+    reserved = lexical[:min(len(lexical), max(1, top_k // 2))] if top_k else []
+    chosen = set(reserved)
+    for index in ranking:
+        if len(chosen) >= top_k:
+            break
+        chosen.add(index)
+    return [index for index in ranking if index in chosen]

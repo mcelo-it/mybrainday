@@ -196,3 +196,15 @@ oder Fehlermeldungstexte. Providerfehler werden weiterhin weitergereicht. Da ein
 fehlgeschlagener API-Turn seinen Sitzungszustand zurückrollt, bleiben solche
 Metriken nur mit aktiviertem Logging im Dienstlog erhalten. Der öffentliche
 /chat-Antwortvertrag bleibt unverändert.
+
+
+## Aktualisierung nach Live-Diagnose
+
+Der Webdienst nutzt jetzt ohne Umgebungsüberschreibung Hybrid mit 16 Treffern.
+Für einen vergleichbaren CLI-Lauf `--retrieval-mode hybrid --top-k 16` setzen.
+Die Hybridvariante reserviert bis zur Hälfte ihrer Plätze für positive
+BM25-Treffer oberhalb der Kosinus-Schwelle und füllt mit RRF auf. Häufige
+Frage-/Funktionswörter werden in BM25-Suchanfragen entfernt. Damit ersetzen
+diese Regeln die oben beschriebene reine RRF-Auswahl ohne Stopwortfilter.
+Kontextnachbarn werden erst nach allen direkten Treffern hinzugefügt.
+Details, Risiken und Testgrenzen: `docs/retrieval-evidence-fix.md`.
