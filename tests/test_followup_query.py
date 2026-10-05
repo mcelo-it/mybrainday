@@ -15,11 +15,12 @@ class FollowupQueryTests(unittest.TestCase):
         self.rag.client = Mock()
 
     def output(self, raw):
+        self.rag.state.turn_plan = None
         self.rag.client.chat.completions.create.return_value = SimpleNamespace(
             choices=[SimpleNamespace(message=SimpleNamespace(content=raw))])
 
     def test_resolved_query_preserves_original_followup(self):
-        self.output(json.dumps({"resolved": True, "query": "Wie verändert sich die Leerlaufspannung bei niedriger Temperatur?"}))
+        self.output(json.dumps({"turn_type": "FOLLOW_UP", "query": "Wie verändert sich die Leerlaufspannung bei niedriger Temperatur?"}))
         result = self.rag.build_follow_up_query("Und bei niedriger Temperatur?")
         self.assertIn("Suchfrage: Wie verändert sich die Leerlaufspannung", result)
         self.assertIn("Originale Folgefrage: Und bei niedriger Temperatur?", result)
@@ -35,7 +36,7 @@ class FollowupQueryTests(unittest.TestCase):
                 self.assertIn("Folgefrage: Und dort?", result)
 
     def test_new_numeric_condition_is_rejected(self):
-        self.output('{"resolved":true,"query":"Wie hoch ist die Spannung bei -20 Grad?"}')
+        self.output('{"turn_type":"FOLLOW_UP","query":"Wie hoch ist die Spannung bei -20 Grad?"}')
         result = self.rag.build_follow_up_query("Und bei Kälte?")
         self.assertNotIn("20", result)
         self.assertIn("Folgefrage: Und bei Kälte?", result)
