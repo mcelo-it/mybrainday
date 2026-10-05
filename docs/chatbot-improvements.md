@@ -562,3 +562,33 @@ Provider-Importbindungen). Nachweise betreffen Datenfluss, Grenzen und Fallbacks
 nicht fachliche Modellqualität. Das bisherige Einzelanfragen-Testset genügt
 nicht zur Abnahme: zusätzlich Dialogfolgen mit Verweisen, Themenwechseln,
 Negationen, mehrdeutigen Bezügen und geänderten Zahlenbedingungen prüfen.
+
+## Schritt 10: Modellaufrufe, Tokens und Laufzeiten messen
+
+Chat- und Query-Embedding-Aufrufe werden jetzt je Gesprächsrunde gemessen.
+Die Aufrufstufe entspricht der ausführenden RAG-Methode, etwa Klassifikation,
+Folgefragenumformulierung, Zitatauswahl oder Beantwortbarkeitsprüfung. Erfasst
+werden Modell, Erfolg, Laufzeit und vom Anbieter gelieferte Tokenangaben.
+Die gesamte RAG-Laufzeit wird separat gemessen. SDK-interne Retries sind in
+der Zeit enthalten, aber nicht als zusätzliche logische Aufrufe gezählt.
+
+Metriken liegen im sitzungsspezifischen ConversationState und werden bei jedem
+ask-Aufruf neu begonnen. Maximal 64 Einzeldetails werden behalten; Summen zählen
+auch weitere Aufrufe. Dokument-Embedding-Neuaufbauten gehören nicht zu diesen
+Turn-Metriken. Fehlende Usage-Werte sind unbekannt statt behauptete Nullkosten.
+Es werden weder Dollarpreise berechnet noch Prompts, Zitate, Sitzungskennungen
+oder Fehlertexte in den Metriken gespeichert.
+
+Die End-to-End-Evaluation speichert Messdaten pro Antwort. Optional kann
+RAG_LOG_METRICS=1 sie auch in Dienstlogs ausgeben; standardmäßig ist das aus.
+Öffentliche API-Antworten bleiben unverändert. Fehlgeschlagene Turns rollen
+weiterhin ihren Sitzungszustand zurück, die optionale Logausgabe geschieht
+vor diesem Rollback. Siehe evaluation/README.md für die Messgrenzen.
+
+Validierung: Sechs neue Metriktests sowie relevante Folgefragen-, Auswahl-,
+Sitzungs-, Evaluations- und Retrievaltests bestehen, insgesamt 35. Geprüft
+sind gemeldete/unbekannte Usage, Laufzeit mit kontrollierter Uhr, Weitergabe
+von Antworten und Fehlern, Inhaltsfreiheit, getrennte Sitzungen und Begrenzung
+der Details. Providerantworten wurden simuliert. Produktionswerte wurden noch
+nicht gesammelt. Die Zusammenführung der Klassifikationsaufrufe bleibt der
+nächste Optimierungsschritt; diese Messung liefert dafür die Grundlage.

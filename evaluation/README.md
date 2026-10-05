@@ -171,3 +171,28 @@ Zahlen und Akronyme bleiben erhalten. Es gibt noch kein Stemming, keine
 Kompositazerlegung und keine Stopwortliste. Metadatennamen werden wie Text
 behandelt, nicht als harte Fachbereichsfilter. Diese Entscheidungen und die
 Rangkonstante sind Ausgangswerte, nicht anhand eines unabhängigen Testsets optimiert.
+
+## Modellverbrauch und Zeitmessung
+
+Ein Lauf mit `--live --answers` enthält pro Antwort unter `responses[ID].metrics`
+die einzelnen Modellaufrufe, deren Stufe, Modell, Dauer und verfügbare Usage-Werte.
+`turn_elapsed_ms` misst den gesamten RAG-Aufruf einschließlich lokaler Arbeit;
+Netzwerk vom Browser, UI-Rendering und Warteschlange vor dem RAG-Aufruf sind nicht
+enthalten. `model_calls` zählt SDK-Aufrufe; interne SDK-Retries sind keine separaten
+Einträge, ihre Zeit ist in der Dauer enthalten. Dokument-Embedding-Neuaufbauten
+werden nicht als Chat-Verbrauch erfasst.
+
+`reported_*_tokens` summiert ausschließlich gemeldete Werte. Unbekannte Werte
+sind in Einzelaufrufen null, und `usage_missing_calls` zählt Aufrufe ohne
+Gesamttokenangabe. Diese Summen sind bei fehlenden Daten keine vollständige
+Verbrauchsabrechnung. Prompt-Caching, Modellpreise und Gebühren werden nicht
+berechnet. Ein fehlgeschlagener Aufruf kann trotz fehlender Usage Kosten verursacht
+haben. Replay zeigt gespeicherte Messdaten, keine neue Zeitmessung.
+
+Für den Dienst optional `RAG_LOG_METRICS=1` setzen. Pro RAG-Aufruf wird dann ein
+JSON-Eintrag mit Präfix `rag_turn_metrics` über den Logger `rag.metrics` ausgegeben.
+Standard ist aus. Die Metrik enthält keine Prompts, Originalzitate, Sitzungs-IDs
+oder Fehlermeldungstexte. Providerfehler werden weiterhin weitergereicht. Da ein
+fehlgeschlagener API-Turn seinen Sitzungszustand zurückrollt, bleiben solche
+Metriken nur mit aktiviertem Logging im Dienstlog erhalten. Der öffentliche
+/chat-Antwortvertrag bleibt unverändert.

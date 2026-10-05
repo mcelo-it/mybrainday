@@ -117,6 +117,7 @@ def main():
                 answer = worker.ask(case["question"])
                 retrieved = worker.state.last_retrieved_chunks
                 responses[case["id"]] = {"answer": answer, "citations": worker.state.last_citations,
+                                          "metrics": worker.state.last_metrics,
                                           "answer_type": worker.state.last_answer_type}
             else:
                 retrieved = rag.retrieve(case["question"], args.top_k)
