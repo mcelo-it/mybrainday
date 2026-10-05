@@ -60,6 +60,13 @@ class LexicalTests(unittest.TestCase):
         self.assertGreater(scores[1], 0)
         self.assertGreater(scores[2], 0)
 
+    def test_predicate_is_downweighted_not_removed(self):
+        index = BM25Index(['fließt', 'Leerlauf', 'nicht'])
+        baseline = index.scores('fließt Leerlauf nicht', use_predicate_weights=False)
+        actual = index.scores('fließt Leerlauf nicht')
+        self.assertAlmostEqual(actual[0], baseline[0] * .25)
+        np.testing.assert_array_equal(actual[1:], baseline[1:])
+
 
 if __name__ == "__main__":
     unittest.main()

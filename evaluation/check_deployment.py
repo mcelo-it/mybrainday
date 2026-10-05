@@ -56,6 +56,24 @@ def check_answer(payload, expected, corpus):
             'quote_only': payload.get('answer') == '\n\n'.join(blocks)}
 
 
+def classify_outcome(payload, checks):
+    """Describe the result without relaxing any pass/fail requirement."""
+    if all(checks.values()):
+        return 'reference_checks_passed'
+    kind = (payload.get('diagnostics') or {}).get('answer_type')
+    if payload.get('citations'):
+        if not checks.get('citations_valid') or not checks.get('quote_only'):
+            return 'invalid_quote_output'
+        if not checks.get('sources_match') or not checks.get('response_sources_match'):
+            return 'source_mismatch'
+        return 'reference_not_confirmed'  # May be an alternative valid answer; review it.
+    if kind == 'insufficient_evidence':
+        return 'abstained'
+    if kind == 'clarification':
+        return 'clarification'
+    return 'no_source_answer'
+
+
 def reference_trace(diagnostics, expected):
     """Presence by actual stage, not a claim about semantic answer quality."""
     if not isinstance(diagnostics, dict) or not isinstance(diagnostics.get('trace'), list):
@@ -102,6 +120,7 @@ def run_check(expected_revision, chunks, request=request_json):
             report['turns'].append({'id': case_id, 'question': question,
                                    'answer': payload.get('answer'), 'citations': payload.get('citations'),
                                    'http_elapsed_ms': elapsed, 'checks': checks,
+                                   'outcome': classify_outcome(payload, checks),
                                    'diagnostics': payload.get('diagnostics'),
                                    'reference_trace': reference_trace(payload.get('diagnostics'), expected),
                                    'passed': all(checks.values())})
@@ -134,7 +153,7 @@ def main():
                       'turns_completed': len(report['turns']),
                       'expected_revision': report['expected_revision'],
                       'observed_revision': report.get('health_before', {}).get('revision'),
-                      'turn_checks': [{'id': t['id'], 'checks': t['checks'],
+                      'turn_checks': [{'id': t['id'], 'outcome': t['outcome'], 'checks': t['checks'],
                                        'reference_trace': t['reference_trace']}
                                       for t in report['turns']]}))
     raise SystemExit(0 if report['passed'] else 1)

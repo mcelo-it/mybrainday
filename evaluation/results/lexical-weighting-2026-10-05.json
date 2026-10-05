@@ -1,0 +1,147 @@
+{
+  "mode": "lexical_only_no_cosine_gate_or_model_calls",
+  "chunks": 11800,
+  "query_term_weights": {
+    "fliesst": 0.25,
+    "fliessen": 0.25,
+    "betraegt": 0.25,
+    "betragen": 0.25,
+    "eingesetzt": 0.25
+  },
+  "cases": [
+    {
+      "id": "pv-open",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "pv-uoc",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "pv-current",
+      "baseline": [
+        [
+          13
+        ]
+      ],
+      "weighted": [
+        [
+          4
+        ]
+      ]
+    },
+    {
+      "id": "pv-stc",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "pv-irradiance",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "pv-airmass",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "trafo-n",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "trafo-angle",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "trafo-case",
+      "baseline": [
+        [
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "id": "trafo-losses",
+      "baseline": [
+        [
+          12,
+          1
+        ]
+      ],
+      "weighted": [
+        [
+          12,
+          1
+        ]
+      ]
+    }
+  ],
+  "corpus_file_sha256": "48dd11689bb68805488d4f12eb161fb80a20a44f4d6ec4dc71ae8484bfc26465",
+  "dataset_file_sha256": "90952e5861f4dfabaa084bfaba1ce6d9192be7491694c089b90df5f8a71a5b39"
+}
