@@ -42,3 +42,44 @@ geprüft werden. Drei Entwicklungsfälle sind kein unabhängiger Qualitätsbench
 
 Der Workflow wird nicht automatisch auf Push oder Pull Requests ausgeführt.
 Der Test verändert keine Anwendungskonfiguration und stellt nichts bereit.
+
+## Fehler zwischen Suche und Zitatauswahl eingrenzen
+
+Der Test fordert nun mit `include_diagnostics: true` eine Diagnose für seine
+eigene Gesprächsrunde an. Normale Browseranfragen erhalten dieses Zusatzfeld
+nicht. Es enthält keine Prompttexte, Transkripttexte oder Sitzungskennungen,
+sondern Quellenreferenzen (Datei und Zeitstelle), Scores, Auswahl-Nummern,
+Turn-/Antworttyp und die bereits erfassten Aufruf- und Tokenmetriken.
+Die eigentlichen Antworten und Zitate stehen weiterhin separat im Testbericht.
+Diagnosen sind Teil der öffentlichen Chat-API für die eigene Sitzung und kein
+Zugriff auf andere Gespräche. Es gibt dafür weder weitere Modellaufrufe noch
+eine neue Protokollierung aller Nutzergespräche.
+
+`reference_trace` zeigt pro tatsächlichem Verarbeitungsschritt, ob die erwartete
+PV-Referenz enthalten war und ob das Modell sie ausgewählt hat:
+
+- `retrieval`: direkt gefundene Treffer vor der Kontexterweiterung.
+- `selection`: Kandidaten einschließlich Nachbarstellen und erste Auswahl.
+- `review`: dieselben Kandidaten und die bestätigte oder ersetzte Auswahl.
+
+Fehlt die Referenz in `retrieval`, ist aber bei `selection` vorhanden, hat die
+Kontexterweiterung sie ergänzt. Ist sie bei `selection` vorhanden, aber am Ende
+nicht ausgewählt, liegt das Problem für diese Referenz in der Auswahlstrecke.
+Fehlt sie in allen Auswahlkandidaten, muss zuerst die Suche/Kontexterweiterung
+untersucht werden. Das ist ein Nachweis über konkrete Quellenreferenzen, keine
+automatische fachliche Bewertung aller möglichen alternativen Belege.
+
+Bei Folgefragen kann zunächst nur der lokale Kontext geprüft werden. Scheitert
+dieser, folgen globale Suche und weitere Auswahlstufen. Deshalb ist die
+Reihenfolge der Einträge relevant; mehrere `selection`-/`review`-Einträge sind
+kein Fehler. `review` entfällt, wenn bereits der erste Vorschlag leer/ungültig ist.
+Fehlende Diagnosen erscheinen als `available: false`, nicht als fehlender Treffer.
+
+Die Diagnose wird pro Nachricht zurückgesetzt und auf 16 Ereignisse mit jeweils
+40 Referenzen begrenzt. Bei gekürzten Quellenlisten ist `truncated` wahr; daraus
+darf keine vollständige Abwesenheitsdiagnose abgeleitet werden. Die aktuellen
+Produktionspfade bleiben innerhalb dieser Grenzen. Bereits vorhandene
+Tokenmetriken enthalten nur gemeldeten Verbrauch, keine Preisberechnung.
+
+Im Actions-Protokoll stehen nun auch erwartete/tatsächliche Version und die
+Referenzprüfung je Stufe. Die vollständigen Diagnosen liegen im Ergebnisartefakt.

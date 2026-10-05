@@ -21,7 +21,7 @@ def request_json(path, message=None, token=None):
     headers = {'Accept': 'application/json'}
     data = None
     if message is not None:
-        data = json.dumps({'message': message}).encode()
+        data = json.dumps({'message': message, 'include_diagnostics': True}).encode()
         headers['Content-Type'] = 'application/json'
     if token:
         headers['X-Conversation-ID'] = token
@@ -56,6 +56,24 @@ def check_answer(payload, expected, corpus):
             'quote_only': payload.get('answer') == '\n\n'.join(blocks)}
 
 
+def reference_trace(diagnostics, expected):
+    """Presence by actual stage, not a claim about semantic answer quality."""
+    if not isinstance(diagnostics, dict) or not isinstance(diagnostics.get('trace'), list):
+        return {'available': False}
+    if expected is None:
+        return {'available': True, 'stages': [], 'note': 'No exact reference for topic-change case'}
+    stages = []
+    for event in diagnostics['trace']:
+        numbers = [source['number'] for source in event['sources']
+                   if (source.get('filename'), source.get('time_range')) == expected]
+        stage = {'stage': event['stage'], 'reference_present': bool(numbers),
+                 'truncated': event['truncated']}
+        if 'selected' in event:
+            stage['reference_selected'] = any(n in event['selected'] for n in numbers)
+        stages.append(stage)
+    return {'available': True, 'stages': stages}
+
+
 def run_check(expected_revision, chunks, request=request_json):
     corpus = {(c['filename'], c['time_range']): c for c in chunks}
     if len(corpus) != len(chunks) or any(ref not in corpus for _, _, ref in CASES if ref):
@@ -84,6 +102,8 @@ def run_check(expected_revision, chunks, request=request_json):
             report['turns'].append({'id': case_id, 'question': question,
                                    'answer': payload.get('answer'), 'citations': payload.get('citations'),
                                    'http_elapsed_ms': elapsed, 'checks': checks,
+                                   'diagnostics': payload.get('diagnostics'),
+                                   'reference_trace': reference_trace(payload.get('diagnostics'), expected),
                                    'passed': all(checks.values())})
         after = request('/health')
         report['health_after'] = after
@@ -111,7 +131,12 @@ def main():
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps({'passed': report['passed'], 'failure': report.get('failure'),
-                      'turns_completed': len(report['turns'])}))
+                      'turns_completed': len(report['turns']),
+                      'expected_revision': report['expected_revision'],
+                      'observed_revision': report.get('health_before', {}).get('revision'),
+                      'turn_checks': [{'id': t['id'], 'checks': t['checks'],
+                                       'reference_trace': t['reference_trace']}
+                                      for t in report['turns']]}))
     raise SystemExit(0 if report['passed'] else 1)
 
 

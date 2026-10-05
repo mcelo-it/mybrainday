@@ -38,6 +38,7 @@ app.add_middleware(
 
 class ChatRequest(BaseModel):
     message: str = Field(max_length=8000)
+    include_diagnostics: bool = False
 
 
 class ChatResponse(BaseModel):
@@ -45,6 +46,7 @@ class ChatResponse(BaseModel):
     answer: str
     citations: List[Dict[str, Any]]
     sources: List[Dict[str, Any]]
+    diagnostics: Dict[str, Any] | None = None
 
 
 sessions = SessionStore(
@@ -156,7 +158,7 @@ def get_sources(x_conversation_id: str | None = Header(default=None, max_length=
         raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
 
 
-@app.post("/chat", response_model=ChatResponse)
+@app.post("/chat", response_model=ChatResponse, response_model_exclude_none=True)
 def chat(payload: ChatRequest, x_conversation_id: str | None = Header(default=None, max_length=128)) -> ChatResponse:
     message = payload.message.strip()
     if not message:
@@ -165,12 +167,17 @@ def chat(payload: ChatRequest, x_conversation_id: str | None = Header(default=No
     try:
         with sessions.transaction(x_conversation_id) as (token, state):
             worker = rag.for_conversation(state)
+            state.diagnostics_enabled = payload.include_diagnostics
             answer = worker.ask(message)
             return ChatResponse(
                 conversation_id=token,
                 answer=answer,
                 citations=state.last_citations,
                 sources=state.last_citations,
+                diagnostics={"trace": state.last_trace, "metrics": state.last_metrics,
+                             "turn_type": (state.turn_plan or {}).get("turn_type"),
+                             "answer_type": state.last_answer_type}
+                if payload.include_diagnostics else None,
             )
     except SessionNotFound:
         raise HTTPException(status_code=404, detail="Sitzung abgelaufen oder unbekannt. Bitte starte einen neuen Chat.")
