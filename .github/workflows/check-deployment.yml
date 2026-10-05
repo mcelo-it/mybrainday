@@ -1,0 +1,33 @@
+name: Live-Dialog pruefen
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-dialog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Python bereitstellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Version und drei Dialogfragen pruefen
+        env:
+          EXPECTED_REVISION: ${{ github.sha }}
+        run: python -m evaluation.check_deployment --expected-revision "$EXPECTED_REVISION" --output evaluation/results/deployment-check.json
+      - name: Ergebnis aufbewahren
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-dialog-result
+          path: evaluation/results/deployment-check.json
+          if-no-files-found: warn
+          retention-days: 7
