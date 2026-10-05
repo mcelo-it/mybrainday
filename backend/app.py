@@ -62,7 +62,8 @@ rag = RAGSystem(
     chat_model="gpt-4.1-mini",
     max_files=None,
     max_chunks=None,
-    retrieval_top_k=8,
+    retrieval_top_k=16 if os.getenv("RAG_RETRIEVAL_MODE", "hybrid") == "hybrid" else 8,
+    retrieval_mode=os.getenv("RAG_RETRIEVAL_MODE", "hybrid"),
     min_similarity_score=0.30,
 )
 

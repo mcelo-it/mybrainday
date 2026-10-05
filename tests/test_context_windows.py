@@ -48,6 +48,13 @@ class ContextWindowsTests(unittest.TestCase):
         anchor = {"text": "Standalone", "score": 0.8}
         self.assertEqual(len(expand_context([anchor], [segment(1)])), 1)
 
+    def test_later_direct_seed_survives_neighbour_budget(self):
+        chunks = [segment(i) for i in range(10)]
+        anchors = [dict(chunks[0], score=.9), dict(chunks[9], score=.7)]
+        result = expand_context(anchors, chunks, max_chunks=3)
+        self.assertIn(9, [c['chunk_index'] for c in result])
+        self.assertEqual(len(result), 3)
+
 
 if __name__ == "__main__":
     unittest.main()

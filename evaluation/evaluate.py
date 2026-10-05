@@ -128,7 +128,8 @@ def main():
                       "embedding_model": meta["embedding_model"], "top_k": args.top_k,
                       "chat_model": rag.chat_model if args.answers else None,
                       "retrieval_mode": args.retrieval_mode or "semantic",
-                      "lexical_config": {"k1": 1.5, "b": 0.75, "rank_constant": 60, "rank_window": max(32, args.top_k)}
+                      "lexical_config": {"k1": 1.5, "b": 0.75, "rank_constant": 60, "rank_window": max(32, args.top_k),
+                                         "lexical_reserved_slots": max(1, args.top_k // 2), "query_stopwords": True}
                           if args.retrieval_mode == "hybrid" else None,
                       "mode": "end_to_end" if args.answers else "retrieval"}
     else:

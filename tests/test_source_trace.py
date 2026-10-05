@@ -1,4 +1,5 @@
 import unittest
+import json
 from types import SimpleNamespace
 from unittest.mock import Mock
 
@@ -21,7 +22,7 @@ class SourceTraceTests(unittest.TestCase):
         self.candidates = [dict(segment(i, text='PRIVATE SOURCE '+str(i)), score=.8) for i in range(3)]
 
     def test_selection_and_review_record_actual_replacement(self):
-        self.rag.client.chat.completions.create.side_effect = [response('1'), response('2,3')]
+        self.rag.client.chat.completions.create.side_effect = [response('1'), response(json.dumps({'selected':[2,3], 'evidence':[{'source':2,'span':self.candidates[1]['text']}]}))]
         self.assertEqual(self.rag.select_relevant_quotes('PRIVATE QUESTION', self.candidates), [2, 3])
         trace = self.rag.state.last_trace
         self.assertEqual([e['stage'] for e in trace], ['selection', 'review'])

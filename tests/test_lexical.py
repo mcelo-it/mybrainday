@@ -44,6 +44,22 @@ class LexicalTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 hybrid_indices(semantic, lexical, 8)
 
+    def test_reserved_lexical_candidate_survives_outside_semantic_window(self):
+        semantic = np.linspace(.9, .4, 100)
+        lexical = np.zeros(100)
+        lexical[-1] = 10
+        result = hybrid_indices(semantic, lexical, 8)
+        self.assertIn(99, result)
+        self.assertEqual(len(result), 8)
+        self.assertEqual(hybrid_indices(semantic, lexical, 0), [])
+
+    def test_question_words_do_not_outweigh_subject_and_negation_remains(self):
+        index = BM25Index(['wie viel wie viel', 'leerlauf', 'nicht'])
+        scores = index.scores('Wie viel Leerlauf nicht')
+        self.assertEqual(scores[0], 0)
+        self.assertGreater(scores[1], 0)
+        self.assertGreater(scores[2], 0)
+
 
 if __name__ == "__main__":
     unittest.main()
