@@ -996,6 +996,24 @@ class RAGSystem:
         self.state.pending_clarification = None
         return "In den gefundenen Quellenstellen habe ich kein ausreichendes Zitat zur Beantwortung deiner Frage gefunden."
 
+    @staticmethod
+    def is_enumeration_question(user_query: str) -> bool:
+        current = re.split(r"Originale Folgefrage:|Folgefrage:", user_query)[-1].casefold()
+        match = re.search(
+            r"\bwelche(?:n|r|s)?\s+(?:(?:verschiedene|typische|relevante|wichtigste|wichtigsten)\s+)?"
+            r"(?:\w*verfahren|methoden|komponenten|arten|schritte|faktoren|messgroessen|messgrössen)\b", current)
+        if not match:
+            return False
+        filler = set("gibt es werden wird sind ist man sie diese die der das ein eine bei in im am an für fuer zur zu von des und oder eingesetzt verwendet genutzt benötigt benoetigt hat haben".split())
+        # Require a named subject after the list request; a bare 'Welche Arten?' stays generic.
+        return bool(set(re.findall(r"\w+", current[match.end():])) - filler)
+
+    def try_enumeration_answer(self, user_query, retrieved_chunks):
+        if not self.is_enumeration_question(user_query):
+            return None
+        answer = self.answer_specific_question(user_query, retrieved_chunks)
+        return answer if self.state.last_answer_type == "source_answer" else None
+
     def handle_new_question(self, user_query: str) -> str:
         retrieved_chunks = self.retrieve(user_query, top_k=self.retrieval_top_k)
 
@@ -1014,6 +1032,9 @@ class RAGSystem:
             return "Kein Bestandteil der Lehrvideos"
 
         if classification == "DOMAIN_GENERIC":
+            answer = self.try_enumeration_answer(user_query, retrieved_chunks)
+            if answer is not None:
+                return answer
             options = self.build_clarification_options(user_query, retrieved_chunks)
             self.state.pending_clarification = {
                 "original_query": user_query,
@@ -1064,6 +1085,9 @@ class RAGSystem:
         classification = self.classify_request_with_context(effective_query, context)
 
         if classification == "DOMAIN_GENERIC":
+            answer = self.try_enumeration_answer(effective_query, retrieved_chunks)
+            if answer is not None:
+                return answer
             options = self.build_clarification_options(effective_query, retrieved_chunks)
             self.state.pending_clarification = {
                 "original_query": effective_query,

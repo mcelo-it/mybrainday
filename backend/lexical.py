@@ -7,6 +7,10 @@ import numpy as np
 # Query-only function words; negations, numbers and technical terms remain.
 QUERY_STOP_WORDS = set("wie viel gross groß hoch welche welcher welches welchen was ist sind sollte sollten wird werden der die das den dem des ein eine einer eines einem einen bei beim im in am an auf aus fuer für von vom zu zum zur und oder es sein".split())
 
+# Keep predicates, but do not let their exact wording dominate the subject/state.
+# This is an explicit heuristic, not POS tagging or a learned weighting scheme.
+QUERY_TERM_WEIGHTS = dict.fromkeys(("fliesst", "fliessen", "betraegt", "betragen", "eingesetzt"), 0.25)
+
 
 def tokenize(text):
     normalized = unicodedata.normalize("NFKC", text).casefold()
@@ -36,13 +40,14 @@ class BM25Index:
             self.postings[term] = (np.array(indices), np.array(frequencies, dtype=float),
                                   np.log1p((self.size - df + 0.5) / (df + 0.5)))
 
-    def scores(self, query):
+    def scores(self, query, use_predicate_weights=True):
         scores = np.zeros(self.size, dtype=float)
         for term in set(tokenize(query)) - QUERY_STOP_WORDS:
             posting = self.postings.get(term)
             if posting is not None:
                 indices, frequencies, idf = posting
-                scores[indices] += idf * frequencies * (self.k1 + 1) / (frequencies + self.norm[indices])
+                weight = QUERY_TERM_WEIGHTS.get(term, 1.0) if use_predicate_weights else 1.0
+                scores[indices] += weight * idf * frequencies * (self.k1 + 1) / (frequencies + self.norm[indices])
         return scores
 
 

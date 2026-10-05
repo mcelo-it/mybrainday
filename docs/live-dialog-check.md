@@ -83,3 +83,9 @@ Tokenmetriken enthalten nur gemeldeten Verbrauch, keine Preisberechnung.
 
 Im Actions-Protokoll stehen nun auch erwartete/tatsächliche Version und die
 Referenzprüfung je Stufe. Die vollständigen Diagnosen liegen im Ergebnisartefakt.
+
+
+Der Bericht enthält außerdem `outcome`: bestandene Referenzprüfungen, Ablehnung,
+Rückfrage, nicht bestätigte Referenz oder fehlerhafte Zitat-/Quellenausgabe.
+`passed` und die bestehenden Referenzanforderungen bleiben unverändert.
+Details und aktueller Suchvergleich: `docs/recall-and-enumeration.md`.

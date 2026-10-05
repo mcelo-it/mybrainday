@@ -63,6 +63,37 @@ class ContextSelectionTests(unittest.TestCase):
         self.rag.client.chat.completions.create.return_value.choices[0].message.content = "Es sind 600 Volt, Quelle 1."
         self.assertEqual(self.rag.select_relevant_quotes("Spannung?", [dict(self.rag.chunks[1], score=0.8)]), [])
 
+    def test_concrete_enumeration_tries_checked_answer_before_clarification(self):
+        self.rag.chunks[2]['text'] = 'Wir verwenden Dämpfungsmessung und Laufzeitmessung.'
+        self.rag.classify_request_with_context.return_value = 'DOMAIN_GENERIC'
+        self.rag.build_clarification_options = Mock()
+        answer = self.rag.handle_new_question('Welche Messverfahren werden bei der LWL-Prüfung eingesetzt?')
+        self.assertIn(self.rag.chunks[2]['text'], answer)
+        self.rag.build_clarification_options.assert_not_called()
+        self.assertEqual(self.rag.state.last_answer_type, 'source_answer')
+
+    def test_enumeration_without_evidence_still_clarifies(self):
+        self.rag.classify_request_with_context.return_value = 'DOMAIN_GENERIC'
+        self.rag.client.chat.completions.create.return_value.choices[0].message.content = 'NONE'
+        self.rag.build_clarification_options = Mock(return_value=[{'label':'Messverfahren', 'source_numbers':[1]}])
+        answer = self.rag.handle_new_question('Welche Messverfahren werden bei LWL eingesetzt?')
+        self.rag.build_clarification_options.assert_called_once()
+        self.assertEqual(self.rag.state.last_answer_type, 'clarification')
+        self.assertNotIn('Zitat:', answer)
+        self.assertEqual(self.rag.state.last_citations, [])
+
+    def test_broad_or_numeric_question_is_not_treated_as_enumeration(self):
+        for query in ['Erkläre mir LWL.', 'Welche Spannung ist zulässig?', 'Wie groß ist der Strom?', 'Welche Methoden gibt es?']:
+            self.assertFalse(self.rag.is_enumeration_question(query))
+
+    def test_followup_enumeration_uses_same_checked_path(self):
+        self.rag.chunks[2]['text'] = 'Wir verwenden Dämpfungsmessung und Laufzeitmessung.'
+        self.rag.classify_request_with_context.return_value = 'DOMAIN_GENERIC'
+        self.rag.build_clarification_options = Mock()
+        answer = self.rag.handle_follow_up('Und welche Messverfahren gibt es bei LWL?')
+        self.assertIn(self.rag.chunks[2]['text'], answer)
+        self.rag.build_clarification_options.assert_not_called()
+
 
 if __name__ == "__main__":
     unittest.main()
