@@ -98,6 +98,18 @@ class RAGSystem:
     def _query_embedding(self, **kwargs):
         return measured_call(self.state.last_metrics, "retrieve", "embedding", self.client.embeddings.create, **kwargs)
 
+    def trace_sources(self, stage, candidates, selected=None):
+        """Opt-in, bounded source references; no prompts or transcript bodies."""
+        if not self.state.diagnostics_enabled or len(self.state.last_trace) >= 16:
+            return
+        refs = [{"number": i, **{key: chunk[key] for key in
+                 ("filename", "time_range", "score", "context_anchor_score") if key in chunk}}
+                for i, chunk in enumerate(candidates[:40], start=1)]
+        event = {"stage": stage, "sources": refs, "truncated": len(candidates) > 40}
+        if selected is not None:
+            event["selected"] = list(selected)
+        self.state.last_trace.append(event)
+
     def load_documents(self) -> None:
         if not self.docs_path.exists():
             raise FileNotFoundError(f"Ordner nicht gefunden: {self.docs_path}")
@@ -358,6 +370,7 @@ class RAGSystem:
             results.append(chunk)
 
         self.state.last_retrieved_chunks = results
+        self.trace_sources("retrieval", results)
         return results
 
     @staticmethod
@@ -856,6 +869,7 @@ class RAGSystem:
         raw = (response.choices[0].message.content or "").strip()
 
         proposed = self.parse_source_indices(raw, len(retrieved_chunks))
+        self.trace_sources("selection", retrieved_chunks, proposed)
         if not proposed:
             return []
         return self.review_quote_sufficiency(user_query, retrieved_chunks, proposed)
@@ -914,7 +928,9 @@ class RAGSystem:
         )
         raw = response.choices[0].message.content or ""
         # Candidate order already groups each video's excerpts chronologically.
-        return sorted(self.parse_source_indices(raw, len(candidates)))
+        reviewed = sorted(self.parse_source_indices(raw, len(candidates)))
+        self.trace_sources("review", candidates, reviewed)
+        return reviewed
 
     def format_source(self, chunk: Dict[str, Any]) -> str:
         return format_citation_source(citation_from_chunk(chunk))
@@ -1119,6 +1135,7 @@ class RAGSystem:
     def ask(self, user_query: str) -> str:
         self.state.last_metrics = {}
         self.state.turn_plan = None
+        self.state.last_trace = []
         start = perf_counter()
         succeeded = False
         try:
