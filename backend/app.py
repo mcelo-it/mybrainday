@@ -39,6 +39,7 @@ app.add_middleware(
 class ChatRequest(BaseModel):
     message: str = Field(max_length=8000)
     include_diagnostics: bool = False
+    include_evidence_debug: bool = False
 
 
 class ChatResponse(BaseModel):
@@ -169,6 +170,7 @@ def chat(payload: ChatRequest, x_conversation_id: str | None = Header(default=No
         with sessions.transaction(x_conversation_id) as (token, state):
             worker = rag.for_conversation(state)
             state.diagnostics_enabled = payload.include_diagnostics
+            state.evidence_debug_enabled = payload.include_diagnostics and payload.include_evidence_debug
             answer = worker.ask(message)
             return ChatResponse(
                 conversation_id=token,

@@ -18,4 +18,5 @@ class ConversationState:
     last_metrics: dict[str, Any] = field(default_factory=dict)
     turn_plan: dict[str, str] | None = None
     diagnostics_enabled: bool = False
+    evidence_debug_enabled: bool = False
     last_trace: list[dict[str, Any]] = field(default_factory=list)

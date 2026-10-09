@@ -20,8 +20,8 @@ def quantity_supported(query, spans):
     return True  # Other dimensions rely on the model review, no fake coverage claim.
 
 
-def validate_review(raw, candidates, query):
-    """Return indices plus bounded diagnostics, never model text or excerpts."""
+def validate_review(raw, candidates, query, capture_mismatch=False):
+    """Return indices and diagnostics; mismatch text requires explicit opt-in."""
     diagnostics = {'status': 'invalid_json', 'proposed': [], 'whitespace_normalized': False}
 
     def finish(status, indices=None):
@@ -60,6 +60,19 @@ def validate_review(raw, candidates, query):
             normalized_span = ' '.join(span.split())
             normalized_original = ' '.join(original.split())
             if normalized_span not in normalized_original:
+                if capture_mismatch:
+                    chunk = candidates[source - 1]
+                    diagnostics['mismatch'] = {
+                        'source': source,
+                        'filename': chunk.get('filename'),
+                        'time_range': chunk.get('time_range'),
+                        'model_span': span[:2000],
+                        'original_text': original[:6000],
+                        'model_span_truncated': len(span) > 2000,
+                        'original_text_truncated': len(original) > 6000,
+                        'matching_candidate_numbers': [i for i, c in enumerate(candidates[:40], 1)
+                            if normalized_span in ' '.join(c['text'].split())],
+                    }
                 return finish('span_not_in_source')
             diagnostics['whitespace_normalized'] = True
         spans.append(span)

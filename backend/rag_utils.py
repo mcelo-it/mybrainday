@@ -962,7 +962,8 @@ class RAGSystem:
         )
         raw = response.choices[0].message.content or ""
         # Candidate order already groups each video's excerpts chronologically.
-        reviewed, validation = validate_review(raw, candidates, user_query)
+        reviewed, validation = validate_review(raw, candidates, user_query,
+            capture_mismatch=self.state.diagnostics_enabled and self.state.evidence_debug_enabled)
         self.trace_sources("review_repair" if repair_span else "review", candidates, reviewed, validation=validation)
         if validation["status"] == "span_not_in_source" and not repair_span:
             return self.review_quote_sufficiency(user_query, candidates, [], repair_span=True)
