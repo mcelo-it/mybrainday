@@ -1,6 +1,7 @@
 import copy
 import unittest
 from unittest.mock import Mock
+from types import SimpleNamespace
 from backend.conversation import ConversationState
 from backend.rag_utils import RAGSystem
 from evaluation.replay_selection import prepare_cases, run_replay
@@ -42,13 +43,20 @@ class SelectionReplayTests(unittest.TestCase):
         def factory():
             rag=RAGSystem.__new__(RAGSystem)
             rag.state=ConversationState()
+            rag.chat_model="test"
+            rag._chat_completion=Mock(return_value=SimpleNamespace(choices=[SimpleNamespace(
+                message=SimpleNamespace(content='{"selected":["Q1-P1","Q2-P1"]}'))]))
             rag.select_relevant_quotes=Mock(return_value=[1])
             rag.review_quote_sufficiency=Mock(return_value=[1,2])
             instances.append(rag)
             return rag
         report=run_replay(self.prepare(),self.chunks,factory)
         self.assertTrue(report['completed'])
-        a,b=report['results']
+        a,b,c=report['results']
+        self.assertEqual(c['variant'], 'passage_ids')
+        self.assertEqual(c['candidate_sha256'], a['candidate_sha256'])
+        self.assertEqual([p['text'] for p in c['passage_quotes']], [x['text'] for x in self.chunks])
+        self.assertEqual(c['evaluation_scope'], 'parent_source_segments')
         self.assertEqual(a['candidate_sha256'],b['candidate_sha256'])
         self.assertFalse(a['evaluation']['complete_evidence'])
         self.assertTrue(b['evaluation']['complete_evidence'])

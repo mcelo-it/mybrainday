@@ -26,9 +26,9 @@ Varianten:
 - `direct_review`: dieselbe Belegprüfung direkt auf allen Kandidaten, ohne
   Vorauswahlvorschlag. Die vorhandene begrenzte Belegkorrektur bleibt aktiv.
 
-Die Reihenfolge der beiden Varianten wechselt je Frage. Modell: gpt-4.1-mini,
+Die Reihenfolge der drei Varianten rotiert je Frage. Modell: gpt-4.1-mini,
 Temperatur gemäß bestehendem RAG-Code. Ein Versuch pro Variante und Frage.
-Bei zehn Fragen sind maximal 50 logische Modellaufrufe möglich; keine Embeddings,
+Bei zehn Fragen sind maximal 60 logische Modellaufrufe möglich; keine Embeddings,
 keine automatische SDK-Wiederholung. Normale API-Kosten entstehen. Fehler stoppen
 das Experiment, bereits abgeschlossene Ergebnisse werden gespeichert.
 
@@ -50,3 +50,38 @@ Validierung bei Erstellung: Der hochgeladene Bericht ließ sich mit zehn Fragen
 und insgesamt 400 Kandidatenvorkommen rekonstruieren, ohne Modellaufrufe.
 22 lokale Tests für Replay, Belegprüfung und Antwortbewertung bestanden mit
 simulierten Antworten. Noch kein Live-Modellvergleich ausgeführt.
+
+
+## Dritte Variante: Passage-Kennungen
+
+`passage_ids` gliedert jedes vorhandene Quellensegment heuristisch an
+Satzschlusszeichen mit nachfolgendem Leerraum. Abkürzungen können zusätzliche
+Grenzen erzeugen; dies ist keine sprachwissenschaftliche Satzsegmentierung.
+Alle entstandenen Passagen bleiben mit Metadaten und Reihenfolge im Modellkontext.
+Es gibt keine stillschweigende Kürzung der vorhandenen Kandidaten und keine neue
+Suche. Nachbarkontext außerhalb der gespeicherten Kandidaten wird nicht ergänzt.
+
+Das Modell gibt nur Kennungen wie Q12-P1 zurück. Diese Kennungen gelten innerhalb
+des jeweiligen Kandidatensatzes, nicht als dauerhafte globale Dokument-IDs.
+Ungültige Kennungen verwerfen die Auswahl vollständig. Text und Zeichenpositionen
+werden ausschließlich aus dem Original übernommen. Die Zeitangabe bleibt die
+des übergeordneten Originalsegments: Zeichenpositionen sind keine Sekunden.
+Der bestehende Zahlenbeleg-Check prüft nur die ausgewählten Passagen. Eine weitere
+semantische Prüfstufe oder ein Korrekturaufruf wird für diese Variante nicht ergänzt.
+
+Im Artefakt stehen die tatsächlichen kleineren Zitate unter `passage_quotes`,
+mit Text, ID, Original-Zeichenpositionen und Quellenmetadaten. `answer`, `citations`
+und `evaluation` betreffen aus Vergleichbarkeitsgründen weiterhin die zugehörigen
+vollständigen Quellensegmente. Das ist ausdrücklich durch `answer_scope` und
+`evaluation_scope: parent_source_segments` gekennzeichnet. Die Auswahl eines
+beliebigen Satzes aus einer Referenzquelle beweist NICHT, dass die benötigte
+Aussage in der kleineren Passage enthalten ist. `semantic_completeness` bleibt
+`not_assessed`; die Passage-Zitate müssen fachlich separat geprüft werden.
+
+Die dritte Variante kostet genau einen zusätzlichen Modellaufruf je Frage.
+Somit maximal 60 Aufrufe pro vollständigem Zehn-Fragen-Experiment mit allen
+Varianten. Der Produktivdienst, sein Index und die bisherigen Live-Tests bleiben
+unverändert. 28 lokale Tests mit simulierten Modellantworten bestanden, darunter
+Original-Zeichenpositionen, Dezimalzahlen, Metadaten, ungültige IDs, ausgewählte
+Zahlenbelege und identische Kandidaten über alle drei Varianten. Keine Live-
+Wirksamkeit dieser dritten Variante ist damit belegt.
