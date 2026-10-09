@@ -1,6 +1,6 @@
 import json
 import unittest
-from backend.evidence import reviewed_indices, quantity_supported
+from backend.evidence import reviewed_indices, quantity_supported, validate_review
 
 
 class EvidenceTests(unittest.TestCase):
@@ -36,3 +36,34 @@ class EvidenceTests(unittest.TestCase):
 
     def test_qualitative_question_accepts_exact_evidence(self):
         self.assertEqual(self.review('Plus und Minus sind getrennt.', 'Was bedeutet Leerlauf?'), [1])
+
+    def test_whitespace_only_variation_is_accepted(self):
+        self.assertEqual(self.review('Dämpfung. \n\nDann Durchgängigkeit.',
+                                     'Welche Verfahren?', 'Dämpfung. Dann Durchgängigkeit.'), [1])
+
+    def test_word_number_punctuation_and_omission_changes_stay_rejected(self):
+        original = 'Die Spannung beträgt 12 Volt. Danach messen wir erneut.'
+        for span in ['Die Spannung beträgt 24 Volt.', 'die Spannung beträgt 12 Volt.',
+                     'Die Spannung beträgt 12 Volt!', '12Volt',
+                     'Die Spannung beträgt 12 Volt. messen wir erneut.']:
+            self.assertEqual(self.review(original, 'Welche Spannung?', span), [])
+
+    def test_diagnostic_reasons_distinguish_abstention_from_validation(self):
+        candidates = [{'text':'Dämpfung.\n\nDann Durchgängigkeit.'}]
+        cases = [
+            ('not JSON', 'invalid_json'),
+            ('{}', 'invalid_schema'),
+            ('{"selected":[],"evidence":[]}', 'model_abstained'),
+            ('{"selected":[true],"evidence":[]}', 'invalid_source'),
+            ('{"selected":[1],"evidence":[]}', 'missing_evidence'),
+            ('{"selected":[1],"evidence":[{"source":1,"span":"PRIVATE invented"}]}', 'span_not_in_source'),
+        ]
+        for raw, expected in cases:
+            indices, diagnostics = validate_review(raw, candidates, 'Welche Verfahren?')
+            self.assertEqual(indices, [])
+            self.assertEqual(diagnostics['status'], expected)
+            self.assertNotIn('PRIVATE', str(diagnostics))
+        raw = json.dumps({'selected':[1], 'evidence':[{'source':1,'span':'Dämpfung. Dann Durchgängigkeit.'}]})
+        indices, diagnostics = validate_review(raw, candidates, 'Welche Verfahren?')
+        self.assertEqual(indices, [1])
+        self.assertEqual(diagnostics, {'status':'accepted', 'proposed':[1], 'whitespace_normalized':True})

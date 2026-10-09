@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 if __package__:
-    from .evidence import reviewed_indices
+    from .evidence import validate_review
     from .metrics import measured_call
     from .index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from .lexical import BM25Index, hybrid_indices
@@ -23,7 +23,7 @@ if __package__:
     from .context_windows import expand_context, relevance_score
     from .citations import citation_from_chunk, format_citation_source, subject_area
 else:
-    from evidence import reviewed_indices
+    from evidence import validate_review
     from metrics import measured_call
     from index_manifest import CacheValidationError, manifest, validate as validate_index, write_json_atomic
     from lexical import BM25Index, hybrid_indices
@@ -100,7 +100,7 @@ class RAGSystem:
     def _query_embedding(self, **kwargs):
         return measured_call(self.state.last_metrics, "retrieve", "embedding", self.client.embeddings.create, **kwargs)
 
-    def trace_sources(self, stage, candidates, selected=None):
+    def trace_sources(self, stage, candidates, selected=None, validation=None):
         """Opt-in, bounded source references; no prompts or transcript bodies."""
         if not self.state.diagnostics_enabled or len(self.state.last_trace) >= 16:
             return
@@ -110,6 +110,8 @@ class RAGSystem:
         event = {"stage": stage, "sources": refs, "truncated": len(candidates) > 40}
         if selected is not None:
             event["selected"] = list(selected)
+        if validation is not None:
+            event["validation"] = validation
         self.state.last_trace.append(event)
 
     def load_documents(self) -> None:
@@ -930,8 +932,8 @@ class RAGSystem:
         )
         raw = response.choices[0].message.content or ""
         # Candidate order already groups each video's excerpts chronologically.
-        reviewed = reviewed_indices(raw, candidates, user_query)
-        self.trace_sources("review", candidates, reviewed)
+        reviewed, validation = validate_review(raw, candidates, user_query)
+        self.trace_sources("review", candidates, reviewed, validation=validation)
         return reviewed
 
     def format_source(self, chunk: Dict[str, Any]) -> str:
