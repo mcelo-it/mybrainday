@@ -842,6 +842,9 @@ class RAGSystem:
             "Betrachte die Textstellen im Kontext von Fachbereich, Modul und Video. "
             "Die Segmentpositionen zeigen die Reihenfolge im selben Video. "
             "Lies auch die vorangehenden und nachfolgenden bereitgestellten Abschnitte. "
+            "Unterscheide Zahlenfragen, Definitionen, qualitative Veraenderungen und Vergleiche. "
+            "Eine qualitative Frage braucht keinen Zahlenwert. Mehrere Abschnitte koennen gemeinsam "
+            "die Antwort tragen, auch wenn kein einzelner Abschnitt alle Teilfragen beantwortet. "
             "Waehle nur Textstellen, die die Frage tatsaechlich beantworten, nicht nur das Thema erwaehnen. "
             "Eine Ankuendigung wie 'Jetzt berechnen wir die Spannung' ist keine Antwort auf 'Wie gross soll die Spannung sein?'. "
             "Waehle stattdessen die folgende Stelle mit Ergebnis, Einheit und erforderlichen Bedingungen. "
@@ -874,7 +877,7 @@ class RAGSystem:
 
         proposed = self.parse_source_indices(raw, len(retrieved_chunks))
         self.trace_sources("selection", retrieved_chunks, proposed)
-        if not proposed:
+        if not retrieved_chunks:
             return []
         return self.review_quote_sufficiency(user_query, retrieved_chunks, proposed)
 
@@ -890,13 +893,19 @@ class RAGSystem:
         return list(dict.fromkeys(selected))
 
     def review_quote_sufficiency(
-        self, user_query: str, candidates: List[Dict[str, Any]], proposed: List[int]
+        self, user_query: str, candidates: List[Dict[str, Any]], proposed: List[int],
+        repair_span: bool = False
     ) -> List[int]:
-        """One bounded second pass; return original source IDs, never generated prose."""
+        """Review all candidates; at most one retry for nonliteral evidence spans."""
         system_prompt = (
             "Du pruefst einen vorlaeufigen Zitatvorschlag auf Beantwortbarkeit und unnoetige Zusatzstellen. "
             "Du darfst keine Antwort formulieren. Liefere ausschliesslich das unten beschriebene JSON. "
             "Der Vorschlag ist ungeprueft und kann falsch, unvollstaendig oder zu umfangreich sein. "
+            "Auch ein leerer Vorschlag ist kein Beweis fuer fehlende Belege: pruefe alle Kandidaten selbst. "
+            "Unterscheide Zahlenfragen von Definitionen, qualitativen Veraenderungen und Vergleichen. "
+            "Qualitative Aussagen wie Zunahme, Abnahme oder Konstanz benoetigen keinen Zahlenwert, "
+            "wenn die Frage keinen Zahlenwert verlangt. Teilantworten in benachbarten Abschnitten "
+            "duerfen gemeinsam belegen, sofern Bezug und Bedingungen zusammenpassen. "
             "Pruefe anhand der Nutzerfrage und aller bereitgestellten Originalstellen, welche kleinste "
             "ausreichende Menge von Zitaten die Frage direkt und vollstaendig beantwortet. "
             "Du darfst vorgeschlagene Stellen entfernen und andere bereitgestellte Stellen auswaehlen. "
@@ -917,7 +926,16 @@ class RAGSystem:
             "Sonst gib JSON mit genau selected und evidence aus: selected ist die Liste aller notwendigen Quellen-Nummern. "
             "evidence ist eine Liste von Objekten mit source (Quellen-Nummer aus selected) und span (exakte Teilzeichenfolge dieser Quelle). Die Passagen muessen die eigentliche Antwort enthalten, bei Zahlenfragen Wert und Einheit. Waehle zusaetzliche Quellen fuer notwendige Bedingungen in selected. Keine erfundenen oder zusammengesetzten Passagen. Keine Begruendung, keine Zusammenfassung."
         )
-        response = self._chat_completion("review_quote_sufficiency",
+        if repair_span:
+            system_prompt += (
+                " Der vorherige Pruefversuch enthielt mindestens eine Passage, die nicht wortgetreu "
+                "in ihrer angegebenen Quelle vorkam. Pruefe neu anhand der Originale. Kopiere fuer "
+                "jeden Beleg eine zusammenhaengende Passage aus genau einer Quelle; erhalte auch "
+                "Transkriptionsfehler, Schreibweise und Satzzeichen. Teile Belege aus mehreren "
+                "Quellen in getrennte evidence-Objekte. Erfinde keine fehlenden Aussagen. "
+                "Wenn keine ausreichenden Originalbelege existieren, gib die leeren Listen aus."
+            )
+        response = self._chat_completion("repair_quote_evidence" if repair_span else "review_quote_sufficiency",
             model=self.chat_model,
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -933,7 +951,9 @@ class RAGSystem:
         raw = response.choices[0].message.content or ""
         # Candidate order already groups each video's excerpts chronologically.
         reviewed, validation = validate_review(raw, candidates, user_query)
-        self.trace_sources("review", candidates, reviewed, validation=validation)
+        self.trace_sources("review_repair" if repair_span else "review", candidates, reviewed, validation=validation)
+        if validation["status"] == "span_not_in_source" and not repair_span:
+            return self.review_quote_sufficiency(user_query, candidates, [], repair_span=True)
         return reviewed
 
     def format_source(self, chunk: Dict[str, Any]) -> str:

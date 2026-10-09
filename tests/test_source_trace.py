@@ -42,6 +42,8 @@ class SourceTraceTests(unittest.TestCase):
         self.assertEqual(event['selected'], [])
         self.assertEqual(event['validation']['proposed'], [1])
         self.assertEqual(event['validation']['status'], 'span_not_in_source')
+        self.assertEqual(event['stage'], 'review_repair')
+        self.assertEqual(len(self.rag.state.last_trace), 2)
         self.assertNotIn('PRIVATE', str(event))
 
     def test_whitespace_review_preserves_original_answer(self):
@@ -54,10 +56,10 @@ class SourceTraceTests(unittest.TestCase):
         self.assertIn(self.candidates[0]['text'], answer)
         self.assertTrue(self.rag.state.last_trace[-1]['validation']['whitespace_normalized'])
 
-    def test_rejection_does_not_invent_review_stage(self):
+    def test_empty_proposal_is_reviewed_and_still_rejected(self):
         self.rag.client.chat.completions.create.return_value = response('NONE')
         self.assertEqual(self.rag.select_relevant_quotes('Question', self.candidates), [])
-        self.assertEqual(len(self.rag.state.last_trace), 1)
+        self.assertEqual(len(self.rag.state.last_trace), 2)
         self.assertEqual(self.rag.state.last_trace[0]['selected'], [])
 
     def test_trace_disabled_by_default(self):
