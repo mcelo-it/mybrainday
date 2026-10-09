@@ -13,7 +13,8 @@ CASES = [
      ('01 Stringdesign 2 Elektrische Kenngroessen.txt', '(0:02:02 - 0:02:16)')),
     ('pv-short-followup', 'Und wie groß ist die Spannung beim Kurzschluss?',
      ('01 Stringdesign 2 Elektrische Kenngroessen.txt', '(0:03:25 - 0:03:42)')),
-    ('lwl-topic-change', 'Und welche Messverfahren werden bei der LWL-Prüfung eingesetzt?', None),
+    ('lwl-topic-change', 'Und welche Messverfahren werden bei der LWL-Prüfung eingesetzt?',
+     ('26 LWL Pruefprotokolle 2 Normen.txt', '(0:03:40 - 0:03:48)')),
 ]
 
 
@@ -52,8 +53,14 @@ def check_answer(payload, expected, corpus):
     reference_found = expected in refs if expected else all(
         isinstance(c, dict) and str(c.get('module_number', '')).lstrip('0') == '26'
         and str(c.get('subject_area_number')) == '4' for c in citations)
-    return {'citations_valid': bool(valid), 'reference_found': reference_found,
-            'quote_only': payload.get('answer') == '\n\n'.join(blocks)}
+    checks = {'citations_valid': bool(valid), 'reference_found': reference_found,
+              'quote_only': payload.get('answer') == '\n\n'.join(blocks)}
+    if expected == CASES[2][2]:
+        # Keep the previous topic-isolation requirement as a separate gate.
+        checks['topic_scope_valid'] = all(
+            isinstance(c, dict) and str(c.get('module_number', '')).lstrip('0') == '26'
+            and str(c.get('subject_area_number')) == '4' for c in citations)
+    return checks
 
 
 def classify_outcome(payload, checks):

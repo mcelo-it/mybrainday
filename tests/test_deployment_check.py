@@ -11,7 +11,7 @@ class DeploymentCheckTests(unittest.TestCase):
                             module_number='01', module_name='Stringdesign', video_number='2',
                             video_name='Elektrische Kenngroessen')
                        for i, (_, _, ref) in enumerate(CASES[:2])]
-        self.chunks.append(dict(filename='26 LWL.txt', time_range='(0:01:00 - 0:01:10)',
+        self.chunks.append(dict(filename=CASES[2][2][0], time_range=CASES[2][2][1],
                                 text='Original LWL', module_number='26', module_name='LWL',
                                 video_number='2', video_name='Normen'))
         self.calls, self.turn, self.health_count = [], 0, 0
@@ -70,6 +70,36 @@ class DeploymentCheckTests(unittest.TestCase):
         result = check_answer(payload, CASES[1][2], corpus)
         self.assertTrue(result['citations_valid'])
         self.assertFalse(result['reference_found'])
+
+    def test_lwl_topic_mention_without_method_reference_fails(self):
+        self.turn = 2
+        self.chunks[2]['time_range'] = '(0:00:00 - 0:00:10)'
+        self.chunks[2]['text'] = 'Heute geht es um LWL-Prüfungen.'
+        payload = self.request('/chat')
+        corpus = {(c['filename'], c['time_range']): c for c in self.chunks}
+        checks = check_answer(payload, CASES[2][2], corpus)
+        self.assertTrue(checks['citations_valid'])
+        self.assertTrue(checks['quote_only'])
+        self.assertTrue(checks['topic_scope_valid'])
+        self.assertFalse(checks['reference_found'])
+
+    def test_lwl_reference_does_not_allow_previous_pv_topic_to_leak(self):
+        self.turn = 2
+        payload = self.request('/chat')
+        pv = citation_from_chunk(self.chunks[0])
+        payload['citations'].append(pv)
+        payload['answer'] += f'\n\nZitat: "{pv["text"]}"\nQuelle: {format_citation_source(pv)}'
+        corpus = {(c['filename'], c['time_range']): c for c in self.chunks}
+        checks = check_answer(payload, CASES[2][2], corpus)
+        self.assertTrue(checks['reference_found'])
+        self.assertTrue(checks['citations_valid'])
+        self.assertTrue(checks['quote_only'])
+        self.assertFalse(checks['topic_scope_valid'])
+
+    def test_missing_lwl_reference_stops_before_requests(self):
+        with self.assertRaises(ValueError):
+            run_check('revision', self.chunks[:2], self.request)
+        self.assertEqual(self.calls, [])
 
     def test_sources_mismatch_fails(self):
         def wrong_sources(path, *args, **kwargs):
