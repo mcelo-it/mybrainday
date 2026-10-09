@@ -72,13 +72,35 @@ class QuoteReviewTests(unittest.TestCase):
                 self.outputs("2,3", review)
                 self.assertEqual(self.rag.select_relevant_quotes("Spannung?", self.candidates), [])
 
-    def test_none_or_invalid_proposal_skips_second_call(self):
+    def test_empty_or_invalid_proposal_gets_independent_review(self):
         for proposal in ["NONE", "2,999", "Es ist Quelle 3"]:
             with self.subTest(proposal=proposal):
                 self.rag.client.reset_mock()
-                self.outputs(proposal)
+                self.outputs(proposal, '{"selected":[],"evidence":[]}')
                 self.assertEqual(self.rag.select_relevant_quotes("Spannung?", self.candidates), [])
-                self.assertEqual(self.rag.client.chat.completions.create.call_count, 1)
+                self.assertEqual(self.rag.client.chat.completions.create.call_count, 2)
+
+    def test_empty_proposal_can_recover_from_available_evidence(self):
+        self.outputs('NONE', '2,3')
+        self.assertEqual(self.rag.select_relevant_quotes('Wie hoch?', self.candidates), [2,3])
+
+    def test_nonliteral_span_gets_one_validated_repair(self):
+        bad = json.dumps({'selected':[3], 'evidence':[{'source':3,'span':'Invented text'}]})
+        good = json.dumps({'selected':[2,3], 'evidence':[{'source':3,'span':self.candidates[2]['text']}]})
+        self.outputs('3', bad, good)
+        self.assertEqual(self.rag.select_relevant_quotes('Wie hoch?', self.candidates), [2,3])
+        self.assertEqual(self.rag.client.chat.completions.create.call_count, 3)
+
+    def test_invalid_repair_does_not_loop_or_release_unchecked_answer(self):
+        bad = json.dumps({'selected':[3], 'evidence':[{'source':3,'span':'Invented text'}]})
+        self.outputs('3', bad, bad)
+        self.assertEqual(self.rag.select_relevant_quotes('Wie hoch?', self.candidates), [])
+        self.assertEqual(self.rag.client.chat.completions.create.call_count, 3)
+
+    def test_deliberate_review_abstention_is_not_retried(self):
+        self.outputs('3', '{"selected":[],"evidence":[]}')
+        self.assertEqual(self.rag.select_relevant_quotes('Wie hoch?', self.candidates), [])
+        self.assertEqual(self.rag.client.chat.completions.create.call_count, 2)
 
     def test_provider_error_does_not_release_unreviewed_selection(self):
         self.rag.client.chat.completions.create.side_effect = [response("2,3"), RuntimeError("provider unavailable")]
