@@ -9,9 +9,10 @@ from time import perf_counter
 from backend.conversation import ConversationState
 from backend.rag_utils import RAGSystem
 from .answers import evaluate_answer
+from .passage_selection import select_passages
 from .evaluate import key, validate_dataset, corpus_digest
 
-VARIANTS = ('selection_then_review', 'direct_review')
+VARIANTS = ('selection_then_review', 'direct_review', 'passage_ids')
 
 
 def prepare_cases(dataset, chunks, report, source_revision):
@@ -63,12 +64,16 @@ def run_replay(prepared, chunks, rag_factory):
     try:
         for index, (case, candidates) in enumerate(prepared):
             # Alternate order to reduce systematic time/order effects.
-            variants = VARIANTS if index % 2 == 0 else VARIANTS[::-1]
+            offset = index % len(VARIANTS)
+            variants = VARIANTS[offset:] + VARIANTS[:offset]
             for variant in variants:
                 rag = rag_factory()
                 supplied = [dict(c) for c in candidates]
                 start = perf_counter()
-                if variant == 'selection_then_review':
+                passage_quotes = None
+                if variant == 'passage_ids':
+                    ids, passage_quotes = select_passages(rag, case['question'], supplied)
+                elif variant == 'selection_then_review':
                     ids = rag.select_relevant_quotes(case['question'], supplied)
                 else:
                     ids = rag.review_quote_sufficiency(case['question'], supplied, [])
@@ -77,6 +82,10 @@ def run_replay(prepared, chunks, rag_factory):
                 evaluation = evaluate_answer(case, answer, rag.state.last_citations, chunks)
                 result['results'].append({
                     'id': case['id'], 'variant': variant, 'selected': ids,
+                    'evaluation_scope': 'parent_source_segments',
+                    'answer_scope': 'parent_source_segments',
+                    'semantic_completeness': 'not_assessed',
+                    'passage_quotes': passage_quotes,
                     'candidate_sha256': hashlib.sha256(json.dumps(candidates,
                         ensure_ascii=False, sort_keys=True).encode()).hexdigest(),
                     'answer': answer, 'citations': rag.state.last_citations,
@@ -121,7 +130,9 @@ def main():
         'results': [{'id':r['id'], 'variant':r['variant'],
                      'complete_evidence':r['evaluation']['complete_evidence'],
                      'evidence_recall':r['evaluation']['evidence_recall'],
-                     'model_calls':r['metrics'].get('model_calls')}
+                     'model_calls':r['metrics'].get('model_calls'),
+                     'evaluation_scope':r['evaluation_scope'],
+                     'passage_quote_count':len(r['passage_quotes']) if r['passage_quotes'] is not None else None}
                     for r in result['results']]}))
     # Failed reference coverage is an experimental result, not a workflow failure.
     raise SystemExit(0 if result['completed'] else 1)
