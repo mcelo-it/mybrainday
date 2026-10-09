@@ -20,7 +20,7 @@ def quantity_supported(query, spans):
     return True  # Other dimensions rely on the model review, no fake coverage claim.
 
 
-def validate_review(raw, candidates, query):
+def validate_review(raw, candidates, query, require_coverage=False):
     """Return indices plus bounded diagnostics, never model text or excerpts."""
     diagnostics = {'status': 'invalid_json', 'proposed': [], 'whitespace_normalized': False}
 
@@ -32,7 +32,8 @@ def validate_review(raw, candidates, query):
         result = json.loads(raw)
     except (ValueError, TypeError):
         return finish('invalid_json')
-    if not isinstance(result, dict) or set(result) != {'selected', 'evidence'}:
+    fields = {'selected', 'evidence', 'coverage'} if require_coverage else {'selected', 'evidence'}
+    if not isinstance(result, dict) or set(result) != fields:
         return finish('invalid_schema')
     selected, evidence = result['selected'], result['evidence']
     if not isinstance(selected, list) or not isinstance(evidence, list):
@@ -41,6 +42,8 @@ def validate_review(raw, candidates, query):
         return finish('invalid_source')
     diagnostics['proposed'] = sorted(set(selected))[:40]
     if not selected and not evidence:
+        if require_coverage and result['coverage'] != []:
+            return finish('invalid_coverage')
         return finish('model_abstained')
     if not selected or not evidence:
         return finish('missing_evidence')
@@ -63,6 +66,27 @@ def validate_review(raw, candidates, query):
                 return finish('span_not_in_source')
             diagnostics['whitespace_normalized'] = True
         spans.append(span)
+    if require_coverage:
+        coverage = result['coverage']
+        if not isinstance(coverage, list) or not coverage or len(coverage) > 20:
+            return finish('invalid_coverage')
+        for row in coverage:
+            if (not isinstance(row, dict) or set(row) != {'subject', 'property', 'evidence'}
+                    or any(not isinstance(row[k], str) or not row[k].strip()
+                           or len(row[k]) > 500 for k in ('subject', 'property'))):
+                return finish('invalid_coverage')
+            refs = row['evidence']
+            if not isinstance(refs, list) or not refs:
+                return finish('uncovered_requirement')
+            if any(type(i) is not int or not 1 <= i <= len(evidence) for i in refs):
+                return finish('invalid_coverage_reference')
+        diagnostics['coverage_count'] = len(coverage)
+        current = re.split(r'Originale Folgefrage:|Folgefrage:', query)[-1].casefold()
+        if re.search(r'\b(?:unterschied\w*|unterscheid\w*|vergleich\w*|gegenüber|versus|vs)\b', current):
+            subjects = {' '.join(row['subject'].casefold().split()) for row in coverage}
+            properties = {' '.join(row['property'].casefold().split()) for row in coverage}
+            if len(subjects) < 2 or len(properties) != 1:
+                return finish('incomplete_comparison_coverage')
     if not quantity_supported(query, spans):
         return finish('quantity_not_supported')
     return finish('accepted', sorted(set(selected)))
