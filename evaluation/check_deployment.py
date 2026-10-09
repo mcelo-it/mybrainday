@@ -22,7 +22,7 @@ def request_json(path, message=None, token=None):
     headers = {'Accept': 'application/json'}
     data = None
     if message is not None:
-        data = json.dumps({'message': message, 'include_diagnostics': True}).encode()
+        data = json.dumps({'message': message, 'include_diagnostics': True, 'include_evidence_debug': True}).encode()
         headers['Content-Type'] = 'application/json'
     if token:
         headers['X-Conversation-ID'] = token
