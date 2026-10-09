@@ -6,7 +6,7 @@ import re
 def quantity_supported(query, spans):
     # Follow-up search wrappers preserve the actual current question last.
     query = re.split(r'Originale Folgefrage:|Folgefrage:', query)[-1].casefold()
-    if not re.search(r'wie\s+(?:viel|groß|gross|hoch|stark)|welch\w*\s+(?:wert|spannung|stromstärke)', query):
+    if not re.search(r'wie\s+(?:viel|groß|gross|hoch|stark)|welch\w*\s+(?:wert(?:e|en|es)?|spannung(?:en)?|stromstärke(?:n)?)\b', query):
         return True
     text = ' '.join(spans).casefold()
     number = r'(?:[+-]?\d+(?:[.,]\d+)?|null|ein(?:s|e|en)?|zwei|drei|vier|fünf|sechs|sieben|acht|neun|zehn)'

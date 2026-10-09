@@ -67,3 +67,18 @@ class EvidenceTests(unittest.TestCase):
         indices, diagnostics = validate_review(raw, candidates, 'Welche Verfahren?')
         self.assertEqual(indices, [1])
         self.assertEqual(diagnostics, {'status':'accepted', 'proposed':[1], 'whitespace_normalized':True})
+
+    def test_qualitative_compound_words_do_not_require_numeric_units(self):
+        for query, text in [
+            ('Welche Spannungsseite wird mit großen Buchstaben angegeben?',
+             'Die Oberspannungsseite wird mit großen Buchstaben beschrieben.'),
+            ('Welche Spannungsform liegt vor?', 'Die Spannung ist sinusförmig.'),
+            ('Welche Stromstärkeregelung wird verwendet?', 'Die Regelung arbeitet proportional.'),
+        ]:
+            self.assertEqual(self.review(text, query), [1])
+
+    def test_real_voltage_value_questions_still_require_values(self):
+        for query in ['Welche Spannung liegt an?', 'Welche Spannungen liegen an?',
+                      'Welchen Wert hat die Spannung?', 'Wie groß ist die Spannung?']:
+            self.assertEqual(self.review('Die Spannung liegt an.', query), [])
+            self.assertEqual(self.review('Die Spannung beträgt 12 Volt.', query), [1])
