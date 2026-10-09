@@ -1,0 +1,58 @@
+name: Belegauswahl isoliert vergleichen
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: 'ID eines abgeschlossenen Live-Referenzfragen-Laufs mit Artefakt'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: API-Schluessel pruefen
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo 'Repository-Secret OPENAI_API_KEY fehlt. Kein Modellaufruf ausgefuehrt.'
+            exit 1
+          fi
+      - name: Bericht und Originalkorpus derselben Revision laden
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SOURCE_RUN_ID: ${{ inputs.source_run_id }}
+        run: |
+          [[ "$SOURCE_RUN_ID" =~ ^[0-9]+$ ]] || exit 1
+          source_sha=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$SOURCE_RUN_ID" --jq '.head_sha')
+          [[ "$source_sha" =~ ^[0-9a-f]{40}$ ]] || exit 1
+          gh run download "$SOURCE_RUN_ID" --name live-reference-result --dir evaluation/replay-input
+          gh api "repos/$GITHUB_REPOSITORY/contents/backend/cache/chunks.json?ref=$source_sha" -H 'Accept: application/vnd.github.raw+json' > evaluation/replay-input/chunks.json
+          echo "SOURCE_REVISION=$source_sha" >> "$GITHUB_ENV"
+      - name: Abhaengigkeiten installieren
+        run: python -m pip install -r backend/requirements.txt
+      - name: Zwei Verfahren auf denselben Kandidaten vergleichen
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m evaluation.replay_selection --report evaluation/replay-input/reference-check.json --chunks evaluation/replay-input/chunks.json --source-revision "$SOURCE_REVISION" --output evaluation/results/selection-replay.json
+      - name: Experiment aufbewahren
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: selection-replay-result
+          path: evaluation/results/selection-replay.json
+          retention-days: 7
+          if-no-files-found: warn
