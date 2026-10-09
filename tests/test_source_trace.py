@@ -34,6 +34,26 @@ class SourceTraceTests(unittest.TestCase):
         self.assertFalse(result['stages'][0]['reference_selected'])
         self.assertTrue(result['stages'][1]['reference_selected'])
 
+    def test_review_rejection_records_reason_without_model_text(self):
+        self.rag.client.chat.completions.create.return_value = response(json.dumps({
+            'selected':[1], 'evidence':[{'source':1, 'span':'PRIVATE invented text'}]}))
+        self.assertEqual(self.rag.review_quote_sufficiency('Question', self.candidates, [1]), [])
+        event = self.rag.state.last_trace[-1]
+        self.assertEqual(event['selected'], [])
+        self.assertEqual(event['validation']['proposed'], [1])
+        self.assertEqual(event['validation']['status'], 'span_not_in_source')
+        self.assertNotIn('PRIVATE', str(event))
+
+    def test_whitespace_review_preserves_original_answer(self):
+        self.candidates[0]['text'] = 'Dämpfung. \n\nDann Durchgängigkeit.'
+        self.rag.client.chat.completions.create.return_value = response(json.dumps({
+            'selected':[1], 'evidence':[{'source':1, 'span':'Dämpfung. Dann Durchgängigkeit.'}]}))
+        indices = self.rag.review_quote_sufficiency('Welche Verfahren?', self.candidates, [1])
+        self.assertEqual(indices, [1])
+        answer = self.rag.construct_answer_from_chunks([self.candidates[0]])
+        self.assertIn(self.candidates[0]['text'], answer)
+        self.assertTrue(self.rag.state.last_trace[-1]['validation']['whitespace_normalized'])
+
     def test_rejection_does_not_invent_review_stage(self):
         self.rag.client.chat.completions.create.return_value = response('NONE')
         self.assertEqual(self.rag.select_relevant_quotes('Question', self.candidates), [])
