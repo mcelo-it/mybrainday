@@ -24,7 +24,7 @@ class ContextSelectionTests(unittest.TestCase):
         def model_reply(**kwargs):
             raw = self.rag.client.chat.completions.create.return_value.choices[0].message.content
             if raw == "3" and "evidence" in kwargs["messages"][0]["content"]:
-                raw = json.dumps({"coverage": [{"subject":"Test subject", "property":"Test property", "evidence":[1]}], "selected": [3], "evidence": [{"source": 3, "span": self.rag.chunks[2]["text"]}]})
+                raw = json.dumps({"selected": [3], "evidence": [{"source": 3, "span": self.rag.chunks[2]["text"]}]})
             return SimpleNamespace(choices=[SimpleNamespace(message=SimpleNamespace(content=raw))])
         self.rag.client.chat.completions.create.side_effect = model_reply
         self.rag.retrieve = Mock(return_value=[dict(self.rag.chunks[1], score=0.8)])

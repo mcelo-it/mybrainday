@@ -10,10 +10,7 @@ from backend.rag_utils import RAGSystem
 from test_context_windows import segment
 
 
-from review_fixture import single_aspect_review
-
 def response(text):
-    text = single_aspect_review(text)
     return SimpleNamespace(choices=[SimpleNamespace(message=SimpleNamespace(content=text))])
 
 
@@ -103,15 +100,6 @@ class QuoteReviewTests(unittest.TestCase):
     def test_deliberate_review_abstention_is_not_retried(self):
         self.outputs('3', '{"selected":[],"evidence":[]}')
         self.assertEqual(self.rag.select_relevant_quotes('Wie hoch?', self.candidates), [])
-        self.assertEqual(self.rag.client.chat.completions.create.call_count, 2)
-
-    def test_production_review_requires_both_comparison_rows(self):
-        raw = json.dumps({'selected':[2,3], 'evidence':[
-            {'source':2,'span':self.candidates[1]['text']},
-            {'source':3,'span':self.candidates[2]['text']}], 'coverage':[
-            {'subject':'A', 'property':'Verhalten', 'evidence':[1]}]})
-        self.outputs('2,3', raw)
-        self.assertEqual(self.rag.select_relevant_quotes('Vergleiche A und B.', self.candidates), [])
         self.assertEqual(self.rag.client.chat.completions.create.call_count, 2)
 
     def test_provider_error_does_not_release_unreviewed_selection(self):

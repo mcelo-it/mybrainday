@@ -9,10 +9,7 @@ from evaluation.check_deployment import reference_trace
 from test_context_windows import segment
 
 
-from review_fixture import single_aspect_review
-
 def response(text):
-    text = single_aspect_review(text)
     return SimpleNamespace(choices=[SimpleNamespace(message=SimpleNamespace(content=text))])
 
 
