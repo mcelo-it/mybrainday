@@ -68,6 +68,22 @@ class EvidenceTests(unittest.TestCase):
         self.assertEqual(indices, [1])
         self.assertEqual(diagnostics, {'status':'accepted', 'proposed':[1], 'whitespace_normalized':True})
 
+    def test_reviewed_evidence_order_is_preserved_for_answer_output(self):
+        candidates = [
+            {'text': 'Notwendige Randbedingung.'},
+            {'text': 'Die eigentliche Antwort steht hier.'},
+            {'text': 'Ergänzende Erklärung.'},
+        ]
+        raw = json.dumps({
+            'selected': [1, 2, 3],
+            'evidence': [
+                {'source': 2, 'span': 'Die eigentliche Antwort steht hier.'},
+                {'source': 3, 'span': 'Ergänzende Erklärung.'},
+                {'source': 1, 'span': 'Notwendige Randbedingung.'},
+            ],
+        })
+        self.assertEqual(reviewed_indices(raw, candidates, 'Was ist die Antwort?'), [2, 3, 1])
+
     def test_qualitative_compound_words_do_not_require_numeric_units(self):
         for query, text in [
             ('Welche Spannungsseite wird mit großen Buchstaben angegeben?',
