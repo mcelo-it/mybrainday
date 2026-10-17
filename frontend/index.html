@@ -3,58 +3,59 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lehrvideo-Chatbot PV-Anlagen</title>
+  <title>mybrainday-Chatbot</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
   <main class="app-shell">
-    <aside class="sidebar" aria-label="Lehrvideo-Navigation">
+    <aside class="sidebar" aria-label="Chatbot-Informationen und Lehrvideoquellen">
       <section class="sidebar-section sidebar-intro">
-        <h2>Lehrvideo-Chatbot</h2>
+        <div class="eyebrow">mybrainday</div>
+        <h2>mybrainday-Chatbot</h2>
         <p class="sidebar-text">
-          Stelle fachliche Fragen zu unseren Lehrvideos über PV-Anlagen.
+          Dein digitaler Begleiter für Fragen rund um PV-Anlagen.
         </p>
       </section>
 
-      <section class="sidebar-section" aria-label="Backend-Status">
+      <section class="sidebar-section" aria-label="Chat-Status">
         <div
           id="backend-status"
           class="status-box status-neutral"
           role="status"
           aria-live="polite"
         >
-          Backend-Status wird geprüft...
+          Verbindung wird hergestellt...
         </div>
       </section>
 
       <section class="sidebar-section sidebar-actions" aria-label="Aktionen">
-        <button id="reload-videos-btn" class="secondary-btn" type="button">
-          Lehrvideos laden
-        </button>
-
-        <button id="show-sources-btn" class="secondary-btn" type="button">
-          Letzte Quellenstellen anzeigen
-        </button>
-
         <button id="rebuild-btn" class="secondary-btn danger-btn" type="button" hidden>
           Suchindex neu aufbauen
         </button>
       </section>
 
-      <section class="sidebar-section videos-section" aria-labelledby="videos-title">
-        <h3 id="videos-title">Verfügbare Lehrvideos</h3>
+      <section class="sidebar-section sources-section" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <h3 id="sources-title">Lehrvideoquellen</h3>
+          <span class="section-hint">Letzte Antwort</span>
+        </div>
 
-        <div id="videos-list" class="videos-list" aria-live="polite">
-          <p class="muted">Noch nicht geladen.</p>
+        <div id="sources-list" class="sources-list" aria-live="polite">
+          <p class="muted sources-empty">
+            Nach deiner ersten Antwort erscheinen hier die verwendeten Lehrvideoquellen.
+          </p>
         </div>
       </section>
     </aside>
 
     <section class="chat-area" aria-label="Chatbereich">
       <header class="chat-header">
-        <h1>Fragen zu Lehrvideos über PV-Anlagen</h1>
-        <p>Antworten werden ausschließlich aus den Lehrvideoquellen zitiert.</p>
+        <div>
+          <div class="eyebrow">PV-Wissen aus deinen Lehrvideos</div>
+          <h1>Stelle gerne deine Fragen zu PV-Anlagen</h1>
+          <p>Die Antworten basieren auf den Inhalten der hinterlegten Lehrvideos.</p>
+        </div>
       </header>
 
       <section
@@ -65,7 +66,7 @@
       >
         <div class="message bot">
           <div class="bubble">
-            Hast du Fragen zu unseren Lehrvideos zu PV-Anlagen?
+            Hallo! Stelle mir gerne eine Frage zu PV-Anlagen. Ich nutze dafür die Inhalte aus den Lehrvideos.
           </div>
         </div>
       </section>
@@ -73,12 +74,12 @@
       <footer class="chat-input-area">
         <form id="chat-form" class="chat-form">
           <label class="sr-only" for="chat-input">
-            Fachliche Frage eingeben
+            Frage eingeben
           </label>
 
           <textarea
             id="chat-input"
-            placeholder="Schreibe hier deine fachliche Frage..."
+            placeholder="Deine Frage zu PV-Anlagen..."
             rows="3"
           ></textarea>
 

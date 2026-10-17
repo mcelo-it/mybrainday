@@ -13,12 +13,8 @@ const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
 const sendBtn = document.getElementById("send-btn");
 const chatMessages = document.getElementById("chat-messages");
-
-const reloadVideosBtn = document.getElementById("reload-videos-btn");
-const showSourcesBtn = document.getElementById("show-sources-btn");
 const rebuildBtn = document.getElementById("rebuild-btn");
-
-const videosList = document.getElementById("videos-list");
+const sourcesList = document.getElementById("sources-list");
 const backendStatus = document.getElementById("backend-status");
 
 const infoDialog = document.getElementById("info-dialog");
@@ -44,9 +40,9 @@ function setChatEnabled(enabled) {
 }
 
 function setActionButtonsEnabled(enabled) {
-  reloadVideosBtn.disabled = !enabled;
-  showSourcesBtn.disabled = !enabled;
-  rebuildBtn.disabled = !enabled;
+  if (rebuildBtn) {
+    rebuildBtn.disabled = !enabled;
+  }
 }
 
 function addMessage(role, text) {
@@ -62,7 +58,7 @@ function addMessage(role, text) {
   chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
-function showLoadingMessage(text = "Antwort wird geladen...") {
+function showLoadingMessage(text = "Antwort wird erstellt...") {
   removeLoadingMessage();
 
   const wrapper = document.createElement("div");
@@ -116,7 +112,7 @@ async function safeFetch(url, options = {}) {
   try {
     response = await fetch(url, options);
   } catch (error) {
-    throw new Error("Das Backend ist nicht erreichbar.");
+    throw new Error("Der Chat ist momentan nicht erreichbar.");
   }
 
   let data = null;
@@ -130,7 +126,7 @@ async function safeFetch(url, options = {}) {
   if (!response.ok) {
     const message =
       (data && (data.detail || data.message)) ||
-      `HTTP-Fehler ${response.status}`;
+      `Anfrage fehlgeschlagen (${response.status})`;
 
     const error = new Error(message);
     error.status = response.status;
@@ -144,7 +140,7 @@ async function checkBackend() {
   try {
     await safeFetch(`${API_BASE}/health`);
 
-    setBackendStatus("status-ok", "Backend verbunden.");
+    setBackendStatus("status-ok", "Chat ist bereit.");
     setChatEnabled(true);
     setActionButtonsEnabled(true);
 
@@ -152,73 +148,21 @@ async function checkBackend() {
   } catch (error) {
     setBackendStatus(
       "status-error",
-      "Backend nicht erreichbar. Bitte prüfe die Serververbindung."
+      "Der Chat ist momentan nicht erreichbar. Bitte versuche es später erneut."
     );
 
     setChatEnabled(false);
     setActionButtonsEnabled(false);
 
-    videosList.innerHTML =
-      `<p class="muted">Lehrvideos können derzeit nicht geladen werden.</p>`;
+    sourcesList.innerHTML =
+      `<p class="muted sources-empty">Lehrvideoquellen können derzeit nicht angezeigt werden.</p>`;
 
     return false;
   }
 }
 
-async function loadVideos() {
-  videosList.innerHTML = `<p class="muted">Lehrvideos werden geladen...</p>`;
-
-  try {
-    const videos = await safeFetch(`${API_BASE}/videos`);
-
-    if (!Array.isArray(videos) || videos.length === 0) {
-      videosList.innerHTML = `<p class="muted">Keine Lehrvideos gefunden.</p>`;
-      return;
-    }
-
-    videosList.innerHTML = "";
-
-    videos.forEach((video) => {
-      const card = document.createElement("button");
-      card.type = "button";
-      card.className = "video-card";
-
-      card.innerHTML = `
-        <strong>
-          Modul ${escapeHtml(video.module_number)} - ${escapeHtml(video.module_name)}
-        </strong>
-        <br>
-        <span>
-          Video ${escapeHtml(video.video_number)} - ${escapeHtml(video.video_name)}
-        </span>
-      `;
-
-      card.addEventListener("click", async () => {
-        try {
-          const detail = await safeFetch(`${API_BASE}/videos/${video.id}`);
-
-          openDialog(
-            `Modul ${detail.module_number} - ${detail.module_name} | Video ${detail.video_number} - ${detail.video_name}`,
-            `<div class="transcript-text">${escapeHtml(detail.content_preview || "")}</div>`
-          );
-        } catch (error) {
-          openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
-        }
-      });
-
-      videosList.appendChild(card);
-    });
-  } catch (error) {
-    videosList.innerHTML =
-      `<p class="muted">Fehler beim Laden der Lehrvideos.</p>`;
-
-    openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
-  }
-}
-
 function createSourcesList(sources) {
-  const list = document.createElement("div");
-  list.className = "sources-list";
+  const list = document.createDocumentFragment();
 
   for (const source of sources) {
     const card = document.createElement("article");
@@ -243,30 +187,30 @@ function createSourcesList(sources) {
 
     const quote = document.createElement("blockquote");
     quote.className = "source-quote";
-    quote.textContent = source.text || source.text_preview || "";
+    quote.textContent = source.text_preview || source.text || "";
 
     card.append(area, module, video, time, quote);
     list.appendChild(card);
   }
+
   return list;
 }
 
-function loadSources() {
+function renderSources() {
   if (lastCitations === null) {
-    openDialog(
-      "Letzte Quellenstellen",
-      "<p>Die Quellen konnten dieser Antwort nicht zugeordnet werden. Bitte lade die Seite neu und stelle die Frage erneut.</p>"
-    );
+    sourcesList.innerHTML =
+      `<p class="muted sources-empty">Die Lehrvideoquellen konnten dieser Antwort nicht zugeordnet werden.</p>`;
     return;
   }
+
   if (lastCitations.length === 0) {
-    openDialog(
-      "Letzte Quellenstellen",
-      "<p>Die letzte Antwort enthält keine zitierten Quellenstellen.</p>"
-    );
+    sourcesList.innerHTML =
+      `<p class="muted sources-empty">Für die letzte Antwort wurden keine Lehrvideoquellen angegeben.</p>`;
     return;
   }
-  openDialog("Letzte Quellenstellen", createSourcesList(lastCitations));
+
+  sourcesList.replaceChildren(createSourcesList(lastCitations));
+  sourcesList.scrollTop = 0;
 }
 
 async function rebuildIndex() {
@@ -299,8 +243,6 @@ async function rebuildIndex() {
       "Neuaufbau",
       `<div>${escapeHtml(result.message || "Neuaufbau abgeschlossen.")}</div>`
     );
-
-    await loadVideos();
   } catch (error) {
     openDialog("Fehler", `<div>${escapeHtml(error.message)}</div>`);
   } finally {
@@ -330,13 +272,12 @@ async function sendMessage(message) {
     lastCitations = Array.isArray(data.citations) ? data.citations : null;
     removeLoadingMessage();
     addMessage("bot", data.answer || "Es wurde keine Antwort geliefert.");
-    if (infoDialog.open && dialogTitle.textContent === "Letzte Quellenstellen") {
-      loadSources();
-    }
+    renderSources();
   } catch (error) {
     if (error.status === 404 && conversationId) {
       conversationId = null;
       lastCitations = [];
+      renderSources();
       error.message = "Deine Sitzung ist abgelaufen. Die nächste Nachricht beginnt einen neuen Chat ohne den bisherigen Kontext.";
     }
     removeLoadingMessage();
@@ -378,9 +319,9 @@ chatForm.addEventListener("submit", async (event) => {
   await sendMessage(message);
 });
 
-reloadVideosBtn.addEventListener("click", loadVideos);
-showSourcesBtn.addEventListener("click", loadSources);
-rebuildBtn.addEventListener("click", rebuildIndex);
+if (rebuildBtn) {
+  rebuildBtn.addEventListener("click", rebuildIndex);
+}
 
 async function init() {
   setChatEnabled(false);
@@ -389,10 +330,8 @@ async function init() {
   const backendAvailable = await checkBackend();
 
   if (backendAvailable) {
-    await loadVideos();
     chatInput.focus();
   }
 }
 
 init();
-
