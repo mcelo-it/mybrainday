@@ -58,7 +58,7 @@ function addMessage(role, text) {
   chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
-function showLoadingMessage(text = "Antwort wird erstellt...") {
+function showLoadingMessage(text = "Antwort wird gesucht...") {
   removeLoadingMessage();
 
   const wrapper = document.createElement("div");
@@ -161,12 +161,47 @@ async function checkBackend() {
   }
 }
 
+function createSourceDetail(source) {
+  const card = document.createElement("article");
+  card.className = "source-card";
+
+  const area = document.createElement("p");
+  area.className = "source-area";
+  const areaNumber = source.subject_area_number ? ` ${source.subject_area_number}` : "";
+  area.textContent = `Fachbereich${areaNumber} · ${source.subject_area_name || "Nicht zugeordnet"}`;
+
+  const module = document.createElement("h4");
+  module.className = "source-module";
+  module.textContent = `Modul ${source.module_number} · ${source.module_name}`;
+
+  const video = document.createElement("p");
+  video.className = "source-video";
+  video.textContent = `Video ${source.video_number} · ${source.video_name}`;
+
+  const time = document.createElement("p");
+  time.className = "source-time";
+  time.textContent = `Zeitstelle: ${source.time_range || "Nicht angegeben"}`;
+
+  const quote = document.createElement("blockquote");
+  quote.className = "source-quote";
+  quote.textContent = source.text_preview || source.text || "";
+
+  card.append(area, module, video, time, quote);
+  return card;
+}
+
 function createSourcesList(sources) {
   const list = document.createDocumentFragment();
 
   for (const source of sources) {
-    const card = document.createElement("article");
+    const card = document.createElement("button");
+    card.type = "button";
     card.className = "source-card";
+    card.style.width = "100%";
+    card.style.textAlign = "left";
+    card.style.cursor = "pointer";
+    card.style.color = "inherit";
+    card.setAttribute("aria-label", `Lehrvideoquelle öffnen: Modul ${source.module_number}, Video ${source.video_number}`);
 
     const area = document.createElement("p");
     area.className = "source-area";
@@ -181,15 +216,11 @@ function createSourcesList(sources) {
     video.className = "source-video";
     video.textContent = `Video ${source.video_number} · ${source.video_name}`;
 
-    const time = document.createElement("p");
-    time.className = "source-time";
-    time.textContent = `Zeitstelle: ${source.time_range || "Nicht angegeben"}`;
+    card.append(area, module, video);
+    card.addEventListener("click", () => {
+      openDialog("Lehrvideoquelle", createSourceDetail(source));
+    });
 
-    const quote = document.createElement("blockquote");
-    quote.className = "source-quote";
-    quote.textContent = source.text_preview || source.text || "";
-
-    card.append(area, module, video, time, quote);
     list.appendChild(card);
   }
 
