@@ -3,6 +3,56 @@ import json
 import re
 
 
+_STOPWORDS = {
+    'aber', 'als', 'auch', 'auf', 'aus', 'bei', 'das', 'dass', 'dem', 'den', 'der', 'des', 'die', 'ein',
+    'eine', 'einer', 'eines', 'für', 'fuer', 'hat', 'haben', 'ist', 'im', 'in', 'mit', 'oder', 'sich',
+    'sind', 'und', 'von', 'warum', 'was', 'welche', 'welcher', 'welches', 'wie', 'wird', 'zu', 'zur', 'zum'
+}
+
+
+def _content_terms(text):
+    return {
+        token for token in re.findall(r'[a-zA-ZäöüÄÖÜß0-9]+', text.casefold())
+        if len(token) >= 3 and token not in _STOPWORDS
+    }
+
+
+def _legacy_answer_relevance_order(query, selected, evidence, candidates):
+    """Rank old-schema evidence by answer relevance, never by module/video/source order."""
+    current_query = re.split(r'Originale Folgefrage:|Folgefrage:', query)[-1]
+    query_terms = _content_terms(current_query)
+    evidence_by_source = {}
+    for item in evidence:
+        if isinstance(item, dict) and isinstance(item.get('source'), int) and isinstance(item.get('span'), str):
+            evidence_by_source.setdefault(item['source'], []).append(item['span'])
+
+    def score(source):
+        spans = evidence_by_source.get(source, [])
+        evidence_text = ' '.join(spans)
+        evidence_terms = _content_terms(evidence_text)
+        overlap = len(query_terms & evidence_terms) / max(1, len(query_terms))
+        candidate = candidates[source - 1]
+        semantic = float(candidate.get('score', candidate.get('context_anchor_score', 0.0)) or 0.0)
+
+        # Direct answer signals help result/value passages outrank nearby setup text.
+        direct_signal = 0.0
+        lowered_query = current_query.casefold()
+        lowered_evidence = evidence_text.casefold()
+        if re.search(r'wie\s+(?:viel|groß|gross|hoch|stark)|welch\w*\s+wert', lowered_query):
+            if re.search(r'\b\d+(?:[.,]\d+)?\s*(?:[mkµu]?[va w]|volt|ampere|watt)\b', lowered_evidence):
+                direct_signal += 1.0
+            if re.search(r'\b(?:null|kein(?:en)?)\b', lowered_evidence):
+                direct_signal += 0.8
+        if any(term in lowered_evidence for term in ('beträgt', 'ist', 'ergibt', 'entspricht', 'bedeutet')):
+            direct_signal += 0.2
+
+        # Tuple comparison is deterministic and independent of transcript ordering.
+        return (direct_signal, overlap, semantic)
+
+    ranked = sorted(dict.fromkeys(selected), key=score, reverse=True)
+    return ranked
+
+
 def quantity_supported(query, spans):
     # Follow-up search wrappers preserve the actual current question last.
     query = re.split(r'Originale Folgefrage:|Folgefrage:', query)[-1].casefold()
@@ -35,9 +85,12 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
     if not isinstance(result, dict):
         return finish('invalid_schema')
 
+    new_schema = set(result) == {'answer_sources', 'supporting_sources', 'evidence'}
+    legacy_schema = set(result) == {'selected', 'evidence'}
+
     # New schema: answer sources are structurally separated from supporting
     # context so output order no longer depends on source/module/video order.
-    if set(result) == {'answer_sources', 'supporting_sources', 'evidence'}:
+    if new_schema:
         answer_sources = result['answer_sources']
         supporting_sources = result['supporting_sources']
         evidence = result['evidence']
@@ -55,9 +108,7 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         ordered = list(dict.fromkeys(answer_sources)) + [
             source for source in supporting_sources if source not in answer_sources
         ]
-    # Legacy schema is retained for tests/compatibility, but new review prompts
-    # should no longer rely on list order to identify the actual answer.
-    elif set(result) == {'selected', 'evidence'}:
+    elif legacy_schema:
         selected, evidence = result['selected'], result['evidence']
         if not isinstance(selected, list) or not isinstance(evidence, list):
             return finish('invalid_schema')
@@ -67,11 +118,7 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
             return finish('model_abstained')
         if not selected or not evidence:
             return finish('missing_evidence')
-        evidence_order = list(dict.fromkeys(
-            item.get('source') for item in evidence if isinstance(item, dict)
-        ))
-        selected_order = list(dict.fromkeys(selected))
-        ordered = evidence_order + [source for source in selected_order if source not in evidence_order]
+        ordered = []  # assigned after evidence has been validated
     else:
         return finish('invalid_schema')
 
@@ -110,6 +157,9 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         spans.append(span)
     if not quantity_supported(query, spans):
         return finish('quantity_not_supported')
+
+    if legacy_schema:
+        ordered = _legacy_answer_relevance_order(query, selected, evidence, candidates)
 
     return finish('accepted', ordered)
 
