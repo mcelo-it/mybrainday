@@ -22,9 +22,12 @@ def _legacy_answer_relevance_order(query, selected, evidence, candidates):
     current_query = re.split(r'Originale Folgefrage:|Folgefrage:', query)[-1]
     query_terms = _content_terms(current_query)
     evidence_by_source = {}
-    for item in evidence:
+    evidence_position = {}
+    for position, item in enumerate(evidence):
         if isinstance(item, dict) and isinstance(item.get('source'), int) and isinstance(item.get('span'), str):
-            evidence_by_source.setdefault(item['source'], []).append(item['span'])
+            source = item['source']
+            evidence_by_source.setdefault(source, []).append(item['span'])
+            evidence_position.setdefault(source, position)
 
     def score(source):
         spans = evidence_by_source.get(source, [])
@@ -39,18 +42,18 @@ def _legacy_answer_relevance_order(query, selected, evidence, candidates):
         lowered_query = current_query.casefold()
         lowered_evidence = evidence_text.casefold()
         if re.search(r'wie\s+(?:viel|groß|gross|hoch|stark)|welch\w*\s+wert', lowered_query):
-            if re.search(r'\b\d+(?:[.,]\d+)?\s*(?:[mkµu]?[va w]|volt|ampere|watt)\b', lowered_evidence):
+            if re.search(r'\b\d+(?:[.,]\d+)?\s*(?:[mkµu]?[vaw]|volt|ampere|watt)\b', lowered_evidence):
                 direct_signal += 1.0
             if re.search(r'\b(?:null|kein(?:en)?)\b', lowered_evidence):
                 direct_signal += 0.8
         if any(term in lowered_evidence for term in ('beträgt', 'ist', 'ergibt', 'entspricht', 'bedeutet')):
             direct_signal += 0.2
 
-        # Tuple comparison is deterministic and independent of transcript ordering.
-        return (direct_signal, overlap, semantic)
+        # Earlier review evidence wins only when the answer-relevance signals tie.
+        review_tiebreak = -evidence_position.get(source, len(evidence) + source)
+        return (direct_signal, overlap, semantic, review_tiebreak)
 
-    ranked = sorted(dict.fromkeys(selected), key=score, reverse=True)
-    return ranked
+    return sorted(dict.fromkeys(selected), key=score, reverse=True)
 
 
 def quantity_supported(query, spans):
