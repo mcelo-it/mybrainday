@@ -2,7 +2,7 @@ services:
   - type: web
     name: lehrvideo-chatbot
     runtime: python
-    buildCommand: pip install -r backend/requirements.txt
+    buildCommand: pip install -r backend/requirements.txt && python -m backend.prepare_index
     startCommand: uvicorn backend.app:app --workers 1 --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
