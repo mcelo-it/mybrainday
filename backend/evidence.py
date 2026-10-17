@@ -78,8 +78,15 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         spans.append(span)
     if not quantity_supported(query, spans):
         return finish('quantity_not_supported')
-    # Preserve the review model's relevance order: direct answer first, then descending relevance.
-    return finish('accepted', list(dict.fromkeys(selected)))
+
+    # Use the evidence order as the semantic relevance order. The review step is
+    # instructed to put the passage containing the actual answer first and then
+    # order supporting passages by decreasing relevance. Any selected source not
+    # represented in evidence is appended in the model's selected order.
+    evidence_order = list(dict.fromkeys(item['source'] for item in evidence))
+    selected_order = list(dict.fromkeys(selected))
+    ordered = evidence_order + [source for source in selected_order if source not in evidence_order]
+    return finish('accepted', ordered)
 
 
 def reviewed_indices(raw, candidates, query):
