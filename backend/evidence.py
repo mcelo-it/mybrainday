@@ -32,18 +32,50 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         result = json.loads(raw)
     except (ValueError, TypeError):
         return finish('invalid_json')
-    if not isinstance(result, dict) or set(result) != {'selected', 'evidence'}:
+    if not isinstance(result, dict):
         return finish('invalid_schema')
-    selected, evidence = result['selected'], result['evidence']
-    if not isinstance(selected, list) or not isinstance(evidence, list):
+
+    # New schema: answer sources are structurally separated from supporting
+    # context so output order no longer depends on source/module/video order.
+    if set(result) == {'answer_sources', 'supporting_sources', 'evidence'}:
+        answer_sources = result['answer_sources']
+        supporting_sources = result['supporting_sources']
+        evidence = result['evidence']
+        if not isinstance(answer_sources, list) or not isinstance(supporting_sources, list) or not isinstance(evidence, list):
+            return finish('invalid_schema')
+        selected = list(dict.fromkeys(answer_sources + supporting_sources))
+        if any(type(i) is not int or not 1 <= i <= len(candidates) for i in selected):
+            return finish('invalid_source')
+        if any(source in answer_sources for source in supporting_sources):
+            return finish('invalid_schema')
+        if not answer_sources and not supporting_sources and not evidence:
+            return finish('model_abstained')
+        if not answer_sources or not evidence:
+            return finish('missing_evidence')
+        ordered = list(dict.fromkeys(answer_sources)) + [
+            source for source in supporting_sources if source not in answer_sources
+        ]
+    # Legacy schema is retained for tests/compatibility, but new review prompts
+    # should no longer rely on list order to identify the actual answer.
+    elif set(result) == {'selected', 'evidence'}:
+        selected, evidence = result['selected'], result['evidence']
+        if not isinstance(selected, list) or not isinstance(evidence, list):
+            return finish('invalid_schema')
+        if any(type(i) is not int or not 1 <= i <= len(candidates) for i in selected):
+            return finish('invalid_source')
+        if not selected and not evidence:
+            return finish('model_abstained')
+        if not selected or not evidence:
+            return finish('missing_evidence')
+        evidence_order = list(dict.fromkeys(
+            item.get('source') for item in evidence if isinstance(item, dict)
+        ))
+        selected_order = list(dict.fromkeys(selected))
+        ordered = evidence_order + [source for source in selected_order if source not in evidence_order]
+    else:
         return finish('invalid_schema')
-    if any(type(i) is not int or not 1 <= i <= len(candidates) for i in selected):
-        return finish('invalid_source')
+
     diagnostics['proposed'] = list(dict.fromkeys(selected))[:40]
-    if not selected and not evidence:
-        return finish('model_abstained')
-    if not selected or not evidence:
-        return finish('missing_evidence')
     spans = []
     for item in evidence:
         if not isinstance(item, dict) or set(item) != {'source', 'span'}:
@@ -79,13 +111,6 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
     if not quantity_supported(query, spans):
         return finish('quantity_not_supported')
 
-    # Use the evidence order as the semantic relevance order. The review step is
-    # instructed to put the passage containing the actual answer first and then
-    # order supporting passages by decreasing relevance. Any selected source not
-    # represented in evidence is appended in the model's selected order.
-    evidence_order = list(dict.fromkeys(item['source'] for item in evidence))
-    selected_order = list(dict.fromkeys(selected))
-    ordered = evidence_order + [source for source in selected_order if source not in evidence_order]
     return finish('accepted', ordered)
 
 
