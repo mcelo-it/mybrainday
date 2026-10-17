@@ -39,7 +39,7 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         return finish('invalid_schema')
     if any(type(i) is not int or not 1 <= i <= len(candidates) for i in selected):
         return finish('invalid_source')
-    diagnostics['proposed'] = sorted(set(selected))[:40]
+    diagnostics['proposed'] = list(dict.fromkeys(selected))[:40]
     if not selected and not evidence:
         return finish('model_abstained')
     if not selected or not evidence:
@@ -78,7 +78,8 @@ def validate_review(raw, candidates, query, capture_mismatch=False):
         spans.append(span)
     if not quantity_supported(query, spans):
         return finish('quantity_not_supported')
-    return finish('accepted', sorted(set(selected)))
+    # Preserve the review model's relevance order: direct answer first, then descending relevance.
+    return finish('accepted', list(dict.fromkeys(selected)))
 
 
 def reviewed_indices(raw, candidates, query):
