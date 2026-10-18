@@ -184,7 +184,7 @@ function createSourceDetail(source) {
 
   const quote = document.createElement("blockquote");
   quote.className = "source-quote";
-  quote.textContent = source.text_preview || source.text || "";
+  quote.textContent = source.text || source.text_preview || "";
 
   card.append(area, module, video, time, quote);
   return card;
