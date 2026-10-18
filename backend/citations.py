@@ -51,8 +51,8 @@ def citation_from_chunk(chunk: dict) -> dict:
             "filename", "time_range",
         )},
         "text": text,
-        # Backwards-compatible preview; the source dialog uses full `text`.
-        "text_preview": text[:300],
+        # Keep legacy frontend clients from truncating citation details.
+        "text_preview": text,
     }
 
 
