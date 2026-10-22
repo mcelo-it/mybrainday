@@ -1,0 +1,341 @@
+(0:00:00 - 0:00:16)
+Es geht jetzt eben um das Kommunikationsprotokoll, TCP-IP. Ich persönlich habe hier in der letzten Woche, glaube ich, wieder ziemlich viel gelernt. Ziemlich viele Themen, die wir hier behandelt haben, wo wir uns dann ja persönlich mit unserem Team stark einlesen.
+
+(0:00:17 - 0:00:40)
+Kannte ich vorher so nicht. Und jetzt mal wieder so ein bisschen versuchen, das dann ja für euch zu filtern, damit wir hier in den zwei Stunden das reinkriegen, was wir für interessant halten oder vielleicht auch einfach ein gutes Hintergrundwissen euch mitgeben oder vielleicht auch einfach helfen, dass man sich jetzt was besser merken kann. Deshalb sind jetzt vielleicht so ein paar Themen hier drin, wo man denkt, oh Gott, ist das tiefgehend.
+
+(0:00:40 - 0:00:52)
+Aber dann denken wir wiederum, ja, wenn man das aber vielleicht einmal gehört hat, kann man sich das besser merken. Deshalb gehen wir da jetzt mal durch. Und dann würde mich natürlich, wie immer, euer ehrliches Feedback im Nachgang sehr interessieren.
+
+(0:00:53 - 0:01:05)
+Wenn ihr dann sagt, ja, das war jetzt diesmal nichts, dann ist das ja für uns erst mal toll zu wissen, dass das nichts war, weil dann können wir es in Zukunft ein bisschen anpassen. So, wir waren bei RS-485 seriell. Das haben wir jetzt abgeschlossen.
+
+(0:01:06 - 0:01:24)
+Jetzt ist es noch weiß gefärbt. Wir gehen jetzt runter zu TCP-IP. Und bei TCP-IP haben wir dann eben, nachdem wir jetzt gleich die Schnittstelle erklären, diese TCP-IP-Schnittstelle, haben wir dann diese drei Protokolle, die wir jetzt schon mehrfach erwähnt haben, die wir dann auch nochmal kurz erklären, so wie es vorhin gemacht haben.
+
+(0:01:24 - 0:01:41)
+So, also TCP-IP geht in die Überschrift. Das ist jetzt unser Kapitel, unser Überpunkt. Und erst mal, TCP bedeutet Transmission Control Protocol und IP bedeutet Internetprotokoll.
+
+(0:01:41 - 0:01:51)
+Das kann man sich erst mal merken. Ist vielleicht nicht schlecht zu wissen. Hätte mir jetzt in meinem alltäglichen Leben vielleicht so erst mal noch nicht weitergeholfen, aber jetzt ist das.
+
+(0:01:52 - 0:02:05)
+Jetzt ist es vielleicht ganz interessant zu wissen, dieses Protokoll ist eine Kapsel für Daten. Eine Kapselung, davon spricht man wohl in der Fachsprache. Und die funktioniert wie folgt.
+
+(0:02:06 - 0:02:21)
+Es geht um Layer, würde ich mal sagen, ganz im Allgemeinen. Es gibt verschiedene Schichten in so einem TCP-IP-Protokoll, in so einer Kapselung. Und wenn wir jetzt mal oben anfangen, finde ich, ist das schon der spannendste Layer, den wir gleich zu Beginn vorwegnehmen.
+
+(0:02:21 - 0:02:41)
+Das ist der Data Layer. Und zwar bedeutet das vielleicht so viel, ihr habt jetzt darunter dieses TCP-IP-Protokoll geschichtet und oben drauf, da sitzt jetzt meinetwegen unser Modbus oder unser IEC 61850-Protokoll. Alles, was jetzt darunter kommt, ist vielleicht so eine Art, ja, vielleicht Träger.
+
+(0:02:41 - 0:03:03)
+Wir haben das jetzt versucht, nochmal anders euch vielleicht bildlich mitzugeben, was das dann am Ende alles so ist. Also Data, habe ich gesagt, ist Modbus, IEC 61850 meinetwegen oder das 60875. Das sitzt oben als meinetwegen oberster Layer auf diesem TCP-IP-Protokoll drauf.
+
+(0:03:04 - 0:03:23)
+Und wir haben das jetzt beschrieben als die Ladung. Das ist die Ladung, die man vielleicht als Spediteur, als LKW-Fahrer irgendwo abholt. Und unter diesem Data-Paket oder Layer sitzt dann eben der Transport-Layer.
+
+(0:03:24 - 0:03:34)
+Und der Transport-Layer, der ist eben auch namensgebend für dieses Protokoll. Der nennt sich TCP-Header. Und dieser Transport-Header, der ist für uns eben so etwas wie eine Lieferscheinkontrolle-Zollbeamter.
+
+(0:03:35 - 0:03:52)
+Also hat eine Kontrollfunktion, wurde auch das abgeholt, wurde auch die Ladung, die Daten abgeholt, die wir, sage ich mal, bestellt haben oder die wir erwarten. Das fügt sich zusammen, das ist dann ja am Ende ein Datenpaket. Unter diesem Transport-Layer liegt dann der Internet-Layer.
+
+(0:03:53 - 0:04:10)
+Der Internet-Layer ist der IP-Layer, ist im Prinzip der zweite Layer, der namensgebend ist für dieses TCP-IP-Kommunikationsprotokoll. Und IP-Adressen sind vielen ja erstmal so ein bisschen bekannt. Dieser Layer gibt im Grunde genommen das Ziel der Reise vor.
+
+(0:04:10 - 0:04:34)
+Sagen wir mal, wir wollen mit der IP-Adresse 192.168.1.100 kommunizieren mit einer Subnetzmaske, was wir später nochmal erklären. Dann ist eben genau das der Header, der die Adresse, das Ziel oder den Teilnehmer anfragen soll, der eben antworten soll. Oder vielleicht das Lager festlegt, wo unser Paket abgeholt werden soll.
+
+(0:04:37 - 0:05:03)
+Dann kommt unten drunter nochmal ein Network-Access-Layer. Das ist der Ethernet-Header und hinten ist noch so ein FCS, so ein Kontrollfunktions-Layer mit dran. Dieser Network-Access-Layer, der würde jetzt vielleicht festlegen, ob wir vielleicht per, sagen wir mal, wir fahren über eine Autobahn, dann würde er vielleicht festlegen, ob wir die linke oder die rechte Spur verwenden.
+
+(0:05:04 - 0:05:35)
+Ob es eine Autobahn ist oder vielleicht die Zugstrecke, das würden wir jetzt in diesen Layern vielleicht erstmal noch nicht festlegen, sondern das kommt dann in dem allerletzten Layer. Das ist jetzt für mich der physikalische Layer. Das heißt, wir haben jetzt erstmal ein Protokoll geschaffen, was im Grunde genommen von der Festlegung der Route bis zur Lieferscheinkontrolle, Abholung des Pakets und das Ganze dann natürlich zurückbringen zu dem Ziel, alles festlegt.
+
+(0:05:35 - 0:06:06)
+Und jetzt brauchen wir eben noch eine Festlegung, ob das Ganze über die Schiene, über die Autobahn oder meinetwegen über ein LAN- oder Ethernet-Kabel oder ein LWL-Kabel oder eben andere Medien abläuft. Hier haben wir jetzt mal, ihr seht das glaube ich, das ist ein RJ45-Stecker, also ein Ethernet-Kabel verwendet. Das ist jetzt im Grunde genommen die Autobahn oder die Schiene und das ist dann eine direkte Verbindung jetzt erstmal zwischen unserem, naja, hier ist es vielleicht ein Parkregler, zu unserem Datenlogger.
+
+(0:06:07 - 0:06:15)
+So funktioniert das Ganze, so ist das aufgebaut. Das steckt dahinter. Details bitte bei der Universität anfragen, da kann ich dann auch nicht mehr weiterhelfen.
+
+(0:06:16 - 0:06:39)
+Aber vom Grundsatz her habt ihr jetzt vielleicht mal eine Idee, was das eigentlich alles so ist, was da im Hintergrund passiert. So, das Paket, was wir hier haben, das schießt dann hin und her zwischen unserem, ich sag mal, ja, das kommt später, zwischen unserem Server und unserem Klienten oder Client. Also wir fragen Daten an und der gibt uns dann eben Werte zurück.
+
+(0:06:39 - 0:06:59)
+Der Server serviert uns das Ganze dann. So, das waren jetzt diese zwei Punkte. Also diese zwei TCP-IP, das sind eben tatsächlich Layer innerhalb des Protokolls, auf dem dann wiederum unsere Protokolle, die wir dann ja im weiteren Verlauf noch erklären, eben aufsatteln können.
+
+(0:07:01 - 0:07:18)
+Genau, das ist die Struktur, ist Client-Server, das habe ich eben schon mal, gerade schon kurz erwähnt. Aber wir wollen euch das vielleicht noch mal ein bisschen mehr im Detail zeigen. Dieses kleine Icon, da stellst du es vielleicht ja schon ganz gut dar.
+
+(0:07:18 - 0:07:38)
+Also man sieht da verschiedene Teilnehmer, die in einer gewissen Struktur miteinander verbunden sind. Die einfachste Struktur, die man sich vielleicht vorstellen kann, ist, dass man einen Client hat, unser Gateway-Photovoltaikanlage, und man hat ein Netzanalysegerät. Und dieses Gateway-Photovoltaikanlage ist dann eben der Client.
+
+(0:07:39 - 0:07:56)
+Also der möchte gerne etwas wissen und der schickt dann eine Anfrage, meinetwegen zu einem Netzanalysegerät oder zu einem Schutzgerät. Und diese drei Geräte hier sind dann eben die Server. Also diese Geräte liefern dann eben Informationen zurück.
+
+(0:07:57 - 0:08:08)
+Ich denke, man kennt ja auch Server immer mal so aus dem allgemeinen Sprachgebrauch, wenn es um Internetkommunikation geht. Also man kann Anfragen an Server schicken und die schicken einem Infos zurück. So ist das irgendwie.
+
+(0:08:11 - 0:08:22)
+Genau, einfachste Struktur, da war ich eben. Man hat jetzt nur ein Client und einen Server und wir haben eine Verbindung zwischen diesen beiden Geräten. Dann können die direkt miteinander sprechen, gar kein Problem.
+
+(0:08:24 - 0:08:44)
+Wichtig ist aber natürlich, dass der eine die IP-Adresse vom anderen kennt, sonst wird auch das wieder schwierig. Jetzt hätten wir mal eine etwas komplexere Struktur und ich sage mal, von der Komplexität kratzen wir hier wirklich am allerobersten, in der ganz oberen Schicht. Das ist, sage ich mal, so ein klassischer Aufbau in unserer TRAFO-Station vielleicht.
+
+(0:08:44 - 0:08:52)
+Oder in unserer Übergabestation. Da haben wir das Gateway der Photovoltaikanlage. Das kann auf der einen Seite natürlich zum Netzbetreiber sprechen.
+
+(0:08:53 - 0:09:00)
+Auf der anderen Seite hat es die Kommunikation zu unseren Geräten. Und jetzt haben wir mehr als ein Gerät. Das ist jetzt hier der Punkt.
+
+(0:09:00 - 0:09:16)
+Also wir haben nicht nur das Netzanalysegerät, sondern haben eben auch noch ein Schutzrelais, was TCP-IP basiert kommunizieren kann und noch einen Parkregler. Der kann das auch. Und dann kann man die eben nicht alle an unser Gateway anschließen, weil das hat einfach nicht so viele Eingänge.
+
+(0:09:17 - 0:09:41)
+Was brauchen wir? Ganz einfach, viele wissen das, die meisten wissen das, nehme ich an, man bräuchte eben einen Switch, der dann eben die Kommunikation herstellt vom Gateway zu den anderen Teilnehmern. Der dann eben diese Daten verteilt an die entsprechenden Ziele, an die entsprechenden Empfänger. Das ist im Grunde genommen die Struktur.
+
+(0:09:41 - 0:09:50)
+Also das ist die Struktur, die wir jedes Mal wahrscheinlich so selbstverständlich bauen in unseren Parks. Man hat einen Switch, man schließt dort verschiedene Teilnehmer an. Eigentlich ganz einfach.
+
+(0:09:53 - 0:10:27)
+Und wie ich es auch schon erwähnt hatte, funktioniert es immer so, der Client oder hier in Klammern Master ist ja auch immer nochmal so ein anderer Sprachgebrauch. Der fragt eben an, der initiiert die Kommunikation und die Slaves oder die Server, die Antworten dann eben mit den entsprechend angefragten Datenpaketen, meinetwegen. So, dieses TCP IP, das sagt jetzt erst mal nicht viel über die Übertragungsmedien aus.
+
+(0:10:28 - 0:10:38)
+Wichtig ist, dass hier eine Zweidrahtkommunikation nicht mehr funktioniert. Hier gibt es dann andere Medien. Vorhin hatten wir im Bild ja schon das Ethernet-Kabel.
+
+(0:10:38 - 0:10:48)
+Das taucht jetzt auch hier als allererstes auf. Also die Kommunikation ist erst mal ein bisschen komplexer, würde ich sagen. Das Übertragungskabel braucht mehr als zwei Fasern.
+
+(0:10:48 - 0:11:02)
+Ich glaube, ein Ethernet-Kabel, ja, schwimme ich schon, hat, glaube ich, acht Fasern. Und man kann aber auch diese Kommunikation über Wi-Fi aufbauen, ist eben das, was wir hier auch selbstverständlich jeden Tag im Büro machen. Man bindet sich ins WLAN ein.
+
+(0:11:03 - 0:11:16)
+Man hat ein TCP IP-Protokoll. Man bekommt hier eine IP-Adresse zugewiesen von unserem Router und kann dann eben direkt mit unserem Netzwerk kommunizieren. Dann gibt es die Powerline-Kommunikation.
+
+(0:11:16 - 0:11:26)
+Das ist, na ja, ganz neu ist es nicht, aber in Solarparks hat sich das jetzt an vielen Stellen durchgesetzt. Seit ein paar Jahren gibt es das. Also wir brauchen dann gar kein Kabel mehr.
+
+(0:11:27 - 0:11:48)
+Wir können unser Kommunikationssignal dann eben auf die AC-Niederspannungsleitung aufprägen, sage ich mal, und dann über diese AC-Kabel mit unseren Wechselrichtern kommunizieren. Geht eben auch so. Und wir haben, das ist, glaube ich, ganz wichtig, und da waren wir letzte Woche im Brainday auch sehr tief drin, das Thema Lichtwellenleiter.
+
+(0:11:49 - 0:12:05)
+Auch der kann dieses TCP IP-Protokoll wunderbar übertragen über weite Strecken, hohe Datenraten. Das sind unsere Übertragungsmedien, die wir am Ende haben. So, jetzt haben wir hier ein kleines Animationsproblem, das ist aber überhaupt nicht weiter schlimm.
+
+(0:12:07 - 0:12:27)
+Wir haben den Überpunkt IP-Adressen. Und diese IP-Adressen, da kommen wir nachher noch mal drauf zu, welche Adressbereiche es vielleicht gibt, wie eine IP-Adresse aufgebaut ist, kommt später. Aber jetzt erst mal, eine IP-Adresse ist erst mal dafür da, um jedes Gerät im Netzwerk zu identifizieren.
+
+(0:12:28 - 0:12:39)
+In unserem Solarpark legen wir das ja auch fest. Auch das kommt später, welcher Teilnehmer welche Adresse bekommt. Und dann bekommt eben das Gerät auch diese feste IP.
+
+(0:12:40 - 0:12:56)
+Und damit ist es dann eben auch klar identifiziert. IP-Adressen erleichtern dann die Weiterleitung von Datenpaketen zwischen Geräten, so ist das gedacht. Ganz einfach am Ende, was alles dahintersteckt mit dieser ganzen Layer-Struktur und so weiter, das ist dann doch schon sehr komplex.
+
+(0:12:56 - 0:13:20)
+Das funktioniert immer alles so wunderbar, aber da steckt natürlich jahrelange Entwicklung dahinter, sodass das alles so reibungslos funktioniert, wie wir es jetzt kennen. Dann, vielleicht noch gut mal gehört zu haben, es gibt IP4 und IP6, IPv6. Das IPv4, das ist das, was wir in der Regel in unseren Parks nutzen.
+
+(0:13:22 - 0:13:37)
+Es hat eben vier Dezimalzahlen im Bereich von 0 bis 255. Ein Beispiel kommt da jetzt über meinem Kopf. Das ist eine klassische IP4-IP-Adresse, weil es eben diese vier, ich glaube man nennt es auch Oktette, hat.
+
+(0:13:37 - 0:13:46)
+Also 192 ist eins, 168 ist eins, die 1 und die 10. Das ist das, was wir häufig kennen. Es gibt aber auch IPv6.
+
+(0:13:48 - 0:14:01)
+Das ist das neuere, würde ich jetzt mal sagen. Und man hat eben irgendwann, wahrscheinlich schon vor 20 Jahren, festgestellt, dass so ein IP4-Adressbereich irgendwann von der Kapazität an Grenzen stößt. Das Internet ist einfach groß geworden.
+
+(0:14:02 - 0:14:14)
+Hat ja Größenordnungen eingenommen, die kaum vorstellbar sind wahrscheinlich. Und deshalb hat man dann eben dieses IPv6 initiiert. Und das ist dann eben, sage ich mal, vielleicht die Zukunft.
+
+(0:14:15 - 0:14:28)
+Wir in unserem Solarpark nutzen dann diese vier Dezimalstellen, also IPv4, das reicht völlig aus. Weil wir eben nicht Millionenteilnehmer haben, sondern eher, ich sage mal, im Bereich von 100, vielleicht mal von 1000 liegen. Aber das ist dann auch schon alles.
+
+(0:14:30 - 0:14:42)
+Jetzt gibt es noch einen wichtigen Punkt. Ich glaube, als wir über die Netzanalysegeräte gesprochen haben, da ist das immer mal ganz wichtig. Dieses DHCP, Direct Host Configuration Protocol.
+
+(0:14:43 - 0:14:59)
+Damit kann man jetzt festlegen, ob man eine IP-Adresse zugewiesen haben möchte oder ob man eine feste IP-Adresse bekommt. Da muss man dann eben darauf achten, dass das entsprechend eingestellt ist. Bei den Netzanalysegeräten ist das eben so, dass das standardmäßig vielleicht nicht richtig eingestellt ist.
+
+(0:14:59 - 0:15:10)
+Und dann versuchen die entweder eine IP-Adresse zu empfangen oder anderen Geräten eine zuzuteilen. Das stört dann natürlich unsere ganze Struktur. Das heißt, wir müssen darauf achten, dass wir die statisch einstellen.
+
+(0:15:11 - 0:15:36)
+Jedes Gerät kriegt eine statische IP. Und wenn ich mich mit meinem Laptop in so einem Netzwerk vielleicht verbinde, um da Konfigurationen durchzuführen, dann ist es häufig auch so, dass ich meistens eine feste IP in meinem Laptop einstellen muss, um eben in den Netzwerkbereich zu kommen. Das Zweite, was man immer braucht, ist die Subnetzmaske.
+
+(0:15:37 - 0:15:44)
+Die sieht in den meisten Fällen gleich aus. Viele haben sich vielleicht gefragt, warum. Viele auch wahrscheinlich nicht.
+
+(0:15:45 - 0:16:00)
+Aber wichtig ist vielleicht zu wissen, dass diese Subnetzmaske so ein Netzwerk segmentieren kann. Dadurch, dass wir in der Regel 255.255.255.0 sehen, hat wahrscheinlich ein Grund. Da kommen wir dann später nochmal dazu.
+
+(0:16:01 - 0:16:28)
+Aber man kann eben mit dieser Subnetzmaske das Netzwerk aufteilen, segmentieren. Und zwar bedeutet das dann im Detail, wenn wir diese lange Subnetzmaske haben, die ich eben genannt habe, dann ist klar festgelegt, wie viele Teilnehmer man in diesem Netzwerk haben kann und wie viele Netze man damit aufbauen kann. Auch das kommen wir vielleicht später nochmal zu.
+
+(0:16:29 - 0:16:42)
+Aber dafür verwendet man diese Subnetzmaske. Und eben durch diese Anpassung der Netze und der Teilnehmer erhöht man dann die Effizienz der Netze. Das ist dann eben die Netzwerkeffizienz.
+
+(0:16:44 - 0:16:52)
+Jetzt kommen wir mal hier auf eine klassische IPv4-Subnetzmaske. Ich habe sie eben genannt. Diese Zahlen sind das.
+
+(0:16:52 - 0:17:04)
+Die kennen wahrscheinlich viele aus dem normalen Photovoltaik-Business. So, jetzt geht es mal los. Jetzt wird es hier kompliziert.
+
+(0:17:05 - 0:17:14)
+Diese Adresse 255.255.0 steht jetzt hier nochmal. Und man kann diese Adresse von Dezimal in Binär umrechnen. Also, unsere Computer arbeiten binär.
+
+(0:17:15 - 0:17:32)
+Das heißt 1 und 0. Und wie komme ich auf 255.255.255? Indem meine Oktette alle eine 1 darstellen. Man zählt das jetzt, glaube ich, auch von rechts nach links. Die erste 1 ist eine 1, die zweite ist eine 2, die dritte ist eine 4, dann kommt eine 8, eine 16, 32.
+
+(0:17:33 - 0:17:59)
+Und wenn wir die aufaddieren, kommen wir genau auf 255. Und was jetzt hier passiert ist, dass die ersten 3 Oktette eben mit der 255 oder mit 8 Einsen markiert sind und das letzte Oktett mit Nullen. Und dadurch wird unserem schlauen Computer oder unserem Netzwerk erstmal festgelegt, dass wir eine kleine Teilnehmeranzahl haben, der rechte Teil, und eine große Netzwerkzahl darstellen können.
+
+(0:18:00 - 0:18:06)
+Das ist erstmal so. Und das ist unser Standard, mit dem wir meistens arbeiten. Das steckt im Grunde genommen hinter dieser Subnetzmaske.
+
+(0:18:07 - 0:18:31)
+Gleich kommt das vielleicht auch noch mal ein bisschen in der Tabelle, was das dann bedeutet oder in welchen Fällen man vielleicht in andere Bereiche wechseln kann. Also die Teilnehmeranzahl hinten, der letzte Teil, sind 2 hoch 8 Bits, minus 2, weil manche davon dürfen wir nicht verwenden. Und dann kommen wir auf eine maximale Anzahl von Teilnehmern in so einem Netz von 254.
+
+(0:18:31 - 0:18:53)
+Gut zu wissen. Und 254 würde ich sagen, in 90% der Solarparks ist das erstmal völlig ausreichend. Klasse C Netzwerk ist damit definiert mit der Subnetzmaske 255, 255, 255, 0. Die Teilnehmeranzahl ist, sage ich mal, klein.
+
+(0:18:53 - 0:19:04)
+Dafür ist die Anzahl der Netze, die möglich sind, extrem groß. Wir haben ja 3 Oktette für die Netze und nur ein Oktett für die Teilnehmer. Das ist erstmal das Mittel der Wahl für unseren kleinen Solarpark.
+
+(0:19:05 - 0:19:15)
+Das ist die optimierte Version für wenig Teilnehmer. Ein IP-Adressbereich ist festgelegt hier. Kommen wir gleich auch noch mal dazu.
+
+(0:19:17 - 0:19:51)
+Der sieht dann immer so aus. Da gibt es die, ja, wir kommen gleich noch mal zu dem genauen Namen, eine Internetbehörde, die eben genau diese IP-Adressen festlegt. So, wenn wir irgendwann feststellen, unser Netzwerk reicht vielleicht nicht mehr aus, weil wir haben mehr als 254 Teilnehmer, oder wir wollen auch einfach mehr als 254 Teilnehmer anschließen oder mehr Zahlen zur Verfügung haben, dann hat man die Möglichkeit, seine Netzwerkstruktur zu ändern und in die Netzwerkklasse B zu wechseln.
+
+(0:19:51 - 0:20:12)
+Und ihr seht das jetzt gleich oben in der Subnetzmaske. Man setzt die letzten beiden Oktette auf Null und dadurch erreicht man eine Verschiebung zwischen Netzwerkanzahl und Teilnehmeranzahl. Jetzt haben wir deutlich mehr Teilnehmer zur Verfügung, dafür ist die Netzwerkanzahl erst mal geringer.
+
+(0:20:18 - 0:20:40)
+Für uns hat das fast keine praktische Anwendung. Wenn man jetzt ganz, ganz, ganz viele Teilnehmer haben will, dann müsste man diese Subnetzmaske weiter optimieren auf 255.000 und dann hätte man eben die Möglichkeit, eins von 126 Netzwerken zu verwenden. Ich glaube, eins gehört Google, eins gehört Apple, Mercedes-Benz gehört auch eins davon.
+
+(0:20:41 - 0:20:51)
+Es gibt einfach wenig große Firmen, die jetzt in diesen Netzwerken agieren. Für uns hat das absolut keine Relevanz. Vielleicht für die Telekom, aber eben nicht für unseren Solarpark.
+
+(0:20:51 - 0:21:15)
+Aber wenn ihr das hier so seht, wenn ihr da kleine Zahlen vielleicht in eurem Adressbereich stehen habt, dann sind das meistens IP-Adressen für die externe Kommunikation. Meinetwegen über die Telekom durch einen VPN-Tunnel auch solche Geschichten. Alles andere 192 Punkt, das ist das, was wir im Solarpark in der Regel finden.
+
+(0:21:17 - 0:21:43)
+Jetzt kommt noch ein wichtiger Punkt vielleicht. Es gibt Privat versus öffentliches Netz. Ja, was bedeutet das denn jetzt wieder genau? Es gibt eine, das ist der Name, den ich eben nicht im Kopf hatte, die IANA, Internet Assigned Numbers Authority, die legt fest, welche IP-Adressen es überhaupt gibt und die segmentiert oder die unterteilt diese Adressen auch noch mal in öffentlich und privat.
+
+(0:21:44 - 0:21:59)
+Um es vielleicht ein bisschen leichter ist vielleicht, man merkt sich jetzt die privaten Adressen, weil die sind für uns meistens relevant. Es gibt von dieser Behörde eben ein IP-Adressbereich, der nicht für die Kommunikation nach außen gedacht ist. Und jetzt verschwindet schon der gesamte Adressbereich und er wird auf einmal kleiner.
+
+(0:22:00 - 0:22:27)
+Und jetzt tauchen da Adressen auf, die ihr vielleicht kennt. Vor allem im Bereich Klasse C ist es eben nicht durch Zufall, also es ist nicht zufällig, dass immer alle IP-Adressen bei uns im Solarpark 192.168 sind, sondern das ist eine Festlegung von der Internetbehörde, die eben die 192.168 als privates Netzwerk definiert. Und dann kann man eben nur innerhalb dieses Netzwerks kommunizieren.
+
+(0:22:27 - 0:22:51)
+Hat dann eben den Vorteil, dass da nicht einfach ständig Daten nach außen aus Versehen geleitet werden, dass man eben ein sicheres, privates Netzwerk hat, in dem man dann sich mit seinen Geräten unterhalten kann und vielleicht erst mal geschützt ist. So, jetzt verschieben wir hier noch mal diese Oktetten, damit wir aus der Klasse C in eine andere Klasse wandern. So macht man das dann.
+
+(0:22:52 - 0:23:02)
+Jetzt wäre man in der Klasse B, mehr Teilnehmer, weniger Netze. Und das Ganze könnte man für die Klasse A eben auch noch mal durchführen. Puh, muss ich selbst einmal durchatmen.
+
+(0:23:03 - 0:23:44)
+TCP-IP haben wir jetzt hinter uns gebracht und würden jetzt, ich sage mal, diese Protokolle, die eben auf dieses Protokoll aufsatteln oder von diesem Protokoll getragen werden, uns noch mal, ich sage mal, kurz anschauen, weil für das Detail natürlich überhaupt keine Zeit wieder ist. Aber das Kurze, ich sage mal, das Grobe, denke ich, reicht für unsere Elektroplaner-Anwendung aus. Wenn ihr irgendwann zu Solarparks kommt, wo ihr meinetwegen in die Klasse B rein müsst, dann ist es sicherlich sinnvoll, da noch mal Experten mit dazu zu holen, weil da braucht man natürlich viel Erfahrung.
+
+(0:23:44 - 0:24:06)
+Und ich als Elektroplaner, ich habe natürlich jede Woche mal mit Netzwerken zu tun, aber bestimmt auch nicht jeden Tag. Und die Leute, die das jeden Tag machen, die haben dann immer noch mal Tricks und Kniffe und können das sicherlich auch aus der Perspektive IT-Sicherheit viel sinnvoller betrachten, als wir das so können. Es ist einfach eine andere Disziplin, würde ich sagen.
+
+(0:24:06 - 0:24:27)
+Also für euch reicht das jetzt erst mal so. Ihr habt jetzt vielleicht ein grobes Handwerkszeug dabei und versteht jetzt, wie das hier mit den IEC- oder Modbus-TCP-Adressen gleich funktioniert. Und wir starten dann mal mit Modbus-TCP, weil, das wiederholt sich jetzt ein bisschen, diese Bullet-Points, die wir hier sehen, es ist auch immer noch das meistgenutzte Protokoll.
+
+(0:24:27 - 0:24:35)
+Das hatten wir vorher schon mal erwähnt. Und es gibt es auch immer noch häufig in PV-Anlagen. Aber vielleicht holt es euch noch mal ab.
+
+(0:24:35 - 0:24:42)
+Das ist wirklich sehr relevant für uns. Einfach umsetzbar und es ist ein offenes Protokoll. Das heißt, es kostet nichts.
+
+(0:24:43 - 0:25:11)
+Deshalb gilt hier das Gleiche wie für Modbus-RTU, gilt eben auch für Modbus-TCP. Und jetzt, ohne hier wirklich ins Detail zu gehen, was dann programmiertechnisch hinter so einem Modbus-TCP steht, wie eine Datenpunktliste aussieht, geht es jetzt wieder in so eine Übersicht. Wo verwenden wir denn, bei welchen Geräten verwenden wir denn jetzt tatsächlich Modbus-TCP? Und das sind Netzanalysegeräte.
+
+(0:25:11 - 0:25:21)
+Klar, die kriegen eine IP-Adresse, die kommunizieren dann per Modbus-TCP. Es gibt Switcher, die das können. Und es gibt Parkregler.
+
+(0:25:23 - 0:25:38)
+Und Schutzrelais können das auch. Also sie müssen nicht mit 103 seriell kommunizieren. Viele Schutzrelais können eben auch Modbus und können dann eben auch direkt mit einer IP-Adresse versehen werden und mit anderen Geräten sprechen.
+
+(0:25:40 - 0:25:46)
+Und dann die Datenlogger. Das ist wahrscheinlich eines der meistgenutzten Geräte in unseren Parks. Die können das natürlich auch.
+
+(0:25:48 - 0:26:06)
+Welche Parameter brauchen wir für Modbus-TCP? Die hatten wir im Grunde genommen ja schon durch unsere Schnittstellendefinition vorher alle genannt. IP-Adresse und die Subnetzmaske. Das sind im Grunde genommen die zwei wichtigen Parameter, die wir da brauchen.
+
+(0:26:09 - 0:26:20)
+Die Teilnehmeranzahl. Das hatten wir eben ja auch schon für euch ausreichend hinterleuchtet. Es könnten erstmal 254 Stück sein, wenn wir uns in der Klasse C befinden.
+
+(0:26:22 - 0:26:32)
+Man könnte jetzt natürlich auch sagen, wir können auch zwei Router nehmen und könnten die Zahl dann verdoppeln. Das geht natürlich auch. Es gibt immer mehrere Möglichkeiten, die zum Ziel führen.
+
+(0:26:32 - 0:26:55)
+Aber erstmal ein Router hat 254 Teilnehmer in der Klasse C. Oder wir können die Klasse B verwenden, also das Netzwerk deutlich vergrößern. Und dann kommen wir eben auf gut 65.000 Teilnehmer, was dann natürlich erheblich viel mehr Spielraum für die Vergabe von IP-Adressen bietet. Das war Modbus.
+
+(0:26:55 - 0:27:08)
+Von dort springen wir jetzt zu dem 104er-Protokoll. Ihr erinnert euch, was da drüber steht. Das 101er-Protokoll ist ein Stück weit das Gegenstück.
+
+(0:27:08 - 0:27:30)
+Allerdings sind wir jetzt unter der Linie TCP-IP basiert. Auch hier gilt wie für die Protokolle 101 und 103, dass die speziell für den Einsatz in elektrischen Anlagen entwickelt wurden. Das heißt für Netzbetreiber in Umspannwerken, vielleicht auch in Solarparks.
+
+(0:27:30 - 0:27:53)
+Das 104er-Protokoll ist dann aber eine Schnittstelle zu dem Netzbetreiber. Innerhalb des Solarparks tun wir damit nichts, sondern von unserem Photovoltaikanlagen-Gateway zu dem Netzbetreiber sprechen wir eben TCP auf Basis des 104er-Protokolls. Das ist eben ein Protokoll.
+
+(0:27:53 - 0:28:03)
+Da wundert man sich auch oft. Ich glaube, diese ganze IEC-Norm ist schon in den 80er Jahren entwickelt worden. Das ist nicht von heute, sondern von gestern.
+
+(0:28:04 - 0:28:20)
+Aber trotzdem immer noch aktueller Standard. Auch hier haben wir einen Zeitstempel, den dieses Protokoll verwendet. Hier die Geräte noch mal als Übersicht, damit ihr Bescheid wisst.
+
+(0:28:20 - 0:28:37)
+Das 104er-Protokoll könnt ihr dann immer zuordnen dem Gateway des Netzbetreibers und dem Gateway der Photovoltaikanlage. Genau dazwischen läuft dieses Protokoll und so gut wie nirgendwo anders. Die Parameter, die wir verwenden, sind auch hier identisch.
+
+(0:28:38 - 0:28:59)
+Das Träger-Protokoll ist TCP-IP, die Schnittstelle ist TCP-IP und da haben wir eine IP-Adresse und eine Subnetzmaske. Zusätzlich kommt noch die gemeinsame Adresse, die ASDU. Schön, wenn ihr das gehört habt, aber auch hier ist das wirklich der Fachbereich des Lieferanten eures Parkreglers.
+
+(0:28:59 - 0:29:13)
+Der muss die Kommunikation zwischen Netzbetreiber und Parkregler herstellen. Der muss diese Datenpakete austauschen, die gefordert werden. Das ist nicht so ganz eure Aufgabe, aber es ist immer hilfreich, ein bisschen mehr zu wissen als die anderen.
+
+(0:29:16 - 0:29:33)
+Dann die Anzahl der Teilnehmer. Zwei, genau. Hier lässt die Schnittstelle natürlich mehr Teilnehmer zu, aber es reden hier wirklich nur diese zwei Netzbetreiber und Photovoltaik-Gateway direkt miteinander.
+
+(0:29:33 - 0:29:49)
+Also haben wir nur zwei Teilnehmer. Das ist es. Zum Schluss jetzt das letzte Protokoll, was wir hier unter der Schnittstelle TCP-IP verwenden, ist das IEC 61850.
+
+(0:29:50 - 0:30:11)
+Ich glaube, ich habe es ganz am Anfang schon gesagt, das ist jetzt nicht unbedingt etwas, was wir parkintern sehen, sondern das ist das Protokoll, ich würde mal sagen, das ist wirklich gerade das Protokoll, was in Umspannwerken in der Regel verwendet wird. Hier ist es der gleiche Punkt wie bei den anderen IEC-Protokollen. Das ist für elektrische Anlagen.
+
+(0:30:11 - 0:30:26)
+Das verwenden wir in Umspannwerken und ist eben der aktuelle Standard. Und eben auch hier der Zeitstempel. Wichtig hier vielleicht, dieses Protokoll ist für Schutz, Überwachung, Steuerung und Messung.
+
+(0:30:26 - 0:30:54)
+Das habe ich jetzt so schnell gesagt, aber im Grunde genommen verbindet das hier, denke ich, die 101er, 102er Messung und 103er Protokoll in einem abgedateten Protokoll, was dann eben auf TCP-Basis basiert. Das ist einfach umfangreicher als die anderen IEC-Normen. Und dann gibt es hier eben noch eine Sprache, die auf diesem Protokoll läuft, das ist eben GUS.
+
+(0:31:00 - 0:31:17)
+Geräte führen wir jetzt einfach mal auf. Genau, das Gateway der Photovoltaikanlage, dann haben wir Schutzgeräte, dann haben wir Schaltgeräte, die über dieses Protokoll kommunizieren und Messgeräte. Also eine Kombination aus dem 101er, 102er und 103er, wie schon gesagt.
+
+(0:31:17 - 0:31:30)
+Die Leittechnik ist auch noch dabei, klar. Und dann haben wir Parameter für diese IEC 61850 Schnittstelle. Und dadurch, dass es TCP-IP basiert ist, ist es die IP-Adresse und die Subnetzmaske.
+
+(0:31:33 - 0:32:04)
+Die Anzahl der Teilnehmer, das auch hier orientiert sich an dem TCP-IP-Protokoll oder an der Schnittstelle 254 oder 65.000. Oder man verwendet mehrere Router und könnte damit eben die Klasse C immer weiter vergrößern. So, jetzt kommt nochmal eine kurze Zusammenfassung. Ich will jetzt hier, glaube ich, aufgrund der Zeit, wir haben es jetzt 10.30 Uhr, eine halbe Stunde haben wir noch.
+
+(0:32:04 - 0:32:12)
+Wir haben aber auch noch die IP-Adresse-Liste und noch Übungen. Würde ich jetzt hier, glaube ich, mal schnell durchfliegen. Ihr habt diese Übersicht in eurem Handout.
+
+(0:32:12 - 0:32:18)
+Wir haben das jetzt alles nochmal aufgeschrieben. Oben die Protokolle. Also das ist der serielle Teil.
+
+(0:32:18 - 0:32:31)
+Dann kommt eine Linie. Danach kommt der TCP-Teil. Und dann haben wir aufgeführt, welche Schnittstellen es gibt, welche Modelle es gibt und welche Verbindungen es gibt.
+
+(0:32:32 - 0:32:56)
+Ich zappel das jetzt mal schnell durch, weil gesagt wurde das ja schon alles. Ihr könnt das Ding dann gerne mitnehmen und wenn ihr mal eine Übersicht braucht, könnt ihr da reinschauen. Wir haben aus Platzgründen das oben rechts, das IEC 61850 und das Modbus-TCP-Protokoll in eine Spalte gepackt, weil es im Grunde genommen sehr identisch ist.
+
+(0:32:56 - 0:33:13)
+Aber hier an dieser Stelle haben wir Station und PQ-Messung. Das PQ-Messung bezieht sich dann auf das Modbus-TCP und die Station ist dann eben für das 61850. Die Baudrate, welches Gerät braucht eine Baudrate und welches nicht.
+
+(0:33:14 - 0:33:25)
+Die Parität haben wir hier nochmal markiert für die Teilnehmer, die es brauchen. Die Adressierung, welche Adressen braucht ihr und die Anzahl der Teilnehmer. Und dann Vor- und Nachteile zum Schluss.
+
+(0:33:26 - 0:33:33)
+Also das ist hier eine Seite voll mit Informationen. Da können wir jetzt auch nochmal eine halbe Stunde reden. Machen wir nicht, wir springen weiter.

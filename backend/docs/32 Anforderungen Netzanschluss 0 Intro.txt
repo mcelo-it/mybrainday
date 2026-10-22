@@ -1,0 +1,16 @@
+(0:00 - 0:26)
+Hallo und herzlich willkommen zum Brain Day. Heute geht es um das Thema Anforderungen Netzanschluss. Das ist aus meiner Sicht ein Thema, was häufig am Ende des Projektes zu Zeitverzögerungen sorgen kann, was technisch sicherlich auf einem sehr hohen Level ist mittlerweile, wo wir eben viele Details beachten müssen, wo wir wirklich genau wissen müssen, wovon wir sprechen.
+
+(0:26 - 1:01)
+Und um dann mit unserem Stationslieferanten auf Augenhöhe diskutieren zu können, führen wir euch hier mal durch dieses Thema. So, wir haben das aufbereitet für euch, unterteilt in verschiedene Kapitel. Wir starten mit dem Kapitel Warum. 
+
+Das ist das Erste. Also wer weiß, warum wir das machen, der kann vielleicht später besser die Fragen stellen, besser verstehen, warum wir das überhaupt machen, besser dabei bleiben, besser motiviert sein. Danach gehen wir in die 4110, also VDEIN4110 und schauen uns da das Kapitel 5 an.
+
+(1:01 - 1:18)
+Das nennt sich Netzanschluss. Die Inhalte davon, da sehen wir natürlich gleich im Detail, aber hier wird eben so ein Netzanschluss zum Teil spezifiziert und ist dann in Deutschland zumindest erstmal übergeordnet, gültig. Darunter gibt es dann von jedem Netzbetreiber nochmal technische Anschlussbedingungen.
+
+(1:18 - 1:56)
+Dadurch, dass wir aber so viele Netzbetreiber haben, fokussieren wir uns hier auf die 4110, also Kapitel 5 Netzanschluss. Dann geht es weiter, wir bleiben in der 4110, das wird heute auch so ein bisschen unsere Leitschnur sein, gehen dann in das Kapitel 6, da geht es dann um die Übergabestation, und zwar Teil 1. Was das genau bedeutet, seht ihr später. Wir unterbrechen das dann einmal mit einer 360-Grad-Tour, damit das Gelernte, das Gehörte, dann auch einmal gesehen werden kann, wirklich live auf so einer Anlage unterwegs sein, schauen, ob das, was die 4110 vorher uns gelehrt hat, jetzt auch auf unserer Baustelle umgesetzt wurde.
+
+(1:57 - 2:18)
+Zum Schluss gibt es dann noch das Kapitel 6, Teil 2, da geht es dann eher um elektrische Themen als um bauliche Themen. Weitere Inhalte kommen dann natürlich später. Zusätzlich gibt es zwischendurch immer noch mal Übungen, das kennt ihr, um einfach den Wissensstand abzufragen, um euch ein bisschen mitzunehmen und dabei zu behalten.

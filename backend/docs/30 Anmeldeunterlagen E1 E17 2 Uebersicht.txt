@@ -1,0 +1,161 @@
+(0:00:00 - 0:00:17)
+Jetzt geht es in eine Detailübersicht. Wie sieht diese E1 bis E17 Geschichte eigentlich aus? Da mache ich jetzt, bevor ich diese riesigen Listen erzeuge, erstmal deutlich, dass es Unterschiede gibt. Und zwar nach zwei Ebenen.
+
+(0:00:17 - 0:00:29)
+Einmal nach der Nummerierung an sich, das hatte ich gerade schon angedeutet. Hier sind sie wieder, unsere vier Spannungsebenen. Und abhängig von der Spannungsebene ist tatsächlich diese Nummerierung der E-Bögen unterschiedlich.
+
+(0:00:29 - 0:00:42)
+Was die Unterschiede sind, zeigen wir gleich. Aber wenn man in der 41.10 von einem E7-Bogen spricht, ist das etwas anderes, als wenn man es sich in der Hochspannung befindet. Dann gibt es die Reihenfolge.
+
+(0:00:42 - 0:00:54)
+Da haben wir mal gesagt, man kann sie numerisch sortieren, also E1, E2, E3, E4. Oder man kann sie chronologisch sortieren. Ich hätte, als ich angefangen habe, mich mit den E-Bögen zu beschäftigen, gedacht, das machen die schon gleich.
+
+(0:00:54 - 0:01:00)
+Haben sie nicht. Den Hintergrund kenne ich nicht. Vielleicht will ich gerne irgendwann mal wissen, warum das so ist.
+
+(0:01:00 - 0:01:05)
+Ist aber nicht so. Also nicht verwirren lassen. Der E2 kommt nicht automatisch nach dem E1.
+
+(0:01:07 - 0:01:11)
+Das gucken wir uns jetzt mal an. Chronologisch ist ausgegraut. Wir machen das erstmal numerisch.
+
+(0:01:11 - 0:01:23)
+Und wir machen es für die 41.10. Also diese zwei Kategorien, sage ich mal, habe ich erstmal eingefroren mit numerisch und Mittelspannung. Und jetzt kommt eine ewig lange Liste. Erstmal mit der Nummer E1.
+
+(0:01:23 - 0:01:41)
+Da fangen wir an. Dann bezeichnen nicht wir, sondern die 41.10 den Vortrag mit Antragstellung. Sie sagt, dass der Anschlussnehmer, oben in der Ecke steht es, merkt euch an, das kommt jetzt immer wieder, der Anschlussnehmer, also wir dafür verantwortlich sind.
+
+(0:01:41 - 0:01:50)
+Ganz wichtiger Punkt. Ja, jetzt nicht irgendwie warten, dass zum Beispiel der Netzbetreiber oder sonst irgendjemand sich um den Antragsteller kümmert. Nein, wir müssen das machen.
+
+(0:01:50 - 0:01:55)
+Und jetzt kommt die Chronologie. Das haben wir dazu genommen. Das ist jetzt zum Glück auch tatsächlich chronologisch richtig.
+
+(0:01:55 - 0:02:02)
+Also das ist im ersten Schritt zu tun. So lang wird die Liste. Und weiter geht's.
+
+(0:02:02 - 0:02:10)
+Dann kommt numerisch gesehen der E2. Das ist das Datenblatt zur Beurteilung von Netzrückwirkung. Macht auch der Anlagenverantwortlicher.
+
+(0:02:11 - 0:02:20)
+Ist zum Glück auch in Schritt 1. Aber in Klammern werden wir auch noch sehen, weil wir das nicht brauchen. Das ist für Bezug relevant. Für Erzeugungsanlagen ist es nicht relevant.
+
+(0:02:20 - 0:02:25)
+Also in Klammern. Und später zeige ich es dann, ehrlich gesagt, auch gar nicht mehr. Haben wir uns schon eins rausgekürzt.
+
+(0:02:27 - 0:02:35)
+Dann kommt die E3, die Netzanschlussplanung. Was man da genau macht, zeige ich später nochmal im Detail. Aber hierfür ist jetzt tatsächlich mal der Netzbetreiber verantwortlich.
+
+(0:02:35 - 0:02:47)
+Das ist doch super. Also er muss im Grunde den Anschluss erstmal von seiner Seite aus planen. Und wenn man so will, euch im Netz die technischen Vorgaben dann für diesen Netzanschluss geben und bestätigen.
+
+(0:02:47 - 0:02:56)
+Da sieht man es schon. Das Dokument kommt tatsächlich erst im Schritt 4. Also irgendwie erstmal deutlich später. E4 ist die Richtungsplanung.
+
+(0:02:57 - 0:03:04)
+Das machen beide. Das macht der Anschlussnehmer und der Netzbetreiber. Auch da im Detail kommt nochmal später ein bisschen tiefer rein, was das dann eigentlich ist.
+
+(0:03:04 - 0:03:12)
+Schritt 3, also für die Anmeldung. Und darum geht es ja heute eigentlich auch noch nicht so richtig relevant. E5, Inbetriebssetzungsaustrag.
+
+(0:03:12 - 0:03:22)
+Da ist es mal aus dem Namen auch sehr deutlich zu erklären. Das braucht man erst bei der Inbetriebssetzung. Macht der Anschlussnehmer, wäre dann Schritt 4. Das Erdungsprotokoll machen auch wir.
+
+(0:03:23 - 0:03:30)
+Nur wir kümmern uns um die Erdung. In dem Fall ist es die Übergabestation. Aber auch nicht gleich bei der Anmeldung, sondern erst ein bisschen später.
+
+(0:03:32 - 0:03:42)
+Inbetriebssetzungsprotokoll ist sogar noch später angesetzt. Machen dann wieder beide zusammen. Jetzt springt es chronologisch endlich mal wieder so ein bisschen nach vorne Richtung Anmeldung.
+
+(0:03:42 - 0:03:47)
+E8 ist wichtig. Kann man sich jetzt bitte gleich nochmal merken. E1 und E8, das zeigt ja immer wieder auf.
+
+(0:03:47 - 0:03:53)
+Also da ist es das E8. Das ist das Datenblatt einer Erzeugungseinheit. Das macht der Anschlussnehmer.
+
+(0:03:53 - 0:04:04)
+Und warum das jetzt im Schritt 1 und 2 kommt, das sehen wir auch später nochmal. Der Netzbetreiberabfallgebogen E9. Für alle, die schon länger dabei sind in der 4110, ist das ein Begriff.
+
+(0:04:04 - 0:04:10)
+E9 ist eine ganz wichtige Geschichte. Ein Meilenstein in jedem Projekt. Deswegen habe ich da auch einen Daumen hoch gemacht.
+
+(0:04:10 - 0:04:28)
+Ich freue mich riesig, wenn in meinem Projekt und natürlich auch in dem meiner Kollegen dieser Abfallgebogen vorliegt, dann ist man da schon mal einen riesigen Schritt weitergekommen. Viel, viel Arbeit ist dann schon mal erfolgreich abgeschlossen. Der E10 ist der Inbetriebssetzungsprotokoll für die Erzeugungseinheiten.
+
+(0:04:28 - 0:04:38)
+Das machen dann wieder nur wir Aufschlagnehmer. Aber Schritt 6, also das ist dann wirklich ganz am Ende, logischerweise nach der Inbetriebnahme erst möglich. Die Inbetriebssetzungserklärung genauso.
+
+(0:04:40 - 0:04:49)
+E12 Konformitätserklärung für Erzeugungseinheiten macht auch der Anschlussnehmer. Auch im Schritt 6, also ganz am Schluss. Und jetzt sieht man wieder so einen chronologischen Sprung.
+
+(0:04:49 - 0:04:58)
+Das Einheitenzertifikat hat die 13 gekriegt. Machen wir in der Verantwortung zwischen Netzbetreiber und Anschlussnehmer. Aber am Ende mache ich kein Einheitenzertifikat.
+
+(0:04:59 - 0:05:04)
+Das machen die Hersteller. Die müssen sich darum kümmern. Ich muss es mir halt nur abholen.
+
+(0:05:04 - 0:05:10)
+Und zwar für den ersten Schritt die Anmeldung. Komponentenzertifikat das gleiche. Da geht es um Parkregler zum Beispiel.
+
+(0:05:11 - 0:05:17)
+Machen auch wir. E15, das Anlagenzertifikat. Da habe ich wieder ein Icon hingemacht, weil es mir so wichtig ist.
+
+(0:05:18 - 0:05:29)
+Also auch das einer der vielleicht drei, vier großen Meilensteine für so einen Elektroplaner, finde ich, in jedem Projekt. Wer das hingekriegt hat. Bei uns gibt es so eine Art Pinnwand für sowas, auch wenn die virtuell ist.
+
+(0:05:29 - 0:05:41)
+Also jeder, der hier schon mal ein Anlagenzertifikat erreicht hat, der darf sich dann da sozusagen verewigen. Großer Meilenstein. Jetzt kommt noch E16 und E17.
+
+(0:05:44 - 0:06:01)
+Betriebserlaubnisverfahren, das macht Sinn, weil man am Schluss dann nochmal mit dem Netzbetreiber darin übereinstimmt, dass man jetzt also hier im Betrieb bleiben darf. Da habe ich eine Zielscheibe hingemacht, weil das ist am Ende das ganz, ganz große Ziel der ganzen Geschichte. Also lange Rede, kurzer Sinn.
+
+(0:06:01 - 0:06:14)
+Das sind die E1 bis E17. Genauso findet man sie in der VDE Anwendungsrichtlinie. Und jetzt haben wir erst mal noch hingeschrieben, wer für welchen Schritt verantwortlich ist und in welcher Reihenfolge die abzuarbeiten sind.
+
+(0:06:16 - 0:06:23)
+Jetzt ändere ich über mir mal die farbliche Markierung. Chronologisch wird numerisch wird grau. Wir springen ins chronologische.
+
+(0:06:23 - 0:06:38)
+Und Achtung, das ist jetzt hier animiert. Zack, schieben sich jetzt sozusagen im Excel-Filter nach Schritt sortiert die E-Bögen in eine andere Reihenfolge. Das, finde ich, ist jetzt der sinnhaftere Ansatz eigentlich, weil so passiert es nun mal in jedem Projekt.
+
+(0:06:39 - 0:06:48)
+Ich habe jetzt mit dem E16 erst mal überhaupt nichts zu tun. Dafür schiebt plötzlich die E13 sich nach oben. Also so würde ich mal ehrlich gesagt eher auf ein Projekt gucken.
+
+(0:06:50 - 0:07:01)
+Jetzt habe ich schon zwei markiert, E1 und E8. Das sind die zwei, die wir heute brauchen, weil wir die ausfüllen müssen. Das Datenblatt zur Beurteilung von Netzrückwirkungen ist nur für Bezug, nehmen wir gleich raus.
+
+(0:07:01 - 0:07:11)
+Und das Einheitenzertifikat und das Komponentenzertifikat, das kann man sich ja einfach aus dem Internet runterladen oder halt den Hersteller anschreiben. Deswegen sind die zwei auch nicht so wichtig. Die anderen Schritte machen wir heute nicht.
+
+(0:07:12 - 0:07:19)
+Deswegen E1 und E8. Das ist das Ziel für heute. Jetzt gibt es noch diese zweite Ebene, die Nummerierung.
+
+(0:07:19 - 0:07:25)
+Das machen wir auch kurz. Wir gehen mal rein in die 4120. Gerade waren wir ja in der 10.
+
+(0:07:25 - 0:07:33)
+Gucken wir uns das mal an. Jetzt haben wir da ausgegraut, was es in der 4120 nicht gibt. Betriebssetzungsauftrag, Erdungsprotokoll gibt es so nicht.
+
+(0:07:33 - 0:07:40)
+Für eine Übergabestation mag so eine Vorlage Sinn machen. Für ein Umspannwerk macht das offensichtlich so keinen Sinn. Deswegen nehmen die das raus.
+
+(0:07:41 - 0:07:53)
+Und hier beim Datenblatt müssen sie halt Hochspannung reinschreiben, weil vorhin stand da Mittelspannung. Wenn man das zusammenschiebt, sieht es schon ein bisschen ähnlich aus, nur halt ein bisschen kürzer. Schauen wir uns das Ganze noch mal für die 4130 an.
+
+(0:07:53 - 0:07:59)
+Auch wenn das keiner angekreuzt hat, dann hat man es mal gesehen. Also da fängt unten so eine E15 raus. Okay.
+
+(0:08:00 - 0:08:04)
+Und dann haben sie halt noch Höchstspannung. Und in Betrieb eine Erklärung. Einfach das Wording ein bisschen verändert.
+
+(0:08:05 - 0:08:16)
+Sieht schon auch sehr, sehr ähnlich aus. Ist ja auch eine gute Information, dass man sich da eigentlich gar nicht so groß umorientieren muss. In der 41.5, das ist der letzte Punkt.
+
+(0:08:17 - 0:08:34)
+Da ist es aber schon, finde ich, deutlich anders. Und das macht auch auf jeden Fall Sinn. Hier sollen ja jetzt nicht sich so haufenweise irgendwie spezialisierte Ingenieursberufs tummeln, sondern das ist ja durchaus Absicht, dass der Elektrofachbetrieb um die Ecke sich da jetzt drum kümmern kann.
+
+(0:08:34 - 0:08:39)
+Deswegen wird das irgendwie verkürzt. Absolut sinnhaft aus meiner Sicht. Da fallen einige raus.
+
+(0:08:40 - 0:08:42)
+Und jetzt ist der Prozess schon ein bisschen einfacher geworden.

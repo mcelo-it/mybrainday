@@ -1,0 +1,148 @@
+(0:00:00 - 0:00:13)
+So, jetzt haben wir uns die Übergabestation angesehen und jetzt kommen wir noch zu dem Kapitel Trafostation. Danach Kabel und zum Schluss nochmal ein etwas größerer Teil Kritis. Wir machen weiter mit der Trafostation.
+
+(0:00:15 - 0:00:43)
+Und jetzt ist es ja erstmal so, das ist was ihr jetzt seht, ist die Übergabestation. Da hatten wir jetzt schon relativ viele Komponenten, die sich dann natürlich auch ein Stück weit nachher wiederholen werden. Und dann werden wir nicht auf jede Komponente im Detail nochmal eingehen, weil wir wollen das hier nicht doppeln und unnötig Zeit schinden, sondern wir wollen ja, dass das hier für möglichst alle am Ende ertragreiche zwei Stunden sind.
+
+(0:00:43 - 0:01:07)
+Also, wir haben jetzt nochmal die anderen Komponenten ausgeblendet. Vom Managed Switch gehen wir per LWL-Verbindung zur Splicebox in der Übergabestation. Und von der Splicebox geht es dann eben auf unser LWL-Kabel und das LWL-Kabel führt dann zur Trafostation 1. Und hier würde man das nochmal in so einer Übersicht sehen, von der Übergabe zur Trafostation 1 und von da dann immer weiter.
+
+(0:01:12 - 0:01:36)
+Wir zoomen mal die Trafostation ein bisschen rein und starten dann auch hier mit dem kommenden LWL-Kabel und fügen erstmal eine Splicebox ein. Da kommt jetzt das Kabel an von der Übergabestation, wird in die Splicebox eingeführt. Und das hatten wir eben ja auch schon so beschrieben, die Splicebox ist der Start- und Endpunkt für unser LWL-Kabel.
+
+(0:01:39 - 0:01:50)
+Die Splicebox, die zoomen wir euch jetzt nicht nochmal rein. Also, wie gesagt, ihr habt sie ja vorher schon mal gesehen, ihr wisst, wie sie aussieht. Und die Splicebox, die dann hier installiert wird, sieht genauso aus meistens wie die Splicebox in der Übergabestation.
+
+(0:01:50 - 0:02:12)
+Der Managed Switch, das kann die gleiche Komponente sein, wie wir in der Übergabestation gesehen hatten. Macht auch häufig Sinn, wirklich gleiche Komponenten zu verwenden, weil dann hat man von der Einrichtung her dann meistens das alles ein bisschen leichter. Man kennt die Geräte und wenn man jetzt andere Hersteller verwendet, das hatte ich zumindest in einem Projekt mal, dass die dann nicht miteinander reden konnten.
+
+(0:02:12 - 0:02:25)
+Ich denke, das ist eher die Ausnahme, aber das war dann tatsächlich mal so der Fall. Also, wenn man dann den gleichen Switch einsetzt, dann hat man da auf jeden Fall erstmal nichts falsch gemacht. So, als nächstes kommt der Parkregler Slave.
+
+(0:02:25 - 0:02:35)
+Das ist ein bisschen ein Unterschied zu dem, was wir vorhin hatten. Eben haben wir ja gesagt Parkregler Master, jetzt ist hier Parkregler Slave. Und den verbinden wir mit unserem Switch über ein Ethernet-Kabel.
+
+(0:02:36 - 0:02:51)
+Und weil das jetzt schon ein bisschen anders ist als der Master, gucken wir uns den nochmal im Detail ein bisschen an. Also, der kann jetzt zum Beispiel auch genau so aussehen. Dann sieht er tatsächlich so aus wie unser Parkregler, den wir vorhin hatten.
+
+(0:02:53 - 0:03:03)
+Und wenn wir es jetzt nicht Slave nennen, kann man es ja auch Datenlogger nennen. Das ist für viele ja auch ein Begriff. Und dieser Datenlogger oder der Slave, der ist dann eben für die Kommunikation zu den Wechselrichtern zuständig.
+
+(0:03:03 - 0:03:33)
+Also der Parkregler Master, der redet in der Regel nicht direkt mit den Wechselrichtern, sondern der redet erstmal mit dem Slave und der Slave gibt das dann an den Datenlogger weiter. Wenn man jetzt nicht dieses Produkt nehmen will, was so aussieht wie eingeblendet, dann gibt es natürlich auch die Möglichkeit, Datenlogger von den Herstellern zu verwenden. Die sehen dann einfach anders aus, aber vom Grundsatz her machen die ja schon genau das Gleiche wie der Datenlogger von einem dritten Hersteller.
+
+(0:03:34 - 0:03:53)
+Man muss sich das am Ende, glaube ich, sehr detailliert überlegen, welchen Datenlogger man am Ende verwenden möchte. Weil wenn man jetzt den Hersteller Datenlogger nimmt, dann hat man meistens mehr Funktionen zur Verfügung. Man kann meistens mehr Daten aus den Wechselrichtern auslesen, als wenn man einen Datenlogger von einem anderen Hersteller nimmt.
+
+(0:03:54 - 0:04:07)
+Wenn man dann aber den Datenlogger von dem Hersteller nimmt, dann ist man vielleicht bei der Nutzung von verschiedenen Portalen ein wenig eingeschränkt. Also da liegen die Vor- und Nachteile. Das kann man jetzt, glaube ich, nicht in zwei Minuten mal erklären und am Ende sagen, nehmt immer den oder den.
+
+(0:04:07 - 0:04:36)
+Sondern das muss sich dann jeder wirklich genau überlegen, auf welches Produkt er sich da einlassen will. Und manche Kunden von uns, die kenne ich auch, die sich dann gar nicht entscheiden wollen und die nehmen dann meistens sogar beide Produkte, dass man dann in manchen Stationen einen Datenlogger vom Hersteller hat und dann noch einen Datenlogger zusätzlich von dem dritten Hersteller. So, dann kann man auch mit diesen Datenloggern die Stationssignale überwachen.
+
+(0:04:36 - 0:05:27)
+Also man sieht das da jetzt ganz grob, die haben unheimlich viele Eingänge und da kann man dann natürlich auch digitale Inputs verwenden und dann Stationssignale, so wie wir das vorher in der Übergabestation schon mal gezeigt haben, auswerten oder loggen, so dass man dann immer weiß, naja, die Spannung ist jetzt aus, weil der Leistungsschalter zum Beispiel ausgelöst hat. So, als nächstes kommen Schutzrelais und Schutzrelais, wie auch in der Übergabestation, würden sich jetzt vermutlich erstmal in einem separaten Schrank, in einem Schutzschrank befinden, der so von dem Trafostationslieferanten geliefert, produziert und eingebaut wurde. Und wir haben in so einer Trafostation üblicherweise zwei Schutzrelais, also ein UMZ-Relais und dann ist da auch noch der zwischengelagerte NA-Schutz irgendwo mit eingebaut in dieser Trafostation.
+
+(0:05:28 - 0:05:44)
+Und wir haben jetzt erstmal das UMZ-Relais mit unserem Managed Switch verbunden, weil dieses Relais hat jetzt eine Ethernet-Schnittstelle. Also ist erstmal ganz gut, können wir auslesen und wir können jetzt dieses Relais überwachen. Das heißt, man kann vielleicht sogar Stromwerte sehen, wie viel Strom fließt denn, das weiß das Relais natürlich.
+
+(0:05:45 - 0:06:02)
+Und im Fehlerfall kann man dann sicherlich detailliert auswerten, wann es ausgelöst hat, warum es ausgelöst hat und so weiter. Den NA-Schutz, den kann man sicherlich auch überwachen, ich sehe das in den wenigsten Projekten. Deshalb ist eine Option, ich nehme ihn jetzt erstmal wieder raus, damit wir mehr Platz haben.
+
+(0:06:03 - 0:06:32)
+Und der NA-Schutz wird jetzt in diesem Projekt, haben wir jetzt so entschieden, nicht überwacht. Wir werten den nicht aus, wir wissen vielleicht die Stellung des Niederspannungsleistungsschalters, aber wir wissen jetzt eben nicht, ob der ausgelöst hat, wegen einem Überstromereignis oder vielleicht, weil der NA-Schutz ausgelöst hat. Also wir verzichten darauf aus Platzgründen oder auch aus Verdrahtungsgeldgründen und nutzen jetzt diesen Platz in dem Schutzschrank dann lieber für ein Netzanalysegerät, was wir jetzt hier einbauen können.
+
+(0:06:33 - 0:06:44)
+Netzanalysegerät hatten wir in der Übergabestation auch schon. Wir verdrahten das wieder per Ethernet mit unserem Managed Switch. Dieses Netzanalysegerät ist jetzt für das Monitoring gedacht.
+
+(0:06:44 - 0:07:27)
+Also große Parks machen das häufig, dass sie sich dann in den Trafostationen nochmal Netzanalysegeräte einbauen lassen, damit man besser weiß, welche Trafostation wie performt. Das ist jetzt nicht gedacht für die Regelung oder für andere 4110 relevante Themen, sondern einfach nur fürs Monitoring. Wenn man jetzt Dachanlagen hätte, dann macht es natürlich auch häufig Sinn, nochmal in der Niederspannungs-Hauptverteilung so ein Janitzer einzubauen, weil das dann, wenn man jetzt nochmal tiefer einsteigen würde, dann auch häufig für Regelungszwecke verwendet werden kann oder zumindest für den Nachweis, dass die Blindleistung da am PV-Schrank eingehalten wird.
+
+(0:07:30 - 0:07:43)
+So, dann geht es weiter. Schranksignale, auch das würden wir empfehlen, dass man das hier in so einer Trafostation mit abfragt. Die Signale, die oben aufgeführt sind, sind jetzt erstmal die gleichen wie in der Übergabestation.
+
+(0:07:46 - 0:07:59)
+Leistungsschalterstellung, Mittelspannung und Niederspannung, UMZ-Auslösung oder NA-Schutzauslösung, also zwischengelagerter Schutz. Da kann man sicherlich viele, viele Signale auswählen. Trafotemperatur, Temperaturauslösung und so weiter.
+
+(0:08:00 - 0:08:37)
+Das muss sich jeder dann projektspezifisch überlegen, was er alles haben will. Die Antwort liegt nicht im Alles, das ist immer, glaube ich, nicht die richtige Antwort, sondern überlegt euch wirklich gut, was ihr braucht, weil am Ende die Leute, die die Betriebsführung machen, mit vielen, vielen Signalen dann ja vielleicht auch einfach überfordert sind beziehungsweise viele Signale zeigen dann am Ende auch viele Fehler, die es dann ja vielleicht gar nicht unbedingt so gibt und das sorgt dann oft eher für Verwirrung, als dass man da was Tolles gemacht hat, wenn man da hunderte von Signalen überträgt. So, dann kommt das nächste, der nächste Punkt, das ist die Kommunikation zu den Wechselrichtern.
+
+(0:08:38 - 0:09:15)
+Das ist jetzt hier natürlich ein ganz deutlicher Unterschied zur Übergabestation, weil an der Übergabestation wird erstmal gar kein Wechselrichter angeschlossen. Hier würde man das aber natürlich tun, die Wechselrichter verteilen sich um die Trafostationen meistens herum und der Parkregler SLAVE beziehungsweise der Datenlogger, der ist jetzt erstmal dafür da, dass er die Kommunikation zu diesen Wechselrichtern aufbaut, beziehungsweise er kann die Wechselrichter dann ansteuern und empfängt dann auch die Informationen von den Wechselrichtern. Hier ein Wechselrichter mal im Detail, auch das ist ein Beispiel, da gibt es ja mittlerweile viele, viele Hersteller.
+
+(0:09:15 - 0:09:29)
+Jeder nimmt da, verwendet da das Produkt, was er für richtig hält. Wir wollen auch hier jetzt nicht irgendeine Empfehlung für irgendeinen Hersteller geben. Ich denke, die Wechselrichter, die wir heute bekommen, sind alle gut und da muss jeder für sich entscheiden, welches Produkt er nimmt.
+
+(0:09:29 - 0:10:09)
+Also ist erstmal die Erzeugungseinheit, das heißt es gibt dann wahrscheinlich auch ein Einheitenzertifikat für das Gerät, da solltet ihr in jedem Fall darauf achten und dann kann diese Erzeugungseinheit Steuerbefehle vom Parkregler, SLAVE ganz wichtig, beziehungsweise vom Parkregler über den SLAVE kann der diese Steuersignale empfangen und er sendet eben auch Statusmeldungen und Leistungsdaten an den Datenlogger. Das heißt, wenn der Wechselrichter einen Fehler hat, er geht in einen Fehlermodus, dann kann man das über den Datenlogger sehen und entsprechende Maßnahmen ergreifen. Einheitenzertifikat hatte ich gerade beschrieben, das ist natürlich Grundvoraussetzung, weil ohne Einheitenzertifikat kriegt er auch kein Anlagenzertifikat.
+
+(0:10:10 - 0:10:30)
+Dann gibt es Schnittstellen, RS-485, das ist denke ich eine alte, beliebte Methode, die Wechselrichter anzubinden. Es gibt aber auch zusätzlich bei vielen Herstellern Powerline-Kommunikation, da spart man sich dann eben diese Datenleitung. Allerdings denke ich, ist die RS-485-Verbindung nach wie vor noch die zuverlässigere.
+
+(0:10:31 - 0:10:52)
+Auch hier ist es eure Entscheidung, wie ihr da anschließen wollt. Dann kommen wir zum nächsten Punkt, Überspannungsableiter. Den blenden wir euch hier ein und zeigen euch mal im Detail, wie er aussieht.
+
+(0:10:53 - 0:11:07)
+Also der Überspannungsableiter ist erstmal das Stromlaufplansymbol, sieht so aus. Und der Überspannungsableiter an sich, das Gerät, sieht dann eben so aus. Rot ist es hier in dem Beispiel, gibt es auch verschiedene Hersteller.
+
+(0:11:07 - 0:11:31)
+Und wichtig, Überspannungsableiter verwenden wir in der Regel, wenn Kabel von außen in unsere Station geführt werden. Und dann schützt dieser Überspannungsableiter eben andere Bauteile in der TRAFO-Station vor Überspannung, vor Einkopplung und vor dem Zerschmelzen, vor elektrischen Schäden innerhalb der Station. Dafür sind diese Überspannungsableiter gedacht.
+
+(0:11:31 - 0:12:10)
+Und es gibt dann eben Auslösekontakte, die man dann eben zusätzlich an diesem Überspannungsableiter überwachen kann. Das heißt, einmal wird dieser Überspannungsableiter entweder rot, das, was jetzt grün ist, diese drei Punkte, die können dann rot werden. Das heißt, er hat ausgelöst. 
+
+Das seht ihr dann in einem Jahr, wenn ihr wieder bei der Wartung seid. Oder ihr könnt eben diesen Auslösekontakt überwachen und wisst dann in eurem Monitoring, aha, wieder ein Überspannungsableiter hat ausgelöst, jetzt müsste mal jemand hinfahren und ihn ersetzen. Das ist dann, glaube ich, schon ein relativ hohes Level, wenn man auch an solche Kontakte denkt, an sowas und sowas überwacht und auswertet, dann ist man schon sehr weit vorne.
+
+(0:12:12 - 0:12:26)
+Das war jetzt Variante 1 vom Wechselrichteranschluss und das ist eben das dezentrale System. Und wenn man das jetzt nochmal ändert auf einen zentralen Wechselrichter, dann haben wir eben nur ein Gerät. Und zusätzlich hätten wir dann aber Generatoranschlusskästen.
+
+(0:12:27 - 0:12:48)
+Ihr seht das hoffentlich unterhalb von dem, also am unteren Bildrand sind jetzt die Generatoranschlusskästen eingeblendet. Und der Wechselrichter würde dann per Ethernetkabel ausgewertet werden, also ein Netzwerkkabel, was da einfach angeschlossen wird. Und die Generatoranschlusskästen ist dann auch meistens so üblich über die RS485-Kabelverbindung.
+
+(0:12:49 - 0:13:00)
+Wir bauen das jetzt mal zurück. Wir einigen uns jetzt auf eine dezentrale Verkabelung, dass es dann eben wieder so aussieht. Aber jetzt habt ihr mal gesehen, wie der Unterschied dann wäre zu einer zentralen Wechselrichtervariante.
+
+(0:13:01 - 0:13:15)
+Dann gibt es noch Sammelboxen, Sensorsammelboxen, so heißen sie. Wir stellen jetzt hier nur die Sammelbox dar. Auf der nächsten Seite zeigen wir euch dann, wie an so einer Sammelbox, die per RS485 verdrahtet wird, die Sensoren angeschlossen werden.
+
+(0:13:15 - 0:13:41)
+Das ist dann nämlich so, also es kommt ein Kabel an so eine Sensorsammelbox per RS485-Datenverbindung. Und dann kann man eben an so eine Sammelbox über ein Datenkabel diverse Sensoren an so einen RS485-Eingang des Datenloggers anschließen. Hier ist es jetzt ein Pyranometer, vielleicht auch zwei oder drei, Temperatursensor, Windrichtung und Windgeschwindigkeit.
+
+(0:13:41 - 0:13:53)
+Das kann man auch kombinieren in einer Wetterstation. Aber vom Grundsatz her eine Sammelbox, da werden die Sensoren angeschlossen. Das macht dann den Verdrahtungsaufwand am Ende ein wenig einfacher.
+
+(0:13:55 - 0:14:16)
+Wichtig ist, dass man für so eine Sensorsammelbox dann Stromlaufplan braucht. Da zeigt die Erfahrung von der Baustelle, dass das immer relativ lange dauert, bis diese Verdrahtung dann auch funktioniert hat. Am Ende sind es meistens zwei Adernpaare, einmal für den RS485-Bus und einmal für die Spannungsversorgung.
+
+(0:14:16 - 0:14:44)
+Aber bis man dann alle Sensoren wirklich eingelesen hat, da braucht man häufig ziemlich viel Geduld, bis die Handwerker vor Ort das dann auch wirklich realisiert haben. Also wichtig, Stromlaufpläne, ansonsten denke ich, scheitert ihr schon relativ weit am Anfang. Selbst mit Stromlaufplänen sind diese Detailarbeiten am Ende nicht, die klassischen Montagearbeiten auf der Baustelle sind immer sehr schwer mit den Leuten vor Ort umzusetzen.
+
+(0:14:47 - 0:15:03)
+So, dann kommt jetzt der nächste Punkt, das ist die USV. Auch hier würden wir erst mal empfehlen, eine USV einzubauen. Wir empfehlen auch 8 Stunden, aber das ist hier keine Anforderung aus der 4110.
+
+(0:15:03 - 0:15:22)
+Also eine Anforderung wäre vielleicht, dass der NA-Schutz kurzzeitig gepuffert wird. Wir würden euch aber trotzdem empfehlen, nutzt hier eine USV, damit ihr auch bei Spannungsausfall Zugriff auf die Anlage habt und einfach seht, was da passiert. So, dann kommt Heizung und Steckdose.
+
+(0:15:22 - 0:15:39)
+Auch hier würde ich jetzt gar nicht groß darauf eingehen, hat die gleichen Gründe wie in der Übergabestation. Für den Service ist das gut und natürlich sollten eure Komponenten nicht feucht werden und nicht in der Eiseskälte im Winter zu weit runterkühlen. Deshalb bauen wir oder planen wir das einmal mit ein.
+
+(0:15:39 - 0:15:57)
+Jetzt kommt eine weitere Spleißbox. Also wir kommen in die erste Spleißbox von der Übergabestation und die zweite Spleißbox, da geht es dann eben zur nächsten Trafostation, damit wir erst mal die Kommunikationslinie aufbauen. Deshalb brauchen wir zwei getrennte Spleißboxen.
+
+(0:15:59 - 0:16:11)
+So, dann sind wir jetzt hier und gehen dann eben raus aus dieser Trafostation zur nächsten Trafostation. So wäre das gedacht. Jetzt ist unser Schema erstmal von den Komponenten ausreichend weit aufgebaut, wie ich finde.
+
+(0:16:11 - 0:16:30)
+Und ein wichtiger Punkt, der dann immer noch fehlt oder wo oft so ein bisschen schludrig mit umgegangen wird, ist vielleicht der Plankopf. Deshalb haben wir hier euch einfach mal einen Plankopf gezeigt, so wie wir ihn in unseren Schemen dann immer mit aufnehmen. Und den kann man dann natürlich noch ergänzen, um Leistungsdaten der Anlage und so weiter.
+
+(0:16:30 - 0:16:50)
+Aber erst mal, das als Plankopf sollte, denke ich, dann auf jedem Schema vorhanden sein. Gerne auch einheitlich, dass das überall gleich aussieht. Dann gibt es nur zwei Punkte, auf die ich eigentlich nochmal wirklich eingehen will, weil die gerne vergessen werden oder einfach gerne nicht durchgehend bearbeitet werden.
+
+(0:16:50 - 0:17:03)
+Das ist dann die Revisionsnummer. Also da sieht man oft Fehler. Und das Zweite ist, wir machen das zumindest immer so, dass jemand den Plan bearbeitet und dass auch jemand anderes den Plan dann nochmal prüft.
+
+(0:17:03 - 0:17:12)
+Das heißt, wir intern machen ein Vier-Augen-Prinzip. Das hilft natürlich sehr, um die Qualität hochzuhalten. Und dann wäre der Zertifizierer am Ende das sechste Augenpaar.
+
+(0:17:12 - 0:17:21)
+Aber das würde ich gerne nochmal jedem empfehlen. Mach das so, schick nicht einfach Pläne so raus. Dann sorgt das meistens für viel Unruhe auf den Baustellen, wenn dann da irgendwas nicht passt.

@@ -1,0 +1,80 @@
+(0:00:00 - 0:00:18)
+So, das waren die Zuschaltbedingungen mit Fokus auf, naja, AWE, auch wenn so ein bisschen mehr drin stand. Ich hoffe, das ist so rübergekommen. Jetzt gehen wir noch in, ich habe es genannt, Kapitel Sonstiges, das aus meiner Sicht ganz witzigerweise, so heißt wie auch der ganze Titel des heutigen Brain Days.
+
+(0:00:18 - 0:00:35)
+Also es gibt noch weitere Anforderungen an die EZA. Ich habe das nur weiter gegriffen und habe sozusagen gesagt, dass ja auch die Kapitel davor aus meiner Definition weitere Anforderungen an die Erzeugungsanlagen sind. Aber in der Benennung der Kapitel wären wir jetzt erst hier so weit.
+
+(0:00:35 - 0:00:46)
+Und was steht da jetzt drin? Abfangen auf Eigenbedarf. Gehe ich nicht darauf ein, ist für uns nicht relevant. Stehen ehrlich gesagt zwei Sätze in der Norm, also noch nicht mal eine halbe Seite.
+
+(0:00:48 - 0:00:59)
+Trennen der Erzeugungseinheit von Netz bei Instabilität. Wie genau Instabilität dann definiert wird, ist jetzt auch nicht relevant. Ich kann nur sagen, das machen die Wechselrichter automatisch.
+
+(0:00:59 - 0:01:19)
+Also für mich grob zusammengefasst, die detektieren selbst, wenn sie eine instabile Regelung unterliegen, wenn sie sich aufschwingen, wenn sie Probleme kriegen, dann wird es eine automatische Trennung vom Netz geben. Der Wechselrichter versteht das, aber die Regelung, die muss das auch greifen können. Wird auch nicht weiter beschrieben, sondern wird nur benannt, dass dem so ist.
+
+(0:01:21 - 0:01:33)
+Fähigkeit zur Bereitstellung von Primärregelleistung. Sehr schön, wird benannt, steht aber auch so drin, dass die Anforderungen überhaupt nicht existiert. Also Primärregelleistung kann man zur Verfügung stellen.
+
+(0:01:33 - 0:01:47)
+Das ist natürlich spannend, jetzt dann im Thema Batterie in Zukunft. Aber wenn wir jetzt erst mal bei Wind- oder PV-Anlagen sind, Gasturbinen, Biogasturbinen, dann gibt es hier keine Anforderungen. Genau das Gleiche auch im nächsten Kapitel.
+
+(0:01:50 - 0:02:06)
+Sekundärregelleistung, Minutenreserve, das sind ja auch so Dienstleistungen, die man dann wunderbar mit Batterien bereitstellen kann, steht drin, ist keine Anforderung. Wir müssen es also nicht, steht aber auch drin, dass wir es natürlich dürfen. So und dann kommen wir noch zu Modelle.
+
+(0:02:09 - 0:02:38)
+Da werfe ich so ein paar Begriffe rein, weil ich persönlich dieses Thema ja sehr, sehr spannend finde. Also wir sind jetzt bei der Simulation von PV-Anlagen, aber auch von ganzen Netzen und natürlich der Interaktion von PV-Anlagen und Netzen. Und da ist es jetzt erst mal so, dass von der 4110 vorgesehen ist, dass wir das Gesamtenergiesystem, das gesamte Elektrizitätssystem rechnerisch darstellen können.
+
+(0:02:39 - 0:02:59)
+Das ist erst mal die grundlegende Idee, dass man sozusagen rechnerisch simulieren, nachweisen kann, überprüfen kann, ob unser Netz überhaupt noch stabil ist für gewisse Fehlerfälle, für gewisse Anforderungen. Also brauchen wir rechnerlauffähige Simulationsmodelle, nicht nur der EZA, aber jetzt reden wir ja über die EZA. Wir brauchen sie auch vom ganzen Netz.
+
+(0:02:59 - 0:03:15)
+Aber jetzt reden wir erst mal von der Erzeugungsanlage. Und jetzt kann der Netzbetreiber, das macht er über den E9 oder E7-Bogen, sagen, er braucht ein rechnerfähiges Simulationsmodell von unserem PV-Park, den wir da so brauchen wollen. Das kann er, er ist, das ist zulässig.
+
+(0:03:15 - 0:03:31)
+Und dann müssen wir dem folgen und diese Simulationsprogramme organisieren und den Park nachbilden. Ich sage gleich, die Zertifizierstelle macht das sowieso, aber sie macht das vielleicht mit einer anderen Software als der Netzbetreiber fordert. Ich habe hier mal ein Beispiel nur hingeschrieben.
+
+(0:03:32 - 0:03:37)
+Vielleicht hat er eine andere Software. Ich kenne zwei, zwei große kenne ich. Und dann haben die vielleicht unterschiedliche.
+
+(0:03:37 - 0:03:45)
+Dann geht es schon mal nicht. Und das kommt später noch. Die müssen ja auch Schnittstellen vordefinieren und andere Rahmenbedingungen erfüllen.
+
+(0:03:45 - 0:04:11)
+Das heißt, für mich ist das eine zusätzliche Beauftragung an wer auch immer das kann. Warum wollen die das? Die wollen das Gesamt, die wollen der Netzbetreiber will die PV-Anlage in sein Gesamtmodell integrieren, um dann irgendwie halt irgendwie das große Wissen darüber zu haben, was alle zusammen denn so anstellen. Und das habe ich unbedingt rein kopieren wollen, weil ich so dermaßen komplex oder absurd finde.
+
+(0:04:12 - 0:04:33)
+Also so wäre so eine beispielhafte Definition jetzt einmal von der Simulationsumgebung. Das ist also irgendeine Version von in dem Fall Dick Silence heißt die Software so, dass erst mal die Version übereinstimmt, weil die Datei, die man da überschickt, muss ja dann auch beim Netzbetreiber laufen. Also muss die Version definiert sein.
+
+(0:04:34 - 0:04:51)
+Und das drunter ist so ein wunderbarer Code, mit dem dann überhaupt eine Kommunikation zwischen dem Modell, das wir übertragen und der gesamte Einheit, die der Netzbetreiber hat, funktionieren können. Das liegt daran, dass in den Dateien, die man übermittelt, will man nicht alles Know-how übertragen. Deswegen sind die verschlüsselt.
+
+(0:04:51 - 0:05:09)
+Also hochkomplex, wenn bei Schutztechnik schon nicht gleich alles funktioniert, funktioniert es hier auf gar keinen Fall sofort. Also ich schicke dem nicht eine Datei und das läuft, sondern hoher Abstimmungsbedarf mit Experten. Grundsätzlich in diesem Modell sollen die Transformatoren und die Wechselrichter einzeln abgebildet sein.
+
+(0:05:10 - 0:05:30)
+Und vielleicht für mich der wichtigste Punkt, weil das wird greifbar, die Parameter, die der Netzbetreiber da so vorgibt, also der K-Faktor, die Schutzparameter, das Blindleistungsverfahren, haben wir schon gehört alles, die müssen in der Datei, die wir da übermitteln, frei zugänglich sein. Ich zeige euch das gleich, wie das aussieht. So sieht das dann so aus.
+
+(0:05:31 - 0:05:45)
+Also wir haben auch die Software hier bei uns. Wir machen auch solche, sag ich mal, Spielereien. Und dann sieht man jetzt auf der rechten Seite, das sind so Eingabefelder, die sind nicht ausgegraut, sondern da kann man jetzt also K-Faktoren und die Blindleistungsvorgaben verändern.
+
+(0:05:45 - 0:06:00)
+Und wenn man dann simuliert, na ja, dann kommen halt unterschiedliche Ergebnisse dabei raus. Das war ein für mich hoch spektakuläres Projekt. Da hatte man mal jetzt eben so ein Netzmodell vom Netzbetreiber auch gekriegt.
+
+(0:06:00 - 0:06:07)
+Ich wollte es nur mal gezeigt haben. Also so sieht sein Netz aus. Ein reales Netz von einem realen Netzbetreiber.
+
+(0:06:07 - 0:06:24)
+Der hat da so ein Mittelspannungsring aufgebaut. Das sieht man auch wunderbar mit den verschiedenen Anschlusspunkten, Bezug und Einspeisung, die sind da alle hinterlegt. Und jetzt zoome ich da mal rein, einfach so beispielhaft an irgendeine Stelle, die für, na ja, es war nicht irgendeine, sondern das ist unsere PV-Anlage hier genau gewesen.
+
+(0:06:25 - 0:06:41)
+Da hat er also so eine Schnittstelle jetzt schon vorbereitet. Also an dieser einen Stelle, ich gehe nochmal zurück, von diesem ganzen Netz, hunderte, manchmal, ja, ich sag mal mal, hunderte von Verknüpfungspunkten sind simuliert. Und einer davon ist jetzt unsere PV-Anlage, gelb eingekreist.
+
+(0:06:41 - 0:06:55)
+Und da würde das rechts ist jetzt unsere PV-Anlage, das ist unser Modell. Diese Datei, wenn man so will, würde der da jetzt hinterlegen. Und dann hat er alles, was er braucht, um das Gesamtsystem simulieren zu können.
+
+(0:06:57 - 0:07:03)
+Gut, wir sind fast super pünktlich. 11 Uhr eins ist es bei mir. Erst mal vielen Dank.
+
+(0:07:03 - 0:07:09)
+Müssen noch nicht gleich alle rausspringen, weil wir können gerne noch mal in Menti gehen. Das finde ich.

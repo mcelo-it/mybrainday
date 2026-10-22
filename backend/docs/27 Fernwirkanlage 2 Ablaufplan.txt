@@ -1,0 +1,199 @@
+(0:00:00 - 0:00:16)
+Wir springen zurück in die PowerPoint und legen los mit dem Ablaufplan. Das ist jetzt eine chronologische Darstellung, wann eigentlich so eine Fernbürgtechnik euch als Elektroplaner über den Weg läuft. Wir fangen an mit der Planungsphase.
+
+(0:00:16 - 0:00:33)
+Da schauen wir uns ein paar Dokumente an, die ihr in der Planungsphase braucht. Das ist einmal ganz wichtig, die, ich sage es mal eigentlich Bibel für so einen PV Planer, die VDE Anwendungsrichtlinie 41, 10, 20 oder 30. Schauen wir uns in vielen anderen Ranges sehr detailliert an, was da drinsteht.
+
+(0:00:33 - 0:00:40)
+Die braucht ihr immer. Dann gibt es THB, technische Anschlussbedingungen vom Netzbetreiber. Würde ich immer mir auch raussuchen.
+
+(0:00:40 - 0:00:45)
+Neues Projekt. Wer ist der Netzbetreiber? Holt euch die aktuelle Tab. Gut beschrieben.
+
+(0:00:45 - 0:00:57)
+Viele Sachen stehen da drin. Das ist sehr hilfreich, sich diese ein oder zwei Stunden in Ruhe zu nehmen und das erst mal reinzuhören. Dann hat man schon mal im Kopf für heute meinetwegen, wie der so eine Fernbürganlage eigentlich aufbaut.
+
+(0:00:58 - 0:01:08)
+Dann kriegt ihr eine Datenpunktliste, nehme ich vorweg. In der THB steht meistens die allgemeine, die alle umfassende Datenpunktliste. Das hilft ja schon mal, um zu verstehen, was der normalerweise so macht.
+
+(0:01:08 - 0:01:18)
+Ihr kriegt aber auch eine projektspezifische Datenpunktliste. Die ist hiermit gemeint. Also ihr habt das Projektpunkt erreicht, wo der Netzbetreiber euch eine projektspezifische Datenpunktliste geschickt hat.
+
+(0:01:19 - 0:01:24)
+Fragt aktiv danach. Die ist super hilfreich, relativ früh schon zu haben. Dann kann man die durchgehend abhaken.
+
+(0:01:25 - 0:01:38)
+Kriege ich alles hin und dann stolpert man nicht später darüber. Und grün markiert, weil, sag ich mal, bevonders in eurer Aufgabe, in eurem Aufgabenbereich das Parkregler-Konzept. Zeige ich hier mal kurz.
+
+(0:01:38 - 0:01:47)
+Machen wir in einem anderen Brainday sehr detailliert, was das alles ist, wie das Ganze herkommt. Ich habe auch hingeschrieben, das ist jetzt nur ein Beispiel. Es gibt natürlich ganz verschiedene Möglichkeiten, so etwas aufzubauen.
+
+(0:01:48 - 0:02:09)
+Aber man muss das jetzt einmal zeigen, damit wir dann besser erklären können, welche Bauteile davon wir eigentlich brauchen und wie genau wir die ansteuern. Also in meinem Beispiel habe ich eine Übergabestation und da habe ich ein Gateway vom Netzbetreiber. Das stellt der bei. 
+
+Dem gehört das auch. Das müsst ihr euch eben in der TRB durchlesen, wie das so aussieht. Stromlaufpläne holen.
+
+(0:02:09 - 0:02:19)
+Und dann habt ihr dieses Bauteil irgendwie schon mal in eurem Konzept. Aus der TRB kommt dann auch raus. Ich habe es über mich geschrieben, welches Protokoll die wollen.
+
+(0:02:19 - 0:02:25)
+101er Protokoll, 104er Protokoll. Das sind so die üblichen. Das ist aber auch schon mal wichtig zu verstehen, mit welchem ihr eigentlich redet.
+
+(0:02:25 - 0:02:35)
+Sonst habt ihr den ersten Schritt beim Parkregler Konzept ja schon gar nicht unter Kontrolle. Wie auch immer. Die Verbindung läuft dann vom Gateway EVU immer über unser Gateway.
+
+(0:02:35 - 0:02:48)
+Also das ist dann unser eigenes PVA-Gateway, nennen wir es ab jetzt. Und das wiederum kommuniziert mit anderen Teilnehmern. Zum Beispiel ist ein Beispiel mit einem Kurzschluss Anzeiger in der Übergabestation.
+
+(0:02:49 - 0:03:05)
+Dann immer sinnvoll finden wir mit dem Schutzrelais. Das Schutzrelais weiß ganz viel, was in der Station so passiert. Und über so ein typisches 103er Protokoll haben wir es jetzt im Beispiel genommen, kann man all diese Daten, die das Schutzrelais ja sowieso schon hat, sehr einfach in so ein Gateway übermitteln.
+
+(0:03:05 - 0:03:16)
+Und dann kann man sich mal aussuchen, was davon will der Netzbetreiber wissen und das dann den Netzbetreiber rüberschieben. So ein Schutzrelais kommuniziert eigentlich immer mit der Schaltanlage. Sind wir schon bei Stellungsmeldungen zum Beispiel.
+
+(0:03:17 - 0:03:33)
+Also wenn man das so aufgebaut hat, hätte man die Stellungsmeldung, die der eigentlich immer sehen will, auf jeden Fall schon mal parat. So, das Gateway redet noch mit vielen anderen Teilnehmern. Wir machen es uns einfach und setzen einen Switch dazwischen, weil dann kommt schon mal alles, was da ankommt, auch zum Gateway.
+
+(0:03:34 - 0:03:43)
+Das wäre dann zum Beispiel ein Netzanalysegerät. Braucht man für die Parkregelung, aber auch für andere Dinge mit dem Parkregler Master. Achtung, das ist jetzt der Master.
+
+(0:03:44 - 0:04:09)
+Mit dem spricht das Gateway ganz bestimmt, weil da will der Netzbetreiber einige Informationen hinsenden und auch Rückmeldungen erhalten. So, und dann sind wir vielleicht erst mal mit der Übergabestation fertig und haben dann natürlich auch noch Trafostationen dahinterhängen oder bei einer Dachanlage Niederspannungsverteilung. Und da hat man dann immer einen Slave, mindestens eines, können auch 10 oder 100 sein.
+
+(0:04:10 - 0:04:18)
+Wir zeigen erst mal nur einen. Und der wiederum spricht dann vielleicht mit einem RS485-Protokoll, mit den Wechselrichtern. So, das ist es erst mal.
+
+(0:04:18 - 0:04:25)
+Das ist unser Parkregler-Konzept. Da gehen wir auch nicht jetzt näher darauf ein, warum das so ist oder welche Varianten es da gibt. Das machen wir an anderer Stelle.
+
+(0:04:25 - 0:04:50)
+Hier haben wir jetzt erst mal eine Übersicht geschaffen, was wir heute eigentlich brauchen. So, wenn wir dieses Parkregler-Konzept für unser Projekt fertig gebaut haben, dann haben wir in der Planungsphase schon mal erst mal unser Dokument erarbeitet, welches wir für unseren Prozess brauchen. Haken dran ist erst mal eine ganz wichtige Sache.
+
+(0:04:50 - 0:04:59)
+Kann sich auch im Laufe des Projektes mal ändern. Aber jetzt haben wir erst mal eine sehr, sehr gute Basis. Das brauchen wir aber auch, weil wir sonst kein Anlagenzertifikat kriegen.
+
+(0:05:00 - 0:05:10)
+Auch ein anderer Brain Day, aber das Parkregler-Konzept eine von vielen Informationen, die die Zertifizierstelle haben will. Jetzt sagen wir mal, die haben das und auch alle anderen Sachen, die sie brauchen. Wir kriegen das Zertifikat.
+
+(0:05:10 - 0:05:17)
+Da ist es super. Jetzt kann es weitergehen. Und jetzt kommen wir endlich mal Richtung Parkregelung.
+
+(0:05:17 - 0:05:26)
+Jetzt kommt der sogenannte Vorbittest. Was das wiederum, Achtung, ich sage es gleich, gegenüber dem Bittest ist, zeige ich gleich noch mal in Ruhe. Wir unterscheiden das sehr deutlich.
+
+(0:05:26 - 0:05:31)
+Für uns sind das zwei Schritte. Weiß nicht, ob das immer alle so machen. Für uns ist es klar.
+
+(0:05:31 - 0:05:39)
+Ich würde euch das so mitgeben. Unterscheide den Wording unter Vorbittest und Bittest. Das Symbol hier zeigt, dass es da jeweils ein Protokoll gibt.
+
+(0:05:39 - 0:06:01)
+Also wenn ihr diese Schritte erfolgreich abgeschlossen habt, dann werdet ihr ein Protokoll haben mit Unterschrift, mit Datum, mit ganz vielen OK-Haken, vielleicht auch dem einen oder anderen nicht OK-Haken. Aber ihr braucht dieses Protokoll, sonst habt ihr den Schritt, finde ich, nicht erfolgreich abgeschlossen. Alternativ, weil wir das oft hören, kann dieser Bittest auch Quelle-Senke-Test genannt werden.
+
+(0:06:01 - 0:06:13)
+Das ist oft so, glaube ich, ja, historisch bedingt, dass Netzbetreiber nennen das unterschiedlich. Dann habt das jetzt mal gehört. Also wenn irgendein Netzbetreiber von Quelle-Senke-Test spricht, dann ist das das Gleiche wie so ein Bittest.
+
+(0:06:14 - 0:06:23)
+Nach dem Bittest, das finde ich, ist wichtig, kommt erst die Inbetriebnahme. Es ist auf keinen Fall andersrum. Also ihr braucht diesen Bittest, sonst gibt es keine Inbetriebnahme.
+
+(0:06:23 - 0:06:34)
+Ich denke, das ist das, was wir hier sehr deutlich machen wollen. Und jetzt machen wir den Prozess noch chronologisch fertig. Nach dem Inbetriebnahme gibt es den Regelungstest.
+
+(0:06:34 - 0:06:46)
+Das ist ein anderer Brain, den machen wir heute nicht. Und wenn der Regelungstest, den viele auch Funktionstest nennen, erfolgreich abgeschlossen ist, gibt es eine Konfirmitätserklärung. Der heilige Gral, da kann ich gar nicht genug Daumen nach oben machen.
+
+(0:06:46 - 0:06:55)
+Das ist ja immer das ganz große Ziel. Also jetzt haben wir erst mal so eine ganze Prozesskette grundsätzlich dargestellt. Nach unten ist noch Platz.
+
+(0:06:56 - 0:07:14)
+Das ist Absicht, weil ich jetzt in der nächsten Ebene sagen will, welche Komponenten brauchen wir denn eigentlich? Das ist oft eine Fragestellung, die wir so Projektleiter, Bauleiter oder andere Teilnehmer stellen. Hier haben wir es jetzt mal dargestellt. Also in der Planungsphase und für das Anlagen-Zertifikat brauche ich überhaupt keine Komponenten.
+
+(0:07:14 - 0:07:18)
+Das ist eine reine theoretische Abhandlung. Da ist ein Minus drin. Weiter geht's.
+
+(0:07:19 - 0:07:29)
+Aber jetzt kommt eben der Vorbittest. Ich schiebe mir das Ganze oben raus. Das Parkregelungskonzept hatte ich ja vorhin schon aufgebaut.
+
+(0:07:29 - 0:07:41)
+Deswegen haben wir es jetzt. Und jetzt will ich erst mal darstellen, welche dieser Komponenten eigentlich für den Fernwirktechnik-Test wichtig sind. Achtung, ich unterscheide zwischen Fernwirktechnik und Parkregelung.
+
+(0:07:42 - 0:07:57)
+Und jetzt geht's los. Da ist meine Fernwirkanlage. Ich habe das so grün hinterlegt, welche Bauteile ich jetzt meiner Meinung nach für diesen Vorbittest und den Bittest brauche, weil es hier um die Fernwirkanlage geht und nicht um die Parkregelung.
+
+(0:07:57 - 0:08:07)
+Ich symbolisiere das noch ein bisschen dramatischer, indem ich die anderen Komponenten einfach mal wegnehme. So, jetzt wird es doch schon viel, viel übersichtlicher. Also ich brauche für meinen Bittest gar nicht so viel.
+
+(0:08:07 - 0:08:29)
+Meine Fernwirkanlage besteht also offensichtlich aus Gateway-EVU, Gateway-PVA und die wiederum spricht meinetwegen mit Schutzrelais, zu einem Kurzschlussanzeiger und der Schaltanlage, aber eben nicht mit dabei. Zwangsläufig sind Master oder Slave-Logger. Es ist auch kein Pyranometer zu sehen und die Wechselrichter sozusagen sind schon gleich gar nicht zu sehen.
+
+(0:08:29 - 0:08:43)
+Das ist, finde ich, die wichtige Botschaft für jetzt. Denkt daran, wenn es um den Bittest geht, der ja die Fernwirkanlage testen soll, brauchen wir erst mal gar nicht so viele Komponenten. Ist ja auch vor der Inbetriebnahme, vielleicht ist das nochmal ein Hinweis.
+
+(0:08:43 - 0:09:08)
+Das heißt, die Wechselrichter können ja gar nicht im Betrieb sein. Also ich finde, dieses Bild soll helfen in Diskussionen, in Meetings mit Netzbetreibern, mit Kunden, mit Schutztechnikern, mit Projektleitern und Bauleitern, dass man überhaupt erst mal einsortiert, wo und was reden wir denn eigentlich? Okay, jetzt kommt die nächste Unterteilung Vorbittest und Bittest. Ich highlighte mal meinen Vorbittest und graue den Bittest aus.
+
+(0:09:08 - 0:09:14)
+Also jetzt Fokus. Es geht um den Vorbittest. Und da schmeiße ich jetzt sogar das Gateway EVU raus.
+
+(0:09:15 - 0:09:32)
+Das heißt, sehen wir auch gleich später. Der Netzbetreiber ist da jetzt gar nicht dabei. Wir glauben, dass das daherkommt, dass wahrscheinlich, bevor wir da mitgemacht haben, die Netzbetreiber oft die Erfahrung gemacht haben, dass sie zum Bittest kommen und das dann gar nicht vorbereitet war.
+
+(0:09:32 - 0:09:44)
+Es hat gar nicht funktioniert. Da war dann vielleicht noch nicht mal ein Techniker vor Ort, sondern nur der Kunde, der gar nicht seine Anlage bedienen kann. Dann sind die alle wieder wahrscheinlich relativ frustriert nach Hause gefahren und haben neuen Termine ausgemacht.
+
+(0:09:44 - 0:09:55)
+Um das zu verhindern, denken wir, wurde dieser Vorbittest eingeführt. Also der Kunde wird, wenn man so will, über ein Protokoll gezwungen, erst mal den Bittest alleine auszuführen. Genau das machen wir im Vorbittest.
+
+(0:09:55 - 0:10:08)
+Und deswegen ist da das Gateway vom Netzbetreiber noch nicht mal mit dabei. Wenn er das gemacht hat, schickt er so eine Errichterbestätigung an den Netzbetreiber und sagt Ich habe jetzt den Vorbittest erfolgreich ausgeführt. Zeigen wir später auch, wie das aussieht.
+
+(0:10:08 - 0:10:22)
+Und dann kann man den Bittest machen und für den Bittest sozusagen kommt dann das Gateway wieder mit dazu. Heißt ja jetzt nicht, dass das physisch ausgebaut werden muss. Das ist nicht gemeint, sondern es ist einfach nicht aktiv mit im Test dabei.
+
+(0:10:23 - 0:10:35)
+Beim Bittest aber schon. Und das führt, sehen wir auch gleich bei den Teilnehmern dazu, dass da dann auch der Netzbetreiber dabei sein muss. Also ich gehe noch mal im Bild zurück, weil wir das, finde ich, so schön gebastelt haben.
+
+(0:10:35 - 0:10:46)
+Man muss es sehen, aber oder sich darauf konzentrieren, sonst merkt man das nicht. Also Achtung, das Gateway PVU, Gateway EVU fliegt jetzt in eine andere Spalte als die anderen Komponenten. So sieht das aus.
+
+(0:10:46 - 0:11:00)
+Das Gateway EVU ist jetzt in der Spalte des Bittests und alle anderen Komponenten sind bei mir in die Übergabestation reingeflogen. Das heißt, beim Vorbittest brauchen wir das Gateway noch nicht. Aber beim Bittest brauchen wir es dann.
+
+(0:11:01 - 0:11:18)
+So in der Form halber, auch wenn es darum heute nicht geht, später dann im Regelungstest da kommen dann auch der Wechselrichter symbolisch dazu, alle anderen Komponenten von der PV-Anlage. Für die Konfirmitätserklärung brauchen wir keine Bauteile. Und jetzt kommt die letzte Reihe in meinem Ablaufplan.
+
+(0:11:19 - 0:11:29)
+Die Verantwortlichen. Planungsphase ist auf jeden Fall der Planer, der Elektroplaner. Ihr, ich, wie auch immer, ihr seid für die Planungsphase verantwortlich.
+
+(0:11:30 - 0:11:41)
+Fürs Anlagenzertifikat auch. Ich finde, das ist ja somit die schwierigste und größte Aufgabe, die man so haben kann. Jetzt kommt aber der Vorbittest und da braucht man einen Fernwirk Techniker, nennen wir ihn.
+
+(0:11:41 - 0:11:59)
+Also es muss eine Person sein, die diese Fernwirk Anlage wirklich versteht. Im besten Fall versteht sie auch das Konzept der Übergabestation oder der des Schaltschranks, was auch immer in eurem Projekt da vorhanden ist. Auf jeden Fall muss es jemand sein, der diese das Gesamtkonzept greift.
+
+(0:12:00 - 0:12:15)
+Für den Bittest später braucht man zusätzlich, deswegen dieses große Plus, den Netzbetreiber. Also ich sage es nochmal, auch auf die Gefahr, mich zu wurdeholen oder euch da ein bisschen zu langweilen. Beim Vorbittest brauchen wir den Netzbetreiber nicht.
+
+(0:12:15 - 0:12:19)
+Das machen wir alleine. Aber beim Bittest, da kommt er dann dazu. Da brauchen wir dann beide.
+
+(0:12:20 - 0:12:42)
+Da muss ein Fernwirk Techniker dabei sein und der Netzbetreiber. So und beim Regelungstest, um das noch der Form halber, da wirklich mal in Gänze darzustellen, braucht man die Leitwarte. Nicht unbedingt ein Fernwirk Techniker vor Ort und auch kein Netzbetreiber vor Ort, weil wir ja vermeintlich es hingekriegt haben, dass alles jetzt schon vorgetestet ist und funktioniert.
+
+(0:12:42 - 0:12:52)
+Beim Regelungstest kann die Leitwarte im Grunde alleine ihre Tests machen. Und wenn wir unsere Hausaufgaben gut gemacht haben, wird der auch funktionieren. Und dann kann sie das eben ganz alleine machen.
+
+(0:12:54 - 0:12:58)
+Da haben wir noch den Direktvermarkter darunter gestellt. Der macht das nämlich genauso. Der hat ja eine eigene Schnittstelle.
+
+(0:12:58 - 0:13:13)
+Das heißt, der kann auch alleine testen. Und auch da gilt, wenn der Vorbittest und der Bittest erfolgreich waren, dann muss eigentlich auch der Regelungstest dann reibungslos funktionieren. So und die Konformitätserklärung, das macht wiederum der Planer.
+
+(0:13:15 - 0:13:35)
+Jetzt habe ich das so viel darüber gesprochen und so viel dargestellt. Wir möchten mit diesem Bild noch mal klar darauf hinweisen, dass wir heute eben nicht diese ganzen vielen, vielen Details und Aufgaben uns angucken, sondern heute konzentrieren wir uns auf den Bittest. Der Bittest ist eben ein wichtiger Bestandteil der Prüfung der Fernwirkanlage.
+
+(0:13:35 - 0:13:46)
+Und das ist ja das Thema von heute. Also heute geht es um das Protokoll vom Bittest. Heute geht es um Fernwirkanlage, die aus Übergabestationen und Gateway IVU besteht.
+
+(0:13:47 - 0:13:53)
+Und dafür brauchen wir den Fernwirktechniker und den Netzbetreiber. Das ist der Fokus für heute.

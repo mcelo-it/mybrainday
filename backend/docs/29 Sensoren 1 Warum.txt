@@ -1,0 +1,62 @@
+(0:00:00 - 0:00:19)
+Also dann hier die Übersicht und wir springen direkt in das Thema, warum. Warum machen wir das Ganze? Wir haben jetzt hier verschiedene Player mal aufgeführt, die im Grunde genommen Sensoren benötigen. Und der erste Player oder Teilnehmer in so einem Solarprojekt ist die Betriebsführung.
+
+(0:00:20 - 0:00:36)
+Die brauchen natürlich Sensoren, um die Anlage zu monitoren. Hier ist erstmal das große Stichwort Performance Ratio. Und zwar gibt es erstmal eine Performance Ratio vom Errichter gegenüber dem Betreiber, die man erstmal erfüllen muss.
+
+(0:00:36 - 0:00:59)
+Das ist meistens kurz nach der Inbetriebnahme, muss man eben für einen gewissen Zeitraum Einstrahlung und Erträge messen. Und dann eben diese Performance Ratio vor oder kurz nach der Inbetriebnahme erfüllen, damit man dann am Ende wirklich eine Abnahme der Anlage erhält. Also dafür ist dann die Betriebsführung da, schaut sich das an, monitort für einen gewissen Zeitraum, für einen kurzen Zeitraum, manchmal auch für ein Jahr.
+
+(0:01:00 - 0:01:11)
+Das ist dann im Vertrag festgehalten und da ist das eben wichtig. Der zweite Punkt dann ist aber auch die kontinuierliche Überwachung durch den Betreiber. Das macht dann auch die Betriebsführung.
+
+(0:01:12 - 0:01:37)
+Das heißt, nach zwei, drei, vier, fünf Jahren wird die Anlage natürlich immer noch überwacht. Und wir können dann erstmal ganz generell prüfen mit der Performance Ratio, wie sich das Verhalten, die Effektivität der PV-Anlage über den Zeitraum verhält, ohne dass man jetzt erstmal ins Detail schaut. Erstmal ist das jetzt nur Performance Ratio, die gesamte Anlage läuft gut, nicht so gut oder schlecht.
+
+(0:01:37 - 0:02:00)
+Und wenn man das weiß, dann kann man weiter ins Detail gehen und das nennen wir dann vielleicht Anlagenüberwachung. Und da können wir dann viel, viel besser Fehler lokalisieren. Also wir messen Einstrahlungswerte, Temperaturen und so weiter, erwarten dann Erträge und können das dann eben bis auf Wechselrichter-Ebene, bis auf String-Ebene runterbrechen und so die Fehler lokalisieren.
+
+(0:02:01 - 0:02:27)
+Vielleicht feststellen, dass etwas verschattet ist, vielleicht feststellen, dass manche Strings nicht so gut performen, aus welchen Gründen auch immer. Aber das ist dann erstmal die Lokalisierung der Fehler. Dann hat diese Anlagenüberwachung eine automatisierte und sehr unverzögerte Mitteilung an uns, schickt beispielsweise eine SMS aus dem Portal sehr automatisiert los.
+
+(0:02:27 - 0:02:45)
+Das heißt, ein String funktioniert nicht, ein Wechselrichter fällt aus, ein Sensor fällt aus, dann gibt es eine Meldung. Das heißt, wir sind dann unverzögert und automatisiert informiert und können dann direkt reagieren. Lokal eingrenzbar, ja, das ist ja der Punkt, den ich eben ja im Grunde schon angerissen hatte.
+
+(0:02:45 - 0:03:12)
+Man kann Fehler durch so ein Monitoring-System, durch Sensoren eben gut eingrenzen und lokalisieren und dann eben die Servicetechniker genau an die Stelle schicken, wo sie jetzt eben den Fehler finden oder suchen sollen. Der nächste Teilnehmer in unserer Anlage, in unserem System ist die Versicherung. Hat vielleicht nicht jeder so gleich auf dem Zettel, aber Versicherungen sind oft ein großes Thema.
+
+(0:03:12 - 0:03:31)
+Und wenn wir an Versicherungen denken, dann denken wir vor allem an Windschäden. Also wir haben bei vielen Anlagen, das stimmt nicht, nehme ich sofort zurück, wir haben Windschäden schon gesehen bei Anlagen. Und wenn man eben einen Windschaden hat, dann wird häufig erstmal die Frage gestellt, ja, warum habt ihr denn Windschaden? Das war ja gar nicht so windig letzte Woche.
+
+(0:03:32 - 0:04:13)
+Und wenn man jetzt Windsensoren hat, die eben die Windgeschwindigkeiten gemessen haben und man durch diese Windsensoren nachweisen kann, dass man jetzt eine außergewöhnlich hohe Windgeschwindigkeit an dem Tag hatte, dann ist es deutlich einfacher, der Versicherung gegenüber zu argumentieren, dass es kein Planungsfehler ist, dass hier nicht der Statiker vielleicht falsch gerechnet hat oder dass die Rahmenprofile nicht tief genug im Boden sind, sondern dann ist es relativ einfach zu argumentieren. Das sind Windverhältnisse, die konnte man nicht berücksichtigen und deshalb sind hier Module ausgerissen, sind hier einzelne Tische umgekippt oder ähnliches. So, der nächste wäre dann die Forschung.
+
+(0:04:14 - 0:04:55)
+Forschung und Entwicklung, so würde ich das nennen, findet in unserem Alltag relativ wenig Raum, weil wir immer viel mit Projekten beschäftigt sind, die uns dann auch sehr einnehmen. Aber trotzdem, finde ich, kann man an diesem Punkt arbeiten und sich da vielleicht mal Werte anschauen, Werte analysieren und damit die Anlagenplanung nochmal optimieren. Wie sind dann die Einstrahlungen, wie sind vielleicht andere Werte von der Anlage, wie hat man die vielleicht im Privisist berücksichtigt zuvor und was sind jetzt vielleicht die Auswirkungen am Ende auf den Ertrag? Also ein bisschen ist das dann ein Zusammenspiel, Messwerte, die man ermittelt und dann vergleicht mit einer Privisist.
+
+(0:04:55 - 0:05:58)
+Zusätzlich finden wir, weil wir kommen ja hier immer so sehr aus der Elektrotechnik-Ecke, vielleicht aus der Mittelspannung, Hochspannung-Seite, und für uns ist das immer hilfreich, über Sensoren so ein bisschen die TRAFO-Auslegung nochmal zu überprüfen, das heißt Temperaturmessungen am TRAFO, Innenraum-Temperaturen von so einer TRAFO-Station und dann vielleicht im Verhältnis mal zu setzen mit der Wechselrichterleistung, mit der Modulleistung, die man an so eine TRAFO-Station anschließt und dann wiederum Rückschlüsse zu schließen, kann ich den TRAFO jetzt mit 100 Prozent belasten oder nur mit 90 oder vielleicht mit 110. Das ist ein Punkt, den ich persönlich mal sehr interessant fände, wo man wirklich mal forschen kann. Anderes Beispiel sind sicherlich die Bifacial-Module, sind jetzt nicht mehr so ganz brandneu am Markt, aber ich glaube schon, dass da bei vielen noch ein bisschen, naja, vielleicht so ein bisschen im Trüben gefischt wird, was jetzt den Bifacial-Effekt betrifft, was jetzt diesen Gain durch diese rückseitige Bestrahlung der Module betrifft.
+
+(0:05:59 - 0:07:09)
+Sind das 5 Prozent, sind das 10 Prozent oder ist irgendwas dazwischen? Also auch hier, denke ich, gibt es viel Potenzial, einfach nochmal Einstrahlungswerte zu analysieren und mal zu schauen, wie sind da die Effekte auf die Erträge. Verschmutzung habe ich hier mit reingenommen, Verschmutzung in Europa vielleicht eher so ein bisschen nebensächlich, sehen wir auch relativ selten diese Sensoren. Was jetzt aber schon mehr kommt, sind eben Agri-PV-Anlagen und da hat man dann, ist meine Vermutung erstmal, hat man sicherlich deutlich größere Verschmutzungseffekte, da wird meinetwegen ein Feld abgemäht, dann gibt es da sehr, sehr große Staubentwicklungen oder es wird geflügt oder ähnliches und dann könnte man eben über Verschmutzungssensoren oder Soiling-Sensoren mal nachvollziehen, macht es jetzt Sinn, die Module vielleicht zu reinigen oder auf den nächsten Regen zu warten und zu hoffen, dass die Module dann wieder sauberer sind, aber Verschmutzungssensoren in der klassischen PV-Anlage kenne ich weniger, neue Anlagen, Agri-PV, wo man vielleicht auch noch ein bisschen lernen und forschen muss, da könnte ich mir das gut vorstellen, Forschung und Entwicklung ist das Thema, also deshalb haben wir es hier aufgeführt.
+
+(0:07:11 - 0:07:51)
+Nächster Player wäre dann der Netzbetreiber, natürlich fast der wichtigste in dem ganzen Konstrukt, weil wenn der nicht mitspielt, wenn wir seine Anforderungen nicht erfüllen, dann kriegen wir immer Schwierigkeiten, dann scheitert es vielleicht schon vor der Inbetriebnahme, deshalb der Netzbetreiber ganz wichtig und das Stichwort ist dann eben Messwertübergabe, Fernwickanlage. Das heißt, der Netzbetreiber, der fordert erstmal generell Messwerte, erstmal ganz pauschal und manche Messwerte davon sind eben abhängig von Einstrahlungssensoren. Zum Beispiel die verfügbare Leistung, viele Parkregler-Lieferanten machen das so, dass sie die verfügbare Leistung an die Einstrahlung koppeln.
+
+(0:07:52 - 0:08:43)
+Das heißt, wenn man gar nicht so viel Einstrahlung hat, dann sagt man dem Netzbetreiber auch, wir haben jetzt nicht so viel Leistung verfügbar, wenn man volle Einstrahlung hat, dann kann man dem Netzbetreiber eben auch sagen, ja heute haben wir hier wirklich Nennleistung verfügbar und man übermittelt dann eben wirklich die Leistung, die abhängig von der Einstrahlung und vielleicht zusätzlich noch abhängig von der Verfügbarkeit der Wechselrichter, wenn der eine oder andere defekt ist, dann kann man den ja nicht als verfügbar deklarieren, aber das kann man dann eben übermitteln, wenn man die Einstrahlung weiß. Einstrahlung und Temperatur bei PV-Anlagen, zusätzlich zu dem, was ich vorher gesagt habe, wünschen sich viele Netzbetreiber auch, einfach als Datenpunkt. Der wird übertragen, was der Netzbetreiber dann daraus macht, ist ihm überlassen, aber das ist erstmal in der Datenpunktliste, zumindest bei vielen großen Netzbetreibern, ein Datenpunkt, Einstrahlung und Temperatur.
+
+(0:08:44 - 0:09:13)
+Bei Windkraftanlagen gibt es einen ähnlichen Punkt und das ist dann eben Windgeschwindigkeit und Windrichtung und das ist eben bei Windenergieanlagen das Thema. Dann geht es weiter zum letzten Teilnehmer in dieser Warum-Thematik und das ist der Schutz. Hier meine ich jetzt explizit noch nicht Schutzrelais, UMZ-Schutz, Distanzschutz, QU-Schutz, sondern hier geht es eher um den Schutz Temperaturüberwachung.
+
+(0:09:14 - 0:09:27)
+Das sehen wir dann viel bei Trafostationen. Erstmal wird die Trafotemperatur gemessen als Temperatursensor. Das ist ein ganz wichtiges Element, um den Trafo vor Überlastung zu schützen.
+
+(0:09:29 - 0:09:55)
+Zusätzlich kann man das dann natürlich weiterführen, Innenraumtemperaturen in Stationen, in technischen Räumen, in Betriebsräumen. Wenn die dauerhaft deutlich über 25, 30 Grad sind, dann hat das natürlich auch erstmal einen Einfluss auf die Komponenten, die dort installiert sind, weil technische Geräte sind in der Regel nicht dafür gebaut, dauerhaft bei 60 Grad Umgebungstemperatur betrieben zu werden. Dann leiden die ein bisschen darunter, dann verkürzt das die Lebensdauer.
+
+(0:09:56 - 0:10:36)
+Dann kann man das eben auch hier verwenden, um optimale Betriebsbedingungen zu erzeugen oder eben zu reagieren, wenn man jetzt nicht ganz die Temperatur hat, die man sich vorher in der Planung gewünscht hat. Kabeltemperatur, ja auch noch ein schöner Punkt, ist hier bei Schutz, kann man aber natürlich auch bei Forschung und Entwicklung aufführen. Das haben wir schon bei einzelnen Projekten gemacht, dass wir wirklich mal Temperaturfühler an so Kabeln installiert haben, um dann eben zu schauen, was hat unsere Kabelberechnung eigentlich gesagt, wie hoch ist die Belastung des Kabels und welche Temperaturen haben wir denn jetzt tatsächlich dann außen am Kabel, um dann so ein bisschen ableiten zu können.
+
+(0:10:37 - 0:11:02)
+Ja, unsere Kabelberechnung war jetzt sehr konservativ oder sehr optimistisch, so dass man da einfach zukünftig ein besseres Gefühl hat, wie man an solche Thematiken rangehen kann und dann vielleicht auch eine bessere Argumentationsweise hat, wenn man vielleicht andere Belastungsfaktoren und so weiter ansetzt und den Kabelquerschnitt vielleicht nochmal müh dünner auswählt, als es eigentlich in der konservativen Annahme der Fall gewesen wäre.

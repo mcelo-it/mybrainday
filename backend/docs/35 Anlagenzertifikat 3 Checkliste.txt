@@ -1,0 +1,389 @@
+(0:00:00 - 0:00:12)
+Und gucken uns mal die Checkliste an. Also noch mal kurz zur Erinnerung, da ist der Anschlussnehmer, das sind wir und die Zertifizierstelle. Und die Zertifizierstelle schickt uns jetzt eine Checkliste.
+
+(0:00:13 - 0:00:41)
+Die Checkliste schauen wir uns jetzt an und versuchen, die mal ein bisschen gemeinsam abzuarbeiten. Grundsätzlich sieht so eine Checkliste von der Zertifizierstelle natürlich immer so ein bisschen anders aus, aber meiner Erfahrung nach tatsächlich nur so ein kleines bisschen, weil sie sich am Ende darin orientiert, was die 4110 in unserem Fall eigentlich fordert. Das heißt, aus dieser Anforderung der 4110 heraus ergibt sich eine logische Checkliste.
+
+(0:00:41 - 0:00:54)
+Die kann man immer ein bisschen anders aufbauen, eine andere Reihenfolge setzen. Man kann ja Informationen auch in unterschiedlichen Dokumenten nachweisen, aber im Großen und Ganzen ist es immer ziemlich ähnlich. Deswegen haben wir uns hier mal so ein Beispiel rausgenommen.
+
+(0:00:54 - 0:01:07)
+Und das ist aus unserer Sicht dann auch sehr zielführend, allgemein gehalten. Also so ein erster Prüfpunkt sind immer die Fragebögen. Haben wir gerade gesehen, es gibt ziemlich viele.
+
+(0:01:08 - 0:01:20)
+Da brauchen wir jetzt nicht alle, aber einen Teil davon brauchen wir auf jeden Fall. Steht immer in jeder Checkliste drin. Deswegen gibt es ehrlich gesagt diese E-Bögen ja auch, damit die Zertifizierstelle gleich Futter hat, um loslegen zu können.
+
+(0:01:21 - 0:01:27)
+Die Quelle geben wir immer gleich noch mit an. Das ist jetzt der Anschlussnehmer. Also wir, wir müssen uns also darum kümmern.
+
+(0:01:27 - 0:01:34)
+Das heißt jetzt hier ganz besonders gut zuhören. Und da hat man erst mal diesen E1-Bogen. Das war tatsächlich eine Antragstellung.
+
+(0:01:34 - 0:01:48)
+Wir gucken da mal nur ganz kurz rein, weil das im Grunde ein Bogen ist, den wir an einer anderen Stelle auch schon sehr klar und deutlich erklärt haben, was man da so reinschreiben muss. Das heißt, das ist vielleicht Monate alt, dieser Bogen. Den gibt es schon.
+
+(0:01:48 - 0:02:03)
+Und wir setzen da oben mal nur so als kleine Erinnerung unser Icon rein, weil wir sagen, den haben wir sehr ausführlich an der anderen Stelle schon erklärt. Also den haben wir. Das hat jetzt ungefähr eine Minute gedauert, den schon mal einzusammeln.
+
+(0:02:05 - 0:02:11)
+Grüne Haken dran. Als nächstes kommt der Anlagenbetreiberbogen E8. Das ist auch unsere Verantwortung.
+
+(0:02:11 - 0:02:16)
+Der Anschlussnehmer muss sich darum kümmern. Ist ein bisschen ähnliches Spiel. Ich zeige ihn einmal ganz kurz.
+
+(0:02:17 - 0:02:29)
+So sieht er ungefähr aus. Und da kommt auch eines unserer Icons dran. Ich meine, das war sogar eine ganze Schulungseinheit, die sich nur um diesen Anlagenbetreiberbogen gekümmert hat.
+
+(0:02:29 - 0:02:45)
+Also auch der steht zur Verfügung. Und grundsätzlich nimmt sich die Zertifizierstelle dann die ganzen Kenndaten der PV-Anlage daraus, zum Beispiel diese hier, dieses PAV-E und PAV-B und PINs. Das erkläre ich später nochmal, was das genau ist.
+
+(0:02:45 - 0:02:58)
+Aber das sind schon mal ganz grundlegende, wichtige Daten, die wir sozusagen über den E8-Bogen der Zertifizierstelle mitschreiben. Und die achten dann auch immer drauf, das gebe ich mal gleich vorweg, dass da eine Unterschrift drunter ist. Ich mache das bei meinen Prüfprotokollen ja meinetwegen auch.
+
+(0:02:58 - 0:03:10)
+Aber die Zertifizierstellen machen das auch wirklich. Denen ist wichtig, sonst werden sie nicht akkreditiert, dass Dokumente ein-eindeutig sind, dass es sie nur einmal gibt. Und dazu muss man sie mit Datum und Unterschrift versehen.
+
+(0:03:10 - 0:03:33)
+An der Stelle vielleicht jetzt einmal kurz gesagt, warum gehen wir jetzt eigentlich diese Checkliste so durch? Weil am Ende muss die Zertifizierstelle das doch alles prüfen. Ja, aber ich sage, wenn man da versteht, worauf die Zertifizierstellen achten, warum sie das überhaupt brauchen, dann ist man sicherlich effizienter beim Einsammeln und dann gibt es eben hintenaus weniger Rückfragen. Also da kommt auch ein grüner Haken dran, den hatten wir ja eben auch schon vorbereitet.
+
+(0:03:34 - 0:03:41)
+Jetzt kommt der Netzbetreiber-Abfragebogen, der E9. Da steht bei der Quelle auch Netzbetreiber. Also der kommt nicht von uns.
+
+(0:03:41 - 0:03:54)
+Das ist gut. Aber auch hier, ganze Schulungseinheit dreht sich nur um diesen E9-Bogen, weil der wichtig ist, weil der gar nicht so einfach zu kriegen ist, weil da ganz viele komplizierte Sachen drinstehen. So sieht der erstmal grundsätzlich aus.
+
+(0:03:54 - 0:04:02)
+Unser Icon erscheint. Wer da nicht so genau weiß, was da drinsteht, schaut sich diese andere Einheit bitte sehr, sehr gerne an. Das machen wir jetzt nämlich nicht.
+
+(0:04:02 - 0:04:15)
+Wir gehen jetzt auch wieder davon aus, dass wir den schon gekriegt haben. Wie gesagt, das ist nicht so trivial. Der liegt jetzt eben nicht einfach nur vor, weil man muss den Netzbetreiber erst mal dahin kriegen, dass er einem diesen E9-Bogen auch zur Verfügung stellt.
+
+(0:04:16 - 0:04:23)
+Wir gucken, bevor wir es weiterschicken, finde ich, ob die Angaben vollständig sind. Das können wir ja machen. Wir gucken, ob die Angaben eindeutig sind.
+
+(0:04:24 - 0:04:35)
+Auch das ist nicht immer der Fall. Der Netzbetreiber ist ja nun auch nicht perfekt und hat vielleicht jetzt auch noch nicht bei einer Zertifizierstelle gearbeitet. Das heißt, da können ja mal Fehler passieren.
+
+(0:04:35 - 0:04:47)
+Das sind so etwas wie Bearbeitungsnummern. Unterschriften kommt, glaube ich, auch gleich noch. Vielleicht hat er die Anhänge, auf die er hier eingeht, in dem Netzbetreiberabfragebogen nicht angehängt oder wir haben es dann vergessen, wiederum weiterzuleiten.
+
+(0:04:47 - 0:05:04)
+Also diese Vollständigkeit beachten und auch da wieder auf die Unterschrift gucken. So, Augenhaken dran. Dann kommt ein Punkt, den haben wir hier mit reingenommen, weil das kann man eben schon mal im Büro sozusagen machen.
+
+(0:05:04 - 0:05:17)
+Am Ende macht es die Zertifizierstelle. Wir haben es als einzigen Prüfpunkt, sage ich jetzt hier mal, mit reingenommen, weil wir finden, das kann jeder auf jeden Fall selber machen. Also grundsätzlich ist es wichtig, dass der E8 und der N9-Bogen übereinstimmen.
+
+(0:05:18 - 0:05:32)
+Da liegen manchmal Monate dazwischen. Deswegen sollte man da einfach noch mal draufgucken, bevor man es weiterleitet. Sonst, wie gesagt, kann er die Zertifizierstelle acht Wochen später prüfen, macht er auch das und dann kriegt man acht Wochen später die Antwort, dass es nicht übereinstimmt.
+
+(0:05:32 - 0:05:43)
+Das hätte man sich sparen können, indem man mal selber reinguckt. Wir machen das mal so beispielhaft, indem wir da mal so zwei Sachen nebeneinander legen. Also oben ist der E8, unten ist der E9-Bogen und jetzt kommt da unsere Lupe.
+
+(0:05:43 - 0:06:02)
+Ich gucke da rein, das PAV E alt ist 0 und im E9-Bogen steht das genauso. Dann kann man da so runterscrollen und beim E9-Bogen rüberscrollen und dann stehen da 1.660 kW unten auch, nur halt in Megawatt. Und auch der letzte Punkt ist in unserem Fall gleich.
+
+(0:06:05 - 0:06:17)
+Wenn wir die Übereinstimmung geprüft haben, kommt ein grüner Haken dran. Und jetzt haben wir schon mal den ersten Block in unserem Ordner zusammengefasst. Dann geht es weiter in die zweite Kategorie.
+
+(0:06:17 - 0:06:27)
+Da wird es jetzt schwieriger. Das ist jetzt sozusagen die elektrotechnische Planungsaufgabe, die jetzt da so vor der Haustür steht. Jetzt passiert deutlich mehr.
+
+(0:06:27 - 0:06:35)
+Und da fangen wir einfach mal an mit einem einpoligen Schaltbild. Anschlussnehmer steht drin. Das machen also auf jeden Fall wir.
+
+(0:06:36 - 0:06:45)
+Kennt das auch unter dem Begriff Anlagenschema oder im Englischen natürlich Single Line Diagram. Das ist sicherlich auch ein Begriff, aber das ist damit gemeint. Ein einpoliges Schaltbild.
+
+(0:06:49 - 0:07:05)
+Wahrscheinlich genau an diesem Punkt haben wir uns überlegt, mein Gott, allein das ist ja eine ganze Schulungseinheit wert, weil da so viel, sage ich mal, Informationen jetzt in so einem Schaltbild drinstecken. Die können wir jetzt hier auf keinen Fall erklären. Genau aus dem Grund kommt da jetzt wieder der Icon.
+
+(0:07:06 - 0:07:16)
+Ich gehe jetzt einfach mal davon aus, dass jeder weiß, was rein muss in dieses Schaltbild. Und deswegen gehe ich relativ zügig einfach mal durch. Wie jetzt so eine Zertifizierstelle sich das dann anschauen würde.
+
+(0:07:17 - 0:07:37)
+Die würde erst mal gucken, haben die da alle elektrischen Dimensionierungswerte angegeben? Die werden noch nicht überprüft, ob sie ausreichend sind, sondern es geht jetzt erst mal darum, ob sie überhaupt drinstehen. Das ist tatsächlich so. Das ist ein ganz, ganz, ganz gut geplanter Prozess, den so eine Zertifizierstelle da durchläuft.
+
+(0:07:37 - 0:07:46)
+Und im ersten Schritt gucken sie erst mal, ob sie alle Infos haben. Und sie prüfen sie aber noch nicht. Erstens wären also Spannungs- und Stromwerte.
+
+(0:07:46 - 0:07:50)
+Da gibt es verschiedenste. Wir haben nur ein paar Mal in die Klammer geschrieben. Ganz wichtig.
+
+(0:07:51 - 0:08:11)
+Es gibt ja auch Transformatoren, also eine Primär- und Sekundärseite, also auf beiden Seiten diese elektrischen Dimensionierungswerte angeben. Dann gibt es verschiedene Stationen, haben wir es mal gemeint, oder verschiedene Gebäude oder Einheiten, an denen das alles so auftritt. Das zeigen wir jetzt auch gleich mal, zum Beispiel die Übergabestation.
+
+(0:08:11 - 0:08:21)
+So sieht die in unserem Beispiel aus. Haben wir uns schon mal alles ganz genau im Detail angeguckt. Und dann wäre das aber nur die erste Einheit, sage ich jetzt mal.
+
+(0:08:21 - 0:08:42)
+Und da links oben habe ich es jetzt großgrün gehighlighted. Also da würde ich jetzt für diese elektrische Dimensionierung der Station sozusagen die elektrischen Kenndaten angeben. Also da steht zum Beispiel 24 kV als Nennspannung oder 630 Ampere als Nennstrom und auch der Kurzschlussstrom mit 20 Kiloampere für eine Sekunde, den habe ich da hingeschrieben.
+
+(0:08:44 - 0:08:56)
+Jetzt haben wir aber wahrscheinlich auch Verteil- oder Trafostationen und dann würden wir da einfach mal weitergehen, das Mittelspannungskabel weiterlaufen bis zur Trafostation. Das ist dann auch in unserem Schema drin. Das ist jetzt ziemlich ähnlich.
+
+(0:08:56 - 0:09:11)
+Links oben seht ihr wieder die Dimensionierungswerte. Dann gibt es da eine Niederspannungsverteilung, die gibt es auch immer. Und auch da achten wir drauf, wir highlighten es mal in grün, dass da jetzt so eine Nennspannung drin steht, ein Kurzschlussstrom und ein Nennstrom.
+
+(0:09:16 - 0:09:32)
+So, ich bin wieder zurückgeschoben in meine Übergabestation, weil ich jetzt erst mal mit diesen Dimensionierungswerten, wie wir die in unserer Checkliste nennen, durch bin. Das hat erst mal ganz gut funktioniert, sozusagen übergeordnet von meinen Gebäuden. Und jetzt gucke ich mir die Kabel als nächstes an.
+
+(0:09:33 - 0:09:44)
+OS und US bedeutet Oberspannung und Unterspannung. Also auch da bitte in alle Spannungsebenen gucken. Und für die Kabel jetzt sowohl den Typ als auch die Länge als auch den Querschnitt angeben.
+
+(0:09:44 - 0:09:50)
+Zeigen das hier in unserem Beispiel ja schon. Ich denke, wir machen es auch hier wieder grün. Genau so würde das also aussehen.
+
+(0:09:50 - 0:10:06)
+Den Typ, die Länge und den Querschnitt im einpoligen Schaltbild angeben. Die Zertifizierstellen brauchen diese Werte für ihre Netzberechnung. Ich kenne es auch so, wenn das irgendwie zu kleinteilig wird oder zu viele Kabel sind, dann macht man Kabellisten draus und stellt hier dann einen Verweis rein.
+
+(0:10:07 - 0:10:16)
+Da sind sie. Im nächsten Schritt gucken wir uns die Wandler an. Es gibt Strom- und Spannungswandler.
+
+(0:10:17 - 0:10:26)
+Ich zeige sie gleich noch mal, wie die so ein bisschen aussehen in Realität. Aber in unserem Schema, wer gute Augen hat, sieht sie auch schon. Es geht jetzt nicht um die Kenndaten, deswegen zoome ich auch nicht.
+
+(0:10:26 - 0:10:43)
+Ich wollte ja nur zeigen, dass ich sie aufgeschrieben habe und zwar die Nenndaten. Datenblätter haben wir mit dazugenommen, weil wenn man nicht alle Infos jetzt so unterbringt, wie wir das hier gemacht haben, dann hilft das vielleicht auch aufs Datenblatt zu verweisen und das mitzuschicken. Ich habe es jetzt hier aber ehrlich gesagt alles reingeschrieben.
+
+(0:10:43 - 0:11:02)
+Das sind so Primär- und Sekundärströme und die Bürde zum Beispiel. Und für Anlagen, bei denen es knapp werden könnte mit der Bürde, würden wir eine Berechnung empfehlen. Dann kann man das nachweisen mit einem separaten Dokument, dass die richtig ausgelegt sind.
+
+(0:11:04 - 0:11:15)
+So jetzt auch hier wieder grün gehighlighted. Da seht ihr es, ein paar Strom- und Spannungswandler haben wir drin. Und hier machen wir es einfach noch mal im 3D-Modell, damit man sich so ein bisschen besser vorstellen kann, wie so ein Mittelspannungswandler eigentlich aussieht.
+
+(0:11:20 - 0:11:36)
+Als nächstes schauen wir uns Schalter an. Also auch da wieder so als Checkpunkt quasi auf einer Liste oder in meinem Hinterkopf habe ich alles bei den Schaltern beachtet. Da frage ich mich ja erst mal, welche Schalter meint er denn? Ich habe es hier wieder grün gehighlighted.
+
+(0:11:36 - 0:11:42)
+Das wäre jetzt erst mal die Mittelspannung. Also da sieht man Eingangsfeld. Das sind dann Lastrennschalter, dann Leistungsschalter gibt es.
+
+(0:11:42 - 0:11:55)
+Auch das Messfeld haben wir da in das Thema mit reingenommen. Also auch das werden die prüfen. Und dann auch da so eine kleine 3D-Animation mit rein, damit man sich das vielleicht wieder vorstellen kann, wie das in Wirklichkeit aussieht.
+
+(0:11:55 - 0:12:10)
+Und weiter geht es in die Trafostation, gleiches Spiel. Da gibt es auch eine Mittelspannungsschalteranlage und ganz wichtig, mittig seht das noch, da gibt es dann auch einen Niederspannungsleistungsschalter. Der sieht ein bisschen anders aus, aber das Prinzip hier ist erst mal genau das Gleiche.
+
+(0:12:10 - 0:12:24)
+Die Nenndaten müssen in das Schaltbild mit rein, also den Typ, die Messungsgrößen. So, dann haben wir unseren Schalter drin. Jetzt kommt mal was Photovoltaik spezifisch.
+
+(0:12:24 - 0:12:35)
+Das ist die EZE, also die Erzeugungseinheit. Auf unserer Sprache denke ich der Wechselrichter. Da wollen die Typen und Konfigurationen sehen.
+
+(0:12:35 - 0:12:52)
+Das kann man dann auch noch mal quer prüfen mit den Angaben aus den E-Bögen. Also bei uns sieht man das da unten. Da seht ihr das elektrische Ersatzschaltbild für den Wechselrichter und darunter sieht man dann auch noch mal die Anzahl, den Typ und meinetwegen auch die Verschaltungskonfiguration.
+
+(0:12:59 - 0:13:12)
+So, dann der Transformator, ein ganz wichtiges elektrisches Bauteil. Das kann man in Realität auf keinen Fall übersehen. In so einem Ersatzschaltbild ist er ein bisschen kleiner, aber natürlich trotzdem genauso wichtig wie der Rest.
+
+(0:13:12 - 0:13:21)
+Da ist er. Jetzt ist er ein bisschen deutlicher vielleicht dargestellt. Also beim Mittelspannungstransformator, auch da steht jetzt erst mal bei uns drin, Typenschilder und Prüfprotokolle.
+
+(0:13:21 - 0:13:33)
+Aber Achtung, es gibt noch keine Typenschilder. Manchmal machen die Hersteller das aber so, dass sie im Grunde ein Typenschild schon mal vorab übergeben. Und dann würde man das anhängen bzw.
+
+(0:13:34 - 0:13:44)
+die Kenndaten hier eintragen. Wichtig ist Übersetzungsverhältnis, also Ober- zu Unterspannung und ganz, ganz wichtig auch die Stufung. Das ist nicht selbstverständlich.
+
+(0:13:44 - 0:13:52)
+So ein typischer Mittelspannungstrafo hat fünf Stufen. Es ist nicht klar, in welcher Position der am Ende stehen soll. Das ist aber jetzt hier schon erforderlich.
+
+(0:13:52 - 0:14:07)
+Das ist ja ein Planungszertifikat. Also muss man jetzt schon wissen, in welche Position man den Transformator am Ende stufen wird. So, dann haben wir hier ein Schutzgerät nach E9.
+
+(0:14:08 - 0:14:18)
+Das sind am Ende sind es dann wahrscheinlich mehrere. Aber der E9-Bogen erinnert euch, Netzbetreiberabfragebogen. Da steht auch drin, wie die Schutztechnik aus Sicht des Netzbetreibers auszuführen ist.
+
+(0:14:18 - 0:14:29)
+Dann nehme ich die erst mal hier mit rein und zwar immer mit Wirkverbindung. Das sind für mich zwei verschiedene Sachen. Einmal die Auslösung auf den Leistungsschalter und einmal der Messort.
+
+(0:14:29 - 0:14:42)
+Also wo ist eigentlich der Wandler genau verbaut? Das ist jetzt auch hier so ein bisschen grün auf dunkelblauem Hintergrund dargestellt. Ich hoffe, ihr könnt das sehen. Wir haben da so einen Netz- und Anlagenschutz auf der Niederspannungsseite jetzt dargestellt.
+
+(0:14:43 - 0:14:58)
+Da kommt er nochmal rein. Da ist er und da hat man im Hintergrund gesehen den Spannungswandler und der Auslöseort ist der Niederspannungsleistungsschalter direkt darunter. So, das war das einpolige Schaltbild.
+
+(0:14:58 - 0:15:07)
+Das ist ein ganz, ganz großer Block. Wenn man das geschafft hat, ist viel passiert. Dann ist nämlich ein Riesenschritt auch der der ganzen elektrotechnischen Planung schon abgeschlossen.
+
+(0:15:09 - 0:15:17)
+Als nächstes kommt das Schutzkonzept. Da meine ich, machen wir auch eine Glühbirne gleich dran. Wir zeigen es erst mal kurz.
+
+(0:15:17 - 0:15:28)
+So sieht das aus, wenn man es geschafft hat sozusagen. Und dann genau kommt sie da schon. Also wir erklären an der anderen Stelle sehr genau, was das ja alles ist und wie man auf die verschiedenen Werte eigentlich kommt.
+
+(0:15:29 - 0:15:41)
+Jetzt nehmen wir es als gegeben an. Also das Schutzkonzept hat schon jemand erfolgreich ausgeführt, wie wir hier sehen. Man sieht erst mal die verschiedenen Schutzrelais mit deren Aufgaben und auch die Messung und die Auslöseorte.
+
+(0:15:42 - 0:15:55)
+Also die Angaben müssen drin sein vom Typ des Schutzgeräts. Die Einstellwerte sind sinnhafterweise auch mit dabei. Wird die Zertifizierstelle nämlich auch noch mal nach einer gewissen Logik dann überprüfen.
+
+(0:15:56 - 0:16:12)
+Der Ort der Messung und der Auslösung hier bei uns in blau und orange. Und genau das war dann erst mal alles zu den Angaben. Jetzt haben wir noch ein paar Sachen zusammengesammelt, die genauso auch in der 4110 stehen und genau deswegen auch die Zertifizierstelle sich so angucken werden.
+
+(0:16:12 - 0:16:28)
+Wenn jetzt man schon mal ein bisschen zuhört, mitdenkt, wie auch immer, dann kann man das natürlich vorab schon in seiner Planung berücksichtigen. Und dann nimmt man das sozusagen der Prüfung der Zertifizierstelle schon mal vorweg bzw. vermeidet dann Rückfragen oder Nachbauten oder was auch immer.
+
+(0:16:29 - 0:16:49)
+Also achtet ganz grundsätzlich darauf, dass es auch Stromlaufpläne gibt, in denen sehr klar beschrieben wird, wie diese Schutzrelais verdrahtet sind. Es müssen Prüfklemmleisten vorgesehen werden. Das steht so drin, hatten wir vor allem früher oft, da wurde das noch weggelassen.
+
+(0:16:49 - 0:17:06)
+Mittlerweile haben sich, glaube ich, da alle angepasst und das passiert nicht mehr. Aber achtet darauf, Prüfklemmleisten sind ein ganz entscheidender Punkt bei der Umsetzung von dieser Schutztechnik. Dann muss das Schutzrelais die Auslöseverbindung selbst überprüfen.
+
+(0:17:06 - 0:17:20)
+Wie genau das geht, das kann der Stationsbauer machen, aber er muss es, er muss darauf achten. Der Leistungsschalter muss auslösen, wenn die USV ausfällt. Und das gilt erst mal allgemein für alle Schutzrelais.
+
+(0:17:20 - 0:17:34)
+Und im nächsten Schritt haben wir jetzt noch mal die Punkte, die abhängig sind von dem Typen des Schutzgeräts aufgeschrieben. Erst mal bei dem übergeordneten Schutzrelais. Da ist es, das ist ein typisches Relais, das man so in Übergabestationen findet.
+
+(0:17:34 - 0:18:01)
+Kann natürlich auch ein anderer Hersteller sein. Und da muss man darauf achten, dass der Live-Kontakt auch wirklich verdrahtet ist und funktioniert, dass das Relais eine Ausfallerkennung der Messspannung hat, also wenn es feststellt, dass die Messspannung nicht mehr da ist, muss es das sozusagen einer Reaktion daraus folgen. Die USV, die hinter diesem Relais steht, muss auf acht Stunden dimensioniert sein.
+
+(0:18:01 - 0:18:14)
+Und dazu muss es auch eine Berechnung geben. Und das ist, meine ich, auch schon der entscheidende Punkt, der bei dem zwischengelagerten Schutzgerät, da ist alles so ein bisschen einfacher, anders ist. Genau, da ist die USV viel, viel kleiner dimensioniert.
+
+(0:18:14 - 0:18:27)
+Das sind eigentlich nur so kleine Batterieeinheiten oder Kondensatoren, die da mit drin sind. Also das muss nur fünf Sekunden aushalten, nachdem die Spannung mal ausgefallen ist. Aber auch dafür braucht ihr einen Nachweis.
+
+(0:18:27 - 0:18:41)
+Das kann man alles schon während der Planungsphase sozusagen immer adressieren an die Hersteller. Dann geht es auch, wenn es jetzt um die Checkliste geht, schneller. So, dann gibt es auch noch weitere Schutzrelais.
+
+(0:18:41 - 0:18:48)
+Das ist immer so. Dieses übergeordnete Zwischengelager, das sind die ganz typischen, stehen auch im E9-Bogen so. Aber jetzt gibt es auch weitere.
+
+(0:18:48 - 0:18:55)
+Und das wird die Zertifizierstelle schon auch wissen. Einmal seht ihr hier, so eine NH-Leiste haben wir reingenommen. Also es gibt Sicherungen.
+
+(0:18:55 - 0:19:07)
+Das sieht man dann jetzt in unserem Fall hier nicht, sondern im Anlagenschema. Dann gibt es oft, vor allem jetzt bei den neuen IT-Systemen, IMDs, also Insulated Monitoring Devices. Die würde man auch mit eintragen.
+
+(0:19:08 - 0:19:18)
+Und dann gehe ich noch einmal schnell zurück, weil ich dafür keinen Bullet Point habe. Aber dann gibt es auch noch, im Wechselrichter sieht man auch, integrierte Schutzfunktionen. Das ist immer so.
+
+(0:19:19 - 0:19:29)
+Und auch die müssen hier angegeben werden. Haken dran. Als nächstes ein Kommunikationsplan.
+
+(0:19:30 - 0:19:42)
+Und da verspreche ich schon, dass ich nur ein Übersichtsbild zeige und da auf gar keinen Fall im Detail drauf eingehe. Das ist natürlich auch eine Wissenschaft für sich. Ich zeige Ihnen hier mal nur so beispielhaft.
+
+(0:19:42 - 0:20:04)
+Also auch hier hat der Planer ganze Arbeit geleistet und hat jetzt schon eine schematische Darstellung aller Komponenten aufbereitet. Und für die Zertifizierstelle wichtig, für uns aber natürlich genauso, ist, dass die Kommunikationswege inklusive der Kommunikationsart und auch der Schnittstelle klar zu erkennen sehen. Ihr seht es bei uns jetzt in unserem Beispiel in der Legende.
+
+(0:20:04 - 0:20:16)
+So kann man sich da durchhangeln. Was die Zertifizierstelle hier nicht machen wird, ist, dass sie überprüft, ob das überhaupt so funktioniert. Also ob jetzt der Switch beispielsweise wirklich eine Ethernet-Schnittstelle hat.
+
+(0:20:16 - 0:20:31)
+Das machen die nicht. Sie wollen erst mal sehen, dass man sich offensichtlich selbst Gedanken darüber gemacht hat und dass man auch die Planung nachweisen kann. Also haben wir auch unseren Kommunikationsplan eingehakt.
+
+(0:20:31 - 0:20:49)
+Wenn ich mich richtig erinnere, würde ich da jetzt auch noch im Gedanken so ein Schulungs-Icon mit dran machen, weil wir das auch einzeln aufgebaut haben, wie eigentlich so ein Plan entsteht. Jetzt kommt die Reglerbeschreibung. Das ist für mich ein bisschen einfacher schon tatsächlich, deswegen, weil bei der Quelle Lieferant steht.
+
+(0:20:50 - 0:21:22)
+Also ich als Elektroplaner schreibe die Reglerbeschreibung nicht, sondern ich beauftrage eine Fachfirma, in meiner Welt ist das meistens den Parkregler auch liefert und die kümmert sich dann, ich habe es glaube ich auch kurz aufgeschrieben, genau darum, welcher Reglertyp überhaupt eingesetzt wird und der Hersteller ist er dann ja im Grunde selbst. Aber das muss da drinstehen in dieser Beschreibung. Dann sollte er bitte klar skizzieren oder beschreiben, wo die Messwerterfassung stattfindet.
+
+(0:21:22 - 0:21:32)
+Das ist wichtig, weil der Parkregler ja auf diesem Punkt dann regelt. Genau, da haben wir es schon. Also sowohl die Messwerterfassung als auch an welcher Stelle wird dann geregelt.
+
+(0:21:33 - 0:21:51)
+Dann muss er nachweisen, dass es getrennte Schnittstellen gibt für Netzbetreiber, für Direktvermarkter und wenn es noch weitere Parteien gibt, für die dann auch. Er muss beschreiben, nach welcher Priorität diese verschiedenen Parteien sozusagen behandelt werden. Also ich gebe nur mal ein Beispiel.
+
+(0:21:51 - 0:22:07)
+Der Netzbetreiber will auf 30% Wirkleistung reduzieren, der Direktvermarkter will aber volle Ladung ins Netz schieben. Dann muss hier beschrieben werden, wer sozusagen die führende Rolle dann einnimmt. Steht genauso in der 4110.
+
+(0:22:07 - 0:22:20)
+Es müssen die Wirkleistungsvorgabedaten für 18 Monate gespeichert sein. Klingt nach einem einfachen Punkt, geht aber auch schnell mal schief. Wenn irgendeine Speicherkarte nicht groß genug ist, dann beschreibt die sich am Ende der Ringspeicher selbst.
+
+(0:22:21 - 0:22:31)
+Da sagt erstmal der Parkreglerbeschreibung, dass das nicht der Fall ist. Die Einstellungen müssen da natürlich rein. Also jetzt zum jetzigen Zeitpunkt können wir das ja noch gar nicht wissen.
+
+(0:22:31 - 0:22:39)
+Das kommt dann später. Da sagt uns dann die Zertifizierstelle und der Netzbetreiber, was wir eigentlich einstellen sollen. Aber hier würde man das dann reinschreiben.
+
+(0:22:43 - 0:22:52)
+Das Reglerverhalten zwischen 0 und 10%. Das ist immer so ein Bereich, der speziell behandelt wird. Deswegen sollte man den explizit ausweisen.
+
+(0:22:53 - 0:23:05)
+Todzeiten und Tastzykluszeiten, also mit welchen Geschwindigkeiten dieser Parkregler überhaupt arbeitet. Und ich glaube, das ist der letzte Punkt. Was passiert eigentlich bei Störung? Das ist auch ein entscheidender Punkt.
+
+(0:23:05 - 0:23:33)
+Das wird auch getestet später, wenn der Parkregler zum Beispiel ausfällt. Was machen denn dann eigentlich die Wechselrichter? Also die Reglerbeschreibung ist aus meiner Sicht eine Aufgabe des Lieferanten. Eure Aufgabe als Elektroplaner ist es vielleicht eher, dran zu bleiben und zu überprüfen, dass er nicht einfach nur auf einer Seite skizziert, wie sein Parkregler heißt, sondern dass er da wirklich eine komplexe Beschreibung erstellt.
+
+(0:23:33 - 0:23:53)
+Aus meiner Sicht wird dieser Punkt leider zu wenig in den Fokus gerückt. Die Zertifizierstellen sind da immer sehr nachgiebig, finde ich, dass sie da auch vermeintlich kurze Beschreibungen akzeptieren. Aber grundsätzlich vielleicht da noch mal gedacht an die allererste Slide, die ich da gezeigt hatte heute zur Motivation.
+
+(0:23:53 - 0:24:19)
+Also unser Energieversorgungssystem der Zukunft basiert darauf, dass diese regenerativen Erzeugungseinheiten, diese vielen, vielen dezentralen Einheiten funktionieren. Das machen die zum Großteil automatisiert, zum Beispiel über solche Parkregler. Und wenn die nicht richtig eingestellt sind oder nicht getestet sind, dann funktioniert ja im Endeffekt unsere Stabilität der Energieversorgung nicht mehr.
+
+(0:24:19 - 0:24:26)
+Also ich finde, das ist ein ganz, ganz wichtiger Punkt. Sollte voll in den Fokus von euch gerückt werden. Haken dran.
+
+(0:24:28 - 0:24:37)
+Als nächstes Zertifikate. Ich glaube, da wird es auch ein bisschen einfacher, weil wir die nur einsammeln müssen. Wir holen uns ein Einheitenzertifikat von der Erzeugungseinheit.
+
+(0:24:38 - 0:24:50)
+Also die Erzeugungseinheit ist der Wechselrichter. Und da ist es meistens so, dass wir als Planer nur das Deckblatt kriegen. Ich kenne es so, dass man das im Grunde sich online runterladen kann, aber eben nur das Deckblatt.
+
+(0:24:50 - 0:25:02)
+So sieht das dann vielleicht mal ungefähr aus. Da schaut man, dass der richtige Wechselrichter Typ draufsteht, dass das nicht abgelaufen ist, dass die Leistung die richtige ist. Aber die Zertifizierstelle wird später dann noch mehr kriegen.
+
+(0:25:03 - 0:25:08)
+Nämlich das vollständige Zertifikat. Das hat meistens mehrere hundert Seiten. Da stehen sozusagen die interessanten Sachen drin.
+
+(0:25:09 - 0:25:16)
+Also mit welchen Werten denn am Ende wirklich diese Einheit gemessen wurde. Ihr braucht das nicht. Das Deckblatt reicht erstmal.
+
+(0:25:18 - 0:25:28)
+Und auch die Modelle und Beschreibungen, das kriegt die Zertifizierstelle mit Modelle, sind dann eben Software-Modelle gemeint. Auch das geht nicht an uns, aber dann habt das mal gehört. Im Hintergrund passiert da dann noch ziemlich viel.
+
+(0:25:31 - 0:25:40)
+Hacken an. Die Komponentenzertifikate. Also eben nicht zu verwechseln mit den Einheitenzertifikaten der Wechselrichter.
+
+(0:25:40 - 0:25:47)
+Das wäre ganz wichtig. Der Anlagenregler oder der Parkregler könnte ungefähr so aussehen. Und die Schutzgeräte.
+
+(0:25:47 - 0:25:55)
+Diese zwei Komponenten müssen auch zertifiziert sein. Nach 4110 oder 4120 oder 4130. Da gibt es schon nicht mehr ganz so viele.
+
+(0:25:56 - 0:26:10)
+Also achtet auf den Zertifikaten darauf, dass die Ablaufdaten nicht überschritten sind und dass die richtige Spannungsebene angegeben ist. Genau das machen dann die Zertifizierstellen später nämlich auch. Haken dran.
+
+(0:26:12 - 0:26:21)
+Jetzt kommt der letzte Punkt. Sonstiges geht auch sehr zügig, weil jetzt wird es sehr einfach. Schickt einen geografischen Lageplan mit.
+
+(0:26:21 - 0:26:29)
+Wir haben hier ein Beispiel von unserem Exkurs in eine Dachanlage gezeigt. Also das sieht natürlich immer völlig unterschiedlich aus. Es geht nur darum.
+
+(0:26:29 - 0:26:37)
+Auch das wollen die Zertifizierstellen wissen. Können sie ja nicht sonst wissen. Wo genau ist eigentlich die Anlage? Wo ist der Netzverknüpfungspunkt? Das habt ihr sowieso.
+
+(0:26:37 - 0:26:48)
+Insofern ist das eine einfache Geschichte. Dann haben wir es genannt. Sonstige relevante Bestandteile der Erzeugungsanlage.
+
+(0:26:48 - 0:26:55)
+Also das ist natürlich vielleicht eine Kompensationsanlage. Mit natürlich meine ich, die ist auf jeden Fall relevant. Auch eine Bezugsanlage.
+
+(0:26:55 - 0:27:01)
+Das sind dann vor allem Dachanlagen, also Mischanlagen. Die ist auch wichtig. Und das dritte ist Speicher, also die Zukunft.
+
+(0:27:02 - 0:27:11)
+Wir nennen das relevante Bestandteile. Selbstverständlich sind das relevante Bestandteile. Man könnte ja auch sagen, eigentlich ist die PV-Anlage ein Bestandteil der Bezugsanlage.
+
+(0:27:12 - 0:27:25)
+Aber das ist sozusagen nicht wichtig hier. Wichtig ist, dass wenn ihr einen Speicher habt oder eine Kompensationsanlage, dann verdoppelt sich wahrscheinlich erst mal die Anzahl der Dokumente. Weil auch die müssen genau dokumentiert sein.
+
+(0:27:26 - 0:27:35)
+Auch da gibt es Reglerkonzepte, Schutzkonzepte. Und das muss dann auch mit abgegeben werden. Jetzt sage ich einfach mal, haben wir nicht, dann ist es relativ einfach.
+
+(0:27:35 - 0:27:41)
+Und wir machen einen Haken dran. Letzter Punkt. Es gibt vielleicht noch sonstige Punkte.
+
+(0:27:42 - 0:28:00)
+Dieser Punkt kommt nicht von mir, weil ich finde ihn ein bisschen seltsam. Am Ende ist es so, wenn ihr Sonderabstimmungen habt, mit dem Netzbetreiber, dann würde ich das als E-Mail dokumentieren, eine PDF draus machen und das Ganze anhängen. Weil die Zertifizierstelle kann das natürlich erst mal nicht wissen, was ihr da so abgestimmt habt.
+
+(0:28:00 - 0:28:18)
+Und am Ende brauchen sie es immer schriftlich. Es ist nicht hilfreich, zu schreiben oder zu telefonieren und zu sagen, dass das abgestimmt ist. Sondern nehmt die schriftliche Bestätigung des Netzbetreibers, dass irgendwelche Besonderheiten bei den Schutzeinstellungen zugelassen sind oder sogar gewünscht sind.
+
+(0:28:18 - 0:28:27)
+Und dann ist das für die Zertifizierstelle auch immer in Ordnung. Die wird immer sagen, wenn das mit dem Netzbetreiber abgestimmt ist, dann ist es in Ordnung. Netzbetreiber sticht 41c.
+
+(0:28:28 - 0:28:34)
+Genau. Beschreibt das kurz in einem Kontext, sodass es jeder verstehen kann, ohne dass es Rückfragen gibt.

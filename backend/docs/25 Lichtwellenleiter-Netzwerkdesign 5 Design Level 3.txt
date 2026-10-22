@@ -1,0 +1,218 @@
+(0:00:00 - 0:00:08)
+Letzter Punkt. Jetzt haben wir ein Design gebaut mit Reserve, mit CCTV, mit Ringen. Die Grundlogik ist, glaube ich, völlig klar.
+
+(0:00:08 - 0:00:15)
+Man muss kreuzen. All das zusammen ist schon immer relativ schwer. Und jetzt haben wir, finde ich, ein Design, das funktioniert.
+
+(0:00:15 - 0:00:34)
+So hat das bei uns auch jahrelang bei vielen, vielen Projekten immer funktioniert. Deswegen betone ich das gerne an der Stelle Level 3. Es finde ich interessant, ist aber nicht Grundvoraussetzung für eine erfolgreiche Netzwerkplanung. Aber wir gucken es uns an, weil es irgendwie auch eine spannende Geschichte ist.
+
+(0:00:34 - 0:00:43)
+Also warum überhaupt Level 3? Und dann habe ich hier zwei geteilt. Diese Fragestellung einmal in das Stichwort Dämpfung. Wir hatten das schon.
+
+(0:00:44 - 0:00:56)
+Splicebox macht Dämpfung, Kabel machen Dämpfung. Aber wie bewerte ich das dann eigentlich im Kontext von meinem Design? Und das Zweite wäre dann noch das Stichwort Bandbreite. Das sind für mich getrennte Themen, die technisch zusammengehören.
+
+(0:00:56 - 0:01:06)
+Aber ich beantworte sie jetzt voneinander getrennt. Und da ist noch mal der Daumen hoch. Also wir sind jetzt in einem Level super interessant.
+
+(0:01:06 - 0:01:23)
+Wer da Zeit hat, sich mit auszutauschen, der der hat Glück. Ich denke, die meisten bügeln darüber hinweg, weil sie schon wieder das nächste Projekt planen. Aber jetzt gucken wir uns das an und dann hat man es im Hinterkopf und dann kann man auch besser mitreden mit den anderen Netzwerktechnikern.
+
+(0:01:24 - 0:01:29)
+So, das ist das sogenannte Signal Budget. Wir sind jetzt bei der Dämpfung. Das war der linke Teil von meinem Baum.
+
+(0:01:29 - 0:01:42)
+Jetzt schauen wir uns noch mal die Dämpfung an. Und da haben wir jetzt ein Datenblatt von so einem Transiever, von so einem Modul. Das war das fünfte Bauteil, das ich gezeigt habe, das immer so ein bisschen untergegangen ist, weil man steckt das ja rein in den Switch und dann sieht man es eigentlich auch nicht mehr.
+
+(0:01:42 - 0:01:57)
+Aber der ist wichtig. Da kommt das Licht raus und das ist das Datenblatt dazu. Und jetzt sage ich erst mal laut Datenblatt, weil das hier halt so drin steht, auf Englisch gibt es ein Signal Budget und im Datenblatt steht Power Budget, ist einfach nur der englische Begriff dafür.
+
+(0:01:58 - 0:02:18)
+Und dieses Power Budget rechnet man aus aus dem Transmit Signal Stärke und der Receive Signal Stärke. Schauen wir uns gleich mal im Datenblatt an, dann wird es, glaube ich, klarer. Aber wenn wir uns das jetzt eben hier mal reinzoomen, jetzt wieder auf Deutsch der Sendepegel, also das ist ja eben das Transmit Signal.
+
+(0:02:18 - 0:02:30)
+Das hätte jetzt hier einen Wert von minus 9,5 dB. Das mit der Minus, das nehmen wir mathematisch mal so hin. Das ist halt in der Dämpfungs Logik wird das sozusagen rückwärts betrachtet, wenn man so will.
+
+(0:02:31 - 0:02:47)
+Also das ist richtig. Aber jetzt im Kontext mit der zweiten Zahl, nämlich dem Empfangspegel, also dem Receive Signal holen wir uns auch raus, sind 21 dB auch wieder Minus. Und jetzt kommt der ganz große Mathematiktrick Minus und Minus.
+
+(0:02:47 - 0:02:58)
+Und jetzt sind wir bei plus 11,5 dB. Das ist mein Power Budget, weil es so schön in dieses Datenblatt passt. Zeige ich es hier auch nochmal gehighlighted.
+
+(0:02:59 - 0:03:06)
+Also hier kommen die 11,5 her. Das passt. Da haben wir natürlich Glück gehabt, dass diese Rechnung jetzt sozusagen übereinstimmt.
+
+(0:03:06 - 0:03:19)
+Ich kann an der Stelle nur sagen, wenn ihr ein Projekt habt mit Glasfaser, dann schaut euch mal das Datenblatt von eurem Transceiver an. Erinnert euch Level 3. Das wird passen. Da bin ich sehr zuversichtlich.
+
+(0:03:20 - 0:03:30)
+Aber die Ingenieur Ansatz wäre ja jetzt neugierig sein. Jetzt reinbeißen. Jetzt nochmal gucken, was da wirklich in dem Datenblatt steht und dann mal eine Bewertung machen.
+
+(0:03:30 - 0:03:39)
+Vielleicht hat man ja auch ein bisschen übertrieben mit seiner Signalstärke. Dann kann man das ja mal hinterfragen. Also jetzt haben wir im ersten Schritt haben wir uns dieses Power Budget rausgesucht.
+
+(0:03:39 - 0:03:46)
+Und jetzt zeige ich, warum wir das brauchen. Da springen wir wieder in unseren Splice Plan. Und jetzt kommt das Stichwort Dämpfung.
+
+(0:03:46 - 0:04:05)
+Jetzt wird es ein bisschen unübersichtlicher, aber es sind ja alle sehr gut vorbereitet und haben das alles schon geübt. Wir machen das so, dass wir erst mal das ein bisschen reduzieren, sozusagen aufräumen, damit wir auch unten wieder ein bisschen Platz haben für unsere Dämpfung. Aus dem Brain Day LWL Messung ist das klar.
+
+(0:04:06 - 0:04:15)
+Wer es nicht gesehen hat, kann das jetzt ja noch nachholen. Aber da haben wir das ganz genau erklärt, wie man diese Dämpfung darstellt. Deswegen machen wir es jetzt nur im Kurzdurchlauf.
+
+(0:04:16 - 0:04:30)
+Also das Signal, man sieht es auch oben in der Zeichnung, das startet aus dem Switch, aus dem Transfieber. Da kommt das Licht raus, gefeuert mit einer gewissen Signalstärke. Und dann gibt es schon die erste Dämpfung, weil da schon der erste Splice ist bei der Splicebox.
+
+(0:04:30 - 0:04:37)
+Das heißt, da geht es schon mal richtig runter. Das Signal wird gleich in der ersten Splicebox, wird halt das Licht gebrochen. Da kann der Splicer noch so gut arbeiten.
+
+(0:04:37 - 0:04:44)
+Das ist eine Schwachstelle und zack hat man die Dämpfung. Sieht man hier sehr gut. Das Signal wird gedämpft.
+
+(0:04:44 - 0:04:56)
+Dann ist das keine Gerade, sondern wir haben eine kleine Neigung drin, weil das Kabel selbst ja auch eine Dämpfung pro Kilometer hat. Hier seht ihr keine Zahlen. Das ist für uns relativ dargestellt.
+
+(0:04:56 - 0:05:07)
+Aber wichtig ist über das Kabel hinweg, sagen wir mal ein Kilometer, haben wir jetzt auch wieder eine Dämpfung von 0,5 bis 1 dB da drin. Deswegen ist das geneigt hier. Also der Pegel wird immer niedriger.
+
+(0:05:08 - 0:05:19)
+Jetzt klar, das Problem, jetzt kommt hier wieder so ein Splice. Das heißt, an der Stelle gibt es auch wieder eine Dämpfung. Und jetzt geht das Signal wieder in den Switch.
+
+(0:05:19 - 0:05:33)
+Haben wir erst mal geschafft, die erste Strecke. Aber das Signal wurde deutlich gedämpft. Was ist jetzt der große Trick von dem Switch? Der hat ja jetzt beim Ausgang wieder einen Transmit Sender drin, sozusagen.
+
+(0:05:33 - 0:05:40)
+Deswegen, darauf will ich hier hinaus. Geht die Signalstärke wieder an den ursprünglichen Sende Pegel zurück. Also ist alles gut.
+
+(0:05:40 - 0:05:51)
+Jetzt haben wir zwar eine Dämpfung drin gehabt, aber gleich der nächste Bauabschnitt sozusagen wird ja wieder mit Originalstärke befeuert. Deswegen geht es zur nächsten Station. Und da sieht das einfach genau gleich aus.
+
+(0:05:51 - 0:06:05)
+Und wir haben eine Dämpfung drin, die sozusagen nur an zwei Stellen greift. Am Anfang und am Ende von dem LWL Kabel alles in Ordnung. Warum reite ich da jetzt so drauf rum? Weil es den Rückweg gibt.
+
+(0:06:06 - 0:06:17)
+Vielleicht hat der eine oder andere jetzt schon eine Idee, was da anders sein könnte. Ich zeige es aber einmal ganz in Ruhe. Also die gelbe Linie auch unten in unserem Diagramm ist jetzt der Rückweg.
+
+(0:06:18 - 0:06:30)
+Wir starten den Rückweg der Form halber in der Übergabestation, damit das im Diagramm übereinandergelegt werden kann. Und die ersten zwei Abschnitte sind genau gleich. Deswegen verschwindet jetzt die grüne Linie, weil die gelbe liegt drüber.
+
+(0:06:30 - 0:06:42)
+Die ist einfach genauso. Aber hier ist der große Unterschied. Das ganze Signal springt jetzt nicht in den Switch und wird quasi wieder neu losgeschickt, sondern springt ja über das Brücken Kabel in die nächste Splicebox.
+
+(0:06:43 - 0:06:57)
+Zack, haben wir eine Dämpfung drin, weil ja das nächste Kabel wieder gespliced wird. Jetzt haben wir das parallele Signal aber nach unten versetzt und hier wieder eine Dämpfung. Und jetzt kommt schon klar, glaube ich, raus, worauf ich hinaus will.
+
+(0:06:57 - 0:07:14)
+Das Signal in dieser gelben Linie ist deutlich schwächer am Ende. Das heißt, der Rückweg ist vielleicht unser Problem. Also was machen wir? Wir haben jetzt erst mal die erste Variante und damit man es noch besser sehen kann, haben wir noch zwei Stationen mit reingesetzt.
+
+(0:07:14 - 0:07:31)
+Zack, jetzt sind es schon vier, weil jetzt wird es halt langsam vielleicht irgendwie kritisch mit unserer Dämpfung. Die summiert sich nämlich auf. Jetzt machen wir das nicht mehr einzeln, sondern schieben das alles mit rein, weil das haben wir ja sozusagen die Grundlogik in den ersten zwei Levels schon mitgenommen und so würde das dann aussehen.
+
+(0:07:32 - 0:07:49)
+Also das Signal wird in jeder Station wieder auf den Originalpegel hochgeschoben und am Ende kommt auf dem Hinweg gar nicht darauf an, ob das jetzt 18 Stationen sind oder zwei. Das Signal am Ende ist immer das Gleiche, die Stärke. Aber der Rückweg, der Rückweg wird jetzt natürlich immer dramatischer.
+
+(0:07:49 - 0:07:55)
+Das Signal wird immer schwächer. Und wir haben es jetzt natürlich absichtlich so gemacht. Jetzt geht das da unten schon Richtung Null sozusagen.
+
+(0:07:56 - 0:08:03)
+Also da kommt ja gar kein Signal mehr an. Der Rückweg würde jetzt nicht funktionieren. Gut, das war die Variante 1 steht oben.
+
+(0:08:04 - 0:08:17)
+Machen wir eine zweite Variante draus. Und damit man den Unterschied sieht, sind wir jetzt in die Station 2 hineingezoomt. Achtung, da gehen die roten Patchkabel in den Switch und dann weiter zur nächsten Splicebox.
+
+(0:08:18 - 0:08:30)
+Die nehmen wir jetzt raus. Beide Patchkabel nehmen wir raus und bauen in der Station 2 eine Brücke ein. Also wir gehen nicht in den Switch, sondern wir brücken nur die Station durch und gehen wieder zur nächsten.
+
+(0:08:30 - 0:08:46)
+Das habe ich jetzt gemacht. Und das mache ich jetzt auch, weil wir vier Stationen haben, mache ich es nur bei der 2. Und wenn ich das jetzt so durchziehe, dann kann man sich das so vorstellen, dass ich von der Übergabestation in die 1 gehe. Aber von der 1 wird das Signal direkt in die 3 geschickt.
+
+(0:08:47 - 0:09:01)
+Von der 3 geht es zur 4. Und der Rückweg, der Rückweg geht dann von der 4 zur 2. Die muss ich ja mitnehmen. Die darf ich auf keinen Fall vergessen. Aber ich mache es eben nicht auf dem Hinweg, sondern ich mache es auf dem Rückweg und von dort dann wieder zur Übergabestation.
+
+(0:09:01 - 0:09:09)
+Also ich habe eine Kreuzung gebaut. Die Kreuzung, die ich vorhin hatte, war die TXRX-Kreuzung, die mache ich sowieso. Aber jetzt habe ich auch noch Stationen gekreuzt.
+
+(0:09:10 - 0:09:20)
+Wenn man so will, habe ich jetzt eine Doppelkreuzung. Und wenn man so will, wird dieser Plan immer wichtiger, weil das ist unmöglich, glaube ich, im Kopf vor Ort nachzuvollziehen. Da hat man keine Ahnung, welches Signal wo rauskommt.
+
+(0:09:21 - 0:09:32)
+Also in unserem Plan haben wir jetzt gekreuzt die Stationen und jetzt sieht das Signal folgendermaßen aus. In der Station 1 wird es wieder verstärkt auf den Originalzustand. In der Station 2 nicht.
+
+(0:09:32 - 0:09:47)
+Da wird ja durchgebrückt, also wird es schwächer. In der 3 wird es wieder hochgepusht, in der 4 auch. Und dann auf dem Rückweg würde das Gelbe dann so aussehen, dass es sozusagen bei der Station 2 wieder nach oben gedrückt wird.
+
+(0:09:47 - 0:10:00)
+Also in der 1 und in der 3 auf dem Hinweg und in der 4 und in der 2 auf dem Rückweg. Und da wird es schon deutlich direkt neben mir sieht man das jetzt. Die gelbe Linie ist jetzt nicht mehr auf 0 gedämpft, sozusagen, sondern die ist jetzt schon deutlich weiter oben.
+
+(0:10:01 - 0:10:15)
+Also wir haben einen Vorteil uns geschaffen für sozusagen den Worst Case der Dämpfung. So würde ich es, glaube ich, zusammenfassen. Und damit man jetzt nochmal eine Bewertung reinnimmt, habe ich den Rest rausgeschmissen und jetzt sieht man oben diesen Sendepegel.
+
+(0:10:15 - 0:10:22)
+Das war der aus dem Datenblatt. 11,5 dB waren es, glaube ich. Und jetzt sieht man den Empfangspegel unserer realen Anlage.
+
+(0:10:22 - 0:10:39)
+Das kann man jetzt ausrechnen, indem man jeden Kilometer mit dem Kabeldämpfung reinrechnet und jeden Splice mit 0,8 dB reinrechnet. Und dann kommt da eine Zahl raus. Das machen wir hier nicht, sondern ich zeige jetzt nur sozusagen eine logische Bewertung.
+
+(0:10:40 - 0:10:57)
+Also die Variante 2 ist halt besser als die Variante 1. Das ist jetzt die Mangentafarbene, weil die weniger niedrig ist. Die Dämpfung ist sozusagen geringer. Und weil wir jetzt am Abschluss nochmal eine Bewertung reinsetzen wollen, dann nehmen wir uns die 2 raus.
+
+(0:10:57 - 0:11:07)
+Also der minimale Empfangspegel des Moduls, das haben wir in grün gemacht. Das ist jetzt einfach so als Beispiel reingesetzt, damit wir jetzt eine Bewertung machen können. Das ist der aus dem Datenblatt.
+
+(0:11:08 - 0:11:19)
+Der war, glaube ich, 9,5. Ich weiß es nicht mehr genau. Aber diese 9,5 dB, die sind jetzt in unserem Beispiel sind die jetzt größer als der tatsächliche Empfangspegel.
+
+(0:11:19 - 0:11:29)
+Und das funktioniert dann nicht mehr. Das heißt, in unserem Mangentafarbene Beispiel, das war die Variante 1, würde jetzt der Rückweg nicht funktionieren. Das kann man dann vor Ort testen und es geht nicht.
+
+(0:11:29 - 0:11:42)
+Und alle fragen sich, warum? Eine Lösung wäre, es liegt tatsächlich an der Dämpfung, die dann einfach mal zu groß ist. Und weil wir aber gekreuzt haben, funktioniert das bei unserem Projekt trotzdem. Das wäre nämlich dann die gelbe Linie.
+
+(0:11:44 - 0:11:51)
+So, jetzt kommt der letzte Punkt und dann springe ich auch nochmal schnell in Menti. Und jeder kann Fragen stellen. Das machen wir gerne so.
+
+(0:11:51 - 0:12:06)
+Aber dieser letzte Punkt war jetzt neben der Dämpfung noch die Bandbreite. Für mich unabhängiges Thema und auch Daumen hoch, weil funktioniert in allen Anlagen Photovoltaik, die wir je gebaut haben, reibungslos. Ich zeige kurz, warum.
+
+(0:12:07 - 0:12:19)
+Weil die Bandbreite, die wir nutzen, so unglaublich gering ist. Aber was ist das erst mal? Grundsätzlich ist das erst mal eine Datenmenge pro Zeit. Da kannst du nochmal drauf klicken, bitte.
+
+(0:12:21 - 0:12:38)
+Genau, also die Bandbreite ist eine Datenmenge, die man pro Zeit jetzt dadurch diese ganzen Komponenten durchschicken muss. Und der Zusammenhang ist, dass die Bandbreite und die maximale Reichweite zusammenhängen. Das ist der Punkt, auf den ich jetzt als allerletztes noch hinaus will.
+
+(0:12:38 - 0:12:52)
+Und wie ist das? Umso höher die Bandbreite ist, also umso mehr Daten wir pro Zeit da durchfeuern, umso geringer wird die Reichweite. Das Datenblatt, das man da sieht, kann ja nicht wissen, was wir für eine Bandbreite haben. Deswegen machen die das folgendermaßen.
+
+(0:12:52 - 0:13:02)
+Und ich vergleiche es gleich mit einem typischen Beispiel. Riesenanlage ist das jetzt, das habe ich absichtlich gemacht. Also das ist ja eine riesige Anlage, die dann vermeintlich viel Daten übermitteln muss.
+
+(0:13:03 - 0:13:10)
+Aber ich zeige es euch einmal. Das ist eine Abschätzung. Wir reden bei Photovoltaik von ungefähr 0,001 Gigabit pro Sekunde.
+
+(0:13:11 - 0:13:22)
+Ungefähr, weil diese ganzen Datenlogger ja nur irgendwelche CSV-Dateien, also nur irgendwelche Zahlen verschicken müssen. Das ist einfach nicht viel. Aber weil es irgendwie da vielleicht ein bisschen spannender wird.
+
+(0:13:22 - 0:13:34)
+So ein CCTV bei so einer Riesenanlage, 60 Kameras habe ich im Beispiel genommen, schickt hochauflösende Bilder. Da ist jetzt große Alarm und alle gehen drauf und schauen sich alle Kameras an. Und da feuern die deutlich mehr Daten durch.
+
+(0:13:34 - 0:13:41)
+Da sind wir bei ungefähr 0,3 Gigabit. Habe ich mir so bestätigen lassen von einer Expertenfirma. Und jetzt vergleichen wir es.
+
+(0:13:41 - 0:13:48)
+Jetzt vergleichen wir es mit dem Transceiver. Und da ist es im Datenblatt. Da steht von bis 1 Punkt.
+
+(0:13:48 - 0:13:55)
+Das ist ein Komma, also die amerikanische Schreibweise Gigabit pro Sekunde. Das schieben wir rüber. Und jetzt kommt endlich der Vergleich.
+
+(0:13:56 - 0:14:07)
+Das finde ich die finale Aufgabe von uns Planern. Die Bewertung lautet für mich sehr deutlich. Dieser Transceiver, den ich da ausgewählt habe, der kann mehr Daten pushen, als ich brauche.
+
+(0:14:07 - 0:14:23)
+Und zwar Achtung bei einer Reichweite von 10 Kilometern. Der Zusammenhang war ja, umso mehr Daten ich schicke, umso weniger Reichweite hat er. Das Datenblatt sagt ist, wenn du ein Gigabit pro Sekunde sendest, dann 10 Kilometer.
+
+(0:14:23 - 0:14:36)
+Ich bin kleiner, also kann ich mehr als 10 Kilometer. Und das heißt für mich, weil ich mir das in meiner Anlagentopologie angeguckt habe, dass das ausreichend ist. Die Stationen sind vielleicht nur ein Kilometer voneinander entfernt.
+
+(0:14:36 - 0:14:37)
+Also reicht das locker.

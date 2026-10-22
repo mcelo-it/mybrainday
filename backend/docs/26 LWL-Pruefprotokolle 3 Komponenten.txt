@@ -1,0 +1,207 @@
+(0:00:00 - 0:00:15)
+Warum haben wir die Norm geschafft? Jetzt kommen Komponenten. Hier haben wir es wirklich reduziert auf die notwendigen Komponenten, die wir hier brauchen. Da geht es natürlich um ein LWL-Kabel, weil das prüfen wir am Ende.
+
+(0:00:16 - 0:00:34)
+Und es geht um die Splicebox, weil hier wird das LWL-Kabel dann angeschlossen. Und man kann eben nur Komponenten prüfen, die auch fertig verlegt und angeschlossen sind. So, wir steigen mal ein, schauen uns erstmal jetzt ein LWL-Kabel an und verstehen erstmal den Aufbau von so einem LWL-Kabel.
+
+(0:00:35 - 0:00:51)
+Es geht los, Aufbau oben links und jetzt gibt es verschiedene Komponenten, die wir hier erstmal so aufführen. Und jetzt gleich diesem schwarzen, sieht aus wie ein Rohr, ist aber ein Kabel, diesem schwarzen Kabel einfach mal zufügen wollen. Also es gibt erstmal einen Schutzmantel, jetzt sieht man auch, dass es wirklich ein Kabel ist.
+
+(0:00:51 - 0:01:14)
+Der Schutzmantel, der ist erstmal außen um das Kabel verlegt. Das kennen wir auch so von elektrischen Kabeln, außen schwarzer Mantel, PVC oder VPE, der eben das Kabel dann erstmal vor äußeren Einflüssen schützt, vor vielleicht Steinen, vor vielleicht Druck. Einfach ein mechanischer Schutz des Kabels.
+
+(0:01:15 - 0:01:58)
+Dann kann man so ein Kabel weiter abisolieren und in dem oder unter diesem Schutzmantel, da befindet sich dann meist so ein Kunststoffmantel, der enthält dann zum Teil auch noch so ein paar Fasern, damit er eben die Zugentlastung des Kabels auch gewährleisten kann. Häufig ist das auch noch so ein bisschen mit Gleitgelen noch versehen, damit sich das Ganze in dem Kern ein bisschen bewegen kann. Aber erstmal ist der innere Kunststoffmantel, so würde ich es beschreiben, erstmal für eine Zugentlastung gedacht, damit wir unsere Leitung dann auch durch relativ lange Rohre ziehen können und nicht eben an den Glasfasern ziehen und die dehnen, weil die würden das, glaube ich, nicht so gut aushalten wie dieser Kunststoffmantel.
+
+(0:02:00 - 0:02:36)
+Jetzt geht es ein bisschen tiefer rein, jetzt gibt es einen Fasermantel, den wir hier definieren. Das ist das Rote und das ist meistens ein Kunststoff und dieser Kunststoff, dieser Plastikmantel, der dann eben auch eingefärbt ist, eben nach der VDE 0888, hier eben rot, der schützt jetzt das Kernglas, also nochmal in Plastik, was eben das Glas, was dann innerhalb des Plastik ist, durch diesen Mantel geschützt werden soll. Dann gibt es noch zwei Glasschichten, einmal das Mantelglas, das findet man hier, das hat dann, glaube ich, in der Regel 125 Mikrometer.
+
+(0:02:37 - 0:03:12)
+Das begrenzt dann nochmal ein bisschen die Lichtausbreitung innerhalb des Kabels und es gibt nochmal das Kernglas, das ist dann wirklich das Glas, was in der Mitte ist, was dann am Ende zusammengespleißt werden muss, was dafür sorgt, dass eben das Licht übertragen wird. In diesem dünnen Glas schießt eben dieses Licht durch dieses lange Kabel und wird so hoffentlich verlustfrei, möglichst verlustfrei übertragen. So, jetzt gibt es das Kabel natürlich mit einer Faser drin, das ist aber, denke ich, eine eher ungewöhnliche Anwendung.
+
+(0:03:12 - 0:03:40)
+Das hilft uns hier jetzt für die Darstellung, das macht es viel einfacher, aber in der Regel sieht das ein bisschen anders aus. In der Regel habt ihr dann eine Vielzahl von Fasern in so einem Kabel, also wir bestellen, glaube ich, häufig zwölf Fasern für unsere LWL-Verkabelung, damit man ein bisschen Reserve hat. Häufig werden da nicht nur unsere Trafostationen, sondern vielleicht auch noch Kamerasysteme mit angeschlossen, dass man da einfach mehr Spielraum hat, um dann noch zusätzlich die Installation eben zu erweitern.
+
+(0:03:40 - 0:03:55)
+Wir konzentrieren uns trotzdem jetzt mal weiter auf ein einadriges Kabel, weil es einfach für die Erklärung hier einfacher ist, weil wir sind noch nicht am Ende. Wir schauen uns jetzt mal die Moden an. Also es gibt hier verschiedene Moden für so ein Kabel.
+
+(0:03:55 - 0:04:07)
+Es gibt Single Mode, ich glaube, so ist es für die meisten Leute eher ein gängiger Begriff. Single Mode oder ich glaube, manche nennen es auch Mono Mode. Und es gibt eben Multi Mode.
+
+(0:04:07 - 0:04:20)
+Das sind zwei verschiedene Übertragungsvarianten. Vielleicht zur besseren Erklärung, so eine Mode, eine Lichtmode gibt es, das ist ein Lichtstrahl. Das ist ein kleiner Lichtstrahl, den man durch so ein Kabel durchschicken kann.
+
+(0:04:21 - 0:04:34)
+Und wenn der Kern so dünn ist, dass eben nur eine Lichtmode durchpasst, dann ist das, ich finde, erstmal gut. Wenn der Kern deutlich größer ist, dann passen mehrere Lichtmoden durch. Und deshalb ist es dann eben ein Multi Mode.
+
+(0:04:35 - 0:04:44)
+Bei Single Mode hat der Faserkern dann eben neuen Mikrometer. Und das ist fast die Wellenlänge von Licht. Licht gibt es natürlich auch in vielen verschiedenen Wellenlängen.
+
+(0:04:44 - 0:05:01)
+Aber hier würde eben nur diese eine Lichtmode durchpassen. Da sieht man jetzt nochmal die neuen Mikrometer dargestellt von unserem Faserkern, sodass da eben diese eine Lichtmode nur durchpasst. Unten hat man dann das Multi Mode Kabel, das hat einen deutlich dickeren Faserkern.
+
+(0:05:03 - 0:05:11)
+50 Mikrometer oder 62,5 ist glaube ich der andere Standard, den es da so gibt. Also deutlich dicker. Und da passen dann mehrere Lichtmoden durch.
+
+(0:05:12 - 0:05:22)
+Und das gucken wir uns jetzt natürlich auch gerne nochmal ein bisschen mehr im Detail an, was das dann für eine Bedeutung hat. Also wir schneiden das Kabel einmal durch. Hier ist es mal in der Seitenansicht dargestellt.
+
+(0:05:22 - 0:05:39)
+Wichtig hier ist im Grunde genommen der Faserkern, den man sich da anschaut. Und jetzt schießen wir hier in unser Single Mode mal so eine Lichtmode rein. Also der Laser, der Lichtgeber an der linken Seite, der generiert eben diesen Lichtimpuls.
+
+(0:05:39 - 0:05:54)
+Und wie man das jetzt so sieht, schießt jetzt ein grüner Lichtimpuls mehr oder weniger gerade aus durch diese Faser durch. Und es breitet sich also nur eine Lichtmode hier in diesem sehr, sehr dünnen Faserkern aus. Und das sorgt dafür, dass die Übertragung erstmal sehr gut funktioniert.
+
+(0:05:55 - 0:06:13)
+Wohingegen das jetzt bei Multimode-Kabeln ein bisschen anders funktioniert. Da hat das Licht dann eben so viel Platz, dass es sich da sehr gut ausbreiten, sehr gut reflektieren kann. Also es gibt dann noch transversale Lichtmoden, die dann da eben in diesem großen Kern sich ausbreiten können.
+
+(0:06:14 - 0:06:31)
+Und dadurch geht das Licht natürlich erstmal einen viel längeren Weg und hat auch dadurch viel mehr Verluste. Dadurch sind dann am Ende die Übertragungsraten nicht ganz so gut wie bei dem Single Mode Kabel. So, wir haben jetzt nochmal die Kabeltypen nebeneinander gestellt.
+
+(0:06:31 - 0:06:46)
+Also 9 µm für Single Mode, 50 µm für Multimode. Wie viele Lichtmoden gehen durch, das hatten wir eben auch erklärt. Und jetzt haben wir hier nochmal beschrieben, auch mit Daumen hoch, Daumen runter, für uns als Vorteil oder eben als Nachteil auszulegen.
+
+(0:06:46 - 0:07:07)
+Daumen hoch, mit dem Single Mode können wir Distanzen von, wir haben jetzt mal größer, 10 km angegeben. Das hängt dann sicherlich auch von der Qualität der Glasfaser ab und von der Qualität des Senders und des Empfängers. Also je bessere Geräte man hat, da kann man sicherlich auch deutlich längere Strecken als 10 km realisieren.
+
+(0:07:07 - 0:07:29)
+Für uns in der Solarwelt, ja, größer als 10 km ist da glaube ich schon ausreichend für die meisten Anwendungen. Wobei Multimode dann deutlich früher begrenzt ist, hier steht jetzt mal kleiner 1 km. Das heißt, da muss man dann schon schauen, externe Kabeltrassen, wie lang sind die jetzt, welche Kabel verwende ich da, dass man das mit Multimode überhaupt stemmen kann, die Verdrahtung.
+
+(0:07:30 - 0:07:40)
+Deshalb ist für uns hier Single Mode deutlich im Vorteil. Und das nächste wäre dann eben die Dämpfung. Distanz und Dämpfung, das geht aus meiner Sicht mehr oder weniger Hand in Hand.
+
+(0:07:40 - 0:07:51)
+Also je größer die Dämpfung, desto kürzer die Distanzen. Also bei Single Mode ist die Dämpfung deutlich geringer als bei Multimode. Die Bandbreite ist eben auch bei Single Mode besser.
+
+(0:07:52 - 0:08:14)
+Und das Spleißen wiederum, und hier möchte ich gleich sagen, das kriegen wir in den Griff, das Spleißen ist etwas schwieriger bei Single Mode, liegt in der Natur der Sache. 9 µm Fasern zueinander bringen und zu verspleißen ist natürlich ein bisschen schwieriger als 50 µm Fasern. Aber die Spleißer, die ich so in meinen Projekten hatte, die haben sich da nie beschwert.
+
+(0:08:15 - 0:08:40)
+Die kriegen das hin, die haben die entsprechenden Geräte und können dann eben auch Single Mode Fasern zusammenspleißen, ohne dass es da Schwierigkeiten gibt. Kosten sind vielleicht ein bisschen höher bei Single Mode, vor allem die Sender-Empfänger-Einheiten, das Kabel gar nicht so sehr, aber die Sender-Empfänger-Einheiten, die sind sicherlich ein bisschen teurer. Aber auch das ist, wir reden da in der Größenordnung Hunderte von Euros beim großen Solarpark.
+
+(0:08:40 - 0:09:01)
+Und das, denke ich, kann dann nicht das Kriterium sein, sich für das schlechtere Produkt zu entscheiden, weil es im Grunde genommen bei der Größe der Investition nicht ins Gewicht fällt. Der große Vorteil, den ich sehe, ist eben die Übertragungsstrecke, mehr als 10 km. Da gibt es dann keine Fragen, keine Diskussionen, damit können wir alle Parks realisieren.
+
+(0:09:01 - 0:09:28)
+Und meine Entscheidung dann immer für Single Mode ist, ich will nicht mischen, ich will nicht heute einen Park bauen mit Single Mode, morgen mit Multi Mode, dann muss ich ja auch immer die Sender-Empfänger entsprechend bestellen. Wir haben das für uns mal festgelegt, wir machen Single Mode, schlucken im Prinzip die kleinen Nachteile, die es gibt und haben dafür eigentlich immer ein funktionierendes System. Deshalb ist unsere Entscheidung, Single Mode zu nehmen, schon vor einigen Jahren gefallen und damit fahren wir auch sehr gut.
+
+(0:09:30 - 0:09:55)
+So, jetzt gibt es nochmal verschiedene Kategorien und das sind die Kategorien für die Kabeltypen, die wir uns nochmal rausgesucht haben, damit ihr es mal gehört habt, was es da überhaupt gibt. Bei Single Mode gibt es OS1 und OS2, das sind zwei unterschiedliche Kabelkategorien und bei Multi Mode gibt es eben OM1 bis OM5. Also erstmal die Single Mode-Kategorien eingeblendet, es gibt dafür auch ein Code.
+
+(0:09:55 - 0:10:11)
+Nach diesem Code kann man erstmal feststellen, um was für ein Kabeltyp es sich handelt. Das sehen wir später auch im Datenblatt, da steht genau dieser Typ drin und dann weiß man gleich, ist es ein Single Mode oder ein Multi Mode Kabel. Dann gibt es Anwendungen für diese zwei Kabeltypen.
+
+(0:10:12 - 0:10:36)
+Das eine ist für den Innenbereich, das andere eher für den Außenbereich. Die Dämpfung wird vorgegeben, also OS2 hat eine geringere Dämpfung, deshalb auch deutlich höhere maximale Strecken, die wir umsetzen können. Also hier steht schon bis 200 km, das hat natürlich in unseren Solarparks, da müssen wir nicht so weit, aber vom Grundsatz her, selbst die OS1-Faser kann bis 10 km, damit sind wir damit schon fast auf der sicheren Seite.
+
+(0:10:37 - 0:12:05)
+Preislich, ich wollte die Euros noch ein bisschen kleiner machen, weil auch zwischen OS1 und OS2 ist jetzt keine so große Preisdifferenz, dass man das eigentlich hier groß aufhängen müsste. Da geht es wirklich nur um ein paar Euros, von daher ist dieser Nachteil bei OS2 für mich sehr, sehr klein, sehr, sehr gut handelbar und deshalb fällt meine Entscheidung, wir nehmen das OS2, vor allem weil es für den Außenbereich geeignet ist, weil es bessere Dämpfungswerte hat, ist das unsere Kategorie der Wahl. Jetzt nochmal kurz zu OM1-5, also falls doch jemand die Vorteile im Multi Mode Kabel sieht, hat man auch hier nochmal eine Aufstellung, woher kommt das überhaupt? Also OM1, das wurde mal vor vielen Jahren entwickelt, 1989, da starteten wir wahrscheinlich mit dem OM1-Kabeltyp und jetzt sind wir im Jahr 2014, hier gibt es jetzt OM5, das heißt zwischendurch wurden da eben verschiedene Kategorien entwickelt, weiterentwickelt, jetzt sind wir eben bei 5, das heißt die Bandbreite ist da besser bei 5, die maximale Länge ist eben auch da besser, es ist einfach eine höhere Qualität und deshalb, wenn mich da jemand fragen würde, wir wollen Multi Mode nehmen, dann würde ich sagen, ja nehmt mal OM5, es ist wahrscheinlich auch ein bisschen teurer als die anderen Kategorien, aber trotzdem würde ich das machen, um mir einfach eine hohe Qualität zu gewährleisten und um lange Übertragungsstrecken realisieren zu können.
+
+(0:12:07 - 0:12:32)
+So, hier haben wir die beiden Komponenten wieder, jetzt gehen wir in die Spleißbox, dass wir die auch gesehen haben, da verwenden wir nicht ganz so viel Zeit wie für das LWL-Kabel, aber auch hier ist es, denke ich, wichtig, das einmal gesehen zu haben. Also die Spleißbox, das ist der Anschlusspunkt für das LWL-Kabel. Das LWL-Kabel kommt, es kommen im Grunde genommen blanke Fasern und hier in der Spleißbox wird das LWL-Kabel angeschlossen.
+
+(0:12:32 - 0:12:57)
+Je nachdem, wie viele Fasern euer LWL-Kabel jetzt hat, so würde ich das erstmal empfehlen, solltet ihr auch die Spleißbox entsprechend auswählen. Das heißt, die Anzahl der Buchsen, die wir hier haben in so einer Spleißbox, sollte der Anzahl der Fasern im LWL-Kabel entsprechen, weil sonst hat man immer ein paar Fasern über, bei denen man nicht so genau weiß, was man machen soll, man schneidet die dann ab. Dann ist das einfach nicht sauber geplant, wie ich finde.
+
+(0:12:58 - 0:13:14)
+Besser, ihr wisst, was ihr plant, ihr wisst, welche Spleißbox ihr bekommt, dann wisst ihr auch, welches Kabel ihr da anschließen könnt oder andersrum. Der Anschluss oder im Inneren sieht so eine Spleißbox dann so aus. Wir sehen es gleich, genau, hier ist es.
+
+(0:13:14 - 0:13:30)
+Und in dieser Spleißbox sieht man dann so Pigtails. Das ist in der Regel so vorkonfektioniert. Man kann diese Pigtails, diese Stecker mit den angeschlossenen Glasfasern hinten dran, rausnehmen und da kann man dann nachher die Spleißung vornehmen.
+
+(0:13:31 - 0:13:50)
+Also so würde eine Spleißbox im Grunde erstmal von innen aussehen. Stecker, die rausgucken, hinten an den Steckern, sind eben schon dünne Glasfasern angebracht, weil da muss man dann später dran spleißen. Und wie das ungefähr funktioniert, im Kurzabriss, versuchen wir euch hier einmal darzustellen.
+
+(0:13:51 - 0:14:02)
+LWL-Kabel gibt es. Wir würden jetzt erstmal den Mantel wieder abmachen von dem LWL-Kabel. Wir würden den inneren Kunststoffmantel, wo wir eben mal gesagt haben, für die Zugentlastung ist ja gedacht, den würden wir auch abisolieren.
+
+(0:14:02 - 0:14:13)
+Und jetzt ist da noch ein Kunststoffmantel, der geht auch ab. Und jetzt sieht man dann schon langsam die Fasern. Die einzelnen Fasern in ihren nochmaligen Plastikummantelungen erscheinen dann irgendwann.
+
+(0:14:14 - 0:14:25)
+Und dann nehmen wir erstmal dieses Kabel und versuchen es in diese Spleißbox einzuführen. Das geht so. Meistens sind unten an der Spleißbox auch noch Verschraubungen, dass das dann auch ein bisschen zugentlastet ist.
+
+(0:14:26 - 0:14:38)
+Beziehungsweise Zugentlastung sollte über Kabelschellen natürlich durchgeführt werden und nicht über die Kabelverschraubung. Aber es ist dann auch dicht. Und das Kabel ist dann erstmal in der Spleißkassette drin.
+
+(0:14:38 - 0:14:48)
+So kann man das machen. Ich glaube, die erfahrenen Spleißer würden das Kabel eher erst spleißen und dann einführen. Aber wir haben das jetzt mal versucht so darzustellen.
+
+(0:14:48 - 0:15:01)
+Wir führen das Kabel ein und würden dann... Jetzt sind wir... Na gut, nicht, dass wir jetzt gesprungen sind. Jetzt sind wir hier auf dem nächsten Bild. Wir haben jetzt die LWL-Fasern mal rausgenommen.
+
+(0:15:02 - 0:15:12)
+Also das linke ist wahrscheinlich das Pigtail, das rechte ist das Kabel, das ankommt. Und wir müssten ja jetzt weitergehen. Wir haben noch den Kunststoffmantel um das Kabel herum.
+
+(0:15:12 - 0:15:26)
+Den müssen wir jetzt entfernen. Das machen dann die Spleißer natürlich auch. Haben da speziell Werkzeug. 
+
+Da können die dann das Kabel greifen, den Mantel runterschieben. Und das Mantelglas müssen sie dann auch noch entfernen. Das ist dann ein weiteres spezielles Werkzeug.
+
+(0:15:26 - 0:15:45)
+Damit entfernt man das Mantelglas. Das ist jetzt auch verschwunden. Und jetzt kann man die Fasern schneiden. 
+
+Dafür gibt es spezielle Cutter. Wichtig ist, dass man dann 90 Grad Winkel in die Faser reinschneidet, damit man später die Fasern gut zusammenführen kann. Vorher, bevor man sie zusammenführt, muss man die Fasern aber reinigen.
+
+(0:15:45 - 0:15:53)
+Da gibt es dann spezielle Alkohole. Mir hat so ein Experte mal gesagt, es muss quietschen, wenn man das reinigt. Dann ist die Faser hinterher richtig sauber.
+
+(0:15:53 - 0:16:10)
+Und wenn man sie dann sauber hat, dann würde man die Fasern in ein Gerät legen, in dieses Spleißgerät und ausrichten. Und das Ausrichten bedeutet, dass dieses Spleißgerät das dann von alleine macht. Das schiebt dann mikro oder Millimeter genau die Fasern gegeneinander.
+
+(0:16:11 - 0:16:31)
+Und wenn sie dann exakt gegenüber ausgerichtet sind im 90 Grad Winkel, dann kommt ein kleiner Lichtblitz, so würde ich es mal nennen. Dann werden die Fasern verspleißt, es wird erhitzt. Die Fasern verschmilzen miteinander und sind dann miteinander verbunden.
+
+(0:16:31 - 0:16:44)
+Danach machen die Geräte in der Regel auch nochmal einen kleinen... Ja, hier sieht man nochmal so ein Gerät. Hier sieht man auch den Spleiß nochmal, super. Und so ein Gerät macht dann auch am Schluss nochmal einen leichten Zugtest, dass eben dieser Spleiß auch hält.
+
+(0:16:45 - 0:17:03)
+Und wenn man das dann fertig hat, kann man dieses Kabel rausnehmen und dann den Spleißschutz nochmal aufbringen. Ja, so sieht das aus. Das ist dann in der Regel so ein Alublech, was man um diese Faser dann drum macht, um den Spleiß drum macht, dass der einfach nochmal geschützt ist.
+
+(0:17:04 - 0:17:20)
+So, jetzt führen wir das LWL wieder rein. Jetzt sieht man den Spleiß hier in dieser Spleißkassette. In der Realität ist das dann so, dass man da, ich glaube, Meter, ein, zwei Meter tatsächlich Faser in dieser Box hat, was man dann sauber aufrollt.
+
+(0:17:20 - 0:17:49)
+Hier ist es für die Darstellung jetzt mal so dargestellt, dass die Faser direkt geradeaus, quasi mit einem Knick sogar noch, das würde man gar nicht machen in der Realität natürlich, auf den Stecker führt. Also normalerweise aufgerollt, schöne Biegeradien da drin, dass man dann den Spleiß auch sicher... Teilweise gibt es auch so Klipse, wo man den Spleiß dann reinklipsen kann, diese Spleißverstärkung, dass das dann sicher und fest sitzt. Ja, so sieht es dann aus.
+
+(0:17:49 - 0:18:09)
+Genau, Kabel ist drin, so sieht die Spleißbox nochmal aus von innen. Und jetzt hätten wir hoffentlich zwölf Spleiße gemacht und an zwölf Picktails angeschlossen, sodass jetzt zwölf Fasern am Ende an zwölf Steckern angeschlossen sind. So, im gesamten Bild wäre das dann so.
+
+(0:18:10 - 0:18:33)
+Spleißbox Nummer 1, LWL-Kabel geht unten raus und jetzt brauchen wir die Verbindung zur nächsten Station, also von Station zu Station. Das Kabel geht unten raus und geht rüber zur nächsten Station. Das ist im Grunde genommen die einfachste Form einer LWL-Verbindung zwischen zwei Stationen, vielleicht zwischen Trafostation 1 oder 2 oder Übergabestation und Trafostation 1, so kann man das aufbauen.
+
+(0:18:34 - 0:18:58)
+Und damit wir das jetzt nochmal vielleicht ein bisschen nochmal in der Realität greifen können, haben wir jetzt nochmal eine kurze Tour vorbereitet und da würde ich euch durchführen. Später stellen wir diese Tour natürlich auch gerne wieder in den Chat, dass ihr nochmal selbst reingucken könnt. Aber wir haben jetzt erstmal keine Aufgaben für euch vorbereitet, ihr könnt euch das anschauen, das was ich euch jetzt hier zeige.
+
+(0:19:00 - 0:19:25)
+Wo sind jetzt die Spleißboxen sich befinden, wo die Kommunikationsboxen sich befinden, haben wir hier einfach mal ein Projekt rausgesucht. Die Touren kennt ihr ja, schönes Wetter, wie so häufig bei unseren 360-Grad-Touren. Vor uns steht eine Trafostation und man kann hier auch rumlaufen, das kennen ja die meisten auch schon, kann man sich anschauen von allen Seiten.
+
+(0:19:26 - 0:20:04)
+Aber für uns ist es jetzt heute wichtig, dass es hier eine Kommunikationsbox gibt, die ist hier und die können wir uns im Detail anschauen, indem wir auf diesen grünen Punkt klicken und erstmal unterhalb der Box schauen können, wie die aussieht. Da ist jetzt wahrscheinlich eine der Adern, ist jetzt wahrscheinlich das LWL-Kabel, was da reingeführt wurde und man kann jetzt im Grunde genommen diese Kommunikationsbox natürlich auch öffnen, reinschauen und sich hier ansehen, was für Komponenten da drinnen verbaut sind. Ich würde jetzt mal, denke ich, hier unten reingucken, was wir da so haben, was wir da sehen.
+
+(0:20:04 - 0:20:14)
+Erstmal sehe ich eine relativ unaufgeräumte LWL-Verkabelung. Das würde ich gleich erstmal bemängeln, wenn ich das so sehen würde. Und jetzt sehe ich hier eins, zwei, drei Spleißboxen tatsächlich.
+
+(0:20:16 - 0:20:35)
+Die eine kommt wahrscheinlich von der Trafostation 11, bei der anderen sehe ich es nicht genau und die dritte gehört dann zum CCTV, also zum Kommunikationssystem. Das heißt, hier haben wir sicherlich schon ein größeres LWL-System aufgebaut. Hier im Detail können wir uns jetzt nochmal die Spleißbox von der Trafostation 11 ansehen.
+
+(0:20:37 - 0:20:49)
+Und jetzt haben wir die natürlich ein bisschen nachgeholfen worden von uns, hier eine Spleißbox einfach mal so, wie sie dann von innen aussehen würde. Man sieht es jetzt hier viel, viel besser. Die Leitungen sind aufgerollt, sauber aufgerollt.
+
+(0:20:50 - 0:21:09)
+In der Mitte seht ihr dann, jetzt bin ich rausgeflogen, Entschuldigung, ich muss nochmal zurück. Also die Fasern sind hier schön aufgerollt, das hatte ich gesagt. Und jetzt haben wir hier in der Mitte diesen Spleißschutz, den man dann nochmal auf den Spleiß setzen kann, damit der Spleiß eben geschützt ist vor Zugbelastung.
+
+(0:21:10 - 0:21:27)
+Und dann kann man das hier in der Mitte auch so schön wunderbar sortiert aufklipsen, sodass es nicht wackelt, nicht rumfliegt und einfach fest montiert ist. So sollte dann so eine Spleißung, so eine Spleißkassette von innen aussehen, wenn es fertig ist. So, genau, dann würde ich hier wieder rausgehen.
+
+(0:21:28 - 0:21:37)
+Und jetzt kann man natürlich in dieser Tour sich noch ein bisschen weiter bewegen. Wir haben hier diese Übersicht. Wir waren jetzt gerade an dieser Station hier.
+
+(0:21:37 - 0:21:55)
+Und wer möchte, kann später dann natürlich auch nochmal zum Beispiel hier zu der zentralen Trafo-Station gehen. Hier kann man draufklicken und dann steht man genau vor der Datenbox hier von der zentralen Trafo-Station. Also wir haben jetzt mal einen Park zusammengebaut aus dezentralen und zentralen Trafo-Stationen.
+
+(0:21:55 - 0:22:07)
+Das gibt es so wahrscheinlich in der Regel nicht, aber hier bei uns in der Tour ist das möglich. Und hier kann man dann natürlich auch in die Boxen gucken. Hier sind dann die Spleißboxen montiert und sich diese Kommunikationssysteme vielleicht nochmal anschauen, wenn man Lust dazu hat.
+
+(0:22:08 - 0:22:12)
+Das soll dann, finde ich, erstmal reichen hier für den Rundgang.

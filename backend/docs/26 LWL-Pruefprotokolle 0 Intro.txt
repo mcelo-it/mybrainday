@@ -1,0 +1,17 @@
+(0:00:00 - 0:00:29)
+Hallo und herzlich willkommen zu unserem heutigen Brainday LWL Prüfprotokolle. Das bedeutet LWL, Lichtwellenleiter, ich würde sagen die Technologie, die Kommunikationstechnologie der Zukunft und wie wir diese LWL Protokolle prüfen wollen. Für mich als Elektroplaner oder als junger Elektroplaner war LWL immer ein bisschen schwer zu greifen, weil im Gegensatz zu den meisten anderen Braindays, die wir so haben, ist LWL hat das relativ wenig mit Elektrotechnik zu tun, sondern eben mit Licht.
+
+(0:00:29 - 0:01:04)
+Also keine Ströme, keine Spannungen, keine Magnetfelder, sondern einfach Licht. Gut, wir haben euch den Vortrag wie bekannt vorbereitet. Wir haben heute sieben Kapitel und wir starten wie immer mit der Frage, warum machen wir überhaupt Lichtwellenleiter? Warum machen wir nicht was anderes? Warum nehmen wir nicht Kupfer oder Netzwerkkabel? Damit, denke ich, haben wir am Ende eine gute Grundlage oder am Anfang eine gute Grundlage gebildet, um alles Weitere dann vielleicht besser zu verstehen oder einfach den Grund oder die Motivation zu sehen, hier für die nächsten zwei Stunden dabei zu sein.
+
+(0:01:05 - 0:01:23)
+Dann, wie so oft, ein Teil Normen. Wir haben euch heute drei rausgesucht und diese drei Normen gehen wir kurz durch. Ihr sollt die Normen kennen, ihr sollt davon gehört haben, aber ihr sollt natürlich um Gottes Willen diese Normen nicht auswendig können und mir nächste Woche den Normen-Code sofort bereitstellen können.
+
+(0:01:24 - 0:01:39)
+Dann gehen wir weiter zu den Komponenten. Auch hier kurz und knapp, wir haben zwei Komponenten rausgesucht, die für die Prüfung dann wirklich relevant sind, stellen wir euch dann vor, damit ihr dann später vielleicht die Prüfung besser nachvollziehen, besser verstehen könnt. Dann das Datenblatt.
+
+(0:01:39 - 0:01:52)
+Das Datenblatt von so einem LWL-Kabel gehört eben auch dazu, weil es dann natürlich geprüft wird. Dann zeigen wir euch die Messungen, die es so gibt, die man durchführen kann. Es sind zwei verschiedene Messungen, auf die wir eingehen.
+
+(0:01:53 - 0:02:27)
+Im Grunde genommen gehen wir ins Detail in die OTDR-Messung ein, zeigen euch dann später und zeigen euch dann am Live-Versuchsstand noch mal eine etwas einfachere Messung, so wie wir sie bei der Inbetriebnahme machen. Im Grunde genommen die Zuordnungsprüfung der Fasern, das machen wir dann live und auch mit einer Übung für euch. Und ganz zum Schluss schauen wir uns dann noch mal so ein Messprotokoll an, das dann wieder OTDR, kommen wir später im Detail dazu, was das bedeutet, dass ihr das natürlich dann, wenn man so etwas mal auf dem Tisch hat, vor der Inbetriebnahme auch prüfen und auswerten könnt.

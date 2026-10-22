@@ -1,0 +1,221 @@
+(0:00:00 - 0:00:08)
+Wir hatten gerade das erste wirklich tieftechnische Thema hinter uns. Ich hoffe, dass es ein bisschen verdaut werden konnte in der Pause. Statische Spannungshaltung war das.
+
+(0:00:09 - 0:00:26)
+Jetzt kommt das nächste Thema, was auch wieder sehr, sehr technisch wird, was eben Details beleuchten wird, die unsere PV-Anlagen eben im Netzfehler gleich im Prinzip erbringen müssen. Und es geht um dynamisch. Deshalb läuft das Männchen und wir schauen uns das jetzt einfach mal an.
+
+(0:00:26 - 0:00:41)
+Hier geht es um schnelle Prozesse, dynamische Netzstützung, grünes Icon, Blindleistung, die wir schnell brauchen. Kapitel 10, 2, 3 der VDE ARN 4110. Also los geht's.
+
+(0:00:42 - 0:01:03)
+Zunächst geht es mal wieder los mit dem beliebten Kapitel Allgemein. Ja, auch hier werden wieder erstmal grundsätzlich ein paar Punkte erklärt. Was ist denn eigentlich das Ziel von dieser dynamischen Netzstützung? Die 4110 erklärt uns hier schon, es geht um kurzzeitige Spannungsbrüche und definiert diese auch als Netzfehler und die müssen wir durchfahren.
+
+(0:01:03 - 0:01:43)
+Also die 4110 geht schon mal davon aus, wenn wir diese Netzeinbrüche haben, dann sind das fast immer Netzfehler und wir bleiben am Netz und helfen dann eben, dem Netz stabil zu bleiben. Anders gesagt, wenn wir so einen Netzfehler vielleicht haben, der vielleicht noch gar nicht so kritisch ist, der vielleicht für einen kurzen Spannungseinbruch sorgt, aber dann unsere ganzen PV-Anlagen auch vom Netz gehen müssten, weil sie es nicht durchfahren könnten, dann wäre das natürlich, würde aus einem kleinen Netzfehler ein großes Problem werden, weil dann mit einmal große Erzeuger Erzeugungsenergien abgeworfen werden würden, was dann eben aus einem kleinen Fehler tatsächlich einen großen machen würde. Deshalb bleiben wir am Netz und halten das Netz stabil.
+
+(0:01:45 - 0:01:57)
+Dann gibt es Anforderungen, die hier definiert werden. Zum Beispiel keine Netztrennung bei Spannungseinbrüchen gilt das, aber auch bei Spannungserhöhungen. Es kann eben auch zu Spannungserhöhungen kommen durch Netzfehler.
+
+(0:01:57 - 0:02:07)
+Und auch da bleiben wir am Netz und trennen uns eben nicht. Netzstützung durch Blindstromeinspeisung. Wir hatten das Ganze am Anfang ja schon mal kurz gesagt.
+
+(0:02:07 - 0:02:48)
+Also für diese Spannungshaltung brauchen wir Blindleistung und die versuchen wir hier einzuspeisen. Durchfahren mehrere Netzfehler nacheinander ist auch eine Anforderung, kommt im Grunde genommen daher, dass viele Netzbetreiber, vielleicht das klassische Beispiel ist ja auch so eine Freileitung, fällt so ein Ast von einem Baum. Dadurch entsteht ein Netzfehler und der Netzfehler will jetzt durch erneutes Zuschalten erst mal versuchen, vielleicht diesen Ast rauszubrennen aus der Freileitung, sodass man nach 1-2 mal wieder zuschalten wieder den fehlerfreien Zustand erreicht hat, ohne dass man jetzt einen Servicetechniker losschicken muss.
+
+(0:02:48 - 0:03:04)
+Deshalb versuchen die das durch so eine automatische Wiederzuschaltung, diese Netzfehler zu eliminieren. Und dann müssen wir eben auch in der Lage sein, mehrere Netzfehler nacheinander folgend eben zu durchfahren. Netztrennung bei einpoligen Fehlern ist unzulässig.
+
+(0:03:04 - 0:03:25)
+Das ist jetzt hier vielleicht ein kleiner Exkurs in unseren Brain Day Netztechnik. Also wenn wir isolierte oder Resonanz-Sternpunkt-Erdung-Netze haben, also mit einer Patterson-Spule, dann sind erst mal einpolige Fehler sollen dann für uns erst mal kein großes Problem sein. Wir sollen dann erst mal uns bei einpoligen Fehlern im Netz nicht vom Netz trennen.
+
+(0:03:25 - 0:03:46)
+Ist auch meistens in der Schutztechnik dann so aufgebaut. Wenn im Netz ein einpoliger Fehler ist, sollen wir das anzeigen, damit man den Fehler lokalisieren kann. Wenn wir jetzt aber schuld sind an dem Netzfehler in unserem Solarpark, dann sollen wir auch gerne vom Netz gehen, weil dann ist das für den Rest des Netzes natürlich hilfreich, wenn wir dann vom Netz gehen würden.
+
+(0:03:46 - 0:03:55)
+Aber eben nicht, wenn ein einpoliger Fehler im Netz irgendwo entsteht. Dann sind diese Netze weiterhin zu betreiben. Dann ist das erst mal kein großes Problem.
+
+(0:03:55 - 0:04:08)
+Die Versorgungssicherheit bleibt hoch. So jetzt kommt dynamische Netzstützung für Typ 1 Anlagen. Das ist Kapitel 10, 2, 3, 2. Das sind wir gar nicht.
+
+(0:04:09 - 0:04:25)
+PV-Anlagen sind immer Typ 2. Und diese Typ 1 Anlagen, das sind Synchrongeneratoren, schieben wir weg. Das ist für uns heute nicht von Bedeutung. So Kapitel 10, 2, 3, 3. Dynamische Netzstützung bei Typ 2 Anlagen.
+
+(0:04:25 - 0:04:29)
+Das ist jetzt das, wo wir hinwollen. Das sind unsere Anlagen. Die müssen wir uns anschauen.
+
+(0:04:30 - 0:04:36)
+Und auch hier erst Allgemeines. Und zwar Allgemeines für den FRT. Das haben viele vielleicht schon mal gehört.
+
+(0:04:36 - 0:04:50)
+Vielleicht aber auch eher den Begriff Fault Right Through. Also unsere PV-Anlagen sollen in der Lage sein, einen Fehler zu durchfahren. So ist es vielleicht frei übersetzt auf Deutsch das Wort Fault Right Through.
+
+(0:04:50 - 0:04:58)
+Also wir durchfahren Netzfehler. Das ist erst mal wichtig. Und das tun wir, das zeigen wir natürlich am besten in so einer Grafik.
+
+(0:04:58 - 0:05:13)
+Die stammt auch so wieder aus der 4110. Also auf der Y-Achse haben wir die Netzspannung von 0 bis 130 Prozent. Also sowohl für Unterspannung als auch für Überspannung gelten hier die Kennlinien und auf der X-Achse haben wir im Grunde genommen die Zeit.
+
+(0:05:13 - 0:05:24)
+Wie lange müssen wir diesen Netzfehler durchfahren? Ja, also wir starten relativ weit unten, ja, bei 15 Prozent. Unterhalb von 15 Prozent der Netzspannung gibt es keine Anforderungen. 15 Prozent.
+
+(0:05:25 - 0:05:32)
+Da gibt es aber erst mal Anforderungen. Ja, also die Spannung bricht ein. Wir haben einen relativ starken Kurzschluss in der Nähe unserer Anlage.
+
+(0:05:32 - 0:05:43)
+Die Spannung rauscht runter 15 Prozent. Also die Leistung des Netzes kann diese große Freiwerden der Energie im Netz-Kurzschluss nicht halten. Und dadurch geht die Spannung runter.
+
+(0:05:44 - 0:06:09)
+Jetzt müssen wir 15 Sekunden lang in der Lage sein, bei 15 Prozent, nicht 15 Sekunden, Entschuldigung, 150 Sekunden in der Lage sein, 150 Millisekunden in der Lage sein, bei 15 Prozent der Netzspannung am Netz zu bleiben und eben auch schon Blindleistung zur Verfügung zu stellen. Kommt später nochmal, wie das dann mit der Blindleistung funktioniert und wie viel das ist. Aber hier ist erst mal definiert, wir müssen Blindstrom bereitstellen.
+
+(0:06:10 - 0:06:20)
+Das heißt 150 Millisekunden. Vorhin sprachen wir mal von Regelungsprozessen im Bereich von vier Minuten. Jetzt sieht man hier 150 Millisekunden.
+
+(0:06:20 - 0:06:31)
+Wenn wir da jetzt noch keinen Blindstrom eingespeist haben, dann ist der Zug, glaube ich, auch schon abgefahren. Dann ist der schlimmste Teil des Fehlers schon vielleicht beendet. Und wir hätten noch gar nicht reagiert.
+
+(0:06:31 - 0:06:42)
+Also wir müssen hier deutlich schneller sein als 150 Millisekunden. Kommt gleich, wie schnell wir da wirklich sein müssen. Aber das ist jetzt hier eben der dynamische Prozess, den wir hier durchlaufen.
+
+(0:06:43 - 0:06:57)
+Ab 150 Millisekunden geht dann so eine schräge Linie nach oben. Das heißt, wenn die Spannung sich dann nicht, wenn die Spannung nicht wiederkommen würde, dann dürften wir natürlich vom Netz gehen nach 150 Millisekunden. Aber normalerweise baut sich dann die Spannung auch schon wieder auf.
+
+(0:06:57 - 0:07:17)
+Der Kurzschluss, der Fehler ist gelöscht, geklärt und dann kommt die Spannung zurück. So dass wir vielleicht nach zwei, drei Sekunden dann tatsächlich wieder in dem normalen Spannungsbereich sind, hier bei 85 Prozent. Und nach sechs Sekunden dann auch wirklich wieder unseren Normalspannungsbereich von 90 Prozent erreicht haben.
+
+(0:07:17 - 0:07:27)
+Und dann müssen wir ja ohnehin in der Lage sein, am Netz zu bleiben. Das Ganze gibt es dann noch für zweipolige Fehler. Da sieht die Kennlinie ein bisschen anders aus.
+
+(0:07:27 - 0:07:43)
+Das würde ich jetzt gar nicht so sehr im Detail erklären. Es wird unterschieden. Dreipolige, also satte, dreipolige Kurzschlüsse und eben die gelbe Linie, gelb-orange Linie, das sind dann eben zweipolige Kurzschlüsse, etwas andere Kennlinie, aber das Prinzip bleibt natürlich das Gleiche.
+
+(0:07:43 - 0:07:53)
+Wir müssen diese Fehler erst mal durchfahren und müssen oberhalb dieser Kennlinien am Netz bleiben. Unterhalb dürfen wir auch vom Netz gehen. Das können wir dann, müssen wir nicht mehr können.
+
+(0:07:53 - 0:08:16)
+Da gibt es keine Anforderung, aber oberhalb bleiben wir am Netz. Ganz oben gibt es jetzt auch noch mal eine neue Kennlinie, also 125 Prozent Netzspannung. Auch da müssen wir unterhalb der Kennlinie jetzt am Netz bleiben und dann eben spannungsenkende Blindleistungen zur Verfügung stellen und dem Netz eben helfen, wieder zurück auf den Nenn-Spannungswert auf 100 Prozent zu kommen.
+
+(0:08:17 - 0:08:25)
+Auch das ist dann definiert über diese Zeiten. Aber auch da sieht man der kritische Bereich 125 bis 120 Prozent. Das passiert sehr, sehr schnell.
+
+(0:08:26 - 0:08:44)
+100 Millisekunden ist da im Grunde genommen der Schwellwert und auch die Schutzgeräte, die fangen dann auch an zu reagieren. Wenn man über 125 Prozent ist, schalten in der Regel auch bei den meisten Netzbetreibern schon auch 100 Millisekunden aus. So, innerhalb der Kurven, da müssen wir uns bewegen können.
+
+(0:08:45 - 0:08:58)
+Da dürfen wir uns nicht vom Netz trennen und müssen dem Netz helfen. Weil wir sind mittlerweile so groß, so stark, dass wir das tun müssen. Sonst kommt es hier irgendwann zu großflächigen Spannungsausfällen.
+
+(0:08:58 - 0:09:05)
+So, Spannungseinbruch 50 Prozent. Das ist jetzt unser Beispiel. Ja, wir schauen uns das mal an auf der Y-Achse.
+
+(0:09:05 - 0:09:23)
+Da ist der grüne Punkt reingekommen bei 50 Prozent. Und wenn wir jetzt nach rechts gehen für einen dreipoligen Kurzschluss, dann müssen wir eine Sekunde und 575 Millisekunden am Netz bleiben. Das zeigt uns jetzt erst mal diese Grafik.
+
+(0:09:23 - 0:09:51)
+Also aus dieser Grafik ermitteln wir im Grunde genommen die Zeit. Wie lange darf unser Fehler anliegen? Wie lange müssen wir am Netz bleiben, bevor wir dann aus vielleicht Eigenschutzgründen vom Netz gehen können müssen? So, das Zweite, der nächste Punkt ist dann die vollständige Netzstützung. Und die ist dann genau definiert erst mal durch diese Grafik.
+
+(0:09:51 - 0:10:16)
+Hier geht es dann gleich um den K-Faktor. Wir zeichnen hier schon mal eine Linie ein. Und diese Linie zeigt uns erst mal, wenn die Spannung ansteigt, das Delta U. Wenn sich das nach rechts verschiebt, das Delta U, also größer wird, dann muss das Delta IB, das ist die Blindstromänderung, dann muss eben der Blindstrom erhöht oder andersrum auf der anderen Seite reduziert werden.
+
+(0:10:17 - 0:10:30)
+Also je größer der Spannungseinbruch oder der Spannungsanstieg, desto mehr zusätzlichen Blindstrom. Da möchte ich einen kleinen Fokus schon mal darauf legen. Der zusätzliche Blindstrom, der muss dann eben bereitgestellt werden.
+
+(0:10:31 - 0:10:47)
+Das Ganze ist dann natürlich definiert. Verstärkungsfaktor K, der K-Faktor, den haben vielleicht schon viele Mal gehört, wird im E9-Bogen eben angegeben. K-Faktor von 2, das ist, glaube ich, so der Standard, der sich relativ weit in Deutschland mittlerweile durchgesetzt hat.
+
+(0:10:47 - 0:11:00)
+K2, das ist der Verstärkungsfaktor. Und der legt dann fest, wie viel Blindleistung bei einem Fault Right Through abhängig vom Spannungseinbruch zur Verfügung gestellt werden muss. 2, meine ich, ist der Standard.
+
+(0:11:00 - 0:11:18)
+Und er ist aber einstellbar oder auswählbar durch den Netzbetreiber zwischen 2 und 6. Wenn man jetzt mal 6 wählen würde, ihr habt es in der Grafik gesehen. Ich mache es noch mal kurz zurück. Dann dreht sich im Grunde genommen die Linie in der Grafik.
+
+(0:11:18 - 0:11:38)
+Also die Steigung wird deutlich größer. Und das hätte dann zur Auswirkung, dass man bei dem gleichen Spannungseinbruch oder bei dem gleichen Spannungshub deutlich mehr Blindleistung, zusätzliche Blindleistung zur Verfügung stellen muss. Also von 2 bis 6. Ich hatte mal in Holland ein Projekt mit 6. Das hat dann ehrlich gesagt gar nicht so gut funktioniert.
+
+(0:11:38 - 0:11:49)
+Also viel hilft nicht unbedingt immer viel. Viel sorgt auch manchmal dafür. Ich glaube, in Holland war das dann tatsächlich so, dass durch die große Menge an Blindleistung die Wechselrichter relativ schnell gedacht hätten.
+
+(0:11:50 - 0:12:03)
+Der Fehler ist durchfahren. Der Spannungshub am Wechselrichter war dann so groß, dass die Summation gezeigt hat, dass die Wechselrichter dann sehr schnell diesen Fault-Right-Through-Modus beendet haben. Also hier muss man dann vielleicht auch ein bisschen mit Gefühl agieren bzw.
+
+(0:12:03 - 0:12:13)
+ein Netzbetreiber. Den vollen K-Faktor zu wählen, muss nicht immer unbedingt gut sein. Ich denke deshalb nicht zuletzt hat sich der K-Faktor von 2 am Ende durchgesetzt.
+
+(0:12:15 - 0:12:21)
+Je größer, desto mehr Blindstrom. Das hatten wir schon. Und Achtung, das ist nochmal der Hinweis.
+
+(0:12:21 - 0:12:31)
+Wir müssen zusätzlichen Blindstrom einspeisen. Aber der maximale Blindstrom, den wir zur Verfügung stellen müssen, ist der Nennstrom. Unsere Wechselrichter sind eben limitiert.
+
+(0:12:32 - 0:12:42)
+Die haben meinetwegen 100 Ampere Nennstrom. Dann können die nicht 150 Ampere Blindstrom einspeisen. Nein, der Blindstrom wird dann eben auch auf diese 100 limitiert sein.
+
+(0:12:43 - 0:12:52)
+Wir machen mal ein Beispiel. Also hier ist jetzt erst mal die Formel. Das Delta-IB ist das Delta-klein-IB mal IR.
+
+(0:12:53 - 0:13:05)
+Und IR ist jetzt der Bemessungsstrom oder nennen wir es auch mal den Nennstrom. Also hier im Beispiel sind es jetzt 100 Ampere. Und wenn wir jetzt das Delta-IB mal versuchen zu ermitteln.
+
+(0:13:05 - 0:13:24)
+Wir müssen jetzt genau, dann brauchen wir den K-Faktor. Ihr habt es gesehen, der K-Faktor ist jetzt aus dem aus der Grafik rüber geflogen und wir brauchen den Spannungseinbruch. Diese beiden Werte helfen uns jetzt, den zusätzlichen Blindstrom aus der Grafik links zu ermitteln.
+
+(0:13:25 - 0:14:00)
+Also Delta-U, legen wir jetzt mal fest, ist 15 Prozent. Wir haben 15 Prozent mehr oder weniger Spannung. Hier ist es jetzt, glaube ich, mehr. Sekunde. Und wir nehmen einen K-Faktor an, der festgelegt wurde vom Netzbetreiber auf 6. Wenn wir da jetzt reingehen, ja genau, also wir haben jetzt tatsächlich einen negativen Spannungshub. Dann hätten wir beim K-Faktor von 6 ungefähr aus dieser Grafik abgelesen, einen zusätzlichen Blindstrom von minus 90 Prozent oder minus 0,9.
+
+(0:14:00 - 0:14:51)
+Das ist ja ein Faktor, also quasi wie 90 Prozent zu verstehen. Und wenn man jetzt sich die Formel von ganz oben wieder runter holt, das haben wir getan, dann ist der zusätzliche Blindstrom dieser Delta-IB mal IR und dann wäre das bei einem Wechselrichter mit 100 Ampere wären das zusätzlich minus 90 Ampere Blindstrom. Wir haben das Ganze jetzt nochmal für einen K-Faktor von 2. Ich müsste jetzt einmal aus dem Bild, genau, für einen K-Faktor von 2 auch nochmal nachgerechnet. Das seht ihr jetzt in der Grafik, wie da hat sich gedreht. Der Verstärkungsfaktor ist also deutlich kleiner. Und wenn man jetzt die gleiche Berechnung einmal durchführt, in der Grafik sucht man sich erst mal das Delta-IB raus von minus 0,3 und dann multipliziert eben mit dem Nennstrom des Wechselrichters, dann wäre das natürlich schon ein deutlicher Unterschied in der zusätzlichen Blindleistung, die wir bereitstellen müssen.
+
+(0:14:52 - 0:15:19)
+Also zwischen K-Faktor 6 und K-Faktor 2 liegt dann also eine ganze Menge mehr oder weniger Blindstrom, den wir zusätzlich zur Verfügung stellen müssen, falls wir es denn können. Weil, nicht vergessen, wir sind ja im Nennstrom am Ende limitiert. Und wenn wir vielleicht schon in einem Bereich fahren, wo wir Blindleistung eh schon zur Verfügung gestellt haben und dann zusätzlich noch so viel Blindstrom liefern müssen, kann das sein, dass wir es einfach gar nicht können, wäre dann aber okay.
+
+(0:15:21 - 0:15:42)
+Diese Übung machen wir übrigens dann auch gleich in der praktischen Anwendung mal, dass ihr dann selbst mal versucht, sowas zu bewerten, euch sowas anzuschauen, damit ihr da auf das Zertifiziererniveau am Ende kommen könnt. So, wir gehen weiter. Eins weiter in der Strukturierung dieser Norm.
+
+(0:15:43 - 0:15:49)
+Hier geht es um die eingeschränkte Netzstützung. Ist jetzt hier bei uns gar nicht so wichtig. Hatte ich noch nicht so häufig, dass das kommt.
+
+(0:15:51 - 0:16:06)
+Manche Netzbetreiber sagen eingeschränkt reicht uns vielleicht, weil wenn ihr mit eurem Blindstrom auf unseren Fehler vielleicht speist, dann gibt es da Lichtbögen, noch mehr Lichtbögen, als wir eigentlich schon hatten. Das wollen wir gar nicht. Kenne ich so in der Regel nicht.
+
+(0:16:07 - 0:16:16)
+Meistens haben wir die vollständige Netzstützung. Deshalb können wir das Kapitel eingeschränkte Netzstützung erst mal zur Seite schieben. Gleiches gilt für Wirkstromwiederkehr.
+
+(0:16:16 - 0:16:29)
+Das ist für uns schon relevant, dieses Thema. Allerdings haben wir entschieden, dass das wirklich ein Randthema ist. Was passiert, wenn der Wirkstrom zurückkommt? In welchen Geschwindigkeiten? Da geht es dann wirklich schon zu sehr ins Detail.
+
+(0:16:29 - 0:16:40)
+Das ersparen wir euch und wir sagen mal, für heute ist es nicht wichtig. Ihr wisst, dass es das jetzt gibt. Vielleicht habt ihr mal eine ruhige Minute und schaut euch das mal an, was da dann im Detail drinsteht.
+
+(0:16:41 - 0:16:52)
+Aber für heute geht das dann ein klein bisschen zu weit. Und eben auch Ausnahmen für Asynchronen-Generatoren haben wir eh nicht in unseren Solarparks. Das sind vielleicht bei Windparks mal Technologien, die man hat.
+
+(0:16:52 - 0:17:07)
+Auch die sind nicht relevant hier für uns. Deshalb können wir da unseren Liegestuhl hinterpacken und das Thema, das Kapitel erst mal überspringen. So, es geht weiter mit dem Verhalten nach Fehlerende.
+
+(0:17:07 - 0:17:31)
+Das machen wir auch relativ kurz, weil das am Ende des Tages, glaube ich, auch schon so weit im Detail ist, dass man das, dass ich das zumindest in meinem praktischen Berufsleben noch gar nicht so häufig mir anschauen musste, das Thema. Aber hier soll im Grunde genommen definiert sein. Man muss eben nach Fehlerende ist man da irgendwo zwischen 85 und 115 Prozent.
+
+(0:17:32 - 0:17:42)
+Fehlerende ist erst mal definiert bei plus minus 10 Prozent. Also wenn wir dann im Normalbereich der Spannung sind, dann soll erst mal der Fehler durchfahren sein. Das ist erst mal gut.
+
+(0:17:43 - 0:18:00)
+Die Wirkleistung darf dann auch reduziert werden. Falls wir noch nicht in diesen Grenzen sind, dann dürfen wir Wirkleistung reduzieren. So ist es gemeint, weil der Netzbetreiber dann schon lieber uns am Netz haben will mit reduzierter Wirkleistung, als dass wir aufgrund des Eigenschutzes vom Netz gehen.
+
+(0:18:00 - 0:18:13)
+Das ist ein bisschen der Hintergrund. Wenn eben nach so einer langen Zeit wir immer noch nicht zurück sind in den Grenzen, dann so ein bisschen macht, was ihr könnt. Aber bleibt bitte am Netz, sodass ihr trotzdem noch unterstützend wirkt.
+
+(0:18:13 - 0:18:31)
+Nach 60 Sekunden können wir aber davon ausgehen, dass die Spannung dann wieder zurück ist, dass die auch wieder stabil ist. Weil in unseren Umspannwerken in Deutschland haben wir immer diese Stufenschalter. Und die sind eben in der Lage, innerhalb von 60 Sekunden die Spannung im Netz, im Mittelspannungsnetz wieder auf ein konstantes Niveau zu schieben.
+
+(0:18:32 - 0:18:39)
+60 Sekunden ist da zeitlich dann die äußerste Grenze. Dann müssen wir zurück sein. Das waren die dynamischen Vorgänge.
+
+(0:18:39 - 0:18:50)
+Wir haben jetzt hier die Tabelle und können die wieder so ein bisschen mit Leben füllen. Dynamisch heißt hier in erster Linie FRT, Fault Right Through. Das ist eben der Modus, den wir da haben.
+
+(0:18:50 - 0:18:59)
+Der wird häufig der K-Faktor im Wechselrichter eingestellt. Kann man aber tatsächlich auch im Parkregler machen. Und diese Funktionsaktivierung, die findet dann auch immer im Wechselrichter statt.
+
+(0:19:00 - 0:19:06)
+Der Befehl, der ist dann nicht aus der Leitwarte. So lange können wir da nicht warten. Der Befehl kommt vollautomatisch sofort.
+
+(0:19:07 - 0:19:17)
+Wir müssen da innerhalb von 30 bis 60 Millisekunden Blindleistung bereitstellen. Da können wir auf nichts, auf keinen Befehl warten, sondern müssen das einfach vollautomatisch sofort durchführen.

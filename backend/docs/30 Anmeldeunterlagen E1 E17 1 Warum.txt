@@ -1,0 +1,143 @@
+(0:00:00 - 0:00:20)
+Mit dem Kapitel, warum? Warum? Das fängt tatsächlich ziemlich weit oben an, wenn man so will. Ich habe es hier als europäischen Kontinent dargestellt. Also auf EU Ebene gibt es eine technische Richtlinie, die technische Mindestanforderungen definiert.
+
+(0:00:20 - 0:00:53)
+Das Ganze nennt sich RFG Code ausgesprochen Requirements for Generators, also die Europäische Union, an sich jetzt erst mal eine politische Angelegenheit, hat dafür gesorgt, dass sicherlich sehr findige Techniker sich zusammengesetzt haben und eine europäische Richtlinie für uns als Netzanschlussnehmer kreiert haben. Da sind übergeordnete Ideen dargestellt. Aber grundsätzlich müssen sich dann alle Länder der EU daran halten.
+
+(0:00:53 - 0:01:05)
+Das ist nur die Spitze des Eisbergs. Darunter werden dann solche Richtlinien. Das macht, glaube ich, die EU für alle Bereiche, die sie so behandelt, eben auch uns, unseren technischen, elektrotechnischen Bereich genauso.
+
+(0:01:05 - 0:01:38)
+Gibt das dann weiter an die einzelnen Länder der EU? Ich habe hier mal Deutschland dargestellt, weil darum geht es heute. Und da hat dann die deutsche Truppe sozusagen der Elektrotechniker, der VDE ist das, das ist der Verband der Elektrotechnik, diesen RFG-Code übernommen und den Ganzen meinetwegen ins Deutsche übertragen. Aber vor allem auch das Ganze übersetzt für unsere Netzanforderungen und dann eben die deutsch-spezifischen, länderspezifischen Anpassungen aufgeschrieben.
+
+(0:01:40 - 0:01:53)
+Daraus sind dann Regeln für den Anschluss und Betrieb von Erzeugungsanlagen entstanden. Und das Ganze nennt sich dann VDE-Anwendungsregel. So, darunter geht es noch weiter.
+
+(0:01:53 - 0:02:13)
+Das sind dann die Netzbetreiber-Ebenen, die sogenannten TABs, technische Anschlussbedingungen, hat bestimmt auch schon jeder mal gehört. Aber ich denke, mit der Grafik fällt es dem einen oder anderen vielleicht leichter, das einzuordnen, wo die sozusagen überhaupt anzuordnen sind. Also das ist die Basis unseres Regelwerts.
+
+(0:02:13 - 0:02:22)
+In diesen technischen Anschlussbedingungen sind dann höchst spezifische Anforderungen der einzelnen Netzgebiete aufgeführt. Aufgeschrieben. Das kann die EU nicht.
+
+(0:02:23 - 0:02:35)
+Und ich finde, um Himmels Willen, sie sollte es auch gar nicht. Sie kennt einfach die spezifischen Details der einzelnen Netzbereiche nicht. Deswegen sollte sie sich da aus irgendwelchen Details raushalten.
+
+(0:02:36 - 0:02:57)
+Und die einzelnen Netzbetreiber wissen das dann einfach viel besser und schreiben Details wie, weiß ich nicht, brauchen wir einen Kurzschlussabzeiger im Abgangsfeld oder sowas dann einfach selber auf. Also zum Beispiel mehreren Anschluss in Neubrandenburg vielleicht einfach sinnhaft anders auszuführen als irgendwo in Portugal. So sieht das erst mal aus.
+
+(0:02:57 - 0:03:27)
+Und hier sind sie jetzt in der Mitte in hellblau dargestellt. Die E-Bögen, da sind sie anzutreffen E1 bis E17, also als Teil dieser deutschen Anwendungsregel im Anhang, wie wir gleich sehen werden, aufgelistet. Wenn wir uns die jetzt mal rausnehmen, diese E-Bögen aus der Anwendungsrichtlinie, dann habe ich ein paar Stichpunkte noch aufgeschrieben, die ich kurz erklären will, um erst mal den Rahmen zu fassen, was diese E-Bögen überhaupt machen sollen.
+
+(0:03:28 - 0:03:50)
+Also als Erstes sagen wir, definieren sie den Projektablauf zwischen dem Errichter der PV-Anlage und dem Netzbetreiber. Und da mal ganz wichtig, wenn man in der ersten Stunde auch zu Genüge sehen, sowohl den technischen Inhalt. Ich denke, das kennt jeder aus THBs oder aus Richtlinien, dass erst mal die Technik an sich definiert ist.
+
+(0:03:50 - 0:04:00)
+Aber ganz wichtig für uns auch der zeitliche Ablauf ist dargestellt. Das ist die Projektmanagement Ebene, über die ich jetzt schon, die ich schon ein paar Mal angesprochen hatte. Und die wird da auch definiert.
+
+(0:04:02 - 0:04:13)
+Und jetzt sowohl eben Technik als auch wann kann sowas dann und wie ablaufen, dann für verschiedene Abschnitte in so einem Projekt. Ich habe mal die wichtigsten dargestellt. Also erst mal die Anmeldung.
+
+(0:04:14 - 0:04:27)
+Das ist ja dann eben auch der Fokus für heute. Aber da geht es auch um den Netzanschluss Punkt an sich, wie sie ausgeführt und wie lange hat der Netzbetreiber Zeit, den auszuwählen. Dann die Zertifizierung ist ja immer so ein ganz wichtiges Thema.
+
+(0:04:27 - 0:04:37)
+Das wird da drin auch sehr schön beschrieben. Und die Inbetriebnahme haben wir noch dargestellt. Das ist jetzt nur ganz grob, damit man mal so einen Überblick hat, was in diesen E-Bögen eigentlich passiert.
+
+(0:04:40 - 0:04:54)
+Der zweite Punkt, den wir uns rausgesucht haben, ist, dass diese E-Bögen beidseitig gelten. Das finde ich persönlich eine sehr positive Sache. Wir als Büro hier haben auch viel im Ausland zu tun.
+
+(0:04:55 - 0:05:07)
+Und ich denke, das ist nicht überall gleich im Selbstverständnis drin, dass sich beide Seiten an Regeln halten müssen. Also da gibt es jetzt niemanden, der über dem anderen steht. Und das wird hier auch noch mal klar betont.
+
+(0:05:07 - 0:05:28)
+Und das hilft als erstes Mal, dass die Bearbeitungszeit optimiert wird. Also was wir damit sagen wollen, ist, sowohl wir als Anlagenerrichter, wir melden irgendwelche Anlagen an, wir füllen irgendwelche E-Bögen aus und schicken die dem Netzbetreiber. Der muss sich genauso an diese zeitlichen Abläufe und an die Regeln dieser E-Bögen halten.
+
+(0:05:28 - 0:05:43)
+Und dadurch wird natürlich die Bearbeitungszeit optimiert, weil sowohl wir wissen, was der Netzbetreiber haben will, als auch der Netzbetreiber weiß, was er von uns erhalten wird. Kann er natürlich seine Prozesse optimieren. Ich denke da an große Netzbetreiber EON zum Beispiel ja nur.
+
+(0:05:43 - 0:06:06)
+Da gehen täglich sicherlich hunderte von solchen Anträgen ein und dann können die das automatisieren. Und das geht natürlich nur, wenn die Anträge immer gleich aussehen. So, das hilft auch, die Fehlerquote zu senken, wenn man also erst mal hoffentlich dann heute noch ein bisschen besser als vorher schon weiß, wie man diese E-Bögen ausfüllt, dann sinkt die Fehlerquote auch wieder auf beiden Seiten.
+
+(0:06:06 - 0:06:44)
+Dadurch, dass die Bögen seit Jahren gleich aussehen, ist da sicherlich ein Lerneffekt mit drin und dadurch sinken Fehler und dadurch verbessern sich wiederum auch indirekt die Bearbeitungszeiten. Das Gleichbehandlungsprinzip, ich hatte es am Anfang schon mal ganz kurz genannt, das finde ich, wie gesagt, persönlich eine ganz, ganz wichtige Geschichte. Also da gibt es nicht die Möglichkeit, dass man, weil man, weiß ich nicht, zum Beispiel ein bisschen mehr Netzentgelte zahlt als irgendwelche anderen, da irgendwie schneller bearbeitet wird oder eben in der Bearbeitungsreihenfolge nach oben geschoben wird oder auch einen anderen Netzanschlusspunkt zugeordnet bekommt, als das vielleicht ein bisschen kleinere Firmen kriegen würden.
+
+(0:06:45 - 0:06:51)
+Sowas gibt es nicht. Das ist richtig. Also das Gleichbehandlungsprinzip wird da ganz groß unterstrichen.
+
+(0:06:55 - 0:07:19)
+Dann haben wir noch ein paar Hinweise, die haben wir so genannt, weil uns kein anderer Überbegriff eingefallen ist. Wichtig ist und das werden wir jetzt gleich in dem ganzen nächsten Kapitel darstellen, dann wird es griffiger. Die Nummerierungen, also E1 bis E17, das ist ja offensichtlich eine Nummerierung, die da dahinter liegt, ist unterschiedlich und unterschiedlich im Sinne von einer numerischen Reihenfolge und auch unterschiedlich im Sinne einer chronologischen Reihenfolge.
+
+(0:07:20 - 0:07:28)
+Was wir genau damit meinen, zeigen wir noch. Außerdem sind diese Nummern abhängig von der Spannungsebene. Auch das zeige ich gleich noch mal in der Übersicht.
+
+(0:07:28 - 0:07:37)
+Aber dann hat man es jetzt schon mal gehört. Also E1 ist zwar tatsächlich E1, weil bei E1 ändert sich nichts. Aber E9 ist nicht immer E9.
+
+(0:07:38 - 0:07:50)
+Dann sagen wir gerade im Anmeldeprozess muss man bitte auch davon ausgehen, dass man Daten einfach mal abschätzen darf. Wir haben hier als Beispiel die Trafferverluste angegeben. Die trägt man ein in diese Blätter.
+
+(0:07:50 - 0:08:00)
+Das weiß man am Anfang eines Projekts einfach noch nicht. Der Traffer ist meistens nicht bestellt. Und vor allem hat man einfach noch kein Datenblatt, kein Prüfprotokoll erhalten.
+
+(0:08:01 - 0:08:12)
+Also solche Taten einfach mal mit viel Selbstvertrauen abschätzen, was reinschreiben. Das ist unser Hinweis oder unsere Vorgehensweise. Zumindest ich würde die Felder nicht leerlassen, sondern ich würde sie abschätzen.
+
+(0:08:13 - 0:08:20)
+So, das gilt sicherlich immer im Berufsleben. Aktualisierung beachten. Wir haben es jetzt brandneu über mich drüber geschrieben.
+
+(0:08:20 - 0:08:30)
+Also wir gehen davon aus, dass zumindest die 4110 gerade sie wird definitiv gerade überarbeitet. Das wissen wir. Wir haben da tatsächlich ein paar Kommentare hingeschrieben.
+
+(0:08:30 - 0:08:38)
+Also das passiert. Und jetzt gehe ich einfach mal davon aus, dass eventuell im Laufe des nächsten Jahres eine Novellierung kommen. Und das betrifft dann auch die E-Bögen.
+
+(0:08:38 - 0:08:51)
+Also immer die aktuellste Version nutzen. Interpretations Spielraum bei Daten und Bearbeitungszeiten beachten. Ja, Bearbeitungszeiten zeigen wir gleich noch, was man da alles interpretieren kann.
+
+(0:08:52 - 0:09:14)
+Aber bei den Daten ist es, finden wir immer noch so, obwohl wir das jetzt seit Jahren machen, dass wenn man sich diese Bögen anguckt, sagen wir mal drei Elektroingenieure, dann findet man bei manchen Angabefeldern zwei verschiedene Meinungen. Das war in Vorbereitung für jetzt den heutigen Kurs auch wieder so. Es ist einfach nicht immer ganz hundertprozentig klar, was gemeint ist in diesen Abfragepunkten.
+
+(0:09:14 - 0:09:34)
+Deswegen empfehlen wir immer eine direkte Abstimmung mit dem Netzbetreiber, auch prüfen mit ihm zusammen im besten Fall natürlich im Telefonat, ansonsten per E-Mail, ob er das auch so interpretiert, wie wir das meinen. Die Angabe der Daten in den Bögen und immer eine Eingangsbestätigung abfragen, auch der Punkt ist ganz wichtig. Der steht jetzt hier nur so klein drin.
+
+(0:09:34 - 0:09:48)
+Ich finde das wichtig. Wenn die E-Mail sowas kann passieren, ein bisschen zu viel Daten hat oder im Spamfilter vom Netzbetreiber landet, dann wartet man Wochen oder Monate lang auf Rückmeldung und wird natürlich keine kriegen. Also Eingangsbestätigung abfragen.
+
+(0:09:49 - 0:10:06)
+Jetzt hat man es gesehen, hoffentlich ganz kurz. Ich habe den Punkt Spannungsebene mal mit rüber genommen, weil ich den nochmal genauer erklären will. Also die Spannungsebene am Netzanschlusspunkt, die zeigen wir nochmal dargestellt.
+
+(0:10:06 - 0:10:24)
+Das gibt es auch in einem anderen Brain Day von uns, wo wir das sehr, sehr ausführlich erklären, was es da alles so gibt. Aber grundsätzlich fangen wir mal oben an. Höchst Spannungsebene ist definiert mit 380, 220 KV und da gilt dann die VTE Anwendungsregel 4130.
+
+(0:10:24 - 0:10:37)
+Werdet ihr jetzt sehen, hinten die zwei Ziffern, das sind die relevanten. Also sagen wir mal die 4130, wenn ihr euch in der Höchst Spannungsebene befindet. Gehen wir eine Ebene runter, Hochspannung 110 KV, baut man Umspannwerk.
+
+(0:10:37 - 0:10:53)
+Wichtig jetzt gleich am Anfang des Projektes die 4120 rausnehmen und irgendwie im Projekt als Datei abspeichern. Nicht, dass man aus Versehen vom Vorgängerprojekt noch, ich zeige es als nächstes, die 4110 hat. Da stehen halt teilweise andere Sachen drin.
+
+(0:10:53 - 0:11:00)
+Der Teufel liegt da klar im Detail. Das sieht von außen erst mal ziemlich ähnlich aus. Die 4110 und 4120 im Detail sind da Unterschiede drin.
+
+(0:11:01 - 0:11:22)
+Wenn ihr also zum Beispiel euer Projektvorhänger in der Mittelspannung hattet oder zwei parallel bearbeitet, eins in der Mittelspannung, eins in der Hochspannung, dann ist das, was ich jetzt hier zeige, jetzt muss ich auch noch mal aus dem Weg. Ganz, ganz wichtig. Die vierte Ebene, die Niederspannung 4105, dann je nachdem, wie viel man sich darin aufhält, ist auch die.
+
+(0:11:22 - 0:11:36)
+Es sind also Unterschiede der E-Bögen an sich. Abhängig von der Spannungsebene bitte beachten. Und weil die Frage immer wieder aufkommt, haben wir sie uns mal sehr, sehr klar beantwortet und aufgeschrieben.
+
+(0:11:36 - 0:12:18)
+Also das gilt auch, wenn der Anschluss der Kundenanlage in einem kundeneigenen Niederspannungsnetz liegt und dieses über Netztransformatoren mit dem Netz der Mittelspannung verbunden ist. Also auch dann gilt die 4110 jetzt in dem Fall, dass es damit gemeint, also der Netzverknüpfungspunkt, die Ebene des Netzverknüpfungspunktes ist relevant, dass der Kunde dann hinten raus z.B. bei einer Dachanlage die Wechselrichter auf Niederspannungsebene betreibt, ist technisch gesehen selbstverständlich. Gleichwohl gilt dann in dem Fall eines Mittelspannungsnetzverknüpfungspunktes die 4110 und nicht z.B. die 4155, nur weil die Wechselrichter auf der Niederspannungsebene betrieben werden.
+
+(0:12:19 - 0:12:33)
+Ich graue mal drei von den vieren aus, weil wir jetzt uns heute auf diese hier konzentrieren wollen. Das Grundprinzip gilt bei den anderen gleich, aber wir machen ja immer alles an Beispielen und deswegen müssen wir uns eine rausnehmen. Und das ist die 4110.
+
+(0:12:33 - 0:12:46)
+Also heute bleiben wir in der Mittelspannung. Hier habe ich sie mal so ein bisschen farblich dargestellt. So eine 4110 Richtlinie hat ziemlich viele Seiten und vor allem hat sie zwölf Kapitel.
+
+(0:12:46 - 0:12:55)
+Die anderen zwölf Kapitel machen wir in anderen Modulen heute nicht. Aber unten dieses E, das mache ich mal größer. Das ist der Anhang E, so heißt er.
+
+(0:12:55 - 0:13:04)
+Der ist dann eben ganz hinten in der VDE 4110 zu finden. Und da findet ihr die Vordrücke E1 bis E17. Die sind auch so gedacht, dass man die verwendet.
+
+(0:13:04 - 0:13:16)
+Steht extra drauf zur Vervielfältigung vorgesehen. Man muss sich trotzdem diese Norm kaufen, aber dann kann man diese Bögen genauso verwenden, um zum Beispiel die Anlage beim Netzbetreiber anzumelden.

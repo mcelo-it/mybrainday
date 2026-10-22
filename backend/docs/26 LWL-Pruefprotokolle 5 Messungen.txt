@@ -1,0 +1,185 @@
+(0:00:00 - 0:00:09)
+Herzlich willkommen zurück aus der Pause. Wir haben für euch noch ein paar Kapitel übrig. Also wir haben, warum, Normen, Komponenten, Datenblatt haben wir jetzt geschafft.
+
+(0:00:09 - 0:00:21)
+Jetzt kommen wir so ein bisschen zu dem Kern von dem, was wir heute eigentlich machen wollten. Messung, danach nochmal den Live-Versuchsstand und nochmal das Messprotokoll ganz zum Schluss. Also es geht weiter jetzt erstmal mit Messung.
+
+(0:00:21 - 0:00:34)
+Wie sieht das Ganze denn tatsächlich aus? Warum machen wir das? Haben wir euch ganz am Anfang schon erklärt. Und hier nochmal diese Übersicht vom Anfang. Wir gucken uns jetzt nochmal an das Wie.
+
+(0:00:34 - 0:00:48)
+Wie messen wir denn das tatsächlich? Also wie, ODTR ist jetzt noch grün und die Zuordnung ist grün. Das sind genau diese beiden Punkte, die wir uns jetzt nochmal anschauen wollen. Und das Erste ist dann eben die Qualität, die wir messen wollen.
+
+(0:00:49 - 0:01:02)
+Und das geht im Grunde genommen mit einer Dämpfungsmessung. Das ist eine gewisse Qualitätsmessung. Das heißt, wir schicken ein Licht in ein Kabel rein und messen, wie viel Licht hinten rauskommt.
+
+(0:01:02 - 0:01:14)
+Dann haben wir einen Dämpfungswert. Das ist natürlich eine Qualität, aber das ist natürlich auch eine vereinfachte Messung. Das ist jetzt nicht sehr, wie soll man sagen, das ist einfach einfach.
+
+(0:01:14 - 0:01:28)
+Man bekommt nicht allzu viele Ergebnisse, aber trotzdem weiß man vielleicht, dass die Dämpfung gut oder schlecht ist. Diese Messung verwenden wir in der Regel nicht. Deshalb würden wir die jetzt auch einfach mal überspringen.
+
+(0:01:29 - 0:01:44)
+Und was wir dann immer fordern bei unseren Parks, ist dann eben diese ODTR-Messung. Das ist das, was wir haben wollen. Also wenn mal jemand nach einer Ausschreibung fragt, wenn mal jemand danach fragt, wie prüfen wir denn, sage ich immer ODTR.
+
+(0:01:44 - 0:01:58)
+Das ist bei uns der Standard, weil da kriegen wir viele Ergebnisse. ODTR heißt Optical Time Domain Reflectometry. Also es ist auf Deutsch so eine Art Rückstreumessverfahren, was man da durchführt.
+
+(0:01:59 - 0:02:12)
+Es ist optisch, hatte ich schon gesagt. Wir schicken da ein Licht in so ein Kabel rein und messen danach zurück, wie viel Licht wann zurückkommt. Also das ist vielleicht ein ein Kilometer langes Kabel.
+
+(0:02:13 - 0:02:43)
+Ein Kilometer ist für Licht natürlich eine sehr, sehr kurze Strecke. Aber trotzdem gelingt es uns, auf dieser ein Kilometer langen Strecke verschiedene Rückstreuungen oder Rückreflektionen zu messen mit unserem Messgerät, um dann eben festzustellen, wie lang ist das Kabel, an welcher Stelle des Kabels haben wir vielleicht Störstellen und wie groß sind zum Beispiel die Störstellen oder wie sehen sie im Detail aus. Das kann hier so eine ODTR-Messung machen.
+
+(0:02:43 - 0:03:00)
+Wie sehen sie aus, bedeutet Steckverbindungen sind in dem Sinne eine Störstelle, weil das dann natürlich nicht das ideale LWL, die LWL-Faser ist, sondern eine Steckverbindung hat immer eine gewisse Dämpfung. Das heißt, die sehen wir dann in dem Messprotokoll. Wir sehen natürlich auch Unterbrechungen.
+
+(0:03:00 - 0:03:12)
+Das ist, denke ich, das einfachste, wenn das Kabel einfach an irgendeiner Stelle unterbrochen ist und zu Ende ist. Dann sieht man das sehr deutlich in dem Messprotokoll. Und Spleißstellen sehen wir auch.
+
+(0:03:12 - 0:03:29)
+Wobei man bei unseren Verdrahtungen oder bei unseren LWL-Topologien schon sagen muss, dass man die Steckverbindungen und die Spleißstellen meistens in einem Ausschlag sieht. Aber da kommen wir später nochmal im Detail drauf. Dann seht ihr, wie das wirklich aussieht.
+
+(0:03:30 - 0:03:40)
+Also ODTR, wir gucken uns das jetzt mal an, wie die Messung funktioniert. Erstmal haben wir den Aufbau, den wir so lange jetzt erarbeitet haben. Wir haben zwei Spleißboxen.
+
+(0:03:40 - 0:04:02)
+Dazwischen ist eine Kabelstrecke, hier gestrichelt dargestellt. Also von Trafostation 1 zu Trafostation 2. Dazwischen, muss man sich jetzt vorstellen, sind vielleicht 500 Meter, 800 Meter, 1000 Meter, was auch immer. Und wenn man dieses Gebilde erstmal hat, zwei Trafostationen weit voneinander entfernt, dann braucht man jetzt noch Vor- und Nachlauffasern.
+
+(0:04:02 - 0:04:21)
+Das haben wir jetzt mal so dargestellt hier, wie eine große Kabeltrommel. In Wirklichkeit ist das eher eine faustgroße oder handgroße Spule, wo dann eine Faser, eine Glasfaser draufgewickelt ist. Ich glaube, nach Norm muss die mindestens 100 oder 150 Meter haben.
+
+(0:04:21 - 0:04:41)
+Die Norm sagt aber auch, der Hersteller muss das empfehlen, der Hersteller des Messgeräts. Ich glaube, in der Realität sind es dann 500 Meter häufig, die man vorne und hinten an die Prüfstecker anschließen sollte. Ich betone schon mal sollte, weil die Realität ist da auch ein bisschen anders oder die Praxis ist da manchmal ein bisschen anders.
+
+(0:04:41 - 0:04:58)
+Also Vor- und Nachlaufspule sind jetzt angeschlossen und jetzt kommt noch mein Messgerät, was ich natürlich anschließen muss. Das schließe ich an die Vorlaufspule an. Da habe ich dann ein kurzes Kabelstück, vielleicht auch mit dem Stecker und schließe das eben an die Vorlauffaser an.
+
+(0:05:00 - 0:05:28)
+Jetzt zeigen wir hier direkt schon, wie sich jetzt das rückgestreute Signal dargestellt werden würde. Wir schicken gleich eine Lichtmode rein in diese Vorlauffaser und bekommen dann Reflektionen. Unser Messgerät stellt diese Reflektionen dann mit einer Dämpfung in dB über die Länge dar, sodass man dann wirklich klar sehen kann, was für Ereignisse es gibt.
+
+(0:05:28 - 0:05:54)
+Wir starten jetzt mal die Messung und drücken auf das Messgerät. Das Messgerät schickt gleich eine Lichtmode raus und den ersten Ausschlag, den wir sehen werden, das ist erstmal die Verbindung vom Messgerät zur Vorlauffaser. Das Licht ist raus und der erste Ausschlag wird gleich generiert, weil wir den ersten Stecker schon haben, in den wir mit dem Licht in unsere Vorlauffaser rein müssen.
+
+(0:05:54 - 0:06:08)
+Das ist eine Steckstelle, das ist wahrscheinlich auch eine Spleißung, die da irgendwo mit hinter steckt. Dann fliegt unser Licht durch diese Vorlauffaser. Das heißt, dann wird der Dämpfungsunterschied sehr, sehr gering.
+
+(0:06:08 - 0:06:22)
+Also wir bekommen fast eine horizontale Linie, bis wir dann von der Vorlauffaser an der Spleißbox ankommen. Das ist jetzt dann der nächste Ausschlag. Wir haben das ja schon mal mit einer gestrichenen Linie markiert.
+
+(0:06:22 - 0:06:43)
+Hier wird jetzt wieder etwas passieren, weil hier in der Spleißbox haben wir erstmal wieder einen Stecker. Die Vorlauffaser wird gesteckt auf unsere Spleißbox und in der Spleißbox, also unmittelbar hinter dem Stecker, ist dann natürlich der Spleiß, den unser Monteur letzte Woche da hoffentlich erstellt hat, hoffentlich gut. Und das sorgt jetzt natürlich wieder für einen Ausschlag.
+
+(0:06:44 - 0:07:03)
+Das heißt, ich habe den zweiten Ausschlag und jetzt geht die Kabelstrecke erstmal weiter. Sagen wir mal 800 Meter bis zur TRAFO Station 2. Auch hier haben wir ein Kabel ohne Fehler, das heißt auch hier haben wir fast eine horizontale Linie. Ein ganz leichtes Gefälle hat man sicherlich immer, weil jedes Kabel hat eine leichte Dämpfung.
+
+(0:07:03 - 0:07:21)
+Aber so ist es tatsächlich realistisch fast horizontal. Jetzt kommt der dritte Ausschlag, der dritte Punkt und das ist jetzt natürlich wieder die Verbindung von der Spleißbox. Also in der Spleißbox haben wir den Spleiß und dann die Steckverbindung zur Nachlauffaser.
+
+(0:07:22 - 0:07:32)
+Also auch hier geht es wieder hoch. Ein hoher Ausschlag, eine hohe Reflektion. Und nach diesem Ausschlag sind wir wieder ein Stückchen vom DB-Wert runtergefallen.
+
+(0:07:33 - 0:07:49)
+Und dann geht das Licht nochmal durch die Nachlauffaser bis zum Ende der Nachlauffaser. Und wenn die Nachlauffaser dann zu Ende ist, dann gibt es meistens noch so ein Gezackel hinten dran. Also der erste Ausschlag, Nachlauffaser zu Ende und dann dieses Gezackel.
+
+(0:07:49 - 0:08:11)
+Und dann hat man hier, ich würde mal sagen, ein ideales Prüfprotokoll. Vier Ausschläge, weil wir haben vier Verbindungsstellen. Also einmal am Messgerät, dann an der Spleißkassette 1 oder Spleißbox 1, Spleißbox 2 und dann am Ende der Nachlauffaser.
+
+(0:08:13 - 0:08:39)
+So würde es aussehen und jetzt, glaube ich, kann jeder, wenn er mal wieder so ein OTDR-Prüfprotokoll in die Hand bekommt, gleich sagen, aha, aha, ich sehe Ausschläge oder ich sehe keine und kann das vielleicht erstmal ein bisschen besser greifen. Bei mir fiel das am Anfang relativ schwer zu greifen, was da passiert. Jetzt machen wir die Messung nochmal auf der anderen Faser und wir haben jetzt hier irgendwo eine Fehlerstelle drin.
+
+(0:08:39 - 0:08:57)
+Also das heißt, meinetwegen, im schlimmsten Fall hat der Bagger da nochmal nachgebaggert und das Kabel durchgehauen, aber es gibt auch andere Fehlerstellen, die wir euch vielleicht nochmal ganz kurz später zeigen. Jetzt haben wir hier den Worst Case, sage ich mal, der Bagger hat die Leitung durchgehauen. Dann passiert natürlich erstmal genau das gleiche wie vorher.
+
+(0:08:57 - 0:09:24)
+Die Lichtmode geht rein, geht durch die Vorlauffaser, geht durch die Spleißkassette 1, also auch hier erstmal unauffällig. Es passieren die gleichen Sachen wie vorhin, aber jetzt Achtung, hier, da wo der Bagger reingehauen hat, da gibt es nochmal ein Ereignis, nochmal eine Reflektion, die kann genauso aussehen, die kann aber auch anders aussehen. Aber erstmal detektieren wir jetzt mit unserem Prüfgerät, dass wir da etwas haben.
+
+(0:09:24 - 0:09:41)
+Das ist sichtbar erstmal in unserer Messung und was ich auch feststelle, es gibt jetzt nur drei Reflektionen. Also diese letzte Reflektion bzw. die Reflektion an der Spleißbox 2 und die Reflektion hinten an der Nachlauffaser, die sehe ich jetzt nicht.
+
+(0:09:42 - 0:10:06)
+Wenn ich genau den Messaufbau verwende, den ich oben verwende mit Vor- und Nachlauffaser, dann erwarte ich vier Ausschläge, hier habe ich jetzt nur drei. Das heißt, ich würde jetzt erstmal, weil ich nur drei Ausschläge habe, erstmal sofort hellhörig werden und gucken, aha, was ist denn hier passiert. Die Nachlauffaser haben wir zumindest nicht gemessen und ehrlich gesagt weiß ich gar nicht, was ich da bei 250 Meter Kabelstrecke so genau gemessen habe.
+
+(0:10:06 - 0:10:20)
+Weil die Strecke, die ich jetzt eingemessen habe, ist erstmal kürzer als das, was ich erwartet habe. Ich weiß ja ungefähr, wie lang meine LWL-Strecke sein soll, 500 Meter. Ich glaube, ich habe 800 Meter gesagt, jetzt messe ich aber nur 200 Meter.
+
+(0:10:20 - 0:10:40)
+Dann ist das für mich natürlich ein klarer Hinweis, hier ist irgendwas nicht in Ordnung. Die Faser ist nicht bis zum Ende durchgängig, ich messe nicht die Nachlauffaser mit, das Kabel muss dann eben defekt sein. Jetzt schauen wir uns hier nochmal so eine Messung an und schauen uns hier dann tatsächlich die dB-Werte an.
+
+(0:10:41 - 0:11:01)
+Jetzt haben wir hier wieder eine Messung, die funktioniert hat, also ohne Fehler. So würde das im Grunde genommen so ein OTDR-Messgerät auch analysieren, zum großen Teil automatisch. Das setzt dann selbst Marker oder der Prüfer hat die Möglichkeit, diese Marker zu setzen, so wie wir es hier gerade machen.
+
+(0:11:01 - 0:11:33)
+Wir setzen hier jetzt bei 0 Meter, also direkt nach dem Anschluss des Messgerätes setzen wir unseren ersten Marker. Dann geht das Licht erstmal einmal durch die Vorlauffaser, von dem OTDR-Messgerät bis zur Spleißbox A. Die Vorlauffaser hat eine Länge von 500 Metern, so ist es hier definiert bei uns. Da haben wir jetzt Dämpfungsverluste, die kann man dann natürlich messen, die sind hier sehr klein.
+
+(0:11:33 - 0:11:58)
+Also von 23,2 dB gehen wir runter auf 23 dB, das sind 0,2 dB Verluste. Und so wie wir es vorher auch mal gesagt hatten, 0,4 dB pro Kilometer, das ist die Steigung von dem Kabel, das ist erstmal durchaus realistisch. Jetzt geht es weiter, wir setzen unseren nächsten Marker, Spleißbox A, also wir setzen jetzt nach der Spleißbox den Marker.
+
+(0:12:01 - 0:12:24)
+Und da an diesem Marker ist jetzt eben der Kabelanfang, das heißt wir messen jetzt von der 23 zu 22. Wir haben da keine Kabelstrecke, weil das ist genau die Spleißbox, also das ist der Stecker mit dem Spleiß. Und da messen wir jetzt in unserem Messgerät eben diese 0,8 dB Dämpfung für Spleiß plus Stecker.
+
+(0:12:24 - 0:12:49)
+Also wir haben jetzt keine Länge in unserer Liste angegeben, weil wir haben da keine Länge, es sind ein paar Zentimeter oder ein, zwei Meter Pigtail, aber das ist nicht relevant für unsere Messung. So, dann geht es weiter, nächste Zeile, jetzt geht es weiter vom Kabelanfang, ist ja schon grün markiert, bis zum Kabelende. Das ist jetzt die Kabelstrecke von dem installierten Kabel, was wir tatsächlich haben.
+
+(0:12:49 - 0:13:16)
+Vorher hatten wir die Vorlauffaser, jetzt kommt die tatsächliche Kabelstrecke. Und wir erwarten hier eine Länge von 300 Meter, das haben wir so gemessen, das hat uns der Planer gesagt. Und die Dämpfung, also zwischen der weißen horizontalen Linie und der anderen horizontalen Linie von 22,2 zu 22,1 ist eben 0,1 dB, das heißt 0,33 dB pro Kilometer, das heißt wir sind besser als die Vorlauffaser.
+
+(0:13:16 - 0:13:47)
+Wir sind hier in einem durchaus guten Bereich, im Datenblatt hatten wir gesehen kleiner 0,35 dB, das heißt hier können wir Daumen hoch sagen, der Dämpfungswert von unserer installierten Strecke ist erstmal völlig in Ordnung. Jetzt kommt nochmal Kabelende bis zur Spleißbox, hier haben wir wieder den Spleiß und den Stecker, der hat hier 0,9 dB. Auch das würde ich jetzt erstmal sagen, bevor ich jetzt die Grenzwerte bekannt gebe, das ist erstmal durchaus realistisch und im Bereich von in Ordnung.
+
+(0:13:48 - 0:14:17)
+Jetzt kommt zum Schluss nochmal die Nachlauffaser, von der Spleißbox B bis zum Ende wäre das und die ist auch nochmal 500 Meter. Genauso wie die Vorlauffaser, die gleichen Werte, 0,2 dB Dämpfungsverluste und eine Steigung von 0,4 dB. Das heißt alles erstmal hier soweit in Ordnung, wir würden jetzt nochmal aufsummieren die Dämpfung von dem Ende der Vorlauffaser bis zum Anfang der Nachlauffaser.
+
+(0:14:17 - 0:14:58)
+Das heißt ich habe alle Spleiße und die Kabelstrecke und die Stecker an die Spleißbox dann eingemessen und summiere dann diese Dämpfungswerte auf und komme da auf 1,8 dB Dämpfungswert. Das ist für mich erstmal in Ordnung, damit man das jetzt nochmal ein bisschen schöner greifen kann, damit man vielleicht auch was an der Hand hat, wenn man in vier Wochen dann nochmal so ein Prüfprotokoll anschaut. Wir haben hier so ein paar Rahmen oder Grenzwerte mal vorgegeben, so ein Stecker hat normalerweise 0,5 bis 1 dB Dämpfung, ein Spleiß 0,2 bis 0,5 dB.
+
+(0:14:59 - 0:15:22)
+Ich hatte ja eben gesagt, man kann das eigentlich nur zusammenmessen, weil Spleiß und Stecker unmittelbar nebeneinander liegen. Das heißt man kann das addieren und die Summe Stecker plus Spleiß wären dann so 0,7 bis 1,5 dB einfach als Größenordnung. Das ist das, wo man sich befinden muss in der Prüfung und dann eben für die Kabel auch nochmal Grenzwerte.
+
+(0:15:23 - 0:15:58)
+Damit wir das nochmal gegenchecken, also für die Spleiß 0,7 bis 1,5, wir haben bei uns im Protokoll 0,8, das heißt wir sind durchaus am besseren Ende sogar von unseren Grenzwerten. Und unten haben wir 0,9 dB, das heißt das ist erstmal in Ordnung, Daumen hoch. Und für die Kabelstrecke hatten wir es ja im Grunde genommen auch schon gesagt, 0,4 dB pro Kilometer oder 0,33 dB pro Kilometer, das ist auch im Rahmen des Guten.
+
+(0:15:59 - 0:16:26)
+Wobei die Vorlaufphase, die wir jetzt auch grün markiert haben, ist ja jetzt für unsere Messung gar nicht so entscheidend, ob die einen guten Dämpfungswert hat oder nicht. Natürlich muss die auch gut sein, aber entscheidend ist ja die 0,33 dB von der installierten Strecke und das ist so in Ordnung, weil auch nach Datenblatt sind wir kleiner als 0,35 dB. Jetzt nochmal andere Ereignisse, die man messen kann.
+
+(0:16:26 - 0:16:39)
+Wir hatten ja eben schon das LWL-Kabel als Fehler durchgeschnitten. Dann hat man einen sehr hohen Ausschlag. Es gibt aber auch noch andere Ereignisse, zum Beispiel es gibt Geister.
+
+(0:16:40 - 0:16:56)
+Unten links ein scheinbares Ereignis durch mindestens eine Reflexion. Vielleicht ist aber das, was man auf der rechten Seite sieht, eher realistisch. Das heißt die Kabelstrecke, die ich eben immer so häufig als fast horizontal beschrieben habe, die kann dann auch mal so einen leichten Knick nach unten kriegen.
+
+(0:16:57 - 0:17:11)
+Da gibt es dann vielleicht Biegungen in der Faser oder es gibt Fusionsspleiße, die vielleicht einfach noch kleine Ausschläge detektieren oder als Ausschlag detektiert werden können. Also so sieht das aus. Es muss nicht immer ein hoher Peak sein.
+
+(0:17:11 - 0:17:24)
+Es gibt eben auch andere Ereignisse. Wenn man eben von dem idealen Prüfprotokoll abweicht, ist es vielleicht gut, das mal gesehen zu haben. Das war OTDR und jetzt kommt noch mal die Zuordnung.
+
+(0:17:25 - 0:17:39)
+Die machen wir dann ja später auch noch mal hier live mit euch als Übung. Zuordnung, wie funktioniert das? Erstmal grundsätzlich auch hier der Aufbau ist der gleiche. Wir haben wieder zwei Spleißboxen und haben dazwischen die Kabelverbindung.
+
+(0:17:40 - 0:18:02)
+Wir wollen ja jetzt nur feststellen, ob die Fasern an beiden Spleißkassetten auch richtig aufgelegt sind. Was mache ich dafür? Ich nehme mir das erstmal raus und habe den Farbcode auch noch mal. Ganz wichtig ist, richtig aufgelegt heißt ja nach Farbcode, Faser 1 ist oben links aufgelegt.
+
+(0:18:03 - 0:18:23)
+Und die blaue Faser, Achtung, das ist jetzt Faser 3, die legen wir unten drunter auf. Wir haben das jetzt absichtlich so gemacht, weil oben rechts würden wir jetzt die Faser 2 auflegen. Oben links rot, oben rechts grün und unten drunter die dritte Faser ist dann eben die blaue und die fünfte Faser ist dann die weiße.
+
+(0:18:23 - 0:18:35)
+So sollte das der Spleißer aufgelegt haben. Wie gesagt, der besseren Sichtbarkeit haben wir jetzt Faser 1, 3 und 5 genommen. Und das erwarte ich dann an beiden Enden der Spleißkassette.
+
+(0:18:36 - 0:18:43)
+Also erstmal visuelle Prüfung vorab. Man könnte reingucken in die Spleißbox, kann man machen. Ich würde aber erstmal davon ausgehen, dass das so hinhaut, dass das so stimmt.
+
+(0:18:44 - 0:18:58)
+Und würde jetzt mein Prüfgerät an diese TRAFO Station 1 zum Beispiel anschließen. Das machen wir hier. Und jetzt brauche ich entweder einen Kollegen, der in TRAFO Station 2 steht oder ich muss relativ häufig hin und her laufen.
+
+(0:18:59 - 0:19:20)
+Besser ist ihr habt einen Kollegen, weil ich drücke gleich in TRAFO Station 1 auf den Knopf und schicke einen Laser durch die Faser oder in den Anschluss 1 hinein. Und der kommt dann hoffentlich auch an Anschluss 1 in der TRAFO Station wieder raus. Das ist eine ganz simple Zuordnungsprüfung, aber für die Inbetriebnahme Tests, wie ich finde, unerlässlich.
+
+(0:19:20 - 0:19:46)
+Wenn es einen Fehler gibt, hilft das immer ungemein, das einmal zu prüfen, ob das auch so ist. Weil auch wenn man Farben hat, weil man Farbcode hat, kann das natürlich immer mal sein, dass da nicht ganz sauber gearbeitet wurde und man dann den Lichtblitz nochmal in den Eingang 1 reinschickt. Und dann kommt er aber auf einmal in Ausgang 3 raus.
+
+(0:19:46 - 0:20:02)
+Und dann hat man visuell geprüft, dass eben die Verdrahtung nicht stimmt. Und dann muss der Spleißer entweder nochmal nacharbeiten oder man findet eine andere Lösung. Aber ich denke, man arbeitet hier lieber nochmal nach, weil das muss dann die nächsten 20 Jahre funktionieren.
+
+(0:20:02 - 0:20:10)
+Also kommt das Licht, kommt der Laser nicht da raus, wo er reingeschickt wurde, ist es falsch. Daumen runter.

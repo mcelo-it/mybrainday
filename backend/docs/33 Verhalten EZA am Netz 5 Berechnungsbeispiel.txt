@@ -1,0 +1,89 @@
+(0:00:00 - 0:00:08)
+So, das war die dynamische Netzstützung. Jetzt kommt das Berechnungsbeispiel. Ich gehe da erst mal kurz rein, erkläre euch da noch mal zwei, drei Sachen, worum es hier geht.
+
+(0:00:09 - 0:00:25)
+Und dann sollt ihr mal versuchen, diese Berechnungen, diese Fault-Right-Through-Themen, was da so auch in der Zertifizierung gemacht wird, vielleicht einmal selbst zu bewerten. Wir zeigen euch jetzt erst mal eine Simulation bei Nennstrom. In so einem Anlagenzertifikat gibt es, glaube ich, zwölf Berechnungsfälle, die durchgeführt werden.
+
+(0:00:25 - 0:00:48)
+Also nicht nur bei Nennstrom und auch nicht nur mit dem Spannungseinbruch, den wir jetzt zeigen, aber mit vielen verschiedenen, mit vielen verschiedenen Extremwerten ist es dann ja in der Regel gemacht. Wir gucken uns mal nur einen an, um dann selbst später alle zwölf selbstständig vielleicht bewerten zu können. Also was macht hier so eine Zertifizierungsstelle? Die hat natürlich erst mal eine Software, zum Beispiel PowerFactory oder so.
+
+(0:00:48 - 0:01:02)
+Die kann dann diese dynamischen Vorgänge simulieren. Und die Software würde jetzt erst mal starten mit einem Vorfehler. Wir sind in einem gesunden Zustand und wir haben oben den Betrag des Phasenstroms.
+
+(0:01:02 - 0:01:23)
+Der liegt dann irgendwo über 200, vielleicht ist es 230 Ampere, so ungefähr. Und unterhalb haben wir dann eben den Wirkstrom in grün und in gelb den Blindstrom. Also beide werden jetzt aus dem Verbraucherzell-Fall-System sich ins Netz eingespeist, sowohl der Wirk- als auch der Blindstrom.
+
+(0:01:24 - 0:01:40)
+Und jetzt nach dem Vorfehler, also nach dem Normalbetrieb der Anlage, tritt ein Fehler ein. Das ist jetzt genau an dieser Stelle. Und jetzt darf unser Fault Ride-Through-System 30 bis 60 Sekunden benötigen.
+
+(0:01:40 - 0:01:53)
+Und ich glaube, in der Norm ist es so definiert, 30 Millisekunden Anschwingzeit und 60 Millisekunden Einschwingzeit. Das heißt, das ist ein ultra kurzer Zeitraum. Das ist für uns Menschen ja schwer zu greifen.
+
+(0:01:53 - 0:02:06)
+Schutzrelais schaffen es vielleicht, in diesen 30 Millisekunden Kurzschlüsse zu löschen oder in 60 Millisekunden. Aber das sind sehr, sehr, sehr schnelle Schutzrelais dann schon. Leistungsschalter brauchen auch irgendwie diese Zeit, um allein nur zu schalten.
+
+(0:02:06 - 0:02:19)
+Also wir sind hier in einem ultra kurzen Zeitraum. Und jetzt muss unsere Anlage in diesem kurzen Zeitraum das erst mal erkennen und muss dann eben den erhöhten Blindstrom liefern. Jetzt müssen wir darauf achten.
+
+(0:02:20 - 0:02:31)
+Der Blindstrom war das gelbe, der Wirkstrom war das grüne. Wir sind im Nennbetrieb. Das heißt, mehr Strom in Summe als den Phasenstrom können wir nicht liefern.
+
+(0:02:32 - 0:02:50)
+Und das hätte jetzt auch zur Folge, das sehen wir gleich, dass der Reduzierung des Wirkstroms, das passiert hier nicht. Aber zur Folge hat das jetzt eben, dass die gelbe Linie weiter nach unten geht. Der eingespeiste Blindstrom erhöht sich.
+
+(0:02:50 - 0:03:02)
+Aber weil wir in Summe nicht mehr Strom liefern können, reduziert sich hier der Wirkstrom. Das sieht man jetzt hier. Die grüne Linie deutlich reduziert, der Blindstrom deutlich erhöht.
+
+(0:03:02 - 0:03:11)
+Und jetzt haben wir eine gewisse Fehlerzeit. Das ist jetzt erst mal nicht klar definiert, wie lange der Fehler hier jetzt ist. Das ist ja abhängig aus diesen anderen Kurven, die wir vorher gesehen haben.
+
+(0:03:12 - 0:03:18)
+Hier ist es einfach ein Fehler. Der ist jetzt durchlaufen. Das sieht für mich so aus wie 1,5 Sekunden ungefähr.
+
+(0:03:18 - 0:03:26)
+Hatten wir jetzt einen Fehler anliegen und die Anlage bleibt am Netz. Das zeigt unsere Simulationssoftware schon. Und dann ist der Fehler vorbei.
+
+(0:03:26 - 0:03:41)
+Und dann kehren wir zurück zu unserem zu dem Zustand, den wir vorher hatten. Da gibt es so ein gewisses Einschwingen wieder. Aber nach dem Fehler, nach dem Fehler Ende ist dann unsere Anlage im Grunde genommen wieder so, wie sie vor dem Fehler war.
+
+(0:03:42 - 0:03:53)
+Blind- und Wirkleistungen ändern ein bisschen ihre Position. Der Phasenstrom, der Gesamtstrom, der ist wieder auf seinem Maximum. Wir sind im Nennbetrieb und speisen wieder so ein, wie wir es vorher gemacht haben.
+
+(0:03:54 - 0:04:05)
+So funktioniert erst mal so eine Simulation und das natürlich softwaregestützt. Das kann, glaube ich, niemand mehr händisch durchführen. Aber so ist es erst mal grundsätzlich gedacht.
+
+(0:04:06 - 0:04:19)
+Im Berechnungsbeispiel, um jetzt noch mal ein paar Zahlen hier an diese Grafiken zu bekommen und das macht ihr gleich auch in der Übung, gehen wir das jetzt einfach mal durch. Wir geben erst mal was vor. Der Spannungseinbruch, den wir hatten, ist eben 50 Prozent negativ.
+
+(0:04:20 - 0:04:33)
+Also die Spannung bricht ein. Das PAV oder das PAV-E unserer Anlage sind 8 Megawatt und der K-Faktor ist 2. Den K-Faktor kriegen wir aus dem E9-Bogen. Die Leistung, die steht auch im E9-Bogen drin.
+
+(0:04:34 - 0:05:02)
+Nehmen wir jetzt mal so an mit 8 Megawatt und den Spannungseinbruch, den definieren wir jetzt, weil das ist unser erstes Berechnungsfall, den wir mal durchgehen wollen. Spannung bricht ein um 50 Prozent. Als erstes greifen wir uns noch mal das Diagramm Fault Right Through, so heißt das, und schauen da rein bei einem Spannungseinbruch von 50 Prozent, wie lange müssen wir da noch mal am Netz bleiben? Dann gucken wir 50 Prozent in der Y-Achse raus und gehen dann die Kurve entlang.
+
+(0:05:03 - 0:05:32)
+Und bei dem dreipoligen Kurzschluss sind das dann eben ganz genau 1,575 Sekunden, die wir am Netz bleiben müssen. Das hätten wir jetzt schon mal rausgefunden für die Fehlerlänge und können das dann auch unten in der Grafik so eintragen beziehungsweise abmessen. In der Software würde es dann ja so funktionieren, dass die Software den Fehler genau 1,575 Sekunden durchfährt und dann feststellt, es bricht nicht ab.
+
+(0:05:32 - 0:05:40)
+Es gibt keinen Fehler in dem Zeitraum. Er fährt sauber durch und damit wäre das dann ja auch bestanden. Das wäre Teil 1 der Bewertung.
+
+(0:05:41 - 0:05:58)
+Teil 2 der Bewertung wäre dann aber auch aus dem Diagramm 2, K-Faktor, wir haben K-Faktor gegeben. Das sehen wir jetzt hier. Wir haben den Spannungseinbruch gegeben und jetzt müssten wir auch bewerten, ob die Menge der Blindleistung, die wir hier einspeisen, eben auch passt.
+
+(0:06:00 - 0:06:26)
+K-Faktor gleich 2 bei einem Spannungseinbruch von minus 0,5 führt uns dann eben in der Grafik auf einen zusätzlichen Blindstrom von minus 1,0. Das heißt, 100% Blindstrom müssen wir liefern. Und nochmal für die Erinnerung, fürs Gedächtnis die Formel Delta klein ib ist gleich K mal Delta u. Und dann kommt man eben auf diese minus 1,0.
+
+(0:06:27 - 0:06:41)
+Dann gibt es eine weitere Formel hier. Wenn wir jetzt den gesamten Betriebsblindstrom ermitteln wollen, brauchen wir den zusätzlichen Blindstrom mal den Bemessungsstrom der Anlage. Und jetzt müssen wir aber noch den Bemessungsstrom der Anlage ausrechnen.
+
+(0:06:41 - 0:07:05)
+Machen wir mit dem PAV-E-Wert aus dem E9-Bogen relativ einfache Rechnung, 8 Megawatt geteilt durch die Netzspannung, geteilt durch Wurzel 3. Und dann kommen wir auf einen Betriebsstrom der Anlage von 230. Jetzt müssen wir noch einmal aus dem Bild gehen und dann können wir die Berechnung hier fortführen. Der Berechnung des zusätzlichen Blindstroms, der funktioniert dann eben wie folgt.
+
+(0:07:06 - 0:07:19)
+Das zusätzliche Blindstrom ist gleich der relative Blindstrom mal dem IR. Und die Berechnung wäre dann minus 1 mal 230. Und dann wäre der zusätzliche Blindstrom eben 230 Ampere.
+
+(0:07:19 - 0:07:46)
+Das heißt, der zusätzliche Blindstrom ist gleich dem Nennstrom. Und dann müsste man das grundsätzlich in der Grafik jetzt auch versuchen abzulesen. Und wenn ihr jetzt seht, dass man im Vorfehler-Bereich bereits schon negativen Blindstrom bereitgestellt hat, dann ist es jetzt, glaube ich, klar, dann können wir nicht noch mal den zusätzlichen Nennstrom als Blindstrom zur Verfügung stellen, nämlich wenn man das Delta-IB dort jetzt sieht.
+
+(0:07:46 - 0:08:08)
+Deshalb haben wir auch ein Ausrufezeichen reingemacht. Konnte der Wechselrichter jetzt in dem Fall nicht noch mal 230 oder minus 230 Ampere addieren, sondern er konnte nur bis zu seinem Nennstrom Blindstrom bereitstellen, also bis minus 230. Und das sind hier in dem Beispiel kommt auf den Ampere nicht an, aber nur ungefähr zusätzlich 130 Ampere.

@@ -1,0 +1,269 @@
+(0:00:00 - 0:00:14)
+Vorbereitende Tätigkeiten sind jetzt sozusagen abgeschlossen. Jetzt gucken wir uns die Komponenten an, die wir brauchen, um so ein Netzwerkdesign aufzubauen. Das machen wir mit unseren 3D-Modellen, die wir hier uns jetzt noch mal kurz angucken.
+
+(0:00:14 - 0:00:24)
+Nehmen wir zehn Minuten, mehr nicht. Und konkursieren uns später lieber auf das Design als auf die einzelnen Komponenten. Aber um sozusagen alle noch mal auf die gleiche Startposition zu bringen.
+
+(0:00:24 - 0:00:31)
+Die erste Komponente, die wir brauchen, ist eine Switch. Hier sehen wir den. Dann brauchen wir immer eine Splicebox.
+
+(0:00:31 - 0:00:40)
+Dann brauchen wir Patchkabel. Dann brauchen wir natürlich ein LWL-Kabel, um das Ganze miteinander zu verbinden. Und wir brauchen SFP-Module.
+
+(0:00:41 - 0:00:47)
+Was das ist, sage ich gleich noch mal im Detail. Aber jetzt kann man sich das schon mal merken. Also fünf Komponenten, um die geht es heute.
+
+(0:00:48 - 0:01:10)
+Mein Ziel wäre sozusagen, dass jeder am Ende des Braindays sozusagen auch sein eigenes Design mit seinen eigenen Regeln machen kann. Und dann Typ und Anzahl dieser fünf Komponenten definieren kann, um sie dann wiederum an den Einkauf weiterzuleiten. So, die fünf im Detail einmal kurz angeguckt.
+
+(0:01:10 - 0:01:20)
+Erst mal den Switch. Da sage ich nur dazu, dass der für die Datenverteilung zuständig ist. In einem anderen Brainday haben wir das noch mal viel genauer gemacht.
+
+(0:01:20 - 0:01:29)
+Da haben wir uns ja auch angeguckt, wie man den parametriert. Also der Switch ist ein relativ mächtiges Tool. Da kann man sehr viele Detail-Einstellungen vornehmen.
+
+(0:01:29 - 0:01:42)
+Aber für heute, für das physische Design reicht es zu verstehen, dass dieser Switch die Daten verteilt. Also er nimmt sie sowohl an als auch ab. Er sendet sie weiter.
+
+(0:01:43 - 0:01:58)
+Und dann hat er im Grunde eine zweite Aufgabe, die damit irgendwie zusammenhängt. Aber ich habe sie extra noch mal dargestellt. Da setzt das LWL-Signal, also das Glasfaser-Signal, also den Lichtimpuls setzt er um in ein Ethernet-Signal.
+
+(0:02:00 - 0:02:07)
+So, dafür hat er Anschlüsse. Die zeige ich auch gleich noch mal genauer. Aber erst mal hier schon mal das TX und das RX.
+
+(0:02:07 - 0:02:17)
+Sieht man später auch noch mal im Detail. Aber das bitte jetzt schon mal merken. Also da, wo der Glasfaser-Anschluss ist von so einem Switch, da gibt es immer zwei Buchsen.
+
+(0:02:17 - 0:02:25)
+Einmal die TX, die steht für Transmit und einmal das RX für Receive. Warum das so ist, sehen wir später noch. Aber das kann man sich jetzt schon mal mitnehmen.
+
+(0:02:25 - 0:02:31)
+Da kommt sehr schnell ein Dreher rein. Da kann man auch schnell mal was vergessen. Also der LWL-Anschluss am Switch hat immer zwei Buchsen.
+
+(0:02:33 - 0:02:45)
+Da sind sie auch schon. Jetzt haben wir es uns mal ein bisschen genauer angeguckt. Also in dem Fall hätten wir jetzt zwei Anschlussstellen für ein LWL-Kabel, die 7 und die 8. Und die haben jeweils ein TX und ein RX.
+
+(0:02:45 - 0:02:52)
+Deswegen sieht das so aus, als wären das vier Buchsen. Vier Eingänge ist nicht so. Es sind physisch gesehen vier.
+
+(0:02:52 - 0:03:01)
+Das ist richtig. Warum, sieht man ja später. Aber im Grunde ist jeder Port doppelt ausgeführt, weil er eben ein Transmit- und ein Receive-Signal bekommt.
+
+(0:03:02 - 0:03:16)
+Das heißt, wenn man das jetzt hier sieht in unserem Beispiel, sieht man vier Buchsen. Es sind aber nur zwei Anschlussstellen für zwei LWL-Signale möglich. Da müssen dann die sogenannten SFP-Module rein.
+
+(0:03:16 - 0:03:22)
+Das sehen wir auch gleich noch mal ein bisschen im Detail. Aber dann habe ich es schon mal genannt. Also das war ja die fünfte Komponente, die ich da in meiner Übersicht hatte.
+
+(0:03:23 - 0:03:27)
+Und jetzt zoome ich da mal hoch an dem Switch. Da sieht man auch Eingänge. Die sehen aber ein bisschen anders aus.
+
+(0:03:28 - 0:03:38)
+So und das wären jetzt die LAN-Ports. Da haben wir dann das LWL-Signal ja schon übersetzt. Das ist sozusagen unten geht das Licht rein und oben geht das dann in Digital-Technik wieder raus.
+
+(0:03:39 - 0:03:48)
+Also dazwischen wäre jetzt die Übersetzung schon gewesen. Und da steckt man dann irgendwie so ein LAN-Kabel rein und dann könnte es zum Beispiel weitergehen zum Parkregler. Den gucken wir uns heute nicht an.
+
+(0:03:48 - 0:04:02)
+Das war in einem anderen Brain Day das Thema. Also das ist der Switch, sozusagen das Ende oder der Anfang von unserem Glasfasernetzwerk-Design. Jetzt kommt als zweites das SFP-Modul.
+
+(0:04:03 - 0:04:21)
+Und weil man das eben da reinsteckt, nehme ich den Switch gleich mit in meine Animation. Was macht dieses SFP-Modul? Also das generiert sozusagen den Lichtimpuls und sendet und empfängt diesen. Das ist genau dieses Transmit und Receive.
+
+(0:04:21 - 0:04:38)
+Und das sehen wir später auch noch mal im Datenblatt von diesem Modul. Gibt es dann verschiedene Sendeleistungen? Also da muss man dann darauf achten, dass das Modul erstens der richtige Typ ist, damit das da überhaupt physisch reinpasst. Auch dass es passt zu Single-Mode oder Multi-Mode-Glasfaserkabel.
+
+(0:04:38 - 0:04:51)
+Aber eben auch, dass es für die Anlagentopologie richtig ausgewählte Sendeleistungen hat. Sehen wir später noch mal im Detail in so einem Datenblatt. Aber da kommen also die Lichtimpulse raus.
+
+(0:04:51 - 0:04:57)
+Das kann man sich vielleicht merken. Nicht aus dem Switch, sondern hier aus diesem Modul. Und deswegen ist das auch ganz wichtig.
+
+(0:04:58 - 0:05:06)
+Also das hat verschiedene Reichweiten. Das ist eben dann abhängig von dieser Sendeleistung. Und es gibt verschiedene Typen.
+
+(0:05:06 - 0:05:17)
+Das wäre dann einmal LR, so heißt das, Long Range. Und das ist dann für Single-Mode der richtige Typ. Und dann gibt es noch den für Multi-Mode, der heißt dann SR, Short Range.
+
+(0:05:18 - 0:05:40)
+Hat man im anderen Brainday auch gesagt, wenn man davon ausgeht, dass man sowieso alles relativ lange Strecken hat, würde man immer Single-Mode nutzen. Und dann muss man jetzt hier eben auch aufpassen, dass man das richtige Modul besorgt. Und zwar eben nicht nur in der physischen Anwendung, also nicht nur die Größe, sonst passt es gar nicht rein in diese Buchse, sondern es muss dann eben auch der richtige Typ sein.
+
+(0:05:41 - 0:06:00)
+Beispiel jetzt zum Beispiel für Single-Mode, wenn es sich um ein Single-Mode Kabel handelt. So, und dann haben wir hier so ein Pfeil noch reingesetzt, weil da muss das rein. Es ist also so, wenn ich typischer Filinder finde, ich auf der Baustelle oder bei der Inbetriebnahme, wenn ich denke, ich bin soweit und kann loslegen, stelle ich fest, dass diese Module nicht gesteckt sind.
+
+(0:06:00 - 0:06:14)
+Das sieht man auch, wenn man genau hinguckt, sieht man es. Aber die Switcher an sich werden erst mal ohne diese Module ausgeliefert, weil die ja projektspezifisch designt werden müssen, spezifiziert werden müssen. Und deswegen muss die irgendjemand da noch reinstecken.
+
+(0:06:14 - 0:06:27)
+Finde ich typischer Fehler, der passiert. Also die Module bitte mit bedenken und in irgend so eine Spezifikationsliste notieren. Die sind auch relativ klein, kann also einfach mal untergehen.
+
+(0:06:27 - 0:06:42)
+Dann kommt die Splicebox, sozusagen das dritte Bauteil, auf das ich genauer eingehen möchte. Da haben wir geschrieben, dass es sich da um den Anschlusspunkt von dem LWL-Kabel handelt. Gerne noch mal in Ruhe.
+
+(0:06:42 - 0:06:50)
+LWL steht für Lichtwellenleiter. Wir haben es dann jetzt ab sofort abgekürzt, damit man sich da ein bisschen mehr Platz spart. Also LWL-Lichtwellenleiter.
+
+(0:06:51 - 0:07:13)
+Dieses Kabel wird in eine Splicebox gesteckt und vielleicht auch erwähnenswert, gerade gegenüber dem Switch und dem Modul ist das ein passives Bauteil. Also das ist einfach nur eine Blechbox, wenn man so will, in die man das Kabel einführt und dann die einzelnen Glasfasern auflegt. Da gibt es auch wieder verschiedene Typen.
+
+(0:07:13 - 0:07:19)
+Und das Wichtigste für heute ist, dass es LC-Ports gibt. Da zoomen wir mal rein. So sehen die aus.
+
+(0:07:19 - 0:07:44)
+Also unser Beispiel, das wir uns gebaut haben, ist jetzt ein LC-Buchsen-Typ Die sehen so aus, das sind so kleine Buchsen. Und prinzipiell, das zeigen wir jetzt nicht, ich habe es nur aufgeschrieben, gibt es aber auch SC, die sehen anders aus, die sind größer. Und wenn man jetzt die falschen Patch-Kabel, nehme ich das mal vorweg, die stecken wir ja dann da drauf.
+
+(0:07:44 - 0:08:08)
+Wenn man da jetzt den anderen Typ bestellt hat oder weil man sich keine Gedanken, kein Design gemacht hat, per Zufall irgendjemand was vorbeibringt, dann passen die vielleicht einfach nicht. Da ist für mich wichtig zu erwähnen, dass so ein Splice, also so ein Anschluss einer Glasfaser an diese Box immer zu einer Dämpfung führt. Das sieht man im Brainday von unseren LWL-Kabelprüfungen sehr schön.
+
+(0:08:08 - 0:08:20)
+Heute haben wir das auch noch mal aufgegriffen und zeigen es später auch noch mal eben jetzt in einem praktischen Design-Anwendung. Aber das bitte merken. Also so ein Splice-Anschluss hier hat eine Dämpfung 0,8 Dezibel.
+
+(0:08:20 - 0:08:42)
+Das kann man sich ja mal merken für so eine Abschätzung, wie viele Stationen man denn dann überhaupt in Reihe setzen kann, weil, wie gesagt, jeder Anschlusspunkt eine von diesen 0,8 Dezibel Dämpfungen mit sich führt. So, jetzt drehen wir unsere Splice-Box mal und nehmen sozusagen den Deckel ab. Wenn man so will, dann kann man da mal reingucken.
+
+(0:08:42 - 0:08:54)
+So sieht das dann aus. Also diese diese Fasern, die man da sieht, sind gebündelt in einem Lichtwellenkabel. Und hier ist dann natürlich der Mantel abgenommen.
+
+(0:08:54 - 0:09:04)
+Und jetzt sieht man hier die ganzen Fasern. Die haben Farben und die haben sie nicht zufällig, sondern die haben wir hier noch mal reingenommen. Das ist ein Code, der in einer Norm definiert ist.
+
+(0:09:05 - 0:09:14)
+Ich habe mir zumindest gemerkt, dass Rot immer die erste Faser ist und Grün die zweite. Das ist auf jeder Baustelle so. Muss man ja jetzt nicht immer selber prüfen.
+
+(0:09:14 - 0:09:32)
+Aber wenn man es im Plan, das werden wir ja heute machen, darstellen will, welche Faser auf welches Bauteil geht, dann muss man diesen Code kennen. Man muss ihm auch folgen, weil der Installateur auf der Baustelle wird das auch tun. Und dann muss Plan und Norm übereinstimmen.
+
+(0:09:33 - 0:09:41)
+Sonst kommt auf jeden Fall irgendwo ein Dreher rein. Genau. Und da man sich jetzt nicht unbedingt zwölf Farben merken muss, mache ich das mit den ersten ein, zwei oder drei.
+
+(0:09:41 - 0:09:56)
+Dann hat man ja schon gleich die Logik begriffen und dann werden die anderen schon auch stimmen. Und wenn wir jetzt nochmal unsere Splicebox drehen und wieder zubauen, dann kann ich jetzt einmal hier oben den roten Anschlusspunkt zeigen. Der wäre dann also da oben.
+
+(0:09:56 - 0:10:10)
+Das wäre die eins, also wenn man so will, A und dann erste Reihe sozusagen. Also A1, da wäre dann die rote Faser angeschlossen und die anderen, das mache ich jetzt nicht einzeln, sondern das habe ich sie alle gleichzeitig reingeschoben. Die sind dann so verteilt.
+
+(0:10:10 - 0:10:32)
+Das ist, wie gesagt, wichtig für denjenigen, der das Glasfaserkabel anschließen soll und dann aber auch für denjenigen, der jetzt ab hier weitermacht, weil da steckt man also die Patchkabel drauf und dann muss man ja die richtige Stelle treffen. Und die richtige ist also die, die auch derjenige sich überlegt hat, der die Glasfaser gesplasht hat. Gut, das war die Splicebox.
+
+(0:10:32 - 0:10:52)
+Jetzt kommen noch unsere Patchkabel. Die haben wir uns auch schon mal sehr ausführlich in einem anderen Rainday angeguckt, deswegen hier nur als kurze Wiederholung. Die dienen zum einen als Verbindungsbauteile zwischen dem Switch, den wir ja schon gesehen haben und der Splicebox, die wir jetzt gerade gesehen haben.
+
+(0:10:53 - 0:11:06)
+Und das kann aber auch sein, dass man eine Brücke baut zwischen einer Splicebox und einer zweiten Splicebox. Warum man das machen könnte, das zeigen wir später im Design. Ich glaube, Level 1 ist es schon.
+
+(0:11:07 - 0:11:12)
+Da wird man das dann sehen. Beide Anwendungsmöglichkeiten. Also an der Stelle einfach mal merken.
+
+(0:11:12 - 0:11:30)
+Es ist sowohl die Verbindung zwischen dem Switch und der Splicebox als auch zwischen zwei verschiedenen Spliceboxen möglich. So ein Patchkabel, auch eine Dämpfung, die gehen wir heute nicht weiter ein, sondern nur die von dem Lichtwellenkabel. Das macht aber nichts vom Grundsatz kann man sich vorstellen.
+
+(0:11:30 - 0:11:46)
+Jeder Stecker, jeder Splice führt zu einer Dämpfung und dann muss man sich sozusagen die Auswirkungen von so einer Gesamtsystem eben genauer angucken. Da gibt es zwei verschiedene Typen. Einmal den SC, nennt sich Standard-Connector.
+
+(0:11:46 - 0:11:50)
+Kann man sich vielleicht ganz gut merken. Haben wir hier mal reingezoomt. So sieht der aus.
+
+(0:11:50 - 0:12:01)
+Und jetzt zeige ich ja auch gleich den SC-Typ. Aber man kann sich schon mal merken, das ist sozusagen der große. Und wenn wir uns jetzt den anderen angucken, dann ist der ein bisschen kleiner und der ist auch ein bisschen anders aufgebaut.
+
+(0:12:01 - 0:12:26)
+Also wer dann schon mal beide irgendwie in der Hand hatte und sich genau das einfach mal genauer angeguckt hat, wie man so ein Ding da reinsteckt in so eine Splicebox, der weiß dann auch in Zukunft immer gleich, der Große oder der Kleine, der sieht das mit einem Blick, dass er meinetwegen den Falschen in der Hand hat. Also das merken die Patchkabel gibt es. Es gibt noch andere Varianten, aber das sind die ganzen, das sind die zwei Großen.
+
+(0:12:26 - 0:12:41)
+Das sind die einzigen, auf die wir auch eingehen wollen und die einzigen, die wir nutzen, einmal SC und einmal LC. Und die müssen eben passen zur Splicebox und zum Switch. Sonst kann man sozusagen erst mal wieder nach Hause fahren und die Bestellung neu aufgeben.
+
+(0:12:42 - 0:13:06)
+Der vierte Punkt hier bei dem Patchkabel ist ein ganz wichtiger, auf den gehen wir im Design dann auch ganz genau ein. Also bitte jetzt schon mal zuhören, damit es dann später ein bisschen einfacher fällt. Diese Patchkabel werden standardisiert ausgeliefert und zwar so, dass man kann es hier sehen, einmal ein blaues Kabel, das da hinten raus geht und einmal ein weißes.
+
+(0:13:06 - 0:13:24)
+Das sind also immer zwei, immer ein Adam Team, das in einem Patchkabel zusammen ausgeliefert wird. Das liegt eben daran, dass bei diesem Duplex System, werden wir später auch noch sehen, es immer dieses Transceive und dieses Transmit und das Receive Signal gibt. Das sind also immer zwei.
+
+(0:13:24 - 0:13:37)
+Und deswegen werden sinnhafterweise diese Patchkabel auch schon immer im Duo ausgeliefert. Jetzt in unserem Beispiel ist der eine blau und der andere weiß. Und jetzt ist es so, im Design kommt das noch mal ganz deutlich raus.
+
+(0:13:37 - 0:13:55)
+Aber es ist so, dass man immer von dem Transmit Signal des Switches auf das Receive Signal des anderen Switches gehen muss. Man muss also kreuzen. Und weil die Kabel immer alle gleich ausgeliefert werden, sind sie extra so gebaut, dass man die Stecker öffnen kann.
+
+(0:13:55 - 0:14:02)
+Ich mache das mal ein Beispiel. Das geht. Also man kann vor Ort sozusagen diesen Stecker, der hat meistens so eine kleine Verriegelung, die kann man hochheben, den Stecker abnehmen.
+
+(0:14:03 - 0:14:08)
+Keine Angst haben, ein bisschen vorsichtig sein würde ich schon. Lichtwellenleiter ist sensibel, aber es geht. Dafür ist es ja gebaut.
+
+(0:14:09 - 0:14:28)
+Und wenn man jetzt eben eine Kreuzung bauen muss, weil das das Netzwerk so vorsieht, dann kann man die zwei jetzt in der Hand drehen und den Stecker wieder drauf klippen. Und jetzt hat man sozusagen ein Patchkabel gebaut mit einer Kreuzung. Und so würde man das dann auch machen.
+
+(0:14:28 - 0:14:34)
+Also je nach Design. Ich sage jetzt mal ein Beispiel. Man braucht zehn Patchkabel und man weiß, vier davon müssen gekreuzt werden.
+
+(0:14:35 - 0:14:48)
+Dann kann man das genauso machen. Also die Patchkabel selbst werden alle im gleichen Auslieferungszustand sozusagen entgegengenommen. Und dann muss eben der Monteur vor Ort genauso die Kreuzungen bauen.
+
+(0:14:49 - 0:15:01)
+Das haben wir Fasern-Tausch genannt. In dem Design, das wir ja jetzt gleich zusammenbauen, ist das eine einfache Linie, die sich einfach irgendwo kreuzt. Aber in Realität ist es so, wie wir es jetzt gezeigt haben.
+
+(0:15:01 - 0:15:10)
+Stecker ab, drehen, Stecker wieder drauf. So, das war das Patchkabel. Und jetzt kommt die letzte Komponente, das LWL-Kabel.
+
+(0:15:12 - 0:15:22)
+Das schauen wir uns auch noch mal kurz mit vier Bullet Points an. Also das ist jetzt die Verbindung von einer Station zur nächsten Station. Dann haben wir auch hier eine Dämpfung.
+
+(0:15:22 - 0:15:39)
+Die ist dann immer pro Kilometer angegeben. Wie schon gesagt, Single Mode ist für längere Strecken geeignet. Und das nehme ich mal vorweg, wenn man das nimmt, das Single Mode, dann funktionieren auch alle unsere Parks, die wir so bauen, weil die Kilometeranzahlen und die Dämpfung dann ausreichend sind.
+
+(0:15:39 - 0:15:52)
+Aber nichtsdestotrotz schauen wir uns die Zahlen später noch mal an. Also sowohl die Splicebox als auch das Patchkabel als auch die Lichtwellenleiter selbst haben eine Dämpfung. Das muss man beim Design beachten.
+
+(0:15:55 - 0:16:17)
+So, und dann hat so ein Glasfaserkabel eine bestimmte Fasernanzahl. Das sieht man im Datenblatt wie viele. Aber wenn wir auch noch sehen in dem Design, dass man eben aufbaut, kann es sein, je nachdem, wie komplex das Ganze wird, dass man mehr Fasern braucht, als man vielleicht erst mal dachte.
+
+(0:16:17 - 0:16:32)
+Und dann muss man dementsprechend natürlich das Glasfaserkabel spezifizieren. Sonst steht man am Ende da und hat sich dann eine komplexe Logik überlegt, kann die aber nicht ausführen, weil nicht genügend Fasern vorhanden sind. Also Anzahl der Fasern ist ein wichtiger Punkt.
+
+(0:16:33 - 0:16:41)
+Und dann gibt es zwei verschiedene Typen. Den Single Mode zeigen wir hier einmal mit einer Faser jetzt in unserem Beispiel. Und dann gibt es den Multi Mode.
+
+(0:16:42 - 0:16:49)
+Der hat jetzt in unserem Beispiel auch eine Faser, aber dann hat man noch mal den Unterschied gesehen. Rein physisch. Diese Multi Mode Fasern, die sind dicker.
+
+(0:16:50 - 0:17:02)
+Steht ja neun Mikrometer gegenüber 50 Mikrometer. Und dann kann man sich besser mal vorstellen, was der Unterschied ist. Aber fürs Design ist das erst mal nur wichtig, ob man Single Mode oder Multi Mode verwendet.
+
+(0:17:05 - 0:17:22)
+So, das waren die ursprünglich mal fünf Komponenten. Den Transsiver, das Modul haben wir jetzt rausgelassen, weil jetzt im letzten Schritt von dem Kapitel will ich noch mal zeigen, wie man diese Komponenten zusammensteckt. Und da lassen wir das Modul weg, weil das tun wir so, als wäre jetzt schon im Switch drin.
+
+(0:17:23 - 0:17:35)
+Jetzt nehmen wir einen Switch und eine Splicebox. Und jetzt hat das vielleicht jeder, der aufmerksam ist, sowieso schon im Kopf gemacht, was ich jetzt als Nächstes mache, nämlich das Patchkabel stecken. So würde das funktionieren.
+
+(0:17:35 - 0:17:46)
+Beim Switch im unteren Bereich waren die Eingänge für die LWL Patchkabel. Dann haben wir das jetzt da drauf gesteckt. Zack, das ist ein SC Stecker, das haben wir absichtlich so gemacht.
+
+(0:17:46 - 0:17:54)
+Also jetzt sieht man beides. Auf der Seite ist ein SC und bei der Splicebox auf der anderen Seite ist es ein LC. Man sieht es schon, das ist ein bisschen kleiner.
+
+(0:17:55 - 0:18:00)
+Und dann hätte man da jetzt in die Fasern eins und zwei. Erinnert euch, das war rot und grün. Da würde man das drauf patchen.
+
+(0:18:01 - 0:18:16)
+Was auch noch wichtig ist, ist, dass man jetzt im Hinterkopf behält, dass diese gelbe Linie, das sind also zwei Fasern, das hatte ich schon gesagt. Das ist immer Transmit und Receive. Das sieht man jetzt hier nicht so gut, aber man sieht es an den Anschlusspunkten.
+
+(0:18:16 - 0:18:32)
+Da ist der eine weiß markiert und der andere blau. Und jetzt kann man sich hier schon mal merken, dass es wichtig ist, dass der weiße auf RX geht und dass der dann oben auf die A1 geht. Diese Zuordnung ist wichtig, wenn in meinem Plan es jetzt eben andersrum wäre.
+
+(0:18:32 - 0:18:47)
+Also der weiße, das RX muss auf A2. Dann ziehe ich sofort wieder den Stecker raus, drehe auf einer Seite und dann habe ich wieder die Zuordnung richtig. So, dann stecke ich hier mal meinen LWL Kabel rein in die Splicebox und zoome dann so ein bisschen.
+
+(0:18:47 - 0:19:04)
+Da kam also jetzt der Monteur und hat den Splice aufgelegt. Jetzt habe ich ja dann schon mal eine ganze Strecke geschafft. Das LWL Kabel startet jetzt in der Trafo Station 1 in unserem Beispiel und jetzt ziehen wir das rüber in die Trafo Station 2. Die kann ja jetzt meinetwegen Kilometer entfernt sein.
+
+(0:19:04 - 0:19:16)
+Kein Problem für so einen Lichtimpuls. Und in der Trafo Station 2 sieht es wieder genauso aus wie in der 1. Nur spiegelverkehrt. Das Lichtwellenleiter Kabel geht in die Splicebox, dann kommt das Patch Kabel und dann sind wir auf dem Switch.
+
+(0:19:17 - 0:19:31)
+Nicht vergessen, diese fünfte Komponente, das Modul, das ist schon im Switch drin. Also jetzt sehen wir hier das erste Mal so eine vollständige Netzwerktopologie Lichtwellenleiter. Die einfachste, glaube ich, die man sich vorstellen kann.
+
+(0:19:31 - 0:19:44)
+Aber so würde das aussehen, euer Design im 3D Modell. Und das übersetzen wir jetzt dann gleich im nächsten Kapitel in einen schönen Plan. Aber jetzt hier an der Stelle schon mal visuell finde ich gut aufbereitet.
+
+(0:19:44 - 0:19:53)
+Was ist eigentlich das Ziel? Also wir haben jetzt zwei Switche miteinander verbunden. Das sind ja die cleveren Bauteile in den Stationen. Und jetzt können die miteinander kommunizieren.

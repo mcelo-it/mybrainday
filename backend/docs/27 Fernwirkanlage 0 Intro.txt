@@ -1,0 +1,32 @@
+(0:00:00 - 0:00:12)
+Hallo und herzlich willkommen zum heutigen Brain Day. Heute geht es um das Thema Fernwirkanlage. Wir gucken uns gleich mal die Übersicht an, was wir heute so vorhaben.
+
+(0:00:12 - 0:00:33)
+Und wie gewohnt starten wir mit der Frage, warum brauchen wir überhaupt eine Fernwirkanlage. Ich nehme das gleich mal vorweg, dass für uns dieses Wording sehr klar definiert ist, was genau eigentlich eine Fernwirkanlage beinhaltet. Ich sage mal vorab, wir differenzieren das gegenüber der Parkregelung.
+
+(0:00:33 - 0:00:44)
+Das ist für uns also tatsächlich eine klare Unterscheidung zwischen der Fernwirkanlage und der Parkregelung. Heute geht es um die Fernwirkanlage. Für die Parkregelung gibt es nochmal einen separaten Brain Day.
+
+(0:00:44 - 0:00:56)
+Das gehört natürlich zusammen. Da gibt es natürlich ganz viele Schnittstellen, die wir uns heute auch teilweise angucken. Aber der Fokus, der ist auf dem ersten Teil in dieser Prozesskette auf der Fernwirkanlage.
+
+(0:00:56 - 0:01:18)
+Warum man die braucht, das schauen wir uns im ersten Teil ein, damit es dann motiviert weitergeht. In dem zweiten Teil haben wir einen Ablaufplan aufgeschrieben. Das ist gedacht als chronologischer Fahrplan, als chronologischer Hinweis, wie sowas zeitlich einzuordnen ist in so ein Gesamtprojekt.
+
+(0:01:18 - 0:01:41)
+Darin sehen wir dann auch ein typisches Parkregelschema. Das zeigen wir darin auch, ist aber eher ein Bestandteil von dem Brain Day Parkregel. Wie auch immer, nachdem man den Ablaufplan verstanden hat, also wie eigentlich so eine Fernwirkan-Technik wann, wo eingesetzt und getestet werden muss, unterbrechen wir das Ganze mit einer hoffentlich wieder spannenden 360-Grad-Tour.
+
+(0:01:42 - 0:01:58)
+Ich zeige euch so einen typischen Aufbau von so einer Technik in einer Übergabestation. Ihr beantwortet dann bitte auch ein paar Fragen und zeigt, dass ihr euch schon ganz einfach zurechtfindet auf so einer Anlage. Wir gucken uns dann die Datenpunktliste an.
+
+(0:01:58 - 0:02:07)
+Das ist der Kernbestandteil von so einer Fernwirk-Technik. Den gucken wir uns ganz detailliert an. Wir gehen eine ganze Datenpunktliste durch.
+
+(0:02:07 - 0:02:30)
+Das ist auch wirklich der zeitlich überwiegende Teil heute. Der macht aber, glaube ich, Sinn, weil man da ganz viele Informationen rausnehmen kann, wie eigentlich so eine Fernwirk-Technik funktioniert, wie die getestet wird und was eigentlich die einzelnen Datenpunkte, die darin vorkommen, überhaupt bedeuten. Am Ende haben wir dann einen Live-Versuchsstand heute hier wieder aufgebaut.
+
+(0:02:30 - 0:02:41)
+Wir können es also hier darstellen, als wären wir vor Ort bei einer Übergabestation. Wir haben hier ein Gateway von einem Netzbetreiber. Wir haben ein Gateway von der PV-Anlage.
+
+(0:02:41 - 0:02:51)
+Dann machen wir da mal ein paar Live-Versuchsstände. Ihr könnt da mitmachen. Ihr schaut einfach zu und habt dann hoffentlich so ein bisschen das Gefühl, als wärt ihr bei so einem richtigen BIT-Test mit vor Ort dabei.

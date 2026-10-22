@@ -1,0 +1,53 @@
+(0:00:00 - 0:00:15)
+Und jetzt kommt noch ein Kapitel, das Datenblatt, und danach machen wir auch die Pause. So, also ein Datenblatt. Wir gucken uns auch nur das Datenblatt vom LWL-Kabel an, halten das auch relativ kurz.
+
+(0:00:15 - 0:00:28)
+Wollen einfach nur zwei, drei Punkte mal rauszeigen, die wir für wichtig erachten. Und haben uns einfach mal einen Typen rausgesucht, einen Kabeltypen. Und wir würden mal starten mit der Dämpfung.
+
+(0:00:28 - 0:00:41)
+Die Dämpfung, zumindest auf diesem Datenblatt, ist hier erstmal angegeben. Wir hatten eben 0,4 dB pro Kilometer gesagt. Hier steht sogar kleiner, gleich 0,35 dB pro Kilometer.
+
+(0:00:41 - 0:00:53)
+Das ist erstmal ein guter Wert. Und dieser Wert ist dann auch noch abhängig von der Wellenlänge, die man dann eben durch dieses Kabel schickt. Also bei 1310 Nanometer haben wir eben diese Dämpfung.
+
+(0:00:53 - 0:01:09)
+Wird die Wellenlänge höher, wird die Dämpfung noch geringer. Kann man mal so festhalten, muss man jetzt aber auch als Planer so im Detail, denke ich, gar nicht wissen und verstehen. Aber dass man es mal gehört hat, ist, denke ich, glaube ich, hier sehr wichtig, sehr gut.
+
+(0:01:10 - 0:01:28)
+Jetzt kommen wir zum Aufbau des Kabels und da schauen wir uns das mal wirklich im Detail an. Genau diesen Code, den wir am Anfang in der Kapitel-Norm ja schon mal beschrieben hatten. Also hier geht es jetzt um einen Code nach DIN VDE 088 Teil 100 Lichtwellenleiter-Kennzeichnung.
+
+(0:01:28 - 0:01:40)
+So heißt das Ganze und den Code seht ihr jetzt oben auch in der Bezeichnung. Der startet mit einem A und das A, das hat natürlich nach unserem Code jetzt eben genau diese Bezeichnung. Das A steht erstmal dafür, dass es ein Außenkabel ist.
+
+(0:01:41 - 0:01:58)
+Das heißt, es ist für die Außenverlegung geeignet. Das ist für unsere Solarparks, zumindest für die Freiflächenanlagen immer wichtig. Außenverlegung, klar, gar keine Frage, kommen wir nicht drum rum, deshalb brauchen wir hier ein A. Es gäbe aber auch ein J, das wäre dann ein Innenkabel oder ein U für ein Universalkabel.
+
+(0:01:59 - 0:02:12)
+Also ich nehme A, Außenkabel, das ist für meine Freiflächen erstmal das Richtige. Bin ich innen, kann ich auch ein J nehmen. Dann kommt das D und das D steht eben für Bündelader, das heißt, ich habe hier mehrere Adern drin.
+
+(0:02:12 - 0:02:27)
+Jetzt gibt es aber auch noch Bündeladern ungefüllt, jetzt gibt es noch ein V für Vollader. Also gibt es noch viele, viele verschiedene, das sind ja immer nur so ein paar, die wir rausgesucht haben. Dass ihr jetzt nochmal andere Buchstaben seht, was da vielleicht noch hinterstecken kann, haben wir euch das hier aufgeführt.
+
+(0:02:27 - 0:02:47)
+Und wir springen gleich weiter zum Q und das Q steht für das Quellmaterial, was sich dann eben in diesem Kabel befindet. Dann gibt es auch noch B für Bewährung oder W für Stahlwellenmantel. Könnte man eben genau an dieser Stelle von dem Code, an der dritten Stelle könnte man eben auch diese Buchstaben wählen, um eben anderes Kabel zu bekommen.
+
+(0:02:48 - 0:03:06)
+ZN, Zugentlastung nicht metallisch. Ich glaube, da gibt es dann Kohlefaserfasern, die man dann eben noch mit reinzieht in diese Kabel, die dann eben den Zug, die Zugbelastung aufnehmen, wenn man das Kabel mal durch ein Leerrohr ziehen oder blasen muss. Das ist dann eben, dass der Glaskern geschützt bleibt.
+
+(0:03:08 - 0:03:22)
+Zusätzlich gäbe es dann auch noch ZS, das wäre dann mit Metall drin wahrscheinlich im Kabel. Eine metallische Zugentlastung. Und dann kommen wir gleich zu B2Y, das ist dann der nächste Punkt in unserem Code.
+
+(0:03:22 - 0:03:36)
+B steht erstmal für Bewährung, 2Y für einen PE-Mantel. So ist das Kabel daneben aufgebaut und es würde auch 4Y geben. Das wäre dann ein PA-Mantel, Polyamid oder 11Y PUR-Mantel.
+
+(0:03:36 - 0:03:50)
+Das kann ich ehrlich gesagt gar nicht genau erklären, was das ist, was dahinter steckt. Aber es gäbe diese Option gemäß der Norm, dass man das Kabel auch mit diesen Manteltypen bestellt. Für uns ist das B2Y der Mantel der Wahl.
+
+(0:03:52 - 0:04:09)
+Jetzt kommen noch 11 mal 12 und das steht für die Faseranzahl. 11 mal 12 Fasern, ja genau, ich denke, das erklärt sich von selbst. Wir haben hier in dem Kabel einfach 12 Fasern und jetzt kommt noch die Bezeichnung G652D.
+
+(0:04:09 - 0:04:31)
+Und das steht dann eben für die Moden oder für den Mode, den wir hier haben. Das ist in dem Fall ein Single-Mode-Kabel und entsprechend hat man dann gute Dämpfungswerte und einen entsprechenden Kerndurchmesser von 9 µm. Dann kommt noch die Zugbelastbarkeit des Kabels.
+
+(0:04:32 - 0:04:48)
+Geben wir immer gerne mit an oder geben wir zumindest immer gerne vor, damit es da eben beim Ziehen der Kabel auf der Baustelle oder beim Einblasen oder wann auch immer keine Schäden durch zu hohe Zugbelastung am Kabel gibt, weil dadurch zerstört man natürlich das Kabel auf großen Strecken.

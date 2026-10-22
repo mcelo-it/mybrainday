@@ -1,0 +1,232 @@
+(0:00:00 - 0:00:20)
+Wir springen jetzt in unseren ersten Oberblock, also in den ersten Oberpunkt, das ist die serielle Kommunikation. Wir erklären erstmal grundsätzlich, wie so eine serielle Kommunikation aufgebaut wird und später kommen wir dann in diesem Kapitel auch zu den einzelnen Protokollen. Also wir legen da einfach mal los.
+
+(0:00:21 - 0:00:46)
+Hier nochmal als Übersicht, wir sind im oberen Bereich. Die serielle Schnittstelle seht ihr links, die Protokolle, die dazu gehören, horizontal dazu und später kommen wir zu TCP und dann habt ihr eben auch die Protokolle dazu schon aufgeführt. Es geht los, oberer Bereich, RS485 dreht sich in die Überschrift, ihr könnt dem hoffentlich folgen.
+
+(0:00:46 - 0:01:06)
+Es ist die serielle Kommunikation, ganz wichtig. So eine serielle Kommunikation ist in der Regel als Master-Slave-Modell aufgebaut. Das ist erstmal wichtig zu wissen und damit man da jetzt ein gewisses Verständnis für bekommt, zeigen wir euch mal, wie das dann aussieht in der Realität.
+
+(0:01:06 - 0:01:26)
+Wir haben einen Master, zum Beispiel einen Datenlogger, vielleicht ist es auch ein Parkregler, Datenlogger ist es jetzt und der verbindet sich mit den einzelnen Slaves. Das ist erstmal grundsätzlich eine Master-Slave-Struktur, ein Master, mehrere Slaves. Der Name sagt es ja auch schon, seriell verbunden.
+
+(0:01:28 - 0:02:02)
+Für diese Verbindung nutzen wir eine Zwei-Draht-Verbindung, so haben wir das jetzt mal genannt, auch wenn das jetzt natürlich gerne diskutiert werden kann, weil Zwei-Draht stimmt jetzt nicht so richtig. Wir haben A und B, das sind die zwei Drähte, die ich meine für die Kommunikation und wir haben aber dann auch noch den Ground, also könnt ihr mich jetzt hier verbessern und sagen, es sind ja eigentlich drei Drähte, okay, dann gehe ich mit. Aber die zwei für uns entscheidenden Drähte sind jetzt erstmal A und B, das heißt unsere Daten werden über A und B übertragen und den Ground ziehen wir mit.
+
+(0:02:04 - 0:02:19)
+Am Wechselrichter sieht das dann wie folgt aus, hier haben wir das Modell Sungrow mal ausgewählt. Es gibt da sicherlich auch viele andere Hersteller, die das anders machen und vielleicht auch andere Anschlussclamp nutzen, das will ich jetzt hier vielleicht auch nochmal klar sagen. Wir sehen hier gleich ein Beispiel.
+
+(0:02:20 - 0:02:43)
+Wir hatten aber auch in der Vergangenheit schon mal einen Wechselrichterhersteller, ich weiß ehrlich gesagt gar nicht mehr, wer es war. Die haben für diese serielle Kommunikation ein Netzwerkkabel verwendet, weil sie den Stecker so schön finden. Dann werden aus dem Netzwerkstecker halt nur zwei Drähte verwendet und es bringt ganz viel Verwirrung in die ganze Geschichte, weil man eigentlich bei einer anderen Schnittstelle ist, gedanklich.
+
+(0:02:43 - 0:03:04)
+Hier ist es jetzt erstmal bei Sungrow so gemacht, wie wir es erwarten würden. Es gibt mehrere Eingänge in dem Wechselrichter und in dem Wechselrichter drin, also man führt das Datenkabel rein durch diese Eingänge und im Wechselrichter findet man dann eine Klemmleiste. Das ist oft so ein grünes, ja das grüne Modell.
+
+(0:03:04 - 0:03:32)
+Ich weiß ehrlich gesagt nicht welcher Hersteller, aber da kann man über kleine Schraubklemmen an die Anschlusspunkte A1, B1 und PE seine drei oder zwei Drähte auflegen. Beim Datenlogger haben wir es auch mal reingezoomt, ist eine andere Anschlusstechnik, aber funktioniert eben genauso gut und dort kann man eben auch die drei Drähte, sind es dann jetzt eben A, B und Ground auflegen. Die Drähte, die wir hier verbinden, sind natürlich Datenkabel.
+
+(0:03:33 - 0:03:53)
+Wir reden hier nicht von 6 Quadrat, sondern von dünnen Querschnitten. Das ist glaube ich den meisten klar und so funktioniert der Anschluss. Wenn wir dann jetzt, sage ich mal, mehr als einen Wechselrichter verbinden, und das ist ja in den meisten Fällen so gegeben, dann sieht man das hier, wird die Linie einfach weitergezogen.
+
+(0:03:54 - 0:04:22)
+Man schließt der Reihe nach, Daisy Chain heißt es glaube ich auf Englisch, in Reihe die Wechselrichter an und verbindet sie einfach durch. Das kann man dann über eine ganz lange Strecke tun, sage ich mal, und eine gewisse Anzahl von Teilnehmern auch anschließen. Nehme ich schon mal vorweg, limitiert sind wir hier meist auf 32 Geräte, wobei die Adressen ruhig auch andere Größen erreichen können, aber da kommen wir später noch mal zu.
+
+(0:04:23 - 0:04:50)
+Also sagen wir mal erstmal N Geräte, wobei die Gesamtanzahl limitiert ist und wenn wir dann diese N Geräte angeschlossen haben, dann macht es häufig noch Sinn, den Abschlusswiderstand am letzten Teilnehmer, und oft steht es im Manual auch so, dass der erste Teilnehmer, also der Master, auch nochmal einen Abschlusswiderstand bekommen soll. Guckt euch das an, wie es im Manual steht. In der Regel braucht ihr so einen Abschlusswiderstand, den schließt ihr dort an.
+
+(0:04:51 - 0:05:11)
+Manchmal geht das auch per DIP-Schalter, den zu aktivieren, und dadurch erreicht ihr eben, dass euer Datenbus hinten nicht reflektiert. Das verbessert im Grunde genommen die Kommunikation, macht das ganze System stabiler. Ich glaube, dass ich in der Vergangenheit auch schon ein paar Wechselrichterbusse ohne Abschlusswiderstand in Betrieb nehmen konnte, und es hat trotzdem funktioniert.
+
+(0:05:12 - 0:05:30)
+Aber in jedem Fall, baut ihn ein, den Abschlusswiderstand, er wird eure Kommunikation eher stabiler machen. Es wird die ganze Geschichte verbessern. So, und dann haben wir euch als Daumenwert mal 500 Meter Reichweite für so eine RS-485, für so eine serielle Kommunikation angegeben.
+
+(0:05:31 - 0:05:47)
+Das hängt natürlich auch immer ein Stück weit davon ab, wie gut ist euer Kabel, wie sauber ist das verlegt. Kreuzt ihr häufig vielleicht die AC-Leitung oder die Mittelspannungsleitung, habt ihr da magnetische Störfaktoren drauf. Und dann kommen auch noch so Faktoren rein wie Baudrate, da kommen wir später dazu.
+
+(0:05:48 - 0:05:56)
+Aber Daumenwert würde ich jetzt erst mal sagen 500 Meter. Nagelt mich nicht darauf fest. Ihr schafft bestimmt auch mehr, wenn ihr euch anstrengt, manchmal aber auch weniger.
+
+(0:06:00 - 0:06:21)
+So, dann kommen wir weiter zu dem Punkt Baudrate, den ich ja eben schon kurz genannt hatte. Die Baudrate ist für mich, na ja, ich sage mal die Redegeschwindigkeit. Also wenn wir unsere Geräte einstellen, parametrieren, dann müssen wir erstmal in jedem Fall sehen, dass die Geräte alle gleich schnell reden.
+
+(0:06:22 - 0:06:39)
+Wenn der eine zu schnell spricht und der andere gar nicht dazwischen kommt und antwortet, dann wird so eine Kommunikation nicht funktionieren. Das ist bei uns Menschen genauso. Also wenn einer mit 9600 antworten kann, also relativ langsam, und der andere aber doppelt so schnell spricht, dann habt ihr eine schlechte Basis für eine Kommunikation.
+
+(0:06:40 - 0:06:51)
+Genauso ist das in der Technik. Wir sehen häufig in unseren Parks Baudraten im Bereich 9600, 19200. Mit Bereich meine ich, das sind genau diese Zahlen.
+
+(0:06:52 - 0:07:04)
+Das verdoppelt sich jetzt nach oben hin. Und je höher die Baudrate, desto höher die Datenübertragung. Also wer schnell redet, kann mehr erzählen als einer, der langsam redet.
+
+(0:07:05 - 0:07:21)
+Das geht aber auch, ich sage mal, nie ohne Nachteile vonstatten. Weil wenn einer ganz schnell redet, dann kann das ja auch mal durchaus passieren, dass der andere nicht alles verstanden hat. Deshalb haben wir da dann tendenziell auch eher eine höhere Störungsanfälligkeit, wenn wir eben diese hohen Baudraten auswählen.
+
+(0:07:23 - 0:07:36)
+Deshalb würde ich jetzt vielleicht mal sagen, überlegt euch vielleicht vorher, recherchiert ein bisschen, was für eine Baudrate ihr denn überhaupt braucht. Ich denke mal, mit 19200 sind wir immer sehr gut gefahren. Das ist für mich eher ein Erfahrungswert als ein berechneter Wert.
+
+(0:07:36 - 0:08:07)
+Damit haben wir immer alle Werte sauber übertragen können, alle Datenmengen vor allem übertragen können und haben auch stabile Kommunikationen erreicht. Also würde es jetzt aus meiner Sicht erstmal keinen Sinn machen, diese Baudrate noch weiter zu erhöhen, weil ich erkaufe mir dann etwas Unnötiges, im Sinne von mehr Datenrate für weniger Stabilität, was natürlich dann am Ende das eine bringt uns nicht viel mehr Positives und das andere wäre natürlich sehr negativ. Also machen wir das nicht.
+
+(0:08:10 - 0:08:21)
+Vielleicht noch einen letzten Punkt für die Leute, die mal mit RS-232 gearbeitet haben. Wir wollten es nur nochmal erwähnen. Ich persönlich kenne das aus den Schutzrelais.
+
+(0:08:21 - 0:08:34)
+Die sind ja technologisch, was so Schnittstellen betrifft, oft ein bisschen hintendran. Es dauert immer ein bisschen, bis die da mal neue Schnittstellen implementieren. Eine USB-C Schnittstelle wird es da wahrscheinlich erst in 20 Jahren geben.
+
+(0:08:35 - 0:08:46)
+Aber deshalb sehe ich bei Schutzgeräten ab und zu noch mal RS-232 bei den älteren Versionen. Wir in Solarparks, wenn wir neue Anlagen bauen, verwenden das nicht mehr. Die Reichweite ist gering.
+
+(0:08:46 - 0:08:53)
+Es ist einfach ein veraltetes System. Und soweit ich weiß, kann man da auch nur ein Gerät mit einem anderen verbinden. Deshalb RS-232.
+
+(0:08:53 - 0:09:09)
+Würde ich jetzt erstmal gedanklich aus meinem Repertoire streichen, finde aber, dass es immer gut ist, davon mal gehört zu haben. Wenn einer behauptet, er baut jetzt alles mit RS-232 auf, dann liegt er wahrscheinlich nicht ganz so richtig. Oder er weiß nicht, wovon er spricht.
+
+(0:09:12 - 0:09:28)
+Das war jetzt erstmal der Startpunkt mit serieller Schnittstelle. Darum geht es, das ist der Inhalt. Jetzt bewegen wir uns in dem oberen Bereich nicht von links nach rechts, sondern von rechts nach links.
+
+(0:09:28 - 0:09:42)
+Das ist ein bisschen umgedreht, macht aber nichts. Wir gehen, abgesehen von 102, alle Protokolle Schritt für Schritt durch. Und wir starten mal mit Modbus RTU, weil ich denke, dass eure Aufnahmefähigkeit jetzt noch am größten ist.
+
+(0:09:42 - 0:09:53)
+Und das Modbus-Protokoll RTU ist das, was wir häufig sehen im Park. Oder am meisten wahrscheinlich sogar sehen. Also Modbus RTU.
+
+(0:09:54 - 0:10:04)
+Ich habe es gleich vorweggenommen, das meistgenutzte Protokoll. Das ist nun mal so, denke ich. Und wir nutzen das eben häufig in PV-Anlagen.
+
+(0:10:05 - 0:10:27)
+Das hatten wir ja eben am Anfang auch schon gesagt, weil ich denke, ein großer Vorteil ist, neben der Kosten, das kostet eben nichts, ist auch, dass es einfach umsetzbar ist. Es läuft natürlich auch stabil und es kostet nichts. Von daher ist das eben in vielen Fällen das Protokoll der Wahl, wenn es um einfache Kommunikationsanwendungen geht.
+
+(0:10:29 - 0:10:43)
+Vielleicht als eine Information nebenbei. Es gibt natürlich in der Industrie Protokolle, sowas wie Profinet oder andere, die kosten eben Geld. Deshalb setzen die sich in einem Solarpark vermutlich nicht durch.
+
+(0:10:44 - 0:10:52)
+Und die setzen auch andere Schwerpunkte, zum Beispiel Sicherheitsschwerpunkte. Da muss ein Lot aus bei einem Förderband. Der muss dann auch wirklich ausgehen.
+
+(0:10:54 - 0:11:05)
+Bei Photovoltaikanlagen sind das alles nicht so entscheidende Themen, diese Sicherheitskriterien. Deshalb werden die dann ein bisschen kleiner geschrieben in so einem Modbus-Protokoll. Aber dafür ist das Protokoll viel einfacher anzuwenden.
+
+(0:11:05 - 0:11:18)
+Man muss dann eben abwägen, was man braucht, was ist einem wie wichtig. Und bei Modbus RTU, finden wir, liegen wir bei vielen Punkten einfach sehr richtig. Und es hat sich dadurch eben oder deshalb eben durchgesetzt.
+
+(0:11:25 - 0:11:45)
+Jetzt gehen wir im Grunde genommen die gleiche Struktur für jedes Protokoll mal durch. Im ersten Punkt zeigen wir euch oder wollen wir euch mal einen kleinen Überblick geben, welche Geräte denn eigentlich mit Modbus RTU kommunizieren. Welche beherrschen das Protokoll oder für welche Geräte ist das Modbus RTU-Protokoll das Protokoll der Wahl? Das ist der Wechselrichter.
+
+(0:11:45 - 0:11:55)
+Das sehen wir sehr häufig. Viele moderne Wechselrichter können auch was anderes. Aber RS-485 Modbus RTU hat sich da an vielen Stellen durchgesetzt.
+
+(0:11:56 - 0:12:08)
+Bei GAX ist das ähnlich. Also Generator-Anschlusskästen oder String-Sammelboxen, wie auch immer ihr das Gerät nennen möchtet. Bei der Sensorik auch häufig.
+
+(0:12:09 - 0:12:25)
+Also da vielleicht noch ein kleiner Hinweis. Viele Sensoren arbeiten ja auch noch immer analog. Das haben wir jetzt hier komplett ausgeklammert, weil aus unserer Sicht ist analog so ein bisschen von gestern.
+
+(0:12:25 - 0:12:44)
+Man kann das natürlich machen. Es ist auch sehr, sehr einfach umzusetzen. Aber wenn wir unsere Parks bauen und dann drei, vier, fünf Sensoren vielleicht an einer Wetterstation kombinieren, dann ist das schon sehr sinnvoll, das Ganze über ein Protokoll zu machen und nicht eben per analoger Datenverbindung.
+
+(0:12:44 - 0:12:59)
+Deshalb analog raus, Pyranometer per Modbus RTU. Vielleicht ein kleiner Unterschied, den ich hier vorwegnehmen kann. Wenn ihr so einen Pyranometer habt, dann habt ihr nicht nur die zwei Kommunikationsleitungen, sondern ihr müsst das Pyranometer normalerweise auch mit Spannung versorgen.
+
+(0:13:00 - 0:13:06)
+Deshalb habt ihr dann ein paar Adern mehr. Also meistens 24 Volt plus minus noch dazu. Dann seid ihr bei vier Adern.
+
+(0:13:08 - 0:13:13)
+Weiter geht's. Netzanalysegerät. Ja, das kann schon mal sein, dass das per Modbus RTU kommuniziert.
+
+(0:13:16 - 0:13:26)
+Meistens nutzen wir dieses Gerät als TCP, aber da kommen wir dann später noch dazu. Hier haben wir es der Vollständigkeit halber mal mit reingenommen. Das waren die Geräte.
+
+(0:13:26 - 0:13:49)
+Der Wechselrichter bleibt stehen und wir gehen einfach mal weiter zu dem nächsten Punkt, den wir hierfür wichtig erachten bei diesen Protokollsprachen. Und das sind die Parameter. Der erste Punkt, den wir dann schon genannt haben und den wir immer brauchen für die Einstellung eines Modbus RTU Buses, ist eben die Bautrate.
+
+(0:13:49 - 0:14:03)
+Alle Geräte gleiche Bautrate, haben wir jetzt erwähnt. Machen wir so, meinetwegen 19.200. Und dann hatten wir die Modbus-ID. Das ist die Adressierung der einzelnen Geräte, genau.
+
+(0:14:04 - 0:14:16)
+Und dann kommt noch zum Schluss die Parität. Das ist an vielen Stellen wichtig, dass man da die richtige Parität einmal vorgibt den einzelnen Geräten. Da geht es um Datenpaketkontrolle.
+
+(0:14:16 - 0:14:31)
+Man legt ein Start- und Stop-Bit fest. Dann heißt das so etwas wie 8n1. Schaut da in eure Handbücher, was ihr genau braucht und tragt dann eben genau das ein in eurer Parametriermenü, was eben benötigt ist.
+
+(0:14:32 - 0:14:46)
+Wir gehen hier jetzt nicht ins Detail ein, warum man vielleicht Start- und Stop-Bits braucht, warum das even oder none ist. Das ist jetzt gar nicht so wichtig. Wir sollten nur wissen, dass es diesen Parameter im Grunde genommen gibt, diese Parität.
+
+(0:14:51 - 0:14:59)
+Dann kommt die Anzahl der Teilnehmer. Das ist, denke ich, ein wichtiger Punkt. Man kann eben an die meisten Systeme nicht unendlich Geräte anschließen.
+
+(0:14:59 - 0:15:14)
+Das ist immer schwierig. Wir sind limitiert. Und Modbus-RTU bzw. 
+
+der RS-485-Bus, der limitiert uns erst mal auf 32 Geräte. Das ist so. Das darf man jetzt vielleicht nicht verwechseln mit der Adressierung.
+
+(0:15:15 - 0:15:29)
+Wir haben bei der Adressierung einen größeren Bereich bis 254, glaube ich. Und man könnte jetzt seine Sensoren auch 73, 95 und 120 nennen. Das geht auch, aber trotzdem darf man nur 32 Stück einsetzen.
+
+(0:15:34 - 0:15:44)
+Damit sind wir jetzt erst mal bei dem Modbus-RTU-Protokoll soweit durch. Als Überblick sollte das reichen. In unseren zwei Stunden können wir leider nur an der Oberfläche kratzen.
+
+(0:15:44 - 0:15:55)
+Wir können hier nicht das Protokoll im Detail besprechen. Ist, glaube ich, auch für die meisten am Ende nicht so wirklich notwendig im alltäglichen Leben. Und wir springen jetzt mal weiter zu 101.
+
+(0:15:56 - 0:16:06)
+Und das ist dann eben dieses Protokoll zum Netzbetreiber. Also weiterhin sind wir im seriellen Bereich. Nicht den Faden verlieren.
+
+(0:16:06 - 0:16:19)
+Alles seriell, was wir hier besprechen, alles der obere Bereich unserer Struktur. 101er-Protokoll, genau. Aus der IEC-Reihe, steht ja auch in der Überschrift und ist entwickelt für elektrische Anlagen.
+
+(0:16:20 - 0:16:36)
+Ja, das ist erst mal gut zu wissen und hilft uns sicherlich dann auch, wenn es um IT-Sicherheit geht. Da sind dann viele Strukturen vorgegeben, die eben diese Systeme sicher machen. Wir kommunizieren zwischen der Netzleitstelle und dem Gateway der Photovoltaikanlage.
+
+(0:16:36 - 0:16:59)
+Das ist klasse. Ich habe es vorher schon gesagt, die Edis verwendet das immer und dadurch haben ziemlich viele Anlagen in Deutschland eben diese 101er-Schnittstelle. Auch hier gehen wir jetzt nicht in Details später, sondern ich sage mal, wenn ihr einen Parkregler irgendwo einkauft oder einen PV-Gateway, dann weiß euer Programmierer sicherlich, wie das umzusetzen ist.
+
+(0:16:59 - 0:17:31)
+Ihr sollt aber in jedem Fall wissen, wenn einer vom 101er-Protokoll spricht, dass das dann sicherlich nicht die Kommunikation zwischen Wechselrichter und Datenlogger ist, sondern dass das vermutlich immer nur an einer Stelle eingesetzt wird, nämlich zum Netzbetreiber. Dann ist dieses System in der Energietechnik seit Jahrzehnten weit verbreitet, hat sich durchgesetzt, ist bewährt. Deshalb ist die Edis damit auch unterwegs und wird das wahrscheinlich in den nächsten zwei Jahren auch nicht ändern.
+
+(0:17:33 - 0:17:56)
+Ganz wichtig, hat mir ein Programmierer gesagt, dieses Protokoll beinhaltet einen Zeitstempel. Das ist wohl ein wichtiges Feature, was Modbus nicht unbedingt mitliefert, aber das 101er-Protokoll hat das und das sei hier erst mal so erwähnt. Dann kommen wir zu den Geräten.
+
+(0:17:57 - 0:18:08)
+Ihr erinnert euch, die Struktur wiederholt sich jetzt. Wir zeigen euch jetzt Geräte, die diese 101er-Protokollsprache können. Genau, hier ist das Gateway Netzbetreiber und dann das Gateway der Photovoltaikanlage.
+
+(0:18:09 - 0:18:16)
+Die Edis nutzt genau diese SAE, das Gateway der PV-Anlage. Das kann sicherlich auch ein anderes sein. Phoenix Contact kann das auch, WAGO kann das auch.
+
+(0:18:17 - 0:18:31)
+Man kann es aber auch mit SAE machen. Diese zwei Geräte sind es genau, Netzbetreiber und unsere Photovoltaikanlage, zwischen denen jetzt dieses 101er-Protokoll läuft. Als Parameter ist das hier ein bisschen anders.
+
+(0:18:32 - 0:18:45)
+Man braucht hier eine Linkadresse, um mit diesen Geräten zu kommunizieren. Und man braucht dann später noch, genau, Identifizierung. Identifiziert die SLAVE-Station für die Weiterleitung von Nachrichten.
+
+(0:18:45 - 0:18:55)
+Und man braucht dann als nächstes noch eine gemeinsame Adresse für diese beiden Geräte. Es ist einfach anders aufgebaut. Es ist keine Modbus-ID, es sind andere Adressen.
+
+(0:18:55 - 0:19:13)
+Diese Adressen kriegt ihr vom Netzbetreiber. Der gibt das vor und ihr müsst das eben einsetzen und umsetzen und dann funktioniert dieser Datenbus in der Regel sehr, sehr zuverlässig. Die Teilnehmeranzahl, gut, RS485 begrenzt sie auf 32.
+
+(0:19:14 - 0:19:29)
+Wir, hatte ich ja vorher schon gesagt, sehen aber eigentlich immer nur einen beziehungsweise zwei Teilnehmer, also Gateway, Netzbetreiber und unser Gateway. Also hier schöpfen wir die Anzahl der Teilnehmer längst nicht aus. Das war 101.
+
+(0:19:30 - 0:19:39)
+Jetzt geht es nach rechts in diesem Streifen. 102 überspringen wir aber, weil mit Messwertübertragung haben wir nichts am Hut. Deshalb geht es als nächstes zu 103.
+
+(0:19:40 - 0:20:13)
+Und alle Leute, die, sage ich mal, mit Parkreglern, mit Datenübertragung zwischen Schutzgeräten und Leitgeräten vielleicht zu tun haben, die kennen dieses Protokoll vielleicht, weil es eben genau für diesen Zweck gedacht ist. Es kommt eben auch aus dieser IEC-Normenreihe und ist eben genau für den Einsatz in elektrischen Anlagen konzipiert. Dann gibt es, wenn wir das Ganze jetzt mal spiegeln würden, auf ein Umspannwerk, ein Umspannwerk ziemlich groß, viele, viele Schutzgeräte.
+
+(0:20:13 - 0:20:30)
+Das hat meist eine Zentraleinheit, was dann im Grunde genommen die ganzen Daten der, ich sage jetzt mal 30 Schutzgeräte, die ihr vielleicht habt, sammelt. Und das macht das Ganze dann eben über dieses 103er-Protokoll. Die Datenübertragungsrate ist dann höher als beim 101er-Protokoll.
+
+(0:20:32 - 0:20:46)
+Was jetzt programmiertechnisch da im Detail hintersteckt, das kann ich euch gar nicht so sagen. Das ist vielleicht aber auch gar nicht wichtig. Ich stelle mir das aber so vor, dass ein 101er-Protokoll einen deutlich höheren Sicherheitsaufwand betreiben muss als ein 103er-Protokoll.
+
+(0:20:47 - 0:21:03)
+Und dadurch lassen sich sicherlich bei so einer internen Kommunikation auf 103er-Ebene wahrscheinlich die Daten schneller und leichter übertragen. Da kann man jetzt sicherlich eine Universitätsvorlesung besuchen, um das genau zu hinterleuchten. Das ist erstmal vielleicht mein grobes Verständnis davon.
+
+(0:21:03 - 0:21:23)
+Und das reicht mir so in meinem täglichen Alltag auch völlig aus. Also die Geräte, Schutzrelais haben wir genannt, die kommunizieren mit dem vielleicht Feldleitgerät. Und die Parameter, die wir in diesem 103er-Protokoll brauchen, die sind dann doch schon ähnlich wie bei dem zum Beispiel 101er-Protokoll.
+
+(0:21:23 - 0:21:39)
+Also auch hier spricht man von einer Linkadresse und von einer gemeinsamen Adresse. Das sind diese zwei Zahlen, die man dann braucht und dann sollte die Kommunikation wunderbar laufen. Teilnehmeranzahl maximal 32.
+
+(0:21:39 - 0:21:51)
+Das hieße, wenn man dann diese Zahl überschreitet, dann braucht man eben ein neues Leitgerät, was dann weitere Teilnehmer, weitere Schutzgeräte aufnehmen kann.

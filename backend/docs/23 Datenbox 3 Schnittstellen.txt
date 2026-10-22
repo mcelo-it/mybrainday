@@ -1,0 +1,173 @@
+(0:00:00 - 0:00:08)
+Das sieht jetzt sehr ähnlich aus. Deswegen geht es, glaube ich, auch relativ zügig. Wir haben, wenn man so will, eine sehr gute Vorarbeit geleistet.
+
+(0:00:09 - 0:00:18)
+Wir haben trotzdem bewusst ein eigenes Kapitel daraus gemacht, weil ich finde, jetzt aus diesem Kapitel entsteht dann ein weiteres Dokument. So machen wir es zumindest. Man wird es auch am Ende sehen.
+
+(0:00:18 - 0:00:33)
+Und wir bauen es jetzt zusammen einmal auf, der Schnittstellenplan von der Datenbox. Und zwar meinetwegen ganz konkret. Über mir steht es schon, der Transformator Station 1. Also das ist jetzt ganz spezifisch, projektspezifisch, Station 1 spezifisch.
+
+(0:00:33 - 0:00:41)
+Und ich bastle einen Schnittstellenplan. Der hilft später. Also mir hilft er sowieso immer, um zu verstehen, was ich vielleicht vergessen habe.
+
+(0:00:41 - 0:00:58)
+Aber später hilft er definitiv auch bei den Installateuren, bei den Elektrikern. Sei es diejenigen, die die Datenbox im Werk in die Transferstation einbauen und verdrahten oder eben vor Ort, zumindest bei der Fehlersuche ganz am Schluss. Da hilft sie auf jeden Fall.
+
+(0:00:58 - 0:01:05)
+Also was machen wir? Wir haben ja jetzt eben unsere Box zusammengebastelt. So steht sie jetzt vor Ort. Und jetzt überlegen wir uns als allererstes.
+
+(0:01:05 - 0:01:16)
+Da sind ja zwei Spliceboxen drin. Was machen wir mit der ersten Splicebox? Wir legen ein LWL-Kabel, aber wohin? Zur Übergabestation. Ja, also so ist es ja dann schon mal.
+
+(0:01:16 - 0:01:22)
+Sehen wir auch später in der Tour. Da kommt ja einfach nur ein Kabel an. Und man weiß ja gar nicht, was mache ich jetzt damit? Ich muss erst mal wissen, wo kommt es her.
+
+(0:01:23 - 0:01:41)
+In meinem Beispiel kommt es aus der Übergabestation. Und dann sage ich in meinem Schnittstellenplan, dann nimm es bitte und setze es auf die Anschlüsse 3, 4. Das sind immer Paare von der Splicebox Nummer 1. Zeige ich euch. Nehme ich die Splicebox Nummer 1 mal raus.
+
+(0:01:42 - 0:01:47)
+Schiebe den Deckel weg. Das sieht man sonst ja immer so gar nicht. Und jetzt mache ich da einfach mal meine Verbindung rein.
+
+(0:01:47 - 0:01:54)
+Da ist sie. Sind immer Adernpaare. Das heißt, das Adernpaar 3, 4 ist sozusagen das zweite von oben.
+
+(0:01:54 - 0:02:04)
+Und da will ich, dass jetzt der Anschluss aus der Übergabestation stattfindet. Wir reden von Fasern. Und wie genau Fasern aufgelegt werden, machen wir jetzt auch nicht.
+
+(0:02:04 - 0:02:08)
+Sondern ein andermal. Aber da soll das jetzt drauf. Jetzt habe ich das gemacht.
+
+(0:02:08 - 0:02:17)
+Dann muss das natürlich durch meine Durchführung, die ich ja richtig konzipiert habe. Und dann in der Übergabestation. Achtung, das, was ihr mittig seht, ist also eine andere Station.
+
+(0:02:17 - 0:02:22)
+Und da gibt es dann ja auch eine Datenbox. Die sieht halt ein bisschen anders aus. Und die hat auch einen Schnittstellenplan.
+
+(0:02:22 - 0:02:29)
+Aber auf den gucken wir jetzt nicht. Und deswegen habe ich oben rechts bei UGS auch jetzt keine Klemmen angegeben. Das mache ich absichtlich so.
+
+(0:02:29 - 0:02:44)
+Ich konzentriere mich ja jetzt nur auf die Trafostation 1. Okay, so würde ich das machen. Das machen wir jetzt mal der Übung halber auch noch mit dem nächsten Kabel. Ja, okay, wir zählen es nochmal von unten, dass man sieht, wie man da so die Einführung nutzt.
+
+(0:02:45 - 0:02:53)
+Jetzt machen wir das mit dem nächsten Kabel. Da ist es. Splicebox Nummer 2. Weil ihr seht, wir haben ja zwei hintereinander.
+
+(0:02:53 - 0:03:00)
+Was machen wir mit der zweiten? Die geht jetzt zur Trafostation 2. Achtung, achtet auf die Überschrift. Gerade stand da UGS. Sah irgendwie genauso aus.
+
+(0:03:00 - 0:03:06)
+Das ist nicht der Punkt. Jetzt ist es die Trafostation 2. Da darf man die Kabel nicht vertauschen. Da darf man die Faser nicht vertauschen.
+
+(0:03:06 - 0:03:18)
+Deswegen Schnittstellenplan. Und da kommt jetzt hier aus der zweiten Box mein Kabel raus und geht jetzt in die Trafostation 2. LWL. Haben wir gemacht.
+
+(0:03:19 - 0:03:23)
+Sind wir fertig. Jetzt brauchen wir Spannung. 230 Volt auf unser Netzteil.
+
+(0:03:23 - 0:03:29)
+Also am Ende geht es aufs Netzteil. Wir gehen auf die Sicherung unten. Und da brauchen wir jetzt einen anderen Farbblock sozusagen.
+
+(0:03:30 - 0:03:43)
+Ja, wo kommt denn die Spannungsversorgung für die Datenbox in der TS1 her? Sie kommt bei uns aus der TS1 selbst. Aber natürlich nicht aus der Datenbox, sondern aus der NSHV. Also es ist eine ganz klare Schnittstelle.
+
+(0:03:43 - 0:03:49)
+Das Kabel muss ja irgendwo herkommen. Da kommt sie her. Wir nehmen so ein N3x2,5.
+
+(0:03:49 - 0:03:57)
+Dann sieht man auch schon vor Ort, welches Kabel das denn dann am Ende ist. Ja, dann ist einem das klar. Und wir gucken uns mal unten die Klemme an.
+
+(0:03:57 - 0:04:05)
+Das ist jetzt nur beispielhaft natürlich gedacht. Aber damit man es mal sich vorstellen kann. Also irgendwo muss ich jetzt hier auf die Klemme gehen.
+
+(0:04:05 - 0:04:10)
+Das ist nur ein Beispiel. Das muss jetzt nicht die richtige Klemmengröße sein. Aber die heißt X11.
+
+(0:04:10 - 0:04:15)
+So steht es im Stromlaufplan. Und jetzt habt ihr es über mir auch gesehen in meinem Schnittstellenplan. Da habe ich das jetzt aufgeschrieben.
+
+(0:04:16 - 0:04:24)
+X11. So weiß ich als Monteur sehr einfach. Das geht super schnell, wo ich dann mein Kabel auflegen muss.
+
+(0:04:26 - 0:04:38)
+Wir machen weiter. Und zoomen da mal jetzt ein bisschen raus. Also diese Box hängt da jetzt mittig in unserer Trafostation 1. Und jetzt ist es leicht grün dargestellt.
+
+(0:04:39 - 0:04:48)
+Achtung, weiter geht es. Dieses n-üps-üps-Kabel ziehe ich jetzt mal aus der Box raus. Und einfach nur so exemplarisch virtuell in die Niederspannungs-Hauptverteilung.
+
+(0:04:48 - 0:04:50)
+Die ist links oben. Stellt euch das vor. Das ist halt so.
+
+(0:04:50 - 0:05:02)
+Und da muss ich mein Kabel hinziehen. Kommen doch gleich die nächsten praktischen Fragen. Wie mache ich das eigentlich? Hat da jemand irgendwie einen Kabelkanal vorgesehen oder nicht? Aber genau so wird das dann in Realität gemacht.
+
+(0:05:03 - 0:05:08)
+Nächste Schnittstelle könnte der Zähler sein. Der hängt ja da rechts von der Box. Da brauche ich dann auch eine Verbindung.
+
+(0:05:09 - 0:05:17)
+Wie genau die definiert ist, ist jetzt nicht der Punkt. Sondern der Punkt ist, ich muss es wissen und aufschreiben. Und dann könnte das eben so aussehen.
+
+(0:05:17 - 0:05:24)
+Das seht ihr jetzt in orange. Da kommt jetzt so ein Datenkabel an und geht auf eine andere Klemme. Die habe ich spezifiziert.
+
+(0:05:24 - 0:05:38)
+Das ist jetzt die X41 und X42. Als nächstes kommt das Netzanalysegerät. Und das Netzanalysegerät hängt jetzt bei uns auch nicht in der Datenbox.
+
+(0:05:38 - 0:05:46)
+Sondern hängt irgendwo in der Station. Werden wir auch gleich sehen. Und das Netzanalysegerät muss ich jetzt auch verbinden mit meiner Datenbox.
+
+(0:05:46 - 0:05:59)
+Ich habe switch drüber geschrieben, weil ich dafür jetzt keine Klemme unten benutze. Ich betone es gerne, weil das ist jetzt tatsächlich Absicht. Ich sage, das Netzanalysegerät befindet sich innerhalb der Trafostation.
+
+(0:05:59 - 0:06:03)
+Geht nicht nach draußen. Brauche ich keinen Überspannungsableiter. Gehe ich direkt auf den switch.
+
+(0:06:03 - 0:06:09)
+Ich zeige mal, wie ich das machen würde. Da oben vom switch habe ich jetzt hier mein Ethernetkabel runtergezogen. Durch die Durchführung durch.
+
+(0:06:09 - 0:06:14)
+Super. Passt der Durchmesser genau. Und dann seht ihr da schon unser kleines Netzanalysegerät.
+
+(0:06:14 - 0:06:21)
+Hängt rechts unten. Da muss ich jetzt mit meinem Kabel hin. Und zack, habe ich diese Verbindung auch realisiert.
+
+(0:06:22 - 0:06:28)
+Weiter geht es. Der PE, den brauche ich. Der ist wichtig.
+
+(0:06:28 - 0:06:35)
+Da geht es um den Überspannungsableiter. Spezifiziert gerne der Hersteller der Datenbox. So kenne ich das jedenfalls.
+
+(0:06:35 - 0:06:42)
+Jetzt sagt er, Leute, macht da ein 16 Quadrat rein. Dann kommt das hier. Habts in gelb vielleicht gesehen mittig.
+
+(0:06:42 - 0:06:50)
+Das muss dann auch irgendwo in den Niederspannungsverteilungen aufgelegt werden. Also man muss dran denken, dass da eine offene Klemme ist. Sonst gibt es halt einfach Ärger von der Baustelle.
+
+(0:06:51 - 0:06:59)
+Und ich finde zu Recht, weil das weiß man vorher. Also wenn man diesen Schnittstellenplan gemacht hat, dann hat man entweder einen Fehler gemacht. Das kann ja passieren.
+
+(0:06:59 - 0:07:09)
+Aber man hat sich zumindest Gedanken gemacht. Und meistens funktioniert es dann einfach besser. Jetzt haben wir von der Trafo Station 1 alles eingesammelt, was wir so brauchen.
+
+(0:07:09 - 0:07:13)
+Jetzt kommen ja vielleicht eher die Kerngedanken. Jetzt kommt mal so ein Wechselrichter. Da ist er auch schon.
+
+(0:07:14 - 0:07:19)
+Das muss nicht eine Linie sein. Das können 5, 6 parallele Linien sein. Mir geht es jetzt ums Prinzip.
+
+(0:07:19 - 0:07:28)
+Da gibt es auch eine Klemme, die unten vorgesehen wird. Und dann gibt es da auch eine Verbindung für so ein Datenkabel ist das jetzt. Und dann seht ihr das auch mal beispielhaft dargestellt.
+
+(0:07:28 - 0:07:43)
+Und ganz wichtig, auch wenn es klein ist, aber dann betone ich es eben mündlich. Das ist jetzt explizit auf einen Überspannungsableiter gelegt, weil die Datenverbindung, die kommt von draußen. Da können Überspannungen einkoppeln.
+
+(0:07:44 - 0:07:53)
+Und so ein bisschen baugleich, wenn man so will, ist das Gleiche. Wir haben Sensorsammelbox genannt. Man kann das natürlich auch projektspezifisch direkt machen mit einem Pyranometer anschließen oder Windsensor.
+
+(0:07:53 - 0:07:59)
+Das ist jetzt egal. Es geht darum, dass man da auch eine Datenkommunikationsverbindung hat. Die ist jetzt parallel sozusagen.
+
+(0:08:00 - 0:08:07)
+Die geht da jetzt auch irgendwo drauf. Da braucht man auch einen Überspannungsableiter. Also wenn man jetzt nur einen verbaut hat, dann funktioniert es schon nicht mehr richtig.
+
+(0:08:09 - 0:08:46)
+Ja, das war das Einsammeln meiner Informationen, um einen Schnittstellenplan wie ungefähr diesen zu erstellen. Das ist ja klar, dass den jetzt jeder irgendwie firmenintern ein bisschen anders und schöner darstellen kann. Aber die Kerninformation, die wir rüberbringen wollten, ist, es ist aus unserer Sicht sinnvoll, neben den Stromlaufplänen der Trafostation, neben den Stromlaufplänen der Datenbox oder daraus aus beiden Plänen sozusagen einen Schnittstellenplan zu generieren, damit derjenige, der diese Bauteile zusammenfügen muss, leichtes Spiel hat.

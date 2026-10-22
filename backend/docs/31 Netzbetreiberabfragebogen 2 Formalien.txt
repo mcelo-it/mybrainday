@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:11)
+und gehen ins erste große Kapitel des E9-Betreiber-Abfragebogens. Wir schauen uns mal die Formalien an. Im Hintergrund habe ich es erstmal nur wieder zur Orientierung aufgelistet.
+
+(0:00:12 - 0:00:21)
+Also das sind die fünf, die wir jetzt angucken. Jetzt gehen wir auf die erste Seite. Wir können uns das, glaube ich, finde ich ganz gut so vorstellen, dass dieser Bogen jetzt hier wirklich vor uns liegt.
+
+(0:00:21 - 0:00:32)
+Und jetzt haben wir die erste Seite aufgeschlagen und jetzt gucken wir mal, was ganz oben da steht. Da sieht man es schon ein bisschen drüber, noch ausgegraut, 4110. Also wir sind offensichtlich richtig, Datum stimmt auch.
+
+(0:00:32 - 0:00:49)
+Wir haben die letzte Novellierung mitgenommen und sind im E9-Netzbetreiber-Abfragebogen. Ich wollte auf einen Fehler hinweisen, der hat sich seit letztem Jahr jetzt erledigt. Es gibt die 4110 aus 2023, aus dem September.
+
+(0:00:49 - 0:01:06)
+Da ist denen ein kleiner Zahlendreher reingerutscht und da hieß plötzlich der E9-Bogen E8. Das war so eine Word-Formatierung, die tatsächlich verrutscht ist. Das war, finde ich, sehr unglücklich, weil diese Benennungen, finde ich, sehr wichtig sind im Austausch mit z.B. den Netzbetreibern oder den Zertifizierstellen.
+
+(0:01:06 - 0:01:19)
+Und wenn man dann immer vom E9-Bogen spricht, aber auf der Vorlage, die ihr vielleicht verwendet oder bekommen habt, E8 steht, dann birgt das natürlich enormes Risikopotenzial. Deswegen haben wir das jetzt hier mit reingenommen. Es gibt mittlerweile die Korrektur.
+
+(0:01:19 - 0:01:29)
+Seit Oktober, November letzten Jahres ist das korrigiert. Darauf vielleicht einfach mal achten. Also E9, es ist nicht der E8.
+
+(0:01:31 - 0:01:39)
+Relativ einfaches Warm-up. Es geht mal so los mit einer Bezeichnung der Erzeugungsanlage. Wir schreiben da natürlich immer nur Beispiele rein, damit das ein bisschen greifbarer wird.
+
+(0:01:39 - 0:01:56)
+Was wir genau reinschreiben, ist jetzt nicht so relevant, sondern relevant ist, dass da was drinsteht und dass es eindeutig ist. Das, finde ich, ist ganz wichtig. Das gibt es vor allem bei Projekten, die vielleicht auch Erweiterungen haben oder im gleichen Gemeindeort mehrere Anlagen installiert werden.
+
+(0:01:57 - 0:02:15)
+Es ist natürlich wichtig, dass man hier eine eindeutige Zuordnung schafft, dass es nicht zu Verwechslungen kommt. Die wieder irgendwo rauszukriegen, ist enorm mühsam. Dann achte ich darauf, dass ich dann auch diese eindeutige Bezeichnung der Erzeugungsanlage übernehme in meine Bögen.
+
+(0:02:15 - 0:02:20)
+Das sind mehrere. Wir haben jetzt hier mal drei dargestellt. Ich zeige euch mal so ein Beispiel.
+
+(0:02:20 - 0:02:27)
+Ich gehe mal in den E10-Bogen rein. Das wäre so ein Inbetriebssetzungsprotokoll. Vier Monate später mache ich meine Inbetriebssetzung.
+
+(0:02:27 - 0:02:46)
+Dann schreibe ich hier bei Anlagenbezeichnung genau den gleichen Begriff rein, den der Netzbetreiber oben bei seiner Erzeugungsanlage reingeschrieben hat. Vielleicht achtet da nicht immer jeder drauf, aber wenn man es so macht, sind ja schon mal Missverständnisse ausgeschlossen. Jetzt kommt der Block vereinbarte Anschlusswirkleistung.
+
+(0:02:46 - 0:02:54)
+Ich freue mich schon sehr darauf. Das kommt im nächsten Kapitel. Aber jetzt für den Moment gehen wir da erstmal durch, weil das für uns thematisch jetzt erstmal noch nicht reinpasst.
+
+(0:02:54 - 0:03:03)
+Keine Angst, ich springe gleich wieder zurück. Deswegen weiter in den Formalien. Also Registriernummer des Netzbetreibers halte ich auch für eine ganz wichtige Geschichte.
+
+(0:03:04 - 0:03:13)
+Wir haben ja im Vorfeld auch mal wieder alte E-Bögen uns angeguckt, wahrscheinlich 40 Stück. Und sie sind ja doch immer im Detail ein ganz klein bisschen unterschiedlich ausgefüllt. Auch wenn das so nicht sein sollte.
+
+(0:03:13 - 0:03:20)
+Im Grunde sollte ja klar sein, was da rein muss. Ich habe auch schon welche erlebt, da ist dann keine Registriernummer drin. Ich schreibe das zurück an den Netzbetreibern.
+
+(0:03:20 - 0:03:32)
+Ich bitte darum, mir da eine Registriernummer zu übertragen, weil das später im Projekt ja doch notwendig sein wird. Also sollte da sein. Und jetzt haben wir hier auch wieder gesagt, übertragt diese Nummer zum Beispiel in den E17.
+
+(0:03:33 - 0:03:42)
+Das ist jetzt ein Betriebserlaubnisverfahren. Das kriegen wir auch vom Netzbetreiber. Und hier nur um die Sinnhaftigkeit klar zu machen, wenn man jetzt also diese E-Bögen sich später mal nebeneinander legt.
+
+(0:03:43 - 0:03:52)
+Die Zertifizierstelle macht das zum Beispiel auch tatsächlich mit dem E8-Bogen genauso. Dann sollten die gleichen Zahlen drinstehen, wie gesagt. Sonst stimmt es ja vielleicht wirklich nicht.
+
+(0:03:52 - 0:04:02)
+Man hat ja vielleicht wirklich den falschen Vorliegen oder zumindest entstehen Rückfragen. Achtung, das ist jetzt wieder was anderes. Jetzt ist es die Bezeichnung der Übergabestation.
+
+(0:04:03 - 0:04:11)
+Also das ist jetzt schon sozusagen die dritte Bezeichnung und die sind immer so ein bisschen anders gedacht. Machen wir auch ein Beispiel mit rein. Jetzt sind wir beim E7.
+
+(0:04:11 - 0:04:30)
+Ich habe es grün gemacht, weil vorhin war es der E17. Jetzt ist es der E7, Verwechslungsgefahr, ausgeschlossen wegen der grünen Markierung. E7 wäre der Inbetriebsetzungsprotokoll und wir machen das jetzt so, kann jeder natürlich am Ende so machen, wie er will, dass wir das da oben mit reinschreiben.
+
+(0:04:30 - 0:04:52)
+Dann hat man jetzt auch wieder für diese Übergabestationen, von denen es Hunderte, Tausende gibt, vielleicht im Netzbereich des Netzbetreibers, im Betriebsetzungsprotokoll auch wieder eine klare Verbindung hat zu diesem E9-Bogen. So und noch einer, der vierte, die Bezeichnung des Netzanschlusspunktes. Also wieder was anderes, gerade war es die Übergabestation, jetzt ist es der Netzanschlusspunkt.
+
+(0:04:53 - 0:05:04)
+Da gibt es so eine kleine 2 da oben. Die zeige ich gleich. Gedacht ist das nämlich jetzt sowohl für die Leitungsbezeichnung, das wäre jetzt vielleicht die Mittelspannungsleitung im 1M2.
+
+(0:05:04 - 0:05:13)
+Aber jetzt zeige ich euch, was da bei dem kleinen 2 unten dann auf dem Blatt steht. Also müsst ihr euch nicht unbedingt durchlesen. Ich glaube, ich weiß es so halbwegs auswendig.
+
+(0:05:13 - 0:05:21)
+Ich habe es jetzt hier reingeschrieben als Beispiel. Es könnte nämlich neben der Leitung auch eine benachbarte Station zum Beispiel sein, die da drin steht. Also ÜS Schönefeld.
+
+(0:05:22 - 0:05:31)
+Oder es könnte auch ein Abgangsfeld im Umspannwerk sein. Haben sie, finde ich, gut gemacht. Also eine eindeutige Zuordnung auch hier wieder vom elektrischen Netzanschlusspunkt.
+
+(0:05:34 - 0:05:41)
+Weiter geht es. Hier haben wir mal angekreuzt Nein. Und Nein würde bedeuten, dass wir keinen Bezug haben.
+
+(0:05:41 - 0:05:55)
+Keinen Bezug im Sinne von also wirklich nutzenden Bezug, um hier alle Missverständnisse herauszunehmen. Auch eine Freilandanlage hat auch Bezug. Meinetwegen vor allem nachts, wenn sie ja weniger einspeist, als sie eben verbraucht.
+
+(0:05:55 - 0:06:03)
+Das ist hier aber nicht gemeint. Was hier gemeint ist, ist, wenn man ein Ja ankreuzen würde, dann wäre das eine Mischanlage. Dann wäre das eine Dachanlage.
+
+(0:06:03 - 0:06:22)
+Also bei allen Kollegen, die Dachanlagen planen, da müsste hier bitte ein Ja drinstehen. Auch deshalb ganz wichtig, weil das ist dann rechts zu sehen, es dann eine veranbarte Anschlusswirkleistung PAV B gibt, also B für Bezug. Später kommt ganz viel PAV E. Das sind wir, die Einspeiser.
+
+(0:06:22 - 0:06:36)
+Hier beim B geht es um das Gebäude. Also das Gebäude hat vielleicht schon Netzanschluss, hat schon eine vereinbarte Anschlusswirkleistung und die würde dann hier drinstehen. Ich sage mal so, der Abschnitt unterscheidet zwischen Freiflächenanlagen und Dachanlagen.
+
+(0:06:38 - 0:06:52)
+Dann gibt es diesen nächsten kleinen Haken. Da würde man erwarten, dass der Netzbetreiber, von dem wir ja den E9 zugeschickt bekommen, den E8 angehängt hat. Das ist im nächsten Kapitel ganz wichtig.
+
+(0:06:52 - 0:07:16)
+Da geht es um die Anschlussleistung. Es ist deshalb so wichtig, weil dieser E9-Bogen ja auf den Daten beruht, die wir im E8-Bogen eingetragen und eingereicht haben. Und damit man sozusagen auch jetzt im Nachgang, das sind ja jetzt acht, neun, zehn Wochen später, diese Verbindung noch nachvollziehen kann, ist es durchaus sinnvoll, dass der Netzbetreiber den E8-Bogen mitschickt.
+
+(0:07:17 - 0:07:26)
+Machen Sie oft nicht. Wenn Sie es hier gemacht haben, finde ich, ist es super. Passiert ja ehrlich gesagt auch in großen Projekten so, dass der ungefähr neunmal novelliert wird.
+
+(0:07:26 - 0:07:38)
+Und dann geht es natürlich darum, dass ihr am Ende den finalen E8-Bogen braucht. Nicht nur ihr, sondern auch die Zertifizierstelle wird sich das ganz genau angucken, dass das, was im E9-Bogen steht, auch zum E8-Bogen passt. Da ist er.
+
+(0:07:39 - 0:07:48)
+Hatten wir schon gemeinsam mal ausgefüllt. Machen wir heute nicht. Aber wir prüfen eben noch mal, dass der E9 dann auch wirklich so ist, wie wir das uns vorgestellt haben.
+
+(0:07:49 - 0:07:56)
+Bei den sonstigen Bemerkungen, die kommen, glaube ich, auf jeder Seite stehen die unten drin. Und das ist eine absolut sinnvolle Sache. Wir haben da auch viele Projekte, bei denen da Sachen drinstehen.
+
+(0:07:57 - 0:08:12)
+Wir haben jetzt gesagt, wir schreiben auf keinen Fall irgendwelche Beispiele rein, weil ich finde, die Sinnhaftigkeit einer sozusagen sonstigen Bemerkung ist, dass es ja immer was anderes ist. Jetzt hier ein Beispiel reinzubringen, würde, finde ich, nicht helfen. Sondern wir haben Ausrufezeichen reingemacht.
+
+(0:08:12 - 0:08:20)
+Also ich sage mal, alles ist wichtig. Aber wenn ich eine Bemerkung sehe, dann lese ich sie nun wirklich sofort sehr aufmerksam. Und vielleicht mache ich sogar ein Screenshot für meinen Projektleiter.
+
+(0:08:21 - 0:08:30)
+Weil Abweichungen sind ja immer, na ja, also zumindest etwas Besonderes. Abweichungen zum Standard sind immer, Achtung, schaut euch das erstmal ganz genau an, was da gemeint ist.

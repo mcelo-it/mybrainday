@@ -1,0 +1,23 @@
+(0:00:00 - 0:00:28)
+Und ich stelle die Frage, warum machen wir das Ganze überhaupt? Der erste wichtige Punkt ist natürlich, dass man sich bei dieser ganzen Kommunikation, die wir in so Parks, in Netzwerken durchführen, muss man sich im Grunde genommen auf eine gemeinsame Sprache einigen. Wir haben das jetzt links mal mit den mit den chinesischen Zeichen dargestellt. Wenn der eine chinesisch spricht, muss der andere auch chinesisch sprechen.
+
+(0:00:28 - 0:00:41)
+Ansonsten versteht keiner den anderen. Und das Ganze muss dann eben auch über die Schnittstelle entsprechend funktionieren. Das heißt, der eine nimmt das Telefon in der Hand, der andere wartet auf die E-Mail.
+
+(0:00:41 - 0:00:51)
+Dann funktioniert das eben auch nicht. Das sind erst mal die beiden grundsätzlichen Unterscheidungen, die ich finde, die wir hier nochmal herausheben sollen. Kommunikationsprotokoll ist das eine.
+
+(0:00:51 - 0:01:13)
+Wir sprechen die gleiche Sprache und das Übertragungsmedium ist dann eben die Schnittstelle. Und das wäre dann das Telefon, E-Mail, was auch immer. Dann ein wichtiger Punkt für diese Protokolle und für den Einsatzbereich ist dann sicherlich auch immer der Bereich IT-Sicherheit, auf den gehen wir dann hier nicht so tief ein.
+
+(0:01:14 - 0:01:36)
+Erwähnen wir am Rande, ist aber natürlich immer wieder ein Thema und hat dann natürlich auch einen Einfluss darauf, welchen Kommunikationsweg wir jetzt für welchen Bereich wählen. Und dann geht es natürlich um Übertragungsstrecken. Es gibt dann Übertragungsmedien, Schnittstellen, die vielleicht größere Strecken überbrücken können.
+
+(0:01:37 - 0:02:01)
+Und über diese Medien kann man dann eben verschiedene Protokolle laufen lassen. Und andere Übertragungsmedien haben vielleicht andere Vorteile für kürzere Strecken, haben vielleicht dafür eine bessere Stabilität oder Ähnliches. Und dann ist natürlich der allerletzte Punkt, und den finde ich der ist eigentlich sehr selbstverständlich, aber für mich war es dann doch mal wieder so ein kleiner Aha-Effekt.
+
+(0:02:01 - 0:02:33)
+Man denkt immer darüber nach, Protokolle und so weiter und hat dann aber vielleicht gar nicht so klar im Kopf, dass man, wenn man jetzt mit einem zum Beispiel Wechselrichter kommuniziert, überträgt man ja, ich sage mal, hunderte von Daten vielleicht im 5-Minuten-Takt zum Beispiel, das sind dann Spannungswerte, Stromwerte, Fehlermeldungen, was auch immer da alles übertragen wird über so einen Bus. Und das alles, ich sage jetzt mal, nehme ich vorweg, vielleicht über zwei Drähte. Und das spart natürlich einen unheimlichen Verdrahtungsaufwand.
+
+(0:02:33 - 0:02:43)
+Das Ganze kann man natürlich fortführen in Umspannwerken, in Übergabestationen, wo man dann durch wenig Drähte am Ende viele Daten von dem einen Punkt zum nächsten Punkt übertragen kann.

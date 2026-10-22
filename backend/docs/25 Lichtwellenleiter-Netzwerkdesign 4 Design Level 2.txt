@@ -1,0 +1,146 @@
+(0:00:00 - 0:00:12)
+So, willkommen zurück aus der kurzen Pause. Ich hoffe, alle haben den Weg rechtzeitig zurückgefunden. Level 1 haben wir, finde ich, sehr erfolgreich ausgeführt.
+
+(0:00:12 - 0:00:36)
+Jetzt gucken wir uns Level 2 an. Also noch ein paar Herausforderungen, die jetzt von so einem relativ einfachen Design, das wir jetzt gerade erstellt haben, noch auf uns warten könnten. Wir springen wieder zurück in das Design, das wir gerade verlassen haben und das wir ja gerade in der Übung auch erfolgreich aufgebaut haben und nennen das jetzt erst mal einen Stich.
+
+(0:00:37 - 0:01:05)
+Genau, ein Stich deshalb, weil es einfach nur als Stich sozusagen von der Übergabestation hin zur Traforstation 1 ausgeführt wird. Wenn ich mir jetzt aber die Traforstation 1, hat man gerade gesehen, ein bisschen größer mache und dann jetzt eben noch eine Splicebox reinlege. Und noch eine zweite Traforstation hinten dran führe, dann kann ich diesen Stich jetzt relativ simpel weiterführen.
+
+(0:01:06 - 0:01:27)
+Das mache ich jetzt, indem ich das Design eigentlich wieder genauso weiterführe, wie ich es zwischen der Übergabestation oder Traforstation 1 gebaut habe. Also ich ziehe mal die Linien. Ich gehe von der TX in dem Switch 2 sozusagen in dem zweiten Eingang der Traforstation 1 auf die zweite Splicebox.
+
+(0:01:27 - 0:01:38)
+Das ist ganz wichtig. Also jetzt brauche ich schon vier Spliceboxen, haben wir in der Tabelle auch weiter erhöht. Es geht nicht mit der gleichen Splicebox, es sei denn, die hat es dafür vorgesehen, dass zwei Eingänge dran sind.
+
+(0:01:38 - 0:02:00)
+Wir machen das mit separaten Splicebox und von dort dann eben zur Traforstation 2. Wie gesagt, Copy-Paste geht dann wieder von TX auf RX und dann das Ganze wieder zurück. So, dann hätten wir unseren Stich mit jetzt insgesamt drei Teilnehmern aufgebaut. Und in der Tabelle springt das immer ein bisschen nach oben.
+
+(0:02:00 - 0:02:16)
+Jetzt haben wir nämlich zum Beispiel auch zwei LWL-Kabel mit zwei Fasern. Und auf einmal brauchen wir vier SFP-Module und nicht mehr nur zwei. Jetzt ändern wir aber das Modell, also Level 2. Jetzt wird es mal ein bisschen herausfordernder.
+
+(0:02:17 - 0:02:24)
+Der Stich reicht uns nicht. Wir wollen einen Ring bauen. So, wie funktioniert das? Im ersten Schritt müssen wir die Splicebox größer machen.
+
+(0:02:24 - 0:02:42)
+Jetzt sieht man, dass wir das hier mit den Farben Blau und Gelb auch nach dem Code richtig gemacht haben, damit jetzt wird es ja immer komplizierter, die Zuordnung auch immer noch klar ist. Also wir haben jetzt plötzlich an der Splicebox vier Eingänge. Das erinnere ich auch mal in der Tabelle.
+
+(0:02:42 - 0:02:54)
+Und jetzt habe ich die Möglichkeit, einen Rückweg zu bauen. Das mache ich. Man sieht es sehr leicht nur, weil es jetzt eben die Farbe Blau ist und unser Branding ist auch Blau.
+
+(0:02:54 - 0:03:06)
+Das hätten wir aber nicht ändern können, weil es werden ja alle Farben aus der Farbpalette quasi benutzt. Also irgendeine Linie würde man nicht richtig sehen. Blau muss man jetzt ganz genau hingucken, wäre jetzt der erste Rückweg.
+
+(0:03:07 - 0:03:34)
+Und jetzt starten wir wieder andersherum von der Übergabestation Richtung Station 2. Haben wir die gelbe Faser gezogen? Da ist jetzt sozusagen das RX aus der Übergabestation in die Trafostation 1 geführt. Da gehen wir nicht auf den Switch, sondern wir springen in die zweite Splicebox. Das hatte ich in dem ersten Kapitel auch gesagt, dass ein Patchkabel muss ja nicht von Splicebox zu Switch geführt werden, sondern jetzt in diesem Fall haben wir es als Brücke genutzt.
+
+(0:03:34 - 0:04:18)
+Da springt es von der Splicebox rüber zur zweiten Splicebox und das Lichtsignal sozusagen geht aus dem LWL-Kabel raus, springt über das Patchkabel einfach nur in das nächste LWL-Kabel rein und geht weiter direkt zur Trafostation 2. Und dort, gelbes, bitte einmal nachverfolgen, geht dann von TX in der Übergabestation ins RX in der Trafostation 2. Jetzt haben wir einen Ring gebaut, weil jetzt sozusagen der Switch in der Übergabestation in beide Richtungen kommunizieren könnte. Das ist diese Managed-Funktion, die wir mit einem anderen Branding mal erklärt haben. Der Switch erkennt das, dass er in beide Richtungen kommunizieren kann, dass er einen Ring erfolgreich aufgebaut hat.
+
+(0:04:19 - 0:04:36)
+Kommuniziert man eigentlich trotzdem nur in eine Richtung. Aber sobald das nicht mehr geht, weil eben eine Verbindung ausfällt, kann er über die andere Verbindung weiterhin kommunizieren. Und jetzt sage ich gleich an der Stelle, der große Vorteil an dem Ring wird jetzt schon in dieser relativ einfachen Darstellung deutlich.
+
+(0:04:37 - 0:04:44)
+Wenn wir uns noch mal vorstellen, der Ring wäre nicht geschlossen. Ich gehe es einmal zurück. So, das wäre jetzt noch der Stich.
+
+(0:04:44 - 0:04:56)
+Und der Switch in der Trafostation 1 fällt aus, zum Beispiel, weil die Trafostation 1 routinemäßig abgeschaltet wird. Nach acht Stunden ist die Batterie leer, vielleicht auch schon nach sechs. Das weiß man nicht so genau.
+
+(0:04:57 - 0:05:09)
+Vielleicht geht auch erst am nächsten Tag das Ding wieder in Betrieb. Dann fällt jetzt auch die Kommunikation zum Switch in der Trafostation 2 aus. Das ist also ein Folgefehler, würde ich mal sagen, der dringend zu vermeiden ist.
+
+(0:05:09 - 0:05:25)
+Das wäre ja völlig unnötig, dass aufgrund einer gewollten Abschaltung in der 1 dann auch die Kommunikation zur 2 ausfällt. Je nach Parametrierung der Wechselrichter würden die dann vielleicht in den Standby-Modus fahren oder im aktuellen Status bleiben. Aber sie sind auf keinen Fall mehr steuerbar.
+
+(0:05:26 - 0:05:34)
+Das wäre also so gar nicht zulässig. Aber hier ist, glaube ich, klar, was der Vorteil ist. Das Ring ist, den zeichne ich jetzt wieder rein.
+
+(0:05:35 - 0:05:58)
+In dem Moment, wo die Station 1 ausfällt, gleiches Beispiel, würde jetzt die grün-rote Linie nicht mehr funktionieren, weil ja der Switch in der 1 quasi weg ist. Also die Verbindung ist dann offen. Aber das erkennt der Switch in der Übergabestation und zack geht er jetzt über die blau-gelbe Route sozusagen direkt über das Brücken-Patch-Kabel in die Station 2. Da brauchen die die 1 gar nicht, das geht direkt durch.
+
+(0:05:59 - 0:06:08)
+Und das heißt, die Kommunikation mit der 2 bleibt stabil. Das ist der ganz wichtige Vorteil eines Ringes. Deswegen hätte ich definiert, dass Ring Standard ist.
+
+(0:06:09 - 0:06:16)
+Ich würde es nicht anders bauen. Einfach nur, weil die Umsetzung sehr einfach ist. Das Schwierigste ist der Plan, den man zeichnen muss.
+
+(0:06:17 - 0:06:34)
+Und die Komponenten dazu sind im Grunde kein großer Unterschied, ob man das jetzt als Stich oder Ring baut. Okay, das war die Geschichte. Man braucht jetzt also in meiner Tabelle, oben habe ich es angepasst, ein 4-faseriges LWL-Kabel.
+
+(0:06:34 - 0:06:47)
+Jetzt wird es ja langsam ein bisschen realistischer für die Kabelwahl an sich. So, wir haben einen Stich gebaut und einen Ring. Und deswegen gehen wir bitte wieder zurück.
+
+(0:06:50 - 0:07:02)
+Auch nochmal an, ist sauberer gezeichnet. Könnt ihr euch ein Screenshot machen oder uns eine E-Mail schreiben, dann kriegt das noch. Das ist meine Lösung zum Stich und das ist meine Lösung zum Ring.
+
+(0:07:02 - 0:07:12)
+Genauso habe ich es jetzt auch mit der Hand gerade nochmal gezeichnet. Also so würden wir das machen. Und jeder, der eine andere Lösung hat, überprüft sie bitte nochmal auf Sinnhaftigkeit.
+
+(0:07:13 - 0:07:28)
+Siebenpatchkabel. So, wir machen weiter im Design. Das war ja jetzt sozusagen nur ein Startschuss, wobei der jetzt schon sehr ausreichend und sinnhaft ist für fast alle Designs, die wir bisher so gemacht haben.
+
+(0:07:28 - 0:07:51)
+Aber wir gehen nochmal weiter. Was zumindest bei Freilandanlagen üblich ist, ist, dass man Alarmsysteme installiert, ein CCTV-System. Und das mache zumindest ich, aber auch alle, die ich kenne, so, dass man die autark aufbaut, dass man denen also separate Fasern gibt, dass man überhaupt keine Kreuzung hat zwischen dem Fernwirktechnik-System, das wir jetzt hier sehen und dem CCTV.
+
+(0:07:51 - 0:07:59)
+Wie machen wir das? Also wir wollen CCTV einbauen. Da muss erst mal die Splicebox größer werden. Man sieht es auch oben gleich in der Tabelle noch.
+
+(0:08:00 - 0:08:13)
+Jetzt haben wir hier ein drittes Adern- oder Fasern-Team sozusagen hinzugefügt. Und oben seht ihr schon, die Splicebox muss jetzt eine andere sein. Also wenn man sich nach seinem Design überlegt, man baut hier noch CCTV rein, dann ist es zu spät.
+
+(0:08:14 - 0:08:26)
+Oder man hat halt die Splicebox groß genug ausgelegt. Aber ich denke, das ist schon der richtige Hinweis jetzt hier an der Stelle, dass man da halt vorher drüber nachdenkt. Stichwort Netzwerkdesign am besten vorher gemacht.
+
+(0:08:27 - 0:08:49)
+Wir machen es so, wir sehen immer genug vor, dass man Reserve kommt auch noch gleich, aber dass man so ein CCTV-System integrieren könnte. So, wie machen wir das? Dazu zoomen wir jetzt noch mal raus, weil jetzt brauchen wir nämlich Kameras. Also die Trafo-Station 1 machen wir jetzt ein bisschen größer, einfach nur in der Logik und setzen noch eine dritte Splicebox mit rein.
+
+(0:08:50 - 0:09:07)
+Warum machen wir das? Das machen wir, weil wir jetzt eine Kamera mit Glasfaserkabeln mit unserer Trafo-Station verbinden. Und in der Übergabestation, das habe ich hier auch mit eingeblendet, da gibt es jetzt einen zusätzlichen Switch von dem Hersteller des Kamerasystems. Mit meinem Switch hat das nichts zu tun.
+
+(0:09:07 - 0:09:16)
+Das ist ein separater Server und da hat der seinen Switch drin. Ich sage ja, ich will ja ein autarkes System bauen. Also brauchen wir auch da einen separaten Switch.
+
+(0:09:16 - 0:09:40)
+Der Form halber, für alle, die das ein bisschen hinterfragen, in der Kamera, die ich hier darstelle, wird auch eine Splicebox sein und da wird auch ein Switch drin sein. Er muss auf seiner Seite ja genauso das Signal umwandeln, wie wir es tun. Das zeige ich jetzt aber nicht, weil ich sage, dass die Logik da die gleiche ist und dass man, dass wir uns jetzt erst mal aufs PV-System konzentrieren, also auf unsere Seite.
+
+(0:09:41 - 0:10:00)
+Vom Grundsatz her muss der Kameramann sozusagen sich die gleichen Gedanken auf seiner Seite des LWL-Kabels dann machen. Aber wir machen es jetzt mal der Form halber so. Wir ziehen eine weiße Linie, weil das sozusagen jetzt mittlerweile fünfte Faser, die ist nach Code weiß.
+
+(0:10:00 - 0:10:30)
+Und dann haben wir jetzt das TX über den Eingang A3 zum nächsten A3-Eingang, Trefferstation 1 geführt und in die Splicebox, meiner Logik nach, sinnhaft gepatcht, auch auf die 3. So bleibt A3 auf A3 und das geht rüber ins Kamerasystem. Also die untere Linie ist wieder ein LWL-Kabel, die meinetwegen 200-300 Meter weiter zu irgendeiner Kamera in irgendeiner Ecke von so einem Solarpark geht. Wir machen das Spiel rückwärts.
+
+(0:10:30 - 0:10:42)
+Das ist dieses Vollduplex-Logik. Also das TX jetzt aus der Kamera muss zurückgehen. Das ist jetzt grau, geht die Linie zurück und springt in den Switch von der CCTV-Box.
+
+(0:10:44 - 0:10:58)
+Oben, wie immer, die Zahlen sind schon hochgerattert. Wir haben jetzt plötzlich neuen Patch-Kabel, weil wir nämlich in der Trefferstation und in der Übergabestation brücken müssen und haben jetzt auch mehr SFP-Module. Einfach immer mitzählen.
+
+(0:11:02 - 0:11:18)
+So, dann hätte man also jetzt eine Kamera von einem Kamerasystem integriert und das Ganze auch noch autark. War eigentlich gar nicht so schwierig. Man muss eben aufpassen, dass man genügend Eingänge an den Splice-Boxen hat und auch genügend Splice-Boxen vorsieht, die wiederum ja auch Platz brauchen.
+
+(0:11:19 - 0:11:26)
+Jetzt bringe ich noch eine Reserve mit rein. Das würde ich immer so machen. Grundsätzlich kostet auch nicht viel mehr.
+
+(0:11:26 - 0:11:44)
+Vielleicht das an der Stelle noch gesagt. Wir haben jetzt, finde ich, großartigerweise dieses Alarmsystem integriert, und zwar als separates System, ohne im Grunde große Mehrkosten generiert zu haben. Alles, was wir in der Tabelle ändern mussten, war ein Splice-Box mehr, drei Patch-Kabel mehr.
+
+(0:11:44 - 0:12:08)
+Das ist praktisch verschwindend gering, diese Mehrkosten. Und das LWL-Kabel, das hatten wir sinnhafterweise vorher sowieso schon mit einer ausreichenden Anzahl an Fasern vorgesehen. Das sind auch marginale Preisunterschiede, ob man jetzt sechs, acht oder zehn oder zwölf Fasern bestellt, weil das Teure ist, das Kabel selbst, der Mantel und natürlich auch das Verlegen und Installieren.
+
+(0:12:09 - 0:12:19)
+Aber das ist dann ja unabhängig von der Anzahl der Fasern. Also ist das, was wir jetzt hier zusätzlich gebaut haben, verschwindend an Mehrkosten. Jetzt kommt die Reserve.
+
+(0:12:20 - 0:12:28)
+Da ist es genau das Gleiche. Das kostet praktisch auch wenig bis nichts. Wir vergrößern also die Splice-Boxen wieder.
+
+(0:12:28 - 0:12:37)
+Das sieht man auch wieder in meiner Tabelle. Jetzt haben wir da plötzlich acht Eingänge. Das wäre für mich so ein Standardgröße, an die wir da uns langsam rantasten.
+
+(0:12:37 - 0:12:44)
+Und das LWL-Kabel braucht jetzt auch acht Fasern. Sonst funktioniert das nicht mit der Reserve. Es muss halt immer beides zusammenpassen.
+
+(0:12:46 - 0:13:00)
+So, wir gehen wieder in Miro zurück und ich zeige euch hier meine Lösung. So habe ich das ja gebastelt. Screenshot und sonst schicken wir sie euch zu.
+
+(0:13:00 - 0:13:04)
+Ich habe sie absichtlich nicht ins Handout rein, weil sonst hättet ihr die einfach abmalen können.

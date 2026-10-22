@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:21)
+Jetzt haben wir einen kurzen Teil Kabeltyp und am Ende nochmal ein sehr wichtiges Thema Kritis. Also Kabeltyp kommen wir jetzt hoffentlich relativ zügig durch, damit wir nachher für den Kritis-Teil auch nochmal ausreichend Zeit haben, weil ich den sehr wichtig finde und ich glaube, dass der bei vielen noch nicht so richtig angekommen ist. Also Übergabestation seht ihr wieder im Hintergrund.
+
+(0:00:21 - 0:00:57)
+Wir grauen das mal so ein bisschen aus. Das sind jetzt die Kabel, die wir da alle so verwendet haben und haben die ja auch unten in der Legende aufgeführt. Und kommen am Ende auf 2 für 5 Kabeltypen und würden das jetzt auch nochmal reduzieren um die Stromversorgung, weil die 230 Volt Kabel, die macht dann eh in der Station jemand anderes und das ist jetzt vielleicht auch nicht der Kern von der Datentechnik, sondern der Kern sind dann diese vier verbliebenen Leitungen und auch die teilen wir nochmal auf und würden das mal in LAN-Kabel unterteilen und in Glasfaserkabel auf der anderen Seite oder LWL-Lichtwellenleiter.
+
+(0:00:58 - 0:01:31)
+Wir schauen uns jetzt erstmal das LAN-Kabel an und gehen da jetzt einfach mal am Ende tatsächlich zwei Datenblätter durch, die wir aus unseren Projekten, die wir schon häufig verwendet haben, wo wir wissen, dass die funktionieren und eben auch eine gewisse Beständigkeit aufweisen und so sieht ein Datenblatt aus. Und wir gucken uns jetzt mal dann wirklich im Detail an, wie das Kabel aussieht. Ja, hier sieht man schon einmal in der Seitenansicht, man sieht so ein paar Schirme und im Schnitt sieht man dann auch, dass da immer zwei Leitungen nebeneinander liegen und dann nochmal vielleicht umhüllt werden.
+
+(0:01:32 - 0:02:02)
+Das sieht man gleich in der Typbezeichnung des Kabels dann nochmal klarer, was das genau bedeutet, was es damit genau auf sich hat. Also hier, das ist jetzt erstmal die Bezeichnung, Artikelnummer soll uns nicht so sehr interessieren, Durchmesser und so weiter auch nicht. Wir gehen jetzt mal den Fokus mal einfach auf diese Bezeichnung und das Kabel nennt sich jetzt DataLine und mit der 1000 will dieser Hersteller erstmal klar sagen, dass dieses Kabel bis 1000 Megahertz oder 10 Gigabit Übertragungsgeschwindigkeiten gewährleisten kann.
+
+(0:02:03 - 0:02:20)
+Und wenn man dann mal weiter schaut in der Literatur, bedeutet das, es handelt sich um ein Cat7-Kabel. Und jetzt haben wir hier in dieser Tabelle noch ein paar Informationen hinzugefügt. Dieses Kabel bestellt ihr ja auf einer Trommel in der Regel, das kommt also vorn und hinten ohne Stecker, also einfach abgeschnittene Enden.
+
+(0:02:20 - 0:02:54)
+Man könnte jetzt für diese Cat7-Kabel beispielsweise RJ45-Stecker verwenden, wenn man eben diese Netzwerkkommunikation verwendet, ist das sicherlich das Mittel der Wahl. Dann gibt es eine Übertragungslänge für diese Leitung, ungefähr 100 Meter und die Anwendung, das ist ja der professionelle Bereich, deshalb verwenden wir das auch für unsere Solarparks. Jetzt ergänzen wir die Tabelle, also es gibt auch weniger Megahertz und dadurch rutscht man dann eben in andere Kategorien, also Cat5 und Cat6 beziehungsweise bis hoch zu Cat8.
+
+(0:02:55 - 0:03:17)
+Cat8 würden wir jetzt wahrscheinlich nicht empfehlen, das ist hier für Spezialisten steht da und die Übertragungslänge ist auch nicht mehr so groß, deshalb sind wir mit Cat7 eigentlich für unsere Verdrahtung immer sehr gut aufgehoben und das hat immer funktioniert. Deshalb unsere Empfehlung Cat7, 1000 Megahertz. Dann, genau, die Stecker hatte ich schon erwähnt, RJ45 für Ethernet.
+
+(0:03:18 - 0:03:39)
+Man könnte dieses Kabel aber genauso gut für eine RS485-Verkabelung verwenden oder für digital-Analog-Signale. Dann ist es in der Regel so, dass man gar keine Stecker braucht, sondern die Kabel nur auf Klemmen legt. Bei RS485 hat man ja immer nur ein Adernpaar, was man verwendet, also zwei Klemmen und für digitale Eingänge oder analoge Signale eben auch.
+
+(0:03:39 - 0:04:03)
+Also dann braucht man gar keinen Stecker. Ein wichtiger Hinweis noch, je Ader eine Klemme verwenden und je nachdem, was für ein Kabel ihr verwendet, jetzt würde ich ein bisschen vorgreifen, oben in der Beschreibung steht 4x2, also wenn man jetzt zum Beispiel ein 8-adriges Kabel hier verwendet, dann bräuchte man auch 8 Klemmen, weil man 8 Adern auflegen muss. Und zusätzlich noch eine Erdungsklemme, das wäre dann die neunte.
+
+(0:04:03 - 0:04:37)
+Das ist vielleicht ein wichtiger Punkt, weil häufig greifen viele immer in die Schublade, viele Adern helfen viel, aber man muss dann immer daran denken, vorn und hinten am Kabel muss man das auflegen und wenn man jetzt im Wechselrichter nur zwei Adern braucht, dann hat man dann noch so eine Wust an Adern und dann schneiden die Leute das ab oder flechten das zusammen. Aber schöner ist es ja, wenn das Kabel genau passend konfiguriert ist, also nur zwei Adern hat, dann wäre das mit den Klemmen passend. Wenn man aber zu wenig Adern hat, hat man das andere Problem, dass das gar nicht erst funktioniert.
+
+(0:04:37 - 0:04:47)
+Also genau richtig auswählen, das ist hier die Devise. Und nicht zu viele, nicht zu wenig Adernfarbe. So, dann kommen wir weiter.
+
+(0:04:47 - 0:04:58)
+Outdoor ist hier so beschrieben. Outdoor bedeutet für uns erstmal, es ist für die Außenverlegung geeignet. Klar, erdverlegbar soll es sein, UV-geschützt soll es sein, einen elektromagnetischen Schutz soll es haben.
+
+(0:04:58 - 0:05:10)
+Da kommen wir gleich in den nächsten Punkten dazu. Und dann soll auch noch ein gewisser Wetterschutz da sein. Das ist hier gegeben bei dem Kabel, deshalb ist es eben für die Verlegung im außenbereich geeignet.
+
+(0:05:11 - 0:05:22)
+Dann das Pendant dazu wäre natürlich nochmal Indoor, das gibt es auch. Und dann spielen natürlich Erdverlegbarkeit, UV-Schutz usw. keine Rolle, sondern hier geht es ja nur noch um elektromagnetischen Schutz, also um die Schirmung des Kabels.
+
+(0:05:23 - 0:05:34)
+Und da kommen wir gleich drauf zu sprechen, nämlich, ich glaube, genau jetzt. STP ist hier der nächste Teil der Bezeichnung. S ist eine geflochtene Abschirmung.
+
+(0:05:36 - 0:05:45)
+Dann gibt es noch TP, das ist ein verdrilltes Paar. Das heißt, die Adernpaare, die nebeneinander liegen, die werden verdrillt. Und dann würde es hier noch weitere Informationen geben.
+
+(0:05:45 - 0:05:58)
+Ungeschirmt, Folienabschirmung oder Panzerung. 4x2, das sind jetzt die Adernpaare. Also wir haben vier Paare mit jeweils zwei Adern, wobei ja die zwei Adern dann genau verdrillt sind.
+
+(0:05:59 - 0:06:12)
+AWG23, das ist eine amerikanische Angabe, glaube ich. Das steht für den Querschnitt. Und wenn man jetzt diese 23 Nummer mal nimmt, dann wäre genau der Kabelquerschnitt von diesem Kabel 0,258 Quadratmillimeter.
+
+(0:06:13 - 0:06:25)
+Ich weiß nicht genau, woher das kommt, aber so wird es angegeben. Und das ist hier im Grunde genommen die Beschriftung, die Beschreibung. Dann gibt es noch PIMF, was hier in dem Kabelnamen steht.
+
+(0:06:25 - 0:06:35)
+PIMF bedeutet paarweise in Metallfolie geschirmt. Also wir haben ein geschirmtes Kabel mit Metallfolie. PE ist dann noch der Isolierstoff des Kabels.
+
+(0:06:36 - 0:06:42)
+Polyethylen, also für die Außenverlegung damit geeignet. Und dann kommt noch die Farbe. Das ist hier ein schwarzes Kabel.
+
+(0:06:44 - 0:06:57)
+Damit sind wir dieses Kabel erstmal soweit durch. Jetzt kann sich jeder so ein bisschen besser vorstellen, was genau diese Typbezeichnung eigentlich bedeutet und worauf man achten sollte. Das ist ein Kabel, wir kennen das so.
+
+(0:06:57 - 0:07:14)
+Wenn ihr ein ähnliches Kabel findet mit diesen Kriterien, dann, denke ich, könnt ihr das durchaus einsetzen. Wir haben dann, um es einfach nochmal ein bisschen zu kompletieren, und hier gehen wir ein bisschen schneller durch, nochmal ein Kabel mit der VDE-Abkürzung hier gewählt. Li2, ypc, ypcv.
+
+(0:07:15 - 0:07:31)
+Und gehen auch hier noch einmal nur ganz schnell, das wollen wir wirklich nicht breittreten, nochmal die Punkte durch. Li bedeutet eben Litze und Flexibilität. Also ein Litzenkabel, 2y ist dann Polyethylen, also PE, die Isolation.
+
+(0:07:32 - 0:07:46)
+Dann haben wir noch das c, das steht dann für ein Kupfergeflechtmaterial. Das y steht dann für den PVC-Mantel. Und das v, das steht dann eben nochmal für verzinkt.
+
+(0:07:47 - 0:08:04)
+Auch hier dieses Kabel wäre jetzt geeignet und könnte durchaus eingesetzt werden. Unten in der Tabelle sieht man dann eben nochmal, welche Varianten es davon gibt. Also immer 2 Adernpaare oder 2 mal 2 sind eben 2 mal 2 Adernpaare.
+
+(0:08:05 - 0:08:13)
+Und hinten die 1, die steht dann eben für den Querschnitt des Kabels. Also hier haben wir jetzt 1 mm². Vorhin bei dem AWG23 hatten wir da andere Angaben.
+
+(0:08:13 - 0:08:28)
+Wichtig ist, dass diese Querschnitte dann auch auf die Klemmen passen. Da muss man immer ein bisschen gucken. Da geben die Wechselrichterhersteller ja auch genaue Vorgaben, welchen Querschnitt man jetzt in so einen Wechselrichter oder da auflegen darf und welchen man einführen darf.
+
+(0:08:28 - 0:08:42)
+Also die Einführung muss passen und eben die Klemme im Wechselrichter auch. Und hier nochmal der Hinweis, keine freien Adern lassen. Bestellt das Kabel so wie es braucht und legt sonst alle Adern irgendwo auf eine Klemme und lasst sie nicht rumhängen.
+
+(0:08:44 - 0:09:01)
+So, das war das LWL-Kabel, ne Entschuldigung, das LAN-Kabel. Und dieses LAN-Kabel, das können wir eben für all diese drei Anwendungen, RS-485, Ethernet und digital-analog verwenden. Das Pendant jetzt eben, das Glasfaserkabel, auch hier ein kurzer Exkurs würde ich sagen.
+
+(0:09:01 - 0:09:18)
+Glasfaser ist bei uns nochmal ein ganz separater Brainday. Es gibt auch hier eben diesen Bezeichnungscode, also A, Außenkabel, für die Außenfaltigung geeignet. Dann kommt das D, das ist eine Bündelader, das heißt hier sind mehrere Fasern in einem Kabel.
+
+(0:09:19 - 0:09:33)
+Q steht dann für das Quellmaterial. Dann gibt es noch ZN, das ist der PE-Mantel. Und PE-Mantel heißt dann ja auch erstmal, es ist für die Außenfaltigung geeignet.
+
+(0:09:34 - 0:09:50)
+B2Y kommt noch, das ist dann eine PE-Bewährung nochmal, die schützt dann nochmal die Fasern innen drin. Und jetzt kommen einmal zwölf Fasern, das heißt hier bei so einem LWL-Kabel wird nichts verdrillt. LWL ist elektromagnetisch erstmal unempfindlich, aber hier gibt es eben zwölf Fasern.
+
+(0:09:51 - 0:10:05)
+Und das G.652D, das ist der Hinweis, ihr habt hier ein Kabel, ein Single-Mode-Kabel. Das hat einen entsprechenden Kerndurchmesser und eine entsprechende Dämpfung. Single-Mode, das ist das, was wir in der Regel verwenden.
+
+(0:10:06 - 0:10:18)
+Es gibt als Gegenstück noch das Multi-Mode, für kürzere Strecken ist das eher gedacht. Aber wir nehmen Single-Mode, damit wir es einheitlich haben. 3 kN, das ist die Zugbeanspruchung.
+
+(0:10:18 - 0:10:40)
+Also wenn ihr das Kabel jetzt über längere Strecken einblast oder zieht, dann achtet darauf, dass das eine sehr hohe Zugbeanspruchung hat, dass es beim Ziehen eben nicht beschädigt wird. Zum Schluss noch SW für schwarz, das ist die Farbe des LWL-Kabels. So und jetzt nehmen wir das Kabel und zeigen nochmal, wie es dann tatsächlich in einer Spleißbox aufgelegt würde.
+
+(0:10:40 - 0:10:54)
+Das ist die Spleißbox und dann kommt gleich noch der Switch rein, genau. Und jetzt wird man erstmal das Kabel nehmen und unten in der Regel in diese Spleißbox einführen. In der Spleißbox hat man dann diese Pigtails, die wir vorhin ja auch schon mal beschrieben hatten.
+
+(0:10:54 - 0:11:16)
+Also an den Steckern hängen schon ein paar Glasfaserstücke, eine gewisse Länge, 20, 30, 50 cm lang. Und auf diese Pigtails kann man jetzt die Faserenden unseres LWL-Kabels, was ja von außen in die Station geführt wurde, aufs Spleißen. Und dann hat man erstmal eine Verbindung geschaffen zwischen Kabel und Spleißbox.
+
+(0:11:17 - 0:11:41)
+Und jetzt brauchen wir auch die Verbindung von der Spleißbox zu dem Switch und dafür braucht man dann eben diese berühmten LWL-Patchkabel, die man dann in verschiedenen Ausführungen bekommt. Hier ist es LCSC-Patchkabel, das heißt, ein Ende ist LC-Stecker, das andere Ende ist SC-Stecker. Das liegt jetzt einfach daran, weil die Spleißbox eben einen anderen Steckertyp verwendet als der Switch.
+
+(0:11:41 - 0:11:56)
+Das gibt es in allen möglichen Variationen zu bestellen. Achtet darauf, dass euer Patchkabel dann eben das Richtige ist und dann passt das auch sowohl in den Switch als auch in die Spleißkassette. LC-Stecker, SC-Stecker, ungefähr so sehen die aus.
+
+(0:11:56 - 0:12:14)
+Also der LC ist, glaube ich, noch ein bisschen kleiner als der SC und da könnte man jetzt verschiedene Varianten bauen. LC-SC hatten wir eben, es gibt LC-LC, sieht dann so aus und am Ende nochmal SC-SC. Das sind dann die verschiedenen Patchkabel-Kombinationen.
+
+(0:12:14 - 0:12:41)
+Ich denke, Inbetriebnehmer für so Kommunikationssysteme, die haben da immer zwei, drei verschiedene Varianten im Auto, dass sie notfalls da nochmal aushelfen können. So, hier wird es nochmal zusammengesteckt und dann, dass ihr es nochmal im Überblick habt von der TRAFO Station 2, geht dann zur TRAFO Station 1 von den Spleißboxen. Eben dieses Erdkabel, erdverlegt von Station zu Station.

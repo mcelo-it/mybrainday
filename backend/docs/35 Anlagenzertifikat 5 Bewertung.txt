@@ -1,0 +1,364 @@
+(0:00:00 - 0:00:17)
+Jetzt gehen wir als nächstes in das Kapitel Bewertung. Da will ich jetzt noch einmal vorne wegnehmen, dass ihr euch das so vorstellen könnt, dass ihr also meinetwegen ein 160-seitiges Dokument erhalten habt. Das erste Blatt, haben wir uns jetzt angeguckt, bleiben noch 159.
+
+(0:00:18 - 0:00:36)
+Und ein Großteil davon ist genau diese Bewertung. Deswegen folgen wir jetzt auch dieser Logik. Wir gucken uns sozusagen in einem Anlagenzertifikat jetzt, ich sag mal eine halbe Stunde, und da muss jeder fokussiert mit dabei bleiben, diese einzelnen Bewertungsprüfpunkte an.
+
+(0:00:36 - 0:01:05)
+Die Zertifizierstelle macht das, sie beschreibt dann auch in jedem einzelnen Kapitel, wie ich finde, sehr gut, was sie da eigentlich gemacht hat. Das heißt, für mich ist dieser Punkt für euch nur spannend, um nachvollziehen zu können, was die Zertifizierstelle eigentlich so macht. Immer mit dem gleichen Prinzip, wenn man das so ein bisschen kennt, was eigentlich, ich sag mal, die andere Seite den ganzen Tag lang so macht, dann kann man ihr natürlich viel besser zuarbeiten, dann kann man Fragen natürlich viel schneller klären, dann hat man einfach ein fälschliches Verständnis für diese Gesamtzusammenhänge.
+
+(0:01:05 - 0:01:20)
+Das machen wir jetzt, genau das machen wir jetzt. Also nicht die kleinteilige Berechnung von den Experten der Zertifizierstelle, sondern eine grobe Betrachtung, um zu verstehen, was die da eigentlich machen. Und so fangen wir mit dem Punkt 1 an und nehmen es schon mal weg.
+
+(0:01:20 - 0:01:29)
+Es sind 21 in Summe. Der Punkt 1 ist einfach. Da schreiben die erst mal auf, was sie allgemeines eigentlich da so betrachtet haben.
+
+(0:01:30 - 0:02:01)
+Hier einmal genannt, auch da denkt sich die Zertifizierstelle eigentlich nicht selber irgendwas aus, deswegen sind diese Zertifikate immer sehr, sehr gleich aufgebaut, sondern genau diese Reihenfolge findet man auch in der 41.10. Das heißt, da kann man es sich auch durchlesen und jetzt folgt sozusagen die Zertifizierstelle in Anführungsstrichen nur den Vorgaben der 41.10. So, und da schreiben die auch hin, mach doch erst mal eine Auflistung der Bewertungspunkte. Genau, also das ist sozusagen der Startpunkt für uns jetzt. Dann schreiben sie noch mal die Kenndaten der PV-Anlage auf.
+
+(0:02:02 - 0:02:35)
+Sie beschreiben noch mal die Hauptkomponenten, also Wechselrichter, Transformatoren, Umspannwerke, wenn es welche gibt. Sie beschreiben die wichtigsten Kenngrößen der Erzeugungsanlagen und sie geben an einen geforderten Blindleistungsbereich, also als Rahmen sozusagen dessen, was dann überhaupt eingehalten werden muss. Hier finde ich es wichtig zu verstehen, es gibt Unmengen an elektrischen Kenngrößen, die alle wichtig sind und es gibt auch sehr viele Bereiche oder Rahmenparameter, die eingehalten werden müssen.
+
+(0:02:35 - 0:02:59)
+Die stellen jetzt hier nicht alle dar, das wäre sozusagen dann ja keine Zusammenfassung mehr, sondern nur die wichtigsten. Und das finde ich kann auch wieder jeder sich einfach mal angucken, bevor er es an den Netzbetreiber oder den Kunden schickt, einfach um seine eigene Anlage noch mal gegenzulesen. Also wenn die allgemeinen Themen durch sind, geht es erst mal ins Technische Eingemachte.
+
+(0:02:59 - 0:03:23)
+Die Einspeiseleistung guckt sich die Zertifizierstelle jetzt einmal an und da gibt es einen P600, das ist ein Mittelwert, der wird so definiert in der Norm. 600 bedeutet Sekunden, also 10 Minuten lang wird dieser Wechselrichter im Einheitenzertifiziert-Card getestet und dann kommt ein Wirkleistungswert raus. Das ist im Grunde der ähnliche oder gleiche, wie der, der auch im Datenblatt steht, aber da sieht man schon, wie kleinteilig das ist.
+
+(0:03:23 - 0:03:47)
+Die Zertifizierstelle guckt also nicht auf das Datenblatt, sondern sie guckt ins Einheitenzertifikat und da steht vielleicht nach der ersten Kommastelle noch mal ein anderer Wert als im Datenblatt. Dann guckt sie, welcher Wirkleistungswert ist denn eigentlich maximal zulässig. Der PAVE, also der erzeugte maximale Einspeisewert, der kommt aus dem E9-Bogen, das ist das, was der Netzbetreiber zulässt.
+
+(0:03:47 - 0:04:06)
+Und jetzt vergleicht die Zertifizierstelle das mal und gibt nur grünes Licht, wenn sie sagt, dass der Mittelwert, den die Anlage erzeugt, kleiner gleich ist dem zulässigen Wert, der vom Netzbetreiber kommt. Gehe mich noch mal kurz damit rein. Das kann ja sein, dass das ein limitierter Wert ist, ein begrenzter Wert kommt später noch.
+
+(0:04:07 - 0:04:19)
+Deswegen gibt es ja solche Anlagen-Limitierungen. So, dann ist aber mal der erste Punkt schon mal abgearbeitet. Also die Wirkleistung am Netz wird nicht überschritten.
+
+(0:04:20 - 0:04:30)
+Dann schaut sich die Zertifizierstelle einzelne Betriebsmittel an. Wir haben hier mal, ich glaube, zwei dargestellt. Es gibt am Ende wahrscheinlich mehr, aber das sind jetzt erstmal die wichtigsten.
+
+(0:04:30 - 0:04:42)
+Und die wiederum schaut sie sich nach Dauerstrombelastbarkeit an und gleich kommt noch der Kurzschluss. Aber erstmal die Dauerstrombelastbarkeit. Daher kommen jetzt eben die Kabeldaten zum Einsatz, die ihr da im Schema angegeben habt.
+
+(0:04:42 - 0:05:11)
+Und da findet ihr sie dann wieder. Also meinetwegen das erste Kabel in der Mittelspannung hat 150 Quadrat, ist Kupfer, hat eine gewisse Länge und daraus folgt dann ein thermisch zulässiger Strom, auch der wieder nach Norm. Wenn jetzt ihr alles richtig angegeben habt, rechnet die Zertifizierstelle einen maximalen Strom aus, der auftritt, wenn man so will, der Nennstrom der PV-Anlage und würde im nächsten Schritt diese zwei miteinander vergleichen.
+
+(0:05:11 - 0:05:24)
+Das ist ein ganz einfacher Dreisatz und jetzt hätten wir hier unser Kabel mit 52% ausgelastet. Das ist in Ordnung, sollte halt nur nicht über 100% sein. Das machen die beim Transformator genauso.
+
+(0:05:25 - 0:05:37)
+Haben wir mal ein Beispiel hier reingesetzt. 3150 kVA, da kommen dann Ströme raus. Beim Trafo vielleicht nochmal ein bisschen schwieriger, weil es gibt dann natürlich die Oberspannungsseite und die Unterspannungsseite, haben wir hier einzeln dargestellt.
+
+(0:05:38 - 0:05:54)
+Also einmal der Nennstrom und der maximale Strom, also der Betriebsstrom auf der Unterspannungsseite. Und wenn man das jetzt auch wieder im Dreisatz miteinander vergleicht, kommt man bei dem Trafo auf eine Ausleistung von 88%. Ist für mich gut, bei Trafos ist das immer ein großes Thema.
+
+(0:05:55 - 0:06:04)
+100%, 101, 102, wir haben 88 hier angegeben. Dann sind wir da auf der sicheren Seite und das passt auch so Daumen hoch. Das Ganze ist zulässig.
+
+(0:06:06 - 0:06:16)
+Der zweite Fall ist der Kurzschluss. Das gucken die sich auch an. Also eine Kurzschlussfestigkeit geht ähnlich in der Betrachtung.
+
+(0:06:16 - 0:06:31)
+Ich zeige es mal kurz anhand von einem Beispiel. Die Zertifizierstellen machen das mit den wichtigsten elektrischen Kenngrößen, also den Schaltanlagen, ganz wichtig. Mit den Wandlern, die werden auch geprüft, dass sie einen Kurzschluss standhalten würden und den Kabeln.
+
+(0:06:32 - 0:06:50)
+Wir machen es wieder an einem Kabelbeispiel. Das ist das gleiche Kabel wie gerade, aber jetzt geht es nicht um die langen Belastungen, sondern um die kurzfristige, um die Kurzschlussfestigkeit. Deswegen steht jetzt hier auch ein anderer Stromwert, haben wir uns aus dem Datenblatt rausgesucht.
+
+(0:06:50 - 0:07:14)
+Unser Kabel hat halt 21,4 Kiloampere, also 1000 Ampere zulässigen Strom, Kurzschlussstrom, wenn er für eine Sekunde ansteht. Dann kommt die Schutztechnik zum Tragen. Die Zertifizierer gucken jetzt also ins Schutzschema und sehen, dass da ein Distanzschutz aus dem Umspannwerk zuständig ist und dass das nach 0,45 Sekunden abschalten würde.
+
+(0:07:14 - 0:07:39)
+Das ist ganz wichtig, weil der Wert aus dem Datenblatt bezieht sich auf eine Sekunde. Jetzt kann man an einer Kennlinie, die werdet ihr dann auch sehen in der Übung später, anhand der Kennlinie kann man jetzt rückwärts rechnen, welchen thermischen Strom, denn das Kabel dann bei dieser Abschaltzeit, also 0,45 Sekunden tragen kann. Das ist deutlich größer, weil die Zeit jetzt kürzer ist als eine Sekunde.
+
+(0:07:39 - 0:07:50)
+Umso schneller das abschaltet, umso höher ist die maximale Strombelastbarkeit. In unserem Fall 31,9 Kiloampere. Jetzt kommt das ITH dazu.
+
+(0:07:50 - 0:08:16)
+Das ist jetzt der maximale Kurzschlussstrom, der an der Stelle auftreten kann. Den kriegen wir aus einer Netzberechnung und man kann ihn sich auch relativ einfach so herleiten, dass man den maximalen Kurzschlussstrom aus dem E9-Bogen annimmt, der vom Netz kommt und dann seinen eigenen Nennstrom noch drauf rechnet. Das haben wir jetzt hier mal, macht das ein typischer Wert, 20 Kiloampere vom Netz, vielleicht 1000 Ampere von der Anlage.
+
+(0:08:16 - 0:08:33)
+Dann ist man dabei 21 Kiloampere und jetzt sieht man der maximal auftretende Kurzschlussstrom geteilt durch die maximale zulässige Größe. Das sind wieder unter 100 Prozent. 66 Prozent hier in dem Fall.
+
+(0:08:33 - 0:08:47)
+Also ist das auch wieder in Ordnung. Schritt 4, die Spannungsänderung am Netzanschlusspunkt. Vielleicht an der Stelle nochmal, weil jetzt wird es ja langsam ein bisschen schwieriger.
+
+(0:08:47 - 0:09:08)
+Das macht ja die Zertifizierstelle. Ich sage jetzt nur mal, wie die da ungefähr rangehen und die haben natürlich immer im Hintergrund eine Software, mit der sie sowas ausrechnen. Man kann das auch mal ein bisschen am Taschenrechner machen, aber wichtiger ist, dass sozusagen der Logik folgen zu können und der Zertifizierstelle, denke ich, zu überlassen, dass die das richtig rechnet.
+
+(0:09:08 - 0:09:27)
+Worum geht es bei der Spannungsänderung am Netzanschlusspunkt? Also das Limit nach der 4110 sind zwei Prozent. Das taucht immer wieder auf. Auch jetzt in Themen, wenn wir sagen, unsere Netze sind nach aktuellen Betrachtungen so ein bisschen am Limit angekommen, dann geht es immer um diese zwei Prozent Spannungshub.
+
+(0:09:27 - 0:09:53)
+Also im Normalbetrieb darf man da nicht drüber kommen. Und was macht die Zertifizierstelle? Die rechnet dann also mehrere Fahrweisen durch, unter anderem den über- und unterregten Betrieb und geht da immer so in die Maximalgrenzen rein. Und da sagen wir in unserem Beispiel jetzt erstmal Daumen nach unten, schon alleine, dass ich auch mal was nicht so gut geprüft habe und dann vielleicht wieder ein bisschen mehr Aufmerksamkeit hier dadurch erzeugen kann.
+
+(0:09:53 - 0:10:18)
+Also das funktioniert jetzt nach Zertifizierstelle erstmal nicht. Was machen die dann? Die sagen dann, na ja, genau dafür sind ja diese Fahrweisen gedacht, die im E7, Achtung, oder E9-Bogen, je nach Spannungsebene angegeben sind. Also der Netzbetreiber sagt ja, dass er jetzt in unserem Fall hier mit dieser Q von U-Kennlinie die Anlage fahren möchte.
+
+(0:10:18 - 0:10:39)
+Und jetzt rechnet die Zertifizierstelle einfach neu und dann passiert ja genau das, was auch passieren soll. Genau dafür sind ja diese Anforderungen geschrieben, dass jetzt in gewissen Belastungs-Fahrweisen sozusagen die Spannungshub reduziert wird. Das kann ja das Wunder der Blindleistung genau dabei unterstützen.
+
+(0:10:39 - 0:11:05)
+Und dann geht, sagen wir mal im Beispiel, mein grüner Daumen jetzt nach oben, weil die sagen, na ja, wenn wir in unserem Simulationsprogramm diese Fahrweise beachten, dann funktioniert es schon und damit können wir insgesamt grünes Licht geben. Ich glaube, jetzt wird schon deutlich, warum dann eben auch dieser Parkregler so wichtig wird oder die Einstellwerte am Wechselrichter oder dass das Gesamtsystem funktioniert. Weil wenn es eben nicht so funktioniert, dann ist das Planungszertifikat vielleicht richtig.
+
+(0:11:06 - 0:11:22)
+Aber wenn die Ausführung nicht so ist, dann hat man am Ende ja doch wieder einen Spannungshub, der im roten Bereich landet. So, das war ein Spannungshub am Netzverknüpfungspunkt. Als nächstes käme eine Kurzschlussleistung am Netzanschlusspunkt.
+
+(0:11:22 - 0:11:30)
+Gehen wir direkt weiter mit unserem Liegestuhl. Das brauchen wir nicht. Bei unseren Typ 2 Anlagen, PVA, ist das nicht erforderlich, steht aber in der Reihenfolge so drin.
+
+(0:11:30 - 0:11:39)
+Deswegen wird das auch von Zertifizierstellen oft genannt. Jetzt habt ihr es mal gehört, aber wir können zum Glück gleich weitergehen. Netzrückwirkung.
+
+(0:11:40 - 0:11:46)
+Zeige ich auch nochmal so eine Kennlinie. Gleiches Spiel. Die geben da, ja, okay, gehen wir mal so rum rein.
+
+(0:11:47 - 0:11:58)
+Also da sagt erst mal die 4110, die Rückwirkung soll auf das Verteilnetz begrenzt werden. Dann finde ich es erst mal grundsätzlich nachvollziehbar. Wir versuchen, so wenig wie möglich Netzrückwirkung zu erzeugen.
+
+(0:11:59 - 0:12:12)
+Das kann man nur mit einer Netzberechnung nachweisen, was da eigentlich so passiert. Deswegen brauchen wir da ja auch die Zertifizierstelle an der Stelle. Und wie machen die das? Die gucken sich erst mal eine schnelle Spannungsänderung an.
+
+(0:12:12 - 0:12:19)
+Das ist mal der erste Punkt, auf den die da gucken. Das sind so dynamische Vorgänge im Netz. Und zum Beispiel sind das Schaltvorgänge.
+
+(0:12:19 - 0:12:34)
+Und das kann man sich so vorstellen, wenn am Netzverknüpfungspunkt einer jetzt den Hauptschalter einfach mal abschaltet, dann würde man hier eine Worst-Case-Betrachtung machen. Also das ist dann volle Einspeisung ins Netz. Und dann darf die Spannungsdifferenz an der Stelle nicht größer als 2% sein.
+
+(0:12:35 - 0:12:45)
+Es gibt ein bisschen eine Vereinfachung. Wenn das eine Schutzauslösung ist, dann hat man 5%. Also da sagt man, na ja, ein Fehlerfall, der kommt ja sehr selten vor.
+
+(0:12:46 - 0:12:57)
+Da kann man dann auch mal 5% sozusagen akzeptieren im Netz. Aber bei normalen Schaltvorgängen sozusagen ist das nicht erlaubt. Und genau das simulieren die in ihrem Software-System.
+
+(0:12:59 - 0:13:22)
+Wenn das dann doch mal drüber liegt, dann findet man Lösungen, indem man zum Beispiel Kaskadierungen aufbaut. Also nicht alle Schalter gleichzeitig reinnimmt oder raus, sondern so Kaskadierungssysteme aufbaut. Und ich sage an der Stelle, das schreibe ich auch so in meine Handlungsempfehlungen rein, ich würde grundsätzlich versuchen, nicht komplette Leistungen zu oder abzuschalten.
+
+(0:13:23 - 0:13:43)
+Einfach aus genau diesem Grund. Es ist, sage ich mal, unschön fürs Netz. Wenn man also gerade mittags in der vollen Sonne jetzt Wartungsarbeiten ausführen will, empfehle ich immer, grundsätzlich auch, um die Komponenten zu schützen, erstmal über die Fernwirk-Technik die Leistung der Wechselrichter zu drosseln, auf Null runterzufahren oder nahe Null und dann abzuschalten.
+
+(0:13:43 - 0:13:59)
+Dann passieren ja kaum Spannungsschwankungen. Grundsätzlich ist es aber trotzdem so, wenn man von Wartungsarbeiten ausgeht, dann steht das da so drin, dann muss man das nicht unbedingt machen mit der Kaskadierung. Aber ich sage ja, ich würde es trotzdem tun, auch bei Wartungsarbeiten.
+
+(0:13:59 - 0:14:11)
+Dann bin ich ja eh vor Ort, dann kann ich ja mal die zehn Trafostationen eine nach der anderen zuschalten und nicht alle gleichzeitig. Im nächsten Unterpunkt geht es um Flicker. Auch da braucht man eine Netzberechnung.
+
+(0:14:12 - 0:14:27)
+Also Flicker grundsätzlich, das sind so Spannungsschwankungen, so schnelle Spannungsschwankungen im Netz, nicht wie die gerade, die ich genannt habe, sondern das sieht man mehr so, dass da mal eine Glühbirne dann flackert. Daran würde man das erkennen können. Da gibt es Grenzwerte, die sind da beschrieben, da wird das verglichen.
+
+(0:14:27 - 0:14:37)
+Aber das hatten wir noch nie, dass das bei einer PV-Anlage ein Problem sein wird. Trotzdem wird es geprüft und dann gehen wir aber direkt weiter. Netzberechnung bleibt absichtlich stehen.
+
+(0:14:37 - 0:14:49)
+Das liegt daran, dass man das jetzt immer braucht. Also auch bei den Oberschwingungen, die als nächstes angeguckt werden, braucht man so eine Netzberechnung. Es gibt gerad- und ungeradzahlige Oberschwingungen, die werden vom Wechselrichter erzeugt.
+
+(0:14:49 - 0:15:04)
+Das ist so, das ist eine technische Notwendigkeit, da kommt man nicht drum rum. Versuchen die natürlich zu reduzieren, aber es gibt sie nun mal. Und jetzt speisen also Millionen von Wechselrichtern ihre Oberschwingungen ins Netz und dann schaut man sich die Summe im Netz an.
+
+(0:15:04 - 0:15:16)
+Das macht man auch mit den Zwischen- und Supraharmonischen. Und welche Werte denn überhaupt so ein Wechselrichter da einspeist, entnimmt die Zertifizierstelle aus dem Einheitenzertifikat. Da wurden die genau gemessen.
+
+(0:15:16 - 0:15:30)
+Das sind diese Anhänge, von denen ich beschrieben habe. Ich glaube, die hat nie jemand gesehen, es sei denn, er hat mal bei einer Zertifizierstelle gearbeitet, weil die das nicht unbedingt rausgeben. Also im Deckblatt steht sowas nicht, sondern das ist dann irgendwie die Seite 120 oder was.
+
+(0:15:30 - 0:15:46)
+Und da sieht man die genauen Messwerte von einem spezifischen Wechselrichter-Typ für zum Beispiel die geradzahligen Oberschwingungen. Also die Werte nehmen die dann, tippen die ein in ihre Software-Systeme, vergleichen die mit gültigen Grenzwerten. Und ich zeige das hier nochmal, wie das aussieht.
+
+(0:15:46 - 0:15:52)
+Sieht dann meistens so aus. Grenzwerte grün, viel größer als blau. Der Ist-Wert von der Anlage.
+
+(0:15:52 - 0:16:17)
+Und dann gibt es da auch einen Daumen nach oben. So, dann werden die Netzrückwirkungen abgearbeitet und man geht als nächstes in den sogenannten quasi-stationären Betrieb. Was war das nochmal? Also erstmal, auch hier braucht man die Zertifizierstelle, die Ist-Werte sozusagen vom Wechselrichter, also der Erzeugungseinheit aus dem Einheitenzertifikat.
+
+(0:16:17 - 0:16:42)
+Und dann vergleichen die, wie sie es halt eigentlich grundsätzlich machen, das Ganze mit dem Diagramm nach Norm. Was passiert bei diesem quasi-stationären Betrieb? Wir haben das an anderer Stelle sehr genau erklärt. Also die Spannungswerte zum Beispiel müssen zwischen 90% und 110% der Nennspannung immer eingehalten werden können.
+
+(0:16:43 - 0:16:57)
+Also die Wechselrichter müssen in dem Bereich und dann noch zwischen 49 und 51 Hertz dauerhaft im Betrieb bleiben können. Vielleicht gehe ich jetzt kurz aus dem Bild, dann kann man das besser sehen. Danke, genau.
+
+(0:16:58 - 0:17:13)
+Also das ist erstmal der dauerhafte Betrieb. Und dann haben die halt angegeben, wenn das jetzt bei Überspannung, also bis 115% oder bei den Unterspannungen bis 85% läuft, dann müssen die noch 60 Sekunden damit dranbleiben. Und bei den Frequenzen seht ihr das.
+
+(0:17:13 - 0:17:31)
+Da sind das sogar Minutenbereiche, die diese Wechselrichter da noch drin bleiben müssen. Auch das wird also simuliert und dann verglichen mit dem Einheitenzertifikat. Der Nachweis der Inselbetriebsfertigkeit ist für PV-Anlagen nicht relevant.
+
+(0:17:31 - 0:17:49)
+Deswegen gehe ich da auch direkt weiter und schaue lieber in den Nachweis der Schwarzstartfähigkeit drin, der zu meiner Freude auch nicht relevant ist für die PV-Anlage. Also kann man direkt weiterlaufen. Wir haben die statische Spannungshaltung, also die Blindleistungsbereitstellung.
+
+(0:17:50 - 0:18:06)
+Gucken wir uns wieder so ein bisschen an. Und jeder, der schon andere Einheiten mitverfolgt hat, kennt jetzt die zwei Icons oben. Einmal für langsam, das sind wir jetzt gerade, und der andere ist dann für so eine schnelle Auswirkung.
+
+(0:18:06 - 0:18:20)
+Jetzt sind wir erst mal bei statischer Spannungshaltung und Blindleistungsbereitstellung. Also ist das eine langsame Betrachtung. Die sieht dann in der Norm so aus, ein Q zu P zu P-Diagramm.
+
+(0:18:20 - 0:18:30)
+Und dann hat man erst mal Grenzwerte. Wir haben jetzt die 41,20 reingenommen, weil dann gleich ein Effekt noch deutlich wird. Aber vom Grundprinzip gibt es die in der 41,10 auch und in der 41,30.
+
+(0:18:30 - 0:18:54)
+Also das sind die Grenzwerte, die eingehalten werden müssen von unserer Erzeugungsanlage. Und jetzt kommt die Netzberechnung der Zertifizierstelle zu diesem orangenen Ergebnis. Und dann sieht man jetzt schon, dass die Netzberechnung zeigt, dass in großen Teilen die Anlage sogar mehr kann, als die 41,20 fordert.
+
+(0:18:54 - 0:19:09)
+Aber hier im unteren Bereich, und Achtung, das ist dann der Nennenbereich der Wirkleistung, also bei voller Einspeisung sozusagen. Bei Minus eins bedeutet das, dass die Anlage zu 100% einspeist. Da geht es nicht.
+
+(0:19:09 - 0:19:31)
+Das ist dieser Bereich, und der fällt jetzt plötzlich raus aus der Betrachtung oder aus der positiven Bewertung. Wenn wir jetzt in der 41,10 sind, deswegen highlighten wir das hier auch so, dann ist das aber nicht so tragisch, weil die 41 sagt, ihr dürft in diesem Bereich die Wirkleistung zugunsten der Blindleistung reduzieren. Also der Wechselrichter kann diese Fahrweise ja nicht.
+
+(0:19:31 - 0:19:47)
+Also wird er im Dreisatz irgendeine Reaktion zeigen müssen. Er wird die Wirkleistung reduzieren. Und dann hat er wieder die Chance, bei gleichbleibender Scheinleistung den geforderten Blindleistungswert einzuspeisen.
+
+(0:19:48 - 0:20:00)
+Aber warum machen wir da jetzt hier so ein Zenova drum? Weil bei der 41,20 gilt das so nicht. Diese Wirkleistungsreduzierung ist nicht zulässig. Und wie löst man das dann? Man begrenzt die Wirkleistung des Wechselrichters.
+
+(0:20:00 - 0:20:13)
+Wir machen jetzt hier ein Zahlenbeispiel rein. Da ist die Linie bei 87%. Weil wenn man den Wechselrichter hart an diesem Wert festnagelt, dann würde er ja wiederum in der bildlichen Betrachtung alle Bereiche einhalten können.
+
+(0:20:14 - 0:20:25)
+Und genau das ist sozusagen das Ziel dieser Berechnung. Aber Achtung, in der 41,20, in der 41,10 ist diese Bewertung auch relevant. Sie wird gemacht.
+
+(0:20:25 - 0:20:33)
+Sie hat nur nicht zur Folge, dass es eine harte Wirkleistungsbegrenzung gibt. Ich sage es nur der Form halber. Es gibt ja meistens trotzdem eine.
+
+(0:20:33 - 0:20:46)
+Die kommt aber aus einer anderen Bewertung heraus. So, das war erstmal die Kennlinie dazu. Und jetzt kommt genau der zweite Punkt, der da mit reinspielt.
+
+(0:20:47 - 0:20:52)
+Es gibt ja ein Blindleistungsverfahren durch den Netzbetreiber. Darüber haben wir auch schon öfter drüber gesprochen. Und und oder.
+
+(0:20:53 - 0:21:03)
+Weil er kann mehrere auswählen und das Ganze dann umschaltbar machen über die Fernwirktechnik. Aber das prüft eben jetzt hier die Zertifizierstelle. Die guckt sich das an.
+
+(0:21:03 - 0:21:27)
+Hat der Q von U oder der Q von P? Hat er die Blindleistung mit Spannungsbegrenzungsfunktion ausgewählt oder einen festen Verschiebungsfaktor? Und dann guckt er, ob der Netzverknüpfungspunkt mit so einem Messwandler ausgeführt ist, der dann auch wiederum mit dem Parkregler verbunden ist, dass das auch an dieser Stelle gesteuert werden kann. Er guckt, ob der Parkregler ein Komponentenzertifikat hat. Das doppelt sich jetzt an der Stelle.
+
+(0:21:28 - 0:21:46)
+Deswegen machen wir direkt weiter. Und er schaut sich an, ob die Genauigkeit und die Geschwindigkeit der Regelkette ausreichend ist, um, Achtung, jetzt also oben steht es ja nochmal, diese statische Spannungshaltung einhalten zu können. Jetzt kommt die dynamische Netzstützung.
+
+(0:21:47 - 0:21:58)
+Also oben der Icon ist jetzt der andere blau gemacht. Wir sind also jetzt im dynamischen Bereich. Das kann man mit den gleichen Software-Systemen rechnen, ist aber ein anderer Ansatz.
+
+(0:21:58 - 0:22:18)
+Also jetzt wird eine dynamische Berechnung durchgeführt. Wir vergleichen das oft mit dem Diagramm hier, das wir jetzt nicht erklären, aber vom Grundsatz her ist es eben genau die Betrachtung. Man schaut sich an, in welchen Bereichen muss der Wechselrichter oder die Anlage jetzt einen Fehler durchfahren können.
+
+(0:22:18 - 0:22:30)
+Das nennt sich dann FRT, ein Fault Right Through. Das ist in dem fachspezifischen Jargon sozusagen ein feststehender Begriff. Da ist also klar, was gemeint ist.
+
+(0:22:30 - 0:22:49)
+Also wenn mal ein Fehler auftritt, der aber relativ kurz ist, man sieht es hier in der Zeitachse, das sind ja relativ kurze Zeiten, die da betrachtet werden, dann darf der Wechselrichter sich nicht vom Netz trennen. Er muss den Netzfehler mit durchfahren. Er muss dem Netz die Chance geben, sich wieder zu erholen, um dann wieder bei der Energieversorgung mitmachen zu können.
+
+(0:22:50 - 0:23:05)
+Also innerhalb der Grenzkurve keine Netztrennung zulässig. Um das einhalten zu können, haben wir eine Übung gemacht in einem anderen Schulungsblock, braucht er einen gewissen K-Faktor. Mit dem kann er das nachsteuern, ob er das schafft oder nicht.
+
+(0:23:05 - 0:23:17)
+Der kommt aus dem E9-Bogen. Und dann macht er eben diese Simulation, haben wir mal ein Beispiel hier reingesetzt, und dann wird er darauf kommen, dass das funktioniert. Und dann ist diese dynamische Netzstützung auch nachgewiesen.
+
+(0:23:19 - 0:23:31)
+Wirkleistungsabgabe. Die Wirkleistungsabgabe. Eine Beschreibung von Sollwert und Leistungsgradient überprüft er also erst mal.
+
+(0:23:32 - 0:23:49)
+Das ist der erste Punkt gemeint. Dann eine Definition der Priorisierungsanforderung, hatte ich vorhin auch schon mal genannt, aber da war das so, wir sollten in der Parkreglerbeschreibung darauf achten, dass es drin steht. Und hier überprüft er jetzt noch mal, ob das Ganze auch richtig beschrieben wurde.
+
+(0:23:50 - 0:24:00)
+Genau, da steht es. Im Parkreglerkonzept hat man das aufgeschrieben und jetzt überprüft er das Ganze noch mal. Netzsicherheitsmanagement.
+
+(0:24:00 - 0:24:16)
+Also vielleicht, um noch mal alle abzuholen, wir haben uns diese Reihenfolge nicht erhebbar ausgedacht, sondern das macht die 4110 so. Die meisten Zertifizierstellen übernehmen das dann. Das heißt, jetzt würden sie als nächstes sich angucken, ob das Netzsicherheitsmanagement nach 4110 ausgelegt ist.
+
+(0:24:16 - 0:24:29)
+So kann sowas aussehen. Das ist so eine typische Kennlinie bei der Wirkleistungssteuerung. Und für die Erzeugungsanlage muss man jetzt eine Regelungsgeschwindigkeit nachweisen können.
+
+(0:24:29 - 0:24:51)
+Wir sind ja immer noch erst mal in der Theorie, dass das dann in der Praxis auch genau so funktioniert, macht man nicht jetzt, nicht heute im Anlagenzertifikat, sondern das macht man dann später in der Konfirmitätserklärung. Hier erst mal also theoretische Betrachtung. Das heißt, sie gucken, ob der Parkregler das laut Komponentenzertifikat kann und ob die Erzeugungseinheit das ganze laut Komponentenzertifikat kann.
+
+(0:24:52 - 0:25:09)
+Gewisse Abweichungen sind zulässig und dann hätte man das erst mal geprüft in der theoretischen Betrachtung. Als zweiten Punkt hier bei diesem Netzsicherheitsmanagement gibt es eine Wirkleistungsanpassung bei Über- und Unterfrequenz. Das ist diese Kurve hier, die wiederum ist dynamisch.
+
+(0:25:09 - 0:25:18)
+Habt ihr oben vielleicht gesehen, jetzt hat sich das Icon, das zweite Icon blau gefärbt. Also das funktioniert sehr, sehr schnell. Das ist automatisiert hinterlegt im Wechselrichter.
+
+(0:25:18 - 0:25:37)
+Aber für heute ja nur der Zertifizierer guckt sich an, ob das auch wirklich so möglich ist, laut Einheitenzertifikat und dann geht es weiter. Kurzschlussstrom, Beitrag der Erzeugungsanlage, ist für den Netzbetreiber sehr interessant, für uns eigentlich nicht so sehr. Ich zeige es einfach mal kurz.
+
+(0:25:37 - 0:25:43)
+Es gibt da so einen Anfangskurzschlusswechselstrom. Es gibt einen Stoßkurzschlussstrom. Es gibt einen Dauerkurzschlusswechselstrom.
+
+(0:25:43 - 0:26:04)
+So sind solche Stromkurven definiert. Und aus dem Einheitenzertifikat kann der jetzt das rauslesen, sie in eine Netzberechnung machen und dann kommt ein Gesamt-Kurzschlussstrom-Beitrag zustande. Das will der Netzbetreiber wissen, weil der wiederum ja sein ganzes System betrachten muss und da braucht er alle Kurzschlussstrom-Beiträge sozusagen aller Teilnehmer.
+
+(0:26:04 - 0:26:23)
+Insofern ist dieser Punkt für uns, finde ich, gar nicht so relevant. Für den Netzbetreiber ist er tatsächlich sehr interessant. Genau. 
+
+Und da werden dann auch die Komponenten nochmal geprüft, hatte ich vorhin gesagt, ob sie dem Stand halten. Aber das haben wir ja schon gemacht. Und jetzt ging es eigentlich mehr darum, dass der Netzbetreiber diese Werte bekommt.
+
+(0:26:26 - 0:26:32)
+Die Schutztechnik. Da macht man jetzt eine Konzeptprüfung. Ganz anderer Brainday.
+
+(0:26:32 - 0:26:48)
+Deswegen gehe ich darauf heute nicht ein, sondern ich zeige einfach nur, wie so ein Ding aussieht. Und jetzt guckt die Zertifizierstelle, ob das aus ihrer Sicht Sinn macht im Konzept und ob das den Anforderungen genügt. Und zwar gegen internen und externen Fehler.
+
+(0:26:49 - 0:26:56)
+Das ist unsere Unterteilung. Aber die Norm macht es ähnlich. Es gibt also sozusagen einen Netzschutz, der ist dann für das Netz.
+
+(0:26:56 - 0:27:14)
+Und es gibt einen Anlagenschutz, der schützt sozusagen unsere Anlage. Und das zeige ich nur einmal in der Übersicht und gehe auf keinen Fall auf diese ganzen Punkte ein, die da jetzt kommen. Sondern wir wollen nur zeigen, dass es eine Trennung gibt zwischen diesem zweischen Schutzsystem und dass sich die Zertifizierstelle jetzt das anguckt.
+
+(0:27:15 - 0:27:34)
+Sie guckt, ob die USV richtig ausgelegt sind, ob es den Live-Kontakt gibt, wo die Messungen sind, wo die Auslösungen sind. Das machen die, da gucken die drauf. Und jetzt wiederhole ich mich bestimmt, aber dann ist es eben so, wenn ihr das vorher schon einmal gemacht habt, dann reduziert sich natürlich die Wahrscheinlichkeit enorm, dass die Zertifizierstelle hier irgendwo Fehler findet.
+
+(0:27:36 - 0:27:51)
+So, wir sind beim nächsten Bullet Point. Also Schutzkonzept bezieht sich auf die PV-Anlage und aber auch auf das Umspannwerk oder die Übergabestation. Man muss das für das Anlagenzertifikat bitte als Gesamtkonzept begreifen.
+
+(0:27:51 - 0:28:07)
+Nicht nur auf sich gucken, sondern auch auf die Übergabestation. Dann machen die eine Plausibilitätsprüfung und gucken, dass die Angaben genauso sind wie beim Netzbetreiber. Zuschaltbedingungen und Synchronisierung.
+
+(0:28:07 - 0:28:13)
+Auch ein Thema für sich. Ich zeige es nur mal ganz kurz das Schema. Vielleicht hat es schon mal jemand gesehen.
+
+(0:28:13 - 0:28:38)
+Also die Zertifizierstelle guckt, ob das eingehalten wird. Die Grundlogik ist, wenn nach einem meinetwegen Netzfehler die Spannung auf 95% wieder zurückkehrt und Frequenzen in gewissen Reisen wieder zurückkommen, also das Netz kommt wieder zurück, dass es dann wieder Zuschaltungen gibt. Die Zuschaltungsgrenzen haben wir hier aufgeführt, aber das haben wir einfach abgeschrieben aus der Norm.
+
+(0:28:38 - 0:28:55)
+Und dann würden also die Erzeugungseinheiten nach einer Schutzeinlösung sich automatisch wieder zuschalten. Das machen die nur im zwischengelagerten Schutz. Am Netzanschlusspunkt ist eine automatische Zuschaltung so nicht zulässig, wenn der Schutz ausgelöst hat.
+
+(0:28:55 - 0:29:18)
+Aber hier geht es darum, dass man sich Gedanken gemacht hat, wie man bei Netzausfall das System automatisch wieder hoch bekommt. Der Netzbetreiber will da die Kontrolle darüber haben, hat deswegen das so in diesen Richtlinien aufgeschrieben und die Zertifizierstelle hat jetzt geguckt, dass es auch genau so gemacht wird. Die 17 brauchen wir nicht, deswegen gehe ich direkt weiter.
+
+(0:29:19 - 0:29:32)
+Die 18 brauchen wir auch nicht, deswegen gehe ich auch da direkt weiter. Die 19 ist wichtig, deswegen zeige ich sie kurz. Eine Eigenbedarfs- und Hilfsenergieversorgung hatte ich schon mehrfach genannt.
+
+(0:29:32 - 0:29:50)
+Jetzt käme der Prüfpunkt nochmal unmittelbar. Also sie gucken, ob das Konzept der USV-Systeme sozusagen richtig ist und ob die richtig ausgerechnet wurde. Deswegen gibt es für alle USVs, also in der Übergabestation für den Schutz, aber auch für den zwischengelagerten Schutz, eine Berechnung.
+
+(0:29:50 - 0:30:09)
+Wenn man die gleich schon vorbereitet hat, ist dieser Punkt sofort abgearbeitet. Wir haben das in der anderen Schulungseinheit gemacht, wie man sowas ausrechnet. Ist vorbereitet, hat funktioniert und dann weiß die Zertifizierstelle, wenn es mal zu einer Netzabschaltung kommt, Ausfall, dann laufen aber die Schutzsysteme und auch der Parkregler so lange weiter, wie das nach Norm vorgesehen ist.
+
+(0:30:11 - 0:30:39)
+Eine sprunghafte Spannungsänderung machen wir heute nicht, weil das für uns als PV-Leute nicht wichtig ist und jetzt kommt der letzte Punkt, der vorletzte Punkt, das EZA-Modell. Hier fordert oft der Netzbetreiber ein Modell von der Anlage, damit er selbst die Anlage in sein großes System integrieren kann. Das sind Simulationstools, so wie ich sie kenne, die sind allgemein bekannt.
+
+(0:30:40 - 0:30:56)
+Deswegen ist das an sich keine schwierige Sache. Man muss sich nur darum kümmern, dass man seine Anlage abbildet in ein rechnerfähiges Modell und das dann der Zertifizierstelle und dem Netzbetreiber zur Verfügung stellt. Das ist hier ein Beispiel angegeben, aber es können auch andere sein.
+
+(0:30:57 - 0:31:07)
+Der Netzbetreiber nimmt das dann und integriert das in sein Gesamtmodell. Das ist zwingend erforderlich, wenn er das noch nicht gemacht hat in der Vergangenheit, weil es vielleicht nicht so wichtig war. Erinnert euch an die Kurve, die ich am Anfang gezeigt habe.
+
+(0:31:07 - 0:31:22)
+Wir sind bei 50% Anteil. Also die Hälfte seines Netzes wird ja bedient durch diese dezentralen Anlagen und dann braucht er auch die Modelle, um überhaupt das Gesamtkonstrukt sinnhaft nachbilden zu können. Vor 20 Jahren war das noch nicht so.
+
+(0:31:23 - 0:31:32)
+Da war das ja nur ein kleiner Anteil. Jetzt ist es so und in der Zukunft wird es noch mehr so sein. Hinweise haben wir noch aufgeschrieben.
+
+(0:31:32 - 0:31:59)
+Das sind aber nur zwei kleine Punkte und dann sind wir erst mal durch dieses Riesenkapitel durch. Hinweise hat der 4110 Verantwortliche aufgeschrieben und die Zertifizierstellen übernehmen das so. Also wenn man jetzt erst mal durch ist mit seinem Anlagenzertifikat und wenn man das alles aufgebaut hat, dann muss man eine Inbetriebssetzungserklärung innerhalb von zwei Wochen nach der Inbetriebnahme durch eine Fachfirma erstellen.
+
+(0:31:59 - 0:32:08)
+Das sind diese E-Bögen. Steht in der 4110 auch wunderbar beschrieben, wie man das dann macht. Fachfirma hätte ich vielleicht noch highlighten können.
+
+(0:32:08 - 0:32:16)
+Finde ich gut, dass das jemand macht, der auch weiß, was er tut. Und der zweite Hinweis geht immer darin. Also Leute, jetzt habt ihr den ersten Schritt geschafft.
+
+(0:32:16 - 0:32:30)
+Das Anlagenzertifikat ist da, aber jetzt kommt als nächstes die Konfirmationserklärung. Innerhalb von sechs Monaten bei der Zertifizierstelle einzureichen. Sonst, Achtung, erlischt auch teilweise die Gültigkeit des Anlagenzertifikats.
+
+(0:32:30 - 0:32:35)
+Die Anlage kann dann abgeschaltet werden. Das ist ein Riesenpunkt für sich. Den machen wir nicht heute.
+
+(0:32:36 - 0:32:38)
+Den machen wir ein anderes Mal.

@@ -1,0 +1,47 @@
+(0:00:00 - 0:00:26)
+So viel zum heutigen Ablaufplan. Also erstmal die große Frage, warum brauche ich über eine Datenbox? Wir haben uns dazu entschlossen, in die Überschrift zu setzen, dass es erstmal für uns grundsätzlich zwei verschiedene Varianten gibt, von der Aufgabenstellung aus betrachtet. Und zwar wäre das dann, ob diese Datenbox jetzt in der Übergabestation positioniert wird oder in der Trafostation.
+
+(0:00:26 - 0:00:41)
+Das hat dann den Grund, dass die grundlegend unterschiedliche Aufgaben auszuführen hat. Welche genau, darum soll es ja heute nicht gehen. Wir haben schon viel gesprochen über Datenschemen, wir haben auch viel über Anforderungen von Zertifizierstellen und so weiter gesprochen.
+
+(0:00:42 - 0:00:52)
+Das machen wir heute nicht, sondern heute geht es ja um die Box an sich. Und da ist aber nur wichtig zu verstehen, dass die in der Übergabestation einfach ein bisschen anders aussieht meistens als in der Trafostation. Das mal vorneweg.
+
+(0:00:53 - 0:01:13)
+Grundlegend ist es aber trotzdem so, sei es jetzt mal dahingestellt, wo genau sie liegt, die Komponenten, die da drin sind, dienen der Ausführung der Parkregelung. Also ohne Datenboxen und vor allem natürlich der Komponenten, die da drin sind, würden wir diese Parkregelung nicht hinkriegen. Das gleiche Spiel mit dem Direktvermarkter.
+
+(0:01:13 - 0:01:30)
+Man könnte auch zusammenfassend sagen, die Anlage ist nur steuerbar, wenn diese Datenboxen vor Ort sind und ihre Aufgabe auch richtig ausführen. Das ist eine andere Aufgabe, die Datensammlung selbst. Natürlich dient das auch als Grundlage dann wiederum für die Reaktion der Regelung.
+
+(0:01:30 - 0:01:41)
+Das ist klar. Aber es ist trotzdem eine eigenständige Aufgabe. Also in der Datenbox werden ganz viele Messwerte zusammengesammelt und vielleicht auch schon teilweise ausgewertet und dort auch noch gespeichert.
+
+(0:01:41 - 0:01:54)
+Also das ist so ein Datensammelpunkt. Messwertaufnahme. Damit meinen wir vielleicht als konkretes Beispiel so ein Netzanalysegerät, über das wir auch schon in anderen Schulungseinheiten sehr ausführlich gesprochen haben.
+
+(0:01:54 - 0:02:06)
+Das ist ein typisches Bauteil auf einer Anlage. Also meist wird das in so einer Datenbox entweder sogar da drin installiert, aber zumindest angeschlossen. Und das mit dem Anschließen ist auch schon das Stichwort für die nächste wichtige Aufgabe.
+
+(0:02:06 - 0:02:32)
+Ich hatte es im Eingang auch schon kurz beschrieben. Also für mich ist das klar, dass die Schnittstellen von dieser Datenbox immer die große Herausforderung darstellen. Die Datenbox an sich hat nun mal Verbindungen zu zum Beispiel dem Netzbetreiber, über das Gateway, aber auch zu, wenn das die Übergabestation ist, zu den Slave in den Trafostationen, vielleicht auch zu Schutzgeräten und eben wie beschrieben im Punkt vorher zum Netzanalysegerät.
+
+(0:02:32 - 0:02:44)
+Also es gibt ganz viele Schnittstellen und auch diese sind in der Datenbox irgendwo integriert. Letzter Punkt. Die USV-Pufferung, wie man sie ausrechnet, kommt ja ganz am Schluss.
+
+(0:02:44 - 0:03:17)
+Und wie so eine USV mit Batterie aussieht, sehen wir gleich im nächsten Kapitel. Grundlegend ist es aber so, die Datenboxen müssen also entweder sowieso nach TAB oder Norm USV gepuffert werden oder der Planer, also wir, entscheiden uns dafür, das sowieso zu tun, weil es sicherlich sinnhaft ist, die Daten immer noch zu speichern, auszuwerten zu können, auch wenn die Anlage mal nicht in Betrieb ist. Das waren jetzt soweit die Aufgaben für so eine Datenbox und jetzt habe ich das noch im zweiten Teil da mit reingeschoben.
+
+(0:03:18 - 0:03:56)
+Ja, was bringt jetzt die Datenbox als Vorteil mit, wenn man so will, als übergeordneter Vorteil? Das wäre einmal ja ganz klar der Schutz der Komponenten. Ich habe da so im Kopf eine Anlage, vielleicht die Freilandanlage, die irgendwo im Gewerbegebiet steht, wo richtig hart gearbeitet wird oder auch in der Nähe von irgendeinem Bergwerk, dann ist da viel Staub in der Gegend und dann muss man natürlich die einzelnen Komponenten schützen. Diese Komponenten von so einer Datenbox sind sehr kleinteilig, das sind elektronische Teile.
+
+(0:03:57 - 0:04:11)
+Die setzt man nicht einfach irgendwo draußen an die frische Luft, sondern die sollen geschützt aufbewahrt werden. Dafür ist die Datenbox auf jeden Fall schon mal sinnhaft. Dann Standardisierung, finde ich, ist auch ein wichtiger Punkt.
+
+(0:04:12 - 0:04:57)
+Das kann man sich so vorstellen, dass man jetzt nicht vielleicht für jede Trafostation schon mal sowieso nicht eine eigene Box überlegt, aber vielleicht ja auch nicht für jedes Projekt irgendwie eine neue Spezifikation schreiben möchte für so eine Datenbox. Das heißt, wenn man erst mal ein Konzept sich für seine Planung überlegt hat, dann kann man das standardisiert auch für die nächsten Projekte übernehmen. Die Vorverdrahtung im Werk ist deshalb so wichtig, weil jeder, der schon mal vor Ort bei Wind und Wetter versucht hat, Fehler zu finden oder vielleicht Komponenten nachzurüsten, der weiß, dass das definitiv ein ganz großer Vorteil gewesen wäre, hätte man das schon im Werk vorverdrahtet.
+
+(0:04:57 - 0:05:18)
+Das ist einfach ungleich einfacher und ganz klar birgt auch viel weniger Risiken. Die Komponenten, wenn man sie vor Ort verbaut, können natürlich viel einfacher falsch verdrahtet werden, der Test fällt schwieriger und vor allem können sie dabei auch ehrlich gesagt kaputt gehen, wenn es mal richtig heftig regnet. Dann hat so eine Datenbox immer irgendwie einen Stromlaufplan, der da mitgeliefert wird.
+
+(0:05:18 - 0:05:34)
+Man kann also sehr schnell, sehr klar erkennen, was da eigentlich verbaut ist, wie ich da meine Schnittstellen bediene und im Datenschema. Das habe ich noch dazu genommen, weil wir auch einen ganzen Brain Day dazu hatten. Da sieht man auch sehr gut den übergeordneten Zusammenhang sozusagen.

@@ -1,0 +1,29 @@
+(0:00:00 - 0:00:30)
+Letztes Kapitel, die weiteren E-Bögen, mehrfach, hoffentlich anschaulich erklärt, warum wir so detailliert jetzt auf E1 und E8 eingegangen sind und nicht auf die ganzen weiteren E-Bögen. Wir zeigen sie aber, um die ganze Sache rund zu machen, nochmal in der Kurzbeschreibung. Also als erstes, dieser erste Schritt, das war das, was wir heute gemacht haben, da ist Daumen hoch für E1 und E8, weil das haben wir uns ganz genau angeschaut.
+
+(0:00:30 - 0:00:52)
+In diesem ersten Schritt habt ihr jetzt gesehen, wie wir diese Bögen ausfüllen würden, das ist unsere Aufgabe. Beim Einheitenzertifikat und beim Komponentenzertifikat ist es ja so, dass man sich das einfach aus dem Internet runterzieht, deswegen haben wir da so ein Internet-Icon reingemalt. Jetzt geht es weiter, wir gucken uns die anderen auch noch kurz an.
+
+(0:00:52 - 0:01:13)
+Nicht, was da drin steht, sondern nur, wie es geht. Der E9 Netzbetreiberabfragebogen, der wird vom Netzbetreiber erstellt und wir haben eine komplette Schulungseinheit, die sich nur um diesen Netzbetreiberabfragenbogen kümmert. Da ist das Icon reingeflogen, so könnt ihr das virtuell abhaken.
+
+(0:01:13 - 0:02:18)
+Dann kommt der E15, das Anlagenzertifikat, auch da eine 2-Stunden-Einheit, so würde ich sagen, zeigen wir nochmal, wie wenig schnell man sich diese E-Bögen einfach mal so aneignen kann. Wahrscheinlich sind es in Summe dann ungefähr 15 Stunden Schulungsmaterial. Weiter geht es, die Errichtungsplanung stellt eine Checkliste da für den Anlagenerrichter, wir nutzen die sehr selten aus unserer Erfahrung heraus, aber warum nicht, liest ihr euch unbedingt mal durch, da fällt euch vielleicht noch auf, das habe ich ja sonst nicht gemacht oder meine Checkliste ist besser, aber da steht zum Beispiel drin, dass ihr einen Lageplan inklusive Standort eintreichen müsst, Achtung, wir sind ja jetzt schon im dritten Schritt, dass ihr ein Anlagenschema braucht, einen einphasigen Übersichtsplan, ihr braucht Montagezeichnungen, Messkonzepte, Grundrisse und Schnittstechnungen, Nachweis der Kurzschlussfestigkeit bezieht sich vor allem auf die Übergabestation, ist aber für alle Komponenten wichtig, eine Errichtererklärung.
+
+(0:02:18 - 0:03:00)
+Wir sagen, wir haben so eine Checkliste, sage ich mal, bei uns hat ja wahrscheinlich jeder in seinen Projekten viele Checklisten, aber man kann diesen E-Bogen als Vorlage nehmen. So, da ist das Symbol von uns drin, wir müssen das machen. E3 macht auch der Anlagenerrichter, ist auch eine Checkliste, ob PAV, SAV, Spannungsebene richtig ist, ob der Standort der Übergabe abgeklärt ist, ob die technische Prüfung, Schutzkonzept, Fernwerkkonzept, ist das alles abgestimmt, ist das Messkonzept abgestimmt und der Netzbetreiber wird euch sagen, wenn Unterlagen fehlen und dann wird er euch das mitteilen.
+
+(0:03:00 - 0:03:36)
+Also dieser Punkt ist für den Netzbetreiber und deswegen könnt ihr euch da ein bisschen zurücklehnen, aber sinnvoll ist es trotzdem zu wissen, dass er das macht. Dann kommt ein Inbetriebsetzungsauftrag, haben wir auch ein Inbetriebnahmeschulung gebaut, da gehen wir auch auf das ein, insofern machen wir das heute nicht. Erdung, ein riesiges Thema, Fachfirmen, ganze Bereiche der Elektroindustrie kümmern sich um Erdung, deswegen gehen wir da jetzt niemals schnell in einer Minute darauf ein, haben wir in einer Zwei-Stunden-Einheit separat dargestellt.
+
+(0:03:39 - 0:04:10)
+Das Inbetriebsetzungsprotokoll, auch das gehört zur Inbetriebnahme für uns, ist ja ein Schritt 5 mittlerweile, machen wir jetzt nicht. Heute geht es um die Anmeldeunterlagen, das Inbetriebsetzungsprotokoll für die Erzeugungseinheiten genauso, ist auch in einer anderen Nummer drin, ich glaube, das wiederholt sich jetzt auch nochmal, aber dann habt ihr mal gesehen, wie sowas aussieht. Inbetriebsetzungserklärung für die ganze Anlage, ihr erinnert euch, die unterteilen das in EZE und EZA, machen wir in diesem Inbetriebnahme-Brainday.
+
+(0:04:12 - 0:04:48)
+Die Konfirmitätserklärung, das ist die Vorlage, wenn ihr mal eine für euer Projekt habt, sieht sie bestimmt von Anbieter zu Anbieter ein bisschen anders aus, aber auch hier haben die dargestellt, man sieht es ganz leicht im Hintergrund, dass da zum Beispiel dieses PAV gleich oben auf dem Deckblatt steht, weil das so wichtig ist. Das ist eine so wichtige Zahl, dass die das gleich vorne draufschreiben und jetzt könnt ihr auch nochmal gucken, ist das die gleiche wie in eurem E8-Bogen, ist das die gleiche wie im E9-Bogen und wenn nicht, wird sich die Zertifizierstelle schon was dabei gedacht haben, aber dann macht es Sinn, da nochmal nachzuhaken. Konfirmitätserklärung, anderer Brainday.
+
+(0:04:51 - 0:05:33)
+Betriebserlaubnisverfahren, hatte ich schon gesagt, das ist ja dann einfach nur das finale Ziel, da hat man gesagt, jawohl, ihr kriegt die Zusage, dass ihr das jetzt auch wirklich dürft und da habt ihr dann für die Projektdokumentation nochmal ein Abschlussdokument, damit man sagen kann, ich habe es geschafft und dann ab ins nächste Projekt. Macht der Netzbetreiber, deswegen kommt da das Icon da unten rein und das gleiche bei der beschränkten Betriebserlaubnis, machen wir einfach dieses Icon da rein. Jetzt ist sie ausgefüllt, die ganze Liste, eine Riesenaufgabe an sich, ein Elektroplaner beschäftigt sich ein Jahr, vielleicht zwei Jahre, je nach Projektgröße mit all diesen Unterlagen.
+
+(0:05:34 - 0:06:05)
+Ich hoffe, wir haben ein bisschen eine Reihenfolge reingebracht, ein Verständnis dafür und am Ende hoffentlich auch nochmal erklärt, warum dieser Brainday heute Anmeldeunterlagen E1 bis E17 heißt, obwohl ja die Anmeldeunterlagen, wie man hier nochmal sieht, E1, E13, E14 und E18. Wenn wir uns lange den Kopf da brauchen, sollen wir den Namen der Schulungseinheit ändern oder wie gehen wir damit um? Ich hoffe, es ist jetzt klar geworden, warum das so heißt, wie es heißt. Vielen Dank, ich wünsche euch alles Gute und bis zum nächsten Mal.

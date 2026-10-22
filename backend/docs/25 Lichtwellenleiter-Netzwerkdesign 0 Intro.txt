@@ -1,0 +1,13 @@
+(0:00:00 - 0:00:14)
+Gut, hallo und herzlich willkommen zum heutigen Brain Day. Schön, dass ihr heute wieder dabei seid. Wir schauen uns heute das Thema Netzwerkdesign an und zwar Netzwerkdesign von Lichtwellenleiter.
+
+(0:00:14 - 0:00:39)
+Das braucht man naturgemäß bei eher größeren Anlagen, das sehen wir uns dann genauer an. Aber nichtsdestotrotz ist es, finde ich, sehr sinnvoll, im Detail zu verstehen, wie diese Komponenten zusammenpassen und mit welchen grundlegenden Regeln man sozusagen dann aus den einzigen Komponenten ein Gesamtnetzwerk, ein Gesamtdesign aufbaut. Dann gucken wir uns die Komponenten an.
+
+(0:00:39 - 0:01:15)
+Auch dazu gibt es ein bis zwei andere Brain Days, in denen wir konkret auf die ganzen Netzwerkteilnehmer eingehen. Das heißt, das ist mehr so eine kurze Übersicht, damit man weiß, welche Bauteile man braucht, um dann das Design, wir haben es genannt, Level 1, 2 und 3 darzustellen. Level 1, 2 und 3 haben wir gemacht, weil in den meisten unserer Projekten so ein grundlegendes Level-1-System ausreichend ist. 
+
+Dann funktioniert alles wunderbar. Es liegt meistens daran, dass man gar nicht so viele Teilnehmer hat. Dann gibt es Möglichkeiten, das Ganze ein bisschen komplexer zu machen.
+
+(0:01:15 - 0:01:23)
+Und Level 3 ist dann, werden wir dann sehen, das ist wirklich was für ganz große Projekte. Aber dann hat man zumindest mal gehört, wie man da so ein bisschen spielen kann.

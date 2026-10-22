@@ -1,0 +1,47 @@
+(0:00:00 - 0:00:48)
+Jetzt kommt das vorletzte Kapitel und das ist das Kapitel Protokoll. Vorweggenommen, es gibt ja jetzt für so eine Sensormontage nicht unbedingt eine 0100-600 mit einem vorgefertigten AC-Kabelmessprotokoll, wo man Widerstände und so weiter messen muss. Dieses Sensorprotokoll, das ist jetzt eher etwas, was wir entworfen haben, weil wir natürlich einen Nachweis von der Baustelle haben möchten, wie das Ganze installiert ist, ob das vor der Inbetriebnahme alles in Ordnung ist, alles passt, damit wir Adressen haben, Seriennummern haben, die Winkel geprüft sind, damit man eben nicht während des Commissionings sich noch zusätzlich darum kümmern muss, was war denn jetzt nochmal mit den Sensoren.
+
+(0:00:48 - 0:01:34)
+Also wir wollen das vorher geprüft haben und deshalb erstellen wir bei den Projekten erstmal eine Protokollvorlage, die kann sehr einfach aussehen und wir haben jetzt mal versucht, euch zu zeigen, wie wir das machen, auf einer DIN A4-Seite. Das wird in der Realität nicht so funktionieren, weil hier natürlich schon ein paar Infos rein müssen, vielleicht auch ein paar Bilder rein müssen, sodass eine DIN A4-Seite wahrscheinlich in der Realität zu wenig ist. Aber hier für die Erklärung ist das, denke ich, sehr hilfreich, damit man einfach mal ein Gefühl hat, was prüfen wir überhaupt ab, was wollen wir überhaupt sehen, was wollen wir überhaupt wissen in so einem Protokoll, damit wir, wenn wir dann wirklich in das Commissioning gehen und das Monitoring eingerichtet ist, dass wir dann relativ schnell mit allem fertig sind und eben nicht bei den Grundlagen anfangen müssen.
+
+(0:01:35 - 0:02:07)
+Also das Protokoll sieht so aus und wir starten erstmal ganz einfach mit einem Projektname, der muss rein und es muss ein Datum rein. Das Datum kann oben stehen, kann auch später unten bei der Unterschrift stehen, das ist völlig irrelevant, wichtig ist, dass man das zuordnen kann. Zum Projektnamen gehört dann auch noch eine Anschrift, eine Adresse, weil es zu einem Protokoll dazugehört, um es komplett zu haben und dann wird es jetzt detaillierter, jetzt geht es hier wirklich um die Sensoren, um die Sensoren, die wir wirklich ins Protokoll aufführen wollen.
+
+(0:02:07 - 0:02:31)
+Also da muss man jetzt erstmal erwähnen, wo befindet sich der Sensor überhaupt. Hier ist es bei uns der Standort, wir definieren das dann erstmal mit der TRAFO-Station, weil die in der TRAFO-Station ja in der Regel an die Datenlogger angeschlossen werden. Hier wäre es TRAFO-Station 5, das ist erstmal ganz grob der Standort, wo unsere Sensoren angeschlossen werden und man würde das jetzt aber im weiteren Verlauf dann auch ein bisschen mehr spezifizieren.
+
+(0:02:32 - 0:03:12)
+Der Sensortyp ist dann wichtig, wir zoomen dann mal ran, sehen hier so einen Pyranometer, der Typ, den schreibt man natürlich auch dazu, je nachdem welchen man erwartet und gleich das dann eben auch. Also welchen man sieht vor Ort und muss das dann natürlich mit dem abgleichen, was man eigentlich erwartet. Also hier haben wir so einen SMP10 mal eingefügt und als nächstes, um diese Position TRAFO-Station noch besser zu greifen, wo genau ist denn jetzt nochmal dieses Pyro oder wo ist das rückseitige Pyro, schreibt man dann auch nochmal die Position der Tischreihe oder der Reihe mit in das Protokoll, um dann gleich zuzuordnen können, ist das jetzt am richtigen Tisch oder sind sie vielleicht einen Tisch nach vorne oder nach hinten gegangen.
+
+(0:03:12 - 0:03:39)
+Der Tisch ist in diesem Projekt so bezeichnet worden, TS5-Tisch-2-41-0. Guckt, wie das bei euch projektspezifisch gemacht ist, das muss der Nachunternehmer dann aufschreiben. Wenn es gut läuft, steht es ja auch am Ende jeder Tischreihe, ist ja auch eine Bezeichnung dann dran, wie der Tisch heißt, dann kann man das ins Protokoll übernehmen und wir im Büro wissen dann, ob es die richtige Reihe ist oder ob es vielleicht einen Montagefehler gab oder die Beschriftung der Reihe falsch ist.
+
+(0:03:39 - 0:03:53)
+Da kann man halt mehrere Sachen prüfen, das ist die Idee. Wir wollen genau wissen, wo an welchem Tisch die Sensoren installiert sind. Dann kommt noch die Seriennummer des Sensors, die steht unten am Sensor dran.
+
+(0:03:53 - 0:04:33)
+Wir haben jetzt mal hier eine x-beliebige Sensornummer mit eingefügt und die gehört mit aufs Protokoll. Dann, natürlich so wichtig wie anderen Punkte auch, aber hier nochmal einen kleinen Fokus drauf, Azimut soll eingetragen werden, also wie soll die Neigung sein, das kann man dem Nachunternehmer vorgeben und dann muss er messen und auch gleich feststellen, dass es erstmal richtig gemessen ist. Da gibt es immer Diskussionen, ob man dieses soll auch schon gleich ins Prüfprotokoll schreibt, weil dann ist ja meistens das Ist immer sehr ähnlich zu dem Soll.
+
+(0:04:33 - 0:04:56)
+Ich will da nichts unterstellen, aber manchmal ist es auch besser, man gibt diesen Sollwert erst gar nicht vor und lässt den Nachunternehmer einfach mal messen, damit man dann hoffentlich auch den wirklichen Messwert findet und nicht einen vielleicht angepassten Messwert, der dann möglichst gut zu dem Soll passt. Also das muss man projektspezifisch vielleicht sich überlegen, wie man es am liebsten machen möchte. Wir geben an Soll und der Nachunternehmer trägt den Ist-Wert ein.
+
+(0:04:57 - 0:05:23)
+Das Ganze gilt dann auch für die Neigung, also für Azimut und Tilt, für beide machen wir das und kriegen dann hoffentlich das Ergebnis, so wie es jetzt hier reinfliegt. Beim Azimut ist der Soll gleich Ist und bei der Neigung ist auch Soll gleich Ist, also 15° und 15°. Das ist dann natürlich unsere Wunschverstellung, dann passt es ganz genau, dann können wir davon ausgehen, der Sensor ist jetzt erstmal richtig ausgerichtet.
+
+(0:05:28 - 0:05:47)
+Dann kommt als nächstes die Modbus-Adresse rein des Sensors. Das steht häufig gleich auf den Sensoren drauf oder man muss es irgendwie prüfen, manchmal steht es auch auf der Verpackung der Sensoren drauf. Aber diese Modbus-ID ist für uns natürlich sehr, sehr wichtig, damit wir in unserem Monitoring diese Sensoren überhaupt finden können.
+
+(0:05:48 - 0:06:19)
+Man kann jetzt natürlich, also noch der Hinweis vielleicht dazu, diese Modbus-Adressen, die geben wir normalerweise auch in unseren IP-Adresslisten ein. IP-Adresse ist jetzt vielleicht nicht die Modbus-Liste, aber in diesen Adresslisten tragen wir auch die Modbus-Adressen ein. Das heißt, wir gleichen das erstmal ab und wenn wir jetzt feststellen, dass dieser Sensor vielleicht die 37 hat, aber sollte eigentlich die 36 haben, dann kann man sich überlegen, ob man dann die IP-Adressliste nochmal anpasst oder man kann auch die Adresse der Sensoren anpassen.
+
+(0:06:21 - 0:06:54)
+Muss man dann projektspezifisch entscheiden, was die leichtere Variante ist. In jedem Fall hilft es immer beim Einrichten des Monitorings der Datenlogger, beim Einlesen der Sensoren, dass man eben die richtigen Modbus-Adressen und Baudraten kennt, damit man dann den Sensor eben findet. Sonst findet man ihn nicht und dann versucht man die Verdrahtung zu ändern und dann dreht man sich da relativ lange im Kreis und man wundert sich, warum diese relativ leichte Verdrahtung in Kombination mit der Modbus-ID so so schwierig und so so lange dauert.
+
+(0:06:56 - 0:07:26)
+Jetzt kommt noch die Bezeichnung für den Sensor, Pyro Einzelmodulebene, so haben wir ihn hier genannt, kommt auch mit in das Protokoll. Und unten im Protokoll, das würde sicherlich deutlich mehr Platz einnehmen, als jetzt hier in unserem Beispiel, kommt nochmal ein Planausschnitt mit rein, der würde so aussehen, können wir gerne reinkopieren, damit man den Sensor dann auch markieren kann, um welchen Sensor handelt es sich. Und dann kommt zusätzlich in so ein Protokoll Fotos, einfach um nochmal nachzuweisen, wie ist die Montage passiert.
+
+(0:07:27 - 0:07:52)
+Das kann dann zum Beispiel so aussehen, hier haben wir ein Beispiel von einem geneigten und einem horizontalen Pyro, wie wurde die Winkelmessung durchgeführt. Hier sieht man das nochmal ganz schön, man hat diesen Plastikkragen abgenommen, das kann man tatsächlich da so machen und umgekehrt auf das Pyro draufgesetzt, damit man eben so eine Wasserwaage da schön aufsetzen kann. Hier ist im Grunde der Nachweis, der Beweis, dass das Pyro in genau diesem Winkel montiert wurde.
+
+(0:07:53 - 0:08:33)
+Und dann auch nochmal ein Foto vom Typenschild, damit man auch Seriennummer, vielleicht Adressen und so weiter nochmal fotodokumentiert hat. Ganz zum Schluss mit der wichtigste Punkt ist eben die Unterschrift unter diesem Protokoll, damit dieses Protokoll auch eine Gültigkeit hat. Und wenn ihr dann so ein Protokoll erhaltet und alles stimmt, dann denke ich, könnt ihr guter Dinge sein, dass das Commissioning jetzt auch wirklich gut funktioniert, dass Monitoring zeitnah in Betrieb gehen kann und wenn dann eure Anlage läuft, könnt ihr sicherlich auch dann im nächsten Kapitel die Auswertung prüfen.

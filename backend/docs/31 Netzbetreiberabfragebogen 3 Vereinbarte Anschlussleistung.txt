@@ -1,0 +1,206 @@
+(0:00:00 - 0:00:07)
+Die vereinbarte Anschlussleistung. Also nochmal zur Orientierung. Formalien ist jetzt ausgegraut.
+
+(0:00:07 - 0:00:16)
+So die erste Seite haben wir fast quasi abgearbeitet. Wir gehen aber jetzt nochmal sozusagen zurück auf dieses obere Drittel, was ich da so ein bisschen gehighlighted habe. Hier seht ihr es.
+
+(0:00:16 - 0:00:32)
+Diesen Block schauen wir uns jetzt an. Da steht gar nicht so viel eigentlich, aber das hat es ganz schön in sich, was man da drin findet. Erstmal, um gut folgen zu können, merkt euch bitte PAVE.
+
+(0:00:32 - 0:00:39)
+Das benutze ich jetzt ungefähr 25 Mal. Das ist die vereinbarte Anschlussleistung für Einspeiser. Ganz wichtig für die Einspeiser.
+
+(0:00:40 - 0:00:59)
+Dann gibt es, ja, und da sagen wir jetzt erst mal, dass der Netzbetreiber diesen Wert sich aus dem E-Achtbogen holt. Ihr habt ihn in den Achtbogen eingereicht und der Netzbetreiber nimmt diesen Wert, weil er macht ja nicht die Planung, sondern er übernimmt diesen geplanten Wert von euch. Dann gibt es den SAV.
+
+(0:01:00 - 0:01:07)
+Alle Elektrotechnikern ist das ja sofort klar. Das ist einfach nur die Scheinleistung. Ansonsten ist es das Gleiche, also auch vereinbart und auch für die Einspeisung.
+
+(0:01:08 - 0:01:21)
+Und den berechnet er sich und zwar aus dem PAV und einem Cosinus V. Wie genau, das zeige ich gleich noch. Aber so ist erst mal die Grundlage. Und jetzt ist wichtig zu wissen, dass das maximal zulässige Werte sind.
+
+(0:01:21 - 0:01:37)
+Deswegen sind die ja auch so wichtig. An dieser Stelle muss man einfach verstehen, dass jetzt euer Limit definiert ist. Mal gesetzt im Fall, dass da jetzt nicht neue E-Achtbögen eingereicht werden, sondern eben auf dieser Basis das Anlagenzettelkrad erstellt wird, ist euer Limit gesetzt.
+
+(0:01:38 - 0:01:48)
+Ich nehme das gleich mal vorweg. Das sogenannte PINST, das ist die installierte Leistung, sowohl Work- als auch Scheinleistung, ist nicht so der Punkt. Die installierte Leistung, die kann deutlich größer sein.
+
+(0:01:49 - 0:02:12)
+Und wir gehen fest davon aus, dass es in Zukunft auch immer mehr so sein wird, dass immer mehr Anlagen eine deutlich größere installierte Leistung haben, als an dieser Stelle als maximal zulässige Einspeiseleistung definiert sind. Also in der Vergangenheit war das oft so, dass dieser Wert ziemlich gleich war und dann ist das nicht so wichtig gewesen. In der Zukunft gehen wir fest davon aus, Netzanschlusspunkte werden weit überbaut werden.
+
+(0:02:13 - 0:02:21)
+Das ist super sinnvoll. Unsere Netze werden dann optimiert ausgelastet. Stichwort Cable Pooling, so heißt das im Moment im Fachjargon.
+
+(0:02:21 - 0:02:25)
+Also nehmt das mit. Dieser Wert ist jetzt wichtig. In Zukunft wird er noch viel wichtiger sein.
+
+(0:02:27 - 0:02:37)
+Und jetzt gucken wir uns das ein bisschen weiter an. Also der erste Punkt ist einfach Bestand ohne Einheitenzertifikat. Okay, also es geht darum, da gibt es schon eine Anlage.
+
+(0:02:38 - 0:03:04)
+Ich sage mal Freifläche Schönefeld Abschnitt 1. Und weil die vor 2008 errichtet wurde, hat die jetzt kein Einheitenzertifikat. Deswegen würde man diese Werte in diese erste Spalte einschreiben, weil die Zertifizierpflicht wurde ja ungefähr 2008 eingeführt. Wenn da nichts drinsteht, das meine ich hiermit, leeres Kästchen, dann gibt es eben keine bestehende Anleistenleistung ohne Einheitenzertifikat.
+
+(0:03:05 - 0:03:16)
+In der zweiten Spalte steht dann auch wieder Bestand. Also die Anlage gibt es schon, Bauabschnitt 2. Und der wurde aber jetzt 2014 errichtet. Und hat eine gewisse Mindestgröße.
+
+(0:03:16 - 0:03:32)
+Es gab ja immer die Novellierung in diesen Anforderungen. Worauf hier hinaus wollen ist, jetzt gibt es offensichtlich ein Zertifikat und sowohl ein Einheiten, ehrlich gesagt, als auch ein Anlagenzertifikat. Das würde man hier reinschreiben, weil auf diesem würde man dann aufbauen.
+
+(0:03:32 - 0:03:47)
+Für die jetzt kommt es Neuerrichtung, um die es ja jetzt vielleicht heute geht. Ich habe jetzt hier nichts reingeschrieben, weil ich es mir ein bisschen einfacher mache für Bestand ohne Einheitenzertifikat und mit Einheitenzertifikat. Also für mich ist das jetzt eine völlig neue Anlage, die wir da bauen.
+
+(0:03:48 - 0:03:58)
+Wie beschrieben nimmt der Netzbetreiber das PAVE erst mal aus eurem E-8-Bogen. Betont das gerne. Das ist euer E-8-Bogen.
+
+(0:03:58 - 0:04:07)
+Also ihr habt diese Zahl da reingeschrieben. Wir Planer haben uns dabei was gebracht. 1750 kW haben wir hier im E-8-Bogen vor acht Wochen reingeschrieben.
+
+(0:04:07 - 0:04:15)
+Und jetzt hat er diesen Wert übernommen und reingekommen. Das ist mal das allererste, was ich jetzt mache. Ich lege das nebeneinander und stelle fest, dass da die gleiche Zahl drin steht.
+
+(0:04:15 - 0:04:29)
+Das ist, finde ich, dann schon mal super positiv. Wir gehen davon aus, dass der Netzbetreiber dann einen Cosinus Phi Min definiert. Das macht er auch aus der Richtlinie Kapitel 10, 2, 2, 3, Bild 6. Weiß natürlich jetzt keiner, was das ist.
+
+(0:04:30 - 0:04:34)
+Deswegen zeige ich euch dieses Bild jetzt mal. Hier ist es. Hier ist die Kennlinie.
+
+(0:04:34 - 0:05:03)
+Und einfach gesagt ist das die Blindleistungsanforderung abhängig von der momentanen PMOM, momentanen Wirkleistung eurer PV-Anlage. Gibt es, meine ich auch, ein ganzes Brain-Day-Modul dazu, wo wir erklären, wie solche Netzberechnungen dann gemacht werden und wie die Wechselrichter das überhaupt so umsetzen. Das machen wir heute nicht, sondern wir nehmen an, dass wir alle wissen, wie diese Kennlinie funktioniert.
+
+(0:05:03 - 0:05:13)
+Weil die halt so aufgebaut ist, habe ich das hier mit reingenommen. In diesem oberen Bereich, da ist jetzt keine Regelung notwendig, ist für jetzt aber auch gar nicht so relevant, deswegen gehe ich gleich weiter. Sondern diese Linie ist wichtig.
+
+(0:05:14 - 0:05:30)
+Das ist der Blindleistungsstellbereich. Innerhalb dieses Bereiches ist eine Wirkleistung... Nein, also grundsätzlich ist eine Wirkleistungsreduzierung zugunsten der Blindleistung zulässig. Aber trotzdem ist dieser Blindleistungsstellbereich einzuhalten.
+
+(0:05:30 - 0:05:35)
+Der ist wichtig. Deswegen gibt es diese grüne Linie sozusagen. Ich zeige jetzt mal ein Beispiel.
+
+(0:05:35 - 0:05:42)
+Wie gesagt, das ist ja aus der 4110 rausgenommen. Also da kann man einfach jederzeit nachgucken. Jetzt nehmen wir hier mal ein Beispiel.
+
+(0:05:42 - 0:05:55)
+Diese 0,33, die ihr da auf der X-Achse seht, da habe ich das mal eingeblendet. Da würde jetzt 0,33 stehen und jetzt kann man ganz einfach umrechnen. Ich zeige das mal, wie das geht mit absoluten Zahlen.
+
+(0:05:55 - 0:06:03)
+33 MVa, 100 Megawatt. Wenn man das jetzt einsetzt in diese Gleichung, dann kommt da eine Scheinleistung raus. 105,3, so ist das.
+
+(0:06:04 - 0:06:26)
+Und wenn man das jetzt wiederum noch mal auf den Cosinus V umrechnet, kommt man auf diesen minimalen Cosinus V von 0,95. Also in anderen Worten Q, also diese 0,33 umgerechnet in den Cosinus V ist 0,95. Und Cosinus V min ist wichtig, weil das der minimale Cosinus V ist.
+
+(0:06:26 - 0:06:35)
+Wenn man so will, ist es eine Art Worst Case Cosinus V, den der Netzbetreiber sich dann da raussucht. Alle größeren Werte sind leicht zu realisieren. Es geht um diese Grenzwerte.
+
+(0:06:36 - 0:06:45)
+Also 0,95. Da hat er den hergeholt, sozusagen in seinem zweiten Arbeitsschritt. Und dann kommt da ein dritter Schritt raus.
+
+(0:06:45 - 0:06:50)
+Das ist ein Dreisatz. Da seht ihr ihn. Der rechnet dann mit dem 0,95 und den 1,75.
+
+(0:06:50 - 0:06:57)
+Nennt er sich die SAVE Scheinleistung aus. 1,84. Gleiches Spiel.
+
+(0:06:57 - 0:07:10)
+Würde ich jetzt einfach mal so nachrechnen, ob ich auf das Gleiche komme und dann bin ich erst mal zufrieden. Jetzt ist es leider nicht ganz so einfach. Wir haben vorhin, glaube ich, gesagt 40, vielleicht ein bisschen übertrieben.
+
+(0:07:10 - 0:07:22)
+Aber wir haben uns ziemlich viele E-Bögen noch mal angeguckt. Und es ist nicht so, dass das immer genau so ist, wie es gerade beschrieben ist. Deswegen habe ich mich entschieden, ich zeige euch, was wir noch so kennen und habe das jetzt Variante 1 genannt.
+
+(0:07:22 - 0:07:25)
+So halten wir es für richtig. Ich habe die Zahlen mitgenommen. Das sind die drei Schritte.
+
+(0:07:26 - 0:07:35)
+So, finden wir, sollte man das machen. Jetzt kommt die Variante 2, so wie wir es kennen. Der Netzbetreiber nimmt sich das PAV aus der Anmeldung.
+
+(0:07:36 - 0:07:43)
+Soweit erst mal so gut. Aber er macht dann keine Berechnung und gibt das SAVE einfach gar nicht an. Dann steht da nur ein PAV.
+
+(0:07:43 - 0:07:52)
+Dann kann man ja ehrlich gesagt auch gar nicht so viel falsch machen. Ist irgendwie auch noch so ein bisschen, wie wir es uns in Variante 1 vorstellen. Aber ich hätte gerne das SAV auch.
+
+(0:07:52 - 0:07:58)
+Dann sind wir irgendwie uns da auch einig. Deswegen haben wir einen kleinen Daumen nach unten reingemacht. Wir finden das nicht so gut.
+
+(0:07:59 - 0:08:15)
+Jetzt kommt die Variante 3. Die ist noch mal ein bisschen komplizierter. Da nimmt erst der Netzbetreiber sich das PAV aus dem E8. Okay, aber definiert das als hätte es ein Cosinus Phi von 1 als SAVE in seinem E9-Bogen.
+
+(0:08:15 - 0:08:27)
+Das ist, finde ich, einfach ein bisschen widersinnig, wenn er den Cosinus Phi mit 1 definieren würde. Da wäre das in Ordnung. Wir glauben aber, dass er das so eigentlich nicht macht, weil die Kennlinie, die ich gerade gezeigt habe, ja unumstößlich ist.
+
+(0:08:28 - 0:08:51)
+Und das bedeutet, wenn er das jetzt eben so macht, dass er plötzlich ein anderes SAV hat und dann ja auch den Cosinus Phi im Schritt 2 sich rausholt, wie ich das beschrieben habe, dann käme er auf einen PAV, der anders ist als der in unserer ersten Variante. Und jetzt haben wir da irgendwie einen kleinen Widerspruch. Also das sind irgendwie drei Varianten, die wir kennen.
+
+(0:08:52 - 0:09:08)
+Aber jetzt muss ich noch mal ganz kurz aus dem Bild, damit man das hinter mir lesen kann. Also wenn, Achtung, die installierte Wirkleistung, also die Wechselrichter Wirkleistung, die wir installiert haben, ungefähr so ist, wie dieses PAVE, das wir angegeben haben. Ungefähr.
+
+(0:09:09 - 0:09:40)
+Dann ist es bei uns im Team tatsächlich so, dass wir da gar kein großes Fass jetzt aufmachen, sondern wir akzeptieren das. Und zwar Achtung, weil jetzt kommt eine Brücke, es in der 41.10 den sogenannten quasi stationären Betrieb definiert gibt, nachdem man sowieso eine Limitierung bei, Achtung, circa 91 Prozent der installierten Wirkleistung vorgegeben bekommen wird. Das heißt, dieses PAVE, das mag nach wie vor so richtig sein, aber die spätere Limitierung eurer Wechselrichter liegt ja darunter.
+
+(0:09:41 - 0:10:08)
+Und weil sie niedriger ist, ist das dann gar nicht mehr so wichtig, ob jetzt oben bei Variante 1 1,75 oder bei Variante 3 1,66 steht, weil ihr, um ein Beispiel zu nennen, sowieso eine Limitierung von 1,6 bekommt. Deswegen würden wir sagen, ja, Daumen nach unten, aber akzeptabel ist trotzdem, lass es so. Wir würden aber in Zukunft, denke ich, sehr häufig das nicht akzeptieren, wenn die installierte Wirkleistung größer ist als der PAVE.
+
+(0:10:08 - 0:10:21)
+Das wird so sein, wenn die Anlagen einfach überbaut werden. Ihr habt jetzt schon den Netzanschlusspunkt voll ausgeschöpft, jetzt gibt es aber trotzdem eine Erweiterung, eine zweite Anlage, eine vierte Anlage. Das wird in Zukunft so passieren.
+
+(0:10:21 - 0:10:53)
+Und dann ist die installierte Wirkleistung viel größer als der PAVE. Und dann kommt relativ schnell der Punkt, dass das nicht mehr akzeptabel ist, weil die Limitierung also abhängig vom PINST, dieser quasi stationäre Betrieb, dann ja irgendwann größer wäre als dieses PAVE. Und wenn jetzt der PAVE aber vermeintlich falsch berechnet wurde, also zu niedrig angesetzt wurde, dann kriegt ihr da eine Reduzierung rein über den PAVE, die nicht zwangsläufig notwendig ist.
+
+(0:10:54 - 0:11:13)
+Und das, ehrlich gesagt, kann man in sehr, sehr viel Einspeisevergütung, sage ich mal, umrechnen. Okay, ich habe ungefähr eine Woche gebraucht, um das jetzt so richtig nachvollziehen zu können, was ich da beschrieben habe. Aber jetzt, wo ich es gerade noch mal gesagt habe, ist es mir doch sehr einleuchtend.
+
+(0:11:13 - 0:11:25)
+Und es ist auch richtig. Also man kann sich das ja in Ruhe noch mal angucken und dann eben auch mal mit so einem Netzbetreiber darüber reden, wie er auf das SAV kommt. Unsere Variante 1 ist aus unserer Sicht die richtige.
+
+(0:11:25 - 0:11:42)
+Und deswegen steht die da auch. Jetzt nochmal vielleicht löschen kurz oder kurz nochmal sacken lassen, weil anderer Exkurs jetzt, anderer Exkurs. Jetzt geht es in die 4120, um den Unterschied so ein bisschen zeigen zu können.
+
+(0:11:42 - 0:11:50)
+Die Achsen sind erst mal genau die gleichen. Das Diagramm ist gleich aufgebaut. Da haben wir wieder unser Q zu P normiert dargestellt.
+
+(0:11:50 - 0:12:03)
+Und jetzt ist es aber so, in der 4120 gibt es drei Varianten, die der Netzbetreiber auswählen kann. Hier sind sie. Man kann sich das so vorstellen, dass einfach ein anderer Cosinus V rauskommt, je nach Variante.
+
+(0:12:03 - 0:12:22)
+Und umso niedriger der Cosinus V, umso größer eure Wirkleistungslimitierung. Das ist sozusagen hier der Konsens. Ich kenne, ich sag mal Fachleute, die mit Netzbetreibern über diese Kennlinien diskutieren, weil darüber kann man indirekt sozusagen die spätere Limitierung beeinflussen.
+
+(0:12:23 - 0:12:30)
+Und umso weniger Limitierung, umso besser für den Ertrag. Aber okay. Also erst mal, es gibt diese drei verschiedenen Varianten.
+
+(0:12:30 - 0:12:34)
+Das reicht für uns. Jetzt zeige ich hier mal, die Variante 3 ist ausgewählt. Ja, das ist die grüne.
+
+(0:12:34 - 0:12:58)
+Und dann ist ganz wichtig, da kann man es wieder umrechnen in ein Cosinus V. Das macht ihr auch gleich in so einer kleinen Übung. Also das ist wichtig. Wo ist die Kennlinie? Wie ist dann das Q zu PBinst? Was für ein Cosinus V ergibt sich daraus? Und jetzt muss ich aufpassen, wenn ich das mal bewerten will, dass ich den niedrigsten Cosinus V nehme, der innerhalb von so einer Variante existiert.
+
+(0:12:58 - 0:13:36)
+Ich nehme das Beispiel mit dieser grünen Linie, Variante 3. Da ist der 0,41 Cosinus V, der sich daraus ergibt, niedriger als der minus 0,33 Cosinus V, der sich daraus ergibt. Also ihr müsst das umrechnen, sonst kann man das so nicht betrachten mit dem niedrigsten Wert, weil der niedrigste Wert bezieht sich auf den Cosinus V. Aber ihr macht das später und ihr könnt mich schon mal darauf verlassen, dass das so ist, dass der Cosinus V bei diesem 0,41 niedriger ist als der Cosinus V bei 0,33. Wenn wir eine Netzberechnung machen, schauen wir uns beide Seiten an, aber ich weiß schon, dass das so ist.
+
+(0:13:36 - 0:13:53)
+Und insofern schaue ich mir dann erstmal diese Worst-Case-Seite an. Also merkt euch, man nimmt aus der Kennlinie den Worst-Case und das ist der geringste Cosinus V, der sich aus dieser ganzen Sache ergibt. Also jetzt ist der Cosinus V plötzlich 0,92.
+
+(0:13:53 - 0:14:00)
+Wer sich das gemerkt hat, in der 4110 war das 0,95. Jetzt ist es also schon mal ein anderer Wert. Darauf will ich ja hier hinaus.
+
+(0:14:00 - 0:14:17)
+Und wenn ich mir jetzt zwei so Bögen nebeneinander lege, dann hätte ich jetzt also gerade links den 4120-Bogen, E7 heißt er, gezeigt. Und ich sage jetzt mal, man kann ja nicht ein Projekt einfach in eine andere Spannungsebene transferieren. Deswegen ist das jetzt eine virtuelle Gegenüberstellung von unterschiedlichen Projekten natürlich.
+
+(0:14:17 - 0:14:28)
+Aber um den Effekt greifen zu können, finde ich, ist es sinnvoll. Also den Wert aus dem E9-Bogen hier noch mal dargestellt. 1,75 Megawatt ergeben 1,84 MVa.
+
+(0:14:29 - 0:14:43)
+Und wenn man das nach 4120 machen würde... Ja, Moment. Das ist eine Wiederholung von gerade. Also es ist für uns nicht ganz so wichtig, weil gegebenenfalls ein quasi stationärer Betrieb sowieso noch niedriger ist.
+
+(0:14:43 - 0:14:57)
+Das ist genau das, was ich gerade schon erklärt habe. Aber jetzt will ich ja das Gegenüber zeigen. Also wenn ich den Cosinus Phi 0,125 nehme, weil ich nach 4120 rechnen muss, dann käme ich auf eine höhere Scheinleistung.
+
+(0:14:57 - 0:15:10)
+Bei gleicher wirkt vereinbarter Anschluss Wirkleistung. Und das würde bedeuten, dass das nur geht, wenn ich mehr Scheinleistung installiere. Also mit anderen Worten, ich hätte jetzt wirklich mehr Wechselrichter installieren müssen.
+
+(0:15:11 - 0:15:52)
+Wenn man diese ganze Kausalkette zusammengreift, kann man das natürlich vorher in so einer Planung von so einer PV-Anlage berücksichtigen. Wir machen das mittlerweile sehr, sehr häufig, dass wir vermeintlich mehr Wechselrichter installieren, als vielleicht, ehrlich gesagt, nach früheren Gedankengang erforderlich sind, weil nicht mehr nur das DC-AC-Verhältnis im Vordergrund steht, sondern weil mehr und mehr diese Limitierungen der vereinbarten Anschluss Wirkleistungen relevant werden. Deswegen steht hier nicht zulässig die Reduzierung, deswegen Netzberechnung erforderlich, deswegen sinnhaft, sich da wirklich im Vorfeld Gedanken zu machen, wie viele Wechselrichter ich denn dann eigentlich genau installiere.
+
+(0:15:53 - 0:16:11)
+Ich hoffe, das wurde so ein bisschen rübergebracht, dass ich zeigen wollte, dass es in der 4120 ein bisschen anders ist, als in der 4110. Kann man sich ja nochmal genauer angucken. Und vorher wollte ich eben zeigen, wie der in der 4110 überhaupt auf diese unterschiedlichen Werte kommt und warum es da auch natürlich Missverständnispotenzial gibt.
+
+(0:16:12 - 0:16:28)
+So, jetzt hier wird es wieder ein bisschen einfacher, mathematisch zumindest. Wenn man jetzt diese drei Spalten hat, dann schreibt man am Ende der Netzbetreiber hier die Gesamtleistung rein. Bei uns ist es ja Neubau, deswegen steht da die gleiche Anlagenleistung auch bei Gesamt.

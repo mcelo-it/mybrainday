@@ -1,0 +1,155 @@
+(0:00:00 - 0:00:26)
+Also, ich hoffe, jetzt sind alle motiviert genug sozusagen, um die nächsten drei Kapitel weiter mitzumachen. Und dann springen wir auch direkt in den Ablaufplan. Ablaufplan habe ich es genannt, weil ich unbedingt am Anfang nochmal alle abholen wollte, sage ich mal, wie denn jetzt eigentlich so ein Parkregelungskonzept zum einen schematisch aufgebaut ist.
+
+(0:00:26 - 0:00:45)
+Das machen wir ganz kurz, weil wir das auch in ein, zwei anderen Brandes sehr detailliert schon beschrieben haben. Also, wie sieht das überhaupt aus, das Design, aber auch deswegen Ablaufplan. Wie funktioniert eigentlich die zeitliche Ablauffolge von so einem Parkregler? Und am Ende, ich nehme es vorweg, kommt ja der Parkregler-Test.
+
+(0:00:45 - 0:00:58)
+Das ist aber nicht der einzige Punkt, sondern es gibt deutlich mehr Phasen. Die zeige ich jetzt hier eben auch nochmal. Also das Ganze soll jetzt ein Zeitstrahl sein, dass man das vielleicht nochmal aus einer anderen Perspektive, aus einer anderen Dimension sich überlegt.
+
+(0:00:59 - 0:01:07)
+Und wir fangen an mit der Planungsphase. Das kann ja durchaus jetzt ein Jahr, je nach Projektgröße, anderthalb Jahre vor in Betriebnahme sein. Hier geht's los.
+
+(0:01:07 - 0:01:33)
+Hier werden sozusagen die Samen gesät für eine erfolgreiche Kontinuitätserklärung. Was brauchen wir in der Planungsphase? Einmal die Anwendungsrichtlinie, die kommt heute noch ganz viel und die kommt auch in anderen Brandes ganz, ganz viel und die beeinflusst auch meine tägliche Arbeit und die meiner Kollegen hier mit einem sehr hohen Anteil. Die muss man sich bitte merken, die muss man auch mal gelesen haben.
+
+(0:01:33 - 0:01:47)
+Den Teil, den wir uns heute angucken, der hat ungefähr 20 Seiten. Das halte ich also für wirklich realistisch, sich das mal in einem ruhigen vielleicht Freitagnachmittag zu Gemüte zu ziehen. Und dann versteht man auch tatsächlich sehr gut, was man da eigentlich machen soll.
+
+(0:01:49 - 0:01:59)
+Diese Anwendungsrichtlinie ist die Bibel, der heilige Gral, die ist Gold wert. Dann brauchen wir den E8, heißt er mittlerweile, Datenabfrage Bogen. Das ist jetzt E8, das ist in der Mittelspannung so.
+
+(0:02:00 - 0:02:07)
+Haben wir auch noch mal einen anderen Block, in dem wir das zuordnen. Je nach Spannungsebene haben die verschiedene Namen. Heute bleiben wir mal in der Mittelspannungsebene.
+
+(0:02:08 - 0:02:18)
+Am Ende ist es vom Prinzip völlig egal. Je nach Projekt muss man dann einfach nur eine andere Nummer sich raussuchen. Also den braucht man auch in der Planungsphase schon.
+
+(0:02:18 - 0:02:36)
+Und dann braucht man auf jeden Fall die technischen Anschlussbedingungen der Netzbetreiber. Projektspezifisch kann es sein, dass in unserem Beispiel heute so, dass da gar nichts drinsteht zu dem Thema, weil die einfach nur auf die 41.10 verweisen. Ich glaube, das ist sogar sehr häufig so, weil die 41.10 2030 ja eben genau dafür da sein soll.
+
+(0:02:36 - 0:02:48)
+Das ist die Grundlage. Also wenn der Netzbetreiber sagt, das ist für mich so in Ordnung, wie die das geschrieben haben, dann steht in den Tab einfach nur drin, siehe 41.10. Und dann hätte man den Punkt auch schon abgehakt. Manchmal ist das aber nicht so.
+
+(0:02:49 - 0:02:57)
+Beispiel Netze BW, da hatten wir das gerade neulich in dem Projekt. Da weiß ich es noch auswendig. Da hatten ihn relativ deutlich Abweichungen da beschrieben.
+
+(0:02:58 - 0:03:24)
+Und dann muss man auch unbedingt der Tab folgen und nicht blind der 41.10. Dann gibt es eine Datenpunktliste, warum die wichtig ist, kommt auch später nochmal und jetzt kommt das Parkregler Konzept. Also diese fünf Punkte, finde ich, sind erst mal am Anfang wichtig. Und das Parkregler Konzept schauen wir uns jetzt auch nochmal genauer an, weil man das im Hinterkopf jetzt haben muss, um der Logik dann der weiteren Details heute folgen zu können.
+
+(0:03:25 - 0:03:42)
+Also wie sieht so ein Parkregler Konzept aus? Das machen wir sehr kurz, weil wir die Teils schon in anderen Braindays besprochen haben oder besprochen werden. Aber grundsätzlich hat man immer oder bei uns nennen wir es jetzt so eine Übergabestation, also einen Übergabepunkt. Den gibt es immer.
+
+(0:03:42 - 0:04:02)
+Und da hat dann der Netzbetreiber sein Gateway von dort sozusagen erhalten wir die Regelbefehle. Da gibt es eine Kommunikation, gibt es verschiedene Kommunikationsprotokolle, die sind heute aber nicht so wichtig. Wichtig ist nur, dass es diese Verbindung gibt zu unserem Gateway, also dass der Photovoltaikanlage.
+
+(0:04:03 - 0:04:10)
+Da nehmen wir jetzt die Regelbefehle an. Dann geht es weiter, kann ein anderes Protokoll sein zum Parkregler. Das ist auch klar.
+
+(0:04:11 - 0:04:23)
+Ich betone es trotzdem nochmal, dass es jetzt von einem Hersteller hier ein 3D Modell, weil wir das halt von ihm bekommen haben. Aber das, was wir beschreiben, ist immer Komponenten oder Hersteller unabhängig. Wir beschreiben natürlich nur das Prinzip.
+
+(0:04:23 - 0:04:34)
+Das geht mit sehr vielen verschiedenen Herstellern genau so und wunderbar. Der Parkregler kommuniziert jetzt mit dem Gateway in beide Richtungen. Aber bleiben wir mal bei dem Beispiel, wobei ich es gleich nochmal genauer zeige.
+
+(0:04:35 - 0:04:57)
+Da kriegt er jetzt eben seine Regelbefehle her und er spricht mit einem Netzanalysegerät, weil er muss verstehen, wie sind die aktuellen Leistungswerte, Spannung, Strom, all diese Kenndaten muss er jederzeit kennen am Netzverknüpfungspunkt. Deswegen ist dieses Ding auch in der Übergabestation. Und jetzt auf der anderen Seite spricht der Parkregler dann mal mit einem Slave, so nennen wir das im Jargon.
+
+(0:04:57 - 0:05:11)
+Also meinetwegen mit der Parkregler, dann der Master und dann der darunter ist das halt der Slave, könnte man auch ein Datenlogger nennen. Und der gibt das dann weiter an die Wechselrichter. Und wenn man mehrere davon hat, kann man irgendwie so eine Kette aufbauen.
+
+(0:05:11 - 0:05:23)
+Also das wäre jetzt mal so ein Parkregler Konzept. Grundlegend rudimentär, damit man jetzt versteht, was wir eigentlich weiterhin so machen in den nächsten anderthalb Stunden. In jedem Projekt sieht das natürlich ein bisschen anders aus.
+
+(0:05:23 - 0:05:35)
+Ich empfehle, sowas einfach am Anfang zu machen. Ehrlich gesagt ergeben sich ja dann schon die ersten Fragen, die man noch zu klären hat. Am Ende braucht man ein funktionsfähiges Parkregler Konzept, das dann auch so umgesetzt wird.
+
+(0:05:37 - 0:05:41)
+So und jetzt zeige ich mal diese Kette hier. Also ich hoffe, man hat es schon gesehen. Sonst mache ich es gleich nochmal.
+
+(0:05:42 - 0:06:02)
+Der Brief, ich gehe nochmal zurück. Der Brief fliegt jetzt los beim Gateway vom EVU über das Gateway PVA, über den Parkregler, über den Datenlogger hin zum Wechselrichter. Und das soll darstellen, dass der Netzbetreiber jetzt eine Nachricht an den Wechselrichter versendet hat.
+
+(0:06:02 - 0:06:07)
+Könnte zum Beispiel sein, reduziere die Wirkleistung. Das ist dieser Brief. Jetzt ändern wir den Brief.
+
+(0:06:08 - 0:06:24)
+Das ist natürlich nur symbolisch gedacht. Aber so finde ich, kann man es sich gut vorstellen, in eine Lampe, die soll jetzt die Wirkleistung darstellen. Also jetzt hat der Wechselrichter das Signal erhalten, von 0 auf 100 seinen Leistungsexport zu erhöhen.
+
+(0:06:24 - 0:06:37)
+Die Lampe geht sozusagen an und dieser Strom und dadurch auch am Ende die Leistung fließt jetzt vom Wechselrichter ins Netz. Und dort wird das Netzanalysegerät das feststellen. Das geht natürlich innerhalb von Mikrosekunden.
+
+(0:06:37 - 0:06:52)
+Trotzdem gibt es eine Zeitverschiebung. Und deswegen kann man, finde ich, diesen Weg so ganz gut darstellen. Also jetzt ist die Information und jetzt ist es kein Datenpaket, sondern jetzt ist es reale Energie, die jetzt angekommen ist beim Netzanalysegerät.
+
+(0:06:52 - 0:07:03)
+Mein Beispiel war ja von 0 auf 100. Also jetzt kommt da was an. Das Netzanalysegerät erkennt das, soll es ja genau das machen und schickt jetzt wiederum eine Info, also wieder einen Brief an den Parkregler.
+
+(0:07:04 - 0:07:27)
+Und das wollte ich unbedingt genau so darstellen, weil ich jetzt zeige, dass es sich ja mal einen geschlossenen Regelkreis handelt. Ich finde, das ist wichtig zu verstehen, dass zwischen Parkregler, Wechselrichter, Netzanalysegerät und dann wieder Parkregler eine geschlossene Regelkreis aufgebaut werden muss. Das heißt, der Parkregler sagt jetzt Leistung hoch, der Wechselrichter reagiert.
+
+(0:07:27 - 0:07:44)
+Der kann ja alles behaupten. Deswegen glauben wir ihm nicht, wenn er behauptet, er macht das auch, sondern das Netzanalysegerät sozusagen am anderen Ende erkennt das und gibt unabhängig davon, wenn eine unabhängige Informationsquelle den Wert zurück an den Parkregler. Und dann haben wir unseren Regelkreis.
+
+(0:07:45 - 0:07:59)
+Also jetzt haben wir das Parkregler Konzept erklärt mit einem geschlossenen Regelkreis. Das war erst mal die Planungsphase. Alles richtig gemacht, alles zusammengebaut, alles versendet.
+
+(0:08:00 - 0:08:08)
+Wir haben das so dargestellt mit einem Planungs-Icon. Und jetzt geht es endlich in den nächsten Abschnitt. Ein Anlagenzertifikat ist erreicht.
+
+(0:08:08 - 0:08:20)
+Herzlichen Glückwunsch ist für mich auch immer ein großer Schritt in jedem Projekt. Also wenn man das geschafft hat, ist schon mal richtig viel geschafft. Hier bei uns in der Animation sieht es deutlich einfacher aus, als es in Realität ist.
+
+(0:08:20 - 0:08:33)
+Aber grundsätzlich kommt dann also nach dem Anlagenzertifikat ein Vor-Bit-Test oder ein Bit-Test. Haben wir gerade letzte Woche sehr ausführlich beschrieben, wie das funktioniert. Da gibt es dann ein Protokoll.
+
+(0:08:33 - 0:08:40)
+Da zeige ich nochmal, welche Komponenten man da benutzt. Achtung, das ist jetzt nicht das Regler-Konzept. Sieht jetzt natürlich ein bisschen ähnlich aus, aber nein, nein, nein.
+
+(0:08:40 - 0:08:50)
+Wir wollen hier nur die Komponenten zeigen, die so mitspielen. Haben wir letzte Woche ganz ausführlich erklärt, was da alles so dazugehört und wie die zusammenspielen. Und worauf ich hinaus will, ist Folgendes.
+
+(0:08:50 - 0:09:05)
+Für den Vor-Bit-Test, Achtung, Wechselrichter raus, Schaltanlage raus. Beim Vor-Bit-Test guckt man sich nur und auch beim Bit-Test diese Komponenten an, dass das Zusammenspiel überhaupt funktioniert. Das ist vielleicht in so einer kompakten Trafo-Station.
+
+(0:09:06 - 0:09:16)
+Und dann hat man das getestet. Der Verantwortliche, der dabei ist, das hatten wir hier so symbolisch dargestellt, ist ein Schutztechniker vor Ort und meinetwegen der Netzbetreiber. Aber da ist ja gar nicht so viel passiert.
+
+(0:09:16 - 0:09:23)
+Jetzt haben sie eben nur diesen ersten Teil vorgeprüft. Dann kommt die Inbetriebnahme. Ohne Vor-Bit-Test, ohne Bit-Test keine Inbetriebnahme.
+
+(0:09:24 - 0:09:33)
+Auch ohne Anlagenzertifikat keine Inbetriebnahme. Nach der Inbetriebnahme, jetzt ist ja auch schon wieder ganz viel passiert. Und wir haben das super vorbereitet, den Regelungstest.
+
+(0:09:34 - 0:09:40)
+Da ist er endlich, um den soll es ja heute eigentlich gehen. Haben wir auch hier reingelegt, ein Dokument. Da gibt es also ein Protokoll.
+
+(0:09:40 - 0:09:52)
+Ganz, ganz wichtig. Überlege auch nicht ich mir oder der Projektleiter, sondern das steht in der 4110 Anwendungsrichtlinie genau so drin, dass man das machen muss. Und jetzt zeigen wir eben unsere Übersicht der Komponenten nochmal.
+
+(0:09:52 - 0:10:01)
+Weil jetzt, Achtung, das ist, finde ich, für den Kopf halt wichtig. Was braucht man jetzt? Jetzt braucht man ein Schutzrelais nicht. Das haben wir schon irgendwie überprüft, dass da irgendwelche Stellungsmeldungen kommen.
+
+(0:10:02 - 0:10:09)
+Aber jetzt brauchen wir den Wechselrichter. Genau, der muss jetzt mit rein. Und deswegen ist das ja auch in der Reihenfolge hinter der Inbetriebnahme.
+
+(0:10:09 - 0:10:20)
+Also sollte mal da irgendeiner behaupten, wir würden den Regelungstest machen müssen, bevor wir eine Inbetriebnahme-Zusage gehen. Dann würde ich ihm dieses Schaubild zeigen. Das ist technisch aus meiner Sicht überhaupt nicht möglich.
+
+(0:10:20 - 0:10:42)
+Dann ist es kein Regelungstest, weil ich brauche ja funktionierende, in Betrieb befindende Wechselrichter, um sozusagen diese geschlossene Regelkette überhaupt nachweisen zu können. Sonst ist es meinetwegen halt ein Bittest, aber kein Regelungstest. Und da haben wir jetzt so ein Männchen im Büro reingesetzt, weil wir nochmal darauf hinweisen wollten, dass für den Regelungstest überhaupt keiner vor Ort sein muss.
+
+(0:10:42 - 0:11:05)
+Im Grunde sitzt jetzt hier in dem Fall der Mitarbeiter oder die Mitarbeiterin der Leitwarte vom Netzbetreiber der Leitwarte und sendet von dort aus die Regelungsbefehle, weil wir ja mit dem Bittest schon alles vorgeprüft haben. Wird das jetzt auch reibungslos funktionieren? Wenn nicht, dann hat man ehrlich gesagt ja schon mal einen Bittestenfehler gemacht. Damit sage ich jetzt noch nicht, dass der Regelungstest bestanden ist.
+
+(0:11:05 - 0:11:15)
+Das ist ja deutlich komplizierter. Da geht es ja dann um Regelgeschwindigkeiten und Abweichung. Ich meine nur, dass er überhaupt regeln kann, muss zu diesem Zeitpunkt möglich sein, weil man ja den Bittest erfolgreich bestanden hat.
+
+(0:11:16 - 0:11:21)
+So und jetzt kommt die Konformitätserklärung. Der heilige Graal am Ende. Man hat es geschafft.
+
+(0:11:22 - 0:11:32)
+Das ist dann auch relativ einfach, einfach so als Icon dargestellt. In Wirklichkeit ist es deutlich schwieriger und wir grauen alles aus und ziehen den Regelungstest nochmal raus. Weil darum geht es ja heute.
+
+(0:11:32 - 0:11:43)
+Ich habe jetzt 20 Minuten eine Einleitung sozusagen hoffentlich erfolgreich dahingeführt, warum wir das überhaupt besprechen heute, warum dieser Regelungstest so wichtig ist.

@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:11)
+Also wir haben keine Zeit zu verlieren. Wir springen gleich in das Warum und es geht los. Warum Lichtwellenleiter? Das ist natürlich erst mal die Frage.
+
+(0:00:12 - 0:00:43)
+Und warum Prüfprotokoll? Es geht um LWL Prüfprotokoll. Warum machen wir das? Lichtwellenleiter ist erst mal grundsätzlich hat er erst mal Vorteile natürlich. Und deshalb entscheiden wir uns ja auch für Lichtwellenleiter für die Verlegung und einer der großen Vorteile ist dann natürlich, dass die Lichtwellenleiter deutlich höhere Reichweiten haben, also deutlich längere Übertragungsstrecken und man auch höhere Datenraten übertragen kann.
+
+(0:00:43 - 0:01:01)
+Sprich die Geschwindigkeit von so einer Datenübertragung ist per LWL deutlich schneller, deutlich besser als wahrscheinlich über Kupferverbindung, über RS485 Verbindung und so weiter. Deshalb entscheiden wir uns jetzt erst mal für LWL. Zusätzlich haben wir aber noch zwei, drei weitere Vorteile.
+
+(0:01:02 - 0:01:27)
+Und zwar haben wir natürlich mit unseren LWL Leitungen keine Schwierigkeiten bei der Beeinflussung durch Magnetfelder. Wir legen ja unsere Kommunikationskabel immer mit in die Kabelgräben rein. Wir machen keinen extra Kabelgraben für unser Kommunikationskabel, sondern die liegen immer in der Nähe von den anderen Stromführenden Leitungen, die dann natürlich Magnetfelder haben und dann eine Auswirkung auf die Kommunikationsleitung haben könnten.
+
+(0:01:28 - 0:01:57)
+Bei LWL ist es dann eben nicht so, weil wir haben ja kein Strom in diesem Lichtwellenleiterkabel, sondern wir haben eben einen Lichtpuls und dieser Lichtpuls, der ist eben erst mal unempfindlich gegenüber elektromagnetischen Feldern. Außerdem natürlich, wir erzeugen eben durch unseren Lichtpuls keinen elektromagnetischen Felder. Das heißt, wir wiederum beeinflussen auch keine anderen elektrischen Komponenten in unserem System.
+
+(0:01:59 - 0:02:16)
+Der letzte Punkt ist dann noch, weil wir da so oft drauf zu sprechen kommen, ist dann eben Punkt Kritis. Das heißt, ein LWL Kabel ist auch sehr störunempfindlich. Die Störsicherheit ist sehr hoch und es ist, so wie ich das gehört habe, auch abhörsicherer als Kupferleitungen.
+
+(0:02:16 - 0:02:54)
+Also wenn es später, und ich denke, da wird die Tendenz immer mehr hingehen, höhere Anforderungen im Bereich kritischer Infrastruktur, im Bereich IT-Sicherheit gibt, ist man mit so einem LWL Kabel erst mal besser aufgestellt als mit Kupferverdrahtungen. So, also alles, was Vorteile hat, hat meistens auch Nachteile. Das perfekte Übertragungsmedium, das haben wir sicherlich noch nicht gefunden, aber vielleicht vorweggeschickt, die Nachteile, die jetzt kommen, die sind in der Tendenz für uns eher handelbar.
+
+(0:02:55 - 0:03:22)
+Also der erste Punkt ist zum Beispiel die höheren Materialkosten als Kupfer. Ein LWL Kabel ist vielleicht einen Tacken teurer als eine Kupferleitung, zum Teil sogar auch günstiger, je nachdem, welche Leitertypen man da vergleicht. Es ist dann sicherlich in der Umsetzungstechnik später die Managed Switch, die SFP-Ports sind dann sicherlich ein bisschen teurer, aber vom Grundsatz her ein bisschen teurer.
+
+(0:03:22 - 0:03:44)
+Aber das ist eben kein Vermögen, was wir für so eine LWL-Infrastruktur auszahlen müssen, ausgeben müssen und fällt bei so einem großen Solarpark einfach nicht ins Gewicht. Deshalb ist dieser Nachteil der hohen Kosten erst mal gering. Dann haben wir einen höheren Installationen, einen höheren Aufwand bei der Installation, hier vor allem der Fokus gesetzt auf das Spleißen.
+
+(0:03:46 - 0:04:05)
+Wenn man sich das ein bisschen vorstellt, vielleicht ein zweiaderiges Kupferkabel, RS485-Verdrahtung, das kriegt sicherlich noch jeder Elektriker oder jeder, der mal etwas mit Elektrotechnik zu tun hatte, noch auf eine Klemme gelegt. Das kriegt bestimmt jeder hin, Schraubendreher abisolieren und dann schafft man das. Beim Spleißen ist das schon deutlich komplexer.
+
+(0:04:05 - 0:04:14)
+Das kann nicht jeder. Da hat vor allem auch nicht jeder dieses Spleißgerät. Das ist ja sehr teuer, sehr aufwendig und das muss man wirklich gelernt haben.
+
+(0:04:14 - 0:04:28)
+Das ist jetzt noch nicht in der breiten Elektrotechnik-Welt so angekommen, dass jeder Monteur mal gerade sein Spleißgerät aus dem Kofferraum holen kann und eben so Leitungen verbindet. Also der Aufwand ist dann einfach höher. Es dauert länger und es gibt weniger Leute, die das können.
+
+(0:04:29 - 0:04:47)
+Dann ist es eben die optisch elektrische Signalumwandlung, die erforderlich ist. Das ist ein zusätzliches Bauteil, was man dann sicherlich braucht. Zum Beispiel dieser Managed Switch, den wir häufiger schon mal in anderen Braindays vorgestellt hatten, der dann eben aus LWL ein Kupfersignal macht, eine Kupferverbindung herstellt.
+
+(0:04:48 - 0:05:09)
+Der ist dann natürlich auch erstmal, weil es eine Zusatzkomponente ist, etwas teurer. Und es ist einfach ein zusätzliches Bauteil, was man da braucht, was man berücksichtigen muss, was man mit Spannung versorgen muss, für das man Platz vorsehen muss. Komplexe Prüftechnik, das ist dann ja auch genau der Punkt, auf den wir heute hier zu sprechen kommen werden.
+
+(0:05:10 - 0:05:27)
+Man kann jetzt nicht einfach mit seinem Isolationstester so eine LWL-Strecke prüfen, sondern man hat hier eine sehr komplexe Technik. Wenn man sich das vielleicht vorstellt, wir schicken hier Licht in ein Kabel, messen Reflektionen, kommen wir später noch drauf. Das ist ja ganz faszinierend, dass man da überhaupt etwas messen kann.
+
+(0:05:27 - 0:05:44)
+Aber kriegen wir hin mit unseren aufwendigen, komplexen Prüfgeräten, mit der teuren Prüftechnik, können wir das machen. Hier ist es ein Nachteil, aber wir haben die Technik. Deshalb meine ich ja auch hier, ist es nicht zwingend ein großer Nachteil, sondern wir haben die Technik, wir können das umsetzen, deshalb machen wir es.
+
+(0:05:44 - 0:06:02)
+Und wir haben es ja einfach nur genannt, weil man eben dann jemanden haben muss, der das Gerät hat, der das Kabel dann prüft. So, und jetzt gibt es noch den letzten Punkt, empfindlicher gegenüber mechanischer Belastung, das heißt Glasfasern, die sind sehr, sehr dünn. Das erklären wir später auch noch, wie dünn sie sind.
+
+(0:06:03 - 0:06:20)
+Die sind sehr, sehr bruchempfindlich natürlich. Das heißt, man muss da recht vorsichtig mit umgehen bei der Lagerung, bei der Installation. Und wenn da mal jemand drauf tritt oder ein Bagger drüber rollt, dann mag das vielleicht ein Kupferkabel besser überstehen als eine Glasfaser.
+
+(0:06:20 - 0:06:35)
+Und deshalb ist es empfindlich. Ja, aber auch das, finde ich, ist ein Nachteil, den wir, wenn wir vorsichtig sind, wenn wir aufpassen, sehr souverän in den Griff bekommen können. Und daher würde ich diesen Nachteil für mich auch erst mal beiseite schieben.
+
+(0:06:35 - 0:06:47)
+Wir können das. Wir haben gute Bauleiter, die passen auf unsere Leitungen auf und dann kriegen wir das so installiert, dass es hinhaut. So, das waren Vor- und Nachteile von der Glasfaser.
+
+(0:06:47 - 0:07:12)
+Ich hoffe, das ist jetzt klar geworden, dass die Vorteile die langen Strecken deutlich überwiegen gegenüber den Nachteilen. Und jetzt gehen wir noch mal in das Prüfprotokoll. Oder warum heißt es ja, warum überhaupt ein Prüfprotokoll? Und das ist jetzt mal die Frage, was was prüfen wir überhaupt? Wenn wir vor Ort, wenn wir einen Solarpark vor der Inbetriebnahme haben, dann prüfen wir die Glasfasern.
+
+(0:07:12 - 0:07:19)
+Das ist erst mal soweit klar. Also die Glasfasern wurden verlegt vor Ort und wir prüfen sie. Und wir prüfen dann auch die Verschaltung.
+
+(0:07:20 - 0:07:33)
+Und warum machen wir das? Den Punkt hätte ich gerade schon fast vorweggenommen. Wir installieren ja etwas vor Ort. Es kommt jetzt nichts auf die Baustelle, was schon vor Ort im Werk durchgeprüft werden konnte, so wie es installiert ist.
+
+(0:07:33 - 0:07:45)
+Natürlich werden die Kabel, die da auf Trommeln geliefert werden, im Werk geprüft. Die sind erst mal bei Anlieferung höchstwahrscheinlich noch in Ordnung. Aber dann werden die Leitungen ja abgerollt.
+
+(0:07:45 - 0:08:00)
+Sie werden gelagert. Und deshalb müssen wir dann nach der Installation diesen Prüfnachweis, den es erst mal so nicht gibt, nach der Installation eben nachholen und das Kabel prüfen. Das ist dann eben eine Fehlererkennung.
+
+(0:08:00 - 0:08:18)
+Ja, das schaffen wir durch unsere Messung. Und was können wir dann eben finden? Ja, also erst mal die Qualität der Installation können wir mit unseren Messungen überprüfen. Sind die Spleiße gut? Ist das Kabel gut verlegt oder ist es vielleicht auch mal mit zu engen Biegeradius verlegt? Das kann man mit so einer Messung tatsächlich überprüfen.
+
+(0:08:19 - 0:08:39)
+Man kann dann Beschädigung beim Transport erkennen und finden und eben die projektspezifische Verschaltung kann man hier eben auch noch mal prüfen. Wie geht das Ganze? Da haben wir dann zwei Varianten aufgeführt, die wir heute uns im Detail angucken. Wir können die Qualität erst mal messen.
+
+(0:08:39 - 0:09:07)
+Das ist dieses OTDR. Kommt später noch, was das genau bedeutet und wie das funktioniert. Und das Zweite ist dann die Zuordnungsprüfung, die dann einfacher ist, aber die wir euch hier nicht vorenthalten wollen, weil das für uns, für die Inbetriebnehmer oder für die Inbetriebnehmer vor allem immer ein sehr leichtes, sehr einfaches Mittel ist, zu prüfen, ob die Faser durchgängig ist zumindest und ob die Faser so verlegt ist oder an der Stelle aufgelegt ist, wo sie aufgelegt werden sollte.
+
+(0:09:09 - 0:09:27)
+So, wann machen wir das Ganze noch, diese Prüfung? Erst mal machen wir das vor der Inbetriebnahme. Das ist ganz, ganz wichtig. Vor der Inbetriebnahme müssen wir diese LWL-Strecken prüfen und was wir normalerweise nicht tun oder zumindest kenne ich das so nicht, dass diese LWL-Strecken wiederkehrend geprüft werden.
+
+(0:09:28 - 0:09:39)
+Also vor der Inbetriebnahme. Aber hier würden wir sagen, gibt es keine Anforderung, dass alle vier Jahre noch mal eine OTDR-Messung durchgeführt wird. Das ist hier nicht notwendig.
+
+(0:09:41 - 0:10:08)
+So, das nochmal alles zusammengefügt. Warum machen wir das? Was ist hier unser Ziel? Also die Anlage soll natürlich, wenn wir in Betrieb gehen wollen, in Betriebnahme bereit sein. Und deshalb machen wir vorher Prüfprotokolle, machen wir vorher vielleicht auch so was wie ein Cold Commissioning, damit dann, wenn es wirklich losgeht, dass wir dann auch wirklich sofort loslegen können und dann nicht erst anfangen, Fehler zu suchen, weil vielleicht die Station 1 mit der Station 2 nicht kommuniziert.
+
+(0:10:09 - 0:10:20)
+Und natürlich ist so eine Messung immer eine langfristige Qualitätssicherung. Wir wollen sicherstellen, dass wir hohe Qualität haben. Und das können wir damit am Ende sicherstellen.

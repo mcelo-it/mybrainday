@@ -1,0 +1,20 @@
+(0:00:00 - 0:00:28)
+Hallo und herzlich willkommen zum Brainday. Wir haben heute, wie ich finde, tolle Themasensoren und ich will nicht zu viel versprechen, aber wir haben heute, denke ich, einen sehr tollen Abriss vor uns aus der Theorie und dann auch unsere Erfahrung aus der Praxis, die wir einschließen lassen können. Also wie ist es denn tatsächlich? Und darüber hinaus, ich will nicht zu viel vorwegnehmen, aber gehen wir von dem ganz Großen, von der Übersicht bis ins kleinste Detail.
+
+(0:00:28 - 0:00:38)
+Und da haben wir jetzt heute viel vor uns. Ich freue mich jetzt schon drauf und ich würde starten und wir starten wie immer mit unserer Übersicht. Wir haben zwei, vier, sechs, sieben Kapitel vor uns.
+
+(0:00:39 - 0:01:01)
+Das erste Kapitel, wie so oft, nennt sich erst mal Warum? Und hier starten wir dann erst mal mit einer kleinen Motivation. Warum machen wir das überhaupt? Wofür brauchen wir diese Sensoren? Wofür treiben wir diesen relativ großen Aufwand, das Ganze ins Monitoring zu bringen? Das gibt uns dann Aufschluss. Und ich glaube, dann haben wir alle mehr Spaß daran, hinterher zuzuhören und zu verstehen oder zu dieses Wissen aufsaugen zu wollen.
+
+(0:01:02 - 0:01:12)
+Das zweite Kapitel ist dann nennen wir Sensoren. Da geht es erst mal um einen groben Abriss der Sensoren. Also wir haben ein paar Sensoren rausgesucht, die wir so kennen.
+
+(0:01:13 - 0:01:48)
+Erklären wir kurz, weil wir danach in das Kapitel Norm gehen und da dann auch nochmal andere Sensoren kennenlernen und ein bisschen mehr darauf eingehen, was die eigentlich machen, wie viele man davon braucht, vielleicht und so weiter. Dann der ganz tiefe Sprung in die Praxis, wie ich es mal so bezeichnen würde. Die 360-Grad-Tour zeige ich euch einmal zu Beginn und dann habt ihr da sicher auch eine Übung da drin und könnt dann selbst mal durchlaufen, schauen, wie es denn wirklich auf einer Freiflächenanlage umgesetzt wurde und dann eben navigieren, angucken und am Ende auch eine Aufgabe lösen.
+
+(0:01:49 - 0:02:17)
+Dann kommen wir zur Installation und da geht es dann eben auch von dem Großen in das Kleine, dass wir dann wirklich am Ende sehen, wie auch die Datenkabel angeschlossen werden, wie die Spannungsversorgung der Sensoren angeschlossen wird, wie so Klemmboxen aussehen. Das machen wir bei Installation. Wenn das alles installiert ist, dann haben wir natürlich die Aufgabe oder unsere Nachunternehmer die Aufgabe, ein Protokoll zu erstellen und das führen wir hier mal vor, wie wir es machen würden, wie es bei uns aussehen würde.
+
+(0:02:18 - 0:02:56)
+Relativ kurzes Kapitel, aber ich denke, ein sehr sinnvolles Kapitel. Zum Schluss dann noch, ja, das ist der Schritt nach den Protokollen, wir sind in Betrieb gegangen, dann gucken wir uns auch noch mal kurz an, was man im Grunde genommen in der Auswertung von Sensoren so tun kann, was sieht man eigentlich in so einem Monitoring-Portal und dann glaube ich, habt ihr alles Handwerkszeug an der Hand von der Planung ganz zu Beginn bis zur Inbetriebnahme und darüber hinaus bis zum Monitoring, um mit Sensoren gut umgehen zu können. Und wahrscheinlich alle Fragen danach hoffentlich gut beantworten zu können.

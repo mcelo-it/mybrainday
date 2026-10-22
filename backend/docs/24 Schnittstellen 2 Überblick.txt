@@ -1,0 +1,63 @@
+(0:00:00 - 0:00:21)
+So, ich hoffe, das ist erst mal jetzt klar für allen, warum wir so was machen, warum wir Protokolle und diese ganze Kommunikation benötigen. Und jetzt würde ich im nächsten Schritt euch versuchen, einen groben Überblick, ich hatte es vorher schon gesagt, über die Protokolle zu gehen, die wir im Arbeitsalltag immer wieder kennenlernen oder immer wieder sehen. Es gibt viele, viele weitere.
+
+(0:00:22 - 0:00:37)
+Das ist ganz klar. Es gibt in der Industrie wahrscheinlich hunderte von Protokollen, hunderte von Schnittstellen in Solarparks, vielleicht auch in Windparks. Es ist das aber am Ende zum Glück auch sehr reduziert worden auf, ich würde mal sagen, einige wenige.
+
+(0:00:38 - 0:00:59)
+Und wir unterscheiden das Ganze dann im ersten Schritt in zwei Obergruppen. Der eine Bereich ist IEC. Wir werden euch heute ausnahmsweise mal nicht mit Normen quälen, aber die IEC-Norm, die gibt erst mal standardisierte Protokolle vor.
+
+(0:00:59 - 0:01:15)
+Und das ist, denke ich, auch gut so. Und der zweite Zweig, den wir haben, das ist Modbus. Das ist jetzt nicht unbedingt standardisiert, aber die Firma Modicon hat eben mal diesen Modbus-Standard entwickelt und auf den berufen wir uns an vielen, vielen Stellen.
+
+(0:01:19 - 0:01:29)
+So, jetzt kommt das Ganze nochmal. Da hat man einen kleinen Grafikfehler drin. Genau, die IEC-Norm, das ist die normative Definition für Schnittstellen.
+
+(0:01:29 - 0:01:47)
+Wir kommen gleich später dazu, welche Schnittstellen das alle sind. Und diese IEC-Norm hat eben für unsere elektrischen Anlagen tatsächlich spezielle Normen entwickelt. Das heißt, diese Normen kann man dann wahrscheinlich nicht für, naja, ich würde mal sagen, für andere Kommunikationen verwenden, sondern die ist wirklich für elektrische Anlagen gedacht.
+
+(0:01:49 - 0:02:17)
+Und eben für Fernwirk- und SCADA-Systeme sehen wir später auch nochmal, verschiedene Unterkapitel befassen sich dann oft mit verschiedenen Teilbereichen unserer Kommunikation, interne Kommunikation, würde ich jetzt mal sagen, externe Kommunikation und so weiter. So, Modbus kommen wir jetzt dazu. Ich hatte es eben schon gesagt, entwickelt von der Firma Modicon, ist jetzt Schneider Electric, spielt aber weiter keine Rolle.
+
+(0:02:17 - 0:02:48)
+Ich finde es nur interessant, dass es einfach unterschiedliche Wege gibt, dass sich so ein Kommunikationsstandard etabliert. Über die normative Schiene ist eben der eine Weg und der andere Weg, dass da ein privates Unternehmen, würde ich mal sagen, einen Standard entwickelt, einen offenen Standard und der sich dann so weit etabliert, dass das ganze Protokoll dann wirklich viel verwendet wird. Keine Lizenzgebühr ist wahrscheinlich einer der wichtigen Gründe, warum es sich eben so weit verbreitet.
+
+(0:02:48 - 0:03:18)
+Man kann das frei nutzen und das tun dann eben auch viele. Und dadurch ist dieses Protokoll zum meistgenutzten Protokoll geworden und wird eben viel oder sehr häufig in Photovoltaikanlagen verwendet. So, wir schieben diese beiden Oberpunkte mal zusammen und jetzt im Folgenden seht ihr dann so einen Baum mit verschiedenen Unterpunkten, mit verschiedenen Kategorien, das seht ihr gleich.
+
+(0:03:18 - 0:04:05)
+Also die IEC-Norm unterteilt sich in Unternormen, so haben wir es schon gesagt, und die Übernormen ist die 60, 875 und der erste Unterpunkt ist die 101. Viele haben diese 101 vielleicht schon mal gehört, wenn man mit der Edis spricht, mit dem Netzbetreiber, dann kommuniziert der eben über 101 und das ist dann eben eine Schnittstelle, die von unserem Fernweg-Gateway in unserem Solarpark zum Beispiel die Schnittstelle herstellt zum Netzbetreiber. Der hat dann meistens sein Gateway direkt nebenan hängen, also die Verbindungsstrecke ist dann zwei, drei Meter, sage ich mal, und das Ganze funktioniert dann eben für die Kommunikation nach außen.
+
+(0:04:05 - 0:04:42)
+Die zweite Norm, Unternorm in der 60, 870-Reihe ist die 102. Die würde ich heute gar nicht mehr groß weiter behandeln, weil unsere Erfahrung zeigt eigentlich, dass wir als Errichter von Solarparks, als Betreiber mit dieser Norm sehr wenig zu tun haben. Also es geht hier um Zählerwertübertragung, also der Netzbetreiber, der hat wahrscheinlich eine Kommunikation zu seiner Messleitstelle, sage ich jetzt mal, und dafür wird er wahrscheinlich das 102er-Protokoll verwenden.
+
+(0:04:43 - 0:05:21)
+Das ist aber außerhalb unseres Verantwortungsbereichs, das macht der Netzbetreiber alleine, da müssen wir nichts darüber wissen. Dann geht es weiter der Reihenfolge nach mit der 103, die kommt jetzt. Und die 103 ist für uns, ich würde es mal sagen, für Schutztechniker häufig viel wichtiger als beispielsweise die 101, weil die 103, die stellt eine Kommunikation da zwischen beispielsweise Schutzgeräten und Feldleitgeräten, zum Beispiel einem Umspannwerk, vielleicht aber auch in unserer Übergabestation zwischen unserem Parkregler und dem Schutzgerät.
+
+(0:05:22 - 0:06:02)
+Weil der Parkregler ja auch an den Netzbetreiber später Schutzwerte, Auslösewerte gegebenenfalls übergeben muss und das funktioniert wunderbar mit dem 103er-Protokoll. Also wenn man beispielsweise mal ein Siemens-Relais hat, nimmt am besten ein 103er-Protokoll, andere Sachen funktionieren da oft nicht so gut. So, jetzt kommt ein bisschen mehr Abstand, die 104. 
+
+Warum da jetzt ein bisschen mehr Abstand zwischen der 103 und der 104 ist, das seht ihr gleich. Die 104, würde ich sagen, ist analog zu der 101 zu betrachten. Gleich kommt die Linie dazwischen, dann sage ich euch, was genau der Unterschied ist.
+
+(0:06:02 - 0:06:45)
+Aber auch dieses 104er-Protokoll ist eben für die Kommunikation zwischen PV-Anlage und Netzleitstelle zuständig. Warum sich die Edis jetzt zum Beispiel für die 101 entschieden hat und andere Netzbetreiber mit der 104 arbeiten, das weiß ich nicht genau, aber da hat wahrscheinlich jeder auch seine eigenen Präferenzen. Jetzt springen wir erstmal rüber in den, oh, ich habe eine Norm vergessen, ganz wichtig, beziehungsweise für den Solarpark intern vielleicht nicht so wichtig, aber die IC 61850 sollte in jedem Fall genannt werden, auch wenn ich als interner Solarparkplaner die nicht so häufig sehe.
+
+(0:06:45 - 0:07:19)
+Die 61850 findet sich mittlerweile häufig in Umspannwerken wieder, weil es auch das modernere Protokoll ist, das aktuellste Protokoll. Da kombinieren wir aus meiner Sicht die 101, 102, 103 mit einer anderen Übertragungstechnik. Die Linie fehlt uns noch, aber kommt gleich, und können damit im Grunde genommen Schutzgeräte, Messgeräte, Schaltgeräte und so weiter verbinden und die Daten übertragen und verarbeiten.
+
+(0:07:22 - 0:07:46)
+Jetzt kommen wir, wie gesagt, in den Modbus-Bereich. Modbus, das private Protokoll, was sich stark durchgesetzt hat, unterscheidet sich dann einmal in Modbus-RTU, das sehen wir hier, und dann weiter unten kommt das Modbus-TCP. Auch hier nicht zufällig so ein großer Abstand zwischen den Zweien, weil wir jetzt das Ganze in zwei getrennte Schnittstellen unterteilen wollen.
+
+(0:07:47 - 0:08:10)
+Da machen wir genau an der Stelle die Linie. Ihr seht jetzt einen unteren Bereich und einen oberen Bereich. Der obere Bereich, das ist der serielle Bereich, so nennen wir das. 
+
+Die Schnittstelle ist dann RS485-seriell. Und der untere Bereich, das ist eben der TCP-IP-Bereich. Also, ich sage mal, wenn man mich jetzt fragen würde, sage ich mal, ist TCP-IP der Stand der Technik.
+
+(0:08:10 - 0:08:28)
+Und wenn man jetzt ein neues Protokoll entwickelt, zum Beispiel das IEC 61850, dann läuft das eben auf TCP-IP. Und auch das Modbus-TCP-Protokoll, wie es der Name schon sagt, läuft auf Modbus-TCP-IP und das 104er eben auch. Das ist dann der große Unterschied, den ich vorhin angedeutet habe, zum 101er.
+
+(0:08:29 - 0:08:53)
+Ansonsten ist 104 und 101 beides für die externe Kommunikation gedacht, nur eben die Schnittstelle ist eine andere. Das heißt, das Übertragungsmedium ist ein anderes. Wir sortieren das Ganze nochmal neu um und folgen im späteren Verlauf dann auch dieser Struktur.
+
+(0:08:53 - 0:09:11)
+Also, wir haben oben RS485-seriell mit der 10123 und dem Modbus-RTU. Und wir haben unten drunter dann, da kommen wir dann auch im späteren Teil dazu, mit dem TCP-IP der 104, der IEC 61850 und dem Modbus-TCP, ja, den TCP-IP-Teil.

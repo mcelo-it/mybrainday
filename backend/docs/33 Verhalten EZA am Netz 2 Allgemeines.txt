@@ -1,0 +1,120 @@
+(0:00:00 - 0:00:12)
+Und schauen die Übersicht an. Genau, jetzt kommt als nächstes das Kapitel Allgemeines. Also das allgemeine Kapitel, so wie es grundsätzlich auch in der 4110 dargestellt wird.
+
+(0:00:12 - 0:00:37)
+Und da schauen wir einfach mal rein, was die 4110 uns denn so an allgemeinen Vorgaben macht. Die 4110 startet erstmal grundsätzlich fast jedes Kapitel, jedes Unterkapitel erstmal im allgemeinen Block, um Definitionen zu finden für alles das, was da im Folgenden passieren wird. Und hier ist es dann im Grunde genommen so, unter Allgemeines fällt auch erstmal ein wichtiger Hinweis zum Primärenergiedargebot und Software.
+
+(0:00:37 - 0:01:00)
+Also Primärenergiedargebot, da versteht man dann bei unseren PV-Anlagen, dass ein Wind erstmal, ne Entschuldigung, bei PV-Anlagen ist es die Sonne, dass die Sonne da ist. Bei Windparks wäre es dann natürlich Wind. Und alle Wirkstromanforderungen, das ist erstmal wichtig, sind unter dem Vorbehalt, dass wir auch überhaupt Einstrahlung haben oder für Windparks überhaupt Wind haben.
+
+(0:01:00 - 0:01:27)
+Es ist dann wichtig, später, wenn es dann vielleicht auch um Frequenzhaltung geht, wir können beispielsweise nicht, wenn die Frequenz sinkt, können wir nicht einfach Wirkleistung zur Verfügung stellen, um die Frequenz zu schützen. Da sind wir dann mit diesem Passus erstmal ausgenommen. Das ist erstmal sehr hilfreich, weil ansonsten könnten wir natürlich mit unseren sehr flukturierenden Einstrahlungsbedingungen an vielen Teilen von so einer Regelung gar nicht gut teilnehmen oder nicht zuverlässig zumindest teilnehmen.
+
+(0:01:28 - 0:01:49)
+Und dafür ist dieser Passus einfach unheimlich wichtig. Jedes Mal, wenn wir keine Einstrahlung haben und einfach nicht die Energie zur Verfügung haben, dann sind Wirkstromanforderungen erstmal für uns nicht maßgeblich. Der nächste Punkt, das nächste Kapitel, das ist der quasi stationäre Betrieb.
+
+(0:01:50 - 0:02:04)
+Ich tendiere immer dazu, hier zu sagen, das ist wichtig und das ist auch wichtig und das ist auch wichtig. Ja, es ist ja einfach alles wichtig, was hier kommt. Bei dem quasi stationären Betrieb lege ich immer gerne nochmal meinen Fokus drauf, weil es da häufig zu Missverständnissen kommt.
+
+(0:02:05 - 0:02:23)
+Ich sage gleich, was das Missverständnis ist, aber es kommt zu Missverständnissen. Und dieser quasi stationäre Betrieb hat maßgeblichen Einfluss auf das Wirkleistungsverhalten, das unsere Solarparks in der 41 zählt. Erläuter ich gleich noch, jetzt gucken wir uns erstmal an, was quasi stationärer Betrieb überhaupt bedeutet.
+
+(0:02:23 - 0:02:33)
+Ich musste das das erste Mal dann auch tatsächlich erstmal im Lexikon nachschauen. Quasi stationär, damit ist erstmal gemeint, langsam ablaufen. So kann man das vielleicht auf deutsch übersetzen.
+
+(0:02:33 - 0:02:49)
+Also da geht es nicht um ganz schnelle Prozesse, um schnelle Änderungen, sondern langsam ablaufende Prozesse. Der langsam ablaufende Betrieb ist das und der wird erstmal dann definiert hier in dieser Norm. Wir sehen dann auf der Y-Achse die Änderung der Spannung.
+
+(0:02:50 - 0:03:05)
+Also 1,0 wäre die Spannung im Netz, ist genauso wie sie UC vereinbart wurde, wie die Versorgungsspannung eben definiert ist. Und auf der X-Achse habt ihr eben die Frequenz. Wir haben Frequenz und Spannung im Netz und da wird jetzt erstmal ein Normalbetrieb definiert.
+
+(0:03:05 - 0:03:23)
+Und der Normalbetrieb aus Sicht der Spannung wäre erstmal zwischen 90% und 110% der Versorgungsspannung. Also wir können ein bisschen nach unten, ein bisschen nach oben, das ist normal, 10% geltender. Und für die Frequenz ist der Normalbetrieb tatsächlich 1 Hz.
+
+(0:03:23 - 0:03:49)
+Das halte ich erstmal für sehr weit gegriffen, weil wenn die Frequenz in Deutschland mal 1 Hz abweicht, ich glaube dann haben wir schon einen sehr sehr außergewöhnlichen Netzzustand. Und das nicht im positiven Sinne, sondern dann wird es schon sehr sehr kritisch. Aber so ist es definiert. 
+
+Wir stellen das mal da in dieser Grafik. So genau sieht das aus, plus minus 10% in der Spannung und 1 Hz plus und minus in der Netzfrequenz. Normalbetrieb, das ist erstmal so definiert.
+
+(0:03:50 - 0:04:10)
+Drumherum gibt es Grenzwerte, das ist dann nicht mehr der Normalbetrieb, sondern das ist dann schon ein etwas seltenerer Betrieb. Die Spannung kann nochmal ansteigen, also 5% höher bis 115 oder eben 5% tiefer bis 85%. Dann ist das schon wenig Spannung im Netz.
+
+(0:04:10 - 0:04:33)
+Und in dem Bereich muss unsere PV-Anlage in der Lage sein, 60 Sekunden am Netz zu bleiben und weiterhin einzuspeisen. In diesem Bereich ist es dann unserer PV-Anlage aber auch schon erlaubt, dass da Wirkleistungen reduziert werden. Nehmt das jetzt schon mal mit, kommen wir gleich nochmal ein bisschen mehr im Detail drauf.
+
+(0:04:34 - 0:04:54)
+Und für die Frequenz gibt es auch Grenzwerte, zusätzliche Grenzwerte, dann eben bis 47,5 und bis 51,5. Das sind dann natürlich sehr weite Grenzen und da müssen wir 30 Minuten in der Lage sein am Netz zu bleiben. Bei der Frequenz ist das für unsere Wechselrichter gar nicht so schwierig, das hat nicht so einen großen Einfluss.
+
+(0:04:54 - 0:05:08)
+Bei der Spannung ist das schon ein bisschen anders. Hier zeigen wir nochmal die Frequenz, dass wir dieses Rechteck komplett haben. Und wenn wir uns jetzt unten den Hinweis nochmal anschauen, in orange eingefärbt, quasi stationärer Betrieb.
+
+(0:05:09 - 0:05:39)
+Und der sorgt eben im Rahmen der Anlagenzertifizierung für eine dauerhafte Wirkleistungsreduzierung unserer PV-Anlage. Das ist erstmal ganz wichtig, weil die Norm sagt, im Normalbetrieb muss unsere Anlage in der Lage sein, in allen Spannungsbereichen vor allem, das ist hier das Wichtige, in allen Spannungsbereichen, die volle Wirkleistung bereitstellen zu können. Wenn wir uns jetzt aber an den Wechselrichter anschauen, dann ist er erstmal stromlimitiert.
+
+(0:05:40 - 0:05:58)
+Das heißt, wenn er seinen maximalen Strom rausgibt bei Nennspannung, dann kommt er auf seine Nennleistung. Wenn wir jetzt aber sagen, wir haben nur 90% der Netzspannung zur Verfügung, dann kann er nicht den Strom heben. Dann kann er nicht noch mehr Strom ins Netz schieben, um eben bei der gleichen Leistung zu bleiben.
+
+(0:05:58 - 0:06:08)
+P ist U mal I, das sind die Grundlagen. Sondern dann muss er oder dann wird er seine Wirkleistung reduzieren müssen. Weil Spannung geht runter, Strom bleibt gleich, Leistung geht runter.
+
+(0:06:09 - 0:06:32)
+Das ist ein ganz einfacher elektrotechnischer Zusammenhang. Und da das nun mal so ist, erfüllen unsere Wechselrichter bei 90% der Netzspannung in der Regel nicht diese Anforderungen der Norm bei Nennleistung. Sodass wir in der Regel unsere Wechselrichter, unsere Anlagen auf 90, vielleicht auch 91% dauerhaft reduziert fahren müssen.
+
+(0:06:33 - 0:06:48)
+Das ist hier genau dieser Punkt, dieser quasi stationäre Betrieb. Der ist dafür zuständig, dass wir eben unsere Anlagen drosseln müssen, dauerhaft. Und das wird relativ oft verwechselt mit der Blindleistungsbereitstellung, da kommen wir später noch drauf.
+
+(0:06:48 - 0:07:02)
+Aber hier ist es wirklich nicht, hat nichts mit der Blindleistung zu tun, sondern einfach nur mit der Spannung. Wir dürfen unsere Wirkleistung nicht zugunsten der Spannung reduzieren. Nehmt das mit, wichtiger Punkt und den fragen wir bestimmt auch nochmal im Menti später ab.
+
+(0:07:03 - 0:07:20)
+Da könnt ihr dann ganz schnell Punkte sammeln. Wir kommen zum nächsten Punkt in der Norm und das ist die 10.2.1.3. Wir sind ganz tief unten in der Norm. Ich hoffe, wir verlieren uns hier nicht.
+
+(0:07:21 - 0:07:33)
+Hier geht es um Polrad- bzw. Netzpendelung. Das gibt es im Netz. 
+
+Polradpendelungen im Netz treten einfach auf. Das ist für uns gar nicht so relevant. Ich hatte damit in keinem Projekt Schwierigkeiten.
+
+(0:07:33 - 0:07:49)
+Wir bleiben am Netz, wir müssen am Netz bleiben. Das ist erstmal wichtig, weil dadurch dämpfen wir diese Pendelungen im Netz. Aber da das jetzt für unsere Projekte gar nicht so von relevant ist, da ich persönlich damit noch keine Schwierigkeiten hatte, schieben wir das mal weiter und gehen da gar nicht tiefer drauf ein.
+
+(0:07:50 - 0:08:06)
+Ansonsten ist das hier zu viel Input, den wir vielleicht gar nicht brauchen und das wollen wir natürlich nicht. Inselbetrieb sowie Teilnetzbetriebsfähigkeit ist der nächste Punkt. Erstmal wichtig vorab zu sagen, PV-Wechselrichter sind netzgeführt.
+
+(0:08:06 - 0:08:26)
+Das ist erstmal ein wichtiger Punkt und damit sind diese Wechselrichter erstmal per se nicht inselbetriebsfähig. Das wollten wir hier mitnehmen, weil das im E1-Bogen häufig abgefragt wird. Da gibt es einen Punkt Inselbetriebsfähigkeit und den kreuzen wahrscheinlich die meisten immer mit Nein an.
+
+(0:08:26 - 0:08:32)
+Also wir sind nicht inselbetriebsfähig. Und hier, um es nochmal klar gesagt zu haben, die Wechselrichter sind es nicht. Ihr macht das dann völlig richtig.
+
+(0:08:33 - 0:08:39)
+Macht das ruhig weiter so. Jetzt habt ihr vielleicht nochmal ein bisschen Hintergrund. Wechselrichter sind nicht inselbetriebsfähig.
+
+(0:08:39 - 0:08:55)
+Wenn jetzt doch jemand einmal vor hat, einen Inselbetrieb aufzubauen, das ist dann denkbar in kleineren oder größeren Industriebetrieben. Die haben eine Versorgungssicherheit, vielleicht eine höhere, als das Netz zu bieten hat. Die haben dann eigene Generatoren, vielleicht auch PV-Anlagen.
+
+(0:08:55 - 0:09:08)
+Die müssen dann eben den Inselbetrieb anmelden. Das ist dann erstmal Vorschrift, so steht es in der Norm. Ist für uns PV vielleicht jetzt gar nicht so der wichtige Punkt, weil wir alleine als PV-Anlage könnten das gar nicht.
+
+(0:09:08 - 0:09:25)
+Ihr bräuchtet dann eben Generatoren, die euch erstmal ein Netz geben, damit die PV-Anlage da mitmachen kann. Das heißt, ihr hängt dann zwar mit dran, aber ausschlaggebend ist eben der Betreiber dieses Inselnetzes, der muss es anmelden. Teilnetzbetriebsfähigkeit wird ja auch definiert in der Norm.
+
+(0:09:27 - 0:09:45)
+Teilnetzbetriebsfähigkeit, nur dass man es mal gehört hat, ist eben, ein Teilnetz bildet sich aus, wenn vielleicht das Höchstspannungsnetz mal ausfällt. Dann sind die 110 kV Netze nicht mehr miteinander gekoppelt. Dann habt ihr sogenannte Teilnetze und dann gibt es Wechselrichter, die dann diese transienten Vorgänge vielleicht nicht aushalten können.
+
+(0:09:46 - 0:09:57)
+Für uns in der 4110 ist Teilnetzbetriebsfähigkeit sowohl als auch Inselbetriebsfähigkeit keine Mindestanforderung. Deshalb schieben wir das weiter. Ihr habt jetzt verstanden, was es ist.
+
+(0:09:57 - 0:10:13)
+Was ist eine Insel? Was ist ein Teilnetz? Und für unsere PV-Anlagen ist das eben nicht zertifizierungsrelevant. Wir können mal weitergehen. Schwarzstartfähigkeit, auch hier ist das nicht erforderlich.
+
+(0:10:15 - 0:10:26)
+Ein kleiner Ausblick vielleicht in die 4130. Da wäre eine Schwarzstartfähigkeit tatsächlich gefordert. Das muss man dann mal sich anschauen, ob es Wechselrichter gibt, die das können.
+
+(0:10:26 - 0:10:37)
+Also das Netz ist weg. Wer startet jetzt? Wer baut das Netz wieder auf? Wenn ihr am Höchstspannungsnetz seid, sind da hohe Anforderungen gefordert. In der 4110 sind wir davon relativ weit entfernt.
+
+(0:10:38 - 0:10:44)
+Unsere Wechselrichter, die wir standardmäßig einsetzen, können das nicht. Und es ist eben in der 4110 auch nicht gefordert. Also weiter geht es.
+
+(0:10:45 - 0:11:00)
+Wenn ihr das mal habt, denkt vielleicht daran, da war ja was, wir können da vielleicht nicht die ganz normalen Wechselrichter nehmen. Wir brauchen dann ja ohnehin auch die anderen Komponentenzertifikate, Einheitenzertifikate. Und dann ist das hoffentlich auch damit abgefrühstückt.

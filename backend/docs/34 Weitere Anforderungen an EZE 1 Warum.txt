@@ -1,0 +1,35 @@
+(0:00:00 - 0:00:37)
+Damit fangen wir auch gleich an, dann müsste man da nochmal drauf halten, genau, und machen das heute sehr kurz mit dem Warum. Wir sind nämlich im übergeordneten Kapitel 41.10, das bezieht sich also hier im Endeffekt auf einige von unseren Braindays, weil das ein ganz wichtiger Kernbestandteil ist. Deswegen machen wir das kurz und zeigen nur mal, wo das eigentlich herkommt. Also es gibt eine europäische Richtlinie, die nennt sich RFG, Requirements for Generators, das ist mal in Europa so beschlossen worden. Und die geben das dann weiter eine Ebene runter, in unserem Fall die Bundesebene. Und da gibt es den Verband der Elektrotechnik.
+
+(0:00:38 - 0:00:59)
+Das ist so unser wichtigster Verband in unserem Berufsunfeld, den wir da so haben. Die übernehmen den RFG und passen ihn auf unsere länderspezifischen Anforderungen an. Also von RFG zu VDEAR haben wir in anderen Terminen schon sehr genau detailliert beschrieben, dass es dann da die 5, die 10, die 20 und die 30 gibt.
+
+(0:01:00 - 0:01:09)
+Abhängig von Spannungsebene. Das wäre dann der unterste Punkt, der dann noch dazukommt. Also die Netzbetreiber übernehmen dann diese Richtlinien.
+
+(0:01:10 - 0:01:21)
+Heute 41, 10 im Fokus. Das ist das, was wir am meisten sehen bei uns im Berufsumfeld, also die Mittelspannungsebene. Und dann hat man da unten drunter noch die technischen Anschlussbedingungen.
+
+(0:01:21 - 0:01:36)
+Also das habe ich nur gemacht, um noch mal abzuholen, wo sozusagen die die Ursache liegt. Also im Verband der Elektrotechnik habe ich jetzt oben hingeschoben VDE Anwendungsrichtlinie 41, 10. Da sehen wir es ja auch mit ihren ganzen zwölf Kapiteln.
+
+(0:01:36 - 0:02:08)
+Und weil wir schon Schwierigkeiten haben, Teilkapitel in zwei Stunden zu packen, schauen wir uns natürlich heute nicht alle zwölf an, sondern wir gucken heute eben in dieses Kapitel 10, da zoome ich dann auch noch mal rein, was da so drinsteht, hat ja auch wieder haufenweise Kapitel. Und da graue ich jetzt gleich mal zwei aus, weil wir uns darum heute nicht kümmern, sondern 10, 3, 10, 4, 10, 5 und 10, 6. Auf die gucken wir heute. Und wir haben das sozusagen zusammengefasst als den Begriff weitere Anforderungen.
+
+(0:02:09 - 0:02:20)
+So ist unsere Definition. Ein Kapitel hier drin heißt auch so. Aber unser Grundgedanke ist, wir sammeln sozusagen heute den Rest ein, der da an Anforderungen für die Erzeugungsanlage.
+
+(0:02:20 - 0:02:31)
+Das ist ganz wichtig. Es geht um die Anlage, nicht um die Einheit, um die Erzeugungsanlage. Warum machen wir das? Da kommt der heilige Gral.
+
+(0:02:31 - 0:02:39)
+Das Anlagenzertifikat ist zwingend erforderlich für eine erfolgreiche Inbetriebnahme. Das ist elementar. Da kommt man nicht drumrum.
+
+(0:02:39 - 0:02:47)
+Also braucht man sie. Und das kriegt man nur, wenn man diesen Kapitel, darum geht es heute, folgt. Und später setzt die Konfirmitätserklärung darauf auf.
+
+(0:02:48 - 0:02:54)
+Daumen geht nur hoch, wenn man beides hat. Sonst hat man irgendwie seinen Job nicht ganz richtig gemacht. Also die zwei braucht man.
+
+(0:02:54 - 0:02:59)
+Und dafür braucht man übergeordnet den Nachweis, dass man diesen vier Kapiteln entspricht.

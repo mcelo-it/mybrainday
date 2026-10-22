@@ -1,0 +1,65 @@
+(0:00:00 - 0:00:19)
+Wir haben noch 50 Minuten Zeit, um jetzt die VR-Tour, so habe ich sie zumindest genannt, die Zuschaltbedingungen und dann noch ein bisschen sonstige Themen uns anzugucken. Aber vor allem die VR-Tour und bei der Zuschaltbedingung haben wir auch, finde ich, eine tolle praktische Übung vorbereitet. Darauf will ich mich konzentrieren.
+
+(0:00:20 - 0:00:30)
+Das halte ich für extrem wertvoll, dass man da sozusagen selber mitmachen kann. Dann ist natürlich der Lerneffekt, glaube ich, auch einfach größer. Wir haben eine Stunde lang mir zugehört, meinetwegen.
+
+(0:00:30 - 0:00:53)
+Jetzt geht es eher darum, dass man auch was selber macht. So, und zwar machen wir als erstes die Übung 1. Das ist eine virtuelle Tour und da brauchen wir genau die Menüführung im Schutzrelais. Das zeige ich hier einmal kurz und dann mache ich das auch nochmal schnell vor und dann darf aber auch jeder selber.
+
+(0:00:55 - 0:01:06)
+Genau, also einmal ist es ein Zielrelais. Das haben wir auch schon gesehen in den Videos. Das werdet ihr jetzt gleich einen Link bekommen in dieses Koula-System und dann könnt ihr euch selbst durch das Relais klicken.
+
+(0:01:07 - 0:01:11)
+Deswegen erkläre ich kurz, wie man da klickt. Auf der linken Seite sieht man es. Es gibt nur drei Knöpfe.
+
+(0:01:12 - 0:01:38)
+Und wenn man sagt, man drückt den rechten Knopf, also Parameter habe ich hingeschrieben, dann springt man in der Menüführung, so wie man das oben sieht, aus zum Beispiel dem Einstellwert U größer, größer, springt man dann in die On-Off-Funktion. Also das kann man dann sehen, ist es On oder Off. Und wenn man weiterspringt, sieht man den Spannungswert in Volt, zum Beispiel 125 Volt.
+
+(0:01:38 - 0:01:53)
+Und wenn man dann wieder weiterspringt, sieht man die Zeit. Wir hatten es ja jetzt, glaube ich, ausreichend gezeigt, woher das kommt. Also für diesen zwischengelagerten Schutz, den dieses Relais darstellt, haben wir Spannungen, Frequenzen und dazu jeweils die Zeiten.
+
+(0:01:54 - 0:02:22)
+Das sind die orangenen, so kann man nach rechts springen. Und nur, Achtung, wenn man hinten bei der 0,1 rauskommt, dann muss man nochmal nach rechts gehen und dann ist man wieder vorne im Menü bei dem U größer, größer. Und mit der Taste oben und unten kann man von dem zum Beispiel U größer, größer weiter runtergehen ins U größer, ins U kleiner, ins F und so weiter.
+
+(0:02:22 - 0:02:36)
+Gut, also ich glaube, das haben wir erstmal vielleicht halbwegs mitgenommen. Und diese Übersicht habt ihr ja vielleicht auch im Handout, dann könnt ihr nach rechts immer gucken. Und jetzt würde ich mal auf meinen Bildschirm umschalten, bitte.
+
+(0:02:38 - 0:02:52)
+Genau, und da sieht man schon, ich kann da ruhig mit rein, dann habe ich auch immer das Gefühl, dass ich irgendwie mit dabei bin. Da habe ich erstmal das Ziel dargestellt. So, diesen Link kriegt jetzt auch jeder im Chat.
+
+(0:02:52 - 0:03:00)
+Also ich kann da ruhig mit ins Bild rein. Dieses Bild kriegt jetzt auch jeder im Chat, diesen Link. Und da sieht man jetzt genau das.
+
+(0:03:00 - 0:03:13)
+Also das Zielrelais und hier im Display sieht man jetzt die U größer, größer Stufe. Das wäre sozusagen die zweite Stufe der Überspannung. Und hier, Achtung, hier, ganz wichtig, das müsst ihr sehen, hier sind die drei Knöpfe.
+
+(0:03:14 - 0:03:33)
+Und jetzt sage ich einfach mal, ich gehe mal nach unten, drücke hier drauf, muss ich glaube ich genau treffen und jetzt seht ihr, ich bin in die nächste Stufe gesprungen. Und jetzt gehe ich noch weiter, dann kommt die Unterspannung, Unterspannung, zweite Stufe, Frequenz, zwei Stufen, eine Stufe unten, zweite Stufe unten. Jetzt bin ich wieder zurück.
+
+(0:03:33 - 0:03:48)
+Ich bin, das war dieser linke Kreis, ich bin einmal durch alle Funktionen durchgehüpft und jetzt bin ich wieder bei der. So, jetzt sage ich, ich will aber wissen, was ist denn mit der U größer, größer Stufe und dann muss ich nach rechts gehen. Und Achtung, erster wichtiger Hinweis, wenn ich jetzt nach rechts gehe, kann ich jetzt nicht mehr oben und unten klicken.
+
+(0:03:48 - 0:04:02)
+Diese Buttons sind weggegangen, weil das geht auch in die Realität nicht. Ich muss erst wieder den ganzen Kreis durchlaufen, bis ich wieder am Anfang vom Menüpunkt bin. Das ist glaube ich das Einzige, was man verstehen muss, damit man sich jetzt vertikal und horizontal durch dieses Menü klicken kann.
+
+(0:04:03 - 0:04:12)
+Und da seht ihr jetzt die U größer, größer Stufe, die ist jetzt auf On. Ich gehe weiter. Jetzt sagt er mir wieder, dass ich in der U größer, größer Stufe bin.
+
+(0:04:14 - 0:04:21)
+Und zwar mit 125 Volt. Ihr erinnert euch, in der Übersicht habe ich das gezeigt. Also der zweite Block ist sozusagen der Spannungswert.
+
+(0:04:21 - 0:04:32)
+Jetzt gehe ich wieder einen Schritt weiter. Der Alarm, ja, das bedeutet die Zeit, das Delta der Zeit. Und das ist eingestellt mit 0,1 Sekunde, das sind 100 Millisekunden.
+
+(0:04:34 - 0:04:43)
+Und wieder einen Sprung zurück. Und dann wäre das wieder die Menüführung und ich kann wieder nach unten gehen. So, jetzt habe ich es einmal erklärt.
+
+(0:04:43 - 0:04:51)
+Ich hoffe, ihr habt den Link schon gekriegt. Und ich würde bitte in die PowerPoint wieder zurückgehen. Also so sah das.
+
+(0:04:51 - 0:04:56)
+Das war das, was ich gerade beschrieben habe. Oben nach rechts gehen und nach unten klicken. Und jetzt kommt die Aufgabe endlich.
+
+(0:04:56 - 0:05:11)
+Also, diese Werte hier, die braucht ihr jetzt auf einem separaten Screen. Weil das sind in Orange, Achtung, die rechte Spalte, die rechte Spalte. Das sind die Einstellwerte, die ihr vorgegeben bekommen habt.

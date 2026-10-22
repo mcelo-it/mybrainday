@@ -1,0 +1,217 @@
+(0:00:00 - 0:00:19)
+Wir schauen uns den Aufbau an und das machen wir aus einer physischen Betrachtungsweise heraus. Würde ich sagen, 90 Prozent meines Arbeitsalltags mache ich das ja eigentlich eher mit Stromlaufplänen, also irgendwie einer zweidimensionalen Darstellung. Heute explizit nicht, das sieht ziemlich dreidimensional heute alles aus.
+
+(0:00:20 - 0:00:43)
+Und das ist auch Absicht, weil die Datenbox selbst ist für uns jetzt eher so eine physische Betrachtung. Ja, wie sieht die aus? Wie groß ist sie? Was muss da alles so rein? Und deswegen haben wir ein 3D-Modell mitgebracht und das würde ich jetzt nach und nach mal aufbauen. Man sieht es schon über mir. 
+
+Ich konzentriere mich jetzt auf die Trafo-Station. Dafür haben wir uns so entschieden. In der Übergabestation sieht so eine Box einfach ein bisschen anders aus.
+
+(0:00:44 - 0:01:22)
+Jetzt erst mal Trafo-Station. So, und das geht dann so los, dass die so ein Gehäuse hat. So ungefähr kann die aussehen. 
+
+Da steht sie auch schon drauf. Das wäre jetzt die Datenbox in der Trafo-Station 1. Wir machen den Deckel auf und schieben den Deckel weg. Weil der wäre uns sonst nur im Weg. 
+
+Und gucken uns mal an, was da so drin ist. Ich habe das jetzt Spezifikation genannt, weil am Ende des Kapitels alle die kleinteiligen Bullet-Points, die ich jetzt hier so auflüste, in einer großen Tabelle zusammenfliegen werden. Und im Grunde ist das, sagen wir mal zumindest zum Teil, die finale Spezifikation, die ich für so eine Datenbox für jedes Projekt erstellen würde.
+
+(0:01:23 - 0:01:38)
+Also, wir fangen jetzt mal an, eine Spezifikation zu schreiben. Daraus folgern wir ja gleich schon, wofür diese ganzen Bauteile eigentlich da sind. Also, wir gucken, welches Material wollen wir denn eigentlich für unsere Box? Da gibt es bestimmt verschiedenste Materialien.
+
+(0:01:38 - 0:01:47)
+Und für den Elektrotechniker ist das jetzt nicht die Kernkompetenz. Aber wir haben halt zwei, drei aufgeschrieben. Also, es gibt so etwas wie Blech oder Glasfaser mit Kunststoff.
+
+(0:01:47 - 0:02:03)
+Das nennt sich dann GFK, ist vielleicht erst mal eine grundsätzliche Entscheidung. Dann gibt es immer die Frage, wird irgendwas beschichtet oder nicht? Also, das haben wir jetzt hier mal gemacht in unserem Beispiel. Die Farbe, würde ich mal behaupten, ist völlig irrelevant für die Funktion von so einer PV-Anlage.
+
+(0:02:03 - 0:02:15)
+Wir schreiben es trotzdem mit rein, damit es dann hinten raus keine Missverständnisse gibt. Die IP-Klasse, die Schutzklasse, die ist natürlich ganz wichtig. Ich habe jetzt mal 65 hier hingeschrieben.
+
+(0:02:15 - 0:02:25)
+Ich glaube, in einem anderen Brain Day erklären wir genau, wie diese zusammensetzen, diese IP-Klassen. Das mache ich jetzt hier nicht. Sondern ich nehme für mein Beispiel, für mein Projekt, diese Klasse jetzt.
+
+(0:02:25 - 0:02:36)
+Es ist klar, dass das einen Unterschied macht, ob die in einem sicheren, warmen, trockenen Raum installiert ist oder eben draußen mitten im Regen. Das ist selbstverständlich. Ich nehme trotzdem die 65.
+
+(0:02:36 - 0:02:44)
+Dann kann ehrlich gesagt schon mal gar nicht mehr viel schiefgehen. Schließmechanismus wirkt auch für einen Elektroplaner als eine komische Frage. Finde ich ist aber auch wichtig.
+
+(0:02:45 - 0:02:59)
+Wir hatten es mit Kritis zum Beispiel neulich die Anforderung. Also grundsätzlich würde ich da einen Schließzylinder drauf machen. Ob man den jetzt noch mit einem Schloss versieht und mit wie vielen Schlüsselsystemen man das ausstattet, sei jedem selbst überlassen.
+
+(0:02:59 - 0:03:10)
+Aber grundsätzlich würde ich es erstmal definieren, wie man da überhaupt eine Tür abschließen kann. Lüftungsgitter, Einbauort, oben links, unten rechts. Das ist ein bisschen wie Anschlagpunkt der Tür.
+
+(0:03:10 - 0:03:22)
+Also geht die Tür nach links oder nach rechts auf. Das macht halt Sinn, dass man sich überlegt, wo genau installiert man denn die Box. Weil davon abhängig dann ja vielleicht direkt, jetzt als Beispiel, links von der Box die Wand ist.
+
+(0:03:23 - 0:03:37)
+So wenn da jetzt die Lüftungsgitter eingebaut sind, dann kann der ja gar nicht entlüften. Und wenn nach da der Türeinschlag ist, sodass man die Tür gar nicht mehr richtig aufkriegt, fragt ja vor Ort auch jeder, ob man denn da vorher überhaupt nicht drüber nachgedacht hat. Die Antwort wäre dann, ja hat man nicht.
+
+(0:03:39 - 0:03:56)
+Dann bauen wir, würde ich sagen wie wahrscheinlich jeder andere auch, unsere Komponenten auf Hutschienen. Und wir überlegen uns, wenn wir irgendwie die Zeit finden, so kleinteilig auch wirklich vorher einmal, wie viele von diesen schwarzen Durchführungen, die man da sieht, wir denn am Ende brauchen werden. Und vor allem auch, welche Größe die denn haben sollten.
+
+(0:03:56 - 0:04:17)
+So ein Glasfaserkabel hat halt einen anderen Durchmesser als irgendwie die Spannungsversorgung für die Box. Und am Ende ist es sehr unglücklich, sehen wir später auch noch, wenn man da irgendwie zwei, drei Durchführungen vergessen hat, dann passt das halt einfach nicht so richtig. So, der Wetterschutz ist wichtig, vor allem wenn man sie draußen verbaut.
+
+(0:04:17 - 0:04:31)
+Das ist dann meinetwegen ein Blech, das man so irgendwie drüber setzt oder man haust das ganze Ding einfach aus. Nein. Jetzt haben wir mal so eine Box spezifiziert und wir haben jetzt gesagt, wir machen immer gleich ein paar Stichpunkte, typische Fehler dazu.
+
+(0:04:31 - 0:04:49)
+Und Achtung, das versuchen wir jetzt natürlich so, dass wir nicht einfach das Gleiche vorlesen und sagen, dass man die falsche Farbe ausgewählt hat. Das macht nicht so viel Sinn. Wir haben uns einfach sozusagen, ja, ich denke, die meisten Feedbacks, die wir in unserem Planungsleben von der Baustelle gekriegt haben, mal so aufgeschrieben und hier kommen sie jetzt.
+
+(0:04:49 - 0:05:00)
+Also ganz typischer Fehler ist, man versucht diese Box meinetwegen vor Ort einzubauen in die Station und stellt fest, das passt nicht. Da ist kein Platz. Ganz typischer Fehler, enorm ärgerlich.
+
+(0:05:00 - 0:05:13)
+Das zu korrigieren ist sehr, sehr schwierig. Deswegen ist das, finde ich, ein ganz wichtiger typischer Fehler. Am Ende passt die Box doch nicht, obwohl man vielleicht vorher geguckt hat, dass die Einbautiefe schon noch hinhauen müsste.
+
+(0:05:14 - 0:05:31)
+Dann stellt man vielleicht auch fest, dass der Installationsort vollkommen ungeeignet ist. Also Stichwort Sonneneinstrahlung zum Beispiel oder auch Regen ist dann doch nicht so geschützt, wie man sich das vorgestellt hat. Das war erst mal das Gehäuse, gar nicht so elektrotechnisch.
+
+(0:05:32 - 0:05:40)
+Jetzt wird es so ein bisschen elektrotechnischer. Als nächstes, wir sind ja in der Trafo-Station, hat man da eigentlich immer einen Datenlogger drin. Was das für einer ist, ist völlig irrelevant.
+
+(0:05:41 - 0:05:56)
+Es geht darum, dass man da bestimmt einen reinsetzt. Der sammelt da Daten ein und sendet und hört auf den Master, der da wahrscheinlich irgendwo noch sitzt. Also der sitzt irgendwo drin und da überlegt man sich vorher, was hat man da für einen Typ, was hat man da für einen Hersteller.
+
+(0:05:57 - 0:06:18)
+Man überlegt sich, ob man vielleicht Erweiterungsmodule braucht, je nachdem, wie dieser Hersteller das halt macht. Also in anderen Worten hat man da... Was für Schnittstellen braucht man denn dann am Ende? Wie viele Sensoren werden angeschlossen? Wie viele parallele Wechselrichterbusse? Vielleicht Schutzrelais, Netzanalysegeräte, was auch immer. Also diese Datenlogger werden oft mit Erweiterungsmodulen angeboten.
+
+(0:06:18 - 0:06:41)
+Und dann muss man sich vorher überlegen, welche man denn davon braucht. Jetzt als typischen Fehler haben wir so ein bisschen versucht, so auszudrücken mit einem Beispiel. Ein typischer Fehler wäre, dass zum Beispiel der Anschluss vom Wechselrichter oder vom Sensor selbst anders konzipiert ist, als wir uns das überlegt haben.
+
+(0:06:41 - 0:07:04)
+Also typischer Schnittstellenfehler, wenn jetzt eben der Wechselrichter RS485 kommuniziert und wir das so aber nicht vorgesehen haben, dann haben wir natürlich einen typischen Fehler kreiert. Also guckt euch das vorher an. Welche Komponenten sollen überhaupt angeschlossen werden an die Box? Und wie genau geht das dann? Eine Adressierung ist auch so eine Fehlerquelle, nenne ich sie jetzt mal.
+
+(0:07:04 - 0:07:22)
+Man versucht sicherlich im Werk schon, die Datenlogger richtig zu parametrieren, kommt als nächstes, und zu adressieren. Beides ist sinnvoll, das vorher mal gemacht zu haben. In besten Projekten ist es dann nämlich so, dass man vor Ort ja tatsächlich nur noch Spannungsversorgung braucht und schon funktioniert die Kommunikation.
+
+(0:07:23 - 0:07:49)
+Das hilft nun mal dem Inbetriebnehmer, weil wenn der sonst unter Zeitdruck da 10 Stationen noch mal parametrieren muss und es regnet in Strömen, ist das einfach nicht sinnvoll. Wir versuchen es vorher, und wenn jetzt als Fehler genannt werden könnte, die Adressierung war falsch, dann muss er doch in den Regen. So, wir schieben den Datenlogger da mal in die Box rein und gucken uns als nächstes das für mich Kernstück, irgendwie so ein bisschen das Herz von so einer Datenbox an.
+
+(0:07:50 - 0:08:18)
+Der Switch könnte so aussehen, haben wir sehr detailliert schon in anderen Kursen besprochen, was der so kann und warum der so aussieht, wie er aussieht. Das machen wir jetzt nicht, sondern in unserer Spezifikation haben wir aufgeschrieben, was für einen Typ wir wollen, was für einen Hersteller wir wollen, weil wenn wir einfach nur sagen, wir wollen einen Switch, dann hat der am Ende nicht die Funktion, die wir uns vorstellen. Klar müssen wir auch beschreiben, wie viele Fiberoptik, FO-Ports, Fiberoptik-Ports wir brauchen.
+
+(0:08:19 - 0:08:36)
+Das ist ja dann eben abhängig von unserer Planung der Glasfaser, der Fibertechnik. Wir müssen die SFP-Ports, finde ich, im besten Fall mitbestellen, dann passen sie nämlich auch. Machen wir auch sehr detailliert in unserem LWL Brainday, was das eigentlich ist.
+
+(0:08:36 - 0:08:52)
+Hier nur ganz kurz gesagt, das sind dann noch so Module, die man da reinschieben kann in den Switch selbst, sonst funktioniert sozusagen der Glasfaseranschluss nicht. Also die müssen mit spezifiziert werden. Da geht es um Geschwindigkeiten, aber auch um mechanische Größen.
+
+(0:08:54 - 0:09:07)
+Und LCSC machen wir dann auch in der anderen Schulungsgruppe noch mal viel ausführlicher. Hier sind sie nur genannt. Das sind Typen, genau wie Single-Mode und Multi-Mode von Glasfaseranschlusssystemen.
+
+(0:09:07 - 0:09:23)
+Die müssen hier schon bekannt sein, sonst passt das Glasfaser am Ende nicht richtig in unseren Switch. Die RJ45-Ports, die sieht man da eher oben im Switch, die müssen auch spezifiziert sein, vor allem die Anzahl. Und daraus resultieren jetzt meinetwegen typische Fehler.
+
+(0:09:23 - 0:09:32)
+Also wir haben das falsch gemacht. Wir haben jetzt TX und RX irgendwie verdreht. Wir haben die falschen Single-Mode oder Multi-Modes ausgewählt.
+
+(0:09:32 - 0:09:47)
+Und die Adressierung auch hier, genau wie beim Datenlogger vorher, hätte man vorher schon machen können, hat man jetzt dummerweise vergessen oder falsch. Dann muss man eben noch mal neu auf den Switch. Prinzipanschluss Ethernet-Ports.
+
+(0:09:47 - 0:10:00)
+Man hat die Anschlüsse in die falschen Ports gesteckt. Wenn man so kleinteilig plant, wäre das unglücklich. Ansonsten funktioniert es ehrlich gesagt auch, wenn man einfach mal die Ports verdreht.
+
+(0:10:01 - 0:10:12)
+Alles klar, wir haben den Switch da reingesetzt und gehen weiter zum nächsten Bauteil. Bevor ich zum nächsten Bauteil gehe, da war ich jetzt einen Schritt zu schnell. Man sieht es neben mir, wir bauen eine kleine Legende auf.
+
+(0:10:13 - 0:10:29)
+Also da sieht man jetzt in der Datenbox, das haben wir mal grundsätzlich eine Verbindung gezogen, damit man sieht, wer da mit wem kommuniziert. Wir werden keinen Stromlaufplan daraus generieren. Es ging mehr um ein Gefühl dafür, wer da jetzt eigentlich wo reingesteckt werden muss.
+
+(0:10:30 - 0:10:43)
+Alles klar, in dem Fall unser Datenlogger mit dem Switch. Der nächste Mitspieler ist die Splicebox. Hier kommt sie.
+
+(0:10:44 - 0:10:57)
+Machen wir ganz, ganz detailliert in dem LWL Brain Day. Ist ein sehr interessantes Bauteil, auch immer ein ganz sensibles Ding. Wir machen jetzt hier erst mal, welchen Typ wir brauchen, welchen Hersteller.
+
+(0:10:57 - 0:11:05)
+Da geht es um die Schnittstellen, aber es geht auch um die reine Größe. Da ist unterschiedlich groß, solche Spliceboxen. Die müssen ja in die Box überhaupt erst mal reinpassen.
+
+(0:11:06 - 0:11:17)
+Dann würden wir auch vorgeben, am liebsten welcher Einbauort. Das zeige ich auch gleich noch. Ob man das nach vorne ausrichtet oder seitlich, zeige ich gleich noch mal in einem Beispiel, was da der Unterschied sein könnte.
+
+(0:11:18 - 0:11:29)
+Und typische Fehler. Man hat den falschen Typ bestellt, deswegen kommt er jetzt LC, aber meine Patchkabel sind SC. Wir haben vielleicht auch vergessen, die Patchkabel mitzubestellen.
+
+(0:11:30 - 0:11:41)
+Da müssen wir sie nachliefern. Wir haben am falschen Picktail gespliced. Oder wir haben am Ende eine Kreuzung reingekriegt vom RX und TX.
+
+(0:11:41 - 0:11:49)
+Das hat dann mehr mit dem Splicer selbst zu tun. Trotzdem ist das nur mal die Schnittstelle zum Glasfaserkabel. Da kann man sich verdrehen.
+
+(0:11:50 - 0:11:57)
+Jetzt setze ich den mal da hin. Man hat es ja auch gesehen, wir haben jetzt schon zwei reingesetzt. Das ist ganz oft so, weil man oft mit einem Glasfasersystem kommt man an.
+
+(0:11:57 - 0:12:09)
+Mit einem anderen System geht man wieder ab zur nächsten Station. Aber jetzt will ich noch Folgendes zeigen. Wir haben die ganz normal da unten auf die Hutschiene gesetzt und die Ausrichtung der Patchkabel ist nach vorne.
+
+(0:12:09 - 0:12:20)
+Was würde jetzt passieren, wenn man die Verbindung macht? Dann sieht das in dem Plan erstmal ganz easy aus. So würde das machen. Aber jetzt zeige ich eine Problematik, die ich von vielen Baustellen kenne.
+
+(0:12:22 - 0:12:29)
+Ich drehe dazu meine Box. Ich mache dazu einen Kommentar. Nämlich bitte auf den Biegeradius von diesen Patchkabeln achten.
+
+(0:12:30 - 0:12:39)
+Das sind Glasfasersysteme, die können leicht brechen. Und wo können die brechen? Hier könnten sie brechen. Wir haben ja jetzt unsere Ausführung der Patchkabel nach vorne.
+
+(0:12:39 - 0:12:45)
+Da komme ich auch jetzt nicht drum rum. Jetzt ist ja die Splicebox nun mal so gesetzt. Und jetzt hat dieses Kabel halt einen Biegeradius.
+
+(0:12:45 - 0:12:57)
+Und jetzt sieht man es schon, wenn man jetzt die Tür nun mal von vorne zudrückt, dann ergibt sich der Biegeradius von ganz alleine. Da hat das Kabel jetzt keine Chance. Ihr gebt den dann im Endeffekt vor.
+
+(0:12:57 - 0:13:05)
+Also wenn die Tiefe der Box jetzt nicht ausreicht, dann kann dieses Kabel brechen. Passiert. Ist dann unschön.
+
+(0:13:05 - 0:13:12)
+Und dann muss man sich was Neues überlegen. Deswegen zeige ich hier eine Alternative. Ging jetzt relativ zügig, aber ich denke, ihr habt es gesehen.
+
+(0:13:12 - 0:13:19)
+Die Splicebox ist jetzt im 90° Winkel gedreht. Das kann man, denke ich, machen. Das ist herstellerspezifisch.
+
+(0:13:19 - 0:13:29)
+Aber dann habt ihr vielleicht das mal als Idee mitgenommen. Ich mache das so, weil jetzt habe ich nämlich mit meinem Biegeradius keine Probleme mehr. Weiter geht es.
+
+(0:13:29 - 0:13:42)
+Wir brauchen eine Heizung und eine Steckdose. Ich werde jetzt nicht erklären, was eine Heizung und eine Steckdose ist, sondern wir zeigen es einfach nur mal ganz kurz, dass die da drin sein sollte. Ich glaube, wenn ihr es nicht spezifiziert, dann passiert es auch nicht.
+
+(0:13:42 - 0:13:47)
+Man kann den Typ und den Hersteller vorgeben. Man kann die Leistung vorgeben. Das macht natürlich sehr viel Sinn.
+
+(0:13:47 - 0:14:03)
+Ein typischer Fehler ist, weil man jetzt eine Steckdose hat, vielleicht den Fi vergisst. Braucht man aber. Bei der Heizung kenne ich es so, die haben kleine Einstellrädchen für die Temperaturen, bei denen sie überhaupt starten.
+
+(0:14:03 - 0:14:23)
+Wenn man die falsch einstellt, verliert oft die Heizung an Sinnhaftigkeit. Also auch die zwei Bauteile schieben wir da rein. Dann haben wir jetzt schon mal eine Steckdose für den Service Engineer und wir haben eine Heizung, damit die Luftfeuchtigkeit immer unter Kontrolle bleibt und das auch im Winter nicht gefriert.
+
+(0:14:24 - 0:14:34)
+Jetzt kommt ein wichtiges Thema für alle Kabel, die von extern kommen. Was das genau ist, sehen wir im nächsten Kapitel. Wichtig sind die Überspannungsableiter.
+
+(0:14:35 - 0:15:05)
+Da haben wir verschiedene Typen hingesetzt, weil ihr für einen Niederspannungsanschluss vielleicht so einen Search Protection Device, also einen Überspannungsableiter braucht und für Kommunikationstechnik sehen die dann oft ein bisschen anders aus. Worauf wir hier vor allem hinauswollen ist, ihr müsst also verstehen, wie eure Schnittstellen nach draußen ausgeführt sein werden später. Sonst kommt früher oder später der Anruf von der Baustelle, ich habe hier ein Datenkabel vom Wechselrichter in der Hand und weiß nicht, wo ich es auflegen soll.
+
+(0:15:06 - 0:15:38)
+Dann schaut ihr in euren Stromlaufplan und stellt fest, dass ihr genau diese Schnittstelle vergessen habt. Man muss es vorher wissen und die Schnittstelle nach draußen bildet dann also immer der Überspannungsableiter und mit nach draußen meine ich wirklich nach draußen, wenn ihr jetzt von der Datenbox statt Trafostationsinterne Verbindung zum Beispiel zu einem Netzanalysegerät zieht, braucht man es nicht, aber wenn es rausgeht zum Wechselrichter, zum Sensor, dann braucht man diese Überspannungsableiter. Also typische Schnittstelle sehen wir später auch noch und schieben wir jetzt gleich in die Box rein.
+
+(0:15:40 - 0:16:03)
+Wir geben den Typ und den Hersteller an, wir fragen uns, welche Schutzklasse ist sinnhaft bei so einem Überspannungsableiter und dann denke ich, genau bei den typischen Fehlern habe ich sie schon genannt, also hat man falsch angeschlossen. So, da unten sind sie jetzt. Das ist auch immer wahrscheinlich bei allen Herstellern gleich, weil von unten kommen ja die Kabel und jetzt haben wir unten in unserer Box schon unsere Klemmleiste und unsere Überspannungsableiter.
+
+(0:16:03 - 0:16:32)
+Also da kann man jetzt hervorragend die Kabel anschließen. Jetzt unser Netzteil. Da ist mal so ein typisches Netzteil und das spezifizieren wir auch kurz. 
+
+Wir nehmen unseren Typ und unseren Hersteller, wie immer. Wir müssen natürlich wissen, welche Spannungsebene wir da überhaupt umrichten müssen. Ich denke meistens ist es 230 Volt, kommt dann irgendwo aus der Trafostation, aus der Niederspannungsverteilung und meistens sind das 24 Volt DC-Systeme innerhalb von so einer Box.
+
+(0:16:33 - 0:16:39)
+Das werden wir auch gleich sehen. Darauf ist dann auch die Batterie meistens ausgelegt. Also ich denke, das ist ein ganz typischer Wert.
+
+(0:16:39 - 0:16:50)
+Und dann ist die Leistung noch relevant. Das sehen wir später auch noch, vor allem bei der Batterie. Da muss man dann schon darauf achten, dass das Netzteil nicht zu klein ist, weil sonst natürlich nicht alle Bauteile versorgt werden können.
+
+(0:16:54 - 0:17:10)
+Das sichern wir ab, weil der 230 Volt Anschluss natürlich von draußen kommt, also setzen wir da erstmal eine Sicherung unten rein und dann haben wir auch schon unseren Anschlusspunkt für das 230 Volt AC-Kabel. Da ist es. In grün.
+
+(0:17:13 - 0:18:07)
+So, als nächstes wir haben ein bisschen intern die Datenbox verkabelt, genau, haben wir nebenbei so mitgefahren, also die grüne Verbindung seht ihr jetzt, kommt von unten erstmal auf die Sicherung, von der Sicherung geht es dann hoch zur Steckdose zum Netzteil, zur Heizung ja gut, und die Heizung wiederum versorgt dann auf 24 Volt DC-Ebene die anderen Bauteile. Als nächstes die Batterie, ja genau, jetzt haben wir ja 230 Volt umgerichtet auf 24 Volt und jetzt brauchen wir eine Batterie, jedenfalls spezifiziere ich das hier im Beispiel so, ich will, dass meine Box autark weiterlebt auch wenn irgendjemand die Anlage abschaltet. Da nehmen wir Typ und Hersteller, wir geben ganz wichtig die Spannung an, die Kapazität in Amperestunden ist immer sinnvoll weil das rechnen wir ja später auch aus und dann wisst ihr auch, was ihr hier eintragen müsst.
+
+(0:18:08 - 0:19:16)
+Der IMAX sehen wir später und ein typischer Fehler ist, dass die DC-Sicherung fehlt grundsätzlich kenne ich das so, dass die Batterien ausgeliefert werden und diese DC-Sicherungen sind nicht gesteckt, d.h. die Batterien sind entkoppelt, das macht Sinn, weil sie sich dann nicht entladen, die werden ja auch nicht gleich in Betrieb genommen, also könnte man auch sagen, ein typischer Fehler ist, man hat vergessen die DC-Sicherung dann vor der Inbetriebnahme einzustecken. So da kommen die Batterien in meine Box rein. Ja, damit habe ich hier schon mal eine, finde ich ziemlich reale Box nachgebaut wir sind am Ende von dem Kapitel angekommen und da haben wir, wie versprochen das Ganze nochmal so zusammengefasst das wäre jetzt so eine wirkliche also rudimentäre Spezifikation von so einer Datenbox, müsst ihr euch jetzt nicht durchlesen aber könnte man ja nehmen um grundsätzlich eine professionelle Spezifikation für so eine Datenbox aufzubauen.
