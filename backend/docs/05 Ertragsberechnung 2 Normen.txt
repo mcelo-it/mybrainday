@@ -1,0 +1,106 @@
+(0:00:00 - 0:00:09)
+und gehen ins nächste Kapitel Normen. Da bin ich heute guter Dinge, weil ich weiß, dass das ein relativ kurzes Kapitel ist. Warum erkläre ich auch gleich kurz.
+
+(0:00:10 - 0:00:33)
+Aber das ist trotzdem wichtig, immer die Normen im Hinterkopf zu behalten, auch wenn sie manchmal etwas nüchtern anmaßen, anmuten. Aber gut, also heute die Normen IEC 61724-1. Finde ich, muss man nicht unbedingt auswendig wissen, sondern ich finde, man muss wissen, dass es offensichtlich eine Norm gibt mit dem Namen Photovoltaik System Performance.
+
+(0:00:34 - 0:00:49)
+Wir haben uns jetzt den Part 1 Monitoring rausgesucht. Also wenn man im Bereich der erneuerbaren Energien Spezialnische Photovoltaik arbeitet, sollte man wissen, dass es diese Norm gibt. Ich finde, man sollte sie auch mal zumindest quer gelesen haben.
+
+(0:00:49 - 0:01:08)
+Ich habe das jetzt sozusagen für euch gemacht und fasse jetzt nur ganz kurz die wichtigsten Punkte zusammen. Meiner Meinung, deswegen gebe ich das vorweg. Es ist so, wenn man sich wirklich intensiv mit den PR-Berechnungen im Detail, im Spezialwissenskapitel, was später kommt, beschäftigt, dann muss man diese Norm gelesen und verstanden haben.
+
+(0:01:08 - 0:01:24)
+Wenn man sich nur am Rande damit beschäftigt, dann, finde ich, sollte man das, was ich jetzt hier zusammenfasse, zumindest wissen. Und wenn es dann mal in die Detailfragen geht, dann kann man sehr schnell nachlesen. Also Kapitel 4, ihr seht schon, 1 bis 3 haben wir erst mal ausgespart.
+
+(0:01:24 - 0:01:41)
+Da geht es um erst mal eine grundlegende Unterteilung. Das finden wir sehr interessant, hat man in ein paar Projekten schon als Diskussionsgrundlage auch. Mal die Norm unterteilt in Class A. Das sind Large Systems, also große Projekte, wird auch so genau beschrieben.
+
+(0:01:41 - 0:01:52)
+Industrieller Maßstab wird beschrieben. Großdachanlagen, Freilandanlagen grundsätzlich. Das ist Class A. Und dann gibt es noch Class B, das sind die Kleinanlagen.
+
+(0:01:53 - 0:02:07)
+Da wird nicht mit Kilowatt-Peak irgendwie unterschieden, deswegen kann man sich da technisch relativ viel streiten. Aber klar ist, das Häuschen, das wir da gezeigt haben, also ein Reihenhaus, das ist auf jeden Fall ein kleines System. Und Sie sprechen dann auch tatsächlich noch von kleinen Industriedachanlagen.
+
+(0:02:08 - 0:02:25)
+Was das dann genau bedeutet, sei mal jetzt dahingestellt. Für uns wichtig ist, es wird unterteilt in Klasse A und B. Und das hat dann innerhalb der Norm auch Unterschiede, die wir gleich noch mal ganz kurz zeigen. Und zwar dann zum Beispiel im Kapitel 6, da geht es um Timing und Reporting.
+
+(0:02:25 - 0:02:38)
+Haben wir hier auch auf Englisch gelassen, weil die ist nun mal auf Englisch. Also das maximal Sampling-Intervall, also die Abtastrate wird definiert. Das ist für die Planer von uns, für die Techniker, denke ich, schon wichtig.
+
+(0:02:38 - 0:03:05)
+Ich nehme an, zumindest in meinem Berufsleben, dass die professionellen Subunternehmer, die dann zum Beispiel das Monitoring-System oder die Parkregelung anbieten, das auch wissen und sich an diese Normen halten. Aber jetzt hat man es mal gehört und dann kann man es ja mal hinterfragen in irgendeinem Meeting, ob die denn auch wirklich bei diesem Projekt Freilandanlage eine 5-Sekunden-Abtastrate haben. Warum das wichtig ist, zeigen wir dann später in einem Beispiel.
+
+(0:03:05 - 0:03:22)
+Und davon, sage ich mal, unabhängig ist dann aber die Rate, mit der die Daten aufgenommen werden. Das ist also ein Unterschied und wird auch in der Norm so genannt. Man muss also nicht die 5-Sekunden-abgetasteten Raten auch wirklich speichern.
+
+(0:03:22 - 0:03:39)
+Das ist nicht grundsätzlich erforderlich, aber mindestens im 5-Minuten-Intervall muss man das. Ich glaube, die meisten machen dann eben Mittelwerte aus diesen Gesamtdaten und speichern dann eben nur alle 5 Minuten den Wert ab. Sonst haben sie wahrscheinlich eine Datenflut.
+
+(0:03:39 - 0:04:04)
+Das sind erstmal die Maximalangaben, die in der Norm so stehen. Man kann sich natürlich projektspezifisch überlegen, ob man das noch kleinteiliger machen will. Und jetzt der Unterschied. 
+
+Bei Klasse B sind einfach diese Abtastraten größer und auch das Rekordintervall ist größer. Hat man also in Summe am Ende weniger Daten gespeichert. Das war mal ein Punkt, den wir interessant fanden und deswegen rausgezogen haben.
+
+(0:04:05 - 0:04:18)
+Dann geht es noch ins Kapitel 8, Einstrahlung. Da haben wir es uns auch im 3D-Modell oben ein bisschen dargestellt. Also hier wird tatsächlich definiert, welchen Typ an Einstrahlungssensoren man zu installieren hat.
+
+(0:04:18 - 0:04:23)
+Da steht auch drin, welche Anzahl. Das ist abhängig dann von der Anlagengröße. Und da steht auch drin, wo der präsentiert sein muss.
+
+(0:04:24 - 0:04:38)
+Also das hat sich nicht mal irgendein Planer irgendwann mal für so eine Solaranlage überlegt und seitdem machen es alle so. Sondern das steht auch tatsächlich in einer Norm, an die man sich zu halten hat. Wie genau, wie viele genau und wo genau, das machen wir heute nicht.
+
+(0:04:38 - 0:04:49)
+Da gibt es einen anderen Brain Day. Für heute ist erstmal wichtig, dass wir einen Pyranometer, das sieht man oben auch schon, später brauchen werden. Und das auf Grundlage dieser Norm.
+
+(0:04:49 - 0:04:59)
+Insofern können wir schon mal sicher gehen, dass wir ihn auch haben werden. Also die Anzahl der Sensoren ist abhängig von der Anlagengröße. Auch die Aufteilung der Sensoren wird da beschrieben.
+
+(0:04:59 - 0:05:13)
+Also nicht jetzt zehn Sensoren alle an die gleiche Stelle, sondern verteilt über die Anlage. Und genau, das wäre dann die Position der Sensoren. Und wenn man bifaziale Module hat, das ist auch etwas, was aus unserer Erfahrung immer wichtiger wird.
+
+(0:05:13 - 0:05:24)
+Dann gibt es dafür auch spezielle Anforderungen. Die Kalibrierung wird da auch definiert. Auch ein wichtiger Punkt, wenn man erstmal das Projekt startet, dann ist das wahrscheinlich relativ einfach.
+
+(0:05:24 - 0:05:36)
+Sind wahrscheinlich neuwertige Sensoren. Aber im Laufe der Jahre sollte man darauf achten, dass sie kalibriert werden. Weil sie eben so einen großen Einfluss haben auf die Qualitätsbewertung von so einer PV-Anlage.
+
+(0:05:38 - 0:05:49)
+Gleiches Prinzip. Also auch wichtig für die Bewertung am Ende. Die Messgenauigkeit der Zähler der Sensoren und Stringmessungen nehme ich jetzt hier mit rein, weil es in dem Kapitel steht.
+
+(0:05:49 - 0:05:58)
+Aber in meiner Logik für heute nicht so relevant. Also die Messgenauigkeit von Zählern und Sensoren wird auch in der Norm definiert. Ist eine mathematische Geschichte.
+
+(0:05:58 - 0:06:16)
+Sobald ich irgendwelche Ungenauigkeiten vergrößere, also die Ungenauigkeiten vergrößere, mag es ja sein, dass mein PR entweder besser oder schlechter wird. Und zwar deutlich, obwohl meine Anlage an sich überhaupt keine Veränderung aufzuweisen hat. Sondern einfach nur, weil meine Messdaten ungenauer werden.
+
+(0:06:17 - 0:06:32)
+Deswegen sind sie hier definiert. So und dann ist es auch so, dass diese PR-Formel, die an sich gar nicht so schwierig ist, auch hier nochmal definiert ist. Also auch hier, das kommt dann nicht von uns, sondern das wird in der Norm definiert.
+
+(0:06:33 - 0:06:50)
+Und die übernehmen es meistens in die Verträge. Und so kommen dann aus den Verträgen die gleichen Ansätze wie aus dieser Norm. Was für uns nochmal sinnvoll erscheint, war zu benennen, dass es verschiedene PR-Berechnungsformeln dann da drin gibt.
+
+(0:06:50 - 0:07:10)
+Und zwar vor allem einmal ohne den Temperaturkorrekturfaktor und einmal mit den Temperaturkorrekturfaktor gehen wir heute nicht drauf ein. Ist sehr speziell. Also das geht für mich für die, die dann wirklich im Kleinteiligen sich austauschen mit Gutachtern oder mit Banken oder mit Projektleitern, Projektverantwortlichen.
+
+(0:07:11 - 0:07:18)
+Am Ende ist es eine mathematische Geschichte. Aber heute gehen wir erstmal nicht drauf ein. Ihr habt gehört, dass es das gibt, einen Temperaturkorrekturfaktor.
+
+(0:07:19 - 0:07:28)
+Und auch der hat Einfluss auf den PR. So, letztes Kapitel aus den Normenkapiteln. Data Filtering heißt das.
+
+(0:07:28 - 0:07:41)
+Wir haben also hier beschrieben, dass die Datenqualität geprüft werden muss. Und auch da beschrieben, wie Daten gefiltert werden. Später zeigen wir kleine Beispiele daraus.
+
+(0:07:41 - 0:07:52)
+Also da geht es zum Beispiel darum, dass man erkennt, dass Daten nicht sinnhaft sind. Gerade bei so großen Datenmengen passiert das immer wieder. Das heißt auch hier muss man sich nicht groß streiten, welcher Wert ist sinnvoll und welcher nicht.
+
+(0:07:53 - 0:08:06)
+Sondern es gibt eine Grundlage, auf der das beschrieben wird. Zum Beispiel, wenn es eine Leistungsreduzierung durch den Netzbetreiber gibt, dann gibt es natürlich einen Einfluss auf meinen PR. Die Daten werden, wenn man so will, von außen beeinflusst.
+
+(0:08:07 - 0:08:20)
+Und das wird in der Norm beschrieben. Auch wenn es für Abschaltungen, für Wartungsarbeiten gibt, auch dann muss man sich die Daten sozusagen zurechtfiltern, wenn man so will. Man muss das bewerten.
+
+(0:08:20 - 0:08:27)
+Sonst gibt es eine enorme PR-Verschiebung. Und bei fehlerhaften Daten ist es klar, dann nehmen wir sie auf jeden Fall raus.

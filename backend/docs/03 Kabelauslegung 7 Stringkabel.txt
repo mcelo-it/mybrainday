@@ -1,0 +1,35 @@
+(0:00:00 - 0:00:14)
+Also gut, auch hier für die Stringkabel gilt erst mal das Gleiche. Die Annahmen sind gleich. Betriebsstrom, zulässige Strombelastbarkeit und normierte Strombelastbarkeit müssen wir in eine Reihenfolge bringen.
+
+(0:00:14 - 0:00:28)
+Und zwar so, wie sie unten dargestellt ist. Und auch das funktioniert jetzt nach einem gewissen Schema. Und wir verwenden jetzt mal eben diese Verlegeart, zwei Leitungen berührend entlang von Unterkonstruktion.
+
+(0:00:28 - 0:00:45)
+Und schauen uns die VDE 0283 an, 618. Und dann eben mit dem Link zur IEC. Also wir springen da mal rein, damit wir jetzt erst mal den Betriebsstrom des Kabels finden, müssen wir uns aber das Datenblatt des Kabels raussuchen.
+
+(0:00:45 - 0:00:56)
+Weil hier haben wir ja angegebene Werte in den Moduldatenblättern. Hier geht es dann um den ISC und um einen K-Faktor. Und der K-Faktor beträgt 1,25.
+
+(0:00:57 - 0:01:36)
+Dieser K-Faktor soll im Grunde genommen berücksichtigen, dass unser Kurzschlussstrom des Kabels, den wir aus dem Moduldatenblatt holen, nicht nur für Standard-Test-Conditions gilt, also für 1000 Watt Einstrahlung, sondern hier wird jetzt auch der Fall gedeckt, dass man vielleicht mal 1200 Watt Einstrahlung hat oder andere Umgebungstemperaturen, die dann eben auch einen Einfluss auf den Strom haben können. Das heißt, man nimmt nochmal einen Sicherheitsfaktor 1,25, um damit eben den Betriebsstrom zu errechnen. Den ISC, wie gesagt, aus dem Moduldatenblatt, wir haben ja mal eins eingeblendet und zoomen dann da mal rein.
+
+(0:01:37 - 0:01:58)
+Short Circuit Current, so nennt er sich, 14,01 ist es in dem Fall. Ein bisschen Achtung, bei Bifacial-Modulen muss man dann ja vielleicht auch noch den Bifacial-Effekt mit addieren. Aber jetzt hier für dieses Modul ist es erst mal rund 14 Ampere und mit dem Faktor von 1,25 kommt man dann eben auf einen Wert von 17,51 Ampere.
+
+(0:02:01 - 0:02:27)
+Das ist unser Betriebsstrom und als nächstes suchen wir uns dann eben den Nennstrom des Kabels raus. Dafür eben in diese Tabelle 0283618, Tabelle A3, und die baut sich eben entsprechend auf. Und ausgelegt für viele verschiedene Querschnitte, also 4 und 6 Quadrat sind zum Beispiel drin, aber auch 240 Quadrat.
+
+(0:02:28 - 0:02:49)
+Und bei unseren kleinen Strömen, Stringkabel, sind ja, sage ich mal, Stringkabel von 4, 6 Millimeter Quadrat erst mal üblich. Und dafür würden wir uns jetzt auch erst mal entscheiden und greifen zu dem 4 Millimeter Quadrat. Und das hat einen Nennstrom oder eine Belastbarkeit von 44 Ampere.
+
+(0:02:50 - 0:03:29)
+Ist ja erst mal deutlich größer als 17,5 Ampere, aber man wird schon sehen, Stringkabel werden ja immer stark gebündelt verlegt, also sehr große Häufungsfaktoren, dass man da dann vermutlich noch viele Abschläge akzeptieren muss. Rahmenbedingungen definieren wir kurz, 60 Grad Umgebungstemperatur, 12 Strings parallel, hatte ich gerade schon gesagt, das ist üblich, oft sind es noch mehr, und die Umgebungstemperatur von 60 Grad, die ziehen wir uns jetzt erst mal auch aus der 283 618. Das ist der einzige Faktor, den wir in dieser Norm finden, und der ist bis 60 Grad erst mal mit 1 definiert.
+
+(0:03:29 - 0:04:02)
+Also erst mal relativ einfach und wird so übernommen. Jetzt kommt der Faktor 2, weil wir 12 Strings haben, müssen wir jetzt in die internationale IEC 60364 schauen. Und da haben wir dann eben Belastungsgrade oder Häufungsfaktoren für Kabel und die erste Reihe bezeichnen dann eben Bunched in air, on the surface or embedded or enclosed, das ist dann die Reihe, in die wir reingehen müssen.
+
+(0:04:02 - 0:04:46)
+Und die geht dann eben auch bis zu 20 Kabeln parallel, wir haben eben 12 und deshalb ist unser Faktor hier 0,45. Und dann haben wir noch F3, der ist für uns jetzt nicht relevant, weil das Kabel nicht im Erdboden verlegt wird, also eine Erdbodentemperatur ist hier nicht wichtig, deshalb können wir den auch rausnehmen und kommen dann zu unserem Ergebnis von 19,8 Ampere. Das heißt tatsächlich, wir sind von den 44 Ampere ziemlich weit runtergekommen oder mussten da ziemlich große Abschläge akzeptieren, vor allem wegen dieser Häufung und sind aber mit dem zulässigen Strom immer noch oberhalb der 17,51 Ampere.
+
+(0:04:46 - 0:05:05)
+Und das freut uns natürlich, weil das Kabel ist dann aus unserer Sicht erst mal geeignet für die Verlegung, für die Benutzung hier. Ich freue mich natürlich umso mehr, wenn ihr nächste Woche wieder mit dabei seid und wünsche euch später ein schönes Wochenende. Bis dann, tschüss!

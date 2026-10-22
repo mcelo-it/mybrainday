@@ -1,0 +1,71 @@
+(0:00:00 - 0:00:13)
+So, jetzt habt ihr erstmal eine grobe Idee, wie das aussieht in Deutschland mit dem Netz. Den Transformator hatte ich eben schon kurz erwähnt. Der koppelt diese Netze und das ist dann jetzt auch unser nächstes Kapitel.
+
+(0:00:14 - 0:00:24)
+Und da wollen wir uns ausdrücklich kurz fassen. Also für den Transformator, da haben wir nochmal einen anderen Brain Day. Da kann man sicherlich auch wieder Stunden füllen.
+
+(0:00:25 - 0:00:53)
+Hier für heute ist es aber erstmal wichtig, dass ihr nochmal einen kurzen Einblick bekommt. Was ist der Transformator? Wie ist der aufgebaut? Und warum kann dieser Transformator denn jetzt diese Netzform bilden? So, genau, jetzt haben wir eine Definition für die Transformatoren. Und meistens sind das ein paar Buchstaben, die da stehen, die zuallererst die Verschaltung definieren.
+
+(0:00:55 - 0:01:09)
+Und hier haben wir jetzt erstmal ein Trafo dargestellt. Bei dem Trafo seht ihr jetzt da in gelb, das sind glaube ich die Niederspannungsanschlüsse. Und davor, das sind dann, was ist das in der Farbe, lila, das sind dann die Mittelspannungsanschlüsse.
+
+(0:01:10 - 0:01:35)
+Und die sind intern in dem Trafo dann eben verschaltet, würde ich jetzt mal sagen, oder gewickelt. Und da gibt es in der Regel, oder für uns wichtig, im Grunde genommen zwei Verschaltungsformen dieser Wicklung, dieser Oberspannungswicklung und Unterspannungswicklung. Und da gibt es einmal die Form Dreieck, das ist dann genau so tatsächlich verschaltet.
+
+(0:01:37 - 0:02:00)
+Oder eben die Form, ja genau, hier sieht man das nochmal, das wird dann auch tatsächlich so angeschlossen an den einzelnen Wicklungen. Oder eben die Form Stern, da haben wir immer ein Y, dann sind diese Wicklungen eben anders zusammengeschaltet. Genau, das gibt es dann eben für die Oberspannung und die Unterspannung, das zeigen wir dann gleich auch nochmal.
+
+(0:02:02 - 0:02:18)
+Hier müssen wir den Trafo ein bisschen beiseite rücken. Jetzt kommt der nächste Punkt. Da definieren wir dann eben über ein N, ob jetzt der Sternpunkt herausgeführt wird oder, hier haben wir geschrieben, geerdet wird.
+
+(0:02:18 - 0:02:47)
+Oft ist er geerdet, aber es gibt eben auch die Möglichkeit, und das ist jetzt vor allem die Mittel- und Hochspannung, diesen Sternpunkt nicht zu erden, sondern zum Beispiel auch, naja das nehme ich jetzt vorweg, zum Beispiel auch zu kompensieren oder mit einem Widerstand zu erden. Jetzt bleiben wir erstmal bei N geerdet und das sieht dann genau so aus. Der Sternpunkt, diese Y-Wicklung, der wird dann herausgeführt aus dem Trafo und hier auf Erde gelegt.
+
+(0:02:47 - 0:03:12)
+Wichtig vielleicht jetzt schon, dieses Herausführen des Sternpunkts, das ist bei diesen Sternwicklungen sehr einfach möglich, bei den Dreieckswicklungen ist das eher schwierig. Da braucht man dann nochmal einen Hilfstransformator, über den das dann auch möglich wäre. Der muss dann eben einen Sternpunkt bilden, aber erstmal, wenn ihr euch ein Dreieck anschaut, hat das keinen Sternpunkt, den man ganz einfach herausführen kann und erden kann.
+
+(0:03:13 - 0:03:46)
+Also das geht beim Y, beim D geht das nicht so gut. Das nächste, was jetzt kommt, ist, ein Transformator trägt auch immer eine Zahl in seiner Bezeichnung. Ich sage jetzt zum Beispiel mal dyn5 und diese Zahl hinten, die beschreibt eine Phasenverschiebung von der Oberspannungswicklung zur Unterspannungswicklung und bei einem dyn5 Transformator wäre das eben 5 mal 30 Grad.
+
+(0:03:47 - 0:04:05)
+Das heißt, der Sinus ist eben auf der Niederspannungsseite 150 Grad verschoben zu der Mittelspannungsseite. Das gibt es dann eben auch mit der Zahl 0, dann hat man eben keine Verschiebung oder mit der Zahl 11. Für unsere Solarparks ist das erstmal gar nicht so relevant.
+
+(0:04:06 - 0:04:33)
+Wirklich relevant ist das, wenn man Transformatoren parallel betreibt und auf beiden Seiten zusammenschaltet. Dann ist es eben wichtig, dass diese Phasenverschiebung exakt gleich ist, weil sonst kommt es im Grunde genommen zum Kurzschluss. Da haben wir nochmal diesen kleinen Kreis, die Phasenverschiebung als Symbol.
+
+(0:04:36 - 0:05:01)
+Jetzt sehen wir nochmal hier definiert und auch reingezoomt auf den Trafo. Gelb hinten ist wahrscheinlich die Niederspannung, vorne lila ist dann die Mittelspannung. Hier sieht man es, Großbuchstaben stehen immer für die Oberspannung und Kleinbuchstaben stehen immer für die Unterspannung.
+
+(0:05:04 - 0:05:21)
+Jetzt haben wir hier nochmal auf die Schnelle ein paar Beispiele. Diesen DYN5 hatte ich ja eben schon beschrieben. Jetzt müsst ihr genau hingucken, oben rechts blinkt jetzt Oberspannung, das D, das ist der erste Buchstabe.
+
+(0:05:21 - 0:05:40)
+Also das erste große D steht für die Oberspannungswicklung. Jetzt kommt das D, also Oberspannungswicklung im Dreieck verschaltet. Das beschreibt jetzt eben erstmal den ersten Buchstaben.
+
+(0:05:40 - 0:06:08)
+Der zweite Buchstabe, jetzt habt ihr es hoffentlich rechts oben gesehen, ist ein kleines Y, also kleine Buchstaben beschreiben die Unterspannungsseite. Die Unterspannungsseite ist jetzt eben im Stern verschaltet, blinkt oben links. Dieser Sternpunkt, dieses Y, ist eben herausgeführt, geerdet, deshalb habt ihr gerade gesehen N geerdet.
+
+(0:06:09 - 0:06:29)
+Dann gibt es eben noch diese Zahl 5, 5 mal 30 Grad ist dann die Phasenverschiebung. Also unser Transformator auf der Hochspannungsseite im Dreieck verschaltet, auf der Niederspannungsseite im Stern verschaltet und der Sternpunkt ist herausgeführt und geerdet. Das ist eben hier die Bezeichnung für diesen Transformator.
+
+(0:06:30 - 0:07:07)
+Ich hatte es ja eben schon gesagt, das D auf der Oberspannungsseite, das ist nicht so einfach zu erden. Bei uns in der Photovoltaikanwendung ist das auch völlig okay, beziehungsweise meistens so gewollt, weil wenn wir an ein Mittelspannungsnetz des Netzbetreibers anschließen und der hat dort irgendeine Sternpunktbehandlung, sagen wir mal er hat ein isoliertes Netz, dann dürfen wir dieses Netz auf der Oberspannungsseite nicht einfach erden, weil dann ruinieren wir seine gesamte Sternpunktbehandlung in seinem Mittelspannungsnetz. Deshalb haben wir meistens bei unseren Solarparks diesen DYN5-Transformator.
+
+(0:07:08 - 0:07:35)
+An dem Dreieck kann man einfach anschließen, man verändert im Grunde genommen die Sternpunktbehandlung des Netzbetreibers auf der Oberspannungsseite nicht. Und auf der Unterspannungsseite können wir dann eben mit unserem Y, mit dem Stern in unserem internen Netz dann machen, was wir für richtig halten. Jetzt haben wir noch ein zweites Beispiel, Yd11, das gehen wir jetzt nochmal genau so durch.
+
+(0:07:35 - 0:07:54)
+Also oben rechts blinkt es das große Y für die Oberspannungsseite, jetzt blinkt es oben links, die Oberspannungsseite ist im Stern verschaltet. Diesen Stern, den könnte man jetzt, sage ich mal erden, könnte man. Ist hier in diesem Fall aber erstmal nicht vorgesehen.
+
+(0:07:55 - 0:08:33)
+Wir gehen weiter auf die Unterspannungsseite, also das kleine d. Auch hier ist die Unterspannungsseite im Dreieck verschaltet, also dann erstmal schwerer zu erden. Jetzt blinkt oben links noch das Dreieck und jetzt kommt eben der Phasenwinkel 11 mal 30 Grad, das heißt zwischen Oberspannungs- und Unterspannungsseite haben wir dann 330 Grad Phasenverschiebung. Und hier ist keiner der Sternpunkte erstmal rausgeführt, das heißt unsere Unterspannungsseite mit dem Dreieck, nehme ich jetzt schon mal vorweg, wäre dann isoliert betrieben, also nicht geerdet, sondern wahrscheinlich ein isoliertes Netz.
+
+(0:08:37 - 0:08:58)
+Jetzt kommt die letzte Variante, die wir ja noch zeigen wollen, das ist ein YnYn0. Und da ist die Oberspannungsseite eben im Stern verschaltet und der Sternpunkt ist erstmal herausgeführt. Hier wird es jetzt angezeigt als geerdet.
+
+(0:08:58 - 0:09:15)
+Wenn wir hier in dem Mittelspannungs- oder Hochspannungsnetz sind, muss das nicht zwingend geerdet sein, sondern es kann eben auch anders beschaltet werden, so würde ich es jetzt mal nennen. Kommen wir später nochmal dazu. Jetzt kommt die Unterspannungsseite, genau, ist auch ein Stern.
+
+(0:09:20 - 0:09:34)
+Und da haben wir dann den Sternpunkt eben auch herausgeführt. Und die Phasenverschiebung ist hier 0 Grad, das habe ich jetzt übersprungen, also 0 mal 30 Grad, das heißt die Oberspannungs- und die Unterspannungsseite sind in Phase.

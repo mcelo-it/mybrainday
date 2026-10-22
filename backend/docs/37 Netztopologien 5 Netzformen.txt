@@ -1,0 +1,228 @@
+(0:00:00 - 0:00:17)
+Wir kommen jetzt nämlich erstmal zu den tatsächlichen Netzformen, unser nächstes Kapitel. Das ist ja im Grunde genommen das, worum es hier heute geht. Wir haben jetzt viel Vorbereitung geleistet und teilen jetzt hier unsere Netzformen nochmal auf.
+
+(0:00:17 - 0:00:33)
+Und wir fangen jetzt hier an mit Hoch- und Mittelspannung. Und was ich zu Beginn schon mal gesagt hatte, die Norm, die 0100100, das ist eine Niederspannungsnorm. Das heißt, für die Hochspannung würde ich jetzt erstmal sagen, gilt sie dann eben nicht.
+
+(0:00:33 - 0:00:52)
+Die gilt bis 1 kV. Was wir jetzt hier auf der linken Seite dieses Kreises besprechen, sind eben Spannungen 10, 20 kV und größer, eben bis 380 kV. Trotzdem natürlich sind, wie schon gesagt, die physikalischen Gegebenheiten ähnlich.
+
+(0:00:53 - 0:01:11)
+Allerdings sind natürlich die Netze, die wir jetzt auf der linken Seite sehen werden, viel, viel größer als die Netze, die wir in der Niederspannung sehen. Deshalb gibt es sicherlich Unterschiede und deshalb wollen wir das ja auch klar trennen. Das Erste, was wir hier aufschreiben, vielleicht haben das manche schon mal gehört, diese Abkürzung NOSPE.
+
+(0:01:12 - 0:01:29)
+Das sind jetzt eben Begriffe, die in der Mittel- und Hochspannung verwendet werden. NOSPE bedeutet eben niederohmige Sternpunkterdung. Das ist vergleichbar, würde ich sagen, oder im Grunde genommen äquivalent zu einem starrgeerdeten Netz.
+
+(0:01:30 - 0:01:45)
+Das würde dann später noch auf der anderen Seite des Kreises auftauchen, ein TN-System. Da ist dann der Transformator starrgeerdet, niederohmig geerdet, also mit wenig Widerstand ist der Sternpunkt geerdet. Das heißt, wir haben ein NOSPE-Netz.
+
+(0:01:47 - 0:02:02)
+Die zweite Version, die wir jetzt hier sehen, ist das OSPE-Netz. Das müsst ihr euch nicht unbedingt merken. OSPE ist ohne Sternpunkterdung und das bedeutet dann eben, dass der Sternpunkt isoliert betrieben wird.
+
+(0:02:02 - 0:02:22)
+Hier hätten wir ein isoliertes Netz. Ich sage jetzt mal der DY11-Trafo, das wäre ein OSPE, weil der Sternpunkt nicht herausgeführt wird. Im Gegensatz zu einem DYN5, wo dann der Sternpunkt auf der Niederspannungseite herausgeführt werden würde.
+
+(0:02:23 - 0:02:37)
+Dann haben wir hier noch eine dritte Netzform in der Hoch- und Mittelspannung. Die wiederum wird man in der Niederspannung wahrscheinlich nicht finden. Das nennt sich RESPE.
+
+(0:02:37 - 0:02:56)
+Das ist die Resonanzsternpunkterdung. Das sehen wir tatsächlich im Mittelspannungsnetz in Deutschland sehr häufig. Das ist eine Netzform, die wir, das seht ihr auch später, dann ableiten aus dem isolierten Netz.
+
+(0:02:57 - 0:03:16)
+Der Sternpunkt ist dann eben nicht isoliert und nicht starr geerdet, sondern im Sternpunkt hat man eine sogenannte Patterson-Spule oder eine Induktivität. Warum man das hat, das zeigen wir euch später auf den nächsten Folien. Da geht es dann wirklich ans Eingemachte der Elektrotechnik.
+
+(0:03:21 - 0:03:39)
+Jetzt schauen wir rüber auf die Niederspannungseite. Hier, wie gesagt, ist diese 0100100 wirklich relevant. Diese Netzform, die wir jetzt hier sehen und am Anfang auch schon kurz beschrieben hatten, wie die normativ definiert sind, haben wir hier nochmal aufgeführt.
+
+(0:03:40 - 0:04:03)
+Hier haben wir jetzt erstmal den geerdeten Sternpunkt. Das ist dieses TNC, also ein DYN5-Transformator, mit dem Sternpunkt auf der Niederspannungseite herausgeführt und geerdet. Der kann eben dieses TNC-System aufbauen, indem man dann diesen geerdeten Sternpunkt mitführt zu den Verbrauchern.
+
+(0:04:03 - 0:04:25)
+Und wenn man dann eben dieses C, den Pen-Leiter, aufteilt, dann wird daraus ein TNC-S-System, beziehungsweise wenn er die ganze Zeit aufgeteilt ist, dann ist es ein TNS-System. So würde das aufgebaut werden. In der Mittelspannung sieht man diesen vierten Leiter, diesen Schutzleiter, nicht.
+
+(0:04:26 - 0:04:36)
+In der Mittelspannung auf der linken Seite, da führen wir immer nur drei Leiter. Immer nur L1, L2, L3. Das heißt, das ist natürlich auch ein deutlicher Unterschied.
+
+(0:04:39 - 0:04:50)
+Vielleicht noch einen Satz dazu. Die Anwendung von Hochspannungsnetzen hat natürlich auch einen ganz anderen Hintergrund als die Anwendung von Niederspannungsnetzen. Das muss man vielleicht hier nochmal ganz kurz klar sagen.
+
+(0:04:50 - 0:04:59)
+Diese Niederspannungsnetze, die kommen hier bei uns in den Gebäuden an. Da arbeiten Endverbraucher dran. Das ist in ihrer Küche, im Badezimmer, im Wohnzimmer.
+
+(0:05:00 - 0:05:31)
+Da haben wir natürlich ganz andere Sicherheitsmaßstäbe als in so einer Übergabestation. Die meisten Elektriker haben wahrscheinlich schon mal bei 230 Volt ein Gewischt bekommen und das dann zum Glück wahrscheinlich ohne Schaden überlebt. Wenn so etwas natürlich auf anderen Spannungsebenen, 20, 30, 110 kV passiert, dann denke ich, läuft sowas nicht so glimpflich ab, sondern dann besteht natürlich sofort allerhöchste Lebensgefahr.
+
+(0:05:32 - 0:05:53)
+Das ist natürlich ein ganz großer Unterschied zwischen der Niederspannung und der Hoch- und Mittelspannung. Das eine nutzen die Endverbraucher, zu dem anderen haben nur die Leute Zutritt, die damit auch wirklich arbeiten, die da wirklich geschult sind und alle Sicherheitsmaßnahmen beachten. Dann kommen wir jetzt mal zur zweiten Netzform.
+
+(0:05:54 - 0:06:05)
+Das ist der isolierte Sternpunkt. Man nennt das in der Niederspannungsnorm IT-System. Links in der Mittelspannung haben wir es OSPE genannt, in der Niederspannung nennen wir es IT.
+
+(0:06:05 - 0:06:29)
+Im Grunde genommen ist es das Äquivalent. Hier nochmal der Hinweis, IT-System kannte ich, ich sage mal nicht direkt, aber vom Hörensagen aus Krankenhausanwendungen, wo man hohe Versorgungssicherheiten hat. Mittlerweile aber, wie vorher schon mal gesagt, ist das ein großes Thema bei großen Solarparks mit großen Wechselrichtern.
+
+(0:06:30 - 0:06:59)
+Die Wechselrichterhersteller, wie gesagt, drängen uns dazu, jetzt ein bisschen umzudenken, weg von unserem TN-System, was wir lange kennen und schätzen, jetzt hin zu einem IT-System, was dann doch ein paar andere Eigenschaften besitzt, auf die wir gleich zu sprechen kommen und auch andere Schutzvorkehrungen benötigt. Jetzt kommt das letzte System. Wir hatten das ganz am Anfang bei der Norm ja auch schon mal erwähnt, dieses TT-System.
+
+(0:07:00 - 0:07:18)
+Der Transformator-Sternpunkt wird geerdet und der Verbraucher wird geerdet, aber es gibt keine direkte Verbindung zwischen diesen beiden Geräten. Dieses System kenne ich aus Deutschland nicht oder sagen wir selten. Deshalb sei es erwähnt, aber im Detail später nicht besprochen.
+
+(0:07:21 - 0:07:34)
+Um euch noch mal kurz abzuholen. Wir hatten die Niederspannungsnormen, ganz wichtig. Wir hatten die Netzformen, wir hatten jetzt die Transformatoren und haben jetzt unsere Netzformen in Hoch- und Mittelspannung aufgeteilt.
+
+(0:07:36 - 0:08:02)
+Hiernach folgt dann eben die Aufteilung, die zweite Hälfte, die Niederspannungs-Sternpunktbehandlung. Wir haben euch die Mittelspannung kurz vorgestellt und würden jetzt im Detail mal zeigen, wie das denn hier mit der niederohmigen Sternpunkterdung im Hoch- und Mittelspannungsnetz gedacht ist. Hier steht es jetzt oben, niederohmige Sternpunkterdung NOSPE.
+
+(0:08:03 - 0:08:15)
+Oh, da ist schon gleich ein roter Blitz im Bild. Der symbolisiert jetzt hier einen Erdfehler. So soll es sein und der Fehler soll jetzt eben sein auf Phase 3 gegen Erde.
+
+(0:08:16 - 0:08:40)
+Zu Beginn hatte ich ja schon gesagt, diese Sternpunktbehandlung ist für den Nennenbetrieb gar nicht relevant, für den Synchronbetrieb nicht relevant. Also wenn unser Park ganz normal läuft, dann sieht er da, ich sage jetzt mal 20.000 Volt oder 400 Volt oder 800 Volt, Leiter, Leiterspannung und alles ist gut. Wenn wir jetzt aber eben diesen einpoligen Fehler haben, dann passiert etwas mit unserem Netz.
+
+(0:08:41 - 0:09:40)
+Wir sehen jetzt hier auf der linken Seite den Sternpunkt, das ist der schwarze Punkt, da haben wir jetzt ein N dran geschrieben, das ist der Sternpunkt der Niederspannungswicklung des Transformators oder der Unterspannungswicklung des Transformators. Ich kann euch vorstellen, dass links von dieser Wicklung zum Beispiel noch eine Dreieckswicklung dargestellt wäre oder vorhanden sein müsste für die Oberspannungswicklung. Damit es ein bisschen einfacher, übersichtlicher ist, zeigen wir jetzt hier nur die Niederspannungs- und die ist eben im Stern gewickelt, also Y. Der Sternpunkt ist herausgeführt, also YN und meistens ist das bei dieser Konstellation ein DYN5-Trafo, wobei diese Phasenverschiebung hier bei einzelnen Transformatoren, also nicht parallel geschaltete Transformatoren, keine Relevanz hat.
+
+(0:09:41 - 0:10:06)
+Der Sternpunkt ist starr geerdet, das haben wir hier dargestellt, indem wir von dem schwarzen Punkt nach unten gegen das Erdreich eben eine durchgezogene Linie gezeichnet haben. In der Elektrotechnik hat diese Linie jetzt einen Widerstand von 0 Ohm. In der Praxis ist das natürlich nicht zu erreichen, man hat immer gewisse Widerstände, aber wir gehen jetzt erstmal hier von einem Erdungswiderstand von 0 aus.
+
+(0:10:07 - 0:10:47)
+Was passiert dann im einpoligen Erdfehlerfall? Es kann ein Kurzschlussstrom fließen und wenn ich hier von Kurzschlussstrom spreche, dann ist das auch hier so gemeint, dass es ein hoher Strom ist, der hier fließen kann, weil der erwartet jetzt erstmal zum Sternpunkt hin und über die Leitung keinen hohen Widerstand und das heißt, der Kurzschlussstrom fließt. Das zeigen wir euch jetzt hier auch nochmal in Diagrammen. Der Kurzschlussstrom fließt gleich unten, oben drüber in dem Graph, da sehen wir gleich die Spannungen, vielleicht, dass ihr schon mal reinkommt.
+
+(0:10:49 - 0:11:13)
+Wir gucken uns jetzt hier den Nachtbetrieb an. Wenn ihr gleich unten Ströme seht, die sind erstmal alle 0, der Solarpark ist aus, es kommt trotzdem aus irgendeinem Grund zum einpoligen Fehler und dann entstehen irgendwann Ströme. Bei den Spannungen ist es ja so, Tag und Nacht liegen die an, das heißt, die Spannung ist einfach immer da und an irgendeiner Stelle gibt es dann den einpoligen Fehler.
+
+(0:11:13 - 0:11:51)
+Und da seht ihr wieder diesen nervös blinkenden roten Pfeil, der drückt an der Stelle die Phase 3 ein wenig runter, das heißt, die Spannungen brechen dann auf der fehlerhaften Phase ein, würde ich sagen. Das sieht man jetzt hier, Phase 3 ist geringer, die Spannung als die anderen beiden, ich nenne das jetzt gesunden Phasen, also gelb und grün, Phase 1 und 2 sind fehlerfrei, Phase 3 hat diesen Fehler, die Spannung bricht ein. Das ist jetzt erstmal für so ein Stromnetz unkritisch, einbrechende Spannung, damit kann so ein Kabel leben, damit können Endverschlüsse leben, das ist kein Problem.
+
+(0:11:52 - 0:12:24)
+Ich würde mal sagen, spannungsmäßig ist das Netz hier sehr entspannt unterwegs, keine große Gefahr. Was jetzt aber eben passiert, ich hatte es eben schon gesagt, durch diese niederohmige Erdung ist, dass der Strom, der jetzt erstmal bei 0 ist in der Nacht, bei diesem Erdfehlerfall dann, ich sage mal, schlagartig ansteigt. Wir haben jetzt hier keine Skala dran, das sieht hier relativ klein aus, dieser Erdfehlerstrom, den wir hier gezeichnet haben, das ist einfach ein Darstellungsthema.
+
+(0:12:26 - 0:13:44)
+Also bei so einem starrgeerdeten Netz passiert bei der Spannung wenig, beim Strom geht dann aber schon tatsächlich die Post ab, würde ich sagen, der Strom schnellt hoch und je nachdem, wie groß jetzt die Kurzschlussleistung ist vom Netz, wie groß euer Transformator ist, könnt ihr bei so einem starrgeerdeten Netz, bei einpoligen Fehlern gegen Erde, durchaus mal Kurzschlussströme sehen, die 1000 Ampere und größer sind. Und das sorgt natürlich dann dafür, dass bei so einem Erdfehlerfall unheimlich große Energien frei werden. Hohe Energien, die frei werden, sorgen dann natürlich auch immer schnell für große Schäden. 
+
+Wo sieht man sowas? Alle, die schon mal gesehen haben, wo ein Endverschluss, ich sage mal, hochgegangen ist gegen Erde, da sieht man dann, dass da Metall spritzt, also das wird sofort flüssig und spritzt an die Wände, da entstehen eben große, große Schäden. Das muss man wissen und jetzt ist hier natürlich dann die Herausforderung, möglichst schnell abzuschalten, um das, was da passiert, oder diesen Schaden, der da auftritt, der passiert, möglichst irgendwie in den Griff zu bekommen oder in Grenzen zu halten. Kaputt ist es wahrscheinlich eh, aber wir müssen dann eben dafür sorgen, dass nicht noch mehr kaputt geht.
+
+(0:13:45 - 0:14:12)
+Also niederohmige Sternpunkterdung, Spannungsprobleme sehe ich da erst mal nicht, die Spannung bricht ein, der Strom, der macht uns hier aber tatsächlich Probleme und sorgt dann eben für Zerstörung, würde ich sagen. Damit können wir aber, ich sage mal, im Grunde genommen arbeiten. Unser DYN5-Trafo, unsere Niederspannungsseite in dem Solarpark, war über viele, viele Jahre genau in dieser Art und Weise geerdet.
+
+(0:14:12 - 0:14:51)
+Wenn man dann einen Fehler hat, ja, haben wir einen Schaden, das ist nun mal so, es löst dann aber auch eine Sicherung aus, weil der Strom eben dafür sorgt, dass die Sicherung schmilzt und dann ist im Grunde genommen der Fehler geklärt, durch die geschmolzene defekte Sicherung wissen wir, wo der Fehler sich befindet und können den Fehler dann eben beheben. Also ich sage mal, für unsere Niederspannungsseite oder auch für die Mittelspannungsnetze ist das erst mal schutztechnisch relativ einfach zu detektieren und auch schnell abzuschalten. Der Schaden, der entsteht bei so einem Fehler, ist aber verhältnismäßig groß.
+
+(0:14:53 - 0:15:46)
+So, was man jetzt machen kann natürlich, um diese niederohmige Sternpunkterdung, diesen Schaden, diesen Strom, den man da hat, ein wenig besser in den Griff zu bekommen und das haben sich, glaube ich, irgendwelche schlauen Ingenieure vor, wahrscheinlich 50 bis 100 Jahren mal ausgedacht, die haben gesagt, niederohmige Sternpunkterdung, ich hoffe, ihr habt es gesehen, in der starren Verbindung zur Erde haben die dann einfach mal gesagt, der Strom, der wird hier so groß im Erdfehlerfall, wir bauen jetzt hier einfach mal einen kleinen Widerstand rein. Das ist eine clevere Lösung, würde ich sagen, weil dadurch kann dieser Kurzschlussstrom, der dort über diese starre Erdung zum Sternpunkt zurückfließen muss, wird er im Grunde genommen, ich nenne das jetzt mal gedrosselt oder gebremst. Der Strom wird einfach nicht so groß.
+
+(0:15:48 - 0:16:13)
+Das ist meines Erachtens noch eine clevere Lösung. Man hat, ich sage mal, trotzdem Kurzschlussströme, die fließen, aber eben nicht in der Größenordnung. Es passiert dann aber tatsächlich noch, gut, jetzt kommt erst der Erdfehler, der Kurzschlussstrom fließt nochmal und jetzt hat man dann aber tatsächlich einen Effekt, mit dem man dann leben muss.
+
+(0:16:13 - 0:16:37)
+Also man kriegt auch in der Elektrotechnik scheinbar nichts umsonst. Wir bauen jetzt eben diesen Widerstand ein in den Sternpunkt und dann sehen wir, dass bei den Spannungen die fehlerbehaftete Spannung, ich sage mal, wieder runter geht. Später sehen wir, dass der Strom natürlich gedämpft ist und nicht so hoch wird, wie, ich sage mal, bei dem 0 Ohm geerdeten Netz.
+
+(0:16:38 - 0:17:06)
+Allerdings, wir erkaufen uns das damit, das sehen wir in dem Diagramm, dass die Spannungen der gesunden Phasen eben ansteigen. Das ist jetzt hier erstmal eine Darstellung, das ist der Effekt, der physikalisch einfach so passiert im Mittelspannungsnetz, wahrscheinlich auch im Niederspannungsnetz überall. Der Anstieg der gesunden Phasen, der ist jetzt natürlich stark davon abhängig, wie groß dieser Widerstand ist, den wir da in den Sternpunkt einbauen.
+
+(0:17:06 - 0:17:39)
+Aber, ich sage mal, das Problem, was wir eben gar nicht hatten, nämlich die Spannungen in den gesunden Phasen erhöhen sich nicht, die Spannung in der fehlerhaften Phase geht runter, das war vorher sehr komfortabel. Das haben wir jetzt nicht mehr, das erkaufen wir uns eben dadurch, oder wir erkaufen uns den geringeren Strom, den wir jetzt gleich im unteren Bild sehen, da ist die Amplitude einfach etwas geringer. Diesen geringeren Kurzschlussstrom erkaufen wir uns damit, dass wir im Grunde genommen eine Spannungserhöhung in den gesunden Phasen haben.
+
+(0:17:41 - 0:18:37)
+Und in unseren brandneuerrichteten Solarparks ist das auch etwas, was wir handeln können, was wir im Griff haben können, weil da haben wir neue Endverschlüsse, da haben wir gute Isolierung. Bei Netzbetreibern, die zum Teil wahrscheinlich Endverschlüsse im Betrieb haben, die vielleicht 40, 50 Jahre alt sind, sind solche Spannungserhöhungen, die dann eben auftreten im Netz, immer ein Thema, weil diese Spannungserhöhungen, die können dann eben dafür sorgen, dass Endverschlüsse oder Kabel, die eben alt sind, vielleicht vorgeschädigt sind, dann eben für diese Folgefehler sorgen, die ich ganz zu Beginn schon mal genannt hatte. Die können meinetwegen mit 20 kV noch gut umgehen, aber wenn wir jetzt eine Spannungserhöhung haben um 30, 40 %, dann kann das oft dazu führen, dass vorgeschädigte oder alte Betriebsmittel eben auch noch defekt gehen.
+
+(0:18:37 - 0:19:06)
+Das ist dann, dass Sie es mal gehört haben, da hat man einen Erdfehler auf der Phase 3 und dann kommt der zweite Erdfehler dazu, meinetwegen auf Phase 1, weil da meinetwegen der Endverschluss schon mal ein Problem hat oder das Kabel ein Problem hat, das bis jetzt noch nicht zutage getreten ist. Durch die Spannungserhöhung geht jetzt der zweite Endverschluss oder das zweite Kabel defekt und dann hat man eben einen Doppelerdschluss, der dann eben auch zu einem Kurzschluss werden kann. Also da muss man dann eben aufpassen.
+
+(0:19:06 - 0:19:28)
+Bei alten Netzen ist das immer ein bisschen kritisch zu sehen, Spannungsüberhöhung oder Spannungserhöhung, die eben bei dieser Art von Sternungsbehandlung immer auftreten. Jetzt kommen wir zu einem isolierten Sternpunkt. Abkürzung ist OSPE.
+
+(0:19:28 - 0:19:49)
+In der Mittelspannung sieht man das manchmal, würde ich sagen, man sieht es häufig bei Industriebetrieben, die eine kleine Netzausprägung haben. Sie haben einen Industriebetrieb, der hat dann vielleicht ein Kilometer Mittelspannungsnetz auf seinem Grundstück liegen, auf seinem Gelände liegen. Da hat man wahrscheinlich schon eine große Firma.
+
+(0:19:50 - 0:20:29)
+Aber für solche Betriebe ist das eben sinnvoll, weil diese Netze, die haben erstmal eine sehr große Versorgungssicherheit, analog zu dem IT-Netz in der Niederspannung und eben auch einen hohen Personenschutz. Ich empfehle das nicht, aber die Theorie besagt eben, man könnte jetzt Leiter 3 anfassen und es würde nichts passieren, weil der Sternpunkt ist nicht geerdet, das Netz ist gegen Erde isoliert, der Strom würde nicht über euren Körper fließen. Das ist die Theorie. 
+
+Ich mache das nicht. Ich empfehle euch das auch nicht, das zu tun und zu testen. Aber das ist eben die Idee von diesem isolierten Netz.
+
+(0:20:32 - 0:20:52)
+So, der Sternpunkt ist isoliert, er hat keine Verbindung zur Erde. Hier werden jetzt ein paar Spannungen dargestellt. Die Spannungen gegen Erde werden dargestellt und man sieht, wenn man sich mit diesen isolierten Netzen beschäftigt, sehr, sehr oft diese Darstellung, die jetzt unten links auftaucht.
+
+(0:20:53 - 0:21:07)
+Hier werden die drei gesunden Spannungen, jetzt sind sie noch gesund, werden dargestellt. Die treffen sich, sage ich mal, im Neutralpunkt, in dem schwarzen Punkt und addieren sich an dieser Stelle zum Null. So ist das erstmal gedacht.
+
+(0:21:09 - 0:21:33)
+Wenn wir jetzt aber aus diesem Dreieck oder wenn jetzt in diesem System etwas, ich sage mal, außer nicht mehr so läuft, wie es laufen soll, meinetwegen wäre mein Erdfehler in der Phase 3, dann wird eben die Spannung von der Phase 3 auf Null gezogen. Was jetzt passiert, ist dann eben ein interessantes Phänomen. Jetzt müsst ihr mir glauben, dass es so ist und es ist auch wirklich so in der Praxis.
+
+(0:21:34 - 0:21:51)
+Phase 3 geht eben auf Null, wir haben da einen satten Erdschluss. Ihr könnt das Netz aber weiter betreiben, das ist erstmal so. Es fließt hier in der Theorie erstmal kein Kurzschlussstrom und wenn ihr euer Multimeter zwischen Phase 1 und 2 haltet, messt ihr, ich sage mal, 20.000 Volt.
+
+(0:21:51 - 0:22:07)
+Zwischen Phase 2 und 3 messt ihr 20.000 Volt und zwischen Phase 1 und 3 messt ihr auch 20.000 Volt. Also ihr könnt bei einer Leiter-Leiter-Messung den einpoligen Erdfehler so erstmal nicht nachweisen. Das ist ein, finde ich, verblüffendes Phänomen.
+
+(0:22:08 - 0:22:23)
+Das passiert im Grunde genommen dadurch, dass man jetzt diesen Endpunkt verschiebt. In dem Dreieck unten seht ihr das. Der Endpunkt, der wird jetzt oben auf die Spitze von L3 gezogen, weil eben L3 auf Erde geht.
+
+(0:22:24 - 0:22:44)
+Und dadurch, jetzt kommt es wieder, haben wir eine Spannungsüberhöhung um den Faktor Wurzel 3 in den gesunden Phasen. Also in Phase 1 und 2 habt ihr auf einmal, ja, beim 20.000-Volt-Netz, habt ihr dann eben 20.000 Volt gegen Erde. Das ist ein kleiner Exkurs.
+
+(0:22:44 - 0:23:01)
+Normalerweise habt ihr dann ja, ich glaube, nur 11, 12 kV gegen Erde. Wenn ihr einen einpoligen Fehler habt, dann steigen die Leiter-Erdspannungen der gesunden Phasen um das Wurzel-3-fache an. Ja, das muss man erstmal sacken lassen, aber das ist tatsächlich so.
+
+(0:23:02 - 0:23:35)
+Versorgungssicherheit hoch. Hier in so einem kleinen Netz sehen wir dann gleich, oh, jetzt bin ich ein bisschen zu schnell vorgegangen, aber ich glaube, wir haben nichts verpasst. Jetzt sehen wir hier in diesem kleinen Netz, dass die Spannungen, stellen wir jetzt mal da, sind erst gesund und jetzt geht die Spannung 3 auf 0 und ihr seht dann, dass die Spannungen 1 und 2 der gesunden Phasen, ja, das ist hier nicht ganz eindeutig dargestellt, aber die erhöhen sich um den Faktor Wurzel 3. Das heißt, aus einer Leiter-Erdspannung wird eine Leiter-Leiter-Spannung.
+
+(0:23:36 - 0:23:57)
+Im Niederspannungsnetz kennt man diese 230 Volt Leiter-Erdspannung. Die würden dann ansteigen auf 400 Volt, was ja normalerweise die Leiter-Leiter-Spannung ist. Und das ist dann natürlich, wie vorher schon beschrieben, für vorgeschädigte Netze häufig ein Problem und kann zu Folgefehlern führen.
+
+(0:24:00 - 0:24:30)
+Hier haben wir dann aber tatsächlich den großen Vorteil, dass die Ströme, die hier auftauchen, abgesehen von einer kleinen Entladung, die wir da vorne am Anfang sehen, also ein kleines Flackern im Netz, im Grunde genommen bei Null bleiben. Und hier sprechen wir jetzt, ich sag mal, von Theorie der Elektrotechnik, von einem kleinen, sehr, sehr übersichtlichen Netz. Da sind dann die Fehlerbehafteten oder die Fehlerströme tatsächlich annähernd oder sehr nah bei Null.
+
+(0:24:32 - 0:24:57)
+Das war jetzt, ich sag mal, die erste Theorie. Jetzt ist es aber so, dass wir in der Praxis nicht Null haben, sondern wir haben je nach Größe des Netzes Leiter-Erd-Kapazitäten. Und diese Leiter-Erd-Kapazitäten sorgen dann am Ende doch für einen Kurzschlussstrom in einem isolierten Netz.
+
+(0:24:58 - 0:25:09)
+Das haben wir jetzt mal hier dargestellt, also zwischen den beiden gesunden Phasen L1 und L2. Da haben wir einen kleinen Kondensator gezeichnet. Das ist die Leiter-Erd-Kapazität, so habe ich sie schon genannt.
+
+(0:25:09 - 0:25:20)
+Und mit der Länge der Leitung erhöht sich diese Kapazität. Und diese Kapazität entlädt sich eben, das ist dieses kurze Flackern im ersten Moment des Erdschlusses. Da gibt es so einen Umladevorgang.
+
+(0:25:20 - 0:25:43)
+Deshalb dieses Flackern führt dann aber auch tatsächlich dazu, dass eben ein dauerhafter Strom im Erdfehlerfall jetzt fließen würde. Und jetzt haben wir das hier nochmal als Sinus dargestellt. Da haben wir dieses Flackern, das ist der Entladevorgang, von dem ich gesprochen habe, oder ein Umladevorgang, der dann entsteht.
+
+(0:25:43 - 0:25:57)
+Das sind wirklich nur Millisekunden. In der Schutztechnik ein wichtiger Moment, aber hier erstmal nicht so entscheidend. Und dann eben ein kleiner Strom, der da dauerhaft fließt, der eben aus diesen Leiter-Erd-Kapazitäten entsteht.
+
+(0:26:04 - 0:26:19)
+Jetzt kann man diesen IC, diesen kapazitiven Erdstrom berechnen. Und zwar mit Wurzel 3 Omega CE mal die Nennspannung. Also das machen wir jetzt eine kleine Rechnung, da gibt es gleich auch eine Übung dazu.
+
+(0:26:20 - 0:26:39)
+Wollen wir einfach nur mal hier einstreuen, nicht um euch zu ärgern, sondern damit ihr so ein gewisses Gefühl bekommt, wie groß ein großes isoliertes Netz ist oder sein darf. Also Wurzel 3 ist klar, Omega ist 2 PF. Das ist Omega.
+
+(0:26:39 - 0:26:52)
+Dann haben wir das CE, das ist die Kapazität des Kabels. Das kann man aus dem Datenblatt ablesen. Und dann ist eben dieser kapazitive Strom auch immer stark von der Netzspannung abhängig.
+
+(0:26:52 - 0:27:18)
+Also je größer die Spannung, 10, 20, 30 kV, 110 kV, wird eben der kapazitive Erdstrom immer größer. Das sage ich jetzt schon mal, weil wenn wir später das in der Niederspannung betrachten und da bei unseren Wechselrichtern nur 800 V haben, ist natürlich dieser kapazitive Erdstrom deutlich kleiner als in der Mittelspannung. Und zusätzlich sind die Niederspannungsnetze ja in der Regel kleiner als die Mittelspannungsnetze.
+
+(0:27:19 - 0:27:39)
+Das heißt, dieser Effekt ist wichtig für die Mittelspannung, für die Niederspannung, aber in den meisten Fällen eher zu vernachlässigen. Jetzt haben wir hier nochmal einen Wert angegeben, und zwar nennen wir das Löschgrenze, 30 Ampere. Das heißt, in mancher Literatur findet ihr auch 40 Ampere.
+
+(0:27:40 - 0:27:49)
+Manche sagen auch 50 Ampere. Sicherlich ist das noch von vielen anderen Faktoren abhängig, wann eben dieser Erdfehler-Lichtbogen erlischt. Darum geht es hier genau.
+
+(0:27:50 - 0:28:04)
+Wir sagen jetzt mal, wir nehmen 30 Ampere an. Damit sind wir bestimmt auf der sicheren Seite. Vielleicht manche kennen das ja, es gibt auch diese Kabelumbauwandler, die sind dann meistens 60 zu 1 Ampere.
+
+(0:28:04 - 0:28:18)
+Die sind genau für die Erkennung dieses Erdfehlers zuständig. Da die 60 zu 1 Ampere haben, ist es ja schon klar, dass dieser Strom meistens kleiner ist. Wir definieren jetzt mal 30 Ampere als Löschgrenze, um da noch Puffer zu haben.
+
+(0:28:19 - 0:29:04)
+Jetzt kann man mit diesen 30 Ampere festlegen oder errechnen, wie groß mein isoliertes Netz sein darf. Ich kann das nicht unendlich groß bauen, weil dann habe ich irgendwann so große kapazitive Ströme, die weiterbrennen, dauerhaft brennen und große Schäden entstehen lassen, dass ich einfach irgendwo begrenzt bin in der Größe, in der Ausbreitung des Netzes. Hier noch der Hinweis, ich will es nicht verkomplizieren, aber wenn ihr jetzt an so einem Umspannwerk steht und zu eurem Solarpark rausgeht, dann habt ihr manchmal auch zwei oder drei Leitungen parallel, und die Netzgröße definiert sich aus allen drei Leitungen.
+
+(0:29:04 - 0:29:18)
+Auch die parallelen Leitungen würden diesen kapazitiven Erdstrom speisen. Jetzt haben wir ein Beispiel. Ich nehme es schon mal vorweg, guckt euch das genau an.
+
+(0:29:18 - 0:29:30)
+Ich soll das gleich selbst rechnen. Die Lösung kriegt ihr dann danach präsentiert. Das Beispiel ist ein 20 kV Netz, ein Kabelquerschnitt von 120 Quadratmetern.
+
+(0:29:31 - 0:29:51)
+Das hat der Kollege Thomas schon so freundlich und hat da den Kapazitätsbelag dieses Kabels pro Kilometer rausgesucht. Das ist 0,27 µF pro Kilometer. Jetzt ist die Frage, wie lang darf das Kabel maximal sein, damit die Löschgrenze von 30 Ampere nicht überschritten wird.
+
+(0:29:52 - 0:29:59)
+Die Formel, das hat der Thomas auch für euch gemacht, hat er euch schon mal umgestellt, so sieht die Formel aus.

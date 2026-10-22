@@ -1,0 +1,26 @@
+(0:00:00 - 0:00:14)
+Hallo und herzlich willkommen zum heutigen Brain Day. Nach einer relativ kurzen Sommerpause, zumindest meinem Gefühl nach, sind wir heute endlich wieder da. Ich freue mich sehr, dass es sozusagen von vorne wieder losgeht.
+
+(0:00:15 - 0:00:43)
+Wir starten heute mit dem ersten Thema bei uns in der Reihe für die elektrotechnische Planung von Photovoltaikanlagen mit dem String Design. Das ist aus unserer Sicht chronologisch gesehen so ein bisschen vorne in der Planung und technisch gesehen könnte man es aus Stromflussrichtung auch so sehen. Ich freue mich, dass so viele wieder dabei sind und starte auch gleich los, damit wir wie gewohnt hoffentlich diese zwei Stunden gut und sinnvoll füllen können.
+
+(0:00:44 - 0:00:57)
+Im Hintergrund sieht man jetzt schon, was ich vorhabe in den nächsten zwei Stunden. Ich zeige es nochmal kurz im Detail. Auch das zieht sich chronologisch durch unsere Vortragsreihe durch.
+
+(0:00:57 - 0:01:21)
+Wir starten mal kurz mit der Frage, warum? Warum String Design? Warum brauchen wir das? Warum reden wir heute da zwei Stunden lang drüber? Dann brauchen wir ein paar elektrische Kenngrößen, um das Thema greifen zu können und überhaupt bearbeiten zu können. Die stellen wir dann kurz vor. Springen in externe Einflussgrößen erkläre ich jetzt natürlich nicht, machen wir dann im Kapitel, aber das String Design ist also abhängig auch von externen Einflussgrößen.
+
+(0:01:22 - 0:01:27)
+Die zeigen wir dann kurz. Dann springen wir mal in Datenblätter rein. Das wird Modul und Wechselrichter sein.
+
+(0:01:28 - 0:01:46)
+Die zwei Komponenten brauchen wir nämlich, um dieses String Design durchführen zu können. Da gucken wir rein, wo kriegen wir die Kenngrößen eigentlich her im realen Projektgeschäft. Weil wir dann alles zusammen gesammelt haben, führen wir das mal in einem schönen String Design Beispiel durch.
+
+(0:01:47 - 0:02:02)
+Und das nehme ich gleich vorweg, da spätestens braucht auch jeder einen Taschenrechner, um selbst auch einmal eine Aufgabe rechnen zu können. Wir fragen dann auch wie gewohnt parallel die Ergebnisse ab. Also bereitet euch gern schon mal mit einem Taschenrechner Zettelstift vor, gehört ja vielleicht eh immer dazu.
+
+(0:02:03 - 0:02:21)
+Danach ist die Elektrotechnik so ein bisschen durch und wir schauen uns allgemeine Regeln an. Allgemeine Regeln, werden wir dann sehen, hat mit der Elektrotechnik nur noch indirekt zu tun, ist aber für unser Projektgeschäft enorm wichtig. Gerade in Abstimmung mit Bauleitern, Abwicklungsleitern, Kundenprojektleitern, da möchte man die auf der Pfanne haben.
+
+(0:02:22 - 0:02:31)
+Und ganz am Schluss gibt es dann noch die Frage, welche Wechselrichter ich stelle. Das ist für uns ein ganz wichtiger Punkt in so einem Ablauf eines Projektes und deswegen haben wir da ein extra Kapitel reingenommen.

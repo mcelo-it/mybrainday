@@ -1,0 +1,188 @@
+(0:00:00 - 0:00:37)
+Weiter geht's. Als nächstes gucken wir mal in das Kapitel Steuerung. Was meinen wir überhaupt mit Steuerung? Wir werden es gleich sehen. 
+
+Ich glaube, am besten erklärt es sich meistens, wenn man es einfach drauf los erklärt und an dem praktischen Beispiel zeigt. Wir haben mehrere Funktionen, Modi vielleicht besser, mehrere Modi, die wir bei unserem Tracker-System anwenden können. Das ist herstellerabhängig, bestimmt auch im Detail unterschiedlich, aber wir haben das jetzt mal versucht, so übergeordnet sinnhaft zusammenzufassen.
+
+(0:00:37 - 0:01:01)
+Und da wäre jetzt also dieser erste Steuerungsmodus wäre der Normalbetrieb. Also wir können, zeigen wir jetzt auch gleich mal, unsere Tracker, haben wir hier zwei rein mitgebracht und die NCU haben wir auch dargestellt, weil die jetzt gleich wichtig wird. Da können wir jetzt erst mal zeigen, was im Normalbetrieb eigentlich passieren würde.
+
+(0:01:01 - 0:01:15)
+Zack, nehmen wir unsere NCU und überlegen jetzt erst mal, was die da eigentlich machen sollen. Die Antwort steht direkt über mir. Sie soll die optimale Tracker-Position finden, umsetzen.
+
+(0:01:16 - 0:01:59)
+Und das bedeutet der Sonne nachführen. So war ja am Anfang auch schon mal kurz beschrieben, glaube ich, überhaupt der Grundgedanke bei Tracker-Systemen, dass man also jetzt in Ost-West-Richtung sinnhafter Weise der Sonne nachlaufen kann. Gleichzeitig wäre vielleicht so eine Art Zusatzfunktion noch oder Aufgabe im Normalbetrieb soll der Tracker aufpassen, dass er sich nicht gegenseitig verschattet. 
+
+Das kann man Parametrieren programmieren. Da kann man sozusagen eine Optimierung damit betreiben. Und am Ende, wenn man das macht, ist natürlich das Ergebnis, dass man einen maximalen Ertrag erst mal aus diesem Normalbetrieb heraus erzeugt.
+
+(0:02:00 - 0:02:47)
+So, wie geht das? Also jetzt müssen wir erst mal, dass wir die optimale Tracker-Position finden müssen. Aber wie macht sie das, die NCU sozusagen? Wir haben hier mal die Sonne dargestellt. Das wäre jetzt ja irgendwie mittags. 
+
+Und dann ist jetzt, glaube ich, ziemlich klar, dass diese Position, so eine horizontale jetzt gerade die optimale Tracker-Position wäre. Das ist aber ja nicht immer so, sondern das ist ja jetzt nur für einen kurzen Moment des Tages, sondern die Sonnenbahn ist natürlich der Punkt, auf den sich der Tracker konzentrieren muss. Und jetzt ist, finde ich, eine wichtige Erkenntnis bei diesem ganzen System, dass die NCU das berechnet. 
+
+Sie misst es nicht. Sie guckt nicht sozusagen auf den Himmel. Wo wäre da also eine Sonne? Sondern sie berechnet das aus gewissen Daten.
+
+(0:02:47 - 0:03:13)
+Das sind die Breiten- und Längengrade. Man muss der NCU also sehr klar sagen, wo sie sich befindet, sonst rechnet sie falsch und sie braucht das Datum und die Uhrzeit und das möglichst genau, weil sie dann eben aus diesen astronomischen Angaben für jeden Ort, für jeden Moment auf der ganzen Welt ausrechnen kann, welcher Winkel denn der optimale ist. Oder in anderen Worten, wo genau dann zu diesem Zeitpunkt auf der Welt die Sonne scheint.
+
+(0:03:15 - 0:04:08)
+Warum macht man das so? Dann vielleicht, Entschuldigung, eins vorne ab für noch. Dann richtet der Master die Module dementsprechend aus, indem er die Motoren ansteuert. Aber jetzt, also warum macht er das? Er macht das so über die Rechnerei und nicht über irgendeinen Einstrahlungssensor, weil dann die optimierte Funktion auch bei Wolken oder auch bei Nebel oder wenn es besonders staubig ist auf dem Sensor immer noch gegeben ist. 
+
+Das ist natürlich ein Riesenvorteil und deswegen kenne ich es auch nur so und wenn man sagt, der Vorteil ist, dass das also auch bei schlechtem Wetter funktioniert, dann kann man sich jetzt noch sagen, dann gibt es auch wie oft im Leben einen Nachteil. Der Nachteil wäre, die Zeitfehler würden zu einer Positionsabweichung führen. Das erst mal grundsätzlich so, auch Fehler bei der Breiten- oder Längenangabe würden zu Fehlern führen.
+
+(0:04:08 - 0:05:25)
+Aber jetzt haben wir in unserem Beispiel mal gesagt, wenn man das jetzt um eine Minute die Uhr falsch stellt, dann hätte der so ungefähr 0,25 Grad sich falsch ausjustiert. Na ja, und jetzt kann man das ja hochrechnen, wenn der jetzt zehn Minuten hinterherläuft oder eben sogar eine Stunde, dann wird der abweichende Winkel zum Optimum immer größer. Und grün gehighlighted würde das natürlich in Ertragsverlusten sich wiedergeben. 
+
+Also sind wir vielleicht bei einem ganz guten Bogen zum späteren Kapitel in Betriebnahme, dass solche Prüfungen ganz wichtig sind. Also nicht einfach einschalten und nach Hause gehen, sondern nochmal irgendwie nachprüfen, dass die Positionsabweichung möglichst gering ist. Ja, wie macht das noch? Also gut, haben wir glaube ich schon mehrfach gesagt, die Drehachse des Haupttreckers wäre jetzt bei uns Nord-Süd, damit der dann in Ost-West wiederum rotiert. 
+
+Das kann man ja auch nochmal so mitnehmen. Diese ganzen Punkte mal so visualisiert dargestellt mit zwei Reihen. In Wirklichkeit sind es vielleicht 10, 20 oder 30, je nach System. 
+
+Aber da gibt es jetzt die NCU, die ihr da seht. Die hat jetzt also etwas ausgerechnet. Ich zeige es mal oben, die Uhr, es ist irgendwie 12.25 Uhr.
+
+(0:05:26 - 0:06:52)
+Alles klar, so ist, sind wir jetzt also im richtigen Bereich. Jetzt läuft aber die Zeit weiter. Dementsprechend verändert sich auch der Sonnenwinkel, jetzt in meinem Beispiel 10 Minuten später. 
+
+Und die NCU, die rechnet rum und die weiß das. Und dann schickt sie eine Meldung an die TCU, hatten wir beim Aufbau beschrieben. Jeder Motor hat da jetzt seine TCU und das führt dann dazu, dass die Motoren nachlaufen. 
+
+Und dann gibt es sinnvollerweise eine geschlossene Regelkreiskette. Die zeigen wir hier auch nochmal ganz kurz. Als Rückmeldung kommt jetzt von dem Neigungssensor, den wir ja vorbildlich verbaut und kalibriert haben und bei dem wir auch die Funktionen geprüft haben, die Rückmeldung, welche Neigung jetzt aktuell vorliegt. 
+
+Und dann kann die NCU sagen, super, das war richtig so, wie ich die Tischreihen nachgeführt habe. Gut, das war der Normalbetrieb. Jetzt sagen wir aber, wir brauchen mal eine sogenannte Stow-Position. 
+
+Das Wort kann man sich merken und jetzt auch noch gleich zuhören, was damit gemeint ist. Die sogenannte Stow-Position. Was ist das erstmal? Also grundsätzlich geht es darum, dass man diese Tracker immer in eine Sicherheitsstellung bringen können muss. 
+
+Das ist erstmal grundsätzlich so und das würde sich dann Stow-Position nennen. Diese Sicherheitsstellung, die kann unterschiedlich sein. Das kann ich am Beispiel vielleicht erklären.
+
+(0:06:52 - 0:07:59)
+Wenn also die Windangriffsfläche möglichst reduziert werden soll, das wäre dann so eine Sicherheitsstellung, weil zum Beispiel Sturm auftritt, dann kann die abhängig von der Windrichtung sein. Also die Stow-Position ist nicht immer klar definiert, sondern sie kann abhängig sein von anderen Parametern. Das führt dann dazu, dass es möglichst wenig mechanische Belastung gibt und grundsätzlich ist es nicht nur der Wind, wie ich ihn gerade genannt hatte, sondern da geht es auch dem Schutz vor Schnee zum Beispiel oder Flutlasten, haben wir gelernt, ist etwas sehr Spezielles. 
+
+Aber wenn man solche gewissen Wassersensoren anbringt, dann kann man das auch machen, dass sich die Tracker dann dementsprechend in eine etwas höhere Lage begeben, die Module, und dann vor Hochwasser schützen. Was ist das Ziel? Wir wollen die Module schützen und das Getriebe und wie machen wir das, ist jetzt wiederum die nächste Frage, die wir da links highlighten. Also gut, erstmal Stow-Position erklärt, was man damit macht.
+
+(0:08:00 - 0:08:37)
+Nächste Frage, wie geht es? Wie komme ich in die Sicherheitsstellung eines für den Tracker? Da sind wir jetzt erstmal in dem Modus, dass das Ganze automatisch passiert. Wir kommen später nochmal zu einer manuellen Führung, die ist jetzt aber explizit nicht gemeint, sondern bei dieser Stow-Position geht es um eine automatische Auslösung und in unserem Fall würde das durch die NCU passieren. Die NCU wiederum haben wir bei den einzelnen Komponenten auch noch einmal detailliert gelernt, dass dieser Prozessor kontinuierlich von verschiedenen Sensoren wichtige Informationen erhält, um daraus dann ganz spezifische Umweltdaten für das System abzuleiten.
+
+(0:08:38 - 0:09:34)
+Zeigen wir mal den wichtigsten als Windrichtungssensor und das in Kombination mit dem Windgeschwindigkeitssensor führt dazu, dass er weiß, aus welcher Richtung der Wind kommt und auch wie stark er ist. Und wenn dieser nun für eine gewisse Windrichtung und eine gewisse Position des Trackers Grenzwerte überschreitet, dann kann dieser Tracker in die Sicherheitsstellung fahren. Zusätzlich, haben wir das mal gemeint, gibt es projektabhängige Sensor-Integrationen, die sind für mich mehr so Level B, also Umgebungstemperatur, aber auch eben Hochwasser- oder Schneesensor. 
+
+Das sind zusätzliche Datenpunkte, die der Master da bekommen kann. Und bei Hochwasser ist es, denke ich, klar, sobald er feststellt, dass das Wasser eine gewisse Höhe erreicht, kann er dann also die Module in eine noch höhere Ebene bringen. Das wird im Controller ausgewertet und dann mit Grenzwerten verglichen, die dort eingesetzt werden.
+
+(0:09:34 - 0:09:56)
+Und dann könnte er eben in die Sicherheitsposition fahren, angetrieben durch die NCU, zeige ich auch gleich noch mal. Ich finde auch hier wieder wichtig zu betonen, wie wichtig dann so eine Inbetriebnahme ist. Also man kann da unglaublich viele Wähler machen bei der Parametrierung, seien es irgendwie falsch gesetzte Grenzwerte oder sei es eine falsche Parametrierung oder Kalibrierung der Sensoren.
+
+(0:09:59 - 0:10:34)
+In unserem Beispiel hat man es dann visualisiert. Vielleicht noch mal besser fürs Abspeichern im Kopf sieht man es jetzt noch mal das Ganze dargestellt. Hier kommt der Wind, der pustet jetzt meinetwegen aus östlicher Richtung. 
+
+Dann stellt die NCU fest, dass ihm jetzt zu viel geworden ist, schickt eine Info, geht bitte in die Stop-Position, sagt er allen Trackern. Die machen das hier auch vorbildlich und der Neigungssensor schickt sozusagen wieder zurück, dass das auch passiert ist. Und gleichzeitig haben wir hier noch einmal gezeigt, dass der Wind jetzt da weniger Angriffsfläche geboten bekommt.
+
+(0:10:36 - 0:10:58)
+Das wäre also erst einmal die Stop-Position, was sie ist und wie man sie ausführt. Daumen hoch von meinem die NCU, dass wir so schön die Windlast jetzt da aus den Segeln genommen haben. Unser dritter Modus unserer Steuerung nennt sich bei uns Manuellbetrieb.
+
+(0:10:58 - 0:11:06)
+Da sage ich auch kurz was dazu. Wir würden erst mal wieder erklären, was das eigentlich ist. Und jetzt zeigen wir das hier auch so.
+
+(0:11:06 - 0:11:47)
+In unserem Projektbeispiel wäre das so ein Control Panel. Wir haben auch schon kurz erklärt, was das so ist. Aber jetzt gehen wir noch mal ins Detail mit unseren vielen Knöpfen, die wir da zeigen. 
+
+Was kann jetzt also so ein Control Panel? Ich sage jetzt erst einmal, grundsätzlich ist wichtig, dass das jetzt eben nicht mehr automatisiert über die NCU läuft, sondern jetzt hat so ein Bedienpersonal vor Ort, zum Beispiel die NCU, die Möglichkeit, sozusagen in einer höheren Kommandoebene Befehle vorzugeben. Und das macht er über so einen physischen Knopf, auf den er dann da drauf drückt, auf dem Control Panel, wie wir es genannt haben. Das ist wichtig, weil der Landwirt jetzt die Tracker-Position auch manuell anpassen können muss.
+
+(0:11:47 - 0:12:00)
+Da haben wir auch wieder ein schönes Beispiel gleich mitgebracht. Und dafür kriegt er verschiedene Tasten, damit er verschiedene Positionen manuell anfordern kann. Also, wie gesagt, mit einer höheren Befehlsebene sozusagen als der Automatikbetrieb.
+
+(0:12:02 - 0:12:52)
+Und warum braucht er das? Er braucht das, weil er ja mit seinem Traktor die Felder bestellen will und vielleicht auch für Wartungsarbeiten, dann ist es nicht der Landwirt, sondern dann sind es die Elektriker, die kommen. Aber das sind Aufgaben, die sozusagen außerhalb von dem Automatikbetrieb laufen und dafür dann ein manueller Betrieb notwendig wird. Wieder die Frage, wie kann man das jetzt umsetzen? Also die Tasten für die verschiedenen Positionen nehmen wir mal mit. 
+
+Und jetzt haben wir vier Reihen draus gemacht, weil man das dann besser erklären kann, was da jetzt für manuell Betriebsmodi wiederum möglich sind. Also in diesem manuellen Betrieb sagen wir jetzt vier Beispiele, vier Knöpfe, auf die man drücken kann. Und wenn man jetzt den ersten Knopf gedrückt hat, den Normalbetrieb, dann sind wir wieder da, was wir eingangs im ersten Teilkapitel hier schon lange erklärt haben.
+
+(0:12:52 - 0:13:10)
+Dann sind wir im Normalbetrieb. Also wenn man da drauf gedrückt hat, dann passiert genau das, was wir vorhin gesagt haben. Automatischer Modus und die NCU kann selber entscheiden, in welche Richtung er fahren will. 
+
+Ja, so sieht das aus. Er führt schön der Sonne hinterher, hin und her. Haben wir jetzt schon ganz oft gesehen.
+
+(0:13:11 - 0:13:25)
+Interessanter ist die zweite Geschichte. Vielleicht will er mal in die horizontale Position fahren. Das zeigen wir jetzt hier auch gleich mal. 
+
+Zack, zweiter Knopf. Und wenn er den gedrückt hat, dann sieht das eher so aus. Unsere Module sind in horizontaler Position.
+
+(0:13:25 - 0:13:47)
+Vielleicht ist das sinnvoll, weil der Landwirt hier mit Vieh arbeitet. Vielleicht ist es auch für Wartungsarbeiten sinnvoll. Wie auch immer das Bedienpersonal hat jetzt die Möglichkeit, hier manuell das ganze System in horizontale Position zu bringen und dadurch den Automatikbetrieb zu entkommen.
+
+(0:13:49 - 0:14:15)
+Der dritte Modus, den wir hier zeigen wollen, nennt sich bei uns Agri-PV 1. Warum 1? Und später kommt die 2, wird sich gleich zeigen. Aber jetzt Achtung, jetzt gehen wir mal in den Agri-PV-Modus 1. So sieht er aus. Dritter Knopf. 
+
+Jetzt hat er auf den gedrückt. Und jetzt gehen die sozusagen abwechselnd die Tischreihen in unterschiedliche Winkel. Wenn man so will, gegengesetzt aufgestellt in den maximalen Winkel.
+
+(0:14:15 - 0:14:45)
+Jetzt in unserem Fall sind das 60 oder 70 Grad oder so. Aber ganz wichtig, ich glaube, das sieht man ja auch gut, entgegengesetzt. Warum machen die das? Warum macht er das entgegengesetzt? Weil, wenn der Landwirt, da kommt er mit seinem Traktor angefahren, wenn der Traktor jetzt landwirtschaftlich darin arbeiten will, ist dieser Modus sinnhaft, weil es für jede zweite Reihe, ich zeige es gleich, die maximalen Abstände und dadurch den größten Freiraum für seinen landwirtschaftlichen Betrieb bringt.
+
+(0:14:46 - 0:14:59)
+Vielleicht mal so typische Größen da noch mit reingezeichnet. Ein Traktor ist ja auch groß. Nur, dass man so ein Gefühl dafür kriegt, das kann projektspezifisch abweichen, aber vielleicht zwei bis drei oder vier Meter Höhe.
+
+(0:14:59 - 0:15:14)
+Die Abstände können sehr groß sein, 15 Meter, das ist deutlich mehr als bei so einer festangestellten Geschichte, aber ist abhängig von dem landwirtschaftlichen Betrieb. Das hängt einfach davon ab, was da überhaupt gemacht wird. Wir wollten das nur mal für so ein Gefühl reinbringen.
+
+(0:15:15 - 0:15:31)
+Und genau 70, 60 Grad, das sind so übliche Anstellwinkel. Es geht auch mehr, aber wir wollten mal so ein typisches Beispiel zeigen. Und wenn man jetzt so ein Gefühl hat, wie so Tischreihen da aufgebaut werden können und wie groß so ein Traktor sein kann, dann wird jetzt Folgendes vielleicht ein bisschen deutlicher.
+
+(0:15:31 - 0:15:52)
+Wir wechseln die Perspektive, wir gucken von oben drauf. Und wenn jetzt also der Landwirt da auf den dritten Knopf gedrückt hat, dann weiß er, dass er jetzt hier in dieser ersten, in der dritten und in der fünften Reihe seinen landwirtschaftlichen Arbeiten nachgehen kann. Also da durchfahren und dann, was auch immer er da so macht.
+
+(0:15:52 - 0:16:08)
+Pflanzen, düngen, ernten, wie auch immer. Er hat in der ersten, in der dritten und in der fünften Reihe also immer ungerade jetzt die maximalen Arbeitshöhen und Breiten vorgegeben bekommen. Und deswegen nutzt er die auch.
+
+(0:16:09 - 0:16:22)
+Dann fragt man sich, was macht er jetzt mit der zweiten, vierten und sechsten Reihe, also mit den Geraden? Na ja, genau. Und genau dafür gibt es dann den Agri-PV2-Modus. Also er drückt jetzt, nachdem er am anderen Ende angekommen ist.
+
+(0:16:22 - 0:16:33)
+Und Achtung, das wäre ja hinter mir an der Schulter. Da steht er jetzt mit dem Traktor. Da hat er jetzt hoffentlich auch so ein Bedienpanel installiert bekommen von dem aufmerksamen Elektroplaner.
+
+(0:16:34 - 0:16:45)
+Also da kann er jetzt kurz aussteigen aus seinem Traktor. Dann drückt er quasi dann auf den Knopf vier. Na ja, und was machen jetzt die Tracker? Genau, die fahren jetzt in entgegengesetzte Winkel.
+
+(0:16:45 - 0:17:18)
+Und dann hat man genau für den Rückweg sozusagen seinen optimalen Arbeitsbereich vorbereitet. So würde man das also realisiert bekommen, dass man die immer besten Arbeitsweite für den Landwirt mit seinen großen Maschinen vorbereiten kann und er sinnhaft eine große Runde dabei dreht. Das war es mit den verschiedenen manuell Betrieben.
+
+(0:17:18 - 0:17:35)
+Ich hatte es am Anfang schon gesagt, ich hoffe, das wird bei so einem allgemeinen Thema auch klar, dass das Hersteller oder auch projektspezifisch anders gemacht werden kann. Aber ich denke, das sind dann Nuancen oder Teilgruppen. Wir haben jetzt mal die vier wichtigsten Modi grundsätzlich hier so dargestellt.
+
+(0:17:37 - 0:18:11)
+Als letztes will ich in dem Kapitel Steuerung, geht es ja um Kommunikation, versuchen, das Thema Kommunikation auch noch mit reinzukriegen. Also Achtung, Punkt eins, zwei und drei, das waren jetzt so Modi, Betriebsformen sozusagen. Und jetzt wollte man noch mal kurz darstellen, dass man das als Elektroplaner natürlich auch mit bedenken muss, wie überhaupt die Kommunikation in unserem Fall hier zwischen den NCU und diesen TCU-Boxen, wie ich die ganze Zeit hier mit diesen grünen und blauen Briefen dargestellt habe, überhaupt wirklich realisieren kann.
+
+(0:18:12 - 0:18:32)
+Und da gibt es bei uns, glaube ich, in unserer ganzen Brainday-Reihe mindestens vier oder fünf Module, die sich nur mit der Kommunikation an sich beschäftigen. Deswegen machen wir das jetzt natürlich auf gar keinen Fall. Was wir hier noch machen, ist, dass es grundsätzlich mehrere Möglichkeiten gibt, diese Kommunikationsprotokolle zum Beispiel auszuführen.
+
+(0:18:33 - 0:18:51)
+Also zum Beispiel mit RS-485. Wie das genau funktioniert und was man damit beachten muss, schaut ihr euch in einem anderen Brainday an. Aber hier will ich erst mal darauf hinaus, dass ein Vorteil von so einem System wäre, dass es wenig störungsanfällig ist.
+
+(0:18:51 - 0:19:09)
+Weniger macht erst Sinn, wenn jetzt die anderen Beispiele noch kommen. Aber grundsätzlich ist das ein erprobtes System, das läuft über Hardwire, über Drähte, über Datenkabel und ist dadurch sehr wenig störungsanfällig. Es hat auch relativ geringe Kosten.
+
+(0:19:10 - 0:19:25)
+Kommt ja immer darauf an, ob man es vergleicht, aber wir zeigen es gleich. Zu den anderen Kommunikationsvarianten hat es geringe Mehrkosten. Man braucht halt ein Datenkabel, das ihr jetzt auch noch vom Master bis zu allen Slaveboxen ziehen müsst.
+
+(0:19:27 - 0:19:44)
+Wer es ein bisschen moderner machen möchte und vielleicht aber auch ein bisschen komplizierter, aber auf jeden Fall zukunftsorientiert, der nimmt Powerline Communication. Das ist ein System, das wir hier auch schon oft benutzt haben. Ich kenne auch viele Hersteller von Trackern, die das standardmäßig einsetzen.
+
+(0:19:44 - 0:20:00)
+Das funktioniert dann so, dass der Befehl, in die Store-Position zu gehen, zum Beispiel über die Leistungskabel transportiert wird. Großer Vorteil ist, man braucht kein zusätzliches Datenkabel. Das wäre also schon mal besser als bei RS485.
+
+(0:20:00 - 0:20:08)
+Und wir halten das für die Zukunftstechnologie. Wir wollen ja hier Vorteile aufzählen. Insofern wäre das für uns schon klar.
+
+(0:20:08 - 0:20:16)
+Das wäre für mich gesetzt. Wenn das geht, würde ich das auch umsetzen. Was wir auch kennen ist Wireless, nennt sich dann ZigBee.
+
+(0:20:16 - 0:20:33)
+Das hat sehr wenig Installationsaufwand, ist sehr einfach. Und da sagen wir aber nur Achtung, kritische Infrastruktur ist auch ein anderes Thema, ist auch ein anderer Brainday. Aber für mich ist das so als IT-Laie.
+
+(0:20:34 - 0:20:59)
+Ich könnte mir vorstellen, dass ich mich noch einfacher in so ein Wireless-System einhacken kann und dann die Tracker in die Position bringe, in die ich das jetzt gerade für lustig halte, als in eine Powerline-Communication oder in eine RS485. Weil für die ersten zwei müsste ich ja zumindest mal auf das Betriebsgelände kommen, um mich dann wirklich physisch da einbringen zu können. Also das sind so die drei großen Typen.
+
+(0:21:00 - 0:21:21)
+Ich wollte unbedingt zeigen, dass wir hier zukunftsorientiert denken. Also Powerline, wenn das geht, ist das aus unserer Sicht die Kommunikationsart der Wahl. Wenn man nun das Protokoll definiert hat, dann würde ich auch unbedingt noch nicht vergessen wollen, eine Netzwerktopologie aufzubauen.
+
+(0:21:21 - 0:21:49)
+Auch hierfür gibt es im Detail Schulungsblöcke, wo wir sagen, wie man sowas generell machen sollte. Aber an der Stelle nur der Hinweis, denkt dran, ihr habt da eure Datenboxen für eure Wechselrichter, für eure Einstrahlungssensoren, für irgendwelche Trafotemperaturen aufgebaut, wie man das immer so macht in den Projekten. Und jetzt muss man aber auch diese zusätzlichen Master- und Slave-Boxen von den Trackern ins Netzwerk integrieren.
+
+(0:21:50 - 0:22:08)
+Das darf man erstmal grundsätzlich nicht vergessen. Und neben dem Hardwire, das man dafür braucht, braucht man vielleicht noch ein eigenes zusätzliches LWL-Netzwerk. Man kann es auch integrieren in das Netzwerk des Monitoringsystems.
+
+(0:22:08 - 0:22:32)
+Freie Planung, finde ich, für die Planer, freie Wahl für die Planer. Aber unabhängig davon muss man es auch in eine gesamte IP-Adressliste integrieren und somit eine Gesamtübersicht aufbauen können für die Kommunikation sowohl der PV-Anlage, so wie man sie kennt, und der zusätzlichen Tracker.

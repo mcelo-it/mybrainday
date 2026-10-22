@@ -1,0 +1,239 @@
+(0:00:00 - 0:00:10)
+Jetzt die ersten beiden Punkte durch. Warum haben wir durch? Das Schutzkonzept haben wir durch und gehen jetzt weiter zu den Komponenten. Also los, die Komponenten.
+
+(0:00:10 - 0:00:31)
+Woraus besteht so ein Schutzkonzept oder so ein Schutzsystem? Das ist erst mal die Frage. Hier seht ihr die Übersicht wie vorhin. Und wir würden auch hier wieder von oben mal durchgehen und gucken uns jetzt mal an, was ist denn ein Mittelspannungsschutz? Wie ist der aufgebaut? Also hier seht ihr schon den ersten Teil, die ich sag mal die Hälfte von so einer Mittelspannungsschaltanlage oder die ersten zwei Drittel.
+
+(0:00:31 - 0:00:44)
+Hier kommt das letzte Drittel der Mittelspannungsschaltanlage. Und was wir hier noch bräuchten in dieser Anlage wäre eben der Leistungsschalter. Genau, also eine Schaltanlage mit Leistungsschalter.
+
+(0:00:44 - 0:00:53)
+Erkennt ihr immer an diesem kleinen Kreuz, was da oben über dem Schalter sitzt. Das sind Leistungsschalter. Alles andere wäre für einen OMZ-Schutz nicht geeignet.
+
+(0:00:53 - 0:01:02)
+Also keine Trenner, keinen Lasttrenner. Wir brauchen ja einen Leistungsschalter, der auch wirklich Kurzschlüsse ausschalten kann. So sieht so ein Leistungsschalter aus.
+
+(0:01:02 - 0:01:24)
+Hier mal von Siemens in der Mittelspannung, also von 10, 20 bis 30 kV. Und damit dieser Leistungsschalter, der sage ich jetzt mal von Haus aus erst mal gar nicht viel kann, außer Kurzschlüsse schalten, damit er das auch versteht und weiß, was er tun soll, braucht dieser Leistungsschalter ein Schutzrelais. Also der Schutzrelais ist jetzt erst mal in dem Plan links aufgetaucht.
+
+(0:01:24 - 0:01:36)
+Hier als Beispiel wieder so ein MCA-4-Relais. Das sieht dann eben so aus. In unseren kompakten Übergabestationen, Trafo-Stationen ist das meistens irgendwo abgesetzt in einem separaten Schrank.
+
+(0:01:36 - 0:01:54)
+In begehbaren Stationen kann so ein Relais auch mal oben auf der Schaltanlage drauf sitzen, wo auch immer es sitzt. Das Relais hat die Intelligenz, das entscheidet, wann geschaltet wird, wie geschaltet wird oder ob auch wieder zugeschaltet werden kann. Aber auch das Relais kann alleine erst mal gar nicht so viel tun.
+
+(0:01:54 - 0:02:08)
+Das Relais braucht Stromwandler, um überhaupt zu wissen, wie viel Strom jetzt am Ende fließt. Und auch hier stellen wir erst links im Plan wieder dar. Die Stromwandler sind dann, ich sag mal, unterhalb des Leistungsschalters montiert oder installiert.
+
+(0:02:10 - 0:02:22)
+Erst mal vorausgeschickt, je näher am Leistungsschalter, desto besser, würde ich jetzt erst mal sagen. Und die Stromwandler sehen, ich sag mal, so kann der aussehen. Das ist ein klassischer Stromwandler, wo man so ein Kabel durchsteckt.
+
+(0:02:22 - 0:02:35)
+Wir bräuchten drei davon, weil wir meistens drei Phasen haben. Und dieser Stromwandler sagt dem Schutzrelais, welcher Strom fließt mit welchem. Naja, wir müssen dem Schutzrelais noch sagen, welches Übersetzungsverhältnis es gibt.
+
+(0:02:35 - 0:02:45)
+Aber da kommen wir auch später noch mal kurz dazu. Jetzt gibt es dann zwischen diesem Schutzrelais und dem Stromwandler noch Prüfklemmen. Da weisen wir auch immer noch mal gerne drauf hin.
+
+(0:02:45 - 0:02:51)
+Die sind, die werden benötigt, die muss man haben. Sonst kann man so Relais nur ganz schwer prüfen. Die sehen dann so aus.
+
+(0:02:51 - 0:03:09)
+Hier haben wir jetzt zwei Prüfklemmen. Wenn ihr euch jetzt vorstellt, ihr braucht drei Stromwandler für drei Phasenströme, dann brauchen wir auch doppelt so viele Prüfklemmen, die dann eben alle mit dem einen Relais verbunden werden. Das Ganze ist, ich glaube, das kam jetzt auch schon so rüber, ein konfigurierbares System.
+
+(0:03:09 - 0:03:27)
+Das heißt dem Schutzrelais an sich ist es jetzt erst mal egal, ob das in der 110 kV installiert wird oder in der 10 kV. Den Stromwandlern ist das jetzt auch erst mal egal, was für ein Schutzrelais da dran hängt und ob da 100 Ampere oder 1000 Ampere fließen. Da müsst ihr eben den passenden Stromwandler auswählen.
+
+(0:03:27 - 0:03:38)
+Ihr könnt da nicht jeden nehmen. Und auch die Schaltanlage ist erst mal unabhängig von dem Schutzrelais. Das heißt, ihr müsst oder euer Schaltanlagenbauer muss dieses System konfigurieren.
+
+(0:03:38 - 0:03:53)
+Das kauft man in der Regel nicht von der Stange, außer vielleicht bei Schneider. Da gibt es dann so Lösungen, wie wir es eben gesehen haben, dass das Schutzrelais schon integriert ist. Aber vom Grundsatz her ist das, was wir hier sehen, so ein bisschen dieses freie Konfigurieren.
+
+(0:03:53 - 0:04:13)
+Das ist die Aufgabe von Stationsbauern. So, jetzt fassen wir euch das Ganze mal nochmal als Tabelle zusammen. Das soll hinterher, wenn wir alle Komponenten durch haben, eine schöne Übersicht für euch geben, dass ihr vielleicht auch immer so ein bisschen wisst, in welches Regal müsst ihr greifen, wenn ihr ein Relais tauscht, kauft.
+
+(0:04:13 - 0:04:25)
+Und was können diese Relais, was sind die Vor- und Nachteile? Das kommt jetzt so ein bisschen. Und wo befinden sie sich? Also wir starten mit dem Ort. Und so ein Mittelspannungsschutz in der Übergabestation, das ist uns ganz wichtig.
+
+(0:04:25 - 0:04:37)
+Also hier sind wir nicht in den Trafostationen, sondern noch in der Übergabestation. Das ist vom Typ her ein Multifunktionsrelais, so nennen wir das. Also Multifunktion kommt auch später noch.
+
+(0:04:37 - 0:04:58)
+Und man hat es ja auch vielleicht in den Bildern schon gesehen, sind sehr große Relais mit vielen verschiedenen Funktionen. Also ich würde das jetzt nicht UMZ-Relais nennen, sondern das ist halt hier wirklich ein Multifunktionsrelais, was noch viel, viel mehr kann. So, der Schutzbereich von diesem Relais würden wir jetzt erst mal grob beschreiben, ist das Mittelspannungskabel.
+
+(0:04:59 - 0:05:09)
+Das ist das, was wir hier schützen. Im Wesentlichen bestimmt noch weitere kleinere Komponenten oder vielleicht die Sammelschienen der Trafostation. Ja, aber im Wesentlichen ist es das Mittelspannungskabel.
+
+(0:05:11 - 0:05:23)
+Und als nächstes, als Beispiel zeigen wir euch jetzt mal, was für Relais das so gibt. In dieser Kategorie würde ich mal sagen, also es gibt ganz viele Hersteller. Wie immer möchte ich das hier ganz, ganz groß schreiben.
+
+(0:05:23 - 0:05:30)
+Ihr müsst nicht Siemens oder SEG kaufen. Es gibt da noch ganz viele andere und es gibt auch andere Typen. Ihr seid da völlig frei.
+
+(0:05:30 - 0:05:45)
+Im Grunde genommen würde ich das, glaube ich, so sagen, können die alle am Ende das Gleiche. Ihr müsst für euch schauen, was für euch praktikabel ist. Also Siemens 7SJ80 würde ich jetzt mal sagen, ist ein Klassiker und vielleicht auch schon langsam ein Auslaufmodell.
+
+(0:05:45 - 0:05:51)
+Aber ich denke, das Relais kennen einfach viele. Das ist ein Multifunktions Relais. Ich nehme das jetzt vielleicht mal vorweg.
+
+(0:05:51 - 0:06:03)
+Das zeichnet sich dann ja auch vor allem damit aus, dass es auch einen Spannungswandler-Anschluss hat. Also man misst ja auch die Spannung und damit viele andere Sachen zusätzlich. Und dadurch hat das auch viele, viele Funktionen mehr.
+
+(0:06:03 - 0:06:16)
+Und das andere Beispiel, was wir so oft sehen, ist von SEG. Früher Woodward, jetzt heißen sie SEG, MCA4 oder MRA4. Das sind diese Klassiker, die ich zumindest in meinen Solarparks am meisten gesehen habe.
+
+(0:06:17 - 0:06:27)
+Früher war es das Siemens Relais, jetzt ist es eher SEG oder Woodward. Und ich denke, dieses Siemens Relais wird tendenziell eher weniger werden, weil es dann eine neue Generation gibt. Wie auch immer.
+
+(0:06:28 - 0:06:36)
+Funktion, ich hatte es gerade schon vorher angedeutet. Wir schreiben euch ein paar ANSI-Codes rein. Die müsst ihr um Gottes Willen nicht auswendig lernen.
+
+(0:06:36 - 0:06:48)
+Aber ich sage mal, die Schutzleute werfen gerne mal mit sowas um sich. 5051 wäre UMZ, AMZ, Spannungsschutz mit 27 und so weiter. Also verschiedene Schutzfunktionen haben eine Nummer, haben einen Code.
+
+(0:06:49 - 0:06:59)
+Das könnt ihr euch mal merken, ohne euch das auswendig lernen zu müssen, welcher Code was bedeutet. Aber diese Relais hier, da könnte man wahrscheinlich eine ganze Reihe an Codes hinschreiben. Die können unheimlich viel.
+
+(0:07:00 - 0:07:12)
+Also Spannungsschutz, Frequenzschutz haben wir gesagt, Kurzschlussschutz haben wir gesagt, Leistungsschutz, QU-Schutz und so weiter. Gerichtet, ungerichtet, das ist frei wählbar. Ganz, ganz viele Funktionen in diesen Relais.
+
+(0:07:13 - 0:07:38)
+Und weil die so viel können, weil die auch so ein großes Display haben, brauchen die Power Supply, also Energieversorgung, Stromversorgung, Spannungsversorgung, um am Laufen zu bleiben. Und die muss von extern kommen, im besten Fall von einer USV, damit dieses Relais auch USV gepuffert ist. Ja, weil meistens kommunizieren diese Relais auch über diverse Schnittstellen.
+
+(0:07:39 - 0:08:09)
+Also es müsst ihr bei der Bestellung dann beachten, dass es eine Modbus-Schnittstelle hat oder eine IEC 103, 101er Schnittstelle, 61, 850, wirklich frei konfigurierbar mit diversen Kommunikationsschnittstellen. Und eben nochmal, um auf den Punkt davor zurückzukommen, wenn ihr so ein kommunizierendes Relais habt, muss das eigentlich dauerhaft kommunizieren können, also dauerhaft Spannung haben. Das ist ein Unterschied zu wandlerstromversorgten Relais, die wir gleich auch nochmal kurz ansprechen.
+
+(0:08:09 - 0:08:22)
+Wenn die immer wieder ausgehen, dann macht so eine Kommunikation keinen Sinn. Deshalb ist das hier so, Spannungsversorgung, weil viel Kommunikation. Vorteile wurden gerade alle schon genannt, also unheimlich viele Funktionen.
+
+(0:08:23 - 0:08:47)
+Viele Schnittstellen, mit denen man Parkregler und so weiter, also über die man mit Parkreglern sprechen kann zum Beispiel und dann eben auch Daten für die Fernweganlage zur Verfügung stellen kann. Ein Display, also wir machen auch selbst Schutzprüfungen und da finde ich es immer unheimlich wichtig, ein Display zu haben. Klingt banal, aber es ist einfach so, ohne Display ist das immer sehr zäh.
+
+(0:08:47 - 0:08:53)
+Man weiß nicht, was passiert an so einem Relais. Man weiß noch nicht mal, ob jetzt Strom fließt oder nicht. Deshalb ist ein Display immer hilfreich.
+
+(0:08:53 - 0:09:20)
+Nehmt das mit, plant das vielleicht ein, wenn ihr dazu in der Lage seid. Und weil wir eine Spannungsmessung zusätzlich zur Strommessung haben an diesen Relais, können wir natürlich die Spannung messen und über den Strom haben wir Wirkleistung, Blindleistung, Frequenzen, Cosinus Phi, alles Mögliche, was man so mit in der Leistungsmessung benötigt, können wir damit abfragen und überwachen. Also weiter geht's.
+
+(0:09:22 - 0:09:40)
+Jetzt kommt im nächsten Schritt die TRAFO-Station. Im Schaubild würden wir jetzt eine Station weiter runterfliegen und da haben wir eben ein UMZ-AMZ-Schutzrelais. Und das ist vom Grundsatz her für den Schutz des TRAFOs gedacht.
+
+(0:09:41 - 0:09:50)
+Das ist nicht in der Übergabestation, sondern in der TRAFO-Station. Und deshalb ist das vielleicht auch erst mal ein bisschen einfacher. Wir zeigen hier mal so Beispiele.
+
+(0:09:51 - 0:10:05)
+Das ist hier wieder vom Hersteller SEG, das ist ein VIC-1-Relais, ich sag mal Zigarettenschachtel groß. Ein bisschen größer ist es schon, aber das ist ein sehr kompaktes Gerät. Und wie man sieht, hat das kein Display, sage ich schon mal vorweg.
+
+(0:10:05 - 0:10:21)
+Es ist relativ simpel gehalten, genauso wie dieses Siemens SR-45, wobei das, sage ich mal, schon eine Stufe drüber ist. Das ist ein bisschen mehr Relais, ein bisschen mehr Schutztechnik, ein bisschen anspruchsvoller. Das sieht man auch gleich an der Größe.
+
+(0:10:21 - 0:10:34)
+Aber das sind so zwei Klassiker, die man da einsetzen könnte von diesen beiden Herstellern. Und die Funktionen, die man da hat, sind im Wesentlichen eigentlich nur UMZ- und AMZ-Schutz. Also in mehreren Stufen natürlich, je größer, je größer, größer.
+
+(0:10:38 - 0:10:58)
+Und dann haben wir die Spannungsversorgung und in erster Linie sind diese beiden Relais wandlerstromversorgt. Das heißt, die speziellen Stromwandler, die man dafür einsetzt, die liefern auch die Versorgungsenergie für das Relais mit. Das hat dann im Umkehrschluss die Konsequenz, dass man, wenn man nachts im Solarpark keinen Strom hat, dann ist das Relais nicht an.
+
+(0:10:59 - 0:11:17)
+Und das sorgt dann natürlich, wenn man kommunizieren will, wenn man Sachen auslesen will dafür, dass das nicht mehr funktioniert. Und da hatten wir schon viele Diskussionen, sage ich mal, mit Stationslieferanten. Wir würden doch gerne aus der TRAFO-Station mal ein bisschen mehr Infos haben, mal die Messdaten auf der Mittelspannungseite sehen.
+
+(0:11:17 - 0:11:28)
+Das funktioniert mit diesen Relais meistens nicht. Ich glaube, mit dem Siemens wird man es hinkriegen. Aber das ist immer, ich sage mal, noch ein ganzer Schritt mehr Engineering, bis man das dann wirklich zusammenbringt.
+
+(0:11:30 - 0:11:44)
+Deshalb haben wir eine eingeschränkte Kommunikation, obwohl beide Relais auch mit Schnittstellen bestellt werden können. Aber das ist längst nicht so umfangreich wie für die großen Multifunktionsrelais. Die Vorteile sind dann eben eine einfache Installation.
+
+(0:11:45 - 0:11:56)
+Also das ist wirklich simpel und übersichtlich. Es ist vor allem aber auch kostengünstig. Das ist ja, ich sage mal, leider immer ein wichtiger Grund in unseren Solarparks.
+
+(0:11:56 - 0:12:05)
+Da wird viel auf die Kosten geschaut. In der Energieversorgung ist das eigentlich nicht so, sollte eigentlich nicht so sein. Aber im Solarbereich ist da sehr viel Kostendruck drin.
+
+(0:12:05 - 0:12:18)
+Deshalb nehmen wir da die günstigen Relais, sofern sie die Funktion vertretbar erfüllen. Und das tun sie ja auch. Aber das ist im Grunde genommen immer so ein gewisser Kompromiss, den wir da gehen müssen.
+
+(0:12:19 - 0:12:37)
+Jetzt sind wir hier wieder im Schutzkonzept, also den oberen Teil Übergabestation und den Teil darunter Trafostation hatten wir jetzt. Und jetzt gehen wir eins weiter runter in den Niederspannungsschutz und schauen uns da die Komponenten an. Im Bild hatten wir sie ja vorhin schon gesehen.
+
+(0:12:37 - 0:12:56)
+Jetzt gehen wir hier nochmal diesen Stromlaufplan runter und zeigen hier den Niederspannungsleistungsschalter mit 4000 Ampere angegeben. Wie auch immer, die sehen alle relativ ähnlich aus, werden größer, aber sehen erstmal ähnlich aus. Das Schaubild haben wir hier und so sieht jetzt mal so ein Leistungsschalter vielleicht aus.
+
+(0:12:56 - 0:13:12)
+Ja, also das ist ein dicker Block, ist auch relativ schwer. Der hat einen Motorantrieb, der hat internen Arbeitsstromauslöser oder auch Einschalter. Hilfskontakte kann man dort abgreifen, also man kann überwachen, wie die Position des Leistungsschalters ist.
+
+(0:13:13 - 0:13:30)
+Der UMZ-Schutz, der ist integriert, hatte ich vorhin schon mal gesagt. Also es gibt jetzt auch keine Stromwandler extern, sondern dieses Gerät kann das sozusagen alles in eins. Dann gibt es da verschiedene Module, die man für die Leistungsschalter kaufen kann, mit Rädchen, mit Display, ohne Display.
+
+(0:13:30 - 0:13:43)
+Je nachdem, wie viel Geld man da ausgeben möchte, von ganz einfachen DIP-Schaltern bis zu einem digitalen Display usw. Da kann man da viele verschiedene Sachen bestellen. Dann gibt es einen manuellen Antrieb.
+
+(0:13:43 - 0:14:06)
+Falls der Motorantrieb ganz oben mal aus irgendwelchen Gründen nicht funktionieren sollte, kann man den eben auch über so einen Hebel aufziehen. Es gibt einen Ein- und Austaster, ganz einfach, und die Ein- und Ausschaltspulen, also wir hatten oben den Arbeitsstromauslöser genannt. Es besteht aber auch die Möglichkeit, diese Leistungsschalter motorisiert ein- und auszuschalten.
+
+(0:14:07 - 0:14:30)
+Ich sage jetzt mal Stichwort NA-Schutz, wenn so ein Spannungsfrequenzschutz ausgelöst hat, kann man den automatisch wieder einschalten über den Motorantrieb mit der Einschaltspule. Das ist sehr hilfreich für diese Anwendung, aber die ist heute nicht das Thema. Hier jetzt noch mal die Einbauorte, Vor- und Nachteile, Beispiele usw.
+
+(0:14:30 - 0:14:44)
+Gehen wir einmal schnell durch. Also wir haben hier einen Niederspannungsleistungsschalter und der schützt die Sammelschiene, so hatten wir es vorher auch schon mal beschrieben. Das ist hier ein Beispiel, also genau das Modell habe ich noch nicht gesehen, aber so gibt es ihn eben.
+
+(0:14:44 - 0:15:10)
+Und hier haben wir noch mal das Modell von ABB, das ist glaube ich schon häufiger im Einsatz mit diesen DIP-Schaltern und die Funktionen, die meistens diese integrierten Überstrom-Relais, so nenne ich sie mal, erfüllen, sind dann 50 und 51, also UMZ und AMZ bzw. Mischungen, auf die wir später dann noch mal eingehen. Seht ihr dann, es ist irgendetwas dazwischen, würde ich jetzt mal sagen in den meisten Fällen.
+
+(0:15:10 - 0:15:39)
+Eine Spannungsversorgung brauchen die Geräte nicht, die ziehen ihren Strom eben aus der Niederspannungsverteilung, damit sind die fest verbunden, das funktioniert dann immer. Und als Konsequenz, oder naja, das ist jetzt vielleicht nicht eine direkte Konsequenz, aber diese Leistungsschalter haben, so wie ich das kenne, meistens keine Kommunikation. Ich bin mir ziemlich sicher, dass man sie auch mit Modulen kaufen kann, die kommunizieren können, aber das ist jetzt erstmal nicht gängige Praxis, würde ich sagen.
+
+(0:15:39 - 0:16:09)
+Also wir können die Leistungsschalter-Position überwachen, aber mehr macht man da in der Regel nicht. Also, großer Vorteil, wie ich finde, ist, das ist ein 3-in-1-Gerät, also Relais plus Leistungsschalter plus Wandler, das ist sozusagen kombiniert in diesem Block und es ist erweiterbar. Naja, das ist so ein bisschen der Hinweis darauf, Spannungsfrequenzschutz-Relais kann man dann zusätzlich installieren und diesen Schalter steuern oder durch externe Signale ausschalten.
+
+(0:16:12 - 0:16:54)
+So, wir gehen nochmal zurück in den Stromlaufplan, schauen uns jetzt hier die Sammelschiene an und was unter dieser Sammelschiene noch kommt und das sind dann eben unsere NH-Trenner. Da gucken wir auch nochmal rein, so sieht das Schaubild erstmal aus. Der NH-Trenner bzw. 
+
+die Trennleiste sieht so aus und die Sicherung, die man dann in diese Trennleiste einbauen muss, sieht eben so aus. Das ist die Sicherung, die ganz oft bei Inbetriebnahmen vergessen wird. Viele Leute auf der Baustelle wollen die Wechselrichter in Betrieb nehmen, schauen sich die NH-Leisten an und sehen, dass noch keine Sicherung drin ist, dann kann der Park auch nicht in Betrieb gehen.
+
+(0:16:54 - 0:17:16)
+Also man braucht die Sicherung mit der richtigen Größe, hier steht glaube ich 250 Ampere drauf. Das ist dann eben auch das Element, was im Kurzschlussstromfall zerstört wird oder durchschmilzt. Diese NH-Sicherung sieht man jetzt hier nochmal und hier in der Tabelle kriegen wir nochmal die Vor- und Nachteile genannt.
+
+(0:17:17 - 0:17:39)
+Also, Trafostation Niederspannungsverteilung ist der Installationsort, haben wir in den Bildern glaube ich jetzt auch schon oft genug gesehen. NH-Sicherung ist das Stichwort, in der Hochspannung gibt es das auch, dann heißt es aber HH, also Niederspannungshochleistungssicherung oder Hochspannungshochleistungssicherung, das ist der Unterschied. Wir kennen das meist in der Niederspannung, in der Mittelspannung ist das eher für kleinere Anlagen ein Thema.
+
+(0:17:40 - 0:18:06)
+Der Schutzbereich, das ist das Niederspannungskabel, also für jedes Niederspannungskabel eine NH-Sicherung oder ein NH-Trenner. Von Herstellern gibt es das sicherlich, von ganz vielen, Siemens, John Miller, da gibt es eine ganze Reihe Hersteller, auch da habt ihr freie Wahl. Schaut, was der Markt hergibt, schaut euch an, welche Qualität hat und wie teuer das Ganze ist und dann könnt ihr das über euren Stationslieferanten einkaufen.
+
+(0:18:07 - 0:18:41)
+Spannungsversorgung brauchen wir nicht, achso die Funktion 51, also na klar, das ist eine Schmelzsicherung, die ist abhängig von dem Strom. Je mehr Strom, desto schneller löst sie aus, deshalb kann diese Sicherung in Annäherung nur diese ANSI-Funktion 51. Es gibt keine Spannungsversorgung, es gibt keine Kommunikation und die Vorteile, die diese NH-Trenner haben, ist dann auch die einfache Installation und der Preisvorteil, den man hat und es ist dann eben auch leicht bedienbar.
+
+(0:18:41 - 0:19:04)
+Das heißt, wenn ihr dann auf einer Baustelle seid und der Elektriker kriegt die Sicherung in die Hand, dann weiß der, was zu tun ist, kann die reindrücken oder kann sie austauschen gegen größere. Das ist relativ einfach, umsetzbar für Fachpersonal. Jetzt gucken wir uns nochmal die Schutzbereiche an, ein letztes Mal, dann glaube ich, haben wir das auch zu Genüge durchgekaut.
+
+(0:19:04 - 0:19:29)
+Das MCA-4-Relais schützt jetzt erstmal das Mittelspannungskabel. Hier befinden wir uns jetzt in einer TRAFO-Station, Mittelspannungskabel bis zum Transformator und inklusive Transformator natürlich auch. Dann haben wir den Niederspannungsleistungsschalter, der schützt jetzt erstmal hier auch den Transformator und eben auch die Sammelschiene.
+
+(0:19:29 - 0:20:08)
+Also der guckt natürlich in beide Richtungen, wo der Strom hinfließt und wenn der Strom seine Grenzwerte übersteigt, schaltet er aus. Als letztes haben wir dann noch die NH-Sicherungen, jetzt hier in grün und die schützen dann eben nach unten hin die Kabel bis zum Wechselrichter und den Anschlussbereich des Wechselrichters dann eben auch noch, falls da so ein Kabelschuh mal den Geist aufgibt. Dann hätten wir das jetzt, wir würden jetzt mal in eine 360-Grad-Tour springen und stellen euch jetzt verschiedene Fragen.
+
+(0:20:09 - 0:20:36)
+Also Frage 1 wäre, welches Relais schützt den Mittelspannungstransformator gegen Kurzschluss? Das sollt ihr in der 360-Grad-Tour finden. Ich glaube, der Link zur Tour ist auch schon in den Chat gepostet worden. Die zweite Frage wäre dann, welche Komponente schützt die Niederspannungssammelschiene und welcher Stromwandler ist mit dem Mittelspannungsschutzrelais verbunden? Also wir geben euch da jetzt ein paar Minuten Zeit.
+
+(0:20:36 - 0:21:03)
+Jetzt zeigen wir hier einfach mal das Ergebnis. Das hat jetzt mit dem Mäntchen nicht ganz so gut geklappt, aber wir zeigen euch jetzt als erstes das Mittelspannungsrelais. Und das seht ihr hier. 
+
+Das ist jetzt hier mal eine Huawei-Station. Das wäre jetzt das Mittelspannungsschutzrelais in der Trafo-Station. UMZ-Schutz schützt den Trafo und die richtige Antwort wäre dann eben Italien gewesen, so wie es oben im Bild steht.
+
+(0:21:03 - 0:21:32)
+Dann gehen wir weiter und können jetzt um die Station einmal drumherum laufen und können dann den Niederspannungsbereich öffnen. Dann müssen wir selbst ein bisschen suchen, wo wir hin müssen. Hier haben wir den Niederspannungsleistungsschalter und der schützt dann eben hier die Sammelschiene und da wäre die richtige Antwort gewesen Türkei.
+
+(0:21:33 - 0:21:58)
+Und der letzte Punkt wäre dann, der Mittelspannungsstromwandler wäre die letzte Antwort. Hier müsste man eben das Schaltfeld unten den Anschlussbereich, den Kabelanschlussbereich öffnen. Und dann kann man da reinschauen, so ein bisschen nach unten gucken, also genauso wie ihr es auf der Baustelle vielleicht auch machen würdet.
+
+(0:21:58 - 0:22:14)
+Und da seht ihr dann unten die Stromwandler um die Kabel drumherum gewickelt. Indonesien hätte gewonnen und so sieht jetzt der Stromwandler hier in diesem Station aus. Also um jedes Kabel ein Wandler, der dann eben die Primärströme in Sekundärströme übersetzt und hochschickt zum Schutzrelais.
+
+(0:22:17 - 0:22:26)
+Da oben sehen wir das Schutzrelais nochmal. Da gibt es eine direkte Kabelverbindung dazwischen die Prüfklemmen. Und das Schutzrelais muss dann eben wissen, was für Wandler ihr eingebaut habt.
+
+(0:22:27 - 0:22:55)
+Wir zeigen euch hier nochmal die Lösung. Also wer das in Ruhe machen kann, kann natürlich gerne nochmal in die Tour reinschauen. Und da die verschiedenen Sachen sich anschauen, vielleicht auch andere Sachen, die ihn interessieren. 
+
+Dafür ist es ja gedacht. So, dann wären wir jetzt erstmal um 9.55 Uhr an der Stelle, wo wir unsere übliche Pause machen. Wir machen fünf Minuten und danach haben wir sicherlich die etwas anspruchsvolleren Themen, die etwas komplexeren Themen.
+
+(0:22:56 - 0:22:57)
+Freut euch drauf. Bis gleich.

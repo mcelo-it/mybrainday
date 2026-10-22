@@ -1,0 +1,79 @@
+(0:00:00 - 0:00:34)
+Wir haben keine Zeit zu verlieren, wir springen also in das Warum und haben uns da Gedanken gemacht, warum ist das denn überhaupt wichtig. Überstromschutz, so heißt das Thema vielleicht im Allgemeinen, und das unterteilt sich dann erstmal in Überlast, also zu viel an die Steckdose angeschlossen oder zu viele Wechselrichter an die Trafostation angeschlossen. Dann haben wir Kurzschluss, das ist glaube ich für die, die elektrotechnisch sehr versiert sind, immer Leiter, Leiter-Kurzschlüsse und jetzt wird es ein bisschen komplizierter.
+
+(0:00:34 - 0:00:57)
+Jetzt gibt es den Erd-Kurzschluss, da sind wir bei den geerdeten Netzen und den Erdschluss bei den isolierten und kompensierten Netzen. Den Erdschluss, den nehmen wir heute mal raus, weil der hat mit Kurzschluss in dem Sinne gar nicht so viel zu tun. In anderen Brain Days haben wir das schon erklärt, da fließt ein ganz geringer Strom, also da werden keine Kurzschlussströme, Überlastströme auftreten, sondern das wird weiter betrieben.
+
+(0:00:57 - 0:01:21)
+Deshalb ist das eine andere Schutzphilosophie, andere Schutztechnik. Also Überlast, Kurzschluss, Erd-Kurzschluss, ganz wichtig. Diese Funktion oder diese drei Varianten oben kann man dann schützen mit einem unabhängigen Maximalstrom-Zeitschutz, ein bisschen sperriges Wort, die meisten kennen das unter UMZ, oder mit einem abhängigen Maximalstrom-Zeitschutz.
+
+(0:01:21 - 0:01:34)
+Später sagen wir euch nochmal, was das genau bedeutet. Erstmal UMZ, AMZ, so nennen wir das dann meistens, sind eben diese beiden Versionen, die wir da haben. Und wir zeigen euch später sogar, welche Formeln dahinter stecken.
+
+(0:01:35 - 0:01:48)
+Das geht ins Detail heute, das wird knackig. Dann haben wir verschiedene Aufgaben, die unsere UMZ, AMZ-Funktionen erfüllen sollen. Und das erste und wichtigste ist vielleicht erstmal ein Personenschutz.
+
+(0:01:48 - 0:02:08)
+Der muss immer gegeben sein, dann gibt es einen Anlagenschutz, den haben wir ja auch erwähnt. Ich sag mal, wenn so ein Schutzrelais auslöst, dann hat man in der Anlage sicherlich irgendeinen Defekt und irgendeinen Schaden. Aber damit dieser Schaden nicht deutlich größer wird, brauchen wir eben zuverlässige Schutzrelais.
+
+(0:02:08 - 0:02:30)
+Also ich sag mal, ein Endverschluss geht hoch und wenn dann der Kurzschlussstrom an der Stelle oder der Erdkurzschluss dort lange steht, wird der Schaden immer größer, immer größer und irgendwann steht vielleicht die ganze Trafostation in Flammen. Deshalb brauchen wir hier einen zuverlässigen Überstromschutz. Für das Netz ist das Ganze genauso wichtig.
+
+(0:02:30 - 0:03:01)
+Also ich würde das jetzt mal klar abgrenzen vom NA-Schutz, Spannungs- und Frequenzthemen. Für das Netz ist aber natürlich auch wichtig, dass wir unsere Kurzschlüsse, unsere internen Kurzschlüsse schnell abschalten. Weil ich sag mal, im Mittelspannungsnetz bei den 4110-Anlagen sind wir direkt gekoppelt an das Netzbetreibernetz und wenn wir da jetzt lange unsere Kurzschlussströme stehen lassen und unser Schutzrelais versagt, dann wird es dazu führen, dass irgendwann das vorgelagerte Schutzrelais ausschaltet und das wäre dann meistens im Umspannwerk.
+
+(0:03:02 - 0:03:15)
+Und dann hätte man eben auch, ich sag mal, ein Thema im Netz. Wir haben dann immer noch eine N-1-Sicherheit, aber trotzdem wollen wir das natürlich verhindern. Wir müssen unseren Fehler abschalten und eben nicht das Netz in seinen Schalthandlungen beeinflussen.
+
+(0:03:16 - 0:03:35)
+Brandschutz ist dann auch nochmal ein wichtiger Punkt, vor allem wenn wir jetzt auf Dachanlagen schauen. Wenn es dazu Kurzschlüssen kommt, kann das natürlich Lichtbogen erzeugen. Die Lichtbögen wiederum können dann Komponenten in Brand setzen und so kann das vielleicht auf Dächern mit vielleicht brennbaren Stoffen dann auch mal zu einem Brand führen.
+
+(0:03:36 - 0:03:53)
+Genau, das ist, denke ich, auch nochmal ein ganz wichtig zu nennender Punkt. Dann haben wir nochmal Fehlerursachen. Warum gibt es diese Kurzschlüsse, die wir möglichst schnell ausschalten sollen? Und ein Punkt, der dann immer wieder genannt wird, sind Überspannungen im Netz oder Überspannungen erstmal generell.
+
+(0:03:54 - 0:04:13)
+Überspannungen können dann eben dafür sorgen, dass vielleicht vorgeschädigte Leitungen oder alte Komponenten dann, ich sag mal, final beschädigt werden, sodass es dann eben zu einem Kurzschluss kommt. Dann gibt es den Klassiker, denke ich, den mechanischen Schaden. Und der Bagger ist, glaube ich, dann wirklich der Klassiker.
+
+(0:04:13 - 0:04:42)
+Also Erdarbeiten, Tiefbauarbeiten, da werden, glaube ich, relativ regelmäßig Kabelleitungen beschädigt, sodass es dann eben zu diesen Kurzschlüssen kommt. Im Freileitungsbereich, das betrifft unsere Solarparks jetzt vielleicht nicht so, geht es dann auch oft um Überbrückungen, da fällt ein Ast auf eine Freileitung. Oder vielleicht auch in Trafostationen, dass dann vielleicht irgendwelche Nagetiere sich mal zwischen zwei Sammelschienen legen, dass es dann eben zu Kurzschlüssen kommt.
+
+(0:04:43 - 0:04:58)
+Diese Kurzschlüsse, die erledigen sich dann häufig von alleine, weil dieser Nager oder dieser Ast sich dann wahrscheinlich einen Rauch auflösen. Aber wenn das Schutzrelais gut funktioniert, schaltet es diesen Fehler dann auch schnell aus. Dann gibt es das Thema Alterung.
+
+(0:04:58 - 0:05:15)
+Klar, alte Komponenten, ich sage mal, im öffentlichen Netz sind wahrscheinlich Kabel im Einsatz, die 40, 50 Jahre alt sind, die dann irgendwann ermüden können. Bei uns in den Solarparks ist das ja alles neue Technik, deshalb würde ich da das Thema Alterung erstmal ausschließen. Aber im öffentlichen Netz eben, da kann das schon mal passieren.
+
+(0:05:15 - 0:05:42)
+Das kann man nicht immer alles so neu halten, dass das dann immer ausgeschlossen ist, dass da Alterungsschäden auftreten. Das letzte, der gute alte Bedienfehler. Da haben wir im Kopf, oder ich zumindest, man hat zum Beispiel eine Kurzschluss-Erdungsscanitur irgendwo noch eingelegt in einer Station und jemand macht die Inbetriebnahme, wusste davon nichts, hat das nicht geprüft, schaltet eben auf diesen Kurzschluss, Erdschluss, oder Erd-Kurzschluss ist es, Entschuldigung, da habe ich mich jetzt schon selbst verhaspelt.
+
+(0:05:43 - 0:06:03)
+Und dadurch kommt es dann eben zum Kurzschluss. Oder, naja, manche Parks haben zum Beispiel mehr Wechselrichter installiert, als sie dürfen und dann funktioniert der Parkregler nicht, oder jemand vergisst die Limitierung einzustellen, dass es dann zu Überlast kommt und zur Auslösung durch Überlast. Jetzt haben wir noch mal Anforderungen.
+
+(0:06:04 - 0:06:14)
+Ich glaube, so ein bisschen gestriffen habe ich sie gerade schon. Was ist die Anforderung an so einen Kurzschlussschutz? Und das ist Schnelligkeit. Das hatte ich eben schon öfter mal gesagt, wir müssen schnell abschalten, schnell abschalten.
+
+(0:06:14 - 0:06:27)
+Aber das ist auch wirklich eine große Anforderung hier, Schnelligkeit. Je schneller wir einen Kurzschluss abschalten können, desto geringer ist der Schaden, weil desto geringer ist die Freiwerden der Energie. So muss man sich das vielleicht vorstellen.
+
+(0:06:27 - 0:06:44)
+Also wenn so ein Kurzschlussstrom ansteht für eine gewisse Zeit, wird unheimlich viel Energie frei. Und das zerstört dann natürlich Komponenten, also Kupfer löst sich in glühende Komponenten, in Rauch auf tatsächlich und deshalb eben schnell sein. Ganz, ganz wichtig.
+
+(0:06:44 - 0:07:41)
+Zuverlässig sein ist das zweite wichtige Wort, wenn unser Schutzrelais in der Übergabestation nicht zuverlässig abschaltet, sondern weil das mal einen Tag Pause macht, dann muss das Netz sozusagen einspringen oder es werden eben Komponenten so weit zerstört, dass sie danach ausgetauscht werden müssen. Zum Beispiel die Kabel, die eigentlich mit unserem Schutzrelais geschützt werden müssen, auf das dann ja auch die Berechnungen ausgelegt sind, ist eigentlich nicht vom Umspannwerk geschützt, aber das würde irgendwann einspringen, wenn unser Schutz versagt. Das ist dann eben hier wichtig. 
+
+Zuverlässig müssen wir Kurzschlüsse abschalten. Und dann haben wir das Thema Selektivität. Und das ist vor allem dann ja auch wichtig, weil wir in großen Parks, wenn wir dann da einen Fehler im Niederspannungskabel haben von Wechselrichter 3, dann wollen wir ja, dass Wechselrichter 4, 5, 6, 7 und auch 1 und 2 und auch vielleicht parallele Trafostationen weiterlaufen und nicht abgeschaltet werden.
+
+(0:07:41 - 0:08:01)
+Deshalb brauchen wir eine hohe Selektivität zwischen den einzelnen Schutzgeräten, sodass dann eben nur der Wechselrichter oder die Komponente ausgeschaltet wird, die diesen Fehler hat und nicht eben der Netzanschlusspunkt den Fehler zuerst sieht und zuerst ausschaltet. Das wäre eben der Worst Case. Das wollen wir eben nicht.
+
+(0:08:02 - 0:08:16)
+Wir schieben das Überstromschutzmodul mal in die Mitte, rücken das ein Stückchen in den Fokus. Warum brauchen wir das? Sicherstellung, Netzstabilität und Versorgungssicherheit. Das waren diese zwei Punkte, die wir eben auch schon mal genannt hatten.
+
+(0:08:17 - 0:08:31)
+Dann brauchen wir das auch für das Anlagenzertifikat. Ich sage mal, Thema Schutzkonzept wird gefordert im Anlagenzertifikat. Erstellen wir dann eben auch nach den Vorgaben, nach den Richtlinien und am Ende auch für die Konformitätserklärung.
+
+(0:08:31 - 0:08:47)
+Da bin ich jetzt eher in dem Bereich Prüfung. Für die Konformitätserklärung brauchen wir eben ein vernünftiges Schutzprüfprotokoll, was den Anforderungen erfüllt. Und ohne eine Konformitätserklärung, das wissen wir ja alle, erhalten wir keine dauerhafte Betriebserlaubnis.
+
+(0:08:47 - 0:08:49)
+Das ist erstmal der Hintergrund, warum wir das machen.

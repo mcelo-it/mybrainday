@@ -1,0 +1,156 @@
+(0:00:00 - 0:00:24)
+Schauen wir uns jetzt mal den Bereich Schutzkonzept an. Grundsätzlich ist das, glaube ich, erstmal für viele hier ein bekanntes Schema, vor allem für die Leute, die bei anderen Brain Days schon mal mit dabei waren. Das sieht ja jetzt hier erstmal sehr wild aus, von der Übergabestation über die Trafostation bis zum Wechselrichter, klassische Freiflächenanlage mit verschiedenen Schutzfunktionen.
+
+(0:00:25 - 0:01:08)
+Und wenn ich das so einigermaßen richtig im Überblick habe, ist die linke Seite mehr Spannungsfrequenzschutz oder Isolationsüberwachung und auf der rechten Seite überwiegend UMZ, AMZ-Schutz, vielleicht mit der Ausnahme des Trafotemperaturschutz. Damit es leichter ist für euch, schieben wir das mal ein bisschen zusammen und gucken uns jetzt nur noch die Elemente an, die für uns heute wichtig sind. Und zwar haben wir jetzt erstmal absichtlich überall UMZ, AMZ reingeschrieben in diese Schutzgeräte bzw. unten Sicherung und halten uns jetzt erstmal offen, was das dann wirklich hinterher im Detail ist. Dann teilen wir es nochmal auf in Mittelspannungsschutz und Niederspannungsschutz. Das halten wir erstmal für uns für sinnvoll, weil die Technologie dahinter schon etwas anders ist, würde ich sagen.
+
+(0:01:08 - 0:01:28)
+Das sehen wir aber später, wenn wir dann zu den Komponenten kommen, wie das in den unterschiedlichen Spannungsebenen aussieht. Grundsätzlich soll jetzt der Verlauf in diesem Kapitel sein, dass wir euch versuchen, erstmal die elektrische Position des Geräts zu zeigen. Hier wäre das jetzt das UMZ-AMZ-Gerät.
+
+(0:01:28 - 0:01:38)
+Ihr seht, dass es die anderen jetzt ausblenden. Also wir schauen uns jetzt das Schutzrelais in der Übergabestation an. Dann würden wir als zweites versuchen, das mal räumlich euch zu zeigen.
+
+(0:01:38 - 0:02:11)
+Wo befindet sich das auf so einer Freiflächenanlage? Und danach zeigen wir auch nochmal, was genau ist denn der Schutzbereich? Was schützen wir mit diesem Relais? Welche Strecke, welche Kabelstrecke, welches Gerät? Schieben wir das mal rüber. Wir sind jetzt hier bei dem Übergabestationsschutz, bei dem UMZ-Schutz in der Übergabestation schon in der lokalen Position, also B. Und dann seht ihr ganz links in dem Bild, da haben wir jetzt mal beispielhaft einfach die Übergabestation dargestellt. Die kann natürlich auch noch drei Kilometer entfernt sein von dieser Freiflächenanlage.
+
+(0:02:11 - 0:02:25)
+Aber grundsätzlich gibt es eine Übergabestation an der Stelle, wo uns der Netzbetreiber den Netzverknüpfungspunkt benannt hat. Da befindet sie sich. Und hinter der Übergabestation, das seht ihr in dem Schema ja schon, da ist ein Kabel dargestellt.
+
+(0:02:26 - 0:02:30)
+Ja, wir zoomen nochmal rein. Gut. Und schauen uns auch nochmal das Schutzrelais an.
+
+(0:02:31 - 0:02:39)
+Genau, hier ist ein Schutzrelais. Das zeigen wir euch auch nochmal. Und wie man hier sieht, das ist, glaube ich, das, was viele schon mal gesehen haben.
+
+(0:02:39 - 0:03:01)
+Das ist dieses Woodward MCA4. Das ist für den UMZ-Schutz sicherlich ein Relais, was sehr viel mehr kann als ein UMZ-Schutz. Aber das ist eben das, was in den Übergabestationen installiert wird, weil da eben auch noch andere Anforderungen an Frequenz, Spannung, Schutz, Kommunikation usw. 
+
+gestellt werden. Aber das ist so ein Klassiker hier. Wir kommen da später auch nochmal ein bisschen im Detail drauf zu sprechen.
+
+(0:03:02 - 0:03:12)
+Aber jetzt gucken wir doch tatsächlich mal, was wir hier von diesem Relais aus schützen. Ihr seht das. Ich gehe noch einmal zurück in dem kleinen Schaubild oben rechts.
+
+(0:03:13 - 0:03:22)
+Das Kabel, das wird jetzt grün. Wir schützen mit diesem Schutzrelais, mit dem UMZ-Schutz, AMZ-Schutz erstmal das Kabel. Und in dem Bild seht ihr das jetzt auch nochmal.
+
+(0:03:22 - 0:03:31)
+Da läuft jetzt ein Kabel von Trafo-Station zu Trafo-Station. Und so ist das dann tatsächlich auch in der Realität. Für manche mag das vielleicht noch eine kleine Überraschung sein.
+
+(0:03:32 - 0:04:04)
+Aber dieses UMZ-Schutzrelais in den Freiflächenanlagen, ich sage jetzt mal im Mittelspannungsbereich, aber auch im 110 kV-Anschlussbereich, da haben wir meistens nur ein Mittelspannungsrelais im Umspannwerk, was dann so einen ganzen Strang schützen muss. Wenn wir jetzt einen Schaden am Anfang des Kabels hätten, würden Trafo-Station 1, 2, 3, die ich da glaube ich sehe, alle rausfliegen. Beziehungsweise wenn der Schaden ganz hinten im Kabel ist, würden auch Trafo-Station 1, 2, 3 rausfliegen.
+
+(0:04:05 - 0:04:13)
+Das ist so ein bisschen immer mit Vorsicht zu genießen. Es ist übliche Praxis, dass das so gebaut wird. Aber man sollte natürlich auch die Konsequenz verstehen.
+
+(0:04:14 - 0:04:25)
+Ein Schaden an der letzten Trafo-Station. Das Relais in der Übergabestation oder das Relais im Umspannwerk wird auslösen, weil dazwischen sind in der Regel keine Schutzrelais vorgesehen. Ganz wichtig.
+
+(0:04:28 - 0:04:43)
+Jetzt gehen wir ein Relais weiter. Wir grauen das obere Relais aus, also das Schutzrelais in der Übergabestation und gehen jetzt runter zur Trafo-Station. Da ist es vielleicht wichtig zu sagen, das ist eben das Relais.
+
+(0:04:44 - 0:04:48)
+Wir zoomen erst noch mal rein. Entschuldigung, ich will dir nichts überspringen. Genau, wir gucken uns die Trafo-Station an.
+
+(0:04:48 - 0:05:00)
+Hier sehen wir sie. Die steht im Feld, sage ich mal, irgendwo verteilt auf der PV-Anlage. Auf der Mittelspannungsseite könnte man jetzt wahrscheinlich das Schutzrelais sehen, was da verbaut ist.
+
+(0:05:00 - 0:05:05)
+Wir gucken hier mal rein in die Anlage. Im Hintergrund sieht man es glaube ich nur schemenhaft. Da steht ein Trafo.
+
+(0:05:05 - 0:05:15)
+Im Vordergrund steht die Mittelspannungsschaltanlage. Wenn man dann noch ein bisschen genauer reinschaut, da sieht man es schon fast ganz gut. Hier ist ein Typ von Schneider verbaut.
+
+(0:05:16 - 0:05:24)
+Das ist nicht das Beste, nicht das Schlechteste. Das ist eine Schneiderschaltanlage, sagen wir einfach nur. Da befindet sich das Relais.
+
+(0:05:24 - 0:05:30)
+Das ist ein integriertes Bauteil von Schneider. Das kann man so kaufen. Das ist dann auch so vorinstalliert in der Anlage.
+
+(0:05:33 - 0:05:37)
+Dieses Relais schützt dann hinterher. Jetzt sehen wir es in grün. Ich mache nochmal zurück.
+
+(0:05:37 - 0:05:57)
+Das Schaubild wird grün oben rechts. Schützen wir eben den Trafo. Bzw. 
+
+ist jetzt zwischen der Schaltanlage und dem Trafo natürlich auch noch ein kurzes Kabelstück. Aber im Wesentlichen wollen wir hier mit diesem Schutzrelais den Trafo gegen Überstrom-Kurzschlüsse schützen. Da hinten haben wir es jetzt nochmal mit einer grünen Blase angedeutet.
+
+(0:05:58 - 0:06:01)
+Da ist der Trafo. Das ist in unmittelbarer Nähe. Das ist, glaube ich, klar.
+
+(0:06:03 - 0:06:16)
+Hier haben wir eine Trafostation. Haben wir eingekreist. Weiter hinten seht ihr jetzt Trafostation 2 und Trafostation 3. Das heißt, jede Trafostation hat ihr Schutzrelais im Abgang zu dem Trafo.
+
+(0:06:17 - 0:06:29)
+Aber eben nicht kein Schutz für das Mittelspannungskabel, was von Station zu Station läuft. Das ist ein bisschen der Unterschied. Also wir schützen nur den Trafo hier mit diesem Schutzrelais.
+
+(0:06:34 - 0:06:43)
+So, wir gehen weiter. Wir haben jetzt den Mittelspannungsbereich erstmal so weit durch. Grauen den aus und kommen jetzt zu der Niederspannung.
+
+(0:06:43 - 0:06:56)
+Auch hier bleiben wir bei unserem Schema. Elektrische Position seht ihr jetzt in dem Schaubild. Also wir sind, sage ich mal, in einer Trafostation oder hinter dem Trafo auf der Niederspannungsseite.
+
+(0:06:57 - 0:07:02)
+Und die räumliche Position sehen wir jetzt hier. Trafostation ist wieder eingeblendet. Da habt ihr die kleine Blase dran.
+
+(0:07:03 - 0:07:10)
+Und wir zoomen da mal rein. Das ist eine Trafostation. Das ist auch eine Trafostation, die ein bisschen anders aussieht.
+
+(0:07:10 - 0:07:17)
+Das fällt euch bestimmt auch auf. Aber das spielt im Grunde genommen auch keine Rolle. Die sind vom Grundsatz her alle gleich aufgebaut.
+
+(0:07:17 - 0:07:42)
+Also wir öffnen die Tür auf der Niederspannungsseite und sehen jetzt hier mittig, sage ich mal, einen Niederspannungsleistungsschalter. Also vielleicht muss man hier nochmal sagen, das ist jetzt nicht unbedingt ein Schutzrelais, sondern wir haben eine Kombination von Schutzrelais und Schalter und auch Stromwandler. Von daher könntet ihr mir jetzt, wenn ihr mir böse wollt, sagen, euer Schaubild oben, das passt ja nicht.
+
+(0:07:42 - 0:07:52)
+Wir haben ja nicht Stromwandler und Leistungsschalter, sondern wir haben ja ein kombiniertes Gerät. Wir haben das jetzt so gelassen. Das ist ein Leistungsschalter, der das im Prinzip alles erfüllt.
+
+(0:07:52 - 0:08:09)
+Und dieser Leistungsschalter schützt dann aus unserer Sicht den Trafo, sage ich mal, gegen Überlast. Und gegen Kurzschluss würde er in die andere Richtung schützen und im Grunde genommen alles, was unterhalb von dem Leistungsschalter ist, schützen. Und das ist im Wesentlichen die Sammelschiene.
+
+(0:08:10 - 0:08:21)
+Stellen wir hier mal da. Hinter den NH-Trennern verbergen sich dann immer drei Kupferschienen. Und diese drei Kupferschienen hinter den NH-Trennern sind mit dem Leistungsschalter oben drüber verbunden.
+
+(0:08:21 - 0:08:33)
+Und von da geht es dann nach hinten zu dem Transformator. So, das hätten wir. Und wir zeigen euch nochmal, an welchen Trafo-Stationen das ist.
+
+(0:08:34 - 0:08:47)
+Hier im Bild sind es die drei. In jeder Trafo-Station findet ihr so einen Leistungsschalter. So, dann geht es weiter zur untersten Komponente, zur letzten Komponente.
+
+(0:08:47 - 0:08:51)
+Und das ist hier die Sicherung. Auch die wird blau. Alles andere haben wir.
+
+(0:08:51 - 0:08:59)
+Ist grau geworden. Und hier auch nochmal der Blick in den Lageplan. Also wir haben Trafo-Station.
+
+(0:09:00 - 0:09:09)
+Und ihr seht jetzt hier auch schon Wechselrichter angedeutet. Wir gucken nochmal rein in die Trafo-Station. Im Grunde genommen ist es fast das gleiche Bild wie eben.
+
+(0:09:10 - 0:09:21)
+Also auch hier seht ihr den Leistungsschalter noch, den wir eben hatten. Und darunter angeordnet diese Batterie von NH-Trennern. Es sind oft eine ganze Reihe, je nachdem wie viele Wechselrichter ihr da anschließen wollt.
+
+(0:09:24 - 0:09:35)
+Und genau, hier ist es eingekreist. Und dann geht es weiter von der Trafo-Station geht es dann eben mit dem Kabel. Oben rechts im Schema seht ihr es zuerst.
+
+(0:09:35 - 0:09:52)
+Das Kabel wurde blau. Und jetzt nochmal im Plan von der Trafo-Station zu den einzelnen Wechselrichtern, die eben im Feld verteilt sind. Dann springen wir jetzt nochmal weiter.
+
+(0:09:52 - 0:10:00)
+Und ich gehe noch einmal einen Moment zurück. Also wir hatten uns jetzt eine Freiflächenanlage mal angesehen. Und gucken uns jetzt auch nochmal an, wie das bei einer Dachanlage sein würde.
+
+(0:10:02 - 0:10:20)
+Jetzt haben wir erstmal den Transformatorschutz auf der Mittelspannungsseite rausgenommen, weil, ich sage mal, Dachanlagen sind vielfältig, gar keine Frage. Aber in unserem Fall würden wir jetzt mal eine Dachanlage zeigen, wo der Trafo in der Übergabestation positioniert wird. Deshalb haben wir uns ja erstmal ein Mittelspannungsrelais gespart.
+
+(0:10:20 - 0:10:47)
+In der Trafo-Übergabestation ist der Trafo und wird von dem übergeordneten Schutzrelais geschützt. Und dafür haben wir dann aber in unserer Niederspannung im Gebäude dann eine Niederspannungs-Hauptverteilung. So ist, glaube ich, ein üblicher Aufbau von einer Logistikhalle, die vielleicht einen Verbrauch hat im 600 kW, 800 kW-Bereich oder 1 Megawatt vielleicht.
+
+(0:10:47 - 0:10:56)
+Dafür gibt es dann eben diese kombinierten Trafo-Stationen. Dann gibt es eine Niederspannungs-Hauptverteilung oder mehrere. Wie gesagt, das ist da sehr, sehr vielfältig.
+
+(0:10:56 - 0:11:15)
+Und von dort würde man dann über die Verteilung zu den einzelnen Hallenteilen vielleicht auch unseren PV-Schrank anschließen. So würde das sein. Und dann ergänzend noch hier einen zweiten Leistungsschalter, der dann nicht zwingend für den UMZ-Schutz eingesetzt wird, weil dafür würde natürlich ein Leistungsschalter reichen.
+
+(0:11:15 - 0:11:25)
+Aber Netzankopplungsschutz hatten wir auch schon mal genannt. Dafür bräuchte man dann diesen redundanten Niederspannungsleistungsschalter. So wäre es dann aufgebaut.
+
+(0:11:25 - 0:11:30)
+Und dann würde das von den NH-Sicherungen hoch aufs Dach gehen, zum Beispiel, wo dann die Wechselrichter positioniert sind.

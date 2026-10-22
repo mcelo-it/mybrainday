@@ -1,0 +1,375 @@
+(Transkribiert von TurboScribe. Upgrade auf Unbegrenzt, um diese Nachricht zu entfernen.)
+
+(0:00 - 0:21)
+So, kommen wir zum letzten Kapitel, der Inbetriebnahme. Inbetriebnahme, großes Thema, großes Wort, große Aufgabe. Heute natürlich erstmal nur bezogen auf Tracker-Komponenten selbst, nicht auf die PV-Anlage, da haben wir ein ganzes Modul dafür gebaut.
+
+(0:22 - 0:52)
+Und außerdem, selbst innerhalb von nur Tracker-Komponenten, versuche ich das nochmal zu unterteilen, weil ich finde, dass dieser Begriff oft verwendet wird, aber vielleicht nicht immer so übergeordnet, wie ich diesen Begriff interpretiere. Also für mich gehört zu einer Inbetriebnahme jetzt bei meinen Tracker-Komponenten erstmal die Zuschaltung selbst. Da gibt es dann auch Vorprüfungen, die man gemacht haben muss, darum geht es jetzt aber nicht, sondern jetzt sagen wir mal, man schaltet das zu, weil man da diese Vorbedingungen schon erfüllt hat.
+
+(0:53 - 1:16)
+Und danach kommen dann aber die eigentlichen Prüfungen, die ich für so ein Tracker-System identifiziert habe. Das wäre einmal die Prüfung der Kommunikation und danach dann natürlich auch die Funktionsprüfung selbst. Also so ein Tracker, der hat deutlich mehr mechanische Funktionen als eine fest aufgestellte Anlage und die müssen wir dann alle prüfen.
+
+(1:16 - 1:35)
+Sehen wir dann auch, ist relativ vielschichtig, aber deswegen ja auch sehr spannend. Jetzt fangen wir mal an mit dem ersten Schritt der Zuschaltung, sonst können wir die zwei und die drei ja gar nicht machen. Und da sehen wir jetzt im Hintergrund wieder unser Schema, das wir vorhin ja schon ganz akribisch aufgebaut haben.
+
+(1:35 - 1:48)
+Insofern ist das jetzt sehr bekannt, was das alles so ist. Unsere Trafo-Station, die NSRV, die Tracker, die NCU und die Sensoren. Und dann fängt man aus meiner Sicht sinnhafterweise vom Stromfluss kommend an sozusagen.
+
+(1:49 - 2:01)
+Also wir würden erstmal den Transformator in Betrieb nehmen, deswegen haben wir den hier so mit blau markiert. Der hat irgendwo vorher auch noch eine Sicherung oder einen Leistungsschalter, je nachdem, wie das aufgebaut ist. Und das muss man mal als erstes einschalten.
+
+(2:02 - 2:19)
+Die Sicherung dahinter ist bei uns jetzt noch geöffnet, deswegen geht es dann auch erstmal nicht weiter. Genau die, diese Sicherung in der Trafo-Station, haben wir sie ja genannt vorhin schon, deswegen nehmen wir das Wording jetzt mit. 35 Ampere, seht ihr da so mittig beim Transformator, die würde ich jetzt einschalten.
+
+(2:19 - 2:42)
+Dann geht sozusagen der spannungsführende Bereich, hier in blau, geht dann so ein bisschen weiter, bis in die Hauptverteilung rein. Das war vorhin in der 360-Grad-Tour, in so einer Nische habe ich den Deckel aufgemacht und dann hat man da so kleine Sicherungsautomaten gesehen. Das ist genau diese NSRV, die ich damit meine.
+
+(2:43 - 3:07)
+Und dann geht man sozusagen da rein, macht diesen Deckel auf und schließt dann diese Hauptsicherung von dieser NSRV, diese 30 Ampere bei mir, zack, und jetzt hätten wir erstmal die gesamte Niederspannungs-Hauptverteilung in Betrieb genommen. Als nächstes kommen die Abgangssicherungen zu den Trackern, die würde ich einfach einzeln nacheinander dann auch einschalten. Und jetzt ist das alles erstmal blau.
+
+(3:07 - 3:21)
+Und wenn man jetzt zu dem Tracker hinlaufen würde, dann würde man hoffentlich bei der TCU auch vielleicht irgendwie so eine kleine LED leuchten sehen und kann auf diese Weise schon mal feststellen, dass das erstmal funktioniert hat. Außerdem ist zum Glück die Sicherung nicht wieder rausgeflogen. Das ist natürlich auch schon mal gut.
+
+(3:22 - 3:28)
+Jetzt fehlt noch die NCU. Das machen wir als nächstes und da hängen die Sensoren dran. Deswegen machen wir das so als einen Block.
+
+(3:28 - 3:38)
+Also zack, die NCU brauchen wir natürlich jetzt auch gleich. In unserem Konzept haben wir ja jetzt eine Pro-Trafostation. Das kann unterschiedlich sein, aber das Prinzip ist erstmal so, glaube ich, klar.
+
+(3:39 - 3:51)
+Also von diesem Team, von dieser Trafostation, die Tracker, die TCUs, die gehören zu dieser NCU. Und deswegen brauchen wir da auch Power. So, das war erstmal die Zuschaltung.
+
+(3:52 - 4:02)
+Und jetzt aber bitte auf keinen Fall nach Hause gehen, sondern erst richtig loslegen sozusagen mit unserer Inbetriebnahme. Also vielleicht erster Schritt, okay, Daumen nach oben. Da haben wir schon mal viel gewonnen.
+
+(4:03 - 4:16)
+Aber jetzt geht es eigentlich erst richtig los. Jetzt brauchen wir Prüfprotokolle. Jetzt müssen wir gut vorbereitet sein, dass wir überhaupt verstehen, was da verbaut ist, damit wir überhaupt auch wirklich, wirklich nachvollziehen können, was wir jetzt testen müssen.
+
+(4:16 - 4:26)
+Und das dann auch so wunderbar, wie ich das jetzt gleich mache, immer so schön grün abhaken können. Also los geht's. Die Prüfung der Kommunikation.
+
+(4:26 - 4:33)
+Wir fangen mal an mit Parametern. Welche Parameter genau meine ich? Da gibt es ziemlich viele. Wir schieben mal unser Modell wieder mit rein.
+
+(4:34 - 4:43)
+Also mit unserer TCU und einer, einer TCU und unserer NCU. So beispielhaft gibt es natürlich dann viel mehr davon. Aber jetzt machen wir es natürlich nur mal beispielhaft an einer.
+
+(4:44 - 4:52)
+Und die müssen parametriert werden. Das geht ohne Spannungsversorgung nicht. Deswegen kommt das logischerweise eben erst im zweiten Schritt nach der Zuschaltung.
+
+(4:52 - 4:58)
+Und da habe ich jetzt mal einige aufgeschrieben. Die würde ich dann wiederum auch in Prüfprotokollen vorbereiten. So ähnlich wie hier vielleicht.
+
+(4:58 - 5:06)
+Und dann kann man das noch abhaken oder so. Also die haben eventuell IP-Adressen, Subnet-Masken oder vielleicht Modbus-Adressen. Je nachdem.
+
+(5:06 - 5:18)
+Die brauchen unbedingt die Definition des Zeitservers. Und die müssen auch wissen, in welcher Zeitzone sie sich befinden. Das ist bei Trackern, würde ich sagen, noch viel wichtiger als bei irgendwelchen Datenlockern oder so.
+
+(5:19 - 5:30)
+Weil die ja mit diesen Informationen ihre Positionen sozusagen bestimmen und ausrechnen. Wenn man da einen Fehler macht, dann laufen sie genau in die falsche Richtung sozusagen. Beim Standort ist es das Gleiche.
+
+(5:30 - 5:46)
+Ich habe das so gelernt, dass jeder Tracker tatsächlich seinen spezifischen Standort genannt bekommt. Das sind ja dann so eine Genauigkeit von 10, 15 Metern. Also so detailliert sollten die Bescheid wissen, wo sie sich eigentlich befinden.
+
+(5:48 - 5:54)
+Dann ganz wichtig, Alarmgrenzwerte für Wind und Schnee. Die werden später auch getestet. Also muss man sie jetzt erst mal richtig parametrieren.
+
+(5:55 - 6:03)
+Das ist auch nicht einfach so gemacht. Das ist ja Schutztechnik. Also man muss sich schon vorher überlegen, wie eigentlich diese Grenzwerte definiert sind und warum.
+
+(6:03 - 6:13)
+Und nur dann kann man sie auch sinnhaft einstellen. Die Zuordnung der TCU und NCU ist auch wichtig. Das habe ich ja nicht aufgeschrieben.
+
+(6:14 - 6:37)
+Vermeintlich einfach, wenn vielleicht es nur eine Trafostation gibt, nur eine NCU und alle TCUs zu dieser einen NCU gehören. Bei größeren Systemen, die ja vielleicht auch kleinteiliger aufgebaut sind, ist das natürlich viel komplizierter. Und teilweise werden gerade in diesen Landwirtschaftsbetrieben die Agri-PV-Modi auf verschiedene Bereiche unterschiedlich zugeordnet.
+
+(6:37 - 6:48)
+Und dann ist diese Zuordnung ganz immens wichtig. Sonst kommt ja der Landwirt, drückt auf den Knopf und der falsche Bereich bewegt sich. Die Rotationsgrenzwinkel, auch unterschiedlich.
+
+(6:48 - 6:59)
+Da geht es aber auch sehr um Sicherheit. Das muss man auch richtig definieren, je nach Herstellervorgabe. Und dann die Winkel für die Stow-Positionen, eine Wartungsposition und die Landwirtschaftsposition.
+
+(6:59 - 7:15)
+Also Agri-PV, weil nur, weil ich ja jetzt gesagt habe, welchen Winkel ich dafür ansetzen würde, heißt das ja nicht, dass euer Hersteller das genauso sieht für euer Projekt. Das muss man sich schon projektspezifisch überlegen und dann aufschreiben. Das ist also so ein richtiges Prüfprotokoll, das da irgendwann daraus entsteht.
+
+(7:17 - 7:36)
+Softwareaktualisierung macht man immer, finde ich, wenn man mal so Software-Systeme sozusagen neu startet. Und dann protokollieren wir das Ganze, weil wenn das hier, je nach Anlagengröße, vielleicht ein, zwei, vielleicht sogar drei Wochen in Anspruch nimmt, dann will man nicht am Schluss wieder vorne anfangen, nur weil man vergessen hat, das aufzuschreiben. Also immer gleich alles protokollieren.
+
+(7:38 - 7:46)
+Das waren ja allein die Parameter. Das kann schon eine ganze Zeit dauern, bis dieses System erstmal richtig vorbereitet ist. Und danach würde ich eine Zuordnungsprüfung machen.
+
+(7:47 - 7:59)
+Ich habe es nochmal aufgeschrieben. Das Ziel wäre für mich die Zuordnung der einzelnen TCUs zur jeweiligen NCU. Machen wir hier mal beispielhaft mit einer NCU.
+
+(7:59 - 8:16)
+Jetzt habe ich hier mal, weil in meinem 3D-Bild ist es ja auch so dargestellt, eine TCU und einen Tracker, 1.1.1.1. Und der Status, weil ich will ja immer Protokolle haben, den habe ich auch schon mal vorbereitet. Und weil es mit einer aber irgendwie nicht so viel Spaß macht, habe ich noch zwei dazu geholt. Da sind sie.
+
+(8:16 - 8:23)
+Jetzt haben wir mal drei CCUs zu einer NCU zugeordnet. Und jetzt macht man einfach Folgendes. Jetzt haben wir ja Power.
+
+(8:23 - 8:31)
+Jetzt haben wir ja auch alles schon vorrichtig parametriert. Das heißt, dieser Test, der jetzt kommt, der muss auch funktionieren. Ich habe da meinen Laptop hingelenkt.
+
+(8:31 - 8:47)
+Ich bin im Netzwerk und jetzt sage ich, hier ist mein Pfeil so mittig oben bei dem Tracker 1.1. Der soll jetzt mal bewegt werden. Da kommt mein Brief relativ schnell durchgeschossen, also mein Signal. Und ihr habt es gesehen, 1.1 hat sich bewegt.
+
+(8:47 - 8:51)
+Das war also richtig. Meine Zuordnungsprüfung war erfolgreich. Natürlich mal eine Gegenprüfung.
+
+(8:51 - 9:01)
+Jetzt machen wir es mit der 1.2. Achtung, da kommt wieder mein Signal hingefeuert. Und ihr habt es gesehen, der ist jetzt aber weitergelaufen. Und dummerweise hat sich der Tracker 1.3 bewegt.
+
+(9:02 - 9:06)
+Also Fail. Wunderbar, kann man gleich reparieren. Kann man natürlich gleich lösen.
+
+(9:06 - 9:12)
+Machen wir auch. Sonst wäre das nicht so vorbildlich. Also nochmal messen bitte nach der Korrektur.
+
+(9:13 - 9:23)
+Zack, jetzt hat es funktioniert. Und dann machen wir da auch einen Status grün rein. Dann wird es auch beim dritten funktionieren, weil wir haben unseren Fehler gleich erkannt und gleich behoben.
+
+(9:23 - 9:36)
+Und damit hätten wir sozusagen unser Prüfprotokoll an der Stelle erfolgreich abgeschlossen. Zuordnungsprüfung bestanden. Weiter geht es.
+
+(9:36 - 9:48)
+Dritte Prüfung der Kommunikation werden die Sensoren. Nachdem also die Tische jetzt soweit funktionieren, gucken wir uns die Sensoren an. Haben wir jetzt so einfach mit einer rudimentären Checkliste hingeschrieben.
+
+(9:48 - 10:03)
+Ihr kennt sie alle. Die Zuordnung übernehme ich in dieser Tabelle gleich mit. Also bei meiner NCU1 würde ich gerne in Kombination sehen den Windsensor 1.1. Das probiert man aus, ob man den sehen kann.
+
+(10:03 - 10:11)
+Da kann man auch mal hingehen und den bisschen drehen oder pusten. Dann sieht man sofort, dass sich die Werte verändern. Beim Einstrahlungssensor lege ich einfach ein Blatt drüber.
+
+(10:11 - 10:17)
+Dann sehe ich auch, dass es der richtige ist. Es geht erst mal nur um die Zuordnungsprüfung, nicht um eine Kalibrierung oder so. Aber die Zuordnung ist klar.
+
+(10:18 - 10:35)
+Da muss man schon mal kurz abdecken, damit man dann eine Reaktion an der richtigen Stelle sieht. Kann man sich vorstellen, große Projekte, 10 NCUs, 10 Einstrahlungssensoren, 10 Windsensoren und jetzt soll die Zuordnung schon richtig sein. Sonst gibt es später bei den Alarmen Probleme.
+
+(10:36 - 10:56)
+Wir prüfen auch den Temperatursensor, wir prüfen den Neigungssensor, der auch irgendwo verbaut ist, mindestens einer. Und den Schneesensor sehen wir später auch nochmal in Aktion. Das war die letzte Prüfung von meiner Kommunikation.
+
+(10:56 - 11:02)
+Das habe ich jetzt also alles wunderbar erledigt. Grüner Daumen nach oben. Damit kommen wir zum dritten Schritt.
+
+(11:03 - 11:16)
+Der dritte Schritt ist, finde ich, jetzt erst mal der spannendste. Da will man eigentlich schon mal dabei gewesen sein, wenn man jetzt eine Funktionsprüfung ausführt. Bei Trackern ist da ja richtig was los, weil wir ja so richtige mechanische Bewegungen erleben werden.
+
+(11:17 - 11:39)
+Aber Funktionsprüfung, finde ich, ist nicht einfach nur drücken und gucken, dass sich der Tisch an sich bewegt, sondern man kann das jetzt schon ein bisschen kleinteiliger, komplizierter, herausfordernder für den Prüfer vorbereiten. Und ich zeige einfach mal, wie ich das machen würde. Also erster Punkt wäre für mich, ich kalibriere jetzt erst mal die Neigungssensoren, die ja in den Tischsystemen meistens verbaut sind.
+
+(11:39 - 12:05)
+Ich kenne das so, dass im Grunde jeder Tracker, also sozusagen jede Tischeinheit dann da, einen eigenen Neigungssensor hat. Und den muss ich jetzt als erstes mal kalibrieren, sonst weiß ich ja gar nicht, ob später meine Tests auch wirklich erfolgreich sind. Das sage ich hier mal, ich nehme mal den Tracker 1.1, dann würde eben dieser interne Neigungssensor jetzt 0 anzeigen, beziehungsweise ich gebe mit meinem Laptop, ihr seht es hier, dem Tracker 0 Grad vor.
+
+(12:06 - 12:14)
+Zack, bewegt sich der Tracker. Zuordnung hatte ich ja schon vorher gemacht, also funktioniert das auch. Und jetzt steht der so da und jetzt traue ich aber der Sache nicht.
+
+(12:14 - 12:27)
+Und deswegen habe ich selber nochmal so einen manuellen externen Neigungssensor mitgebracht. Den legen wir, die Prüfer, legen das dann einfach oben auf die Tischreihe drauf und gucken mal. Und dann ist natürlich diese Abweichung jetzt völlig in Ordnung.
+
+(12:28 - 12:44)
+Und damit kann ich sagen, der ist richtig eingestellt, der ist kalibriert, grüner Haken dran. Das mache ich dann hier, ging das jetzt recht schnell, das mache ich je nach Projektgröße mit irgendwie 1000 Trackern. Das dauert dann wieder eine ganze Zeit.
+
+(12:44 - 13:04)
+Ich muss es aber machen, damit ich sicher sein kann, dass erstmal alle gut und richtig eingestellt und vorbereitet sind. Wenn ich das gemacht habe, weiß ich ja jetzt, dass die Positionierung an sich richtig funktioniert und gehe jetzt wieder einen Schritt weiter in die Funktionsprüfung meiner Positionierungsbefehle. Da gibt es mehrere.
+
+(13:04 - 13:19)
+Also gibt es jetzt Unterkapitel. Erstmal Kapitel 2.1, meinen Windalarm. Ich erkläre erstmal, wie meiner Erfahrung nach die meisten Windalarmsysteme funktionieren.
+
+(13:19 - 13:39)
+Was muss man in so einem Diagramm, finde ich, am besten einmal verstanden haben, damit man dann auch die Prüfung richtig vorbereiten und bewerten kann. Weil ich würde mich nicht, also man kann sich auch auf die verlassen, die vom Hersteller das vielleicht vor Ort machen. Aber man kann ja auch kritisch hinterfragen, wie genau habt ihr das eigentlich geprüft und ihnen jetzt das Diagramm zeigen, das ich euch gleich zeige.
+
+(13:39 - 13:48)
+Und vielleicht sagen sie, ja klar, genau so haben wir es gemacht. Vielleicht sagen sie aber auch, huch, das haben wir jetzt nicht so ausführlich gemacht. Und dann könnt ihr sagen, ja, dann macht es nochmal.
+
+(13:49 - 13:56)
+Also erstmal verstehen bitte, die Auslösung von so einem Windalarm hat Grundbedingungen. Es sind mehrere. Es ist genau wie bei der Schutztechnik.
+
+(13:57 - 14:02)
+Überstromung, Spannung, Frequenz. Genauso kann man sich das hier auch vorstellen. Es ist jetzt nur Wind anstatt von Strom.
+
+(14:02 - 14:19)
+Und da wäre der erste Parameter erstmal die Windgeschwindigkeit. Und die wird dann in verschiedene Level, wir haben es jetzt mal 1 bis 5 genannt, seht ihr auch gleich, also in verschiedene Windgeschwindigkeitsgruppen unterteilt. Das zweite Kriterium ist dann die Dauer.
+
+(14:19 - 14:36)
+Drei Sekunden haben wir jetzt mal gesagt. Das ist, glaube ich, ein typischer Wert. Also nur, weil der Wind mal sozusagen für eine Mikrosekunde ein bisschen zu stark weht, würde noch nicht reichen für das Kriterium, sondern es gibt dann eben auch noch eine Mindestdauer, genau wie bei einem Überstromschutzrelais.
+
+(14:37 - 14:47)
+Und in die andere Richtung ist das ähnlich. Also auch für die Deaktivierung von so einem Windalarm gibt es feste Parameter. Wir schreiben jetzt Zahlen rein, ist auch immer einfacher, dem zu folgen in der Logik.
+
+(14:47 - 14:58)
+Also 25 kmh sagen wir jetzt mal. Und zwar dann für 300 Sekunden. Das sind 5 Minuten, also schon eine längere Zeit, in der dann eben kein Sturm mehr vorhanden sein darf.
+
+(14:59 - 15:21)
+Und dann geht der auch wieder aus seinem Windalarm raus. Das zeige ich jetzt als Tapelle und Diagramm, weil so würde man auch so ein Prüfvotokoll aufbauen. Also erstmal unser Beispiel, Level 5 haben wir es genannt, Wind 30 kmh und dann noch die Abhängigkeit von der Neigung der Tische bringt nochmal eine kleine Komplexität mit rein.
+
+(15:21 - 15:28)
+Also das wäre jetzt so, ich zeige es jetzt einfach im Diagramm. Mein Windgeschwindigkeit vs. Zeitdiagramm.
+
+(15:28 - 15:41)
+Ich sage, wir haben jetzt schon eine 60 Grad Winkel erreicht. Die Tische sind also wie so ein Schiffssegel quasi voll in den Wind ausgerichtet. Das ist natürlich eher schlecht.
+
+(15:42 - 16:03)
+Und deswegen würde mein Alarm jetzt schon bei 30 kmh, das ist ja gar nicht so viel Sturm, eher so ein mäßiger Wind, schon auslösen. Also abhängig davon, wie gut oder schlecht meine Tische gerade stehen, wäre dann die Windgeschwindigkeitslevel 1 bis 5 herauszunehmen. Das macht natürlich die Software dann von ganz alleine, aber man muss es ja einmal richtig gesagt haben.
+
+(16:04 - 16:48)
+Und was würde jetzt passieren, wenn also in meinem Beispiel hier die Neigung jetzt schon bei 60 Grad steht, dann hätte ich hier mal so beispielhaft so eine Windkurve aufgetragen und in diesen ersten Spitze da, die da über meine Alarmauslösungsschwelle schon drüber hüpft, würde also noch nichts passieren, weil das jetzt weniger als drei Sekunden gedauert hat. Aber mein zweites Beispiel hier, klar, das habe ich natürlich so gewählt, das dauert jetzt drei Sekunden und dann zack, wie gesagt, wie so ein Schutzrelais, genau das gleiche Prinzip. Dann sagt jetzt diese NCU, das ist ein Sturm, abhängig von meiner Neigung, die ich gerade habe, ist mir das jetzt zu unsicher und sehr aktiviert die Alarmauslösung.
+
+(16:48 - 17:11)
+Genau das kann man dann super überprüfen, dass das auch richtig eingestellt ist. Jetzt noch, um diese Kennlinie fertig zu machen, da unten wäre also auch die Deaktivierung sozusagen richtig einzustellen bei 25 kmh, seht ihr. Und jetzt hört der Sturm also wieder auf, es wird weniger Wind und da dauert es aber deutlich länger, bis der wieder zurückfällt in seinen Automatikmodus.
+
+(17:11 - 17:39)
+Das waren jetzt 300 Sekunden, habe ich unten eingetragen und dann deaktiviert er auch wieder seinen Alarm. Jetzt ist, glaube ich, auch schon klar, warum diese Deaktivierung unabhängig ist von der Windgeschwindigkeitslevel, weil ich bin ja eh in meine Schutzposition gefahren, in meine Stow-Position, da bin ich jetzt eh erstmal safe und dann sagt man grundsätzlich, also erst wenn das hier wirklich vorbei ist, dann fahre ich wieder in meinen Automatikbetrieb. Das war jetzt erstmal nur die Grundlage für meinen Winteralarm.
+
+(17:39 - 17:51)
+Das muss man jetzt sozusagen so im Kopf haben, um das Ganze dann prüfen zu können. Und ich habe auch noch oben meine Tabelle jetzt ausgefüllt. Das habe ich absichtlich rausgelassen, für mein Beispiel war das jetzt nicht erforderlich.
+
+(17:51 - 18:18)
+Aber ihr seht hier, die Windgeschwindigkeiten, ab denen man sozusagen Sturm- oder Stow-Position definiert, sind bei geringeren Neigungswinkeln deutlich höher. Also wenn mein Tisch bei 9 Grad steht, dann kann ich ja sogar bis 120 kmh erstmal nichts machen und erst danach würde er wiederum in seinen Alarmmodus gehen. So, jetzt machen wir die Prüfung.
+
+(18:18 - 18:37)
+Also ich habe ein bisschen Platz geschaffen und habe meine Status-Spalte mit hinzugefügt und mache jetzt eine Prüfung. Also ich bringe meine Tracker in Position, habe ich ein Beispiel, ich glaube 60 Grad war es, oder vielleicht mache ich jetzt ein anderes Beispiel. Aber grundsätzlich muss ich erstmal meine Neigung vordefinieren, dass mein Tracker in der richtigen Position steht.
+
+(18:38 - 18:52)
+Dann simuliere ich den Wind. Das mache ich jetzt hier mit 120 kmh. Also habe ich ihn auf 9 Grad Neigung gebracht vorher und simuliere jetzt 120 kmh und dann überprüfe ich den Alarmstatus.
+
+(18:52 - 19:13)
+Den habe ich hier mal mit so einer Alarmleuchte symbolisch dargestellt. Also das sehe ich jetzt in meiner Software, dass die NCU in den Alarmstatus springt und ich sehe natürlich auch, dass meine Tracker richtig in Stow-Position fahren. Ich habe vorher ja schon meine Neigungswinkel kontrolliert, also dass das grundsätzlich funktioniert in meiner Kette.
+
+(19:13 - 19:26)
+Habe ich schon abgehakt, jetzt geht es nur noch darum, dass er das dann überhaupt macht und dann habe ich meinen grünen Haken da dran gesetzt. Also relativ komplexe Sache, weil ich ja schon jetzt dieser Tabelle hier folgen muss. Ich mache mal alle grünen Haken schon mal rein.
+
+(19:26 - 19:51)
+Das dauert auch wieder, ist nicht schnell gemacht und muss man ja jetzt an jedem Windsensor einzeln prüfen. Bitte nicht das Protokollieren vergessen, ich habe es extra jedes Mal hier mit hingeschrieben. Aber so relativ einfach wäre am Schluss so ein Prüfprotokoll und wenn man das irgendwie dann in seine Dokumentation ablegt, dann kann man, finde ich, schon sehr klar auch im Nachgang nachweisen, dass das bei der Inbetriebnahme funktioniert hat.
+
+(19:52 - 20:16)
+Hier wäre es ja so, ganz typischer Fall, ein, zwei Jahre später ist halt wirklich mal so ein Sturmereignis und offensichtlich gibt es einen Schaden und dann würde ich als erstes mal nach diesem Prüfprotokoll fragen, weil muss man ja erst mal sicher gehen, dass man es richtig eingestellt hat und danach würde ich erst mal überprüfen, ob er es auch wirklich gemacht hat. Aber das Prüfprotokoll würde ich mir immer mal als erstes angucken. So, dann kommt der Schneealarm.
+
+(20:17 - 20:35)
+Der geht ein bisschen einfacher. Ich habe es aber ähnlich dargestellt, also wieder so eine kleine Tabelle und jetzt sagen wir, definiert ist der Schneealarm ab einer Höhe von 5 cm und einer Neigung von 45°. Das sieht man auch hier wieder in so einem Diagramm.
+
+(20:35 - 21:05)
+Also für die Einstellwerte würde ich immer den Hersteller fragen, aber jetzt hat er uns gefragt und ich habe die jetzt mal vorgegeben und dann sieht man hier, da kommt es jetzt zur Auslösung ab 5 cm und dann hört er auch wieder auf. Er hat sich dann bewegt, der Schnee ist abgerutscht oder getaut und dann ist der Schnee weg und dann deaktiviert er das auch wieder bei kleiner 5 cm und die ganze Sache ist schon erledigt. Und jetzt nur noch zu prüfen, ähnliches Prinzip würde ich sagen, das ist unser Schneesensor.
+
+(21:05 - 21:27)
+Jetzt habe ich keinen Schnee, sage ich mal, also muss ich das irgendwie anders machen und ich habe das gesehen selbst, so ein Betriebnehmer von Trackersystemen würden tatsächlich einfach irgendwie ein Stück Holz oder weiß ich nicht, irgendein Objekt nehmen. Hier habe ich es mal dargestellt und schieben das unter den Sensor. Dann sehen Sie wiederum an Ihrem Laptop, dass der Status Schneealarm startet.
+
+(21:27 - 21:45)
+Zack, er hat das identifiziert. Das kann jetzt nicht unbedingt genau 5 cm sein, aber also ungefähr kann man da ja was hinschieben. Der erkennt das, der geht in den Schneealarm, die Zuordnung und dann auch die Reaktion wird man dann auch gleich erkennen können und dann kann man das Ganze mit einem grünen Haken versehen.
+
+(21:48 - 21:56)
+So viel zum Schneealarm. Als nächstes die Reinigungsposition. Also ich glaube, da muss ich jetzt nicht so viel erklären.
+
+(21:56 - 22:10)
+Man aktiviert halt in der Prüfung den Reinigungsmodus. Da machen wir da links unten auch mit unserem Laptop. Und sehen dann, dass der Tracker in die Reinigungsposition fährt.
+
+(22:10 - 22:18)
+Muss man unbedingt, finde ich, in der Bedienungsanleitung nachlesen, wie denn der überhaupt definiert sein sollte. Sonst kann ich es natürlich nie überprüfen. Bei uns sind es 30 Grad.
+
+(22:19 - 22:32)
+Und wenn er das gemacht hat, soll er bitte danach, wenn man das deaktiviert, auch wieder zurück in den Automatikmodus fallen. Hier auch nochmal dargestellt. Und dann kommt der grüne Haken dran und mein Protokoll wird unterschrieben und mit Datum versehen und abgelegt.
+
+(22:37 - 22:54)
+Die vierte Prüfung haben wir verschiedene Positionen genannt. Jetzt probieren wir doch einfach mal aus, nachdem wir das Kalibrieren vorhin ja nur in der Position mit 0 Grad gemacht haben, probieren wir hier doch jetzt nochmal aus, was eigentlich bei meinem Befehl von minus 55 Grad passiert. Erstmal auch, finde ich, die Orientierung Ost-West.
+
+(22:54 - 23:05)
+Also was ist Minus, was ist Plus? Das, finde ich, sollte man ja auch einmal durchgetestet haben, ob er überhaupt versteht, Minus und Plus. Also, minus 55 haben wir gemessen. Passt.
+
+(23:05 - 23:11)
+Dann minus 30 haben wir gemessen. Passt auch. Ich denke, das geht jetzt so weiter.
+
+(23:11 - 23:17)
+Wir gehen in 0-Grad-Position. Die hatten wir ja schon mal gemessen, machen wir meinetwegen nochmal grün. Passt.
+
+(23:18 - 23:28)
+20 Grad, das finde ich, ist ein sinnhafter Test, dass das jetzt in die andere Richtung geht, meinetwegen nach Westen in meinem Fall. Auch in Ordnung. Und dann nochmal die 35 Grad.
+
+(23:28 - 23:39)
+Dann haben wir auch andere Zahlenwerte ausprobiert. Also da haben wir jetzt wirklich ausreichend getestet. Und wenn das alles in Ordnung ist, können wir sicher sein, dass der auch die verschiedenen anderen Positionen richtig interpretiert.
+
+(23:40 - 24:03)
+Wir protokollieren und gehen weiter. Letzter Test für diese Funktionsprüfung, der Automatikbetrieb. Da habe ich das von erfahrenen Inbetriebnehmern so erfahren, wenn diese bisherigen Prüfungen ja dann eben alle positiv abgeschlossen sind, ist dieser Automatikbetrieb tatsächlich nur noch eine visuelle Prüfung.
+
+(24:04 - 24:45)
+Also jetzt sagen wir, wir haben 10 Trafostationen, 10 NCUs, 1000 Tische, 1000 TCUs. Dann drücken wir am Schluss das System, deswegen nennen wir es auch Abschlussprüfung, nochmal auf Automatikbetrieb und fahren dann einfach meinetwegen mit dem Auto so langsam durch die Reihen und gucken, das wird ja dann nicht so schnell passieren, das geht ja natürlich viel langsamer, aber die gucken dann grundsätzlich alle Reihen nochmal durch und sehen, ob die auch tendenziell sozusagen im richtigen Modus sind und in der richtigen Orientierung stehen. Wenn es irgendwo Abweichungen gibt, würde ich sagen, kann man das relativ leicht erkennen, wenn einem da einmal mal durchgerutscht ist, dann hat er ja einen ganz anderen Winkel als der Rest.
+
+(24:45 - 24:57)
+Ich glaube, das ist leicht rauszufinden und dann muss man sich den auch nochmal genauer angucken. So, das waren meine Funktionsprüfungen. Jetzt gehen wir in das Control Panel.
+
+(24:57 - 25:12)
+Ich könnte mir vorstellen, ich habe es irgendwie an anderer Stelle auch schon mal Pharmabox genannt oder manuelle Betriebsbox, also es gibt bestimmt verschiedene Namen, aber ich habe es hier visuell mit eingeblendet. Ich glaube, dann ist erstmal wieder klar, was gemeint ist. Das müssen wir auch überprüfen.
+
+(25:13 - 25:20)
+Da ist er. So, wir testen unsere vier Knöpfe, indem wir draufdrücken. Wir machen das hier mal.
+
+(25:21 - 25:34)
+Wir drücken auf den ersten Knopf, der war Automatik und sehen den auch nochmal ein bisschen eingeblendet und dann sehen wir, dass der Automatikbetrieb funktioniert. Grüner Haken dann. Wir drücken auf den zweiten Knopf.
+
+(25:34 - 25:46)
+Das ist unsere Stow-Position. So haben wir das halt definiert. Und dann muss man das auch sehen, dass dann relativ schnell diese ganzen Tische in die Stow-Position fahren und nur dann kann ich einen grünen Knopf dran machen.
+
+(25:46 - 25:58)
+Ich finde, an der Stelle sind Dreher mega schnell. Es könnte sein, dass die Verbindung überhaupt nicht funktioniert zur NCU. Es könnte sein, dass sie das falsch herum interpretiert und jetzt beim zweiten Knopf den Automatikmodus aktiviert.
+
+(25:58 - 26:08)
+Wie auch immer, das kriegt man nur raus, indem man auch wirklich mal draufdrückt. Dann der dritte Knopf, mein Agri PV 1 Modus. Also zack, richtig rum.
+
+(26:08 - 26:26)
+Jetzt muss ich ehrlich gesagt alle Reihen abfahren, wirklich mir angucken, weil das muss ja in der Parametrierung oder in der Programmierung der NCU sehr feingliedrig hinterlegt sein. Sagen wir mal 100 Tracker für eine NCU. Dann wären ja 50 jetzt nach Osten und 50 nach Westen definiert.
+
+(26:27 - 26:39)
+Das machen die nicht unbedingt mit Reihen, sondern vielleicht mit Seriennummern oder IP-Adressen der Tracker. Also das ist schon eine sehr feingliedrige Zuordnung in der Parametrierung. Und das kann natürlich auch beim ersten Mal sofort schief gehen, finde ich.
+
+(26:40 - 26:52)
+Also muss man durchfahren. Vielleicht fährt einfach der Landwirt auch mal so durch, wie er es dann später vorhat und erkennt ja nur dann Fehler, wenn er das wirklich mal ausprobiert hat. Also wenn eine Tischreihe falsch steht, dann passt ja sein Tracker schon gar nicht mehr durch.
+
+(26:53 - 26:56)
+Bei uns hat es funktioniert. Grüner Haken dran. Und dann machen wir natürlich auch die Gegenprüfung.
+
+(26:56 - 27:02)
+Gleiches Prinzip. Muss er nochmal durchfahren. Gibt ja vielleicht auch an beiden Enden so eine Box.
+
+(27:02 - 27:19)
+Also einfach wie in Realität bei der anderen Box einfach nochmal draufdrücken. Alle Tische verschieben sich in die Gegenposition und er fährt die entgegengesetzte Reihenzuordnung wieder zurück. Ja, protokolliert und mein Control Panel ist auch überprüft.
+
+(27:22 - 27:36)
+Letzte Prüfung insgesamt bei dieser ganzen Inbetriebnahmefunktion. Eine Prioritätsprüfung. Meiner Erfahrung nach kommt sowas also es kommt ja auch am Schluss in der Logik, aber vielleicht auch manchmal etwas zu kurz.
+
+(27:36 - 27:49)
+Ich zeige euch, was ich damit meine. Wir haben es mal als so eine kleine Pyramide aufgebaut. Also für mich ist die Ebene 3, habe ich sie genannt, der Automatikbetrieb für die Nutzenoptimierung der Landwirtschaft.
+
+(27:49 - 28:03)
+Das ist so ein bisschen die Basis der Pyramide. Dieser Automatikbetrieb, der sollte ja zu 99% seiner Lebenszeit des Treckers im Betrieb sein. Und dann fährt er da in aller Seelenruhe immer seiner Sonne hinterher.
+
+(28:04 - 28:09)
+Das ist für mich die Basis. Ebene 3, Automatikbetrieb. So ist das erstmal konzipiert.
+
+(28:10 - 28:18)
+Und jetzt liegt er aber an Ebene 2 drüber. Das ist der Manuellbetrieb. Da kann der Landwirt eben manuell kontrollieren.
+
+(28:18 - 28:31)
+Wir haben die Kontrollbox gerade gesehen. Entweder wenn er durchfahren will oder auch für Reinigungsarbeiten. Also der Manuellbetrieb, der liegt, jetzt haben wir es hoffentlich visuell ja schon richtig dargestellt, der liegt über dem Automatikbetrieb.
+
+(28:31 - 28:41)
+Und die Spitze meiner Pyramide, das ist das Alarmsystem. Das hat natürlich höchste Priorität. Da hat auch kein Landwirt und kein Automatikbetrieb mehr was verloren.
+
+(28:41 - 28:52)
+Sondern wenn es zu einem Alarmebene kommt, dann darf nur noch der Alarm sozusagen durchgreifen. Und das wäre dann die Stow-Position. Windalarm, Schneeralarm, haben wir schon viel drüber geredet.
+
+(28:52 - 29:10)
+Und jetzt wird aber nochmal klar, dass der sozusagen ganz oben steht. Ich schiebe jetzt diese einzelnen Stichpunkte, die ich da aufgeschrieben habe, mal links in so ein Unterkapitel rein. Was aber gemeint ist, ist die Hierarchie-Ebene der Prioritäten.
+
+(29:11 - 29:23)
+Ich schiebe das einfach mal rüber. Also die erste Priorität, die höchste, hat der Windalarm. Danach kommt der Schneealarm, danach der Manuellbetrieb, danach die Reinigung und der Automatikbetrieb, sagte ich ja schon, der ist ganz unten.
+
+(29:24 - 29:37)
+Der hat die fünfthöchste Priorität, also die niedrigste Priorität. Dieses 4.1 bis 4.5 kann man sich also als Reihenfolge der Prioritäten vorstellen. Und warum ist das so wichtig? Ich zeige es jetzt mal.
+
+(29:37 - 29:44)
+Jetzt prüfen wir nämlich diese Hierarchie. Wir müssen sie also erstmal definiert haben, um sie auch sinnhaft prüfen zu können. Das ist immer das gleiche Spiel.
+
+(29:44 - 29:59)
+Wer irgendwas prüfen will, ohne eigentlich genau zu verstehen, was das Ergebnis sein soll, der kann die Prüfung, ehrlich gesagt, gleich sein lassen, weil irgendwas macht das System ja. Ich muss aber ja vorher wissen, was ich eigentlich erwarte, um dann im richtigen Moment sagen zu können, das war jetzt alles richtig.
+
+(Diese Datei ist länger als 30 Minuten. Upgrade auf Unbegrenzt bei https://turboscribe.ai/de/, um Dateien von bis zu 10 Stunden Länge zu transkribieren.)

@@ -1,0 +1,54 @@
+(0:00:00 - 0:00:48)
+Das nächste Kapitel ist die 360-Grad-Tour, mein absolutes Lieblingskapitel, denn jetzt können wir ganz einfach virtuell auf eine Anlage springen und uns einfach mal genau das angucken, was wir jetzt die ganze Zeit in der Theorie uns schon angeeignet haben. Das Ganze funktioniert so, dass man hier erstmal auf so einer Übersichtsseite ist, die ihr ja kennt mit den ganzen Komponenten, die wir uns alle schon in der Theorie angeguckt haben und dann kann man jetzt hier, indem man einfach drauf klickt, sozusagen direkt an die Stelle auf der Anlage hüpfen. Wir fangen mal mit dem spannendsten Punkt an, dem, was der Tracker eigentlich so ausmacht, sozusagen dem Motor, dem Tracker selbst und hier, seht ihr schon, können wir auch jetzt sozusagen manuell, im manuellen Betrieb die Tracker bewegen.
+
+(0:00:48 - 0:01:18)
+Das machen wir einfach mal. Hier seht ihr ihn, so sehen die aus, sehr hoch gebaut, damit jetzt in unserem Fall ja dann auch Landwirtschaftsmaschinen unten durchfahren können und jetzt haben wir da so eine, ja was ist das jetzt, so eine Minus, würde ich mal definieren, Minus 5 bis 10 Grad Position vielleicht. Wir ziehen einfach weiter mal Richtung Osten, behaupte ich jetzt einfach mal, dass das Osten ist, indem wir hier draufklicken und dann sieht man jetzt quasi virtuell ja nochmal, was eigentlich der Witz von so einem Tracker-System ist.
+
+(0:01:18 - 0:01:58)
+Zack, zack, zack, jetzt ist er bei mir in Maximalposition, 45 Grad, so haben wir das einfach mal definiert, damit man sich das so ein bisschen vorstellen kann und dann kann man auch in die andere Richtung gehen und sozusagen der Sonne im Laufe des Tages folgen oder wie wir später auch noch sehen, das wäre dann ja was für einen Probebetrieb, für den Test, für die Testphase, da kann man das natürlich manuell steuern und dann auch gut manuell die Neigung testen, ob das überhaupt richtig ist. So, jetzt sind wir einfach einmal von links nach rechts gefahren. Wenn wir woanders hinlaufen müssen, muss ich die Pfeile suchen, man kann sich hier immer so virtuell umdrehen und auch mal in alle Richtungen gucken.
+
+(0:01:58 - 0:02:28)
+Wir laufen jetzt mal weiter von den Tischen weg zur Trafostation. So könnte die aussehen und da haben wir jetzt weitere trackerspezifische Komponenten, die wir uns genauer angucken können, indem wir hier zum Beispiel, da sieht man es auch schön im Augenwinkel schon, hier sind auch irgendwie Sensoren verbaut, da laufe ich jetzt einfach mal hin und dann sehe ich hier, da oben ist die NCU verbaut, so sieht die jetzt hier in meinem Projekt aus und dann haben wir hier noch zwei Sensoren. Welche genau, schauen wir uns auch nochmal an.
+
+(0:02:28 - 0:03:01)
+Also hier, das sehe ich doch gleich von oben so betrachtet mit so einer relativ aufwändigen Konstruktion der Schneesensor und das ist auch ein Windrichtungssensor, da kann man auch immer dann drauf gehen und sich die Details angucken von so einem Sensor. So kommt man wieder raus und mit dem Minus kommt man hier auch wieder raus und dann hätte man also hier auch so eine NCU verbaut. Wir laufen mal weiter unter so einer Tischreihe durch und kommen dann zu so einer TCU, Tracker Control Unit, die wäre hier irgendwo verbaut.
+
+(0:03:01 - 0:03:30)
+Ich glaube, man muss sich ein bisschen nach oben drehen. Da kommt sie, da kommt sie hier, hier, hier geht diese Spannungsversorgung hin, hier geht auch die Kommunikation hin von der NCU zu so einer TCU, Tracker Control Unit und die ist dann halt an jedem Tracker selbst verbaut. Da ist ein riesen Zahnrad, mega Mechanik, die sich da dreht, sehr viel Gewicht, viel Drehmoment, das dann greift und das wäre jetzt in unserem Fall beispielhaft hier der Motor und auch ein Datenblatt hinterlegt, wo man so ein paar Details findet.
+
+(0:03:31 - 0:03:36)
+Hier gibt es ganz viele Pfeile. Also ich gehe einfach mal ein Stückchen weiter. Ich glaube, man kann links außen rumlaufen.
+
+(0:03:36 - 0:03:59)
+Das muss man einfach ausprobieren und sich da selber ein bisschen umschauen, damit man hier einen guten Eindruck gewinnt, wie einfach so ein Tracker aufgebaut ist, wie groß der auch ist, was da für riesige mechanische Einheiten im Hintergrund sozusagen diese Bewegungen realisieren. Ich bin mal nach unten, nach hinten, unten gelaufen. Da sieht man dann hier so eine Unterverteilung.
+
+(0:03:59 - 0:04:19)
+Da kann man auch noch ein bisschen ranzoomen. Also hier käme jetzt das Niederspannungskabel, 230 Volt, sag ich mal, von der Verteilung an der Trafferstation an und geht dann zu dem Tracker Motor und geht aber eben auch weiter zum nächsten Tracker, vielleicht in der nächsten Reihe. So, das war dann ungefähr hier.
+
+(0:04:19 - 0:04:26)
+Ihr könnt euch da noch deutlich mehr umschauen. Ich jetzt nicht. Ich gehe mal hier weiter zurück und gehe zu meiner Trafferstation.
+
+(0:04:26 - 0:04:35)
+Und das weiß ich, weil ich die Tour ja selbst gebaut habe, dass man hier auch noch was Spannendes findet. Und zwar einmal hier oben ein Control Panel. So ist das jetzt hier verbaut.
+
+(0:04:36 - 0:04:44)
+Auch nochmal, ja genau, sich genauer angucken. Hätte jetzt irgendwie diese vier Knöpfe in grün ausgeführt. Da gibt es natürlich verschiedenste Varianten.
+
+(0:04:44 - 0:05:33)
+Aber grundsätzlich ist, finde ich jetzt nochmal wichtig zu sehen, das ist ein ganz großer Unterschied zu so einer normalen PV-Anlage. So ein Control Panel, so eine Farmerbox, so ein Landwirtschafts-Bedienfeld gibt es sonst ja nicht. Also hier könnte man jetzt hingehen, irgendeinen Knopf drücken, ist sicherlich gut beschriftet. 
+
+Und dann geht das zum Beispiel hier diese Reihe in so eine Agri-PV-Modus-Position. Auch spannend, ein Knopf und hunderte oder tausende von Module bewegen sich wie von Geisterhand. Also da könnt ihr auch in dem Quiz, das wir hier hinterlegt haben, wunderbar Fragen beantworten. 
+
+Und dann gehe ich jetzt zum letzten Bauteil, das wir hier noch einzeln dargestellt haben. Der Niederspannungs-Verteilung, die ist dann vielleicht auf der anderen Seite. Die ist hier drin verbaut und die muss ja irgendwo herkommen.
+
+(0:05:33 - 0:05:48)
+Also hat man hier unten erstmal nur mal so ein Hilfstrafo verbaut, irgendwie so ein 40 kVA-Trafo. Ja genau, da gehen dann die Abgänge, die werden noch einzeln abgesichert, zeige ich euch. Hier werden die vom Hilfstrafo 40 kVA beispielhaft einzeln abgesichert.
+
+(0:05:48 - 0:06:12)
+Kann man auch noch mal reingucken und dann geht es hier zu diesen vielleicht 20, vielleicht 10, vielleicht 35 TCUs, die ich ja gerade schon besucht hatte. Also von hier gehen dann kleinere Kabel ins Feld hinein und versorgen die einzelnen Tracker-Motoren mit Spannung. Das kann immer ein bisschen unterschiedlich aufgebaut werden.
+
+(0:06:12 - 0:06:24)
+Diese Verteilungen können natürlich auch im Feld sein, da kann es Unterverteilungen geben. Aber das Grundprinzip, glaube ich, ist jetzt hier erstmal schon sehr klar geworden. Also da ist unsere Tracker-Einheit und jetzt wünsche ich euch viel Spaß.
+
+(0:06:24 - 0:06:27)
+Benutzt den Link selbst und schaut euch einfach mal um.

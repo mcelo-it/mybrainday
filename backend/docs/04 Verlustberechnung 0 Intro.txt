@@ -1,0 +1,12 @@
+(0:00:00 - 0:02:13)
+Hallo und herzlich willkommen zu unserem heutigen Brain Day Verlustberechnung. Wir kümmern uns heute um dieses, wie wir finden, sehr wichtige Thema und haben für euch dann natürlich wieder die altbekannte Struktur, die wir hier im Hintergrund vielleicht auch nochmal zeigen wollen. Ihr kennt das oder viele kennen das wahrscheinlich schon. 
+
+Wir kümmern uns um das Warum, stellen also erstmal die Frage, wofür brauchen wir Verlustberechnung. Danach gehen wir in das zweite Kapitel und schauen uns Wirk- und Blindleistungen an. Da gibt es dann tatsächlich auch einen kleinen Exkurs, Grundlagen Elektrotechnik oder vielleicht ist es auch das kleine 1x1 der Elektrotechnik, einfache Formeln, was ist der technische Hintergrund für Verlustberechnung, so dass dann in den späteren Kapiteln, wenn es dann um Komponenten geht und noch danach um die Berechnung, alle folgen können. 
+
+Also bei Komponenten stellen wir die Bauteile vor, bei Berechnung zeigen wir, wie wir das Ganze berechnen und ganz zum Schluss machen wir dann Rechenbeispiele für euch. Das Ganze ist dann natürlich nochmal gespickt mit Übungen, also Rechenübungen. Ihr kriegt später dann auch nochmal eine Excel-Tabelle in den Chat, wo ihr dann die Aufgaben, die wir euch vorgeben, lösen könnt. 
+
+Diese Excel-Tabelle hilft euch dann auch zukünftig mal, um kleine einfache Berechnungen durchzuführen. Wer sie braucht, wer sie nicht braucht, reicht es vielleicht hier mal als Übung, das anzusehen und aufzufrischen. Damit kombinieren wir dann unsere Menti-Fragen, also die Antworten aus den Berechnungen muss man dann bei www.menti.com eingeben. 
+
+Hatten wir auch schon in den vorangegangenen Brain Days. Alle, die das noch nicht kennen, habt am besten ein Smartphone zur Hand oder einen zweiten Rechner oder einen zweiten Bildschirm, sodass ihr euch parallel bei Menti einwählen könnt und vielleicht auf dem anderen Bildschirm die Berechnungen machen könnt. Wir versuchen euch das auch so ein bisschen mit zwei Bildschirmen hier mit einem Splitscreen zu vereinfachen, aber zwei Endgeräte sind immer hilfreich. 
+
+Versucht es mal und ihr werdet dann nach und nach da sicherlich in den Trott reinkommen und immer besser für euch herausfinden, wie das funktioniert.

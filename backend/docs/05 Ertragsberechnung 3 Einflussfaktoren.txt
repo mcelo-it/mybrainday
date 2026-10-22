@@ -1,0 +1,371 @@
+(0:00:00 - 0:00:11)
+Und ab ins nächste Kapitel. Einflussfaktoren, das dauert jetzt ein bisschen länger. Da haben wir jetzt, ich meine, es sind ungefähr 13, 14, 15 verschiedene Faktoren uns rausgesucht.
+
+(0:00:11 - 0:00:26)
+Die haben wir uns nicht selbst überlegt, sondern ich zeige sie gleich, wo sie herkommen. Das mache ich, indem ich erstmal herleite wieder zu dem Abbild, das wir vorhin schon kurz hatten. Das kennt ihr schon hinter mir, also Eingangsenergie zu Ausgangsenergie.
+
+(0:00:26 - 0:01:03)
+Und da sage ich jetzt erstmal, vielleicht auch nochmal zur Motivation, dass es mir zumindest so geht, dass es sich auch während des Projektablaufs darin Änderungen ergeben. Was meine ich damit? Also das kann in der Projektplanungsphase sein, das kann aber auch während der Errichtung sein, bei der Inbetriebnahme ehrlich gesagt nicht mehr, aber eben in diesen ersten Monaten ist das für mich durchaus üblich, dass es im Projekt technische Änderungen gibt. Ich sage mal als Beispiel ein anderer Modultyp mit einer höheren Wattklasse oder naja, also gut, dass sich die Orientierung nochmal verändert oder der Anstellwinkel, aber mag ja vielleicht auch passieren.
+
+(0:01:03 - 0:01:33)
+Also es gibt einfach technische Änderungen, die Verluste der Kabel sind dann doch ein bisschen höher, als man vorher gedacht hätte. Und genau weil es diese Veränderungen im Projektablauf gibt, halte ich es für sehr sinnvoll, dass sozusagen jeder Projektbeteiligte dann im Hinterkopf hat, welche Änderungen das denn dann auf den Ertrag, absolut spezifisch, und auf den Performance Ratio denn haben wird. Sind sie groß, sind sie klein? Gibt es überhaupt keinen Einfluss vielleicht? Und genau das machen wir jetzt in diesem Kapitel.
+
+(0:01:33 - 0:01:49)
+Wir gucken uns das mal an, was die einzelnen Teilschritte dann für einen Einfluss haben. Und dann kann man das im Hinterkopf mitnehmen und wenn das im nächsten Projekt passiert, kann man sich gleich abhaken, das macht ja eh nichts. Oder, oh, dann schreibe ich doch mal lieber dem Projektleiter eine E-Mail mit dem Hinweis, dass das aber Einfluss auf den PR hat.
+
+(0:01:49 - 0:02:01)
+Und er sollte es vielleicht nochmal nachrechnen, den Banken mitteilen, wem auch immer. Und mir ist ganz wichtig, deswegen machen wir es orange. Die, die schon oft dabei waren, wissen das, orange ist bei uns eine Art Warnfarbe.
+
+(0:02:01 - 0:02:14)
+Also orange heißt für mich, Achtung, wir zeigen jetzt nur beispielhafte Tendenzen. Das ist mir ganz wichtig, weil mir sehr wohlbewusst ist, dass was ich hier zeige, ist stark vereinfacht. Das ist Absicht, nimmt das bitte genauso mit.
+
+(0:02:14 - 0:02:26)
+Kann man ja dann nochmal weiter diskutieren, inwieweit man das verbessern könnte. Aber das ist nicht mein Punkt, ich will das auch gar nicht, sonst wird es nämlich viel zu kompliziert. Also auch das bitte mitnehmen, wir zeigen jetzt beispielhafte Tendenzen.
+
+(0:02:26 - 0:02:40)
+So, und jetzt habe ich dieses Diagramm von der Vertikalen, von der Horizontalen in die Vertikale geschoben. Das habe ich absichtlich gemacht, weil jetzt wird eine Liste draus. Und jetzt seht ihr schon, diese Liste ist leer, die werde ich jetzt nach und nach füllen.
+
+(0:02:40 - 0:03:03)
+Also von der Sonne oben zum Zähler unten zeige ich die verschiedenen Einflussfaktoren, sozusagen auf dem Weg der Energie von der Sonne im Weltall bis zum Zähler. Da unterliegt die Energie verschiedenen Einflussfaktoren und genau diese Reihenfolge zeige ich jetzt auch. Dann habe ich dann erstmal noch ausgeblendet, weil es zu viel wurde, so Fragezeichen, ach ja, und das wollte ich nämlich die Anmerkung geben.
+
+(0:03:03 - 0:03:16)
+Genau, ich denke, aus den meisten Simulationssoftware-Systemen, die man so kennt, ergeben sich am Ende genau solche Tabellen. Da habe ich das natürlich hergenommen, diese Inspiration. Das heißt, auch das ist kein Zufall.
+
+(0:03:16 - 0:03:30)
+Der obere Balken ist noch groß und dann wird er eben immer kleiner. Und da haben wir jetzt erstmal ganz viele Fragezeichen dazwischen, die die verschiedenen Verlust-Einzelschritte sozusagen definiert. Und die werden wir auch nicht mit Zahlen heute füllen, weil das ist ja projektspezifisch.
+
+(0:03:31 - 0:03:39)
+Aber für mich war wichtig zu zeigen, dass da jetzt überall was passiert. Und meistens, nehme ich auch gleich vorweg, ist das Minus. Deswegen macht das Sinn, dass wir da hingeschrieben haben.
+
+(0:03:40 - 0:03:46)
+Minus, Fragezeichen in Prozent. Also, los geht's. Wir fangen einfach mit dem ersten an.
+
+(0:03:46 - 0:04:00)
+Die Sonne lassen wir symbolisch auch mit oben stehen, damit alle nochmal wissen, wir sind jetzt ganz oben. Der erste Einflussfaktor ist die Einstrahlung. Und ich werde das jetzt die nächsten 20 Minuten immer wieder zeigen, anhand des folgenden Diagrammes.
+
+(0:04:00 - 0:04:18)
+Wir haben einmal eine X-Achse, die sich ändern wird. Jetzt bei Einstrahlung haben wir uns die Zeit rausgesucht, um den Effekt zeigen zu können. Das ändert sich. 
+
+Aber die Y-Achsen bleiben, meine ich, immer gleich. Erstmal in blau die Energie in Kilowattstunden. Und dann haben wir eine zweite Achse, um in grün den Performance Ratio zu zeigen.
+
+(0:04:18 - 0:04:24)
+Der ist in Prozent. Ich nehme das gleich mal vorweg. Das werden dann auch die nächsten 15 Menti-Fragen.
+
+(0:04:24 - 0:04:53)
+Da muss man relativ schnell greifen, was ist dann der Unterschied, den der Einflussfaktor hat, auf den Energiewert, absolut, Kilowattstunden, und den PR-Wert. Das ist nämlich der Punkt, auf den ich jetzt hinaus möchte. Jetzt schauen wir uns das mal an. 
+
+Was meint er denn damit? Also die Einstrahlung schauen wir uns mal über die Zeitachse an. Das ist für mich jetzt beispielhaft so ein Tag in Berlin. Da sind wir ja. 
+
+Schöner Tag. Aber auch egal. Ihr erinnert euch dran, es geht um Tendenzen.
+
+(0:04:53 - 0:04:59)
+Mir sind die Absolutwerte nicht relevant. Deswegen haben wir die X-Achse auch überhaupt nicht beschrieben. Die Y-Achse auch nicht.
+
+(0:05:00 - 0:05:15)
+Also das ist eine Tendenz, die wir hier zeigen wollen. Wichtig ist, wenn der Wechselrichter irgendwann morgens startet und dann abends wieder stoppt, dann hat er dazwischen Energie erzeugt. Das heißt, im Tagesverlauf wird die Energie ansteigen.
+
+(0:05:15 - 0:05:25)
+Das ist genau das, was ich hier erst mal zeigen will. Und jetzt ist wichtig, das ist der Aha-Effekt, der Performance Ratio bleibt in der Theorie gleich. Er bleibt in der Theorie gleich.
+
+(0:05:25 - 0:05:35)
+In Wirklichkeit ist es nicht so eine perfekte Gerade. Das werden wir später in der Übung auch sehen, weil es noch viele andere Einflussfaktoren gibt. Ungenauigkeiten bei niedrigen Einstrahlungswerten und so weiter.
+
+(0:05:35 - 0:06:00)
+Aber jetzt einfach nur für die Tendenz ist es wichtig, der Performance Ratio ist unabhängig von der aktuellen Einstrahlung des Tages. Das ist dem PR sozusagen egal. Wenn der Wechselrichter morgens startet, hat er das gleiche Verhältnis in der Logik zwischen dem Einstrahlungswert von der Sonne und dem Zählerwert, wie dann irgendwann mittags und auch wieder abends.
+
+(0:06:01 - 0:06:11)
+Der zweite Einflussfaktor, der das unterscheidet ist, auch hier wieder nur ein Beispiel. Ich habe auch intern bei unserem Team da schon ein bisschen Ärger dafür gekriegt, weil es nicht ganz richtig ist. Aber die Tendenz ist, meine ich, richtig.
+
+(0:06:11 - 0:06:18)
+Jetzt gehen wir nach Rom. Das ist symbolisch für mich ja nur dafür, dass da schöneres Wetter ist. Da ist jetzt also mehr Einstrahlung.
+
+(0:06:18 - 0:06:26)
+Dass er jetzt auf einem anderen Breitengrad liegt und so, das klammern wir aus. Auch welcher Tag des Jahres jetzt ist, ist irrelevant. Es geht ums Prinzip.
+
+(0:06:26 - 0:06:34)
+Schöneres Wetter in Rom. Das heißt, der fängt auch morgens an im Beispiel gleichzeitig. Und dann steigt er aber mehr an, weil er mehr Energie hat.
+
+(0:06:34 - 0:06:41)
+Er hat mehr Einstrahlung, also wird diese Kurve irgendwann weiter oben enden. Aber der PR, den zeige ich jetzt hier auch nicht. Das ist Absicht.
+
+(0:06:42 - 0:06:53)
+Der bleibt auch hier wieder gleich. Sagen wir mal, wenn er eben die gleiche PR-Logik hätte, gleiche Anlage, dann würde jetzt tatsächlich der Strich vom PR sich eben nicht verändern. Darauf will ich hinaus.
+
+(0:06:53 - 0:07:00)
+Das mitnehmen. Der PR ist quasi eine einstrahlungsunabhängige Größe. Und deswegen bleibt er erst mal so, wie er ist.
+
+(0:07:02 - 0:07:19)
+So, das war eine lange Herleitung, glaube ich, dafür, dass wir das jetzt 15 Mal machen. Aber dann hat man jetzt, denke ich, das Diagramm oder das Ziel meiner Darstellung, glaube ich, mitgenommen und schaut sich das jetzt am besten gleich selbst immer auf den nächsten Diagrammen an. Ist vielleicht im Kopf noch schneller als ich sozusagen.
+
+(0:07:20 - 0:07:27)
+Und dann hat das auch etwas hier gebracht, das einmal präsentiert zu haben. Nächster Einflussfaktor. Also die Einstrahlung ist jetzt durch.
+
+(0:07:28 - 0:07:35)
+Jetzt ist die Sonne sozusagen kurz vor dem Modul. Vor dem Modul. Und dann wird der Neigungswinkel wichtig.
+
+(0:07:35 - 0:07:44)
+Schauen wir uns das mal an. Sieht man auch, was wir damit meinen. Also wir zeigen das jetzt hier nicht die Orientierung, sondern der Neigungswinkel.
+
+(0:07:45 - 0:07:57)
+Ähnliches Diagramm, weil die X-Achse jetzt eine andere sein muss. Da zeigen wir jetzt verschiedene Neigungswinkel. Und jetzt haben wir da auch wieder ein ganz pragmatisches Beispiel reingebracht, weil es uns viel zu kompliziert wird.
+
+(0:07:57 - 0:08:03)
+Also man muss da Variablen rausnehmen. Nehmen wir also wieder Berlin, haben das nachgeguckt. Und da ist es nun mal so.
+
+(0:08:04 - 0:08:16)
+Übers Jahr gemittelt hat Berlin den höchsten Energieertrag, wenn wir dieses Modul um 25 Grad neigen. Es gibt genügend Gründe, warum man das am Ende nicht so macht. Ich kenne es meistens mit flacheren Winkel.
+
+(0:08:16 - 0:08:26)
+Das ist jetzt nicht der Punkt. Der Punkt ist, wenn wir in Berlin 35 Grad nehmen würden, kommt Maximum raus. Wenn wir das flacher machen oder steiler, gibt es weniger Energie.
+
+(0:08:26 - 0:08:37)
+Das ist das, was meine Kurve hier zeigt. Die Energie, Absolut, ist abhängig vom Neigungswinkel. Jetzt kommt hoffentlich gleich der große... Ja, und in Bogotá, ja, da ist es wieder ein bisschen anders.
+
+(0:08:37 - 0:08:44)
+Wir haben Kollegen aus Kolumbien, deswegen haben wir Bogotá genommen. Also da ist es dann 5 Grad. Das kann man in der Fachliteratur nachlesen.
+
+(0:08:44 - 0:08:53)
+Und dann ist sozusagen der Absolutwert auch wieder abhängig vom Neigungswinkel. Er ist halt nur anders als in Berlin. Jetzt kommt aber der Punkt, der entscheidende, der große Trigger.
+
+(0:08:54 - 0:09:09)
+Wir nehmen den PR deshalb so gerne, weil der jetzt auch wieder unabhängig ist vom Neigungswinkel. Das Software-Tool weiß das, dass es das sozusagen umrechnen muss. Der Eingangswert verringert sich in der Annahme schon mit.
+
+(0:09:09 - 0:09:20)
+Und so ist dann auch der Ausgangswert ein anderer. Das Verhältnis bleibt dementsprechend wieder gleich. Also sowohl Zähler als auch Nenner in meiner PR-Berechnung verändern sich sozusagen gleichteilig.
+
+(0:09:21 - 0:09:27)
+Und dadurch hat man im PR wieder eine Gerade. Später auch noch eine Übersicht. Im Handout habe ich die auch mit drin.
+
+(0:09:28 - 0:09:42)
+Dann nehmen wir diese 15 Einflussfaktoren ständig mit und schreiben immer bei Energie und bei PR, ob es sich nach oben verändert, nach unten oder gleich bleibt. Und genau das werden dann auch die Menti-Fragen werden. So, nächster.
+
+(0:09:42 - 0:09:55)
+Wir gehen in die Ausrichtung und nehmen jetzt leider auch ein bisschen Geschwindigkeit auf, weil jetzt hat man ja diese Diagramme, denke ich, gegriffen. Jetzt oben nochmal, finde ich, schön animiert dargestellt. Ausrichtung ist also was anderes als der Neigung.
+
+(0:09:55 - 0:10:04)
+Was passiert dann? Norden, Osten, Süden, Westen. Also in nördlichen Hemisphären. Nicht spitzfindig werden, bitte.
+
+(0:10:04 - 0:10:21)
+In nördlichen Hemisphären hätten wir jetzt wieder ein Maximum für die Energie, aber der PR bleibt konstant. Also auch dieser Einflussfaktor wird in den Simulationsmodulprogrammen mit berücksichtigt. Und dann ist der PR unabhängig von der Modulausrichtung.
+
+(0:10:21 - 0:10:32)
+Das ist, finde ich, der wichtige Punkt. Wenn jetzt sich eben also im Projekt plötzlich die Modulausrichtung ändert, dann müsst ihr das greifen, finde ich. Dann muss man das einmal kurz dem Projektleiter darstellen, dem Kunden.
+
+(0:10:32 - 0:10:39)
+Und dann müssen die wiederum damit was anfangen. Für uns ist das nämlich völlig in Ordnung. Ja, die Qualität der Anlage bleibt gleich.
+
+(0:10:39 - 0:10:49)
+Aber der absolute Energieertrag hinten raus, der ändert sich. Und davon wollen die Banken vielleicht etwas wissen. Nächster Punkt.
+
+(0:10:49 - 0:11:09)
+Wir nehmen das Modul, haben wir hier mal so reingezoomt, und irgendwie quergelegt, ein bisschen angeschrägt, und gucken uns den IAM an. Inzidenz, Angle, Modifier, alles klar. IAM, haben das Modul jetzt einfach weggenommen und sehen dahinter sozusagen ein bisschen einfacher dargestellt, was wir brauchen.
+
+(0:11:09 - 0:11:25)
+Oben ist die Luft, dann kommt eine Glasschicht, und dann kommt erst unten in Grün die Solarzelle. Was passiert? Die Strahlung wird reflektiert. Der Hauptteil schon oben sozusagen am Glas, aber dann gibt es auch in der Glasschicht noch mal eine Reflektion.
+
+(0:11:26 - 0:11:36)
+Haben wir hingeschrieben, ist kleiner, 1%. Geht es mehr ums Prinzip, macht ja auch das Software-Tool. Wichtig ist, es gibt diesen Reflektionseffekt.
+
+(0:11:37 - 0:11:57)
+Und dann gibt es hier genau nur der kleine gelbe Pfeil hier, also nur ein kleiner Anteil kommt am Ende auf die Solarzelle raus. Wir nehmen das wieder weg, schieben das Modul zur Seite, haben erst mal verstanden, was ist IAM, und gucken uns das aber jetzt im Diagramm an. Links 0°, damit ist gemeint sozusagen parallel zum Modul 90°.
+
+(0:11:57 - 0:12:12)
+Der Sonnenstrahl fällt senkrecht auf das Modul. Was passiert, wenn der mit 90°, also senkrecht auf das Modul fällt? Steigt der Energieertrag, weil die Reflektion, das IAM, kleiner wird. Und jetzt haben wir endlich mal einen Unterschied.
+
+(0:12:13 - 0:12:23)
+Jetzt haben wir endlich mal irgendwie was Besonderes mit drin. Jetzt ändert sich auch der PR. Das muss man unbedingt, finde ich, wahrscheinlich sich noch 2-3 Mal überlegen, warum das so ist.
+
+(0:12:23 - 0:12:46)
+Aber hier entstehen jetzt sozusagen Verluste, die im PR nicht sozusagen mit, also die werden mitgenommen, und deswegen steigt ja auch der PR, weil sozusagen diese Reflektionsgröße kleiner wird. Okay, hatten wir also endlich mal irgendwie so nochmal eine andere Darstellung jetzt. So geht es jetzt genau weiter beim Säuling.
+
+(0:12:46 - 0:13:04)
+Ich muss natürlich auch mal selber mitdenken, aber habe ja dann die Grafik, um es mir nochmal im Nachhinein vielleicht zu erklären. Beim Säuling, ihr seht es über mir, da haben wir jetzt ein bisschen Beschmutzung auf die Module geworfen. Wäre es so, umso mehr Verschmutzung man hat, umso geringer ist die Energie, die hinten rauskommt.
+
+(0:13:05 - 0:13:11)
+Und beim PR ist es das Gleiche. Da muss man jetzt auch wieder ein bisschen aufpassen. Wir haben es aber extra gezeigt über mir.
+
+(0:13:12 - 0:13:20)
+Dieses Pyranometer, das die theoretische Einstrahlung misst, ist nicht beschmutzt worden. Das ist wichtig. Deswegen gibt es überhaupt diesen Effekt.
+
+(0:13:20 - 0:13:43)
+Wenn das Pyranometer genauso verschmutzt wird, oder noch interessanter, wenn nur das Pyranometer verschmutzt wird, dann hätte das den gegenteiligen Effekt, weil wir dann weniger Einstrahlungsenergie sozusagen als theoretische Energie aufnehmen, als wir produzieren. Also wir haben das absichtlich über mir so gemacht. Wer die Anlage verkommen lässt, aber das Pyranometer säubert, der wird den Effekt sehen.
+
+(0:13:43 - 0:13:50)
+Der Performance Ratio wird sinken. Nächster Punkt. DC-AC Ratio.
+
+(0:13:52 - 0:13:59)
+Genau. Auch hier wichtig. Grundlegende Annahme ist, dass die AC-Leistung gleich bleibt.
+
+(0:13:59 - 0:14:03)
+Das muss ich gerade nochmal überlegen. Das ist wichtig. Aber wir gucken es uns einmal an.
+
+(0:14:03 - 0:14:21)
+Also sagen wir mal, DC zu AC-Verhältnis ist 1,0. Dann wäre es so, dass wenn ich eben AC, also der Wechselrichter bleibt der gleiche. Ich installiere weniger Modulleistung, dann wird das DC-AC-Verhältnis kleiner als 1. Und dann hat man, finde ich, natürlich weniger Energie, die hinten rauskommt.
+
+(0:14:22 - 0:14:35)
+Das finde ich erst mal sehr einfach nachvollziehbar. Und jetzt haben wir so einen Knick reingesetzt, weil sobald das über 1,0 ist, kommt es zu Clipping. Und dann wird das nicht mehr gleich einsteigen, sondern vielleicht wird es auch eher eine Kurve.
+
+(0:14:35 - 0:14:47)
+Da spielen dann ja andere Effekte mit rein. Das ist uns bewusst. Wir wollten nur mal schematisch darstellen, dass danach zwar weiterhin der Energieertrag größer wird, also umso mehr DC man da auf den Wechselrichter packt, umso mehr Energie kommt halt raus.
+
+(0:14:47 - 0:14:59)
+Der Effekt hört irgendwann auf und ist auch nicht mehr zulässig. Aber vom Grundsatz ist es so, dass die Steigung dann geringer ist. So, und beim PR ist es aber so, dass der erst mal gleich bleibt.
+
+(0:15:00 - 0:15:15)
+Auch hier gibt es sozusagen keine Veränderung in dem Verhältnis aus Zählerenergie, Ausgangsenergie zur Eingangsenergie. Aber wenn man erst mal über 1,0 ist, dann schon, dann kommt Clipping. Zeigen wir auch später noch mal ein besseres Diagramm.
+
+(0:15:16 - 0:15:35)
+Also dann wird der PR sinken. Das ist, glaube ich, also das soll allen bewusst sein, dass wenn Sie eine Anlage mit DCAC über 1 planen, dass das Auswirkungen auf den Wirkungsgrad haben wird. So, das war ein großer Teilkapitel.
+
+(0:15:35 - 0:15:42)
+Ein paar kommen noch, aber gerade unten raus wird es einfacher. Also dieser Block ist jetzt auch erst mal durch vor dem Modul. Jetzt gehen wir ins Modul.
+
+(0:15:43 - 0:15:57)
+Jetzt gehen wir ins Modul rein und gucken uns an eine Degradation. Also das Modul über mir, das kennt natürlich jeder und Degradation ist ein ganz normaler Effekt. Der ist, meine ich, immer vorhanden.
+
+(0:15:57 - 0:16:11)
+Was passiert? Die Modulleistung verändert sich über die Zeit hinweg. Haben wir deswegen eine Zeitachse in Jahre dargestellt und so sieht das ungefähr aus. Das ist ein ungefähres Beispiel.
+
+(0:16:11 - 0:16:21)
+Also mit 0,5% pro Jahr verringert sich die Modulleistung. Moduldatenblatt 600 Kilowatt Peak ist nur ganz am Anfang so. Nach 20 Jahren ist das deutlich weniger.
+
+(0:16:22 - 0:16:38)
+Deswegen sinkt die Energie. Der Performance Ratio wird mit sinken, weil der weiterhin von der Nennmodulleistung ausgeht. Also die Anlage wird wirklich einen schwächeren Wirkungsgrad nach 25 Jahren haben als am Anfang.
+
+(0:16:38 - 0:16:45)
+Und jetzt kommt noch ein zweiter Effekt da mit rein. Da haben wir auch einen extra Namen gegeben oder einen extra Teilkapitel genannt. LID heißt der.
+
+(0:16:46 - 0:16:57)
+Und der führt zu diesem Knick da ganz am Anfang bei dem Kleinkind sozusagen. Also im Kleinkindalter des Moduls. Im ersten Jahr findet der statt.
+
+(0:16:57 - 0:17:16)
+Light Induced Degradation. Ich meine, das ist ungefähr so, dass das Modul dann zum ersten Mal Licht sieht und in dem Moment verliert es gleich mal vor Schreck sozusagen gleich die ersten 2% an Nennenleistung. Also das ist natürlich ein ganz anderer Einfluss dann als 0,5, 2%.
+
+(0:17:16 - 0:17:23)
+Das ist ein ungefährer Wert, aber das ist ja schon das Vierfache. Deswegen hat das im ersten Jahr nochmal so einen Knick mit drin. Und auch das muss man natürlich wissen.
+
+(0:17:23 - 0:17:40)
+Sonst denkt man ja, was ist jetzt hier los? Warum ist denn mein Performance Ratio nach 10 Jahren so viel schlechter als am Anfang? Kann man also prognostizieren. Nächstes, die Leistungstoleranz. Also Module werden ausgeliefert mit einer Toleranz.
+
+(0:17:40 - 0:17:53)
+Das ist, denke ich, immer so. Man kann auch positiv geratet oder negativ geratet kaufen. Aber vom Grundsatz her haben Module nicht genau 650 Watt Peak, sondern die werden mit einer Toleranz ausgeliefert.
+
+(0:17:53 - 0:18:05)
+Ich habe als Beispiel ja mal eine 5% Toleranz genommen. Und jetzt nehmen wir doch gleich das Beispiel 650 Watt Peak, habe ich glaube ich gesagt. Wenn das jetzt also mit 5%, da hätte ich was Einfaches nehmen sollen.
+
+(0:18:05 - 0:18:20)
+Also ein 100 Watt Peak Modul wird dann mit 5% positiv Toleranz ausgeliefert. Dann sind wir bei 105 Watt und dann wird auch mehr Energie rauskommen. Das ist dann auch beim PR so, weil der das nicht weiß.
+
+(0:18:20 - 0:18:46)
+Also das wäre dann so, wenn man vorher schon weiß, dass das nicht 100 Watt Peak, sondern 105 Watt Peak Module sind und das dem Software System sagt oder auch der Formel, dann wäre der PR gleich. Das ist hier nicht unsere Annahme, sondern die Idee dieser Leistungstoleranz ist, man weiß es nicht. Man hat da 100 Watt Peak Module verbaut und jetzt stellt sich halt nun mal raus, dass man da in Summe ein bisschen schwächer ist und dann hat das Einfluss auf den PR.
+
+(0:18:46 - 0:18:59)
+Der PR wird niedriger sein als erhofft. Die Temperatur hatte ich vorhin schon mal kurz erwähnt. Es gibt dann auch einen Temperaturfaktor, der sinnvoll ist, auf jeden Fall.
+
+(0:18:59 - 0:19:09)
+Das ist ein physikalischer Effekt, der existiert. Wir zeigen ihn jetzt nur mal kurz und wie man ihn dann in den Berechnungen involviert. Das ist für mich Top-Level, sage ich mal.
+
+(0:19:09 - 0:19:30)
+Damit habe ich persönlich dann auch nichts mehr zu tun, aber erstmal versternten zu haben und vielleicht damit ein bisschen mitreden zu können, macht Sinn. Also vom Grundsatz ist es so, dass bei höherer Temperatur, Außentemperatur, es steht in der Norm eigentlich Modultemperatur, die hat ja Einfluss auf die Modultemperatur. Die Energie sinkt.
+
+(0:19:30 - 0:19:42)
+Also wenn man so will, der Wirkungsgrad des Moduls ist dann schlechter. Also höhere Temperaturen, weniger Energie und das hat dann Einfluss auch auf den PR. Jetzt kann man das eben korrigieren.
+
+(0:19:42 - 0:20:02)
+Das machen die ja dann eben genau in der Norm über einen Faktor in der Formel und das ist jetzt auch wieder symbolisch als extrem perfekt Beispiel. So ist es natürlich nicht, dass dann so eine schöne Waagerechte draus wird. Aber in der Logik wäre das so, wenn man den Temperaturfaktor einsetzt, dann ist der PR unabhängig von der Temperatur.
+
+(0:20:02 - 0:20:18)
+Wir kennen die Temperatur ja, zeigen wir später auch. Die wird ja gemessen im, was haben wir gesagt, fünf Sekunden Sampling Rate und sozusagen im Monitoring gespeichert, alle fünf Minuten. Also wir kennen diese Temperaturen und könnten das dann auch auf jeden Fall in der Live-PR-Berechnung einsetzen.
+
+(0:20:19 - 0:20:39)
+Das macht Sinn. Und dann kann man eben umrechnen auf den korrigierten PR und das wäre dann in der Logik eine Gerade. Die Energie, Achtung, Essenz oder Informationen, die wir hier übermitteln wollen, Deluxe, die Energie nicht, die wird ja tatsächlich schwächer, aber der Wirkungsgrad, der würde gleich bleiben.
+
+(0:20:41 - 0:20:46)
+So, das war der Temperatureinfluss. Dann kommt die Verschattung. Also zeigen wir schön ein bisschen rechts mit der Sonne.
+
+(0:20:47 - 0:20:52)
+Das eine Modul verschattet das andere. Ganz üblich, ganz normal. Kann man, will man auch gar nicht verhindern.
+
+(0:20:52 - 0:21:06)
+Ist einfach so. Und das hat als Effekt, verschattete Module erzeugen weniger Energie und auch der Wirkungsgrad wird sinken. Mismatch.
+
+(0:21:07 - 0:21:26)
+Mismatch heißt, ich habe, weiß ich nicht, 1000 Module in meinem System verbaut, sagen wir mal im String 20, also an einem String 20 Module. Mismatch heißt, dass die nicht genau gleich, die genau gleichen elektrischen Kenndaten aufweisen. Das ist normal.
+
+(0:21:27 - 0:21:46)
+Jetzt kann man nur darüber diskutieren, wie groß darf denn das Mismatch an sich sein? Auch hier nicht relevant. Wir zeigen nur das Grundprinzip, wenn man also die Strom- und Spannungskennlinien von so einem Modul hat und dann wäre da der Open-Circuit-Spannungswert und der IMPP-Wert. So wäre das dann.
+
+(0:21:46 - 0:21:57)
+Und dann hat man da oben, na ja genau, der UMPP. Der UMPP und der IMPP. Und dann hat man den maximalen PowerPoint-Leistungswert dann da irgendwo oben in der Mitte.
+
+(0:21:58 - 0:22:10)
+Und jetzt kommt der Mismatch-Punkt sozusagen, auf den ich hinaus will. Wir haben jetzt ein zweites Modul und das ist ein bisschen anders physikalisch geraten sozusagen und dann hat das einen anderen PMPP. Da ist er.
+
+(0:22:11 - 0:22:28)
+Der ist einfach ein bisschen verschoben und jetzt werden die sich im Team finden. Das macht der Wechselrichter mit seinem MPP-Tracker sehr richtig und intelligent. Fest steht, und das ist alles, was wir hier übermitteln wollen, in der Grundlogik hat man dann ein Mismatch.
+
+(0:22:29 - 0:22:41)
+Auch in dem Energieertrag, den wir hier so mal ungefähr rudimentär darstellen. Das ist nicht wissenschaftlich, sag ich mal, erhaltbar hier. Deswegen auch keine Kennzahlen im Hintergrund.
+
+(0:22:41 - 0:22:55)
+Es geht ums Prinzip. Im Prinzip ist es so, dass man hier also in blau Verluste generieren wird aufgrund von Mismatching. Das ist dann erstmal so und da alle Module leichtes Mismatch haben, ist das auch immer so.
+
+(0:22:55 - 0:23:27)
+Es geht mehr um eine Bewertung dessen, wie viele Mismatch-Verluste man haben wird. So und nochmal, wenn wir erstmal verstanden haben, was Mismatching bedeutet oder was wir damit sagen wollen, springen wir jetzt wieder in unsere bekannte Kennlinie. Also umso mehr Mismatch, umso weniger perfekt der Powerpoint zu treffen ist, der Maximumpowerpoint zu treffen ist, umso weniger Energie werden wir erzeugen können und der PR wird dementsprechend auch sinken.
+
+(0:23:29 - 0:23:40)
+Wieder ein Kapitel geschafft. Das war das Kapitel Verluste im Modul. Wir schieben die ja immer noch schön mit in unsere Kennlinie mit rein und dann wird jetzt also die Energie immer weniger.
+
+(0:23:41 - 0:23:50)
+Jetzt haben wir auch noch Verluste durch Degradation, Verschattung, Mismatch usw. generiert. Also der absolute Energiewert ist jetzt schon ein bisschen kleiner.
+
+(0:23:51 - 0:24:01)
+Jetzt kommt die Energie endlich mal zum Wechselrichter und der hat einen Wirkungsgrad. Das beschreibe ich heute nicht, warum das so ist. Ich zeige es nur einmal ganz kurz.
+
+(0:24:02 - 0:24:22)
+Das ist eine ganz typische Kennlinie aus Wechselrichter-Datenblättern. Oh nein, da habe ich sogar Werte hingeschrieben, da bin ich angreifbar. Aber das Prinzip ist hier auch wieder so, also wenn der in verschiedenen Leistungsbereichen, hier haben wir von 5 bis 100% arbeitet, dann hat er abhängig davon verschiedenen Wirkungsgrad zu bieten.
+
+(0:24:22 - 0:24:38)
+Das sieht man in den Datenblättern und das sieht man dann eben auch in diesen Pan-Files von den Wechselrichter-Herstellern sehr detailliert hinterlegt. Und wenn der bei verschiedenen Spannungsebenen arbeitet, dann ist das ähnlich. Höhere Spannung, besserer Wirkungsgrad.
+
+(0:24:40 - 0:24:55)
+Haben wir noch eine dritte reingelegt, genau. Also diese Detailinformationen, die habe ich im Hinterkopf meinetwegen, aber am Ende wird das Simulationstool die nutzen, um eine Auswertung zu machen. Und zwar mit folgendem Ergebnis.
+
+(0:24:55 - 0:25:20)
+Umso größer mein Wirkungsgrad ist, ihr habt es vielleicht gesehen, jetzt sind wir von der Y-Achse, haben wir es in die X-Achse geschoben. Umso größer mein Wirkungsgrad ist, umso mehr Energie kommt hinten raus und das hat direkten Einfluss auf meinen Performance Ratio. Ich habe ja den gleichen Einstrahlungswert vorne am Modul, nur jetzt in der Mitte beim Wechselrichter habe ich mich mehr angestrengt, um weniger Verluste zu generieren.
+
+(0:25:20 - 0:25:34)
+Deswegen kommt hinten auch mehr raus und deswegen steigt der Wirkungsgrad meiner Anlage. Da haben wir noch Design mit reingenommen. Komplexes Thema, trifft aber natürlich die Aufgabe eines Elektroplaners ganz hervorragend.
+
+(0:25:34 - 0:25:49)
+Also was meine ich mit Design? Ich zeige erstmal kurz die Kennlinie. Ich sage, umso weniger Verluste ich beim Design generiere, umso mehr. Umso mehr Verluste ich beim Design generiere, umso weniger Energie kommt raus und der PR geht gleich so mit.
+
+(0:25:49 - 0:25:59)
+Also dann kommt auch weniger Energie einfach hinten raus. Und was meine ich damit? Clipping hat man gerade schon gesagt, das doppelt sich jetzt so ein bisschen, aber lassen wir es mal drin. Also das ist wertfrei.
+
+(0:26:00 - 0:26:14)
+Ich kann ja absichtlich Clipping generieren, völlig wertfrei. Ich muss nur wissen, dass dann der PR sinkt. Und das Gleiche gilt, wir hatten es im ersten Brainday, glaube ich, gezeigt, wie wir so ein Design angehen würden.
+
+(0:26:15 - 0:26:25)
+Man kann ja durchaus auch mal außerhalb von MPP arbeiten. Das ist sozusagen jetzt wertfrei. Aber wenn man es macht, muss man wissen, dass Energie und PR sinken werden.
+
+(0:26:25 - 0:26:40)
+Das Gleiche gilt für die Startspannung. Wenn der morgens länger braucht, um überhaupt mal loszulegen, sinkt der Wirkungsgrad der Anlage. Also Design im Allgemeinen hat einen Einfluss auf Wirkungsgrad und Energieerzeugung.
+
+(0:26:42 - 0:26:52)
+Jetzt kommt noch das Thema ohmsche Verluste. Da haben wir symbolisch einen Transformator mit hochgenommen und gleich kommen, glaube ich, auch noch die Kabel. Aber das sind ohmsche Verluste.
+
+(0:26:52 - 0:27:09)
+Da finde ich, wird es ziemlich eins zu eins, sage ich mal, transportierbar, die Logik. Klar ist, ein Transformator hat Verluste. Wir haben, glaube ich, genau in dem letzten Brainday auch beschrieben, wie man das berechnen kann.
+
+(0:27:09 - 0:27:33)
+Wie kommt man auf die Kurzschluss- und Leerlaufverluste? Das wissen wir jetzt und deswegen haben wir diese Verluste hier mit angenommen und umso mehr Verluste so ein Trafo erzeugt, umso weniger Energie kommt raus und der PR sinkt gleich direkt mit. Die Verluste gehen voll in den Performance Ratio mit rein. Bei den Kabeln ist es genau das Gleiche, deswegen mache ich das zügig und ich hoffe, es wird mir verziehen.
+
+(0:27:34 - 0:28:01)
+Also gleiches Prinzip, einfach mehr Verluste durch Kabel bedeutet weniger Ertrag, bedeutet weniger PR. Muss ich beachten, also hatte ich jetzt noch nie, weil da geht es ja auch um Verhältnismäßigkeit, aber wenn man jetzt plötzlich doppelt so viele Kabelverluste hat, weil man sich überlegt hat, dass man den Querschnitt halbiert, warum auch immer, dann mag es einen leichten Einfluss haben auf meine Gesamt-Performance. So, nächstes Kapitel.
+
+(0:28:02 - 0:28:28)
+Letzter Punkt, müsste es dann sein. Nee, wir haben es, ja genau, weil das Letzte wäre, ich gehe noch mal kurz zurück, das Letzte wäre ja dann eben unten der Zähler. Also jetzt habe ich alle meine Zwischenschritte mir angeguckt, das Programm hat das auch gemacht, ein bisschen schneller, aber hat im Grunde genau das Gleiche gemacht, alle Rahmenbedingungen reingerechnet und dann käme jetzt unten eine prognostizierte Energie raus, in Abhängigkeit von diesen ganzen Verlusten auf dem Weg bis dahin.
+
+(0:28:29 - 0:28:50)
+Wir haben das noch mal als Tabelle zusammengefasst, das geht es mir ehrlich gesagt vor allem ums Layout, da gehen wir jetzt natürlich nicht noch mal drauf ein, aber man sieht hier noch mal, der PR ist gleich bedeutet, dass er keine Veränderungen hat und man sieht schon, das sind eben die sozusagen anfänglichen Effekte, bei denen ist der PR dann, das ist PR-unabhängig, weiter unten gehen die dann Hand in Hand.

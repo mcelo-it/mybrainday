@@ -1,0 +1,44 @@
+(0:00:00 - 0:00:34)
+Das ist erst mal das Warum, warum beschäftigen wir uns damit? Und der erste Punkt, den wir jetzt aufgreifen, das machen wir meistens so, ist ein Einblick in die Norm, die wir da vorfinden oder vorgefunden haben. Und für mich ist es jetzt erst mal so, ich habe oder wir haben ja bei unserer Recherche nur eine Niederspannungsnorm gefunden, das ist die 0100100. Also es ist eine wirklich grundlegende elektrotechnische Norm aus der Niederspannung, ganz wichtig, wir trennen in Mittelspannung und Niederspannung.
+
+(0:00:35 - 0:01:10)
+Und diese 0100100 definiert eben verschiedene Netzformen im Niederspannungsnetz oder bei der Errichtung von Niederspannungsanlagen. Physikalisch gelten für die Mittelspannung die gleichen Prinzipien, aber natürlich haben Mittelspannungsnetze, ich sage mal, in der Regel größere Ausdehnung, größere Leistung, sodass man andere Sachen beachten muss. So, diese Niederspannungsnorm 0100100, die zeigt dann erst mal bei den Netzformen verschiedene Abkürzungen, da will ich jetzt im ersten Schritt gar nicht drauf eingehen.
+
+(0:01:11 - 0:01:56)
+TNITTT, das sind Abkürzungen und die beschreiben eben Netzformen und diese Abkürzungen, die stellen sich eben aus zwei Buchstaben zusammen und der erste Buchstabe definiert dann eben die Erdung der Stromquelle. Und wenn wir von einer Stromquelle sprechen, sagen wir auch mal Photovoltaikanlagen, dann ist die Stromquelle eigentlich immer der Transformator. Also da muss man hier ein bisschen andersrum denken, diese Normen, die sind ja, ich sage mal, Jahre alt, viele Jahre alt, kommen wahrscheinlich aus Zeiten, wo es diese Photovoltaikanlagen noch gar nicht so sehr gab und dann ist eben die Stromquelle der Trafo und hinter dem Trafo hängen Verbraucher, sagen wir Beleuchtung, Heizung, was auch immer.
+
+(0:02:00 - 0:02:27)
+Dieser Transformator als Stromquelle wird jetzt eben, genau, wird geerdet, ja. Und das ist der erste Buchstabe. Der zweite Buchstabe ist jetzt der Verbraucher, wie eben beschrieben, Verbraucher gleich Wechselrichter und der Wechselrichter wird eben auch geerdet und dafür steht dann der zweite Buchstabe bei dieser Zusammensetzung von beispielsweise einem TN-Netz.
+
+(0:02:27 - 0:02:56)
+Der erste Buchstabe hier, es gibt das I für isoliert, isolierter Sternpunkt, es gibt einen zweiten Buchstaben für terre, das heißt der Sternpunkt der Stromquelle ist geerdet. Also wir unterscheiden hier ein isoliert und Sternpunkt geerdet beziehungsweise Sternpunkt herausgeführt. Wie der Sternpunkt dann am Ende geerdet wird, sehen wir vielleicht später, da gibt es dann noch feine Unterschiede, aber im Grunde genommen wird er erst mal herausgeführt.
+
+(0:02:59 - 0:03:46)
+Dann kommen wir zu dem zweiten Buchstaben, da gibt es einmal eine Verbindung mit einem Neutralleiter und das wäre dann der Neutralleiter, der von dem Transformator rübergeführt wird oder wir können auch von einer Erdung hier sprechen, dann wäre eben der Wechselrichter direkt geerdet. Also das sind hier im Grunde genommen die Buchstaben, die man sich merken muss, die im Grunde genommen die Erdungsform der Quelle und die Erdungsform des Verbrauchers oder in unserem Fall meistens des Wechselrichters beschreiben. Jetzt sehen wir diese verschiedenen Erdungsvarianten.
+
+(0:03:47 - 0:04:19)
+An erster Stelle führen wir jetzt mal dieses TN-Netz auf. In der Niederspannung sehen wir das sehr häufig, dann hat man eben einen geerdeten Transformator, der Sternpunkt ist herausgeführt, oft starr geerdet und die Verbraucher sind dann eben mit dem herausgeführten Sternpunkt des Transformators verbunden und das ist dann eben der Neutralleiter, deshalb nennen wir das TN. Später sehen wir das auch nochmal in Diagrammen, wie das dann wirklich von der Verschaltung her aufgebaut ist.
+
+(0:04:19 - 0:04:37)
+Das hilft dann glaube ich fürs Verständnis. Hier erstmal nur für euch, muss klar sein, TN, Erdung der Quelle oder Anschluss des Verbrauchers an den Neutralleiter. Jetzt gibt es das I, das wäre eine zweite Form.
+
+(0:04:37 - 0:05:00)
+Das I ist der Sternpunkt des Transformators, wäre isoliert, also er ist nicht herausgeführt, er ist nicht geerdet und man kann jetzt auf der anderen Seite den Wechselrichter dann direkt erden. Das nennt sich dann IT-System, also ein isoliertes Stromnetz. Der Wechselrichter kriegt eine direkte Verbindung mit der Erde, aber eben keine Erdverbindung mit dem Transformator.
+
+(0:05:02 - 0:05:53)
+Diese Netzform IT, die hält gerade verstärkt Einzug auch in dem Wechselrichterbereich oder in dem PV-Bereich, weil gerade zwei große Hersteller, Sungrow und Huawei, kenne ich da vor allem, die jetzt die größeren Wechselrichter, ich glaube das sind 350 kW-Geräte, rausbringen, die schreiben uns vor, dass wir diese Wechselrichter nur noch mit IT-Systemen betreiben dürfen. Das heißt also TN aus der alten Installationstechnik, sehr wichtig, hatten wir auch früher immer so unsere Trafostationen gebaut bei den Freiflächenanlagen oder bei der Gebäudeinstallation. IT ist jetzt das neue System, was Einzug hält in unsere Freiflächenanlagen, deshalb würde ich da gleich nochmal ein Augenmerk drauf werfen und euch bitten, hier auch sehr aufmerksam zu sein, weil das wird uns bei großen Anlagen, ich denke mal in der Zukunft, stark beschäftigen und verfolgen.
+
+(0:05:54 - 0:06:22)
+Und dann gibt es noch eine Erdung des Transformators und eben eine direkte Erdung des Wechselrichters oder des Verbrauchers, und das nennt man dann TT-Netz. Dieses TT-Netz gibt es in Deutschland sehr wenig, deshalb würde ich das später nochmal beschreiben, dass ihr alle mal gesehen habt, was ist denn das, aber dann im Detail auf diese Netzform vielleicht nicht eingehen, dafür haben wir jetzt nicht die Zeit. TN ist wichtig, IT ist wichtig und damit befassen wir uns.
+
+(0:06:22 - 0:07:17)
+Jetzt nochmal eine kleine Zusammenfassung oder anders hingerückt sozusagen diese Beschreibung, TN, Erdung Sternpunkt-Trafo mit Neutralleiter verbundener Verbraucher, IT-System ist Isolierung des Sternpunkts und direkte Erdung des Verbrauchers oder Wechselrichters und TT, Erdung des Trafo-Sternpunkts und direkte Erdung des Wechselrichters. Jetzt nochmal eine weitere Beschreibung zu dem TN-System, weil bei TN-System, ich denke, viele kennen das, da gibt es noch weitere Buchstaben, den ersten, den zweiten hatten wir gerade ausführlich besprochen, das ist jetzt hoffentlich allen soweit klar. Jetzt gibt es aber noch einen dritten Buchstaben und der beschreibt dann, wie der Neutralleiter aufgeteilt wird, würde ich sagen.
+
+(0:07:17 - 0:08:11)
+In der Regel, wenn wir uns in der Niederspannung, sagen wir mal bei einer Gebäudeinstallation, mit dem Netzbetreiber verbinden, unser Gebäude mit dem Netzbetreiber, beim Netzbetreiber anschließen, so würde man es vielleicht sagen, kommt der Netzbetreiber meistens mit einem TN-C-System. Das bedeutet, wir haben die drei Phasen L1, L2, L3 und einen vierten Leiter, der nennt sich dann Pen-Leiter, das ist dann der PE-Leiter und der N-Leiter kombiniert in einem vierten Kabel, das heißt Schutz- und Neutralleiter nutzen den gleichen Leiter. Dann gibt es noch die Variante TN-S und dieses S steht eben für separat und da wird dann eben der Neutralleiter und der Schutzleiter separat geführt.
+
+(0:08:12 - 0:08:42)
+Die Idee ist eben, dass man aus einem TN-C-System, also der Netzbetreiber kommt mit vier Adern, ein TN-S-System bauen kann. Im Grunde genommen würde man dann in der Gebäudeniederspannungs-Hauptverteilung einfach aus dem Pen-Leiter zwei Systeme machen. Man hat dann in der Regel zwei Kupferschienen, die man da sieht, die sind verbunden an einer Stelle und die eine Kupferschiene ist dann eben der PE für den PE-Anschluss und die zweite Kupferschiene ist für den N-Anschluss.
+
+(0:08:43 - 0:09:41)
+Das heißt, wenn man dann in der Gebäudeinstallation unsynchrone Belastungen hat, dann fließt der Betriebsstrom über den N-Leiter und der PE-Leiter bleibt dauerhaft unbelastet und führt eben nur den Fehlerstrom, nur im Fehlerfall wird er verwendet. Diese dritte Variante hatte ich im Grunde genommen gerade beschrieben, indem man nämlich vom Netzbetreiber ein TN-C-System geliefert bekommt und das dann an einer gewissen Stelle in seiner Installation auftrennt, ist es dann eben ein TN-C-S-System. Hier vielleicht noch der Hinweis, wenn man es einmal aufgetrennt hat zu einem TN-S-System, darf man danach in der weiteren Installation das auf gar keinen Fall wieder verbinden, weil wenn man das dann wieder verbindet, dann mischt man ja wieder Betriebsströme auf dem N-Leiter und den PE und das ist dann eben auch normativ streng verboten.

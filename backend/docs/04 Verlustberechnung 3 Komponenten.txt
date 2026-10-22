@@ -1,0 +1,138 @@
+(0:00:00 - 0:00:24)
+Und wir schauen uns jetzt hier in aller Ruhe mal die Komponenten an, die wir am Anfang auch schon benannt hatten, die jetzt für uns, für die Berechnung später relevant sind. Und wir starten dann einfach mal mit ganz vorne, ganz vorne am Erzeuger würde ich sagen, also an den Solarmodulen. Und wir hatten ja schon gesagt, Solarmodule nehmen wir jetzt erstmal nicht mit, die sind so wie sie sind, die werden so geliefert.
+
+(0:00:25 - 0:00:39)
+Vielleicht gibt es noch eine PAN-File, eine P-A-N-File für Berechnungstools. Wo dann noch mal ein paar Details drin sind. Aber wir Elektroingenieure müssen da jetzt keine zusätzlichen Verluste, ich sag mal, in einer Excel-Tabelle versuchen zu greifen.
+
+(0:00:40 - 0:01:04)
+Von den Modulen geht dann aber das altbekannte Stringkabel ab, führt dann erstmal weiter zu der nächsten Komponente, die lassen wir erstmal außen vor. Wir würden jetzt mal das Stringkabel hier betrachten und uns anschauen, wie hier Verluste entstehen, beziehungsweise wie man diese Verluste ermittelt oder greifen kann. So sieht Stringkabel aus, die Typbezeichnung ist auch dran.
+
+(0:01:05 - 0:01:48)
+Ist heute auch nicht weiter Thema, sonst sprengt das ja alles den Rahmen. Aber wichtig für uns jetzt ist, die P-Verluste, die Verlustleistung des Stringkabels errechnet sich aus dem Kabelwiderstand, multipliziert mit dem Strom zum Quadrat. Das ist erstmal P ist R mal I Quadrat. 
+
+Ich würde sagen, eine allgemeingültige Formel aus der Elektrotechnik. Energie ist R mal I Quadrat, P-Verluste ist R Kabel, der Kabelwiderstand mal I Quadrat. Woher kommen jetzt genau diese Werte? Jetzt haben wir zwei Varianten euch mal aufgeführt, hier bei dem Stringkabel zumindest.
+
+(0:01:48 - 0:02:07)
+Das machen wir dann in der Folge nicht mehr so detailliert, aber jetzt einmal für Stringkabel. Variante 1 wäre jetzt die Möglichkeit, dass wir den spezifischen Kabelwiderstand aus dem Datenblatt ermitteln und den mit der Länge des Kabels multiplizieren. Das ist unsere Idee.
+
+(0:02:08 - 0:03:06)
+Diesen spezifischen Kabelwiderstand holen wir aus einem Datenblatt von diesem Superkabel, zoomen hier einfach mal auf die zweite Seite und finden da eine lange Tabelle, wo dann auch der ohmsche Widerstand bei 20 Grad oder der Leiterwiderstand bei 20 Grad definiert wird. Hier auf der DC-Seite ist es ohnehin nur ohmsch, weil wir keine Wechselfelder, keine magnetischen Felder haben. Gleichstrom ist halt sehr, sehr ohmsch, von daher ist das hier erst mal klar, welchen Wert wir hier greifen müssen. 
+
+Hier steht jetzt ein Widerstandswert pro Kilometer, den nehmen wir dann mal mit und schauen uns dann die Länge unseres Kabels an, zum Beispiel in unserem Fall ein Kilometer. Das passt zufällig ganz genau und dann haben wir auf einem Kilometer Kabellänge einen ohmschen Widerstand von 5,09. Das wäre Variante 1, also schaut ins Datenblatt, welches Kabel habt ihr, welcher Widerstandswert steht da drin bei 20 Grad und verwendet den.
+
+(0:03:07 - 0:03:59)
+Relativ simpel. Es gibt aber auch noch eine zweite Variante, die wir auch häufig angewendet haben oder auch häufig anwenden. Vielleicht vor allem, wenn wir noch gar nicht wissen, welches Kabel bestellt wird. 
+
+Wir sind in der Planungsphase, es ist noch nichts bestellt, wir sind noch weit vor den Ausschreibungen der Komponenten und dann schaut man sich eben den Kabelwiderstand an über die Länge des Kabels, geteilt durch Kappa, das ist der Leitwert, der elektrische Leitwert, mal den Querschnitt des Kabels. Seht ihr auch oben in der Legende diese beiden Faktoren. Damit kann man dann eben auch den Widerstand des Kabels berechnen. 
+
+Für Kupfer ist der Leitwert 56 und für Aluminium ist er 36. Das kann sich jeder mal irgendwo aufschreiben. In unseren Excel-Tabellen ist es ohnehin schon eingefügt, damit es euch die Berechnung später ein bisschen einfacher macht.
+
+(0:04:00 - 0:04:26)
+Und jetzt als Beispielberechnung haben wir euch das auch mal mit einem Kilometer Kabel, also 1000 Meter sind es hier, einem Kappa von Kupfer, also 56 und dem Querschnitt von 4 Millimeter Quadrat ausgerechnet und kommen jetzt auf einen Widerstandswert von 4,46. Beide Werte sind jetzt in orange dargestellt, weil wir das hier auch mal klar vergleichen wollen. Ihr kommt auf unterschiedliche Werte.
+
+(0:04:27 - 0:04:55)
+Wenn ihr über diesen physikalischen Kappa-Wert rechnet, ist der Widerstandswert des Kabels geringer, als wenn ihr den Wert aus dem Datenblatt nehmt. Das heißt jetzt im Grunde genommen, eure Verlustberechnung wird mit dem Kappa-Wert erst mal weniger Verluste zeigen und jetzt müsst ihr das vielleicht für euch bewerten, also ihr seid vielleicht weniger konservativ in eurer Berechnung. Ihr könnt eurem Kunden zeigen, ganz wenig Verluste oder weniger Verluste als mit dem Kabel-Datenblatt.
+
+(0:04:55 - 0:05:46)
+Aber am Ende muss natürlich vielleicht auch die Performance-Ratio von der Anlage passen, dann ist euch damit vielleicht gar nicht so sehr gedient, diesen Wert, ich will nicht sagen klein zu rechnen, aber den optimistischen Wert zu nehmen, sondern nehmt dann vielleicht lieber den etwas konservativeren Wert aus dem Datenblatt. Wir für uns nehmen jetzt in den nächsten Berechnungen, also bei den Niederspannungs-Mittelspannungskabeln, erstmal die Datenblatt-Werte. Aber ihr habt jetzt erstmal gesehen, es gibt da Unterschiede. 
+
+Man kann mit Kappa rechnen, dann sind wir besser in den Verlusten. Man kann mit dem Datenblatt-Wert rechnen, dann sind die Verluste tendenziell eher höher oder ihr seid vielleicht eher auf der sicheren Seite als Planer. Und natürlich würde ich jetzt erstmal behaupten, das, was im Datenblatt steht vom Kabel, das ist auch erstmal der richtigere Wert.
+
+(0:05:47 - 0:08:03)
+Deshalb verwenden wir den Daumen hoch. So, komponente String-Kabel haben wir jetzt erst mal erledigt, ist verstanden, was das ist, wie man das berechnet, welche Werte man verwendet und wir gucken uns jetzt den Wechselrichter an. Hatten wir auch in unserer Übersicht ganz am Anfang. 
+
+Wechselrichter sind erst mal für uns, naja, wir wählen Wechselrichter aus oder häufig geht es zumindest mir so als Elektroplaner, bin ich noch nicht mal der, der den Wechselrichter auswählt, sondern mir wird gesagt, wir nehmen den Wechselrichter, weil da natürlich viele andere Kriterien eine Rolle spielen, Preise, Lieferzeiten, Verträge mit Lieferanten, was auch immer, so dass ich das gar nicht auswählen kann. Und wenn ich jetzt so einen Wechselrichter bekomme, dann hat der meistens einen Wirkungsgrad. Ich würde jetzt mal sagen, die unterscheiden sich nicht wesentlich, diese Geräte, sondern die haben alle, ich sage mal, einen Verlauf, der ungefähr so aussieht. 
+
+Also wenn die, sage ich mal, in einem Betriebsbereich sind, größer 20 Prozent, dann sind die alle sehr, sehr effektiv. Und ich würde mal sagen, 98 Prozent Wirkungsgrad ist jetzt erst mal, ohne mich da fest nageln zu wollen, ein sinnhafter Wert für einen Wechselrichter. Also die laufen sehr gut. 
+
+Diese Verluste sind dann sicherlich auch noch abhängig, vielleicht von äußeren Bedingungen, vielleicht von Temperaturen und so weiter. Und für uns als Elektroplaner deshalb auch unheimlich schwer zu greifen. Was wir dann machen, ist, wir bekommen von dem Hersteller des Wechselrichters diese OND-Files häufig, die kann man dann in Berechnungstools, zum Beispiel PVSYST, einfügen. 
+
+Und da liegt dann natürlich noch viel mehr Information drin, als diese einfache Kennlinie. Und diese Berechnungstools, Simulationstools, die können mit diesen Files am Ende arbeiten und die Lastverläufe des Solarparks sinnhaft auf diese Kennlinie legen, sodass man dann am Ende auch sehr, sehr genau weiß, welche Verluste durch die Wechselrichter erzeugt werden und welche nicht. Da steht es noch mal, OND-File, das ist diese Wechselrichterdatei.
+
+(0:08:06 - 0:08:31)
+So, den Wechselrichter würde ich jetzt für unsere Berechnung ein bisschen außen vor lassen, zeigen wir gleich auch noch mal in der Übersicht und würde jetzt vom Wechselrichter weitergehen zu einem AC-Kabel. Und das hätten wir hier, also ein AC-Niederspannungskabel, so sieht das ungefähr aus. Hier ist es vieradrig mit einem gelb-grünen Leiter drin und dieses Kabel hat dann eben auch elektrische Eigenschaften.
+
+(0:08:32 - 0:10:30)
+Ich würde mal sagen, sehr ähnlich wie ein Stringkabel. Und die Physik, die dann dahinter steckt, ist genauso wie beim Stringkabel. Also wir haben Verluste, wir haben einen Kabelwiderstand und wir haben den quadratisch eingehenden Strom. 
+
+Also der Strom immer zum Quadrat in dieser Formel hat dann natürlich auch exponentielle Effekte, je größer der Strom wird. Das zeigen wir dann später auch noch mal ein bisschen deutlicher. Aber ich sage mal, die, die sich mit Formeln mit Gleichungen gut auskennen, sehen das sofort. 
+
+I², Achtung, Achtung, wir müssen sehen, dass wir den Strom runterkriegen, um die Verluste zu minimieren. Kommt später. Hier jetzt auch die gleiche Vorgehensweise wie beim Stringkabel. 
+
+Wir haben euch mal ein Datenblatt eingeblendet von so einem Niederspannungskabel und auch hier die zweite Seite seht ihr schon angedeutet, zeigt dann wieder so eine Tabelle. Wir zoomen da mal rein und können uns jetzt hier für einen Kabeltyp, für einen 240 Quadrat, dann auch den Widerstand raussuchen und in unsere Tabelle eintragen und am Ende den Kabelwiderstand für unsere Kabellängen entsprechend berechnen. Auch hier gilt natürlich, man könnte es auch über das Kapper machen, aber jetzt haben wir uns erst mal dazu entschieden, das mit dem Datenblatt zu machen. 
+
+In den Übungen später machen wir es dann mal mit dem Kapper, um es ein bisschen schwieriger zu machen für euch. Wir haben uns jetzt aber für die Variante 1 entschieden. So, jetzt geht es dann von dem Niederspannungskabel zu einer Trafo-Station und die zeigen wir euch jetzt mal hier im Detail. 
+
+Also eine Trafo-Station besteht erst mal im Wesentlichen, würde ich sagen, oder zumindest was jetzt unsere Diskussion heute betrifft, aus einem Transformator. Hier steht Tier 2 noch mit drin. Das ist diese die neue, was heißt die neue Norm, also alle Wechselrichter, die jetzt eingesetzt werden müssen in Deutschland, müssen diesem Kriterium Tier 2 entsprechen.
+
+(0:10:30 - 0:11:03)
+Das kommt aus der, alle Transformatoren müssen diesem Kriterium Tier 2 entsprechen und das kommt aus der Öko-Design-Richtlinie. Das heißt, wir haben erst mal ein definiertes Maximum für die Verluste aus dieser europäischen Richtlinie. Das ist erst mal gut, weil es uns natürlich dann hilft, die Verluste zu reduzieren in so einem Solarpark und natürlich gesamtökologisch macht das auch Sinn, dass wir hier nicht so, ich sage mal, uneffektive Transformatoren in die Weltgeschichte stellen, sondern auch hier darauf geachtet wird, dass die effektiv funktionieren.
+
+(0:11:05 - 0:12:27)
+So, was macht dann so ein Transformator oder wie sieht der Transformator erst mal aus? Er sieht erst mal so aus, man hat Niederspannungsanschlüsse und man hat Mittelspannungsanschlüsse. Das Ganze gibt es natürlich auch für Mittelspannung und Hochspannung, aber grundsätzlich ist das der Aufbau. Zwei verschiedene Spannungsebenen werden angeschlossen und der Trafo transformiert die Spannung hoch und reduziert den Strom. 
+
+Das ist die Idee. Dann gibt es von den Transformatoren auch ein Datenblatt. Hier haben wir einfach mal eins ausgewählt von einem Projekt und was man hier jetzt sieht, ist auf der linken Seite des Datenblatts, da seht ihr garantierte Verlustwerte. 
+
+Das kommt im Grunde genommen aus dieser Öko-Design-Richtlinie Nach Tier 2 muss ein Trafo diese Werte garantiert erfüllen und das, was dann auf der anderen Seite, also auf der rechten Seite, steht dieser Tabelle, das ist das, was jetzt tatsächlich gemessen wurde. Ich sage mal, wenn wir in der Planungsphase noch sind, müssen wir mit diesen Garantiewerten erst mal arbeiten, das heißt etwas schlechtere Werte. Und wenn ihr jetzt später dann den Trafo bestellt habt und noch später irgendwann im Projektablauf die Datenblätter von den Trafos bekommt, dann könntet ihr natürlich auch diese tatsächlichen Verluste eintragen in eure Berechnungstools und hättet dann noch mal mit einem etwas spitzeren Bleistift gerechnet, was verbraucht mein Trafo denn überhaupt an Energie.
+
+(0:12:28 - 0:13:53)
+So und jetzt stehen da zwei Werte, das ist einmal P0, das sind die Leerlaufverluste und es steht dort PK, das sind die Kurzschlussverluste. Und die schauen wir uns gleich mal ein bisschen detaillierter an. Für uns erst mal wichtig, Verluste, diese Verluste, diese Angaben kann man dann wiederum in den Simulationsprogrammen hinterlegen und werden jetzt im folgenden von uns zwar noch mal erklärt, was das bedeutet, aber wenn wir von Verlustberechnung im Photovoltaikprojekt sprechen, dann ist das meistens nicht berechnet mal die Verluste des Transformators, sondern es geht dann eher um Kabel, die wir berechnen sollen. 
+
+Trotzdem gucken wir uns den Trafo mal an, wie sieht er denn aus. Also hier haben wir mal das Gehäuse, sage ich mal, abgeschält und das Öl rausgelassen und was wir jetzt noch sehen, ist der Eisenkern, das ist dieses Schwarze und wir sehen dann die Wicklungen und wir schauen jetzt erst mal auf die äußere Wicklung, also um jeden Schenkel sind zwei Wicklungen aufgebracht. Wir gucken uns jetzt mal die äußere an beziehungsweise bauen jetzt mal die Bauteile mit rein, die an den Trafo angeschlossen werden. 
+
+Also ein Wechselrichter ist erst mal da, ein dezentrales Gerät, das kann genau so ein zentrales Gerät sein und wir schließen ihn aber erst mal noch nicht an. Wir deuten erst mal nur an, wo man ihn anschließen würde. Die Verbindung ist noch nicht da, das ist absichtlich so gewählt, weil jetzt schließen wir diesen Trafo noch mal an das Hochspannungsnetz an oder an das Mittelspannungsnetz.
+
+(0:13:54 - 0:15:12)
+Mittelspannungsnetz trifft es wahrscheinlich eher und wenn das passiert ist, also die Leistungsschalter zum Netz sind geschlossen, dann fängt der Trafo an zu brummen, so würde ich das mal sagen und auch bei Nacht passiert das, das passiert im Grunde genommen dauerhaft. Er brummt, ihr hört das, wenn ihr daneben steht, brummen oder so ein bisschen surren und dann entstehen dort Verluste. Ihr seht das jetzt, es fließt erst mal ein ganz kleiner Strom, würde ich sagen, durch diese Hochspannungs- oder Oberspannungswicklung und diese Oberspannungswicklung sorgt dafür, dass der Eisenkern dauerhaft magnetisiert wird oder ummagnetisiert wird. 
+
+Das ist dann dieses Brummen, dieses Surren, was man da hört, dieses Wechselfeld vom Netz magnetisiert diesen Eisenkern und das sorgt dann eben dafür, das seht ihr jetzt oben in der in der Grafik, dass wir dauerhafte Verluste haben. Das sind diese Leerlaufverluste P0. Ich würde mal sagen, hervorgerufen durch dauerhafte Magnetisierung des Eisenkerns. 
+
+Wenn man die jetzt unterbinden wollte, müsste man, ich sage mal, wenn die Sonne untergegangen ist, die TRAFOs ausschalten und morgens wieder einschalten. Das macht aber niemand. Das heißt, wir nehmen das in Kauf, dass wir dauerhaft Leerlaufverluste der TRAFOs verbrauchen oder benötigen.
+
+(0:15:14 - 0:15:55)
+So, jetzt geht es weiter. Heute geht die Sonne auf, also die Sonne scheint oder jetzt geht die Sonne auf. Wir schließen jetzt den Wechselrichter an die Unterspannungswicklung an. 
+
+Also, ich habe es, glaube ich, gerade gesehen, die, oder ich gehe noch mal zurück, die Oberspannungswicklung, die fliegt jetzt raus, die geht weg und unter der Oberspannungswicklung liegt jetzt noch mal die Unterspannungswicklung oder die Niederspannungswicklung und da schließen wir unsere Wechselrichter an. Die Wechselrichter fangen jetzt an, im Tagesverlauf immer mehr Strom zu erzeugen. Das heißt, es fließt jetzt auch ein Strom durch die Niederspannungswicklung, die wiederum sorgt dann für einen magnetischen Fluss in den Schenkeln des TRAFOs.
+
+(0:15:56 - 0:18:40)
+Und das wiederum induziert dann in die Oberspannungswicklung, die wir jetzt mal an zwei Phasen wieder auflegen, eben den Strom. Und dieser Strom wird dann eben übertragen in das Netz des Netzbetreibers oder in unser internes Mittelspannungskabelsystem. In jedem Fall transformieren wir jetzt die Leistung auf der Niederspannung in eine Leistung in der Mittelspannung. 
+
+Dadurch reduziert sich der Strom und die Spannung steigt an. Das ist das große Geheimnis oder der große Trick bei einem Transformator. Wenn wir viel Leistung haben, versuchen wir die Spannung zu erhöhen, um so die Verluste zu minimieren und die Kabelquerschnitte eben in einem verträglichen Maß zu halten. 
+
+Die Verluste, die jetzt aber entstehen, darauf wollten wir eigentlich hinaus, die jetzt hier durch diesen Stromfluss in den Kupferwicklungen entstehen, die sind jetzt wieder exponentiell. Man sieht es hier, die gehen dann eben von null hoch auf einen gewissen Wert, der dann eben im Datenblatt angegeben wird. Und diese Verluste muss man jetzt natürlich drauf addieren auf die Leerlaufverluste. 
+
+Also wir hätten dann beides. Das müsste man jetzt aufeinander schieben und daraus, aus diesen Verlusten resultiert dann ein Wirkungsgrad des Trafos, der dann im unteren Bereich sehr schlecht ist, weil diese Leerlaufverluste natürlich erst mal kompensiert werden müssen. Aber sobald ihr auch hier, ich sage mal ähnlich wie beim Wechselrichter, in einem Lastbereich von 10 bis 20 Prozent seid, werden die vom Wirkungsgrad her relativ effektiv, würde ich sagen. 
+
+Also hier ist ein 98 Prozent ungefähr angegeben im Optimalbereich, vielleicht auch ein bisschen weniger, aber das ist relativ effizient, wie ich finde. So, jetzt schieben wir den Trafo wieder rein in die Trafostation oder in diese Kompaktstation. Und als nächstes, was wir hier in so einer Trafostation finden, sind dann eben der Eigenbedarf der PV-Anlage. 
+
+Auch das wollten wir euch nicht vorenthalten. In diesen Trafostationen oder vielleicht auch in Umspannwerken habt ihr natürlich dann Verbraucher, die etwas Energie verbrauchen. Das sind dann zum Beispiel Heizungen, weil wir versuchen natürlich unsere Stationen erst mal zumindest frei von Feuchte zu halten oder vielleicht auch frostfrei. 
+
+Aber erst mal ist, glaube ich, der wichtige Punkt, dass die Feuchtigkeit dort nicht kondensiert auf den Bauteilen. Dann haben wir Beleuchtung, die dann natürlich nur einmal im Jahr an ist, wenn ihr eure Wartungsarbeiten macht oder zweimal im Jahr. Dann gibt es Monitoring-Systeme, die natürlich dauerhaft laufen, aber natürlich auch keine nennenswerten Verbraucher sind in so einer PV-Anlage.
+
+(0:18:41 - 0:19:28)
+Meinetwegen habt ihr noch ein CCTV, also ein Kamerasystem, ein Überwachungssystem und ihr habt vielleicht noch mal ein Ersatzteillager, was dann vielleicht auch eine kleine Heizung drin hat und eine kleine Beleuchtung. Aber all diese Komponenten, die jetzt hier aufgeführt sind, die man so unter Eigenbedarf vielleicht zusammenfassen kann, sind aus unserer Sicht oder haben aus unserer Sicht geringe Auswirkungen. Also würden wir jetzt im weiteren Verlauf auch nicht groß greifen. 
+
+Bei großen Projekten haben wir da schon versucht, sehr, sehr detailliert auszuarbeiten. Was ist denn jetzt in den Umspannwerken los? Was hat das für einen Einfluss auf unsere Performance-Ratio? Ich denke, übergeordnet kann man da erst mal sagen, da würde ich mir erst mal gar nicht so große Sorgen drum machen. Das ist im Verhältnis zur Anlagengröße sehr, sehr wenig, also geringe Auswirkungen.
+
+(0:19:30 - 0:20:37)
+So, jetzt nach der Trafo-Station kommt jetzt noch ein Mittelspannungskabel. Man muss jetzt auch noch mal kurz aus dem Bild springen, damit man das sieht. Hier wird eingeblendet, da ist das Mittelspannungskabel. 
+
+Das verbindet jetzt unsere Trafo-Station mit der Übergabestation und dann können wir dann schlussendlich natürlich mit dem Mittelspannungskabel unsere Anlage an das Mittelspannungsnetz zum Beispiel anschließen oder an das Umspannwerk oder wie auch immer. Also, wir gucken uns auch das Kabel an, weil Kabel sind unser Fokus. Das kristallisiert sich ja nun mal langsam raus und auch dieses Kabel unterliegt erst mal den gleichen physikalischen Regeln wie das Niederspannungskabel. 
+
+Auch hier sind die Verlustleistungen der Kabelwiderstand mal den Strom zum Quadrat. Auch hier gibt es Datenblätter und auch hier suchen wir uns jetzt einmal ein Kabel raus. Das ist auch hier ein 240 Quadrat, wenn ich das richtig sehe, bei 20 Grad und dann kommt dann ein Wert raus, das sehen wir nachher in der Berechnung, der dann bei dem gleichen Querschnitt genauso ist wie beim Niederspannungskabel.
+
+(0:20:38 - 0:20:51)
+Liegt einfach am Material und am Querschnitt, dann ist der Widerstand der gleiche. So, hier haben wir die Komponenten aufgeführt und jetzt noch mal zur Übersicht. Also Module haben wir euch so eine Diskette drüber gezeichnet.
+
+(0:20:51 - 0:21:06)
+Dafür gibt es eine PAN-File, so heißt die, mit der ihr in euren Simulationstools arbeiten könnt. Da ist das Modul dann exakt definiert, ich sage mal bis zu den Steckern. Und da müsst ihr jetzt als Elektroplaner nicht weiter darauf eingehen.
+
+(0:21:06 - 0:22:00)
+Dann gibt es die Stringkabel, da kommt der Taschenrechner. Wir berechnen die wirklich, wir müssen die Längen ermitteln und dann über diese physikalischen Grundlagen, die wir eben hatten, die Widerstände, die Verluste im Stringkabel ausrechnen. Wechselrichter gibt es genauso wie beim Modul eine OND-File, also eine andere Datei, aber trotzdem gibt es eine Datei, mit der man rechnen kann in Simulationstools. 
+
+Das heißt nicht ihr mit Excel-Tabelle oder Bleistift und Taschenrechner, sondern Software-Tools greifen das viel, viel besser, als ihr das jemals tun könnt mit eurer Excel-Tabelle, mit euren Taschenrechnern, sondern das machen wirklich Software-Tools und dafür ist das da. Dann gibt es das Niederspannungskabel. Hier berechnen wir, hier nehmen wir die physikalischen Grundlagen und die gemessenen Kabellängen aus dem Park und kommen dann zu unseren Berechnungsergebnissen.
+
+(0:22:02 - 0:22:44)
+Transformator, nochmal zusammengefasst, Tier 2, das ist im Grunde genommen das Datenblatt, was wir darstellen wollen. Daraus könnt ihr diese Werte P0 und PK abgreifen und dann auch die Software füttern und den Eigenbedarf, ja Daumen runter, nehmen wir jetzt erst mal nicht mit, weil der nicht so relevant ist für unsere oder der Einfluss nicht so relevant ist. Zum Schluss noch das Mittelspannungskabel. 
+
+Auch hier kommt der Taschenrechner, das berechnen wir, Kabellängen messen, Widerstände ermitteln und dann kommen wir da zu sinnhaften Verlustwerten und jetzt sind wir damit mit den Komponenten erstmal soweit am Ende.

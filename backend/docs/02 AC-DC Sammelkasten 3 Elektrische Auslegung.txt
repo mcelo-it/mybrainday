@@ -1,0 +1,147 @@
+(0:00:00 - 0:00:48)
+Jetzt geht's los, jetzt geht's richtig los, Elektrotechnik für Fortgeschrittene. Wir machen die elektrische Auslegung und jetzt schiebt mein Kollege in den Chat nochmal eine Legende oder eine Zuordnung der Benennungen für die elektrischen Kenngrößen. Also wir haben festgestellt, wir brauchen viele elektrische Parameter und die Zuordnung ist schwierig. 
+
+Ich versuche es natürlich so gut ich kann, ihr folgt natürlich so gut ihr könnt, aber im Chat liegt dann auch noch mal ein Dokument, in dem man dann besser nachvollziehen kann, vielleicht auch im Nachhinein, was eigentlich was ist. Wie machen wir die elektrische Auslegung? Nochmal von vorn, wir haben Strings von den Modulen, die verbinden wir mit dem Gag, das ist unser Generatoranschlusskasten. Der Generator, ja es sind mehrere, genau, sonst macht es keinen Sinn, also wir machen mehr als einen String, sonst macht es keinen Sinn.
+
+(0:00:49 - 0:02:22)
+Aber jetzt meinetwegen ein DC-Hauptkabelsystem geht rüber, da sieht man auch unser Kabel so symbolisch drin, zu so einem zentralen Wechselrichter. Und jetzt schiebe ich Linien rein, die verschiebe ich später auch, aber das mache ich deswegen, weil das sind verschiedene Teilabschnitte, bei denen ich die Parameter miteinander vergleichen muss. Ziel ist folgendes, der Imax, also der größte mögliche Strom eines Strings, muss kleiner sein als der Nennstrom des Gags für einen String. 
+
+Bis hierhin finde ich ist es noch leicht, es werden glaube ich 16, insofern ist jetzt dieses Handout parallel vielleicht ganz sinnvoll. Und die Linien, die ich zeige und die Bilder. Den Strom haben wir jetzt erst mal auf der Stringseite bewertet. 
+
+Jetzt ist natürlich auch wichtig, dass die Anzahl N der Strings, die maximal mögliche Stringanzahl pro Gag in den Gag überhaupt reinpasst, also es muss weniger Strings angeschlossen werden oder gleich, als der Gag String Eingänge hat. Dann kommt die Spannung, Stromanzahl Spannung und da ist die maximale Stringspannung kleiner, hoffentlich, als die Nennspannung des Gags. Wir haben es gerade gesehen, 1500, da hätte man schon die erste Zahl reinschreiben können. 
+
+Aber wir machen jetzt erst mal Theorie. Wir gehen oben sozusagen beim Strom wieder in die Spalte rein und jetzt sind wir am Ausgang vom Gag. Also jetzt ist es der Nennstrom des Gags, aber beim DC-Hauptkabel, also das sind die dicken Kabel vom Gag weiter zum Wechselrichter.
+
+(0:02:22 - 0:04:26)
+Und dieser Strom, der muss, also dieser Nennstrom des Gags, der muss größer sein als der maximale Strom, der auf dem Kabel fließt. Nicht der Nennstrom des Kabels, das steht hier nicht. Das ist für heute irrelevant. 
+
+Kabeldimensionierung machen wir nächste Woche. Heute geht es jetzt nur darum, wir rechnen aus, wie viel Strom fließt da maximal. Imax DC-Haupt auf diesem Kabel und der muss kleiner sein, als der Nennstrom des Gags für den Ausgang. 
+
+So und gleichzeitig muss dieser Strom aber kleiner sein, als der maximal mögliche Eingangsstrom am Wechselrichter. Die Anzahl. Die Anzahl ist vermeintlich einfach, wenn man sagt, naja wir haben ja nur ein Kabelsystem sozusagen, aber das muss nicht so sein, deswegen habe ich es reingenommen. 
+
+Also die Anzahl der DC-Hauptkabel, die wir da anschließen, muss kleiner oder natürlich gleich sein, der Anzahl der Kabel, die wir am Wechselrichter anschließen können. Die Spannung ist die gleiche, deswegen haben wir das so ein bisschen vibriert und muss kleiner gleich sein, als die vom Wechselrichter. Und jetzt kommt noch eine Linie rein, weil wir gesagt haben, wir brauchen für unsere Spezifikation ja auch noch die Anzahl der Gags. 
+
+Das ist jetzt nicht mehr die Spezifikation des Gags in sich, sondern übergeordnet, wenn man so will, wie viele brauche ich denn für meine Baustelle. Und da haben wir gesagt, also diese Anzahl von Gags muss kleiner gleich sein, als die Anzahl an Gags, die ich überhaupt anschließen kann am Wechselrichter. Okay, also ich habe es zumindest verstanden, die Übersicht und die kommt jetzt auch immer wieder in einer anderen Form ein bisschen. 
+
+Achtung, wir schieben jetzt nämlich einfach alles so ein bisschen durcheinander, nehmen die kleiner Gleichzeichen rauch, aber ich verspreche euch, es sind genau die gleichen Parameter wie gerade eben. Und jetzt holen wir uns diese Daten, weil wir machen ja die elektrische Auslegung. Und jetzt haben wir zwei grün gemacht, weil das ist der erste Schritt. 
+
+Schritt 1 nenne ich, kommt gleich, String Design und den haben wir letzte Woche gemacht. Für alle, die dabei waren, haben jetzt diese zwei Kenndaten schon. Ich zeige es nochmal, indem ich einfach so eine Schrittfolge jetzt auch immer ein bisschen mitführe.
+
+(0:04:26 - 0:05:45)
+Also wir sagen im ersten Schritt aus dem String Design, machen wir heute nicht, haben wir letzte Woche gemacht, kommt der maximale Stringstrom 17,51 und 1490 irgendwas. Ich sage das dazu, wir haben lange überlegt, ob wir es allgemein halten, also einfach ohne Zahlen und haben uns dagegen entschieden, weil ich finde, mit Zahlen ist es besser greifbar. Man kann natürlich auch ohne Zahlen das ganze theoretisch durchprügeln. 
+
+Jetzt haben wir einfach nur beispielhaft hier irgendwelche Zahlen rausgenommen, sind aus einem Projekt ehrlich gesagt, aber für euren Projekt sind natürlich andere Zahlen relevant. Okay, also jetzt haben wir die aus dem String Design von letzter Woche und schieben die wieder da rein. Ihr seht's, oder? Die Übersicht hat sich schon ein bisschen gefüllt. 
+
+Und dafür sind andere Parameter grün geworden. Das sind die, die da beim Wechselrichter stehen. Schritt 2. Ich schaue in das Datenblatt vom Wechselrichter, das mache ich jetzt auch. 
+
+Dazu zeige ich euch erstmal nochmal für den visuellen Impact, dass man sich das einfach besser merken kann. Nach dem Schritt 1 kommt der Schritt 2. Jetzt gehe ich also in mein Datenblatt vom Wechselrichter. Und da habe ich hier von der Firma SMA eins rausgenommen. 
+
+Die haben auch gesagt, dass ich das gerne verwenden darf. Das freut mich natürlich, aber auch hier gilt, das ist halt jetzt ein Wechselrichter-Datenblatt. Da ist es.
+
+(0:05:46 - 0:06:17)
+So, jetzt blättern wir da rein. Darum geht es ja. Im Datenblatt und sehen da erstmal eine maximale DC-Spannung. 
+
+Die brauchen wir ja. Also ich sage es ja nochmal gerne. Diese Parameter führe ich einfach mit. 
+
+Ich habe vorhin gesagt, was ich brauche und jetzt fülle ich meine Liste. Hier kommt die 1500 Volt her. Jetzt gehe ich da ein Stückchen runter. 
+
+Wir zeigen das ja immer so ein bisschen gehighlighted mit diesem weißen Streifen, dass man da also Sicherungen einsetzen kann. DC-Sicherungen. Und was suche ich? Vielleicht nochmal, um das hier kurz zu erklären oder ihr schaut auch parallel in eure Übersicht.
+
+(0:06:18 - 0:07:25)
+Ich suche hier die maximal möglichen Strom, den ich pro, naja ist ja schon dargestellt, Sicherung, also DC-Hauptkabeleingang anlegen darf. Den maximalen Strom, der von so einem Gag kommen darf. Und wie definiere ich den? Der steht da nämlich nicht direkt drin, sondern da steht jetzt eine Sicherung. 
+
+Da sage ich, man braucht Reduktionsfaktoren. Das sagt jeder vernünftige Hersteller. Das ist immer so, weil das thermische Abhängigkeiten hat. 
+
+Die suche ich mir aus dem Manual oder ich frage den Wechselrichterhersteller in dem Fall, was der da vorschlägt. Und dann sind das 0,64. Genau die Zahl kommt nächste Woche auch im nächsten Brain Day vor. 
+
+Da zeigen wir ein bisschen, wo die herkommt. 0,64 mal die Sicherung würde jetzt bei uns ergeben, wir nehmen mal die größte, wir wollen ja max, also 500 Ampere mal 0,64 sind 320. Könnt ihr parallel nachrechnen, wer das macht, ist noch ein bisschen besser als alle anderen. 
+
+Und wer mir dann Fehler nachweist, der ist auch sozusagen, ja irgendwie noch stärker. Ja, der ist richtig gut unterwegs. So, also 320 Ampere, haben wir wieder einen rausgefunden.
+
+(0:07:26 - 0:08:35)
+Jetzt, das ging recht schnell, aber ich zeige es, erkläre es dann einfach noch mal kurz. Da steht Anzahl DC-Eingänge. Wir brauchen die maximale Anzahl, die wir anschließen dürfen. 
+
+Da steht 24 zweipolig abgesichert. Also hat der Hersteller natürlich auch diese 712-Norm gelesen und das Ganze zweipolig abgesichert. Und das hier kommt aus der Montageanweisung, deswegen kann ich sie nicht rausschieben. 
+
+Also wie viele DC-Hauptkabel kann ich an eine Sicherung anschließen? Da steht tatsächlich zwei drin, meine ich, jetzt in diesem Fall. Und das habe ich natürlich absichtlich gemacht, weil die meisten verlegen nur ein DC-Hauptkabel und dann passt das schon. Aber man könnte auch mehr anschließen. 
+
+Also, da haben wir sie, Schritt 2. Jetzt ist die rechte Seite sozusagen auch schon gefüllt. Weiter geht's. Ihr seht's jetzt wieder auf der linken Seite. 
+
+Das heißt nicht ein Drittel, sondern das heißt, jetzt kommt der Schritt 3. Der ist auch wieder im String-Design, aber ich mache das ja immer ein bisschen farblich und führe es auch mit. Ich hoffe, dann ist es klar. Also, diese drei Parameter holen wir uns jetzt im Schritt 3. Jetzt müssen wir auch mal berechnen und ich sage es euch, hört jetzt zu, holt euren Taschenrechner, weil das müsst ihr gleich auch noch mal selber nachrechnen.
+
+(0:08:36 - 0:10:55)
+Also, Schritt 3, einfach nur, weil es so schön aussieht, nochmal hier diese drei Parameter rechnen wir jetzt aus. Wie machen wir das? Einmal nochmal, damit auch ich weiß, worum es eigentlich geht, die maximale Anzahl an Strings pro Gag rechne ich wie folgt aus. Ich nehme mir den maximalen Strom, den ich pro DC-Hauptkabel-Eingang am Wechselrichter überhaupt ansetzen darf. 
+
+Den habe ich gerade rausgeguckt, 320 Ampere mit der Sicherung ausgerechnet und teile den durch einen String und dann nehme ich natürlich den maximalen Strom, den ich letzte Woche ausgerechnet habe. Also, diese Werte, die da stehen, die kamen aus Schritt 1 und 2 und im Schritt 3 teile ich sie jetzt durcheinander und dann kommt da 18,2 raus und das ist immer so ein Logiktraining, wenn es um maximale Anzahl geht, dann darf ich natürlich jetzt da nicht aufrunden, sondern ich muss abrunden, also maximal 18. Maximal 18 Strings kann ich anschließen an meinen Gag. 
+
+Jetzt den maximalen DC-Hauptstrom, also das, was aus dem Gag quasi rausfließt Richtung Wechselrichter, das ist, finde ich, eigentlich ziemlich logisch und einfach. Ich nehme jetzt die Zahl 18, die ich da vorhin ausgerechnet habe, also die maximalen String-Anzahl und rechne das nochmal mal den Strom pro String und dann kommt da 315 Ampere raus. Also einfach alle Strings zusammenrechnen, weil das ist beim Strom so, parallel addieren die sich auf und dann kommt halt ein größerer Stromfluss raus. 
+
+Diese minimale Anzahl der Gags, das kommt später auch nochmal klarer dann, warum eigentlich minimal, aber jetzt nehmen wir es erstmal so hin, okay, und was meine ich damit? Also ich brauche jetzt eine gewisse Gag-Anzahl, das ist ja schon ein bisschen Level 2, weil das ist jetzt schon Anlagentopologie-Betrachtung, aber ich finde, es gehört da mit rein, deswegen ziehen wir es jetzt einmal komplett durch. Und dafür brauche ich eine Annahme, die schreibe ich jetzt hier einfach hin. Wir haben 296 Stück Strings, das müsst ihr annehmen, sonst kann man ja gar nicht sagen, wie viele Gags ich eigentlich brauche. 
+
+Nehmt das einfach mal an, es wäre auch orange, weil irgendwie was Besonderes. Und jetzt teile ich einfach diese Gesamtanzahl durch die maximal möglichen Strings und dann kommt 16,4 raus und Achtung, minimale Anzahl, also muss ich aufrunden. 17 Stück, minimal.
+
+(0:10:56 - 0:15:25)
+Drei Parameter, die ich mir ausgerechnet habe. Wenn man weiß, wie man das macht, ist das auch nicht mehr schwierig. Ich hoffe, ich habe es einigermaßen gut erklärt und die Tabelle füllt sich weiter. 
+
+Jetzt haben wir erstmal drei Schritte abgearbeitet und sind ehrlich gesagt mit der elektrischen Berechnung jetzt auch durch. Das zeige ich auch gleich visuell nochmal. Und Achtung, das geht natürlich mega schnell, aber ich hoffe, es wird dann trotzdem klar. 
+
+Ich habe jetzt hier vier Parameter wiederum farblich markiert, weil die nehme ich mit. Die haben wir jetzt schon ausgerechnet oder aus dem Datenblatt rausgesucht und die nehme ich mir jetzt mit für, wen wundert es, den Schritt 4. Aber bevor ich den Schritt 4 zeige, will ich nochmal darauf hinauslaufen, dass jetzt meine technische Bewertung ehrlich gesagt abgeschlossen ist. Wir haben jetzt gesagt, was man da anschließen kann und das kann man jetzt so bauen. 
+
+Da kann man jetzt einfach sagen, so machen wir das. Deswegen mache ich da einen Schlussstrich. Aber es ist dann nicht wirklich ein Schlussstrich, deswegen vielleicht nur ein gestrichelter Strich, weil jetzt kommt der Schritt 4 innerhalb der, wir haben es genannt, zweiten Ebene. 
+
+Es ist irgendwie eine neue Betrachtungsweise, die wir jetzt vermitteln wollen. Technik ist durch, da gibt es nur schwarz und weiß, 1 oder 0. Jetzt kommt eine wirtschaftliche Bewertung, da gibt es Optima und die gucken wir uns jetzt an. Also jetzt gehen wir in den nächsten Schritt und gucken uns mal an, wie viele Gags nehmen wir denn für unser Projekt und das ist nicht eineindeutig. 
+
+Um da ein bisschen sich ans Optimum heranzutasten, braucht man also diese vier Parameter, die ich da darstelle und jede Menge Motivation, um sich das nochmal genauer anzugucken. Also wir haben die vier genommen, machen das ja gerne mit dieser Rüberschiebe-Funktion, um deutlich zu machen, dass die jetzt nicht aus dem Nichts kommen, sondern die haben wir uns jetzt eben gerade ausgerechnet. In der Excel-Tabelle wären die ja jetzt einfach nochmal da. 
+
+Die Anzahl der Strings pro Gags maximal 18. Daraus resultiert die Anzahl der Gags, weil wir ja unsere Stringanzahl limitiert haben und daraus hatten wir ausgerechnet diesen maximalen Strom, der im DC-Hauptkabel fließen wird, 315 Ampere. Und jetzt, wer aufgepasst hat, nach rechts könnte er das von sich aus selbst beantworten, dass diese Reihe in diese Richtung nicht zulässig ist. 
+
+Also 19 oder 20 Strings ist nicht zulässig. Daraus würde resultieren, dass wir weniger Gags brauchen, aber weil der Strom dann zu groß wird, ich markiere das mal hier rot, orange, ist das nicht zulässig. Also das ist nur symbolisch zu sehen, jetzt in die rechte Richtung sind wir limitiert, da kommen wir nicht mehr hin. 
+
+Das haben wir jetzt nur dargestellt, um zu zeigen, der Strom ist jetzt zu groß, in die Richtung gehen wir nicht. Aber wir können in die andere Richtung gehen. Da unten haben wir die 24 hingeschrieben, das war die maximale Anzahl an Gags, die wir überhaupt anschließen können. 
+
+Und das hilft natürlich jedem Techniker enorm, weil jetzt wird es so schön logisch. Wir haben jetzt ein Maximum, also da gehen wir nicht mehr weiter und wir haben nach links ein Minimum, auch hier, um es besser greifen zu können, mache ich noch einen Kringel außenrum. Also 24 Gags maximal anschließen, würde rechnerisch ergeben 12,5 Strings pro Gag, ist eine rechnerische Geschichte. 
+
+Der Strom wird natürlich immer kleiner. Und auch da zeige ich nur, was ich meine, orange, also 25, 27 Gags geht nicht. Wir sind sozusagen hier in unserer Range. 
+
+Jetzt kommt so eine wirtschaftliche Betrachtungsweise. Haben bestimmt schon viele gemacht. Ich habe es in meiner Karriere wahrscheinlich schon 25 Mal gemacht. 
+
+Und jetzt zeige ich es nur so ganz grob, rundimentär. Auf der x-Achse sind jetzt die Strings pro Gag dargestellt. 12,5 bis 18, das ist unsere Range oben. 
+
+Wir könnten die anderen jetzt wieder rausblenden. 12,5 bis 18 Strings pro Gag. Und in der x-Achse zeige ich folgendes. 
+
+Erstmal die Anzahl der Gags. Das ist ja in der Tabelle die zweite Zeile. Also logischerweise, wenn ich mehr Strings pro Gag benutze und die Gesamtanzahl bleibt gleich, das war auch gleich auf meiner ersten Folie, habe ich das gesagt, sonst geht es nicht, dann brauche ich weniger Gags. 
+
+Gleichzeitig bedeutet das, dass die DC-Hauptkabellänge sinkt. Wir schreiben hier keine festen Längen hin, das sind Tendenzen, weil das topologieabhängig ist. Aber grundsätzlich, wenn ich weniger Gags habe, habe ich auch längere, kürzere DC-Hauptkabel in Summe.
+
+(0:15:26 - 0:19:59)
+Beim Stringkabel ist es genau andersrum und das ist jetzt glaube ich schon der Kern der Sache. Wenn man das gegriffen hat, dann kann man jetzt selber die Bewertung machen. Aber grundsätzlich ist wichtig, die Gags werden weniger, dann muss die Stringkabellänge steigen. 
+
+Wenn die Länge der DC-Hauptkabel sinkt, sinken auch die Verluste. Das ist hier gestrichelt dargestellt und wenn aber die Länge der DC-Stringkabel steigt, dann steigen auch die Verluste der Stringkabel. So und jetzt haben wir zwei gegenläufige Effekte, die ich vorhin auch schon mal gezeigt habe und jetzt bitte nicht mich fechtnadeln nach irgendwelchen Kenndaten, sondern wir machen das nur so grob, indem wir jetzt hier Gesamtkosten erst mal genau errechnen und das eben nur so grob rein skizzieren, indem wir da so eine Kurve reingezeichnet haben. 
+
+Also das ist nur grob dargestellt in weiß, die Gesamtkosten resultierend aus die Gags muss ich kaufen, ich muss sie montieren, ich brauche Länge der Kabel, ich habe Verluste, die kann ich immer mit irgendeinem Euro pro Kilowatt Peak Wert aus der PVSYST-Analyse gegenrechnen. Komplexes System, ganz viele Parameter, die da reinpassen und deswegen ist unsere Kurve auch mal so ungefähr und ein bisschen schief. Aber wichtig ist, die hat ein Minimum und das Minimum, das ist mein wirtschaftliches Optimum. 
+
+Also da sind die Gesamtkosten am geringsten und wenn ich dem Projektleiter das hier zeige, ich glaube, dann habe ich ihn überzeugt, dass das sinnvoll ist, was ich da tue, nämlich ich umkringle es 16. 16 Strings pro Gag hat jetzt meine Wirtschaftlichkeitsbetrachtung ergeben. Das macht Sinn, nicht 18, nicht 13, sondern eben 16. 
+
+Und deswegen haben wir jetzt oben auch die Parameter umbenannt, ging jetzt sehr schnell, aber das macht nichts. Jetzt ist es nicht mehr irgendein Minimum oder ein Maximumwert, sondern jetzt ist es wirklich der spezifische Stromwert von meinem Projekt. Okay, also ich hatte die Grenzwerte berechnet und jetzt habe ich mir in der anderen Ebene, betrachtungsweise in einer wirtschaftlichen Optimierung zwischen diesen Extremwerten sozusagen das wirtschaftliche Optimum rausgesucht. 
+
+Einen 16er Gag, das ist sozusagen mein Ziel, um mein wirtschaftliches Optimum zu erreichen. Orangenes Ausrufezeichen ist mir immer wichtig, damit ich keine E-Mails kriege in zwei Jahren, dass das Projekt irgendwie schief gelaufen ist. Das ist projektspezifisch. 
+
+Ich glaube, hier hat man jetzt die Logik hoffentlich greifen können, den Weg dorthin. Und jetzt geht es gleich um 11 Uhr los und man guckt sich mal sein eigenes Projekt an und schaut, ob man da ein Optimum findet. Wir haben es noch nicht ganz geschafft, sondern jetzt kommt noch der Schritt 5. Da ist er. 
+
+Der Schritt 5, das ist auch eine wirtschaftliche Bewertung. Die Lage des Gags ist auch interessant. Jetzt müssen wir elektrotechnisch gar nichts mehr ändern, sondern wir müssen hier einfach gucken, ob wir die Gags in die Mitte setzen. 
+
+Dieser Wechselrichter steht bei mir an der Straße, also der steht nicht in den Modulreihen drin. Dafür sind die Dinger zu groß. Man setzt sie eigentlich immer an den Rand und bei Dachanlagen kenne ich es ähnlich, auch wenn das andere Wechselrichter vielleicht sind. 
+
+Aber das Grundprinzip ist das gleiche. Also man kann das ausrechnen. Ich kenne viele Leute, die das auch schon viel, viel, viel gemacht haben und ich hoffe, dass wir eigentlich immer alle zu dem gleichen Ergebnis gekommen sind. 
+
+Also und zwar, man kann die Gags mittig setzen, aber dann sitzen sie für die Strings perfekt. Da sind sie, die Stringkabel. Aber der Weg zum Wechselrichter ist vermeintlich weit. 
+
+Was man also machen kann, ist man schiebt die Wechselrichter Richtung Wechselrichter. Jetzt sieht man das, finde ich, eindeutig. Die Stringkabel werden länger, die DC-Hauptkabel werden kürzer. 
+
+Noch weiter geschoben. Jetzt werden die Stringkabel noch viel länger und die DC-Hauptkabel werden noch viel kürzer. Ich glaube, das Prinzip habe ich rübergebracht und deswegen halte ich mich nicht weiter auf, dass da im Grunde die gleiche Kennlinie ehrlich gesagt rauskommt. 
+
+Also ich habe da gar nichts geändert jetzt. Jetzt ändern sich außer die Anzahl der Gags, die habe ich gelöscht und die X-Achse, wer da richtig aufmerksam ist, sieht das. Da steht jetzt Entfernung Gag vom Wechselrichter. 
+
+Also wenn ich die Entfernung da verschiebe, verändere, dann verändern sich auch da die Effekte von DC-Hauptkabel, DC-Stringkabel und zwar jeweils Materialkosten und Verluste. Gleiches Prinzip. Ich würde empfehlen, ein Optimum zu finden und würde jetzt aber vorschlagen, dass wir erst in die Pause gehen, 10.04 Uhr, und das erst mal verdauen, was wir gerade gehört haben. 
+
+In fünf Minuten sehen wir uns wieder mit Taschenrechner und dann macht ihr ein oder zwei Schritte hiervon einfach mal selbst. Bis gleich.

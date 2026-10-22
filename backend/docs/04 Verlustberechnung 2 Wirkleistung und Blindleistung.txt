@@ -1,0 +1,75 @@
+(0:00:00 - 0:00:39)
+und gehen jetzt in das, ich sag mal, erste wichtige Thema oder technisch wichtige Thema Wirkleistung und Blindleistung. Also Wirkleistung und Blindleistung, da fragen sich wahrscheinlich gleich schon viele, warum Wirkleistung und Blindleistung? Ja, ihr seht es gleich in der ersten Formel, aus Wirkleistung und Blindleistung resultiert auch gleich eine Scheinleistung. Also das sind erst mal die Leistungsformen, die es gibt in der Elektrotechnik, Wirk-, Blind- und Scheinleistung und die werden wir euch jetzt mal versuchen, ein Stück weit näher zu bringen, für viele wahrscheinlich wirklich das kleine Einmaleins und im täglichen Arbeitsablauf tief verinnerlicht.
+
+(0:00:40 - 0:01:45)
+Viele, glaube ich, haben da aber immer wieder ihre Schwierigkeiten und deshalb zeigen wir euch das jetzt mal und wir zeigen euch, warum wir das heute thematisieren. Also es gibt Wirkleistung, das ist hier immer das P in der Formel, Wirkleistung und Wirkleistung ist eben vergütungsrelevant. Das ist für uns erst mal ein ganz, ganz wichtiger Punkt. 
+
+Aktuell ist aus unserer Sicht die Wirkleistung das, wofür der Kunde Geld bekommt. Das mag sich in manchen Modellen auch ändern und irgendwann sind vielleicht auch Blindleistungsbereitstellungen und so weiter vielleicht auch mal vergütungsrelevant. Aktuell ist es für uns die Wirkleistung und die Blindleistung, die dann zusätzlich zur Verfügung gestellt werden kann, kann der Wechselrichter in der Regel bereitstellen und wird aktuell nicht vergütet. 
+
+Deshalb ist das erst mal von uns jetzt so definiert. P Wirkleistung, vergütungsrelevant, Q Blindleistung kann der Wechselrichter bereitstellen. Lassen wir mal so stehen und dann resultiert daraus ein S, das ist die Scheinleistung und das zeigen wir euch gleich auch noch mal ein bisschen anschaulicher mit dem Zeigerdiagramm und so weiter.
+
+(0:01:46 - 0:02:20)
+Jetzt geht es noch mal weiter, weil es gibt noch den Kosinus-Phi, für viele ein fester Begriff, aber was ist der Kosinus-Phi denn eigentlich? Der Kosinus-Phi definiert erst mal das Verhältnis von Wirk- zu Scheinleistung und dann kommt da immer so was raus wie 1 oder 0,95 oder irgendwas dazwischen. Sehen wir gleich vielleicht noch ein bisschen genauer, was das dann wirklich bedeutet und für die, die das nicht jeden Tag technisch tief greifen, ist das wahrscheinlich eine Hilfe, vielleicht für die anderen auch noch mal an der einen oder anderen Stelle ein kleiner Aha-Effekt. Also Kosinus-Phi, Leistungsfaktor.
+
+(0:02:22 - 0:08:26)
+Jetzt geht es weiter, wir haben ein Kosinus-Phi von 1 und wenn wir ein Kosinus-Phi von 1 haben, nur um das einmal hier gesagt zu haben, dann ist die Wirkleistung erst mal 1, also sagen wir mal 100% 1 und dann haben wir keine Blindleistung. Die Blindleistung ist dann 0 und daraus resultiert jetzt erst mal beim Kosinus-Phi von 1 eine Scheinleistung von 1. Das ist erst mal so weit so gut und ich denke mal verständlich für viele. Wir machen es jetzt trotzdem noch mal im Zeiger-Diagramm. 
+
+Ihr seht das jetzt hier, P ist negativ, das Q geht nach oben positiv. Bei dem Q lassen wir es jetzt mal dahingestellt, ob das induktiv oder kapazitiv ist. So weit wollen wir hier nicht reingehen, aber erst mal wichtig, P ist negativ, weil wir schauen uns jetzt hier die Erzeugung eines Wechselrichters an und das Ganze im Verbraucher-Zellfall-System. 
+
+Das heißt Verbraucher-Zellfall-System, das ist das System, wovon wir immer reden. Das ist für unsere Netzberechnung, für die Netzbetreiber aus unserer Sicht jetzt in den nächsten Brain Days immer Verbraucher-Zellfall-System und wenn ein Wechselrichter Energie erzeugt, dann ist sie negativ. Andersrum, wenn ihr zu Hause Strom verbraucht oder Energie verbraucht, dann zählt euer Zähler zu Hause immer nach oben. 
+
+Verbrauch wird dann immer positiv gewertet. Deshalb sieht diese Grafik oder dieses Zeiger-Diagramm jetzt erst mal genau so aus, wie es aussieht. Bei P- wir haben jetzt mal einen Widerstand reingemacht. 
+
+Ja, jetzt ist das vielleicht nicht ganz klar, wir wollen nicht verbrauchen, wir wollen erzeugen, aber der ohmsche Widerstand soll das hier sein. Der steht für Wirkleistung und der ist vergütungsrelevant. Deshalb diese Münzen und ich sag mal im Sinusverlauf, Strom und Spannung, zeigen wir euch jetzt hier rechts mal, wie das dann wirklich aussieht. 
+
+Also reine Wirkleistung für die Einspeisung. Dann haben wir erst mal ein I, ein Strom, so sieht das aus im Sinus. Ich glaube, das haben auch viele schon gesehen und jetzt kommt dazu die Spannung. 
+
+Achtung, Achtung, die ist jetzt 180 Grad verdreht, weil wir eben einspeisen. Das ist hier ganz wichtig. Würden wir jetzt verbrauchen, würden Strom und Spannung exakt aufeinander liegen im ohmschen Bereich oder im Kosinus-Vieh-1-Bereich. 
+
+Hier ist es jetzt Einspeisung, deshalb 180 Grad verdreht. So, daraus resultiert jetzt eine Wirkleistung, die genauso groß ist wie die Scheinleistung. Das hatte ich eben ja schon mal links in der Tabelle gezeigt und diese Scheinleistung, dadurch dass wir jetzt einen positiven Strom im ersten Bereich mit einer negativen Spannung multiplizieren, ab 180 Grad dreht sich das dann, ist dann immer negativ, diese Leistung. 
+
+Und hier in unserem Fall ist jetzt P gleich S. So, jetzt würden wir mal weitergehen. Das war der Fall 1, Stromspannung in Phase. Ich sage mal in Anführungsstrichen in Phase, weil es 180 Grad verdreht. 
+
+Und hier haben wir einen ohmschen Verbraucher, diese Heizung hatten wir. Jetzt gehen wir rüber zu Fall 2. Was wir jetzt machen ist, wir verschieben gleich mal Strom und Spannung ein wenig gegeneinander. Müsste dann genau hingucken. 
+
+Im Grunde genommen haben wir jetzt in unserem System Induktivitäten oder Kapazitäten, also einen Transformator vielleicht, der so ein bisschen induktiv wirkt, weil er braucht Magnetfelder oder ein Mittelspannungskabel, was dann eher kapazitiv wirkt, weil es sich zwischen den Kabeln eben Felder aufbauen. Sind das eher Kapazitäten in unserer Netzberechnung. Und was auch immer wir jetzt haben, wir würden jetzt mal den Strom gegen die Spannung verschieben und dann passiert gleichzeitig was mit der Blindleistung. 
+
+Ihr seht das dann gleich. Jetzt habt ihr es vielleicht schon gesehen in dem Bild. Die grüne Linie verschiebt sich nach rechts und unsere Leistungslinie verschiebt sich nach rechts und nach oben. 
+
+Das ist erstmal einfach Grundlagen Elektrotechnik oder Physik. Was man jetzt hier sieht und ich finde man sieht es vielleicht am besten da, wo jetzt der Sinus die x-Achse überschreitet, also in den positiven Bereich reingeht. Da haben wir für einen kurzen Zeitpunkt einen Momentanwert von Strom und Spannung, der negativ ist. 
+
+Wir multiplizieren dann diesen Negativwert Strom und Spannung und dann wird er positiv und das heißt jetzt haben wir sowohl negative Wirkleistung, also Einspeisung und wir haben aber auch einen Teil positive Leistung und das ist dann genau das ist dann eben unsere Blindleistung, würde ich sagen, die jetzt im Netz hin und her pendelt. Die geht von von Erzeuger zu Verbraucher und kann eben nicht direkt in Energie umgesetzt werden und jetzt sehen wir dann auch gleich links in der Tabelle, was das dann für Auswirkungen hat. Also jetzt ist der Kosinus Phi, wir nehmen jetzt mal an 0,95 und wir lassen jetzt mal die Wirkleistung bei 1. Dann, um diesen Kosinus Phi von 0,95 zu erreichen, brauchen wir jetzt Blindleistung, die steht jetzt bei 0,32 zum Beispiel und dann haben wir als Resultat eine Scheinleistung. 
+
+Wir zeigen erst die Blindleistung im Zeigerdiagramm, ihr habt es gesehen, als Geschenk. Das ist nicht vergütungsrelevant und jetzt resultiert daraus eine Scheinleistung. Seht ihr auch gleich im Zeigerdiagramm, die Linie ist natürlich länger als die P-Linie und die ist dann eben über 100 Prozent, also 1,05. 
+
+Da sehen wir jetzt die Scheinleistung. Den Winkel Kosinus, den zeichnen wir euch auch ein. Der hängt jetzt mit dem Kosinus Phi natürlich zusammen. 
+
+Jetzt seht ihr mal, wo der sich befindet, warum das so heißt. So, jetzt aber Achtung, Achtung, für die meisten ist das, die sich auch mit Anlagenzertifizierung beschäftigen, vielleicht auch ganz klar, für viele vielleicht nicht. Deshalb hier einmal der Hinweis, wir zeigen euch jetzt mal so ein klassisches Wechselrichter-Datenblatt.
+
+(0:08:26 - 0:09:33)
+Ihr seht jetzt hier in der oberen Zeile eine Wirkleistung von zum Beispiel 50.000 Watt und darunter seht ihr die Scheinleistung des Wechselrichters. Was kann der denn eigentlich an Scheinleistung? Da steht auch 50.000 Watt. Das heißt, dieser Wechselrichter kann im Kosinus Phi von 1 Fall oder Verhalten genauso viel Scheinleistung wie Blindleistung. 
+
+Sobald jetzt aber Blindleistung bereitgestellt werden muss, wird sich hier zwangsläufig die Wirkleistung reduzieren müssen, weil die Scheinleistung limitiert das Ganze. Das wiederum hat dann natürlich Auswirkungen auf den Betrieb unserer Anlage. Wir schauen uns jetzt noch mal die Tabelle an, haben die Werte von eben ausgegraut. 
+
+Das S bleibt jetzt 1, weil wir können nicht mehr als 1S. Das ist einfach so. Und wenn wir jetzt Blindleistung bereitstellen müssen, dann hat das einfach zur Konsequenz, dass P eben nicht mehr 1 sein kann, sondern P muss kleiner werden. 
+
+In diesem Fall 0,95. Und genau, das ist ein Kosinus Phi von 0,95. Klar, P durch S, 0,95 durch 1 ist 0,95.
+
+(0:09:34 - 0:09:53)
+Das ist jetzt so. Und in unserem Zeigerdiagramm seht ihr jetzt, was die Auswirkung ist. Genau, die Scheinleistung, also diese diagonale Linie, die ist jetzt auf Länge 1. Die Wirkleistung hat sich verkürzt auf 0,95, sodass wir eben diesen Blindleistungsanteil bereitstellen können.
+
+(0:09:53 - 0:12:08)
+Das ist im Grunde genommen die Grundlage, die jetzt dahinter steckt. Das Ganze wiederum hat dann zur Auswirkung, dass Blindleistungsbereitstellung im Nennenbetrieb zur Wirkleistungsreduzierung führen kann. Jetzt haben wir dahinter stehend die Richtlinie, die VDE 4110 zum Beispiel oder 4120. 
+
+Und die sorgen tatsächlich dafür, dass viele unserer Solarparks leistungsreduziert laufen müssen. Sei das jetzt aufgrund von einer Spannungsabsenkung im Netz oder sei es, weil wir Blindleistung am Netzanschlusspunkt bereitstellen müssen. Das sind in unterschiedlichen Normen ein bisschen unterschiedlich geregelt. 
+
+Aber ihr müsst das für euch erstmal greifen. Viele unserer Anlagen in der 4110 werden Richtung 90 Prozent reduziert, weil das die 4110 so fordert. Da gab es vor ein bis zwei Jahren mal eine Richtigstellung im quasi stationären Betrieb. 
+
+Nehmt das mal mit und vergesst es nicht, aber nehmt es mal so mit. Und dann müsst ihr vermutlich eure Anlage in der Größenordnung 90 Prozent der Wirkleistung im Mittelspannungsnetz reduziert fahren. Also das Ganze kann man jetzt natürlich nochmal sinnvoller greifen, indem man Netzberechnungen durchführt oder man wartet auf sein Anlagenzertifikat und weiß dann kurz vor der Inbetriebnahme, wie die Wirkleistungsreduzierung ist. 
+
+Besser, man versucht es vorher zu ermitteln, um vielleicht noch gegenzusteuern, vielleicht noch einen Wechselrichter mehr installieren. Wie auch immer, Netzberechnungen sind sinnvoll, wollen wir damit sagen. Auch vorab kostet ein bisschen Geld, aber helfen am Ende, dass es kurz vor Inbetriebnahme keinen unnötigen Ärger gibt. 
+
+Für uns in der Kabel- berechnung, Kabeldimensionierung heißt das aber, wenn wir in der Planungsphase schon wissen, wie weit wir die Wirkleistung reduzieren müssen, dann können wir natürlich die Nennenleistung, die reduzierte Nennenleistung der Wechselrichter zum Beispiel auch für die Verlustberechnung ansetzen. Auch das besprechen wir nachher nochmal ein bisschen detaillierter, wenn man dann greifen kann, wie denn die Verluste überhaupt bestehen oder entstehen. Kommen wir nochmal im Detail dazu.
+
+(0:12:08 - 0:12:20)
+Man kann das jetzt nehmen, um seine Berechnungen ein Stück weit zu optimieren. Aus welcher Perspektive man das jetzt betrachtet oder für wen das jetzt eher positiv oder negativ ist, können wir vielleicht auch später nochmal besprechen.

@@ -1,0 +1,230 @@
+(0:00:00 - 0:00:12)
+Herzlich willkommen zurück aus der Pause. Ich hoffe, ihr habt ein bisschen Energie getankt. Mir hat es ehrlich gesagt gut getan. Wir machen weiter. Das war rum. Wir hatten uns ein Schutzkonzept angesehen, wir haben uns Komponenten angeschaut.
+
+(0:00:13 - 0:00:31)
+Und jetzt schauen wir uns die Schutzfunktionen an. Wir starten mal mit dem Überblock, Oberblock, Überstromschutz. So würden wir das erst mal nennen, was wir uns hier angucken, Überstromschutz.
+
+(0:00:32 - 0:00:56)
+Und es gibt noch einen zweiten Block, den ich ganz am Anfang schon mal genannt hatte, den ich hier aber gleich rausnehmen möchte. Das ist der Erdschlussschutz, weil das hat jetzt erst mal nichts mit Kurzschlussüberstrom zu tun, sondern das ist was anderes, was man nicht abschalten muss, was man weiter betreiben kann. Also wir machen das mal grau und schieben das später auch weg, damit es nicht zu sehr verwirrt.
+
+(0:00:56 - 0:01:10)
+Also Überstromschutz wäre Kurzschluss und Erdkurzschluss. Und dann immer wichtig, der Unterschied zwischen Erdschluss und Erdkurzschluss. Wir gucken uns den Erdkurzschluss an und den Kurzschluss.
+
+(0:01:11 - 0:01:29)
+So und da haben wir dann diese verschiedenen Kategorien, die wir eben im Grunde alle schon mal gezeigt haben. Es gibt UMZ, es gibt AMZ, es gibt den Niederspannungsleistungsschalter, der aus unserer Sicht von der Funktion her so ein bisschen anders ist als ein klassischer UMZ, AMZ. Und es gibt die NH-HH-Sicherung.
+
+(0:01:30 - 0:02:04)
+Wir schauen uns jetzt mal nach und nach an, also genau Erdschlussschutz raus und fokussieren uns jetzt erst mal auf den UMZ-Schutz, wie der aufgebaut ist oder was der genau macht. Also erst mal ausgeschrieben, und so hatten wir es am Anfang ja auch schon gesagt, es ist ein unabhängiger Maximalstromzeitschutz. Wir suchen uns jetzt mal hier ein Beispiel raus, einen Leistungsschalter, der ein Trafo schützen soll und sagen jetzt, dass die Auslösung vor dem Schutzobjekt stattfinden soll oder muss.
+
+(0:02:05 - 0:02:31)
+Also wenn wir jetzt vom Netz aus schauen, haben wir in der Übergabestation unser Schutzrelais und schützen dann das Kabel. Also vom Netz aus gesehen ist unser Schutzgerät vor dem Schutzobjekt Kabel. Und wenn wir dann weitergehen, so wie jetzt hier auf dem Bild in die Trafo-Station und den Trafo schützen wollen, dann muss eben die Auslösung vor dem Trafo stattfinden.
+
+(0:02:31 - 0:02:56)
+Wenn wir auf der Niederspannungsseite abschalten, dann würde die Energie vom Netz natürlich weiter in den defekten Trafo reinfließen und weiter für Zerstörung sorgen. Das können wir nur verhindern, wenn das Schutzrelais auf der Mittelspannungsseite vor dem Transformator installiert ist. Und jetzt noch mal ein Hinweis, der in den meisten Fällen gar nicht so relevant ist, weil viele Fehler sehen wir dann ja anscheinend doch nicht.
+
+(0:02:56 - 0:03:35)
+Aber wenn wir einen Fehler haben, macht es immer Sinn, wenn der Wandler sehr dicht am Leistungsschalter installiert ist, weil der Schutzbereich genau da erst beginnt, wo der Wandler installiert ist. Also sagen wir es mal andersrum, wenn ihr jetzt so eine Schaltanlage habt, eine Mittelspannungsschaltanlage, und der Stromwandler dann erst einen Meter unterhalb des Leistungsschalters installiert ist, dann könnte es passieren, dass ihr einen Kurzschluss an den Endverschlüssen habt und euer Relais sieht das nicht, weil der Wandler ja erst einen Meter später installiert ist. Der Strom fließt nicht durch den Wandler, deshalb würdet ihr so einen Kurzschluss vielleicht gar nicht registrieren können.
+
+(0:03:36 - 0:04:10)
+Das wäre natürlich fatal, ist aber tatsächlich so, dass das passieren kann, weil oft, so haben wir es eben in dem Bild auch gesehen, die Stromwandler eben nicht um die Konusse der Schaltanlage installiert sind, sondern ein Stückchen weiter unten, eben um das Kabel, und alles was dann oberhalb von dem Stromwandler an Kurzschlüssen passiert, sieht unser Schutzrelais nicht, weil der Strom nicht durch den Stromwandler fließt. Ja, das muss man vielleicht erst mal ein bisschen verdauen, und dann versteht man das aber, wenn man das mal sieht. Dann gibt es ungerichtete und gerichtete Schutzfunktionen auch noch.
+
+(0:04:10 - 0:04:52)
+Also erst mal ungerichtet, wenn wir nur eine Strommessung machen, dann kann man in gar keine Richtung gucken, dann ist es völlig irrelevant, in welcher Richtung der Kurzschluss liegt. Wenn man das Ganze jetzt aber gerichtet einstellen möchte, sagen wir mal, zum Netz wollen wir vielleicht etwas langsamer abschalten als zum Solarpark, dann könnte man das machen, diese Schutzfunktionen gibt es, allerdings bräuchtet ihr dafür die Spannungsmessung, weil ohne Spannung könnt ihr keine Richtung detektieren. Das ist vielleicht ein wichtiger Hinweis, wenn jemand von Leistungsrichtung oder generell von Leistung oder Kurzschlussrichtung spricht, das können die einfachen Relais nicht, ihr braucht dann immer noch eine Spannungsmessung dazu.
+
+(0:04:54 - 0:05:10)
+Diese UMZ-Kennlinien, die gibt es dann mehrstufig, das ist klar, bei uns ist üblich I größer, I größer, größer. Es gibt auch I größer, größer, größer, aber das ist meistens gar nicht mehr so relevant. In der Regel schaffen wir das mit zwei Stufen, alles abzudecken, was wir so brauchen.
+
+(0:05:12 - 0:05:48)
+Und wir sehen links ja auch noch mal, ich sage mal das Schaubild, da sehen wir dann eine ODA-Verknüpfung von Überstromphase 1-2, Phase 2-3, Phase 3-1, also egal auf welchen Phasen jetzt der Überstrom ist, es ist eine ODA-Verknüpfung. Wenn ein Grenzwert überschritten wird, I größer oder I größer, größer, dann wird als nächstes ein Timer angeregt in dem Relais, also wir sprechen dann, wenn dieser Strom überschritten wird, von Anregung, das sage ich jetzt schon mal, damit ihr euch diese Begriffe so ein bisschen verinnerlicht, die kommen später noch mehr. Und wenn das dann eben anregt, dann läuft der Timer los.
+
+(0:05:48 - 0:06:12)
+Dann warten wir eine gewisse Zeit, eine eher kürzere Zeit oder eine eher längere Zeit, je nachdem ob ihr bei I größer, größer oder I größer den Grenzwert überschritten habt und dann sorgt das Schutzrelais eben für die Auslösung des Leistungsschalters. So ist das Ganze erst mal gedacht. Und so eine UMZ-Kennlinie wollen wir uns jetzt natürlich auch noch mal anschauen, wie die aussieht, was steckt genau dahinter.
+
+(0:06:13 - 0:06:39)
+Also wir bauen euch mal hier so ein Diagramm auf, Zeit und Strom und schauen jetzt mal, warum oder wann so ein UMZ-Schutz auslöst und gleichzeitig bauen wir euch dann hier in dieses Diagramm diese Kennlinie ein. So ist das jetzt hier gedacht. Also es gibt Stromschwellen, die wir bei dem unabhängigen Maximalstrom-Zeitschutz erst mal einstellen können.
+
+(0:06:39 - 0:06:55)
+Das machen wir jetzt mal. Strom I größer würden wir jetzt erst mal beliebig an dieser Stelle wählen, zum Beispiel 75 Ampere und dann kommt der I größer, größer. Den würden wir dann natürlich größer wählen, klar, und zum Beispiel auf 300 Ampere setzen.
+
+(0:06:55 - 0:07:14)
+Das ist jetzt hier aber gar nicht relevant, sondern er ist einfach größer. Und zu den Stromschwellen gibt es dann eben noch Verzögerungszeiten, die wir einstellen und die sehen wir dann eben auf der Zeitachse, also T größer. Die T größer Zeit ist für den I größer Strom.
+
+(0:07:14 - 0:07:42)
+Das ist erst mal, glaube ich, soweit so logisch. Und die zweite Zeit wäre dann T größer, größer, ist dann eben für den I größer, größer Strom gedacht. Das sind erst mal die Punkte, die wir dann eingeben oder die wir eingeben können, einstellen können in unseren Schutzrelais oder auch in unseren Prüfmodulen und daraus wird eine Kennlinie im Grunde genommen, die dann so aussieht und die man so in Schutzberichten zum Beispiel immer wieder finden würde.
+
+(0:07:42 - 0:08:08)
+Das ist jetzt die Charakteristik von unserem UMZ-Strom oder UMZ-Schutz, unabhängigen Maximalstrom-Zeitschutz. Und ganz wichtig ist, die Zeiten sind, ich sage mal, unabhängig von der Stromgröße. Es gibt einen fixen Strom, der eine Zeit bestimmt, wenn der Strom jetzt größer wird oder kleiner wird, löst das Relais aus oder nicht.
+
+(0:08:08 - 0:08:25)
+Aber die Zeit wird nicht schneller oder langsamer, wenn der Strom leicht variiert, sondern es gibt eben genau diese zwei Zeiten zu diesen zwei Stromgrößen. Also wenn etwas überschritten wird, haben wir die entsprechende Zeit, aber es gibt dann keine, also wenn wir noch größer werden, sind wir nicht noch schneller. Das wird nicht passieren.
+
+(0:08:25 - 0:08:37)
+So, diese Kennlinie, ich hatte eben ein paar Zeilen gesagt, die sind jetzt natürlich frei konfigurierbar. Also ihr könnt die Ströme für beide Stufen nach links und rechts schieben. Ihr könnt die Zeiten nach oben oder unten schieben.
+
+(0:08:37 - 0:08:55)
+Das ist völlig frei, sage ich mal, vorausgesetzt, ihr macht das mit einer gewissen Professionalität und macht das, ich sage mal, im Rahmen von einer Schutzstudie. Weil einfach so solche Werte festzulegen, ist immer ein bisschen schwierig. Viele machen das und sagen, ja, den Trafo habe ich immer schon so geschützt.
+
+(0:08:56 - 0:09:12)
+Da wäre ich immer ein bisschen vorsichtig, weil man da viele Sachen berücksichtigen muss, Selektivitäten und so weiter. Guckt euch das professionell oder wirklich sinnhaft an, bevor ihr da einfach irgendwas aus der Hüfte schießt. Also wir gucken uns ein paar Prüfpunkte mal an.
+
+(0:09:13 - 0:09:18)
+Hier haben wir den ersten Prüfpunkt. Der ist jetzt unten links im Diagramm. Ich hoffe, das fällt jedem gleich auf.
+
+(0:09:18 - 0:09:36)
+Der ist unterhalb des I-Größerstroms und auch unterhalb der beiden Auslösezeiten. Also würde dieser Strom nicht als Fehlerstrom detektiert werden. Ist auch kein Fehlerstrom, ist ein ganz gewöhnlicher Betriebsstrom.
+
+(0:09:36 - 0:09:45)
+Der würde eben nicht auslösen. Hier muss man sich das vorstellen, das ist so eine Art kurzzeitiges Event. Also wir haben diesen Strom für eine kurze Zeit.
+
+(0:09:45 - 0:09:56)
+Jetzt erhöhen wir den Strom einfach mal. Nein, Entschuldigung, wir erhöhen den Strom nicht, wir erhöhen die Zeit. Also dieser Strom bleibt einfach länger anliegen, wie ein Betriebsstrom das machen würde.
+
+(0:09:56 - 0:10:08)
+Den ganzen Tag zum Beispiel oder die ganze Woche, das ganze Jahr. Und dieser Betriebsstrom, der würde eben auch, wenn er ganz, ganz lange anliegt, nicht zu einer Auslösung führen. Das ist eben wichtig, deshalb bleibt auch hier der Daumen oben.
+
+(0:10:08 - 0:10:25)
+Wenn wir jetzt aber den Strom noch weiter erhöhen, überschreiten wir, das seht ihr da oben in dem Diagramm, die I-Größerkennlinie. Also wir sind etwas über dem Betriebsstrom. Jetzt hat jemand entschieden, einen weiteren Wechselrichter zu installieren, hat aber vergessen, das Schutzrelais anzupassen.
+
+(0:10:25 - 0:10:34)
+Dann kommt es irgendwann dazu, dass ihr diese Grenze überschreitet. Und das ist dann, ich sag mal, Daumen runter, klingt so negativ. Zu einer Auslösung kommt, ist auch erstmal negativ.
+
+(0:10:34 - 0:10:45)
+Aber das Gute an der Sache ist ja, dass wir auslösen und dass wir die Komponenten schützen. Also eine Auslösung an sich ist eigentlich nicht negativ behaftet, sondern gut, dass wir ausgeschaltet haben. Die Komponenten sind geschützt.
+
+(0:10:47 - 0:11:01)
+Als nächstes zeigen wir nochmal einen sehr großen auftretenden Strom. Den haben wir jetzt rechts unten im Bild, der allerdings für eine relativ kurze Zeit nur auftritt. Kann man vielleicht mal als Stichwort sagen, Inrush-Strom von Transformatoren.
+
+(0:11:01 - 0:11:18)
+Beim Einschalten eines Trafos habt ihr kurzzeitig einen hohen Strom. Und der sorgt dann eben nicht für eine Auslösung, so soll es sein. Beziehungsweise wenn der Strom, sagen wir, dieser Inrush vielleicht etwas länger ansteht, dann kommt es doch zu einer Auslösung.
+
+(0:11:19 - 0:11:29)
+Oder das ist vielleicht auch ein Kurzschluss. Also dann wird das Relais auslösen und abschalten. Aus dem Diagramm haben wir ein Icon gemacht.
+
+(0:11:29 - 0:11:43)
+Das fliegt jetzt hier erstmal zu UMZ. Dann habt ihr jetzt immer so ein bisschen im Kopf, wie sieht ein UMZ aus? Also der sieht sehr zackig aus, feste Stromwerte zu festen Zeiten. Sehr einfach, sehr übersichtlich für uns Planer und Prüfer.
+
+(0:11:43 - 0:11:52)
+Da weiß man immer, was passiert. Jetzt kommt der AMZ. Wir wollen jetzt erstmal vor allem euch gleich den Unterschied zeigen zum UMZ.
+
+(0:11:52 - 0:12:00)
+Ist ja vielleicht klar. Auch hier machen wir das wieder mit so einer Stromzeitachse. Der erste Unterschied liegt im Namen.
+
+(0:12:02 - 0:12:12)
+Abhängiger Maximalstromzeitschutz. Das heißt, die Zeit ist vom Strom abhängig, so kann man es vielleicht sagen. Im Diagramm ist das gleich sicherlich einfacher darzustellen.
+
+(0:12:12 - 0:12:21)
+Hier kommen jetzt auch erstmal die Punkte wie eben. Auslösung sollte vor dem Schutzobjekt stattfinden. Es gibt diese ganze Geschichte auch gerichtet und ungerichtet.
+
+(0:12:22 - 0:12:30)
+Also mit Spannungsmessung könnte man es auch in eine Richtung schauen lassen, das Relais. Und man kann diese Schutzfunktion mehrstufig einstellen. Man kann sogar kombinieren.
+
+(0:12:31 - 0:12:43)
+Das zeigen wir später. Ein AMZ-Schutz ähnelt einer Schmelzsicherung in der Charakteristik. Das heißt, es gibt keine verschiedenen Stufen mehr.
+
+(0:12:44 - 0:13:06)
+Sondern je größer der Strom, desto schneller wird die Auslösezeit des Relais. Und daraus ergibt sich dann eben so eine Kurve, so wie sie jetzt hier dargestellt ist. Wenn man sich noch mal daran erinnert, im Vergleich zu dem UMZ, der ja sehr stufig in der Charakteristik ist, ist diese AMZ-Kennlinie vielleicht eher einer Schmelzsicherung nachempfunden.
+
+(0:13:06 - 0:13:31)
+Und damit auch der Belastungskurve von Stromkabeln, von Komponenten usw. Weil die sind ja auch mit steigendem Strom stärker belastet und müssen schneller ausgeschaltet werden. Jetzt gibt es da in diesen AMZ-Kennlinien verschiedene Charakteristiken.
+
+(0:13:32 - 0:13:40)
+Manche haben das vielleicht schon gehört. Es gibt die Normal-Inverse-Kennlinie. Es gibt die Very-Inverse-Kennlinie.
+
+(0:13:41 - 0:13:47)
+Ich glaube, ich muss es nicht übersetzen. Also Very-Inverse. Und dann gibt es noch Extreme-Inverse mit den entsprechenden Kürzeln dazu.
+
+(0:13:48 - 0:14:08)
+Also N, I, V, I, E, I. Je nachdem, welche Kennlinie man jetzt auswählt. Und da braucht man, denke ich, jetzt endgültig eine wirkliche Schutzberechnung mit der entsprechenden Software, die euch dann diese Kennlinien irgendwo reinlegt. Dann resultiert das eben in einer Verschiebung dieser Kennlinie.
+
+(0:14:09 - 0:14:25)
+Also sie wird steiler, sagen wir mal. Wir zeigen es hier mal mit so Pfeilen und zeigen euch dann gleich auch noch mal die Formeln dazu und wie sie dann tatsächlich aussehen würden. Und was ich vorhin schon gesagt habe, diese ganze Kennlinie ist dann auch noch mal mit dem UMZ-Schutz kombinierbar.
+
+(0:14:26 - 0:14:51)
+Und das würde dann, wie ihr es hier im Schaubild seht, genau so aussehen. Also ihr könnt euer Kabel oder euren Trafo mit einer UMZ-Kennlinie schützen und ab einer gewissen Stromhöhe dann eine UMZ-Kennlinie einfügen, die dann eben ganz am Ende nochmal die Zeit runter schneidet auf fast 0 oder so schnell, wie es eben möglich ist. Jetzt noch mal ein paar Beispiele.
+
+(0:14:52 - 0:15:15)
+Also hier sind wir jetzt unterhalb der Kennlinie, das heißt ein Betriebspunkt ist jetzt hier ausgewählt für eine kurze Zeit. Also wenn dieser Strom jetzt eine sehr lange Zeit anliegen würde, könnte ich mir vorstellen, wenn ich das jetzt richtig einlote, dass es auslöst. Aber hier, wo sich der Punkt jetzt befindet, also eine relativ kurze Zeit, ein Strom würde das Relais erstmal nicht auslösen.
+
+(0:15:15 - 0:15:33)
+Daumen hoch! Wenn wir jetzt aber den Strom erstmal erhöhen und auch die Zeit verlängern, dann sehen wir jetzt eindeutig, wir liegen oberhalb der Auslöse-Kennlinie und würden hier wirklich auslösen. Daumen runter! Aber seht das nicht immer so negativ, wenn ihr auslöst. Das hat oft auch einen guten Grund.
+
+(0:15:36 - 0:15:47)
+Jetzt habt ihr gesehen, die Kurve hat sich ein bisschen verändert. Das haben wir jetzt für euch im Excel einmal nachgebildet. So eine Normal-Inverse-Kurve haben wir euch hier reingelegt.
+
+(0:15:47 - 0:16:06)
+Jetzt auch mit einem tatsächlichen Strom und einer tatsächlichen Zeit dazu. Ihr seht, dass wenn die Zeit dann sehr hoch ansteigt im vorderen Auslösebereich, das ist der Betriebsbereich unserer Anlage. Und wenn ihr nach rechts geht, dann werden die Zeiten eben deutlich schneller, von 2000 Sekunden auf zwei Sekunden.
+
+(0:16:08 - 0:16:27)
+Und jetzt legen wir euch mal, damit ihr es gleich gesehen habt, nochmal die anderen Kennlinien da rein. Das sind die Formeln, mit denen man, oder die eine Formel, mit der man die einzelnen Punkte dieser Kennlinie berechnet, die dann auch in dem Relais wahrscheinlich hinterlegt ist mathematisch. Und das sind im Prinzip die A- und P-Werte dazu.
+
+(0:16:28 - 0:16:34)
+Wir wollten es euch nur mal zeigen, dass ihr wisst, dass es so etwas gibt. Müsst ihr euch auf gar keinen Fall merken. Aber es gibt diese Werte.
+
+(0:16:34 - 0:17:00)
+Für Normal Inverse sind die dann eben auf diese 0,14 Sekunden und 0,02 festgelegt worden. Für Very Inverse kommt als nächstes, sind wir dann schon bei 13,5 Sekunden und 1. Und daraus resultiert eben eine Kurve mit einer anderen Steilheit. Und bei Extreme Inverse, da wird es noch extremer, sage ich mal, mit 80 Sekunden und 2. Und dann ist die Kurve eben noch ein bisschen steiler.
+
+(0:17:00 - 0:17:21)
+Und jetzt kann sich jeder, ich sage mal, Schutzberechner ausüberlegen, welche Kurve jetzt vielleicht für den Trafoschutz am sinnvollsten ist. Was mit den Inrush-Strömen vielleicht zusammenpasst, was mit den Betriebsströmen zusammenpasst. Da kann man jetzt eben auswählen und die Kurve auswählen, die für, ich sage mal, das Schutzsystem insgesamt am sinnhaftesten ist.
+
+(0:17:23 - 0:17:37)
+So, diese AMZ-Kennlinien machen wir auch ein Icon draus, lassen das einmal rüberfliegen. Dann habt ihr auch hier nochmal als Erinnerung, was der Unterschied UMZ-AMZ. Hier sieht man es nochmal sehr gut und springen jetzt rüber zu dem Niederspannungs-Leistungsschalter.
+
+(0:17:39 - 0:17:58)
+Genau, auch hier bauen wir euch wieder dieses Zeit-Strom-Diagramm, hatte ich euch eben schon mal gesagt. Der Niederspannungs-Leistungsschalter, der ist so eine Art Mischung aus, ich sage mal, UMZ- und AMZ-Kennlinie, so würde ich es vielleicht mal beschreiben. Zumindest die, die wir in der Regel so sehen.
+
+(0:17:58 - 0:18:20)
+Ich glaube, das ist jetzt hier mal von Siemens, diese Charakteristik, die hier hinterlegt ist. Es gibt dann immer ein Einstellrädchen häufig oder manchmal geht es auch digital oder per App gibt es mittlerweile auch. Aber nehmen wir mal den einfachen Klassiker, da ist ein Einstellrädchen am Leistungsschalter und ein Rädchen wäre eben L, das nennt sich dann Long Time Delay, also wir würden es jetzt mal Überlastschutz nennen.
+
+(0:18:20 - 0:18:47)
+Und dieser Überlastschutz, der definiert dann eben so eine schräge Kennlinie erstmal. Das heißt, das ist für mich weder UMZ noch AMZ, sondern irgendwas dazwischen. Also erstes Rädchen, was man drehen kann, ist das L. Das zweite Rädchen, was man dann stellen kann, ist dann das S, Short Time Delay, Kurzschlussschutz verzögert, das geht dann schon ein bisschen schneller.
+
+(0:18:47 - 0:19:07)
+Und dann gibt es noch ein drittes Rädchen, das nennt sich dann I und das ist dann Instantaneous, also Kurzschlussschutz unverzögert. Der löst dann eben unmittelbar aus. Und es ergibt sich für diesen Niederspannungsleistungsschalter eben eine Kennlinie, die an beides so ein bisschen erinnert, UMZ und AMZ.
+
+(0:19:07 - 0:19:25)
+Und wenn ihr jetzt andere Hersteller habt, die haben vielleicht nochmal andere Logiken dahinter liegen, vielleicht ein bisschen andere Kennlinien. Es gibt dann auch noch zusätzliche Rädchen vielleicht, die nochmal manche Ecken abschrägen. Aber vom Grundsatz her, es ist anders als diese klassischen UMZ, AMZ Relais.
+
+(0:19:26 - 0:19:43)
+So, genau. Ihr könnt es verstellen und um das jetzt nochmal in so ein Bild zu fassen, zeigen wir euch diesen Siemens-Leistungsschalter nochmal und zeigen euch, wie diese Rädchen aussehen, was ich da eben meinte. Vielleicht wird jetzt für euch so ein bisschen ein Schuh draus, wenn ihr das auf der Baustelle schon ein paar Mal gesehen habt.
+
+(0:19:43 - 0:19:57)
+Da sind immer so kleine Diagramme drauf. Diese Diagramme zusammengefügt führen dann eben genau zu dem Schaubild, was wir hier links sehen. Und diese Werte LST sind genau eben für diese Funktion gedacht.
+
+(0:19:57 - 0:20:12)
+Also Überlastschutz, Kurzschluss und Kurzschluss unverzögert. So kann man es einstellen. Und auch hier gilt, stellt nicht einfach irgendwas ein oder prüft es zumindest auf der Baustelle, was da eingestellt ist.
+
+(0:20:12 - 0:20:28)
+Das ist, glaube ich, auch einer der Klassiker, dass sobald im Mai dann mal das Wetter wieder schöner wird, die ersten Niederspannungsleistungsschalter auslösen und sich alle fragen, warum. Weil wahrscheinlich keiner hier einen Blick auf die Rädchen geworfen hat. Alle haben sich darauf verlassen, was der Stationslieferant diese Leistungsschalter voreingestellt hat.
+
+(0:20:29 - 0:20:42)
+So einfach ist das meistens nicht. Prüft das, macht eine Studie, guckt, dass ihr eine Selektivität reinkriegt und überprüft dann eben auch vor Ort, dass das so eingestellt ist. Eine Schutzprüfung kann man hier nicht machen.
+
+(0:20:43 - 0:20:51)
+Vielleicht noch der Hinweis. Also hier muss man sich dann wirklich darauf verlassen, dass das so funktioniert. Hier nochmal das Icon wieder.
+
+(0:20:52 - 0:21:01)
+Also Niederspannungsleistungsschalter sehen anders aus. Und last but not least, wir gucken uns die NH und HH Sicherungen an. Dann habt ihr auch hier mal die Charakteristiken dargestellt.
+
+(0:21:02 - 0:21:16)
+Wir zeigen es euch hier auch wieder in der Zeitstromansicht. Hier vielleicht der Hinweis, diese Skalierung, die wir hier gewählt haben, die wählen nicht nur wir so. Die wählt man meistens in der Schutztechnik so.
+
+(0:21:16 - 0:21:32)
+Das ist eine logarithmische Darstellung. Also 10 hoch minus 1 ist dann eben der Bereich unter 0. Von 0 bis, ja ich glaube 0,1. 10 hoch 0 ist 0. 10 hoch 1 ist, ne, 10 hoch 0 ist 1. 10 hoch 1 ist 10 und so weiter.
+
+(0:21:33 - 0:21:43)
+Also es ist immer ein Vielfaches von 10. Und auf der Stromachse ist das dann eben genauso skaliert. Und dann legt man hier diese Kennlinien der Sicherungen rein.
+
+(0:21:43 - 0:21:51)
+Wir haben jetzt eine 40 Ampere NH Sicherung. Die würde dann ungefähr so aussehen. Die 250 Ampere Sicherung sieht so aus.
+
+(0:21:51 - 0:22:08)
+Also parallel verschoben in so einem doppellogarithmischen Diagramm. Und dann haben wir die 400 Ampere Sicherung, die dann eben auch noch hier zu finden ist. Und dazu kann man dann eben aus diesem Diagramm bei der 10 Sekunden Zeit die Auslöseströme raussuchen.
+
+(0:22:09 - 0:22:18)
+Also diese Relais lösen nach 10 Sekunden bei diesen definierten Strömen aus. So funktioniert das Ganze. Der Typ, den wir hier gewählt haben, ist GLGG.
+
+(0:22:18 - 0:22:29)
+Ja, das merkt euch mal, wenn euch einer fragt, was für eine Sicherung brauchen wir denn. Das ist so der übliche Typ, den man da verwendet. Und dann, glaube ich, brauchen wir hierzu auch gar nicht mehr viel sagen.
+
+(0:22:29 - 0:22:36)
+Wir machen auch hier ein Icon draus, schieben euch das hoch. Dann habt ihr das als kleine Gedächtnisstütze.

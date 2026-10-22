@@ -1,0 +1,225 @@
+(0:00:00 - 0:01:09)
+Der damalige oder online jederzeit beliebig oft abrufbare Brainday sagt warum und was ist eigentlich ein IT-System und er sagt auch das elektrische Verhalten in dem IT-System, also z.B. bei so einem Erdschluss, was dann passiert und wir haben auch die Komponenten erklärt, aber heute jetzt in den letzten 30 Minuten geht es uns um die Schutztechnik, das schauen wir uns jetzt an, was machen wir mit der Schutztechnik im IT-System. Und zwar passt das deswegen ja so herausragend gut zu dem, was wir jetzt bis jetzt gemacht haben, weil es da auch um ein ähnliches Fehlerbild geht, aber eben keine Fehlerströme fließen, die dieses UMZ- oder AMZ-Schutzrelais detektieren könnte. Also bitte ein bisschen umdenken jetzt, wir haben jetzt quasi ein anderes elektrisches System und fangen oben an, das finde ich ja immer gut, dass wir erst mal nach Norm jetzt geeignete Schutzmaßnahmen auswählen müssen, sicherlich grundlegend so, aber wie genau geht das eigentlich, das zeige ich jetzt hier mal ganz kurz.
+
+(0:01:09 - 0:02:46)
+Also in der VDE 0100410, das ist eine sehr grundlegende Norm, Errichtung von Niederspannungsablagen, steht im Abschnitt 411, dass man automatisch abschalten muss als Schutzmaßnahme, das betone ich, automatisch abschalten, weil ich werde gleich zeigen, warum wir das nicht machen. Dazu brauche ich erst mal noch die, ich sag mal, Unterordnung A, so sagt die Norm das, dass sie als Basisschutz immer eine Isolierung vorsieht, also so sieht meinetwegen so ein Kabel aus und dann ist, denke ich, klar, da hat man eine Isolierung und das sieht die Norm eben erst mal so als zwingend erforderliche Schutzmaßnahme, den sogenannten Basisschutz A, Isolierung. Dann sagt die Norm aber auch als zweites B, braucht ihr nochmal einen Fehlerschutz und zwar eine automatische Abschaltung, also wenn jetzt doch der Basisschutz versagt, kommt der Fehlerschutz eine automatische Abschaltung, das könnte jetzt zum Beispiel hier eben so eine Sicherung sein, nehme ich das mal auch als Bild mit rein und will da aber jetzt explizit beim IT-System darauf verweisen, dass es bei einem einpoligen Fehler, keine Abschaltung zwingend erforderlich sein muss, also vielleicht nochmal kurz zurück, um sich zu sortieren, die Norm sagt erst mal, dass man im B-Fehlerschutz automatisch abschalten muss, aber dann aber im IT-System bei einem einpoligen Fehler nicht zwingend.
+
+(0:02:47 - 0:03:36)
+Dafür gibt es Voraussetzungen und zwar muss die resultierende Berührungsspannung unter 50 Volt sein. Das zeige ich hier auch mal in so einem Schaubild, also das bin da ich und ich fasse jetzt den Wechselrichter an und der hat jetzt eben einen einpoligen Fehler gegen Erde und dann seht ihr da einen Widerstand RA und ihr seht da einen Fehlerstrom ID. So und wenn ich RA mal ID kleiner 50 Volt habe, ich gebe hier mal gleich typische Werte von so einer PV-Anlage an, ein Ohm, muss man messen, muss man überprüfen und auch diesen Fehlerstrom kann ich mir ausrechnen aus meinen Kabellängen und den Kapazitäten, die da so auftreten, typischer Wert, zum Beispiel komme ich da jetzt auf 1,28 Volt, so 1,28 ist weit unter 50 Volt, das heißt das funktioniert.
+
+(0:03:36 - 0:04:15)
+Also für meinen PV-Paket, in diesem Beispiel, habe ich erst mal nachgewiesen, dass die Voraussetzungen erfüllt sind, dass in meinem IT-System bei einpoligen Fehlern die Abschaltung nicht zwingend erforderlich ist. So, aber was ist erforderlich? Ein Isolationsüberwachungsgerät, ein sogenanntes IMD, das ist Englisch Installation Monitoring Device oder eben auf Deutsch Isolationsüberwachungseinrichtung, Isolationsüberwachungsgerät. In dieser 411, in diesem Abschnitt steht das drin, dass ich das brauche, aber eben nicht zwingend die Abschaltung.
+
+(0:04:16 - 0:04:38)
+Da haben wir hier nochmal zusammengefügt, die Herleitung, warum ich also auf B, sage ich jetzt mal, im einpoligen Fehler verzichten kann, aber ich dann unbedingt so ein IMD-Gerät brauche. Und so sieht das aus, also das kann auch anders aussehen, aber das, was ich euch gleich zeige, sieht genau so aus. Jetzt gucken wir uns das nochmal genauer an.
+
+(0:04:39 - 0:05:20)
+Also, wie ich gerade schon beschrieben habe und das absichtlich mehrfach betont, weil ich das einfach gar nicht so einfach finde, das in den Kopf reinzukriegen, das ist jetzt nur beim, die Norm spricht vom ersten Fehler so, der muss einpolig sein. Nur dann ist das zulässig, dass das IMD den Fehler zwar meldet, das macht man visuell oder akustisch, wir haben gesagt, in unseren Projekten ist das super sinnvoll, das auch an die Leitwarte zu melden, weil das ist ja nun mal ein Fehler. Also jetzt gibt es definitiv einen Fehler, der auch zwingend untersucht und repariert werden muss, aber es muss eben erstmal noch nicht abgeschaltet werden.
+
+(0:05:20 - 0:05:53)
+Die Norm sagt jetzt noch eine Empfehlung, schnell abschalten, finde ich auch erstmal gut, würde ich jetzt auch erstmal so sagen, aber wir haben ja extra ein IT-System gebaut und jetzt hier groß argumentiert, dass ich das nicht machen muss. Deswegen sage ich, bei PV kann man vorsichtig empfehlen, muss jeder Projektleiter, jeder Team, jeder Planer selbst entscheiden und abstimmen, dass man aber nicht zwingend abschalten muss. Und zwar ist unsere Argumentation dafür, dass sich bei einer PV-Anlage immer um ein Betriebsgelände handelt, da ist nur Fachpersonal.
+
+(0:05:53 - 0:06:48)
+Wir haben ja die visuelle und akustische Übertragung vor Ort und auch an die Leitwarte, wenn ein einpoliger Fehler ansteht, weil dann hat da natürlich keiner mehr irgendwie was zu suchen, dann muss der Fehler erstmal gelöst werden. Aber wenn ja eben kein Fehler ansteht, sehe ich auch, dass das so ist und dann kann ich das Betriebsgelände ja betreten, als Elektrofachkraft weiß ich das dann eben, was dann da zu tun ist, auf was zu achten ist. Also wir würden erstmal in unserem Beispiel nicht abschalten. 
+
+Jetzt kommt aber der zweite Fehler, wo ein erster Fehler, da muss ja auch ein zweiter Fehler sein. Und der muss jetzt auch bitte in der Logik einpolig in einer anderen Phase sein, dann habe ich einen zweipoligen Fehler, also einpolig plus einpolig in verschiedenen Phasen ergibt zweipolig. Jetzt wird ein Kurzschlussstrom fließen, aber dafür habe ich meine Sicherungen, die auch hoffentlich richtig dimensioniert sind und die würden dann abschalten.
+
+(0:06:49 - 0:07:22)
+Okay, gut, also ich habe hier groß argumentiert, warum man das so machen kann, dass man bei einem einpoligen Fehler erstmal nicht abschaltet, aber man dann unbedingt das IMD braucht und eben auch richtig einstellt und prüft. Wie macht das so ein IMD? Das zeigen wir jetzt hier nochmal. Das IMD, da ist es, das wird verdrahtet und dann legt das erstmal eine Prüfspannung an zwischen einmal einer Phase und da unten ist es Erde und auch noch zwischen einer anderen Phase und auch Erde.
+
+(0:07:22 - 0:07:54)
+Das macht das Ding erstmal so. Aus dem resultierenden Strom wird der RISO dann ermittelt, um den geht es, also der Isolationswiderstand ist dann der entscheidende Parameter, der dabei herauskommt und jetzt seht ihr das im Schaltbild hier auch schon, da ist er erstmal, der RISO, der da gemessen wird. Jetzt seht ihr das im Schaltbild schon, wir haben absichtlich die DC-Seite mit reingenommen, verdrahtet ist das Ding jetzt erstmal auf der AC-Seite, aber die DC-Seite in PV-Anlagen natürlich immer wichtig, ist auch mit dabei und tatsächlich überwacht das Gerät beide Seiten.
+
+(0:07:54 - 0:08:34)
+Das macht es, finde ich, in der Logik der Parameterauswahl eher komplizierter, werdet es gleich sehen, weil diese PV-Strings natürlich unglaublich große Kabellängen und dadurch Kapazitäten und sozusagen Flächen darstellen, die man jetzt gleich mit betrachten muss. Aber gut, jetzt ist es erstmal so, hier im Schaubild seht ihr wie so ein Relais verbaut ist und wo das jetzt den Isolationswiderstand messen wird. Genau, was machen wir? Wir haben jetzt einen einstellbaren Testwiderstand mitgebracht hier für unseren Live-Versuchsstand und werden den genau hier ansetzen.
+
+(0:08:34 - 0:08:53)
+Wir simulieren jetzt hier bei uns diesen Isolationswiderstand, den das Gerät im Feld misst. Wir haben noch ein paar Bullet-Points mitgebracht, nämlich dass wir erstmal in der Norm da keine klare Prüfvorgabe gefunden haben, wie man jetzt da vorgeht. Deswegen haben wir da unsere eigene aufgeschrieben, die wir euch jetzt zeigen wollen.
+
+(0:08:54 - 0:09:18)
+Wir setzen also einen einstellbaren Testwiderstand mit definierten Widerständen zwischen den Leiter und den PE und prüfen dann, wie das Messgerät reagiert. Und zwar geht es mir da vor allem darum, ob es abschaltet und wenn ja, wie schnell. Nicht abschaltet, Entschuldigung, ob und wenn ja es reagiert, quasi den Alarmausgang auf 1 setzt.
+
+(0:09:19 - 0:09:31)
+So, das wollen wir prüfen. Wir prüfen also, ob es im Ausgang reagiert und ich nehme das schon mal vorweg. So ein Gerät hat eigentlich immer zwei Ausgänge und so kann man die auch unterschiedlich definieren.
+
+(0:09:31 - 0:10:27)
+Das eine könnte ein Alarm sein und das zweite kann dann ja immer noch eine Abschaltung sein, falls man das so projektiert. Wie gehen diese Einstellwerte? Also, wir haben das zusammengesammelt und haben uns da auch ein bisschen schwer getan, weil das, finde ich, irgendwie nicht so eindeutig ist, wie jetzt meinetwegen bei dem UMZ, das wir vorhin geprüft haben. Okay, wir haben zusammengeschrieben, was wir kennen. 
+
+Einmal aus der IEC 60364 gibt es Einstellwerte nach für die DC-Seite. Das ist die Norm, so heißt die und das ist auf der DC-Seite da, wo die Module verbaut sind und dann sieht diese Tabelle, die man da gefunden hat, so aus. Und da würde man jetzt rauskriegen, bei so einer typischen großen Anlage, größer 500 kW-Peak steht da drin, dass die Widerstandswert maximal, minimal ein Kiloohm sein darf.
+
+(0:10:27 - 0:10:42)
+Ich nehme das jetzt erstmal so mit, sage aber jetzt schon von vornherein, dass das für uns so nicht darstellbar ist. Ich denke, dass das eher für kleine Haustag-Anlagen so gebaut ist. Wir wollten es aber gezeigt haben, ich mache mal weiter, könnt ihr euch ja mal merken, ein Kiloohm.
+
+(0:10:43 - 0:11:20)
+Wir haben nämlich eine zweite Variante, erstmal nach, wir haben drei, die zweite Variante nach den VDE und das sieht so aus, die Tabelle und die lest ihr euch jetzt auf keinen Fall durch, sondern ich führe euch dahin, was da die Norm sagt. Hier einmal die 0100600 ganz nach rechts geschoben, spezifischer Isolationswiderstand 100 Ohm pro Volt. Super, das wäre jetzt für ein Kabel 100 Ohm pro Volt und wir haben ja ein 800 Volt System in unserem Beispiel, deswegen haben wir ja noch eine Tabelle hier, eine Spalte eingefügt und kommen jetzt auf 80 Kiloohm.
+
+(0:11:21 - 0:11:50)
+Das wäre jetzt unser Ergebnis aus der Tabelle, Teil 6 der 0100600 nach den VDE, 80 Kiloohm. Wie gesagt, wir hatten gerade ein Kiloohm, das ist jetzt in unserer Schutztechnik, die wir hier nutzen, sind das Welten, also jetzt sind wir auf einer ganz anderen Seite. Auch hier halten wir das für PV-Anlagen erstmal nicht so realistisch, wir haben da mit den Herstellern von so IMD-Relais gesprochen, die sehen das auch so.
+
+(0:11:51 - 0:12:16)
+Ich habe die Norm hiermit gezeigt, ihr könnt das, sage ich mal, für euch intern abstimmen, ich gehe zur dritten Variante. Nochmal zur Erinnerung, A 1 Kiloohm, B 80 Kiloohm, jetzt kommt die dritte Variante. Wir gucken uns das mal an nach einem realen Fehlerstrom, der eigentlich auftreten darf und da spricht die Norm erstmal deutlich davon, dass der unter 30 Milliampere sein muss.
+
+(0:12:17 - 0:12:37)
+Wenn er drüber kommt, wird es schwieriger für den Personenschutz und dann greifen andere Anforderungen. Wir sagen, wir bleiben unter 30 Milliampere und wenn wir jetzt ein 800 Volt Niederspannungssystem haben, ist das ein einfacher Dreisatz. Mein RISO, 800 Volt durch 30 Milliampere, das sind 26,7 Kiloohm.
+
+(0:12:37 - 0:12:57)
+Jetzt sind wir also irgendwo zwischen 1 und 80 Kiloohm genau in der Mitte gelandet und diesen Wert 25 Kiloampere, den nehmen wir jetzt erstmal mit. Super, jetzt haben wir drei Einstellwerte, ich favorisiere den letzten, aber ihr macht das Projekt spezifisch bitte selbst. Sollen wir abschalten? Ist eine andere Fragestellung.
+
+(0:12:57 - 0:13:19)
+Wenn das Relais jetzt diesen Wert detektiert hat, sollen wir denn dann abschalten? Da hatte ich schon gesagt, ganz wichtig, deswegen wiederhole ich es nochmal, müssen wir nach Norm nicht abschalten. Das habe ich gezeigt, wir haben aber einen zweiten Ansatzgedanken gehabt. Bei einem IT-System einpoliger Fehler erhöhen sich die Spannungen in den fehlerfreien Leitungen.
+
+(0:13:19 - 0:14:04)
+Das stresst die Kabel, die fehlerfreien Leiter werden deren Isolation gestresst und wir sagen nach 0276603 herausgefunden zu haben, dass man dann maximal 8 Stunden am Stück oder insgesamt 125 Stunden pro Jahr das überhaupt darf, weil sonst im Umkehrschluss mögen die Kabel eben kaputt gehen oder andersrum gesagt, die Kabel sind darauf getestet diese 8 beziehungsweise 125 Stunden auszuhalten. Das kann man sich ja mal so grob merken, also wenn wir jetzt einen Fehler haben, dann hat man jetzt maximal 8 Stunden Zeit, um den Fehler zu finden. Deswegen unser Pitch für die Einstellung des Relais, das wir uns jetzt gleich angucken.
+
+(0:14:05 - 0:14:29)
+Erste Stufe, wenn wir zwei haben, nennen wir als Warnung und das zweite nennen wir dann als einen Alarm. Wir stellen die Warnung zwischen 25 und 80 Kilo um, also zwischen Variante C und A ein. Wir sagen dann Alarm per Akustik auf der Baustelle und aber vielleicht auch eine Meldelampe installiert.
+
+(0:14:29 - 0:14:39)
+So habe ich das bei meinen Projekten gemacht. Man kommt also an und bei der Trafostation würde dann tatsächlich eine Warnleuchte leuchten. Die Leitwarte kriegt das bitte, bitte in jedem Fall auch mit.
+
+(0:14:39 - 0:15:06)
+Die zweite Stufe, die setzt man dann sinnhafterweise niedriger an, also bei noch niedrigeren Isolationswerten dann kleiner 25, also 1 bis 25. Und jetzt muss aber der Ausbefehl unbedingt schon früher kommen, also früher als 8 Stunden kommen. Wir sagen jetzt mal nach 4 Stunden, das ist jetzt einfach so unsere Logik, 8 Stunden maximal, 4 Stunden müssen ausreichen, um vor Ort irgendwie reagieren zu können.
+
+(0:15:06 - 0:15:17)
+Das wäre unser Vorschlag. Die Leitwarte kriegt das auf jeden Fall sowieso mit. Hinweis, bei der Inbetriebnahme sieht man das ja eigentlich zum ersten Mal, was da überhaupt für ein Wert auftaucht.
+
+(0:15:17 - 0:15:30)
+Also bei der Inbetriebnahme erstmal gucken, was denn für ein realer Wert da gemessen wird. In der Prüfung, die wir gleich zeigen, geht das ja gar nicht, da simulieren wir ja den Wert. Aber ihr schaut dann bei der Inbetriebnahme mal, was ihr dann eigentlich wirklich habt.
+
+(0:15:32 - 0:15:49)
+So, letzter Theoriepunkt und dann geht es ins Relais. Was stellen wir denn da jetzt eigentlich ein? Also diese Kiloohm-Werte sind erstmal klar, die habe ich mir ja jetzt erarbeitet. Und jetzt sagt dieses EMD-Betriebsanleitung, okay, kannst du machen.
+
+(0:15:50 - 0:16:03)
+Hier ist es die X-Achse im Isolationswiderstand in Kiloohm. Und dann sage ich dir, wie schnell mein Schutzrelais dann abschaltet. Das machen die ein bisschen kompliziert, aber okay mit solchen Kurven.
+
+(0:16:04 - 0:16:19)
+Ich habe die hier mal reingezeichnet. Ihr seht es oben in der Legende. Abhängig von der Kapazität des Kabelsystems wird das Relais abschalten zu einem definierten Isolationswiderstandswert.
+
+(0:16:20 - 0:16:41)
+Ich sage gleich, ich glaube ich habe es nicht aufgeschrieben, die zwei Kennlinien beachte ich nicht, sondern ich nehme die 2000 Mikrofahrrad, weil große PV-Parks, große Anlagen haben nun mal große Kapazitäten. Das liegt in der Natur der Sache. Da sind einfach so viele Kabel im Erdreich, dass wir jetzt dann bitte nur die eine Kennlinie auswählen.
+
+(0:16:41 - 0:16:56)
+Und wenn wir da bei 25 Kiloohm, ihr merkt es euch, da habe ich es auch grün gemacht, bei 25 Kiloohm da reingucken, dann komme ich da auf eine Zeit von 800 Sekunden, 15 Minuten ungefähr. Und das ist kleiner als 4 Stunden. Deswegen ist für mich der Daumen oben.
+
+(0:16:57 - 0:17:26)
+Hiermit habe ich meine Schutzphilosophie für IMD-Schutzrelais in IT-Systemen erklärt und dargestellt und gesagt, warum ich das so einstellen würde. Jetzt gucken wir uns mal an, wie das in Realität aussieht. Endlich! So, was machen wir noch mal? Wir haben hier ein Schutzrelais.
+
+(0:17:27 - 0:17:37)
+Da würde ich, ehrlich gesagt, noch weiter rangehen, dass man das Display besser sehen kann. Machen wir gleich, alles klar. So sieht unser Versuchsstand aus.
+
+(0:17:37 - 0:17:58)
+Da haben wir unser Relais aufgebaut und jetzt sind wir in Menti wieder angekommen. Los geht rüber in Menti und wir drücken auf Menti einmal drauf und fragen uns, was wir da noch vorbereitet haben. Der Kollege zeigt noch, wie wir das machen mit den Widerständen.
+
+(0:17:59 - 0:18:09)
+Das ist unser super modernes Prüfequipment. Reicht aber wirklich aus. Man sieht, dass da verschiedene Kiloohm-Widerstände in Reihe geschaltet sind.
+
+(0:18:09 - 0:18:18)
+Und jetzt haben wir 10 plus 10 plus, glaube ich, nochmal 10. Genau, 30 Kiloampere haben wir da jetzt in Reihe geschaltet. Ja, genau, das ist natürlich sehr wichtig.
+
+(0:18:18 - 0:18:28)
+Wir messen jetzt mal mit 30 Kiloampere. Dann bitte Menti. Ja, super.
+
+(0:18:29 - 0:18:38)
+Ein bisschen näher vielleicht noch, oder? Nö, noch ein bisschen. Ja. Ja, ich glaube, jetzt kann man das schon erkennen.
+
+(0:18:40 - 0:18:46)
+Und noch ein bisschen zur Seite. In meine Richtung, ja. Noch ein bisschen.
+
+(0:18:47 - 0:18:51)
+Super. Wunderbar. So sieht das jetzt aus.
+
+(0:18:51 - 0:18:58)
+Jetzt haben wir das eingestellt. Und was machen wir jetzt? Menti, denke ich mal, oder? Nee? Ah, wir messen erst mal. Okay, dann messen wir bitte.
+
+(0:19:00 - 0:19:13)
+Also, wir simulieren einen 30 Kiloohm-Widerstand. Und sehen, dass was passiert. Also, der Kollege, das seht ihr jetzt nicht.
+
+(0:19:14 - 0:19:23)
+Jetzt verstehe ich, warum das so eingestellt war. Der Kollege hat jetzt den Widerstand, den wir euch gerade gezeigt haben, da mal drangehangen. Und jetzt hat sich der Wert verändert.
+
+(0:19:23 - 0:19:27)
+Super. Da steht jetzt was von 29,5 Kiloampere. Alles klar.
+
+(0:19:29 - 0:19:34)
+Gut. Jetzt hat er es wieder weggenommen. Mal gucken, ob das Relais dann wieder reagiert.
+
+(0:19:34 - 0:19:46)
+Machen wir Menti? Alles klar. Menti bitte, jetzt aber endgültig. Wie ist der Zustand der Alarme bei Prüfwiderstand 30 Kiloohm? Ja, genau.
+
+(0:19:46 - 0:19:58)
+Also, wir haben 30 Kiloohm hingehalten. Was ist passiert? Hat das Ding ausgelöst? Alarm 1 und 2, seht ihr da? Oder ist eigentlich nichts passiert? Ah, da musste der schnell sein. Super.
+
+(0:19:58 - 0:20:05)
+Super gemacht an alle, die dabei sind. Super. Also, Off, Alarm 1 und Alarm 2 waren off.
+
+(0:20:05 - 0:20:14)
+Wir haben 25 Kiloohm eingestellt und gerade mit 30 getestet. Ist ja erstmal gut so. Jetzt machen wir 10 Kiloohm.
+
+(0:20:15 - 0:20:23)
+Super. Der Kollege wird jetzt bitte 10 Kiloohm anlegen. Das Relais, seht ihr, das braucht auch immer ein bisschen.
+
+(0:20:23 - 0:20:28)
+Der steckt das jetzt gerade schon rein. Und jetzt geht es los. Jetzt hat das da irgendwie eine neue Messung erkannt.
+
+(0:20:30 - 0:20:34)
+Und macht was. Okay. Ich sage nichts.
+
+(0:20:35 - 0:20:59)
+Bitte nächste Menti-Frage. Wir haben mit 10 Kiloohm gemessen. Was passiert? Wie ist der Zustand der Alarme? Wir haben Alarm 1 und Alarm 2. Ja.
+
+(0:20:59 - 0:21:20)
+Also, der Alarm 1 leuchtet jetzt orange. Alarm 2 leuchtet nicht orange. Das ist ja, entspricht dem, was wir in der Tabelle dargestellt hatten. 
+
+Wir wollten zwei Stufen aufbauen. Die erste Stufe 25 Kiloohm. Die zweite Stufe 1 Kiloohm.
+
+(0:21:21 - 0:21:37)
+Und dann haben wir jetzt erstmal nachgewiesen, im ersten Test, dass bei 30 Kiloohm gar nichts passiert. Und bei 10 Kiloohm die erste Alarmstufe sich meldet. Was machen wir jetzt? Jetzt machen wir 1 Kiloohm.
+
+(0:21:38 - 0:21:48)
+Jetzt machen wir 1 Kiloohm. Gucken wir mal, was jetzt passiert. Das dauert immer ein bisschen.
+
+(0:21:48 - 0:21:55)
+Das Relais muss irgendwie rumrechnen und verschiedene Messströme losschicken. Und jetzt sagt das wieder was. Menti, bitte.
+
+(0:22:06 - 0:22:20)
+Wie ist der Zustand der Alarme jetzt? Wir haben 1 Kiloohm reingehalten. Was passiert? Ja, genau. Beide Alarme sind angegangen.
+
+(0:22:20 - 0:23:41)
+Also beim ersten Test waren wir über beiden Stufen und nichts ist passiert. Test erfolgreich. Bei der zweiten Stufe waren wir zwischen den zwei Stufen. 
+
+Deswegen ist richtigerweise nur eine Alarm angegangen. Und das könnte man jetzt in der Schutzphilosophie so machen, dass dieser Alarm 1 Ausgang eben nur als Meldung ins Portal geht oder auf die Alarmanlage. Und in der dritten Stufe, also Alarm 2 Ausgang, im dritten Test sind wir dann unter die zweite Schwelle drunter gegangen. 
+
+Das Relais hat das richtig erkannt. Da seht ihr es auch im Display. 947 Ohm, also wirklich sehr genau. 
+
+Wir haben 1000 Ohm drangehalten und hat das dann auch richtig erkannt und dann den zweiten Alarmkontakt ausgelöst. Und jetzt könnte man je nach Schutzphilosophie sagen, beim zweiten der wird verdrahtet auf den Leistungsschalterkontakt, sodass dann aber auch wirklich unmittelbar abgeschaltet wird. So hätte man ein zweistufiges System geschaffen. 
+
+Im ersten haben wir noch ein bisschen Zeit, vielleicht selektiv mich da rauszukoppeln, den richtigen Wechselrichter abzuschalten, das richtige Wechselrichterkabel rauszunehmen, bevor ich sozusagen die ganze Trafuschation abschalten muss. Haben wir noch ein Slide. Was kommt dann als nächstes? Dann kommt dann vielleicht noch die Übersicht.
+
+(0:23:41 - 0:23:56)
+Ja, das ist auch gut. Sehr gut. Also Sakura, herzlichen Glückwunsch am Ball bleiben und so gut mit abstellen.
+
+(0:23:56 - 0:24:26)
+Ich hoffe, dass ich das einigermaßen gut rübergebracht habe, wie man hier mit diesem IMD Relais arbeitet, wie die Grundlogik dahinter ist, was wir jetzt noch testen können oder fragen können, ob im Chat noch irgendeine Frage war, weil sonst sind wir heute ja mal fünf Minuten früher am Ende als sonst. Vielleicht ist das in der Gesamtbilanz dann wieder etwas positiver. Aber wenn da keine Fragen drin sind, dann testen.
+
+(0:24:29 - 0:25:09)
+Schöne Frage, wo ist das IMD installiert? Also, ich sage es so rum. Die, die ich kenne bei AC-Systemen, fangen wir mal so an, also dezentrale Wechselrichterinstallation. Da hätte ich dann ein separates IMD verbaut in der Trafostation und da habe ich dann eine Verbindung in der Niederspannung auf zwei Phasen und bei Erde und bei zentralen Niederspannungssystemen ist es aber im Grunde ehrlich gesagt genau das gleiche.
+
+(0:25:09 - 0:25:38)
+Da habe ich nur andere Stationen im Kopf, die sehen ein bisschen anders aus, aber die technische Logik ist genau die gleiche. Auch da habe ich wieder so ein Relais auf der AC-Seite installiert, weil ich es ja verbinde mit den AC-Abgängen vom Wechselrichter bis zum Niederspannungstransformator. Also ein Relais pro Niederspannungsverteilung, oder ein Relais pro Niederspannungstrafoabgang.
+
+(0:25:38 - 0:26:22)
+Vielleicht kann man es so sagen. Welche Einstellwerte würde ich bei 800 Volt und 1500 Volt beantworten? Vielleicht greife ich es ehrlich gesagt nicht ganz, weil ich würde ja die Einstellwerte nehmen, die ich gerade gezeigt hatte. Wir sind für die 25 Kiloohm-Variante und zwar aus der Logik, die wir gezeigt hatten, das Handout wird auch im Nachgang noch reingestellt, beziehungsweise im letzten Jahr haben wir es auch schon runtergeladen, aber das sind die 25 Kiloampere, die aus unserer Logik C, Herangehensweise C, herankamen.
+
+(0:26:23 - 0:27:49)
+Das sind auch die, die wir von den Herstellern bestätigt bekommen haben. Die tun sich selber schwer, da irgendwie klar was zu sagen, weil das ja abhängig ist von den Kapazitäten im Park und abhängig ist von den tatsächlichen Isolationswiderständen im Park, aber bei großen Parks, so wie wir sie ja nun mal betreuen, sind wir bei den 25 Kiloohm. Bei den Zeiten ist es so, wenn wir nochmal diese Zeitkennlinie da im Kopf haben, die kann ich bei dem Relais aktiv ja gar nicht steuern, sondern die sind fest hinterlegt. 
+
+Also ich sage diesem Relais, vielleicht zeigen wir das einfach nochmal. Kannst du hier nochmal in das Menü gehen und den Einstellwert, den Settingpoint zeigen in dem Relais. Dann hat man da vielleicht nochmal ein Gefühl dafür, wo man das macht. 
+
+Also da haben wir jetzt irgendwie 25 Kiloohm eingestellt und mehr geht da auch gar nicht. Also die Zeiten selbst kreiert sich das ja aus den hinterlegten Kennlinien. Das ist es schon. 
+
+Also eine sehr simple Herangehensweise eigentlich. Jetzt würde ich noch eine Sache üben. Können wir alleine zurückspringen in die PowerPoint? Ja super. 
+
+Dann mache ich das hier noch der Form halber. Vielen Dank für den heutigen Brainday wieder fürs dabei sein. Hat mir Spaß gemacht.
+
+(0:27:49 - 0:27:51)
+Ich wünsche euch ein schönes Wochenende. Bis bald. Tschüss.

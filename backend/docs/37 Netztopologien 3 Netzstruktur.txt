@@ -1,0 +1,140 @@
+(0:00:00 - 0:00:19)
+Jetzt kommen wir auch schon zu dem Thema Netzstruktur. Und hier wollen wir euch erstmal ganz grob erklären, was in Deutschland, wie in Deutschland so ein Netz aufgebaut ist. Weil es gibt dann eben unterschiedliche Spannungslevel, Spannungsebenen.
+
+(0:00:19 - 0:00:44)
+Wir haben das erstmal unterteilt, kann ich schon mal vorwegnehmen, von Spannungsebene 1 bis 4. Und die Spannungsebene 1, das ist hier unser Übertragungsnetz, 380 kV und auch 220 kV, ein bisschen tiefer. Da sprechen wir von Höchstspannung, Übertragungsnetz. Und das sind im Grunde genommen die Leitungen, die von Norddeutschland nach Süddeutschland den Strom transportieren.
+
+(0:00:45 - 0:00:59)
+Die Übertragungsnetzbetreiber, weite Strecken, hohe Leistungen. Dann gibt es die Spannungsebene 2, das ist dann die 110 kV. Das sind, ich würde jetzt mal sagen, überregionale Netze.
+
+(0:01:00 - 0:01:19)
+Damit würde ich sagen, kann man mehrere 100 Kilometer wahrscheinlich auch schon durchaus Leistungen übertragen. Wir nennen das Hochspannung, 110 kV. Das ist, denke ich, bei vielen, ich sage mal, Freiflächenanlagen, Errichtern schon ein Thema.
+
+(0:01:20 - 0:01:31)
+Da werden dann Umspannwerke errichtet und man schließt eben, speist eben direkt in diese Freileitungen ein. Dann kommt die Spannungsebene 3. Da geht es um die Mittelspannung. Überwiegend in Deutschland 20 kV.
+
+(0:01:31 - 0:01:41)
+Es gibt aber auch 10 und 30 kV. Das sind dann regionale Verteilnetze, würde ich sagen. Also ich sage mal, in jeder Region gibt es irgendwo ein Umspannwerk.
+
+(0:01:41 - 0:02:23)
+Von diesem Umspannwerk wird dann aus der 110 kV runtergespannt auf die 20 kV und die letzten 10, 20, 30 Kilometer meinetwegen, werden dann eben mit Mittelspannungskabeln die Leistungen in der Region verteilt und dann eben zu den Endverbrauchern gebracht. Zu den Endverbrauchern ist vielleicht nicht ganz richtig, weil dafür ist dann eben die Spannungsebene 4 nochmal da. Das ist dann der Transformator, der bei euch in der Siedlung steht, der dann eben aus der 20 kV die 0,4 kV macht und dann eben ganz lokal über die Ortsnetze die Leistung zu den einzelnen Wohnungen, Firmen, was auch immer bringt.
+
+(0:02:25 - 0:03:04)
+In der Spannungsebene 1, diese Übertragungsnetze Höchstspannung, da sind in aller Regel angeschlossen erstmal, wir sagen jetzt mal Offshore-Windparks, also Erzeugungsanlagen mit sehr, sehr großer Leistung. Wir sehen jetzt tatsächlich schon die ersten, ich sage mal, Onshore-Mischparks sind dann meistens, sind das meistens also PV-Anlagen in sehr großem Maßstab, dann teilweise kombiniert mit Windparks, die dann eben auch schon in die 380 kV einspeisen. Also das kommt jetzt, die Anlagen werden immer größer und die 50 Hertz ist ja einer der großen Netzbetreiber in Deutschland, Übertragungsnetzbetreiber in Deutschland.
+
+(0:03:04 - 0:03:29)
+Die befassen sich mittlerweile sehr stark damit, dass sie eben auch große regenerative Erzeuger, Windparks und Solarparks in ihr 400 oder 380 kV-Netz einbinden müssen. Dann sind da eben auch dran die konventionellen Kraftwerke. Ich sage jetzt mal Kohle, Atomen ja jetzt nicht mehr, aber eben die großen Kraftwerke, die große Leistungen über weite Strecken weg transportieren oder abtransportieren müssen.
+
+(0:03:30 - 0:03:44)
+Dann haben wir hier Großspeicher, ich sage mal, hier sind jetzt fünf kleine Batterien gezeichnet. Wenn wir im Moment von Großspeichern reden, dann reden wir hier wahrscheinlich eher von Pumpspeicherkraftwerken. Aber ich sage mal, in naher Zukunft, das wird kommen.
+
+(0:03:44 - 0:04:06)
+Wir haben da mittlerweile auch viele, viele Anfragen auf dem Tisch. Viele, viele Projektentwickler beschäftigen sich mittlerweile damit, Großspeicher auf Basis meinetwegen von Lithium-Ionen in eben diese Höchstspannungsnetze zu implementieren. Da reden wir dann von Leistungen größer 100 Megawatt, die diese Großspeicher eben auf Lithium meinetwegen Basis, was auch immer, liefern können.
+
+(0:04:06 - 0:04:18)
+Die kommen in der Zukunft dann eben auch in dieses Höchstspannungsnetz. Genau, ich hatte es dann ja schon erwähnt, Leistung größer 100 Megawatt. Nehmt das mal als Daumenwert mit.
+
+(0:04:19 - 0:04:49)
+100 Megawatt kriegt man bestimmt auch noch in die 110 kV an vielen Stellen. Aber wenn ihr dann wirklich noch deutlich drüber geht, dann ist das Übertragungsnetz, das 380 kV oder 220 kV Netz, wahrscheinlich das Netz, was euch zugewiesen wird vom Netzbetreiber, ist immer dann projektspezifisch eben mit den Netzbetreibern zu klären. Jetzt gehen wir ein Spannungslevel runter, Spannungsebene 2. Das ist eben, wie eben schon beschrieben, die 110 kV.
+
+(0:04:49 - 0:05:16)
+In der 110 kV, ja, da haben wir natürlich auch Windparks, Onshore-Windparks nennen wir es hier. Der Kollege, der hier die Präsentation gemacht hat, der hat hier die Photovoltaik ein bisschen kurz kommen lassen, finde ich, weil PV-Parks sehen wir mittlerweile sehr, sehr, sehr viele in der 110 kV. Wenn man mit Umspannwerkserrichtern spricht, die sind, glaube ich, im Moment zu wahrscheinlich 90 % ausgelastet mit Umspannwerken für PV-Anlagen.
+
+(0:05:16 - 0:05:28)
+Also PV-Anlagen in der 110 kV ist absolut keine Seltenheit mehr. Das wird jetzt immer mehr die Regel. Ich sage mal, vor zehn Jahren war es eher noch eine Seltenheit, heute nicht mehr.
+
+(0:05:28 - 0:05:49)
+Dann gibt es hier die Gaskraftwerke. Das sind Kraftwerke, die für den schnellen Lastausgleich zuständig sind, die meist in der 110 kV angeschlossen sind. Großindustrie hat in der Regel auch 110 kV Zugang und, ich sage mal, Großspeicher.
+
+(0:05:50 - 0:06:09)
+Auch hier sehen wir aktuell noch nicht viele Lithiumspeicher, aber das wird in der Zukunft kommen. Da bin ich fest von überzeugt. Das sehen wir durch die Anfragen, die hier bei uns im Planungsbüro auf dem Tisch landen, die Anfragen, die wir dann wiederum beim Netzbetreiber stellen.
+
+(0:06:10 - 0:06:35)
+Da sind mittlerweile ganz, ganz viele Großspeicher mit dabei. Jetzt gehen wir noch eine Spannungsebene runter in die 3 und da haben wir eben das Mittelspannungsnetz. Das war, sage ich mal, vor 5 bis 10 Jahren das Netz, wo wir die meisten PV-Parks angeschlossen haben, die zwischen 5 und 10 Megawatt groß waren.
+
+(0:06:36 - 0:06:54)
+Auch 1 Megawatt ist häufig in die Mittelspannung einzubinden. Einzelne Windkraftanlagen natürlich auch bis 10 Megawatt. Öffentliche Schnelllader beziehen ihren Strom eben auch aus der Mittelspannung.
+
+(0:06:55 - 0:07:07)
+PV-Anlagen haben wir jetzt hier drin und Industrie natürlich auch. Batteriespeicher könnte man jetzt hier auch noch aufführen. Ja, tun wir auch, genau.
+
+(0:07:07 - 0:07:24)
+Das sind dann eben Batteriespeicher in kleinerem Maßstab, wobei man das natürlich relativieren muss. Ich habe tatsächlich noch nicht viele Batteriespeicher in der Größenordnung 5 bis 10 Megawatt gesehen, die schon errichtet sind. Von daher muss man das wirklich relativieren.
+
+(0:07:24 - 0:07:44)
+5 bis 10 Megawatt ist viel Leistung. Bei uns zumindest verwischt sich das gerade so ein bisschen, weil die Leute, diese Projektentwickler, die Errichter der Parks da in anderen Maßstäben mittlerweile denken und dann eher Richtung 100 Megawatt gerne mal gehen wollen. Ob das dann am Ende funktioniert, sehen wir in ein paar Jahren.
+
+(0:07:44 - 0:08:02)
+Aber das ist die Entwicklung, die wir hier so über unseren Tisch laufen sehen. Dann, genau, alles verbunden hier mit so einem kleinen Holzmast, der hier die 20 kV sein soll. In der Regel ist das ja in Deutschland ein Erdkabel, aber ist vielleicht an der Stelle nicht ganz so wichtig.
+
+(0:08:02 - 0:08:17)
+Jetzt kommt die letzte Ebene. Da haben wir auch nochmal einen kleinen Holzmast, meistens auch in der Erde verkabelt, von der Trafo-Station in unsere, ich sage mal, privaten Ladesäulen. Wenn jemand schon so eine kleine Wallbox zu Hause hat, die wird mit 400 Volt versorgt.
+
+(0:08:18 - 0:08:40)
+Die kleinen Hausdachanlagen, ich sage mal, genau, Haushalt und Kleingewerbe, die haben alle 400 Volt-Anschlüsse und eben auch die Heimspeicher. Ich würde mal sagen, wenn man jetzt Leistungen hat, unterhalb von 300 kW, dann kommt man meistens mit diesen 400 Volt irgendwo noch hin. Natürlich immer, immer, immer mit dem Netzbetreiber abzustimmen.
+
+(0:08:40 - 0:08:48)
+Oft reicht das auch nicht. Dann braucht man eben eine Trafo-Station und muss eine Spannungsebene höher. Wir haben, genau, ja.
+
+(0:08:50 - 0:09:14)
+Jetzt ein Hinweis noch, diese Spannungsebenen, sagen wir Beispiel Spannungsebene 1 und Spannungsebene 2, die sind natürlich irgendwo, ich sage jetzt erst mal, miteinander verbunden, wobei man auch sagen kann, galvanisch miteinander, voneinander getrennt. Und dafür sind eben immer diese Transformatoren zuständig. Also von der Spannungsebene 1, wir hatten da eben gesagt, 380 kV oder 220 kV.
+
+(0:09:15 - 0:09:33)
+Zur Spannungsebene 2 mit 110 kV, da brauchen wir einen Transformator, um diese beiden Netze eben zu verbinden. Das haben wir hier mal so dargestellt. Wir haben da zwei Freileitungsmaste, so sind diese Netzformen oder diese Netze in der Regel aufgebaut in Deutschland, das 400 kV-Netz und das 110 kV-Netz.
+
+(0:09:34 - 0:09:46)
+Und dazwischen ist dann ein Transformator in Form oder in der Umgebung eines Umspannwerkes. So wird es dann ja meistens errichtet. Das hatte ich genannt, der Transformator ist erforderlich.
+
+(0:09:47 - 0:09:58)
+Und der Transformator sorgt für eine galvanische Trennung. Also das Netz ist magnetisch miteinander verbunden. Über Magnetismus im Transformator werden die Leistungen weitergegeben.
+
+(0:09:59 - 0:10:18)
+Und dieser Transformator, der sorgt oder der kann eben dafür sorgen, dass man dann, ich sage mal, auf der nächsten Spannungsebene seine Netztopologie verändern kann. Also Beispiel vielleicht unser Solarpark. Da kommt ein Netzbetreiber mit seinem 20 kV-Kabel an.
+
+(0:10:18 - 0:10:37)
+Das hat eine gewisse Netzform, ist in irgendeiner Art und Weise geerdet. Und wir können dann eben mit unseren Transformatoren im Solarpark oder an unserem Gebäude entscheiden, mit welcher Netzform wir in unserem internen System weitergehen. Und das kann man dann eben isolieren oder erden, wie auch immer.
+
+(0:10:38 - 0:10:48)
+Immer dort, wo man einen Transformator hat, ist es möglich, die Netzform zu ändern. Das kann man sich hier vielleicht mal so merken. Und das betrifft dann eben die Höchstspannung genauso wie die Niederspannung.
+
+(0:10:52 - 0:11:05)
+Jetzt zeigen wir das hier nochmal. Es sind natürlich alle Netze, ich sage mal von der Höchstspannung bis zur Niederspannung immer dann wieder mit Transformatoren verbunden. Die Transformatoren werden dann natürlich von ganz oben nach ganz unten immer ein bisschen kleiner.
+
+(0:11:05 - 0:11:33)
+Also ich sage mal von 100 oder 200 MVa-Transformatoren wirklich im Höchstspannungsnetz bis zu dem, ganz unten ist es dann wahrscheinlich so ein 400 kVa-Trafo, verändern die natürlich ihre Größe und auch ihre Charakteristik ein wenig. Ich hatte das eben nebenbei mal erwähnt. Wir haben euch hier nochmal so die Daumenwerte aufgeschrieben.
+
+(0:11:33 - 0:11:47)
+Spannungsebene 4, kleiner 300 MVa. Doch, 0,3 MVa, also 300 kVa sind es dann. Das ist so eine Größe, wenn man ein gutes Netz hat, kommt man da in der Niederspannung zurecht.
+
+(0:11:49 - 0:11:59)
+Manchmal aber auch schon nicht mehr. Spannungsebene 3 würde ich jetzt mal so sagen bis 10 Megawatt. Also wir sind hier in der Mittelspannung.
+
+(0:12:00 - 0:12:08)
+Das sind Daumenwerte. Also die Mittelspannung kann 20 kV sein. Dann würde ich mal so sagen, die 10 MVa sind ein realistischer Wert.
+
+(0:12:09 - 0:12:20)
+Es kann natürlich aber auch 10 kV sein. Und ein 10 kV-Netz kann, rein mathematisch, ja nur die Hälfte transportieren von einem 20 kV-Netz. Also nehmt das mal so als Größenordnung mit.
+
+(0:12:20 - 0:12:40)
+Bei 10 kV ist es dann sicherlich weniger. Bei 30 kV ist es sicherlich mehr. Und dann ist es ja immer abhängig davon, wie viel Erzeuger, wie viel Verbraucher, wie stark das Netz oder wie gut diese Region, wo euer Solar- oder Windpark aufgebaut wird, vernetzt ist oder wie stark das Netz ist.
+
+(0:12:41 - 0:12:51)
+Der Netzbetreiber wird euch dann schon die Wahrheit sagen, was man anschließen kann. Das ist hier ein Daumenwert. Spannungsebene 2, 110 kV, haben wir jetzt mal so gesagt.
+
+(0:12:52 - 0:13:07)
+Da kann man 100 Megawatt ungefähr anschließen. Auch hier natürlich Abstimmung Netzbetreiber. Und wenn wir hier von 100 Megawatt sprechen in der 110 kV, dann muss man diese Leistung meistens schon auf beide Leiterseile aufteilen.
+
+(0:13:07 - 0:13:25)
+Na ja, ihr kennt das vielleicht aus, wenn ihr durch die Landschaft fahrt. Diese 110 kV-Masten, die man sieht, haben immer zwei Systeme, eins rechts, eins links. Und die meisten Netzbetreiber sagen, TRAFUS größer 50 Megawatt oder TRAFUS bis 50 Megawatt, lassen wir an ein System ran.
+
+(0:13:25 - 0:13:39)
+Wenn ihr jetzt größere Leistung habt, dann teilt es bitte auf zwei Transformatoren. Und dann muss man sozusagen seinen Park teilen und man muss in beide Leitungssysteme einspeisen. Also diese 100 Megawatt aufteilen auf zwei 50 Megawatt-TRAFUS.
+
+(0:13:40 - 0:13:51)
+Und dann ist der eine TRAFUS an dem Leitungssystem links und der andere rechts. Ganz einfach. Und dann haben wir die Spannungsebene 1, also das Höchstspannungsnetz.
+
+(0:13:51 - 0:14:16)
+Gut, und da würde ich sagen, Stand heute, sind wir erst mal mit unseren Solarparks, ich will jetzt nicht sagen unlimitiert, aber wenn wir da jetzt zwei 300-Megawatt-Parks mal bauen sollten, dann kommen die in die Höchstspannungsebene. Ich denke, dass dieses Höchstspannungsnetz sicherlich auch noch mehr Puffer nach oben hat. Da waren die Atomkraftwerke angeschlossen, da sind die Kohlekraftwerke angeschlossen.
+
+(0:14:16 - 0:14:23)
+Also da gehen dann deutlich größere Leistungen noch mal rein, in Abstimmung mit dem Netzbetreiber.

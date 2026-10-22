@@ -1,0 +1,74 @@
+(0:00:00 - 0:00:07)
+Als nächstes das Niederspannungskabel. Es folgt erst mal der gleichen Logik. Es ist ja auch die gleiche Physik, die dahinter steht.
+
+(0:00:07 - 0:00:19)
+Es gibt einen Betriebsstrom und einen zulässigen Strom. Und das muss eben in der richtigen Reihenfolge sich anordnen. Wir schauen uns hier nochmal eine Verlegung in Erde an.
+
+(0:00:19 - 0:00:27)
+Das ist alles sehr orientiert an Freiflächenanlagen heute. Und da sehen wir eben viel erdverlegte Kabel. Deshalb haben wir uns dazu entschieden.
+
+(0:00:27 - 0:00:38)
+Und auch die Normenfolge, so nenne ich es jetzt mal. Wir konzentrieren uns auf die 276,630 und dann auf die 276,1000. Das ist hier in der Tabelle schon mal dargestellt.
+
+(0:00:38 - 0:00:44)
+Und das gucken wir uns jetzt an. Projektdefinition ist wie folgt. Wir haben einen Wechselrichter, 800-Volt-System.
+
+(0:00:44 - 0:00:57)
+Der Wechselrichter hat 352 kVA. Und daraus resultiert dann ein maximaler Betriebsstrom des Wechselrichters. Und wir runden den, glaube ich mal, auf 254 Ampere.
+
+(0:00:58 - 0:01:06)
+Das ist dann auch hinreichend genau. Und damit gehen wir mal in unsere Berechnung. Also Betriebsstrom ist definiert, ist auch schon in unserer Achse unten eingetragen.
+
+(0:01:07 - 0:01:20)
+Und wir müssen uns jetzt eben den normativen Belastungsstrom des Kabels raussuchen. Oder eines Kabels raussuchen, weil wir haben ja noch gar kein Kabel definiert. Also ich merke mir ungefähr 254 Ampere.
+
+(0:01:21 - 0:01:30)
+Ich schaue in diese Tabelle. Ich wähle ein Kabel wieder mit VPE-Isolierung. Also N2XY zum Beispiel.
+
+(0:01:31 - 0:01:38)
+Und dann am besten mit A, mit Alu. Also die linke Seite ist jetzt erst mal Kupfer. Und die rechte Seite ist jetzt Alu.
+
+(0:01:38 - 0:01:51)
+Wir nehmen das NA-Kabel, also ein Aluminiumkabel. Und würden uns dann dort oben erstmal wiederfinden. Das Kabel ist ein klassisches mehradriges Kabel.
+
+(0:01:52 - 0:01:59)
+Also drei Adern in einem Mantel. Und es besteht aus Aluminium. Deshalb sind wir hier in dieser Tabelle.
+
+(0:02:00 - 0:02:10)
+254 Ampere hatte ich mir gemerkt. Und der Kollege hat jetzt mal ausgewählt, wir nehmen mal 300. Und ein 300 Quadratkabel hat dann an der Stelle 457 Ampere.
+
+(0:02:11 - 0:02:18)
+Damit gehen wir mal ins Rennen. Vielleicht hat er ja auch schon mal ein paar Berechnungen gemacht mit dem Wechselrichter und dem Kabel. Und schaut sich das jetzt hier erstmal mit dem Kabel an.
+
+(0:02:20 - 0:02:29)
+So, hier tragen wir den Nennstrom ein. 457. Und dann geht es, wie bei der Mittelspannung, eben um Rahmenbedingungen.
+
+(0:02:30 - 0:02:37)
+Belastungsgrade, Erdbodenwärmewiderstände und Erdbodentemperaturen. Und wir haben hier 10 parallele Kabel. Also das ist eine ganze Menge.
+
+(0:02:38 - 0:02:49)
+Vor der Trafo-Station sammelt sich dann ein ganzer Haufen Kabel über 10, 20 Meter. Also wir berücksichtigen das tatsächlich und berechnen dann hier eben diesen Fall. Hier ist die Tabelle.
+
+(0:02:50 - 0:03:01)
+Und jetzt der Belastungsgrad, Erdbodenwärmewiderstand, Temperatur. Muss man sich erstmal sortieren. Oben fängt es an mit einem spezifischen Erdbodenwärmewiderstand.
+
+(0:03:01 - 0:03:21)
+Und darunter der Belastungsgrad. Und dann kommt man eben über die 90 Grad zulässige Betriebstemperatur des Kabels und den Erdbodenwärmewiderstand auf ein Faktor. Und der ist, wie eben in der Mittelspannung, 1,02.
+
+(0:03:21 - 0:03:36)
+Den nehmen wir mit und schauen uns jetzt die Faktoren 2 und 3 an. Die sind kombiniert in einer Tabelle. Und da geht es dann eben genauso wieder rein.
+
+(0:03:37 - 0:04:03)
+Wir schauen uns den Verlegerabstand der Kabel an. Und eben über Belastungsgrade und so weiter, sage ich mal, finden wir dann bei 10 parallelen Kabeln und einem Abstand von 7 cm, hier ist ja jetzt im Grabenquerschnitt einmal dargestellt, einen Belastungsgrad von 0,56. Unsere Kabelanordnung ist da jetzt in zwei Layern.
+
+(0:04:03 - 0:04:19)
+Ich würde jetzt mal sagen, das ist durchaus üblich. In der Norm, glaube ich, findet man das so nicht explizit. Aber es ist, sage ich mal, üblich und auch weitgehend anerkannt, dass man die Leitung dann so verlegen kann, weil sonst erhöht sich natürlich die Kabelgrabenbreite um das Doppelte.
+
+(0:04:20 - 0:04:39)
+Hier, denke ich, haut das so hin. Die thermische Belastung untereinander wird berücksichtigt und als Faktor eben mitgenommen und hier mit diesen 0,56 als Faktor 2 und 3 aufgenommen. Dann kommt hier ein resultierender Strom raus mit 261 Ampere und der ist knapp größer als 254.
+
+(0:04:40 - 0:04:54)
+Also ist ziemlich weit links an unserem normalen Betriebsstrom. Wir sagen erst mal, das passt. Wie man das Kabel jetzt absichern würde, ist ein anderes Thema, weil man, ich sage mal, nach der 0,100 müsste man sicherlich jetzt noch eine Sicherung dazwischen bekommen.
+
+(0:04:56 - 0:05:04)
+Aber hier für unseren Fall und wir sagen, wir haben gegenüberlastgeschützt, können wir, glaube ich, so mit diesem Wert erst mal weitergehen und das Kabel verwenden. Vielen Dank.

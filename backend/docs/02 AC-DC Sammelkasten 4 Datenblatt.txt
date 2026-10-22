@@ -1,0 +1,114 @@
+(0:00:00 - 0:00:55)
+Wunderbar, also die Hälfte haben wir ja, jetzt gehen wir ins Datenblatt und da finden wir elektrische und nicht elektrische. Wir machen es so, Firma Weidmüller habe ich vorhin als Beispiel genannt, das machen wir jetzt einfach, ziehen wir jetzt so durch und dieses Datenblatt kann man sich da von der Homepage holen. So, das haben wir auch gemacht und jetzt gucken wir da rein und ich führe diese fünf Kenndaten, die ihr neben mir seht, jetzt einfach mal mit, weil sehen wir dann auch gleich am Ende noch, schließt sich dann der Kreis. 
+
+Wir hatten, wenn ihr euch erinnert, in der Übersicht links vom String Design, rechts vom Wechselrichter Design die Parameter, die Grenzwerte berechnet und jetzt müssen wir ja gucken, dass das, was wir in der Mitte sozusagen im Gag ausgewählt haben, auch wirklich passt. Deswegen hole ich mir die Sachen jetzt aus dem Datenblatt raus, wenn man so will. Ich habe ein Angebot gekriegt von dieser Firma und jetzt schaue ich mir an, ob die das auch richtig gemacht haben.
+
+(0:00:57 - 0:01:13)
+Aber es gibt eben nicht nur elektrische Kenndaten, sondern, ich hatte es gerade gefragt und das hat, glaube ich, keiner gesagt, aber darum geht es ja. Aha, also auch die Temperatur ist wichtig, die Umgebungstemperatur ist wichtig. Wir sind mit 45 Grad und minus 20 zufrieden, deswegen würde ich sagen, das passt.
+
+(0:01:14 - 0:01:32)
+Dann, wo wird das Gerät installiert? Offensichtlich outdoor, also außen und nicht direkt am Wasser, weil sonst Salz die Korrosion verstärkt. Das ist die Norm, die ich auch vorhin genannt habe, die steht da drin. Das habe ich noch mal quer gelesen, weil ich mir das nicht auswendig merken kann und dann bin ich zufrieden.
+
+(0:01:33 - 0:02:07)
+Gut, da bei der Höhe, da geht es dann auch um Abmaße, die die ausrechnen für Isolationsabstände zwischen Plus und Minus, aber 3000 Meter ist dann, ja okay, wenn man irgendwo in den Alpen ein Projekt hat, könnte man darauf achten. Die Spannung, jetzt bin ich im elektrischen Bereich, da steht es auch, Electrical Characteristics, die brauche ich, die hole ich mir rüber, zack, 1500 Volt DC. Ich habe es ja noch im Kopf und 1500 ist erst mal gut, deswegen mache ich einen grünen Haken in meinem Kopf, aber später lege ich das noch in meine Bewertungstabelle und dann kann man es dann noch mal in Ruhe vergleichen.
+
+(0:02:07 - 0:02:52)
+Der Strom kommt gleich als nächstes, und zwar der Strom pro Input, also pro String, den Nennstrom pro String, 14 Ampere. Dann haben wir hier 400 Ampere für den Hauptschalter, das hattet ihr auch in der 360 Grad Tour genauso gefunden, aber wichtig ist ja jetzt erst mal für die Bestellung das Datenblatt. Dann rutsche ich ein bisschen runter, weil da jetzt ein paar Sachen dazwischen standen, die ich nicht für ganz so wichtig halte, aber hier ist auf jeden Fall eine wichtige Komponente, der Überspannungsableiter, Search Protection, das ist der Überspannungsableiter, SPD, hat jemand vorhin auch genau reingeschrieben, also Monitoring System überwacht den SPD, das heißt erstens, es gibt einen und zweitens, er ist dann in der Monitoring Einheit mit überwacht.
+
+(0:02:53 - 0:03:20)
+Die Maße, das hat jemand genannt, das ist natürlich ganz wichtig für die Baustelle, ist ja klar, diese Unterkonstruktion muss dafür ausgelegt sein, für mich als Elektroplaner ist das meistens nicht so wichtig, ich gebe diese Info weiter und dann muss das aber natürlich integriert werden in das Gesamtsystem. Da haben wir dieses Glasfaser Reinforced Polyester, also das ist jetzt sozusagen so eine Plastikbox, ist für mich aber in Ordnung. Dann die IP65, da mache ich auch einen Haken dran, ist eine gute Geschichte.
+
+(0:03:21 - 0:04:18)
+Fixing System, ok, Plastikwall Mount Lux, also auch das gebe ich ein bisschen wie die Maße weiter, das muss natürlich ein Planer, meistens nicht ich, sondern Kolleginnen von mir, das in das Gesamtsystem integrieren, für die Elektrotechnik nicht so relevant. Aber das ist wieder wichtig, Number of Inputs, also String Input 16 schiebe ich mit rüber, das ist mein NGAC String 16 und dann habe ich für die wiederum den Durchmesser und den Querschnitt sozusagen von dem Kabel, aber das ist doch erstmal schon mal sehr positiv, 4 bis 10 Quadrat, da passt sowohl 4 Quadrat als auch 6 Quadrat als auch 10 Quadrat rein, die sind offensichtlich sehr flexibel. Aber das ist wichtig, das ist ganz wichtig, es ist ganz, finde ich, üblich beziehungsweise naheliegend, dass man an alles gedacht hat, nur nicht an die Durchmesser und dann kommt man dahin und will diese hunderte, tausende von Strings da einführen und es geht nicht.
+
+(0:04:19 - 0:04:46)
+Das ist natürlich ein mechanisches großes Problem dann. Genau, 5 bis 10 Millimeter kann man im Datenblatt noch mal nachlesen, dann steht da positiv und negativ mit Sicherungen, also auch ein grüner Haken dran. Die GPV-Sicherung nach der Norm, hatten wir genannt, kann man auch einen grünen Haken dran machen, also wenn man so will, könnte man hier jetzt zwei PowerPoints nebeneinander legen sozusagen und dann zwei Kapitel immer so quer lesen.
+
+(0:04:47 - 0:05:14)
+Number of Inputs, also die Anzahl der DC-Hauptkabel, 1, das brauche ich auch, nehme ich mit, werdet ihr da gleich sehen, jetzt wird ein Schuh draus, warum ich das vorhin in meiner Tabelle so aufgeschrieben habe. Und bei diesen DC-Hauptkabeln auch wichtig, M10-Anschluss steht hier und bis zu 300 Quadrat, das sind die mechanischen Rahmenbedingungen, dass das Kabel da überhaupt reinpasst. So, jetzt bin ich noch nicht ganz durch mit dem Datenblatt, aber ich habe erst mal meine elektrischen Kenndaten alle hingekriegt.
+
+(0:05:14 - 0:05:31)
+Deswegen habe ich sie jetzt alle mit rüber geschoben und jetzt seht ihr, wenn man so will, rückwärts aufgebaut, habe ich mein Ziel erreicht. Das, was ich euch vorhin kurz dargestellt habe, was ich als Bewertungsgrundlage brauche, ist jetzt erst mal komplett ausgefüllt. Überall stehen Zahlen dran.
+
+(0:05:33 - 0:05:46)
+Was wir als nächstes machen, ist, wir basteln es wieder rückwärts in die allererste Darstellung. So sah das ganz am Anfang aus. So hatte ich mal gesagt, würde ich die Spezifikation bewerten.
+
+(0:05:46 - 0:05:54)
+Und jetzt mache ich es Schritt für Schritt. Die Zahlen, die wir gerade gesehen haben, wir haben sie gemeinsam eingesammelt und berechnet, schreibe ich jetzt hier rein. Ich mache das folgendermaßen.
+
+(0:05:55 - 0:06:11)
+Ich nehme IMAX-String links oben raus, weg ist es und lege dafür die Zahl rein, die wir für dieses Beispiel angenommen haben. 17,51 Ampere. So, und jetzt steht hier, dass ich gerade aus meinem Datenblatt vom GAK 14 Ampere herausgelesen habe.
+
+(0:06:11 - 0:06:22)
+Also ich habe es grün umrandet und meine damit, Achtung, also so geht das nicht. Also so funktioniert es eben nicht. Sagen wir mal so, unser erster Test ist schon gleich fehlgelaufen.
+
+(0:06:23 - 0:06:37)
+14 ist nicht größer als 17,51. Das haben wir natürlich absichtlich gemacht, damit man hier sozusagen den Effekt zeigen kann. Also jetzt würde man zum Hersteller zurück müssen und sagen, nein, nein, nein, du hast meine Spezifikation nicht richtig gelesen.
+
+(0:06:37 - 0:06:43)
+Bitte schicke mir ein neues Angebot. Deswegen habe ich es markiert. Aber wir gucken mal weiter, vielleicht ist der Rest ja richtig.
+
+(0:06:44 - 0:06:58)
+Der Ausgang war mit 400 Ampere angegeben, das war der Schalter und wir hatten uns für einen 16er GAK entschieden. Und da kommt jetzt dieses I-Spezifikation her, 218 Ampere, sieht super aus. Ihr erinnert euch, in der Tabelle sind wir ein bisschen nach unten gegangen.
+
+(0:06:58 - 0:07:15)
+Also das ist jetzt nicht mehr der Maximalstrom, sondern das ist jetzt ein spezifischer, projektspezifischer Strom. Der liegt zwischen 320 und 400, also ist er jeweils kleiner als die zwei Kenndaten. Deswegen ist das in Ordnung.
+
+(0:07:15 - 0:07:24)
+Wir sind wieder auf der linken Seite. Wir haben 18 Strings definiert und die Eingänge sind 16 aus dem Datenblatt. Also irgendwas ist da schiefgelaufen.
+
+(0:07:24 - 0:07:36)
+Er hat irgendwie die falsche Spezifikation gelesen. Ganz wichtig, funktioniert so nicht, muss auf jeden Fall dick markiert wieder zurückgeschickt werden. Ein DC-Hauptkabel stand als Ausgang und der Wechselrichter kann zwei, super.
+
+(0:07:37 - 0:07:51)
+1490 Volt haben wir aus dem String-Design ausgerechnet und der kann 1500 Volt, ist größer, super. Der Wechselrichter hat 1500 Volt, ist gleich, auch in Ordnung. Und jetzt kommt da unten diese Zahl 17.
+
+(0:07:52 - 0:08:12)
+Die hatten wir uns aus unserer ökonomischen Optimierung rausgesucht. Entschuldigung, die Mindestzahl, ich mache es nochmal, ich korrigiere mich. Die Mindestzahl an Gags hatten wir ausgerechnet war 17, aber aus unserer ökonomischen Betrachtung, das war Schritt 4, Schritt 5, haben wir gesagt, wir machen ein bisschen weniger Strings pro Gag.
+
+(0:08:13 - 0:08:22)
+Dann brauchen wir aber auch mehr Gags. Also kommt 19 raus. Und erinnert euch, das war die andere Benchmark, sozusagen das andere Limit in der Tabelle.
+
+(0:08:22 - 0:08:37)
+Das muss jetzt kleiner sein als die 24, auch in Ordnung. Also haben wir, ich zähle es mal kurz durch. 1, 2, 3, 4, 5, 6 mal okay in unserer Bewertung und zweimal ein dickes nicht okay.
+
+(0:08:37 - 0:08:58)
+Das müsste jetzt wieder zurückgehen an den Hersteller. Dann schickt er meinetwegen noch mal ein neues Datenblatt mit 18 Eingängen und mit einem Nennstrom von 25 Ampere pro Eingang und dann ist es wieder korrekt. Ja, ich würde mal sagen, das geht ja meistens hier sehr schnell in diesen Präsentationen, aber das, was ich hier gezeigt habe, dann mache ich es noch mal.
+
+(0:08:59 - 0:09:20)
+Das finde ich die Kernidee des heutigen Brain Days. Jetzt haben wir es hingekriegt, elektrisch und das Ganze noch ein bisschen kaufmännisch zu spezifizieren, den DC Sammelkasten. Okay, wir machen aber natürlich weiter voller Konzentration und sind also jetzt wieder zurück im Datenblatt, wenn man so will, vielleicht auf der zweiten Seite.
+
+(0:09:20 - 0:09:38)
+Diese elektrischen Kenndaten sind durch und ich zeige aber trotzdem noch mal die für mich wichtigen anderen Angaben. Hier hat man also die Erdung des Gags. Da will ich darauf hinweisen, sage ich auch gleich in der Tour noch mal, dass es hier um die Erdung vom Überspannungsableiter geht.
+
+(0:09:39 - 0:09:47)
+Die Box selbst ist aus Plastik, da braucht man keine Erdung. Kann man noch mal nachfragen beim Hersteller. Aber hier geht es um die Erdung vom Überspannungsableiter.
+
+(0:09:47 - 0:10:00)
+Das ist eine typische Schnittstelle, also weil der Elektriker auf der Baustelle will da jetzt was anschließen. Auch da muss der Querschnitt passen. Das Monitoring hat man eigenen Block vorhin drin, also Single-String Monitoring.
+
+(0:10:00 - 0:10:18)
+Jeder String wird überwacht. Die interessanten Fakten sind dann auch noch, dass der sich selbst versorgt mit Spannung. Also sobald die Strings sozusagen da sind, kann der auch sich daraus die Energie ziehen, um Informationen ins Monitor zu pushen.
+
+(0:10:18 - 0:10:29)
+Man braucht keine Spannungsversorgung da hinzulegen. Und dann ist das ein größerer Block. Da geht es noch mal darum, was genau überwacht wird.
+
+(0:10:29 - 0:10:42)
+Also diese Innenraumtemperatur wird überwacht, die Spannung wird überwacht. Jeder String wird einzeln überwacht. Das kann man sich im Detail durchlesen und dann hat man die Spezifikationen sozusagen hier auch geprüft und abgehakt.
+
+(0:10:43 - 0:11:07)
+Das Datenkabel, damit das Ganze, die Informationen überhaupt ins Portal gepusht werden können, stand da auch noch da. So, und jetzt habe ich einfach noch mal eine Zusammenfassung hingeschrieben, auf die ich nicht einzeln eingehe, sonst würde ich das jetzt einzeln reinschieben. Das ist Absicht, kein Animationsfehler, sondern wir haben elektrisch jetzt das Datenblatt geprüft. 
+
+Das war diese super Tabelle. Dann haben wir andere Faktoren uns angeguckt. Umgebungstemperatur, Übersprungserleitungen, alles drin.
+
+(0:11:07 - 0:11:26)
+Das ist das, was ihr am Anfang auch reingeworfen hattet. Und jetzt zeige ich noch sonstige, haben wir es genannt, andere und sonstige könnte man sich vielleicht fürs nächste Mal auch nochmal ein anderes Wort überlegen. Aber also Datenblatt haben wir gemacht und jetzt will ich aber auch noch eine mechanische Zeichnung vom Lieferanten.
+
+(0:11:26 - 0:11:37)
+Ich will einen Elektroschaltplan, auf jeden Fall, den muss ich prüfen. Nicht nur das Datenblatt, sondern auch den Elektroschaltplan. Ich brauche eine Montageanweisung und eine thermische Berechnung.
+
+(0:11:37 - 0:11:51)
+Wenn es geht, würde ich das immer anfordern. Die habe ich hier nochmal dargestellt, was ich damit meine. Also abhängig vom Strom und andersrum abhängig von der maximalen Außentemperatur geben die einen maximalen Strom an.
+
+(0:11:51 - 0:12:02)
+Was die da gerade meinten mit ihren 14 Ampere, kann man hier dann rübergehen, ist bei 50 Grad Außentemperatur. Das finde ich sehr sinnvoll, weil man ja immer sagen kann, vielleicht wird es ja doch mal wärmer und dann sieht man, ob man noch Puffer hat.

@@ -1,0 +1,179 @@
+(0:00:02 - 0:00:17)
+Los geht's mit warum. Also Motivationsspritze für Tracker-Systeme im Allgemeinen. Erster Punkt und der ist nicht zufällig als erster gewählt worden, weil ich glaube das ist schon der, der am meisten sozusagen pusht.
+
+(0:00:18 - 0:00:45)
+Das ist die Ertragssteigerung. Ich habe mal geschrieben circa 25 Prozent. Das hängt von vielen Parametern ab. 
+
+Da geht es darum, welche Neigungswinkel sind überhaupt möglich, wie sind die Reihenabstände und natürlich ganz wichtig auch, wie ist die Lage, also wo ist überhaupt dieser Tracker installiert worden, auf welchem Breitengrad. Das ist grundsätzlich erstmal interessant. Äquatornah hat das einen höheren Effekt als in den eher ganz weit nördlichen und ganz weit südlichen Breiten.
+
+(0:00:46 - 0:01:24)
+Da sieht man mal so einen typischen Tisch und den haben wir jetzt auch mal hier, wie wir es kennen, aus der Nordhalbkugel, also meinetwegen Europa-Deutschland, dargestellt mit Südausrichtung und dann kennt jeder diese Tagesverlauf-Leistungskurve, die ich hier mal so beispielhaft reinschiebe. Einfach nur die ganz normale PV-Kurve. Oben in der Legende seht ihr das. 
+
+Das ist jetzt gedacht für eine Fixed, also eine festangestellte Position mit Südausrichtung. In der Nordhalbkugel hätte man noch in den Schreiben schreiben können. Jetzt haben wir mal den Tisch gedreht und ein bisschen animiert, um zu zeigen, worum es heute eigentlich geht.
+
+(0:01:25 - 0:01:38)
+Also der Tracker, der kann halt im Gegensatz zur Festinstallation sich bewegen. Die Motoren, die Tracker können den in verschiedene Winkel ansteuern. Da sieht man das mal, dass das jetzt in dem Fall ein einachsiges System geht.
+
+(0:01:39 - 0:02:17)
+Sinnhaft haben wir den jetzt gedreht, also den Tisch in Nord-Süd-Ausrichtung, sodass er dann wiederum sich als Modul ausrichtet nach Ost und nach West. Und das macht er natürlich, weil er dann dem Sonnenverlauf folgen kann. Daher kommt die Ertragsstreichung. 
+
+Hier wird sie beispielhaft in unserem Diagramm dargestellt. Also jetzt hier ein Tracker in Ost-West hätte dann morgens und auch nachmittags größere Flächen, die er an Energie abgreift. Die Fläche der Leistungskurve hier ist dann die Energie und da kann man sehen, dass die Fläche deutlich größer ist als vorher.
+
+(0:02:17 - 0:02:24)
+Also hat man eine Ertragsstreichung. Das Ganze ist nur so beispielhaft dargestellt. Natürlich ist jedes Projekt ein bisschen anders.
+
+(0:02:25 - 0:02:56)
+So, der zweite Grund, warum das so interessant ist bei Trackern, ist, dass man die Produktion an sich auch zusätzlich noch verschiebt. Also wir haben eine Ertragssteigerung, aber zusätzlich, wir machen da mal zwei Pfeile hin, hat man jetzt sozusagen die Erträge eher in die Vormittags- und in die Nachmittagszeiten schieben können. Und das hat jetzt wiederum Auswirkungen, wenn der Strompreis an der Strombörse sozusagen zu unterschiedlichen Tageszeiten unterschiedlich groß ist.
+
+(0:02:57 - 0:03:19)
+Dann kann das ein Vorteil werden, weil wenn wir jetzt unseren gesamten deutschen Strom mit Solarstrom abdecken würden, dann ist klar, dass der mittags quasi billig ist, beziehungsweise vielleicht sogar negative Strompreise erzeugt. Aber umso mehr man aus dieser Mittagsspitze rauskommt, umso besser, weil wertvoller ist ja dann der Strom. Also das ist auch abhängig von sehr vielen Parametern.
+
+(0:03:19 - 0:03:47)
+Deswegen lasse ich das mal so grundlegend stehen, dass das ein Vorteil sein kann, weil man die Produktionsspitzen in den Morgen und in den Nachmittag verschieben kann. Weil man dann die höheren Marktpreise in den Randzeiten erzielt und weil man vielleicht zusätzlich auch noch dem Netz besser dient. Das resultiert dann in günstigeren Strompreisen, weil man die Effiziente besser auslasten kann.
+
+(0:03:48 - 0:04:04)
+Wir haben Gesamtbekommen, dass das bei bifazialen Modulen grundsätzlich einen höheren Effekt hat. Bifazial ist ein anderes Thema, aber das heißt, dass auch diese indirekte Einstrahlung von unten in Energie umgewandelt werden kann. Das funktioniert sozusagen besser, effizienter.
+
+(0:04:05 - 0:04:17)
+Bei Trackersystemen müsste man sich mal die Einstrahlungswinkel genauer angucken. Jetzt glauben wir das einfach mal. So, Äquatornähe ist ein Stichpunkt, weil wir diese Projekte aus der Vergangenheit auch vorwiegend aus Äquatornähe kennen.
+
+(0:04:17 - 0:04:32)
+Da ist das einfach deutlich effizienter. Man kann sich das ein bisschen vorstellen, wenn man jetzt genau auf der Äquatorlinie steht, dann macht die Bewegung, die wir da sind, ja optimiert Sinn. Man kann wirklich eins zu eins dem Sonnenverlauf folgen mit einem einachsigen System.
+
+(0:04:33 - 0:04:49)
+Wenn wir uns das jetzt hier in Berlin in den Hof stellen würden, dann wäre das ja nicht ganz so effizient, weil die Sonne ja immer südlich steht. Sie steht ja nie im Zenit, wir sind überhalb dieses Wendekreises. Dann ist das einfach nicht mehr ganz so effizient, dieses AFRAX-System.
+
+(0:04:49 - 0:05:04)
+Man hat trotzdem eine Ertragssteigerung, aber in Äquatornähe ist sie eben größer und deswegen kennen wir das auch eher aus diesen Ländern, dass das da gebaut wurde. Warum das sich jetzt aber tendenziell ändert, zeige ich ja gleich als nächstes. Also grundsätzlich, Äquatornähe ist ein wichtiger Punkt.
+
+(0:05:04 - 0:05:25)
+Da trifft man ganz viele von solchen Trackern-Systemen. Politische Anreize ist immer so ein Grund gewesen, schon seitdem wir das machen, warum gewisse Systeme überhaupt in den Markt drängen. Ohne die hat es meistens ganz am Anfang nicht richtig funktioniert, aber mit ihnen hat es oft sehr erfolgreich funktioniert.
+
+(0:05:26 - 0:05:43)
+Jetzt gerade in Deutschland, zeige ich als nächstes, kommt über einen politischen Anreiz, nämlich das Agri-PV-System oder die Förderung von Agri-PV, ein politischer Anreiz, der dazu führt, dass mehr Tracker-Systeme gebaut werden. Also das ist eine indirekte Geschichte. Ich zeige es gleich mehr im Detail.
+
+(0:05:43 - 0:06:03)
+Aber wenn wir über politische Anreize sozusagen Agri-PV fördern, dann werden wir gleich sehen, warum dadurch auch mehr Tracker-Systeme zu uns kommen werden. Also nehmen wir mal beide Stichpunkte jetzt erstmal positiv mit. Und jetzt gucken wir uns mal das Agri-PV ein bisschen mehr im Detail an.
+
+(0:06:03 - 0:06:15)
+Also ich würde das als Subkategorie begreifen von Tracker-Systemen an sich. Man kann Agri-PV auch ohne Tracker bauen. Also das hängt jetzt nicht eins zu eins zwangsläufig zusammen.
+
+(0:06:16 - 0:06:43)
+Aber wir werden gleich sehen, warum es, oder in den nächsten ungefähr zwei Stunden, werden wir sehen, warum das bei Agri-PV so sinnvoll ist. Und dann geht es jetzt einfach mal hier weiter mit unserem Agri, das wir hier so beispielhaft mit reingemacht haben, damit man sich das Bild ein bisschen besser vorstellen kann. Also warum brauchen, was sind die Vorteile von Agri-PV? Also für Agri-PV erstmal ganz wichtig, man kreiert eine doppelte Nutzung der Fläche.
+
+(0:06:43 - 0:06:56)
+Ja, man sieht es jetzt im Bild, finde ich ganz gut. Man hat sowohl die Ernte hier der Sonnenblumenkerne als auch einen Energieertrag. Und das ist natürlich immer gut, irgendwelche Sachen zweifach nutzen zu können oder mehrfach.
+
+(0:06:58 - 0:07:28)
+Außerdem wird Agri-PV dazu führen, dass es eine höhere Akzeptanz vor allem dann in den ländlichen Regionen hat. Also vielleicht führt es grundsätzlich zu einer höheren Akzeptanz, aber in den ländlichen Regionen auf jeden Fall, weil da die Leute, also sprich der Landwirt ganz unmittelbar, mehr Teilhabe haben dann grundsätzlich an dieser Energiewende und weil es zu weniger Flächenversiegelung führt. Wir haben grundsätzlich ja bei uns zumindest in Europa schon sehr viel Landwirtschaft angesetzt.
+
+(0:07:28 - 0:07:49)
+Das ist ja auch gut so. Und wenn jetzt aber zusätzlich die Photovoltaikanlagen um Flächen kämpfen, dann hat man da einen natürlichen Konflikt, den man hier hervorragend lösen kann, weil einfach beide Spieler sozusagen auf dem gleichen Spielfeld zusammenspielen können. Der Naturschutz gewinnt auch.
+
+(0:07:49 - 0:08:10)
+Das sieht man auch, wenn man auf so Anlagen läuft. Also die haben dann meistens breitere Abstände. Dadurch gibt es mehr Licht, auch durch die Bewegung der Tracker gibt es mehr Licht und dadurch direkt unter den Modulen mehr Biodiversität als bei festangestellten und sehr eng zusammenliegenden Photovoltaikanlagen.
+
+(0:08:11 - 0:08:23)
+Der Landwirt, der profitiert sogar ziemlich. Also erstmal 90 Prozent der Fläche haben wir uns aus dieser DIN 91434 herausgelesen. Die bleibt für Landwirtschaft.
+
+(0:08:23 - 0:08:47)
+Das ist so festgelegt bei den Agri-PV-Regeln. Insofern hat er da erstmal weiterhin einen sehr großen Anteil an seiner Landwirtschaft, die er ja ganz normal weiter betreiben kann und hat aber zusätzliche Einnahmen durch jetzt sagen wir mal die Solarverpachtung. Also wenn er sich jetzt nicht direkt um die Solaranlage kümmert, sondern das Ganze verpachtet, kriegt er da ja Einnahmen und muss sich aber gar nicht mehr drum kümmern.
+
+(0:08:49 - 0:09:02)
+Das ist so geregelt worden, dass man dann auch die sogenannten Flächenprämien von der EU weiter erhalten kann. Das ist natürlich ein ganz wichtiger Punkt. Das funktioniert in ganz Europa so, dass diese Landwirtschaften unterstützt werden.
+
+(0:09:03 - 0:09:31)
+Hinzu kommt jetzt nochmal immer wieder was Biologisches, was Natürliches, dass diese Landwirtschaftsflächen vor Extremwettern besser geschützt werden. Das ist ja vielleicht auch in Zukunft von dem Klimawandel ausgehen durchaus auch zielführend, nützlich, hilfreich, dass eben die Gelände unterhalb der Module oder in der Nähe besser vor Extremwetter geschützt sind. Und da gehört der Punkt ein bisschen rein.
+
+(0:09:31 - 0:09:40)
+Ich habe ihn aber absichtlich separat genommen, weil ich finde, der ist nochmal sehr eindrücklich. Also man kann nachweisen, dass es weniger Verdunstung gibt. Klar, es gibt ja auch mehr Verschattung.
+
+(0:09:40 - 0:09:53)
+Das ist ja auch wieder bei Extremwettern sozusagen extrem sinnvoll. Man schützt die Pflanzen und muss gleichzeitig auch weniger bewässern. Also hier profitiert der Landwirt auch auf jeden Fall nochmal indirekt.
+
+(0:09:57 - 0:10:05)
+Wir haben symbolisch mal den Tisch umgedreht und einen Tracker da vorgestellt, weil jetzt geht es um die Nachteile. Jetzt haben wir ganz viele Vorteile erklärt. Jetzt geht es aber auch um die Nachteile.
+
+(0:10:05 - 0:10:23)
+Also wer Trackersysteme plant, muss aufpassen, dass das Ganze etwas teurer wird. Die sogenannten Capex, die Installationskosten ungefähr, das ist auch wieder extrem abhängig von dem jeweiligen Projekt, sind zumindest größer. Wir haben mal 25 Prozent hingeschrieben, aber wir hatten ja vorhin auch geschrieben, dass es zu höheren Erträgen führt.
+
+(0:10:23 - 0:10:31)
+Muss man dann gegenrechnen. Es hat auch höhere Betriebskosten. Das sehen wir vor allem in dem Kapitel 2 und 3, also auch später bei Steuerung.
+
+(0:10:32 - 0:10:37)
+Natürlich muss sich der Motor bewegen. Das ist mal das eine. Aber es ist auch gar nicht mehr so trivial, den überhaupt zu steuern.
+
+(0:10:37 - 0:10:49)
+Es gibt verschiedene Betriebsmodi und das muss man alles mit berücksichtigen, prüfen regelmäßig. Das führt zu höheren Betriebskosten. Die Auswahlwahrscheinlichkeit ist definitiv ein Nachteil.
+
+(0:10:49 - 0:11:04)
+Aber, und deswegen haben wir es hingeschrieben, das wurde uns mehrfach versichert, die sind schon sehr, sehr gering. Also kleiner 1 Prozent. Und damit meinen wir explizit jetzt die Motoren, die Antriebe, das Tracker-System an sich.
+
+(0:11:05 - 0:11:20)
+Man kann sich so vorstellen, wenn der jetzt in einer vielleicht eher ungünstigen Position nach Osten steht und der Tracker ausfällt über Wochen, dann hat er ja nicht mehr einen Mehrertrag, sondern sogar einen Minderertrag gegenüber so einer Südausrichtung. Insofern läuft dann alles rückwärts. Das muss man natürlich vermeiden.
+
+(0:11:20 - 0:11:36)
+Aber die sind auch sehr gering, vor allem, wenn man halt bei der Montage genau aufpasst. Die Genauigkeiten sind wichtig, damit die Motoren da gut ineinander greifen oder die Zahnräder. Und klar, man muss die Wartungsanweisungen befolgen, das ist immer so.
+
+(0:11:36 - 0:11:52)
+Aber ich finde, bei diesen rotierenden Teilen sind diese zwei Punkte jetzt noch mal deutlich sinnhafter oder wichtiger zu befolgen, als wenn sich das ganze System nicht bewegt. Dann ist das natürlich nicht so störungsanfällig. Hier eben schon.
+
+(0:11:52 - 0:12:12)
+Also umso mehr darauf achten, dass man die Montage da richtig ausführt und auch die Prüfung richtig macht und das ganze System auch ausreichend wartet, damit die Ausfallwahrscheinlichkeit praktisch gegen Null geht. Und damit würde dann ja auch dieser Nachteil verschwinden. So, man hat auch ein erhöhtes Gefahrenpotenzial in Betrieb.
+
+(0:12:12 - 0:12:25)
+Ich finde, das sieht man jetzt in dem Traktorbild ganz gut. Ich habe es mal fachfremdes Personal genannt. Also der, der da jetzt sein Feld bestellt, ist sicherlich kein Experte für Photovoltaik, vielleicht auch kein Elektriker und demzufolge fachfremd.
+
+(0:12:25 - 0:12:39)
+Das ist auf jeden Fall erhöhtes Gefahrenpotenzial. Naturgemäß, man sieht es ja hier auch ganz gut, sind ja dann der Landwirt und die ihm fachfremde Elektrotechnik sehr eng beieinander. Das birgt natürlich Gefahren.
+
+(0:12:40 - 0:12:51)
+Ja, muss man dementsprechend reagieren. Dann, durch diese Trackersystematik an sich verändert sich ja die Tischposition. Also jetzt auch wieder in dem Beispiel mit unserem 3D-Modell.
+
+(0:12:51 - 0:13:10)
+Wenn jetzt der Tracker sich Regenwesten drehen würde, dann hätte der Tracker sozusagen ein Problem oder andersherum das Modul hätte ein Problem. Das heißt, die sich verändernde Position der Unterkonstruktion ist an sich eine Gefahr. Und es gibt eben auch rotierende Teile, sonst würde es sich nicht bewegen.
+
+(0:13:10 - 0:13:20)
+Das ist vor allem das Zahnrad. Da sage ich jetzt mal so, Hände weg, Hände weg. Aber allein dadurch, dass es dieses Zahnrad gibt und den Motor, der sich bewegt, gibt es nun mal die Gefahr.
+
+(0:13:20 - 0:13:51)
+Dann muss man bitte auch mit großen Warnschildern darauf hinweisen und natürlich das Personal dementsprechend schulen. Sturmschäden sind grundsätzlich natürlich nachteilig, aber bei Agri-PV, und das werden wir später auch sehen, ist die Gefahr größer, dass es zu Sturmschäden kommt. Das kommt halt daher, dass sich diese Tracker ja nun mal bewegen und dann könnten die ja ungünstig in Windrichtung sich positionieren und sind darauf nicht statisch ausgelegt, also in diese Worst-Case-Szenarien.
+
+(0:13:52 - 0:14:03)
+Deswegen sind diese Sturmschäden eine zusätzliche Gefahr. Achtung, ist ein Nachteil. Beides nebeneinander gelegt, sieht dann ungefähr so aus.
+
+(0:14:03 - 0:14:32)
+Und ich habe das deshalb gemacht, weil, naja, für den, der jetzt hier einmal zugehört hat, reicht ja vielleicht die Übersicht, wenn das nächste Projekt losgeht und er sich nochmal überlegt, warum brauche ich das jetzt überhaupt, den Tracker, dann reicht das ja vielleicht so als Zusammenfassung. Und weil ich unbedingt das reinbringen wollte, wir haben hier das Gefühl, es gibt einen positiven Trend Richtung Tracker-Systeme. Deswegen ist ja hoffentlich auch die Frage, warum jetzt beantwortet, warum man sich dieses Modul jetzt hier anhören soll, bitte unbedingt auch weiterhin die nächsten Kapitel.
+
+(0:14:33 - 0:14:59)
+Es werden unserer Meinung nach mehr Tracker-Systeme auch in unseren Breitengraden gebaut werden, weil die Vorteile überwiegen, weil die Nachteile sich reduzieren. Und wir haben es hier nicht hingeschrieben, aber das ist immer so, weil wenn erstmal so ein Trend losläuft, dann gibt es eine enorme Kosteneffizienz, allein durch die Masse an Anlagen, die dann gebaut werden. Die Tracker werden billiger werden, die Elektroplaner werden besser wissen, was sie da machen müssen.
+
+(0:15:00 - 0:15:13)
+Dadurch weniger Fehler entstehen, dadurch die Projekte schneller abgewickelt werden. Also positiver Trend zu den Tracker-Systemen. Letzter Punkt für das Warum.
+
+(0:15:14 - 0:15:33)
+Was beachten wir Planer jetzt? Das ist genau das, was wir jetzt in den nächsten Kapiteln auch machen werden. Also Achtung, Tracker und Tisch ist für mich nicht das gleiche Wort, das lasse ich jetzt erstmal so stehen, sondern der Tracker kann aus verschiedenen Tischen bestehen. Vermeintlich Ausrichtung bei einachsigen Systemen Ost-West.
+
+(0:15:33 - 0:15:49)
+Darauf bitte achten. In meinem Kopf ist meistens die Südausrichtung immer so wichtig gewesen, das würde sich dann ändern. Freifläche ist für mich erstmal das Ziel und nicht die Dächer, da ist das mit der Statik schwieriger, mit dem Stürmen schwieriger, ist nicht geeignet, haben wir geschrieben.
+
+(0:15:49 - 0:15:57)
+Also Fokus Freifläche. Wir müssen zusätzliche Komponenten beachten und dementsprechend auch planen. Genau das machen wir jetzt ja gleich.
+
+(0:15:57 - 0:16:18)
+Die Spannungsversorgung der Motoren schauen wir uns an. Die USV ist wichtig, die hat eine andere Dimension, ja ehrlich gesagt jetzt hier bei der Auslegung, die wir beachten müssen. Und die Kommunikation damit ist gemeint, wie steuern wir die Tracker an, aber auch was machen die dann eigentlich, wie sollen sie denn eigentlich gesteuert werden, wie sollen sie reagieren.
+
+(0:16:19 - 0:16:43)
+Das sind Kapitel, die jetzt im Anschluss dann einzeln betrachtet werden. Bei der Inbetriebnahme auch, ganzes Kapitel kriegt das, weil die komplexer ist und dann haben wir noch aufgeschrieben, ja achtet drauf, wenn ihr die E-Bögen ausfüllt, die schickt man ja in Deutschland zumindest dem Netzbetreiber als Anmeldung. Und da wird auch nach dem Eigenverbrauch gefragt und der ist jetzt hier mal deutlich höher.
+
+(0:16:43 - 0:17:14)
+PAVB heißt der in den Bögen, weil diese Tracker-Motoren einfach deutlich mehr Leistung ziehen, als das Monitoringsystem oder die Trafos an Eigenverlusten haben. Dann achten wir als Besonderheit noch auf die Anforderungen vom Landwirt und auch Regulatorien, die gibt es mittlerweile und das hat viel zu tun mit Abständen, mit Flächen, die da benutzt werden müssen für Agri-PV. Nur dann zählt es auch als Agri-PV und das wäre die letzte Besonderheit gewesen.
+
+(0:17:15 - 0:17:26)
+Jetzt habe ich mal noch so ein Bild im Hintergrund gestellt. Wir haben auch noch die 360-Grad-Tour, aber jetzt finde ich gleich am Anfang mal, dann sieht man mal wie cool das ist. Die Doppelnutzung wird glaube ich deutlich.
+
+(0:17:27 - 0:17:48)
+Wer später im Kapitel aufpasst, wird dann denken, der hat hier einen Fehler gemacht. Man würde im Grunde die Tische nicht in dieser Position halten, damit der Traktor da mähen kann, sondern dafür gibt es sogenannte Agri-PV-Stellungen, die jetzt im Bild nicht dargestellt wurden. Kommt später noch, aber jetzt hat man zumindest mal den Eindruck gehabt, wie cool das sein kann, den Traktor dazwischen die Module durchfahren zu lassen.
+
+(0:17:50 - 0:17:52)
+Genau, das war das Kapitel Warum.

@@ -1,0 +1,361 @@
+(0:00:01 - 0:00:36)
+Weiter geht es mit dem nächsten Kapitel, Spannungsversorgung. Spannungsversorgung ist deswegen in diesem Tracker-Metier so ein wichtiges Kapitel für jeden Elektroplaner, weil ohne die Spannungsversorgung der Tracker, das ist damit gemeint, ohne die Spannungsversorgung der Motoren können diese sich nicht bewegen. Also ganz wichtiger Unterschied gegenüber so einer standardmäßigen, festfixierten, ich fang nochmal neu an, wie heißt das denn, festverständet, da ist doch kein Wort.
+
+(0:00:38 - 0:00:56)
+Fixed tilt, eine feste Montage, Festsystem. Na gut, okay, nächster Versuch. Weiter geht es mit dem nächsten Kapitel, Spannungsversorgung.
+
+(0:00:57 - 0:01:02)
+Das hat ein bisschen gehakt, also nochmal. Wenn es lange wäre, würde es endlich gut. So, dritter Versuch.
+
+(0:01:03 - 0:01:17)
+Weiter geht es mit dem Kapitel Spannungsversorgung. Im Kontext von Tracker-Systemen ist dieses Kapitel ganz wichtig. Es ist ein ganz wichtiger Unterschied zu festverständeten Systemen.
+
+(0:01:18 - 0:01:43)
+Bei Tracker-Systemen muss man natürlich die Motoren mit Spannung versorgen, damit die sich dann überhaupt bewegen können. Wenn wir das als Elektroplaner verpassen, das uns richtig im Vorfeld anzugucken, dann verlieren wir natürlich ein Grundelement von dieser ganzen Tracker-Systematik. Okay, was gucken wir uns hier an? Erstmal haben wir es genannt AC-Versorgung.
+
+(0:01:43 - 0:01:54)
+Ich lege gleich das Schaubild nochmal unten drunter. Das kennen wir jetzt ja schon so und wir haben es jetzt nochmal ausgegraut, was jetzt in dem Kapitel nicht so relevant ist. Und dann sieht man da in hellblau erstmal so einen Hiss-Spannungstransformator.
+
+(0:01:54 - 0:02:10)
+Dann sieht man auch eine USV, kommen wir später nochmal im ganzen Kapitel dazu. Dann so eine NSRV, also eine Niederspannungsverteilung, die das dann ins Feld verteilt. Und dann über die Unterverteilung kommt das also zur TCU, zur Tracker Control Unit, womit unser Motor angesteuert wird.
+
+(0:02:10 - 0:02:17)
+Das wäre so eine AC-Versorgungslogik. Jetzt gucken wir uns dagegen gestellt so eine DC-Versorgung an. Gibt es auch.
+
+(0:02:18 - 0:02:32)
+Verschiedene Hersteller, meiner Erfahrung nach, bieten da einfach verschiedene Systeme an. Wie würde so eine DC-Versorgung aussehen? Da gibt es jetzt erstmal hier auch so ein kleines Schaubild und da ist schon viel mehr ausgegraut. Man sieht nur noch unten ein PV-Modul.
+
+(0:02:32 - 0:02:41)
+Wie, sehen wir gleich nochmal besser im Detail. Und dann über eine USV den Motor angesteuert. Aber man sieht schon, diese ganze AC-Seite ist jetzt nicht mehr erforderlich.
+
+(0:02:42 - 0:02:50)
+Und das sehen wir später auch nochmal in so einer Überstellung vor und Nachteile. Das ist natürlich schon gleich auch der riesige Vorteil. Viel weniger Materialaufwand, kommt aber später.
+
+(0:02:50 - 0:03:04)
+Jetzt erstmal noch im Detail beschrieben. Wir haben reingezoomt, damit man es nochmal ein bisschen besser sehen kann. Also bei der AC-Versorgung brauchen wir vor allem ein Hilfstrafo an der Transformatorstation.
+
+(0:03:04 - 0:03:18)
+Das ist ganz wichtig. Wir brauchen ja sehr viel Niederspannung, die wir dann im Feld verteilen zu den einzelnen Motoren. Und bei der DC-Versorgung hingegen, also bei AC wäre es aus unserer Sicht eine Variante, die man sich da so groß angucken kann.
+
+(0:03:18 - 0:03:28)
+Und bei der DC-Versorgung aber mehrere. Deswegen lassen wir die hier einfach nochmal kurz auf. Einmal, kenne ich so, habe ich auch schon gesehen, man nimmt tatsächlich ein Modul von dem Tisch.
+
+(0:03:29 - 0:03:38)
+Das Modul ist ja eh da. Und dann hier würde man das so anschließen, Plus und Minus an unseren Motor. Hat natürlich den Nachteil, dass man das Modul jetzt nicht mehr für unseren String nehmen kann.
+
+(0:03:39 - 0:03:47)
+Finde ich also eher unpraktisch, muss ich sagen. Dann kann man auch einen ganzen String nehmen. Dann ist wenigstens irgendwie alles gleich aufgebaut.
+
+(0:03:47 - 0:03:58)
+Aber Nachteil ist natürlich, man verliert jetzt einen ganzen String. Das würde in der Logik dazu führen, man hatte jetzt hier viel mehr Leistung, dass man auch einen viel größeren Motor anschließen kann, betreiben kann. Also braucht man jetzt vielleicht nur noch einen.
+
+(0:03:59 - 0:04:11)
+Das ist eine ganze ewig lange Tischreihe mit vielen, vielen Strings. Und diese Ein-Tisch-Modul-Logik, da kann man natürlich nur einen relativ kleinen Tisch vielleicht mit nur einem String bewegen. Das muss man sich dann im Detail angucken.
+
+(0:04:11 - 0:04:25)
+Aber die dritte Variante, die würde, sage ich mal, die Nachteile von beiden Systemen hier eins und zwei aushebeln oder hat also den Vorteil, dass es sehr autark zu betrachten ist. Man baut ein kleines zusätzliches Modul ein. Zeige ich hier mal.
+
+(0:04:26 - 0:04:36)
+Genauso wird das auch gemacht. Man hat dann so Lücken zwischen den einzelnen Tischreihen und da kann man einfach nochmal ein zusätzliches kleines Modul einbauen. Das ist dann nur für die Versorgung von dem Tracker-Motor vorgesehen.
+
+(0:04:37 - 0:04:54)
+Wird auch so dimensioniert und hat jetzt natürlich diesen entscheidenden Vorteil, dass man die ganzen Module, die man für die Strings einsetzt, unberührt lässt. Also kann man ein schön symmetrisches String-System weiterhin aufbauen. Das wäre erstmal so eine Gegenüberstellung von AC- und DC-Versorgung.
+
+(0:04:55 - 0:05:10)
+Da ist die Verbindung von unserem zusätzlichen Modul. Jetzt gucken wir uns mal die AC-Versorgung an. Über mir liste ich jetzt gleich mal so eine ganze Reihe an Komponenten auf, die wir jetzt nach und nach dimensionieren müssen.
+
+(0:05:10 - 0:05:23)
+Und dann fangen wir mal an mit dem Kabel. Also das Kabel, das die Tracker-Motoren mit Energie versorgt. Im ersten Schritt brauchen wir dafür eine Länge, die wir messen müssen.
+
+(0:05:24 - 0:05:35)
+Das ist erstmal gar nicht so schwierig, ehrlich gesagt. Das Schwierige ist vielleicht eher, dass man sich das optimale System, das optimale Design raussucht. Und wie man das angeht, zeigen wir jetzt hier mal so grob.
+
+(0:05:35 - 0:05:54)
+Und dann muss das einfach jeder mal selber ausprobieren und anlagenspezifisch dann sein Optimum finden. Also wir haben hier mal sechs Tracker-Tische aufgezeichnet. Und jetzt kommt hier als nächstes noch die Motoren mit rein oder die TCUs, die direkt neben den Motoren liegen.
+
+(0:05:55 - 0:06:03)
+Und da müssen wir jetzt irgendwie hin mit unserer Spannungsversorgung. Starten müssen wir immer bei der Transformator-Station. Da kommt das bei der AC-Versorgung ja her.
+
+(0:06:03 - 0:06:16)
+Und da haben wir auch so eine kleine eben NSHV eingezeichnet und vielleicht noch so einen Wartungsweg. Der ist jetzt aber für unser Beispiel gar nicht so relevant. Mehr so, dass man sich geografisch später vorstellen kann, wie jetzt diese Anordnung so ist.
+
+(0:06:17 - 0:06:30)
+Jetzt zeige ich einfach mal eine Variante. Variante 1 habe ich sie genannt. In der Variante 1 verbinde ich jetzt einfach mal zwei Linien von der NSHV zu diesen sechs Tracker-Motoren.
+
+(0:06:30 - 0:06:37)
+Das geht so, zack, zack. Könnte man beispielhaft so machen. Jetzt hätte ich drei Tracker pro Linie.
+
+(0:06:40 - 0:06:55)
+Und zeige euch einfach noch eine zweite Variante. Es gibt sicherlich noch mehr, aber das sind jetzt mal zwei gegenübergestellte Varianten. Wenn man die sozusagen verinnerlicht hat, dann kann man sich in der gleichen Logik all seine eigenen Varianten, die vielleicht noch viel besser sind, selber überlegen.
+
+(0:06:55 - 0:07:03)
+Also in der zweiten Variante mache ich es jetzt so. Achtung, ich zeichne das gleich mal ein, dass ich alle sechs jetzt mit einer Linie einsammle. Zack, zack, zack.
+
+(0:07:03 - 0:07:15)
+Dann ist die natürlich insgesamt für sich gesehen ein bisschen länger. Aber dafür habe ich jetzt alle sechs Motoren mit einer Linie eingesammelt. Also sechs Tracker-Motoren in einer Linie.
+
+(0:07:15 - 0:07:29)
+Was da dann ein Nachteil ist, deswegen diese sechs Tracker anstatt drei, zeige ich später noch. Man muss ja jetzt die ganze Energie für alle sechs Tracker durch ein Kabel drücken. Bei der Variante 1 brauche ich ja nur die Hälfte.
+
+(0:07:29 - 0:07:46)
+Also drei Tracker über ein Kabel versorgen. Okay, wie auch immer mit Daumen hoch und Daumen runter, haben wir da jetzt erstmal grundsätzlich gegenübergestellt, dass ich in der ersten Variante mehr Kabel brauche als in der zweiten. Das liegt einfach daran, dass die dann teilweise ja parallel nebeneinander liegen.
+
+(0:07:47 - 0:08:20)
+Wenn das jetzt nicht ganz so supergut wie hier aufgebaut ist, sondern irgendwie weiter weg, dann sind das teilweise sehr lange Strecken, in denen diese verschiedenen Linien dann parallel zueinander liegen und überall da, wo Kabel parallel liegen, erhöhen sich die Kabelstrecke logischerweise. Also das ist ein Nachteil bei der Variante 1 und ein Vorteil von der Variante 2. Genau gegenläufig wird es dann aber beim Kabelquerschnitt sein. Das machen wir dann ja auch gleich noch, aber umso mehr Motoren ich für ein Kabel einsammle, umso mehr Strom fließt dadurch, umso dicker muss das Kabel werden, umso größer wird der Querschnitt.
+
+(0:08:21 - 0:08:40)
+Das heißt, Variante 2 hatten wir ja die doppelte Tracker-Anzahl. Da werde ich dann auch dementsprechend einen höheren Kabelquerschnitt brauchen und deswegen an der Stelle Kabel nach unten. Das ist eigentlich immer so in unserem Elektroplanerlegen, glaube ich, dass also die Kabellänge sozusagen sich ein Boxduell liefert mit dem Kabelquerschnitt.
+
+(0:08:40 - 0:09:08)
+Und jetzt kann man, wie gesagt, da hin und her spielen, noch mit vielen weiteren Varianten und das Optimum für sich selbst suchen. Lange Kabelstrecken kosten natürlich Geld, aber größerer Querschnitt kostet auch mehr Geld und irgendwo liegt das Optimum. Gut, wenn man sich das jetzt angeguckt hat und sich in unserem Beispiel für die Variante 2 entschieden hat, dann mag das ja jetzt vielleicht nur ein kleiner Teil sein von diesen ganzen Trackern, die da von einer Transformatorstation aus angesteuert werden.
+
+(0:09:09 - 0:09:25)
+So könnte es ungefähr aussehen, jetzt mit allen 6, 12, 18, 24 Motoren, die an einer Station angeschlossen sind. Und was macht man dann? In unserem Fall ist es ziemlich simpel, ehrlich gesagt, weil es symmetrisch ist. Man geht einfach hier mit einer 2. Linie in den unteren Bereich.
+
+(0:09:25 - 0:09:36)
+Ich mache den mal hier farblich ein bisschen blau. Dann habt ihr gesehen, vielleicht ist die Anzahl der Linien jetzt erhöht worden von 1 auf 2. Das Gleiche machen wir jetzt rechts oben auch. Jetzt machen die Wartungswege auch mehr Sinn.
+
+(0:09:36 - 0:09:52)
+Und dann haben wir hier so einen grünen Bereich und schon haben wir 3 Linien. Und dann sammeln wir uns noch den letzten Brocken auch noch mit ein in Gelb. Und jetzt haben wir also in unserer Variante 4 Linien und jede Linie hat in unserem Beispiel 6 Tracker pro Linie.
+
+(0:09:53 - 0:10:04)
+Wenn wir das erstmal gemacht haben, haben wir einen guten Startpunkt für das, was als nächstes kommt. Aber dieser Punkt, dieser erste Schritt, Festlegung der Kabellänge, wird dann erstmal abgeschlossen. Mache ich jetzt in meinem Beispiel nicht.
+
+(0:10:04 - 0:10:23)
+Das müsst ihr dann bitte selber machen, dass man jetzt diese 4 Linien, die Längen misst und sich das mal aufschreibt. So, wenn wir das gemacht haben, müssen wir diese Kabel dann auch dimensionieren. Oft ist das auch so eine zyklische Bewegung, so ein zyklischer Ablauf, den man da als Elektroplaner hat.
+
+(0:10:23 - 0:10:39)
+Also wenn ich jetzt die Kabel dimensionieren und feststelle, dass irgendwie passt das aber nicht so gut, dann muss ich vielleicht mein System wieder ändern. Dadurch ändern sich die Kabellängen und dann auch wieder die Kabeldimensionierung. Aber gut, wir machen es jetzt einmal durch und sagen, dann haben wir das Optimum gleich beim ersten Versuch sozusagen erreicht.
+
+(0:10:40 - 0:10:54)
+Eine Kabeldimensionierung selbst haben wir in einem anderen Modul sehr, sehr genau erklärt, wie es gemacht wird. Deswegen zeige ich es hier relativ schnell zusammengefasst. Grundsätzlich erstmal würde ich mir so eine Tabelle aufbauen, wie ich das hier auch mache.
+
+(0:10:54 - 0:11:17)
+Und jetzt erstmal oben habe ich es auch leicht weiß dargestellt. Erstmal einen Kabelabschnitt, ganz wichtig, nicht die ganze Linie, sondern jetzt nur einen Abschnitt mir heraussuchen zwischen Tracker 1.6 bei mir bis Tracker 1.5. Nur diesen Abschnitt. Dieser Abschnitt versorgt nur den Tracker 1.6. In unserem Beispiel hat so ein Tracker jetzt 700 Watt.
+
+(0:11:17 - 0:11:25)
+Das müsst ihr euch schon selber raussuchen. Vielleicht sind eure Motoren kleiner, vielleicht sind sie aber auch größer. Also dieser Wert ist ganz wichtig, weil der beeinflusst jetzt die ganze Kette.
+
+(0:11:26 - 0:11:41)
+Und jetzt sagen wir also, ein Tracker braucht 700 Watt. Also wird in diesem Abschnitt 1.6 bis 1.5 genau diese 700 Watt mit beispielsweise 230 Volt benötigt. Daraus rechnet man relativ einfach aus.
+
+(0:11:41 - 0:11:48)
+Einen Strom, 3 Ampere brauchen wir. Und jetzt sage ich, nehme ich Kupfer, mache ich das einfach mal so mit 6 Quadrat. So sehe ich das jetzt einfach mal vor.
+
+(0:11:49 - 0:12:10)
+Diese Zahlen sind so ein bisschen versetzt zueinander, weil jetzt hier die anderen fünf Abschnitte noch kommen. Als nächstes, ich habe es oben weiß auch gehighlighted, der zweite Abschnitt sozusagen 1.5 zu 1.4. Und der, ganz wichtig, deswegen mache ich das hier auch so detailliert oder so langsam, so kleinteilig, der hat jetzt die doppelte Leistung. Also 1.400 Watt.
+
+(0:12:10 - 0:12:26)
+700 Watt sozusagen vom Tracker 1.5, aber auch ja schon 700 Watt von dem Tracker davor 1.6. Also doppelte Leistung. Und jetzt ist, glaube ich, klar, worauf wir da hinaus wollen. Wenn man jetzt so weitermacht, wird das natürlich immer mehr.
+
+(0:12:26 - 0:12:44)
+Hier sind es schon 2.100 Watt, 2.800 Watt, 3.500 Watt. Und im letzten Abschnitt, der dann zur NSHV geht, da hat man die gesamte Leistung von allen Motoren gesammelt, 4.200 Watt. Demzufolge auch ein Strom von 18 Ampere.
+
+(0:12:45 - 0:13:02)
+In meinem Beispiel habe ich das ganz bewusst so gemacht, dass ich jetzt da auch in den letzten 2 Abschnitten einen anderen Kabelquerschnitt genommen habe. Seht ihr auch gleich, warum nicht in diesem Schritt jetzt, weil da bei Kabeldimensionen ja gleich jetzt noch fertig gemacht wird, ist das gar nicht so relevant. Aber beim nächsten, das ist dann der Spannungsfall.
+
+(0:13:02 - 0:13:12)
+Da wird es interessant. Aber dann habe ich hier schon mal darauf hingewiesen, dass ich das schon absichtlich so gemacht habe. Ich würde es in meinen Projekten vermeiden, wenn es irgendwie geht, weil das natürlich etwas komplizierter ist zu planen und dann auch auszuführen.
+
+(0:13:13 - 0:13:33)
+Aber vom Grundsatz kann man das machen, weil eben vor allem in den unteren Teilschritten dann ja höhere Ströme fließen. Und wenn man dann größere Querschnitte nimmt, dann verringert man die Spannungsabfälle. Und weil ich eben zwei verschiedene Querschnitte genommen habe, muss ich mir jetzt auch zwei Stromwerte anschauen.
+
+(0:13:33 - 0:13:39)
+Weil ich muss ja jetzt zwei verschiedene Kabeltypen dimensionieren. Sechs Quadrat und zehn Quadrat. Ich nehme immer den größten Strom im jeweiligen Abschnitt.
+
+(0:13:40 - 0:13:48)
+Zwölf Ampere und 18 Ampere seht ihr da. Und dann sind das die üblichen Formeln. Mit haben wir oben auch mit eingeblendet, mit diesen Faktoren zur Reduzierung.
+
+(0:13:48 - 0:13:54)
+Und die suche ich mir dann bei meinem Projekt raus. Habe ich hier mal so Beispiele angegeben. Häufung vier Kabel.
+
+(0:13:54 - 0:14:12)
+Das liegt daran, dass wir ja da vier Kabel vor der NSHV in unserem Beispiel zusammen sammeln. Und wenn ich jetzt mit diesen ganzen Normentabellen mir meine Werte da raussuche, dann kommen diese zwei Ergebnisse dabei raus. Und ihr seht schon, die 41 Ampere und auch die 55 Ampere sind deutlich größer.
+
+(0:14:13 - 0:14:30)
+Also meine Strombelastbarkeit der Kabel, die Querschnitten, die ich hier gewählt habe, ist weit über dem, was ich da links eingekreist habe, nämlich meine Nennströme. Also kann ich da oben bei dem Schritt zwei Kabeldimensionierung einen grünen Daumen nach oben setzen. Meine Kabel sind ausreichend dimensioniert.
+
+(0:14:30 - 0:14:40)
+Und dann gehe ich weiter zum dritten Schritt und lasse die Tabelle einfach so stehen. Habt ihr hoffentlich gesehen. Das ist die gleiche Tabelle.
+
+(0:14:40 - 0:14:58)
+Und da kann ich gleich die nächste Bewertung machen, nämlich diesen Gesamtspannungsfall, von dem ich da schon gesprochen habe. Nehmen wir einfach gleich mit in die Tabelle mit rein und überlegen uns aber vorher eigentlich das Limit. Was ist denn überhaupt mein Limit? Also mein maximaler Spannungsfall, den ich hier überhaupt in Summe haben darf.
+
+(0:14:58 - 0:15:10)
+Und dann würde ich so machen, dass ich ins Motordatenblatt gehe und schaue, bis zu welcher Spannung der Motor denn überhaupt noch anlaufen würde. Man muss sich das so vorstellen. Der Motor ist ja ein Verbraucher.
+
+(0:15:10 - 0:15:24)
+Also wird am Motor eine niedrigere Spannung sein als an der Quelle, dem Hilfstransformator. Über den Spannungsfall kann man sich die Differenz ausrechnen. Und dann wird also am Motor eine niedrigere Spannung sein als zum Beispiel 230 Volt beim Trafo.
+
+(0:15:25 - 0:15:33)
+Bei meinem Motor wird es dann weniger sein. 10%, das wären dann 23 Volt. Also, oh Gott, 207 Volt.
+
+(0:15:33 - 0:15:46)
+Und wenn jetzt in meinem Motordatenblatt steht, dass der auch bei 200 Watt noch läuft, dann ist ja erstmal alles in Ordnung. Und genau so würde ich da herangehen. Also sagen wir mal 10% und rechnen uns das jetzt hier nochmal aus.
+
+(0:15:47 - 0:15:53)
+Dafür brauche ich die Kabellänge. Die haben wir ja im ersten Schritt uns schon rausgemessen. Also haben wir die jetzt alle.
+
+(0:15:53 - 0:16:10)
+Und Achtung, da bitte die einzelnen Teilabschnitte beachten. Nicht jetzt irgendwo oben schon die ganze Summe einsetzen, sondern hier für jeden Abschnitt eine separate Kabellänge eintragen. Und dementsprechend, da ist es, auch für jeden Abschnitt einen eigenen Spannungsfall ausrechnen.
+
+(0:16:11 - 0:16:33)
+Also oberste Zeile, 0,11%, ist der Spannungsabfall vom Tracker 1.5 bis zum Tracker 1.6. Und jetzt muss ich aber da aufpassen, dass ich mir unten nochmal die Gesamtsumme daraus ausrechne. Das mache ich nur bei diesem Spannungsfall. Bei den Verlusten würde ich es auch machen, aber das ist sehr ähnlich in der Logik.
+
+(0:16:33 - 0:16:45)
+Also schaut euch die Summe unten an. Und 3,47%, das ist der Wert, auf den ich hinaus will. Und jetzt wird hoffentlich auch klar, warum ich in meinem Beispiel letztlich mal 10 Quadrat unten genommen habe.
+
+(0:16:45 - 0:17:02)
+Weil eben da unten bei diesen höheren Leistungen auch die Strecke 60 Meter dann einen viel höheren Einfluss hat auf diesen Spannungsfall als die ersten Abschnitte. Und deswegen habe ich zwei verschiedene Querschnitte gewählt. So, 3,47% ist kleiner als 10%.
+
+(0:17:02 - 0:17:09)
+Ein grüner Daumen geht nach oben. Hätten wir das also auch geschafft. Da haben wir es nochmal beispielhaft dargestellt.
+
+(0:17:09 - 0:17:29)
+So wird so ein Kupfer dreiartig zum Beispiel aussehen. So, dann graue ich mal das Kabel von meinem Tracker oben aus und nehme die nächste Komponente in meiner Logik. Die Sicherung, und zwar die Sicherung für jede von diesen einzelnen Kabeln, von diesen Tracker-Kabeln.
+
+(0:17:30 - 0:17:50)
+Dazu habe ich jetzt hier mal diese Niederspannungsverteilung rausgesumt und von unten jetzt einpolig, schematisch meine Tracker-Linien, diese vier Stück, die ich jetzt gerade gesammelt habe, vom Tracker 1.1 bis 4.6 dargestellt. Und die gehen jetzt in meine Verteilung rein. Da haben wir meine 6 Quadrate und meine 10 Quadrate.
+
+(0:17:50 - 0:18:02)
+Und jetzt muss ich die richtig absichern. Und zwar erstmal, deswegen habe ich das hoffentlich auch sehr klar, sehr deutlich hier gemacht, einphasig absichern. In der Verteilung haben wir jetzt alle drei Phasen.
+
+(0:18:02 - 0:18:12)
+Aber unsere Kabel sind erstmal noch einphasig ausgelegt. Und die Sicherung gucken wir uns an. Haben wir auch in dem Modul Schaltgeräte, glaube ich, sehr deutlich oder sehr ausführlich gemacht.
+
+(0:18:12 - 0:18:24)
+Ich zeige es hier nochmal. Von der Logik her nimmt man sich einen Faktor, zum Beispiel 30 % und multipliziert das auf den Betriebsstrom. Dann hat man so ein bisschen Puffer bis zu einem Nennstrom der Sicherung.
+
+(0:18:24 - 0:18:37)
+Man sollte das nicht gleich machen, sondern schon so einen Puffer zur Sicherung hinhalten. Und dann muss aber der Dauer Strombelastbarkeit von dem Kabel auch nochmal größer sein als diese Sicherung. Die Tabelle haben wir uns schon erarbeitet.
+
+(0:18:37 - 0:18:48)
+Deswegen suchen wir uns da jetzt nur einmal den maximalen Stromwert raus. Den nehmen wir, den maximalen. Dann nehmen wir hier noch das Kabel raus.
+
+(0:18:48 - 0:18:58)
+Dann kommen wir hier auf die 1,3 x 18,26. Die Sicherung da drin muss wiederum das kleinere Kabel schützen. Also die 6 Quadrat.
+
+(0:18:58 - 0:19:09)
+Und das waren die 41,2 Ampere, die wir da vorhin im Schritt 2 dafür ausgerechnet haben. Da dazwischen muss meine Sicherung liegen. Da haben wir schon die Lösung.
+
+(0:19:09 - 0:19:21)
+25 Ampere passt wunderbar dazwischen. Also wieder Daumen hoch. Unsere Sicherung für eine Linie, eine von diesen vier Linien, würden wir jetzt mit 25 Ampere dimensionieren.
+
+(0:19:22 - 0:19:26)
+Super. Wieder war es geschafft. Nächster Schritt.
+
+(0:19:26 - 0:19:34)
+Innerhalb von dieser Niederspannungsverteilung wird es auch eine Hauptsicherung geben. Die ist jetzt dreiphasig. Und die sammelt ja alle Systeme ein.
+
+(0:19:34 - 0:19:43)
+Also brauchen wir da auch eine andere Bewertung. Aber vom Grundsatz her wieder 30 % auf meinen Betriebsstrom drauf. Und jetzt kommt er nur von der anderen Stelle.
+
+(0:19:43 - 0:20:04)
+Achtung, da unten nehmen wir jetzt erstmal diese 4200 Watt, die wir ja da von der Linie als Maximalwert uns ausgerechnet haben. Zack, schieben wir nach oben und erstellen daraus jetzt nochmal eine zweite Tabelle. Ich mache das auch tatsächlich so, dass es dann zwei Excel-Sheets sind oder vielleicht auch zwei Excel-Tabellen.
+
+(0:20:05 - 0:20:14)
+Und in dieser zweiten Tabelle sammle ich jetzt nur das Ende dieser Linien ein. Also da, wo die meiste Belastung drauf ist. Und wir hatten es ja vorhin aufgezeichnet.
+
+(0:20:14 - 0:20:20)
+Wir hatten ja da vier Teilblöcke, also vier Linien. Und die sind bei mir jetzt sehr, sehr gleich. Deswegen kommt da auch überall das Gleiche raus.
+
+(0:20:21 - 0:20:29)
+Es sind ja immer Sechser-Teams. Die haben auch die gleichen Abstände, also die gleichen Kabellängen, das gleiche Material. Deswegen kommt da überall der gleiche Strom raus.
+
+(0:20:30 - 0:20:46)
+Und die Summe, die schreibe ich hier einfach nochmal unten raus. 16,8 Kilowatt und jetzt 400 Volt, weil das ganze System ja dreiphasig ist. Und dann komme ich auf einen Strom von 24,25 Ampere.
+
+(0:20:46 - 0:21:08)
+Ich finde das immer gut, sich selbst da nochmal zu hinterfragen, ob man das, in dem Fall finde ich ja ein Wunder, der Elektrotechniker an der Stelle dann auch richtig eingesetzt hat. Also das dreiphasige System sorgt ja dafür, dass dieser Strom an der Stelle nur 30 Prozent größer ist. Dabei habe ich ja die vierfache Leistung eingesetzt.
+
+(0:21:08 - 0:21:29)
+Also das passt bei uns. 24 Ampere, gar nicht so viel größer als die 18 Ampere pro Linie. Und dann setze ich das oben, diese 24,25 Ampere oben in meine Formel wieder ein, hol mir wieder diesen 30-Prozent-Pulsar und komme dann in meinem Fall jetzt auf eine Sicherung von 35 Ampere.
+
+(0:21:30 - 0:21:49)
+Daumen hoch habe ich meine Hauptsicherung in meiner Niederspannungsverteilung auch richtig dimensioniert. Als nächstes kommt meistens nochmal so ein kurzes Kabelabschnitt. Also gibt es immer zwischen der NSRV und dann wiederum dem Hilfstrafo, der, so kenne ich das, immer in der Transformatorstation verbaut ist.
+
+(0:21:49 - 0:22:19)
+Aber auf dieses Kabel muss man auch noch aufpassen, vor allem wenn man die NSRV außerhalb von der Station verbaut hat und dann ja selber dafür verantwortlich war, dass die richtig ausgeführt wird. Die Kabeldimensionierung führen wir wiederum mit dieser Gesamtleistung aus und dem daraus resultierenden Gesamtstrom, also den 24 Ampere. Ich habe da jetzt eine 16 Quadrat und mache das jetzt auch so wirklich zügig, weil alleine jetzt in dem Kapitel haben wir es ja schon einmal gut gemacht und in einem anderen Modul ja auch noch wahrscheinlich eine halbe Stunde lang drüber geredet.
+
+(0:22:20 - 0:22:54)
+Also holt euch die richtigen Faktoren, setzt sie an der Stelle ein und dann kommt man jetzt in meinem Fall auf ein Kabel von eben 16 Quadrat, das ich da angenommen habe, Kupfer, auf ein Ergebnis von 89 Ampere und wenn ich das einsetze, dann passt mein Kabel erstmal. Wichtig war in dem Kontext, dass man die Gesamtleistung nimmt von allen vier Linien, weil ich ja jetzt meinen Strom hier gesammelt zum Hilfstrafo führe. Kommt als nächstes die Hauptsicherung da drin.
+
+(0:22:54 - 0:23:07)
+Also in meiner Trafostation habe ich dann auch wieder eine Sicherung und das mache ich jetzt wieder genau wie vorhin mit meinen 30 Prozent. Habe ich auch jetzt glaube ich schon dreimal erklärt, aber okay, so ist es halt. Also wiederholt sich nun mal.
+
+(0:23:08 - 0:23:32)
+Also Achtung, den Gesamtstrom nehmen, 24 Ampere und dann komme ich hier in meinem Beispiel wieder auf 35 Ampere und jetzt will ich aber nochmal auf eine wichtige Sache hinaus. 35 Ampere, wer es sich gemerkt hat, hatten wir gerade auch schon in der Abgangssicherung von meiner Verteilung. Das ist grundsätzlich erstmal in Ordnung, aber, das zeige ich jetzt hier nochmal, ich würde versuchen das Ganze zu Staffeln, so macht man das halt.
+
+(0:23:32 - 0:23:53)
+Also man würde nicht in beiden Sicherungen den gleichen Wert ansetzen, sondern in die Richtung würde ich sie größer machen, also Richtung Quelle sozusagen größer setzen und deswegen würde man sie größer machen als die 35 Ampere I-NSHV. Ja, zack, Pfeil nach oben. Tut dem Kabel nicht weh, weil wir können ja bis zu 89 Ampere hoch.
+
+(0:23:53 - 0:24:11)
+Also wenn wir jetzt hier 40 Ampere nehmen, ist das kein Problem. Fürs Kabel liegt weiterhin locker noch in meiner Range und gleichzeitig haben wir aber dadurch die Staffelung erfolgreich umgesetzt. So, als nächstes kommt der Hilfstrafo.
+
+(0:24:11 - 0:24:26)
+Ja, genau, den brauche ich natürlich auch noch. Der soll ja jetzt alle meine Tracker, die hier an der Trafostation angeschlossen sind, versorgen. Und das gucken wir uns jetzt auch nochmal an, da habe ich auch viel gelernt über so genannte Lastprofile von solchen Transformatoren.
+
+(0:24:27 - 0:24:40)
+Erster Schritt, erstmal die Gesamtleistung. Wir gucken uns an, wie viel Leistung muss dieser Trafo denn überhaupt leisten sozusagen und da wäre es mal einfach die Summe aller Tracker, die hatten wir uns schon ausgerechnet, 16.800 Watt. Aber der braucht noch mehr, der muss noch mehr versorgen.
+
+(0:24:40 - 0:25:02)
+Die TCUs, die Tracker Control Units, meinetwegen insgesamt 40 Watt, Sensoren, dann so eine NCU hat eine gewisse Leistung. Die Monitoringboxen haben auch eine gewisse Leistung, die würde man auch mit da dranhängen und dann muss er das natürlich auch mit versorgen können. Eigenbedarf von der Trafostation, das könnte Licht sein oder Heizung oder sowas, hängt da auch mit dran.
+
+(0:25:03 - 0:25:21)
+Und, finde ich noch ganz wichtig, deswegen haben wir bewusst auch eine bisschen höhere Zahl gewählt, CCTV, das kann ja durchaus sein, dass da viele, viele Kameras verwendet werden oder auch andere Systeme und die brauchen dann auch eine gewisse Leistungsversorgung. Wenn wir jetzt die Summe nehmen, kommen wir auf eine bisschen größere Leistungen. Genau darauf wollten wir hinaus, das wollten wir zeigen.
+
+(0:25:21 - 0:25:39)
+Es geht also nicht nur um die Tracker, sondern auch um andere Komponenten, die mit versorgt werden müssen. Haben wir mal die Summe oben hingeschrieben, 19.980 Watt. So, und die Nennleistung von unserem Trafo, die muss dann größer sein als unsere Gesamtleistung, kommt später noch in der Spezifikation.
+
+(0:25:40 - 0:25:51)
+Jetzt aber nochmal so eine Definition von so einem Lastprofil. Da finde ich es bei Trackern einfach sehr, sehr sinnvoll, das sich mal anzugucken. Man kennt das so von Belastungen von Kabel, so ein Lastfaktor aus der Norm 0,7 zum Beispiel.
+
+(0:25:51 - 0:26:09)
+Und im Grunde ist das hier beim Transformator genau das Gleiche. Und bei Trackern macht das sehr viel Sinn, sich das mal anzugucken. X-Achse wäre für mich die Zeit und Y-Achse ist dann die Leistung in Prozent, die ich also jetzt in einer gewissen Zeitabhängigkeit überhaupt benötige von dem Transformator.
+
+(0:26:10 - 0:26:36)
+Und jetzt haben wir das in unserem Beispiel mal so gemacht, dass wir für eine Minute nur 100% Leistung da beziehen. Ich habe jetzt in meinem Projekt den Lieferanten von dem Tracking-System gefragt, wie eigentlich euer Steuersystem ist, wie steuert ihr die Tracker überhaupt an. Da gibt es sicherlich auch verschiedene Abfolgen.
+
+(0:26:37 - 0:26:55)
+Und in meinem Projekt haben sie dann geantwortet, also wir fahren eigentlich nur eine Minute, weil wir vielleicht ja nur ein Grad unsere Tracker neu ausrichten müssen. Und danach, das kommt jetzt als nächstes, machen wir erst mal fünf Minuten lang gar nichts mehr. Also wir fahren jetzt nicht permanent der Sonne hinterher, sondern wir machen das immer nur eine Minute lang.
+
+(0:26:56 - 0:27:19)
+Und dann warten wir fünf Minuten, bis die Sonne ein Stückchen weitergerutscht ist und fahren dann auch wieder hinterher. Das kann man so machen und das folgt dann eben daraus, dass man in diesen fünf Minuten den Trafo praktisch gar nicht belastet, der hat dann auch erst mal Pause. Wenn ich das jetzt in meinem Beispiel so weitermache, dann hätte ich da jetzt für sechs Minuten so ein typisches Tracking-Profil und das mache ich jetzt einfach noch zwei, drei, vier, fünf Mal.
+
+(0:27:20 - 0:27:37)
+So kann das immer weitergehen, bis ich dann irgendwann mal in den Moment komme, dass ich auch wieder in meine Store-Position zurück muss. Da sage ich dann in meinem Beispiel, das dauert jetzt schon länger, also meinetwegen zehn Minuten. Das kann auch noch länger dauern, 20, 30 Minuten, je nach Hersteller und natürlich auch je nach Ausgangsposition.
+
+(0:27:37 - 0:27:51)
+Aber in unserem Beispiel reicht das jetzt mal als Ansatz. Und dann hätte man so ein Last-Profil. Das wäre jetzt in meinem Beispiel 35% der Zeit mit 100% und 65% der Zeit hat er im Grunde Pause.
+
+(0:27:51 - 0:28:05)
+Und das ist natürlich ganz wichtig für den Hersteller des Transformators zu wissen, weil er dann nicht auf diese Nennlast seinen Trafo auslegen muss. Gut. Im dritten Schritt schreiben wir eine Spezifikation.
+
+(0:28:05 - 0:28:18)
+Da nehmen wir als allererstes mal die Nennleistung, 20 kVA wären das bei uns, aber eben auch das Last-Profil. Abhängig von dem Last-Profil kann er diesen Trafo dann ein bisschen kleiner bauen. Und die restlichen Nenndaten hier zusammengefasst.
+
+(0:28:19 - 0:28:27)
+Oberspannungsseite, Unterspannungsseite sind natürlich wichtig. Dreiphasiges System macht immer Sinn. Und die Schaltgruppe und die Umgebungsbedingungen würden wir auch noch mit angeben.
+
+(0:28:28 - 0:28:43)
+Damit haben wir erst mal alles zusammen gebastelt. Hat jetzt auch eine ganze Zeit gedauert, aber waren ja auch viele Einzelkomponenten, die wir dann dimensioniert haben und einzeln bewertet haben. Das war unser AC-Versorgungssystem.
+
+(0:28:43 - 0:28:53)
+Fehlt ja noch das DC-Versorgungssystem, aber da kann ich gleich alle beruhigen. Wir machen das jetzt nicht alles nochmal so dermaßen ausführlich, beziehungsweise es dauert einfach nicht so lange. Und ich zeige euch warum.
+
+(0:28:53 - 0:29:12)
+Diese ganzen einzelnen Komponenten über mir, die graue ich jetzt einfach auf und sage ganz drastisch, dass die ja gar nicht notwendig sind. Ein Riesenvorteil ja von dem DC-Versorgungssystem, dass ich ja diese einzelnen Kabel und auch diesen Hilftrafo dann gar nicht brauche. Also muss ich sie auch nicht spezifizieren.
+
+(0:29:12 - 0:29:24)
+Ist natürlich viel, viel einfacher. Die Auslegung dieses Hilfsmoduls, das ich da brauche, das ist natürlich schon irgendwie sinnvoll. Das macht aber der Tracker-Hersteller.
+
+(0:29:24 - 0:29:45)
+Ich würde es gar nicht machen. Ich würde nur darauf achten, dass der wiederum darauf achtet, dass er weiß, wo diese Tracker positioniert sind, weil abhängig von der geografischen Lage, kriegt das natürlich dann auch mal viel oder wenig Energie mit oder Einstrahlung und demzufolge muss er dann auch die Größe von diesem Modul dimensionieren. Grundsätzlich ist das natürlich viel einfacher.
+
+(0:29:45 - 0:29:52)
+Wie gesagt, deswegen ja grau und dieser Stempel. Ich mache da gar nicht so viel. Ich frage einfach nur den Hersteller, ob er es richtig macht.
+
+(0:29:54 - 0:29:59)
+Wenn ich jetzt nochmal diese zwei Systeme hier gegenüber stelle, so als Abschluss sozusagen,
+
+(Diese Datei ist länger als 30 Minuten. Upgrade auf Unbegrenzt bei https://turboscribe.ai/de/, um Dateien von bis zu 10 Stunden Länge zu transkribieren.)

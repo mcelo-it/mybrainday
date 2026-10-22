@@ -1,0 +1,257 @@
+(0:00:00 - 0:00:09)
+Also das war unser Beispiel. Wir haben es erst mal selber gerechnet. Dann haben wir hoffentlich euch sinnhaft versuchen lassen, auch einmal nachzurechnen.
+
+(0:00:09 - 0:00:39)
+Das kann man natürlich in Ruhe dann auch noch mal im Nachgang machen. Aber ich will darauf hinaus, dass man das selber mit der Hand machen muss. Natürlich können das Tools und das können auch andere machen, aber das ist nicht das gleiche. 
+
+Man muss das mal selber gerechnet haben und vor allem muss man auch selber mal hier gestolpert sein. Vielleicht ist das sogar besser, als wenn man es gleich richtig gerechnet hat, weil dann sucht man den Fehler intensiver. So, jetzt gehen wir mal noch in ein ganz anderes Kapitel meiner Meinung nach.
+
+(0:00:40 - 0:01:15)
+Also es bezieht sich natürlich auch auf das String Design, aber das ist jetzt weniger elektrotechnisch. Wir haben es allgemeine Regeln genannt, gar nicht so einfach, dann den Titel zu finden, aber jetzt vielleicht Reset aus den Berechnungen mit den ganzen Alphas und noch mal neu starten in, wie ich sie nenne, allgemeine Regeln des String Designs. Und da haben wir erst mal aufgelistet, ich glaube, neun allgemeine Vorgaben oder Regeln, die wir uns selbst definiert haben, die wir für jedes Projekt neu definieren und zwar in der Priorisierungsreihenfolge.
+
+(0:01:15 - 0:01:28)
+Ich zeige das gleich mal, was ich damit meine. Also grundsätzlich ist es erst mal so, man könnte ja sagen, dass man in dem Projekt, das man gerade baut, die maximal mögliche Modulanzahl installieren möchte. Das kann man ja erst mal machen.
+
+(0:01:28 - 0:01:37)
+Also ich glaube, es spricht für sich. Wir haben es trotzdem als 3D-Modell dargestellt. Hier wäre es ja jetzt zum Beispiel so, dass es nicht die maximale Modulanzahl lässt.
+
+(0:01:37 - 0:01:54)
+Da ist ja noch Platz auf dem Dach offensichtlich. Vielleicht hat das aber einen großen Grund, auf dem ich ja dann später zu sprechen komme. Aber man könnte sagen, nö, ich will aber die maximale Modulanzahl, dann muss man da noch mehr reinfliegen lassen und dann wird das Ganze grüner Daumen nach oben.
+
+(0:01:54 - 0:02:25)
+Also merkt euch mal, maximale mögliche Modulanzahl ist für mich ein Ansatz, eine Regel, ein Bewertungsansatz. Dann gibt es die Regel, gleiche Stringlänge pro MPPT. Das ist mir wichtig. 
+
+Für mich nicht im Wording Wechselrichter benutzen, weil wenn der nur einen MPPT hat, ist es das Gleiche. Aber wenn es ein Multi-Powerpoint-Tracker-Wechselrichter ist, dann nicht. Also schauen wir uns nur die einzelnen Tracker an.
+
+(0:02:26 - 0:02:35)
+Und was meine ich damit? Wir zeigen erst mal, glaube ich, das Gegenbeispiel. Also hier zwei Strings, das wäre jetzt eine Freiflächenanlage. So wird das normalerweise dann auch verstringt.
+
+(0:02:36 - 0:02:48)
+Und jetzt hätte ein MPPT, hätte zwei unterschiedliche Stringlängen. Auf diesem MPPT, das ist ganz wichtig, Plus ist gelb, Minus ist blau. Auf diesem Tracker liegen zwei Strings.
+
+(0:02:49 - 0:02:59)
+Wenn nur einer draufliegt, ist die Regel müßig. Dann existiert sie immer richtig oder auch nie falsch. Es ist natürlich erst sinnhaft bei mehr als einem String.
+
+(0:02:59 - 0:03:08)
+Aber jetzt nehmen wir mehr als einen String an. Zwei, das ist sozusagen die kleinste Einheit, die man sich jetzt angucken kann. Und dann würden wir das so auf keinen Fall machen.
+
+(0:03:08 - 0:03:23)
+Also das ist für mich eine allgemeine Regel, dass wir unterschiedliche Strings nie auf den gleichen MPPT-Tracker legen. Gibt es zwei Möglichkeiten. Entweder wir verlängern den String, ja, und jetzt kommt man schon zu dem Punkt so ein bisschen indirekt, maximale Modulbelegung.
+
+(0:03:24 - 0:03:32)
+Vielleicht geht das dann nicht, weil man dieses Vielfache so nicht bauen kann. Oder zweitens, ja genau, erst mal Daumen hoch. Oder zweite Möglichkeit.
+
+(0:03:32 - 0:03:42)
+Ich mache ihn schon kürzer, ich lasse ihn so, wie er ist, weil ich dann vielleicht die maximale Belegung hinbekomme. Aber dann brauche ich einen zweiten MPP-Tracker. Das ist das, was wir hier darstellen.
+
+(0:03:42 - 0:04:10)
+Und jetzt wird es schon komplex, finde ich, obwohl wir erst zwei Regeln definiert haben. Ich habe nur zwei Vorgaben gemacht und trotzdem hatte ich ja jetzt sozusagen eine Matrix an Möglichkeiten schon vorgestellt. Die sind beide Varianten, die ich hier gerade gezeigt habe, richtig, technisch, unkritisch, ist mehr eine kommerzielle Bewertung oder eine Abstimmungsfrage mit Projektleitern, mit Kunden, mit wem auch immer.
+
+(0:04:11 - 0:04:22)
+Und es geht weiter. Ich versuche mal, die Komplexität immer weiter nach oben zu treiben und dem Ganzen trotzdem noch folgen zu können. Jetzt sagen wir mal, wir haben überall den gleichen Modultyp.
+
+(0:04:23 - 0:04:30)
+Dann ist es easy. Aber jetzt ist schon klar, versuche ich natürlich das Gegenteil mal darzustellen. Da fliegt das rein, so ein bisschen grauer.
+
+(0:04:31 - 0:04:40)
+Und mit Modultyp meine ich jetzt erst mal Hersteller. Das würden wir nicht machen. Verschiedene Hersteller ist an sich jetzt auch nicht der Punkt an sich.
+
+(0:04:40 - 0:04:45)
+Es geht ja um die elektrotechnischen Kenndaten. Aber die sind dann natürlich schon mal nicht gleich. Strom, Spannung.
+
+(0:04:46 - 0:04:56)
+Diese Themen sind natürlich im einfachsten Falle gleich. Also würden wir das so erst mal nicht machen, nicht Modultypen mischen. Später sage ich noch was dazu.
+
+(0:04:56 - 0:05:09)
+Ich so eine Art Subkategorie, sagen wir mal gleicher Hersteller und aber verschiedene Leistungsklassen. Das kann man machen, je nachdem, wie weit man das treibt. Aber das sind sowieso Module mit unterschiedlichen Leistungen.
+
+(0:05:09 - 0:05:19)
+Die werden ja nur einklassifiziert in einem Bereich. Und wenn man dann verschiedene Bereiche mixt, kann man das machen. Das meine ich hier aber nicht, sondern hier sind es wirklich unterschiedliche Typen.
+
+(0:05:20 - 0:05:31)
+So jetzt kommt die Ausrichtung und der Neigungswinkel pro MPPT. Zeigen wir auch mal hier schön in unserem 3D-Modell. Richtig, richtig, richtig wichtig und klassisch wird das bei Ost-West-Anlagen.
+
+(0:05:32 - 0:05:50)
+Also wenn ich jetzt schon merke, mein Projekt ist eine Ost-West-Anlage, dann werde ich an der Stelle natürlich hellhörig. Das kann einem als Planer aber ja vielleicht auch mal durchrutschen, weil das ja so eine theoretische Veranstaltung ist. Wenn man vor Ort ist, sieht man das natürlich sofort, dass diese Strings jetzt unterschiedliche Einstrahlungsbedingungen haben.
+
+(0:05:51 - 0:06:09)
+Also Daumen, glaube ich, nach oben in hier, hier, hier in der ersten Variante Daumen nach oben. Weil da liegen ja jetzt die in die gleiche Ausrichtung orientierten Module auf einem MPP-Tracker. So würde ich es aber auf gar keinen Fall machen.
+
+(0:06:09 - 0:06:18)
+Deswegen mache ich auch schnell weiter und lege den Daumen nach unten. Also das wäre nicht richtig. Und das wäre aber wieder eine Variante B sozusagen.
+
+(0:06:19 - 0:06:24)
+Also so kann man es auf jeden Fall machen. Verschiedene Wechselrichter oder verschiedene MPP-Tracker. Das ist, glaube ich, ziemlich irrelevant.
+
+(0:06:25 - 0:06:53)
+So jetzt noch den Vorteil, dass der Wechselrichter diese Belastungskurve, die wir vorhin gesehen haben bei DCAC, dass die sich etwas vergleichmäßigt, weil der Wechselrichter in Summe bei Ost-West sozusagen sowohl vormittags als auch nachmittags was zu tun hat. Aber in einem Grundansatz ist das jetzt egal, ob das ein MPP-Tracker an sich ist oder ein Wechselrichter. Wir trennen bei unterschiedlicher Ausrichtung und bei unterschiedlichen Neigungswinkel.
+
+(0:06:53 - 0:07:06)
+Und jetzt habe ich vier genannt, es kommen, glaube ich, noch fünf. Aber im Grunde will ich darauf hinaus, dass ich das hier so aufliste, damit jedem bewusst ist, dass diese Regeln ineinander greifen. Es ist wieder das gleiche Prinzip.
+
+(0:07:06 - 0:07:39)
+Also wenn zum Beispiel jetzt hierfür kein Wechselrichter mehr frei wäre, kein MPP-Tracker mehr überhaupt zur Verfügung steht, dann kann ich nur die Module weglassen und dann würde diese Regel 1 maximal mögliche Modulanzahl wiederum nicht greifen können. Also das ganze System greift ineinander über und macht sozusagen unseren Job so interessant und dann projektspezifisch einmalig. Ist ein bisschen übertrieben. 
+
+Komplex, so könnte man es vielleicht sagen. Das will ich nur sagen, damit ihr sozusagen wisst, warum ich diese Liste überhaupt aufbereite. Also jetzt geht es weiter.
+
+(0:07:40 - 0:07:47)
+Jetzt kommen die maximale Stringlängen nutzen. Das halte ich auch immer für komplett sinnvoll. Hohe Spannung, minimale Verluste.
+
+(0:07:47 - 0:08:00)
+Super. Lange Stringlängen, minimale Kabelmassen. Weil Achtung, sagen wir mal, eine gewisse Anzahl an Modulen führen zu einer gewissen Stringanzahl und demzufolge gewissen Kabellängen.
+
+(0:08:00 - 0:08:20)
+Wenn man jetzt aber die Stringlängen verkürzt, dann werden es bei gleicher Modulanzahl mehr Strings und dafür braucht man auch mehr Kabel und gegebenenfalls auch mehr Wechselrichter, mehr von allem. Deswegen ist eine maximale Stringlänge absolut positiv. Eigentlich immer.
+
+(0:08:20 - 0:08:35)
+Aber es gibt auch Nachteile, zum Beispiel Freilandanlagen, die passen auf diese Tische nicht drauf oder auf Dachanlagen. Ja, das Dach ist halt nicht groß genug, um die sozusagen alle so mitzuführen. Und deswegen führt das oft zu Verlust von Modulen.
+
+(0:08:35 - 0:08:47)
+Und das bricht sich ja dann mit Regel 1. Darauf wollte ich im Kern hinaus. Also sie greifen ineinander diese Leitlinien sozusagen. Daumen geht nicht nach unten, weil das ist nicht so schlimm.
+
+(0:08:47 - 0:08:53)
+Also man kann den String kürzer machen. Das ist unkritisch. Wir haben ja vorhin das minimal Stringlänge berechnet.
+
+(0:08:54 - 0:09:00)
+Da darf es nicht drunter. Aber dazwischen ist das in Ordnung und ich bleibe dabei, das ist technisch dann nicht falsch. Es ist eine ökonomische Frage.
+
+(0:09:00 - 0:09:20)
+Und wenn ihr das in euren Meetings, den Vertrieb, den Planern, den Herstellern, den Kunden erklärt, dann ist es aus eurer Sicht auf jeden Fall richtig. Aber aufschreiben, also die Regeln für jedes Projekt notieren und sagen, nach welcher Logik man sich orientiert hat. Es geht weiter.
+
+(0:09:20 - 0:09:29)
+Wir haben eine gleiche Stringposition pro MPPT. Damit meine ich folgendes. Man sieht es ja immer schön in der Grafik dargestellt.
+
+(0:09:29 - 0:09:37)
+Also ein Tracker hat jetzt mal die unterste Reihe und der ja jetzt dummerweise hier auch. Ja, nee, das ist positiv. Daumen hoch.
+
+(0:09:37 - 0:09:43)
+Jetzt haben wir es aber so gebaut. Das sind verschiedene Positionen. Das heißt, der linke Tisch wird früher verschattet als der rechte.
+
+(0:09:43 - 0:09:48)
+Der hat andere Umgebungsbedingungen. Und dann wäre es suboptimal. Man könnte es verbessern.
+
+(0:09:49 - 0:09:56)
+Deswegen Daumen nicht runter, aber man kann es verbessern. Gleiches Prinzip. Man schiebt den halt rüber auf den anderen MPP Tracker.
+
+(0:09:57 - 0:10:01)
+Dann nächste Regel. Es gibt verschiedene Stringtypen. Das gibt es erst mal.
+
+(0:10:01 - 0:10:10)
+Und man könnte sagen, man legt immer den gleichen Typ auf den gleichen Tracker. Wir fangen mal mit dem E-String an und zwar erst mal Daisy Chain. Den anderen zeigen wir später noch.
+
+(0:10:10 - 0:10:27)
+Aber so sieht das erst mal aus. Also plus auf der einen Seite, minus auf der anderen Seite. Und wenn man jetzt immer I auf den gleichen MPP Tracker legt, dann hat man eine minimierte Verschattung durch die vordere Reihe bei I. Bei I, U und S ist es anders.
+
+(0:10:27 - 0:10:32)
+Ich zeige es gleich. Aber also das ist positiv. Dafür hat man aber vermeintlich lange Kabelstrecken.
+
+(0:10:34 - 0:10:48)
+Wir zeigen ja das Gegenbeispiel hier. Der U-String, der ist halt pfiffig gebaut, weil er quasi den Rückweg im String Material gleich mit integriert. Dadurch werden die Kabelstrecken kürzer, weil das Modul sozusagen eine Strecke mit übernimmt.
+
+(0:10:48 - 0:10:54)
+Ist billiger. Auch in der Installation vielleicht einfacher. Sieht eher ein bisschen anders, glaube ich.
+
+(0:10:54 - 0:11:08)
+Und man hat eine flexiblere Tischlänge, weil man der Tisch an sich jetzt nur noch die halbe Breite hat. Verschattung ist negativ. Genau das war ja das Positive beim E-String.
+
+(0:11:08 - 0:11:25)
+Also jetzt wird dieser String früher verschattet und es ist vermeintlich komplexer, wenn man jetzt Is und Us auf so einer Baustelle mischt, wird es natürlich schwieriger. Ich sage nicht, dass man es nicht hinkriegt. Ich sage nur, wenn ihr bei großen Projekten es schafft, das einheitlich zu gestalten, sind erst mal alle sehr dankbar.
+
+(0:11:27 - 0:11:43)
+Ich sage es wahrscheinlich zum dritten Mal, ich sage es trotzdem gerne. Hier gibt es kein Richtig und Falsch, sondern ich finde, es gibt nur ein, wenn ihr das aufgeschrieben habt, nach welcher Logik ihr arbeitet, ist es immer richtig. Man muss es sozusagen begründen und ich glaube, dazu hilft die Tabelle, die ich euch gleich noch zeige.
+
+(0:11:44 - 0:12:03)
+Der Formhalber der E-String, so würde der aussehen, den nehmen wir oft, um restliche Module aufzusammeln. Und der Nachteil ist ganz klar, man braucht jetzt so Brückenkabeln, man muss irgendwie von einer Seite oder von einer Ebene auf die andere springen. Und das ist schon sehr komplex, also das vor Ort irgendwie so nachzuvollziehen, Fehler zu finden, das ist nicht so einfach.
+
+(0:12:04 - 0:12:37)
+Hier zeigen wir noch Leapfrog, das ist jetzt ehrlich gesagt nur eine Info, weil die für mich in diesem String Design technisch nicht so eine große Rolle spielt, aber man muss natürlich die Frage beantworten. Und damit man es mal gesehen hat, was das ist, das würde jetzt so aussehen, man überspringt immer ein Modul und dann kann man auf der anderen Seite wieder runter oder zurück. Und das ist dann so ein bisschen der Vorteil vom U, man hat wohl weniger Stringkabel, aber auch nur dann, wenn das am Modul wirklich schon fest installiert ist und dort keinen Mehrpreis hat.
+
+(0:12:37 - 0:12:54)
+Aber okay, man braucht auf der Baustelle weniger Stringkabel. Aber es ist komplex, also da Fehler zu finden, finde ich, ist am schwiersten. So, dann kann man noch die Module gleichmäßig oder ungleichmäßig auf dem Wechselrichter MPPs verteilen.
+
+(0:12:54 - 0:13:07)
+Wenn der Wechselrichter nur ein MPP hat, dann ist das ziemlich einfach. Darum geht es aber nicht, hatte ich auch schon gesagt, sondern in unserem Beispiel haben wir jetzt sechs Stück und jetzt kommen hier mal unsere ganzen Strings an. So, und die liegen jetzt hier auf den ersten fünf MPPs.
+
+(0:13:07 - 0:13:17)
+Und der sechste, der ist jetzt plötzlich frei, einfach nur, weil wir symmetrisch aufgebaut haben. Würde ich nicht machen. In einer optimalen Welt nutzt man auch den sechsten und deswegen Daumen runter.
+
+(0:13:17 - 0:13:28)
+Man macht das dann eher so. Die letzten zwei MPPs haben einen String anstatt zwei, also eine gleichmäßige Verteilung der Strings auf die MPPs. Super, Daumen hoch.
+
+(0:13:30 - 0:13:53)
+Das waren ganz, ganz viele Regeln und damit noch ein bisschen vielleicht komplizierter wird für mich, aber ehrlich gesagt, einfacher schreibe ich die einfach noch mal in der Tabelle auf. Und das mache ich hier und gleichzeitig, weil das ist eigentlich das Ziel dieses Kapitels, priorisiere ich und das mache ich so. Ich sage jetzt einfach mal diese erste Regel, die wir aufgesetzt haben.
+
+(0:13:53 - 0:14:00)
+Die ist für mich in der Wertung super wichtig. Drei Daumen nach oben. Der Kunde will unbedingt die maximale Modulanzahl.
+
+(0:14:00 - 0:14:08)
+Der Vertrieb sagt Wir brauchen mehr Leistung. Also das ist die absolut wichtigste Geschichte. Die Stringlänge, das ist als Techniker für mich so.
+
+(0:14:08 - 0:14:15)
+Ich sage drei Daumen hoch. Gibt es für mich keine Diskussion. Also es gibt Diskussionen, aber ich würde versuchen, durchzudrücken.
+
+(0:14:16 - 0:14:29)
+Gleicher Modultyp mache ich schon nur noch zwei Daumen hin, weil ja, manchmal ist es halt so, dass das gemixt werden muss. Und wenn die Leistung unterschiedlich ist, mache ich sogar nur noch einen Daumen hin. Das haben wir bei Großprojekten auch schon gemacht.
+
+(0:14:29 - 0:14:36)
+Also wenn man das weiß, wird das halt dazu führen, dass der PR leicht sinkt. Aber man kann das machen. Gleiche Ausrichtung.
+
+(0:14:37 - 0:14:40)
+Da kriegen wir wieder drei Module. Ja, genau. Drei Daumen hoch.
+
+(0:14:40 - 0:14:47)
+Maximale Stringlänge kriegt nur einen Daumen hoch. Gerade bei Dachanlagen kenne ich das so, da geht das nicht immer. Also das Dach soll halt belegt werden.
+
+(0:14:48 - 0:15:05)
+Und wenn das dann nicht aufgeht, dann, wenn die Reste mit kürzeren Stringlängen eingesammelt gleiche Stringposition finde ich auch mehr so mittelwichtig. Der gleiche Stringtyp, das finde ich ehrlich gesagt überhaupt nicht wichtig. Also pro MPPT und jetzt kommt eine gleichmäßige Verteilung.
+
+(0:15:05 - 0:15:14)
+Da gebe ich zwei Daumen hoch. Ich glaube, man kann es jetzt schon im nächsten Schritt gleich gut sehen. Wenn ich jetzt immer alles wichtig werte, dann führt das die Tabelle ad absurdum.
+
+(0:15:14 - 0:15:23)
+Deswegen habe ich das bewusst so gemacht, dass ich also unterschiedliche Anzahl an Daumen kriere. Und jetzt kommt der entscheidende Schritt, auf den ich hinaus will. Das will ich den Planern gerne mitnehmen.
+
+(0:15:24 - 0:15:38)
+Wenn ihr das mal für euer Projekt so macht, vielleicht habt ihr noch mehr Regeln, dann wird folgendes passieren. Auf einmal stellt ihr fest, huch, meine Priorisierungsreihenfolge ist ja eine ganz andere, als ich irgendwie so im Hinterkopf hatte. Hab's gesehen.
+
+(0:15:38 - 0:15:48)
+Die Reihenfolge hat sich geändert, weil es so schön aussieht. Mach ich es einfach noch mal. So hat sich sozusagen mein Brainstorming mit dem Projektleiter eine Wertung ergeben oder mit dem Fachplaner.
+
+(0:15:48 - 0:15:57)
+Und zack, haben wir plötzlich eine neue Anordnung der Regeln. So, dann machen wir eine kurze Übung draus. Die ist einfach.
+
+(0:15:58 - 0:16:10)
+Ich sage euch einfach, es gibt zwei Regeln, gleiche Stringlänge pro MPPT und die maximale Stringlänge nutzen. Diese zwei Regeln gebe ich vor. Nicht neun.
+
+(0:16:10 - 0:16:18)
+Wir machen das mal nur mit zwei. Und meine Frage ist, wie viele, warte, muss ich da noch mal reinklicken. Vielleicht kommt da noch mehr.
+
+(0:16:19 - 0:16:31)
+Kannst du noch mal in die PowerPoint gehen? Genau, genau, genau. Ja, das ist es doch dann, genau. Also wie viele Module können insgesamt verbaut werden? Auf los geht's los.
+
+(0:16:32 - 0:16:43)
+Maximale Anzahl der Strings pro Wechselrichter 20. Also wir haben 20 Strings pro Wechselrichter. Wir haben vorhin ausgerechnet, 28 ist meine maximale Stringlänge.
+
+(0:16:43 - 0:17:05)
+Und auf dem Dach passen maximal 550 Module. So wichtig ist, gleiche Stringlänge pro MPPT und die maximale Stringlänge nutzen. Wie viele Module können wir verbauen? Das war zu schnell, Entschuldigung.
+
+(0:17:06 - 0:17:21)
+Das wären jetzt. Also ich muss die maximale Anzahl der Strings mit minus 1 rechnen, weil 20 mal 28 sind mehr Module, als ich überhaupt auf dem Dach installieren kann. Das heißt, das geht nicht.
+
+(0:17:21 - 0:17:37)
+Ich will aber ja alle Strings gleich halten und ich will die maximale Stringlänge nutzen. Also die 28 steht fest. Dann sind es also nur noch 19 mal die Entschuldigung, ich bin gesprungen, 19 mal die 28.
+
+(0:17:37 - 0:17:50)
+Das sind 532. Also ich kann jetzt nicht mehr 550 verbauen, obwohl die drauf passen, weil ich symmetrisch bauen will. Und jetzt gebe ich das mal hier gleich vorweg, die Übung 2. Da zeige ich euch gleich die Lösung.
+
+(0:17:50 - 0:17:59)
+In der Übung 2b wäre es so gedacht. Ich habe die Priorisierung geändert. Jetzt ist die Priorisierung für mich maximal mögliche Modulanzahl installieren.
+
+(0:18:00 - 0:18:08)
+Und dann sieht das anders aus. Ich gebe das gleich vorweg, weil wir gleich schon 11 Uhr haben. Jetzt müsste ich unterschiedliche Stringlängen verbauen.
+
+(0:18:09 - 0:18:25)
+Diese Bewertung, diese Priorisierung, die ich gerade hatte, dass alle Strings die gleiche Länge haben müssen, die ist ja jetzt weg. Genau dafür würde ich diese Priorisierungsliste bauen, weil ich kann nicht beides machen. Also jetzt sage ich maximal Modulanzahl installieren und dann kommt sowas raus.
+
+(0:18:25 - 0:18:38)
+Jetzt habe ich 15 Strings mit 28 Modulen und 5 Strings mit 26 Modulen und dann kommen 550 Module raus. Und das ist auch genau das, was ich auf meinem Dach verbauen kann.

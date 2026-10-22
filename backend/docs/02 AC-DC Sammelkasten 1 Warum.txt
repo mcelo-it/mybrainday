@@ -1,0 +1,152 @@
+(0:00:00 - 0:00:21)
+Also das ist der Fahrplan für heute und los geht's. Warum Sammelkästen? Also grundsätzlich geht es uns erst mal drum, dass wir elektrische Einheiten, haben wir es genannt, zusammenführen. Wir haben das absichtlich so ein bisschen geschwollen genannt, weil das können ja unterschiedliche Komponenten sein.
+
+(0:00:21 - 0:00:41)
+Also vielleicht auch elektrische Energie versucht man zusammenzuführen. Das ist erst mal die grundsätzliche Logik von so einem Sammelkasten. Und das haben wir jetzt unterteilt in die Möglichkeit, dass das vor dem Wechselrichter ist, wenn man das sozusagen also aus Modulsicht, aus Sonneneinstrahlungssicht vor dem Wechselrichter betrachtet.
+
+(0:00:41 - 0:00:58)
+Dann nimmt man DC-Sammelkästen und wir schwenken jetzt im Wording, das machen wir absichtlich und nennen die ab sofort GAKs, Generatoranschlusskästen. Ich glaube, das nennt jeder unterschiedlich. Es gibt verschiedene Begriffe dafür.
+
+(0:00:59 - 0:01:10)
+Generatoranschlusskasten ist auf jeden Fall ein richtiger Begriff, weil auch die Norm die Module als Generatoren bezeichnet. Insofern ist das erst mal richtig so. Wir sagen also im Anschluss jetzt nur noch GAK.
+
+(0:01:11 - 0:01:47)
+Bitte merken, für die, die das vielleicht DC-Sammelbox nennen oder DC-S oder wie auch immer, wir sagen jetzt GAK dazu. Und weil wir die Strings einsammeln vor dem Wechselrichter, definieren wir das Ganze dann als zentrales System. Da werde ich jetzt nicht darauf eingehen, wie sich das in den letzten 10 oder 15 Jahren geändert hat, aber grundsätzlich ist es so, die freien Flächenanlagen vor allem, aber auch die großen Dachanlagen haben ja Wechselrichter mittlerweile, die deutlich größer sind als noch vor 10 oder 15 Jahren.
+
+(0:01:47 - 0:02:03)
+Das heißt, die Definition, dezentral und zentral auf reine Wechselrichterleistungsgröße zu beziehen, finde ich, funktioniert so nicht. Wir machen es so, dass wir also sagen, wenn wir einen GAK haben, dann ist es ein zentrales System. Auch dieses Wording jetzt einfach mal mitnehmen.
+
+(0:02:04 - 0:02:21)
+Auf der anderen Seite ist dann eben nach dem Wechselrichter aus Sonnensicht und da wäre es jetzt dann ein Wechselstromsammelkasten natürlich, weil dahinter ist ja dann Wechselstrom. Den haben wir jetzt mal ACSK genannt. Auch da gibt es natürlich ganz verschiedene Bezeichnungen dazu.
+
+(0:02:21 - 0:02:34)
+Wir zeigen es ganz am Ende mal kurz. Das kann nämlich zum Beispiel auch eine Niederspannungsverteilung in einem Gebäude sein. Da wird ja dann auch die Wechselrichter aufgesammelt oder natürlich auch die Niederspannungsverteilung in einer Trafostation.
+
+(0:02:34 - 0:02:50)
+Das ist ein bisschen schwieriger zu greifen, finden wir, als der GAK, weil der einfach verschiedene Formen haben kann, dieser Sammelkasten. Aber das zeigen wir eben später dann noch mal im letzten Kapitel. Und wenn das so aufgebaut wird, ist es für uns ein dezentrales System.
+
+(0:02:50 - 0:03:04)
+Also wir haben irgendwelche Wechselrichter, egal wie viele MPPTs, egal wie viele Strings. Das ist jetzt erst mal egal. Aber wenn dahinter sozusagen auf der A10 Niederspannungsseite nochmal eingesammelt wird, dann ist es aus unserer Logik heraus ein dezentrales System.
+
+(0:03:04 - 0:03:20)
+So, jetzt haben wir erst mal noch nicht mal die Frage beantwortet, warum eigentlich wir diese Sammelkästen brauchen, sondern wir haben erst mal unterschieden, was ein AC- und ein DC-Sammelkasten ist. Jetzt kommen wir zur Motivation. Ich schiebe das rüber und muss Annahmen treffen.
+
+(0:03:20 - 0:03:36)
+Ohne die Annahmen funktioniert das nicht, weil diese Gleichungen so viele Parameter haben, dass wenn ich alle möglichen Parameter ändere, dann kommt am Ende wieder das Gleiche raus und keine Erkenntnis. Also setzen wir jetzt erst mal die DC-Leistung fest. Visuell machen wir das mit dem Dach über mir.
+
+(0:03:37 - 0:03:44)
+Diese Anlage wird gebaut, die steht da jetzt schon. Da werden wir kein Modul mehr hinzufügen oder entfernen. Also die DC-Leistung ist kontant.
+
+(0:03:45 - 0:04:01)
+Und wir legen jetzt mal die Wechselrichter, das machen wir hier auch symbolisch, da kommen sie, eins, zwei, drei, vier, die legen wir mittig ins Feld. Auch dieser Punkt ist wichtig, weil wenn man die Wechselrichter an den Rand legt, dann funktioniert dann auch schon wieder diese Logik nicht, die ich jetzt zeigen will. Also wir setzen sie jetzt erst mal mittig ins Feld hinein.
+
+(0:04:02 - 0:04:18)
+Dann kann man das in einem Diagramm folgendermaßen mal grob darstellen. X-Achse, Nennleistung der Wechselrichter. Und wenn ich jetzt die Nennleistung der Wechselrichter erhöhe, also ich wandere in der X-Achse nach rechts, dann brauche ich bei gleicher Modulanzahl, bei gleicher DC-Leistung plötzlich weniger Wechselrichter.
+
+(0:04:19 - 0:04:39)
+Das vielleicht erst mal sacken lassen. Ich brauche also weniger Wechselrichter, wenn die Nennleistung eines Wechselrichters steigt. Das führt genau dazu auch, dass die Anzahl der Strings pro Wechselrichter steigen muss, weil ich habe, das haben wir letzte Woche gemacht, meine String-Designs sind limitiert.
+
+(0:04:39 - 0:04:51)
+Also sagen wir mal, das ist ein 20er String, der ändert sich auch nicht, der bleibt so. Die Modulanzahl bleibt ja auch so. Also wenn ich jetzt immer größere Wechselrichter baue, dann habe ich insgesamt auch mehr Strings pro Wechselrichter.
+
+(0:04:51 - 0:04:58)
+Das würde so aussehen. Das ist jetzt mal, ich nehme es gleich vorweg, auch so ein zentraler Wechselrichter, kommen wir gleich dazu. Aber die sind natürlich riesig.
+
+(0:04:59 - 0:05:12)
+Die sind so groß wie eine Garage und haben eine ganz andere Nennleistung und auch viel mehr Strings sozusagen pro Wechselrichter. Jetzt kommt aber die Erkenntnis des Tages, wenn man so will. Das bedeutet, dass die Stringkabellänge steigt.
+
+(0:05:12 - 0:05:24)
+Man kann sich das jetzt schon vorstellen auf dem Dach. Jetzt müssen wir nicht mehr mittig zu den Wechselrichtern hingeführt werden, sondern jetzt müssen die alle da irgendwie vom Dach runter und alle zum Wechselrichter hin. Der steht nämlich nicht mittig auf dem Dach, sondern irgendwo an der Straße.
+
+(0:05:24 - 0:05:40)
+Das sind enorm größere Längen. Und das ist für uns erst mal die Basis dieser Logik, die wir jetzt noch eine Stunde 50 dann ausführen werden. Also die Stringkabellänge steigt, wenn die Nennleistung eines Wechselrichters steigt.
+
+(0:05:41 - 0:05:47)
+Jetzt kann man aber eben Folgendes machen. Da ist er. Wir setzen einen GAK ein, einen Generatoranschlusskasten.
+
+(0:05:48 - 0:05:59)
+Und vorher war da dezentral und zentral schon gestanden, weil ich es vorher schon erklärt hatte. Unsere Definition ist, wenn man noch keinen GAK hat, also links an der Achse ist es dezentral. Jetzt kommen die GAKs dazu.
+
+(0:05:59 - 0:06:04)
+Das machen wir jetzt ja auch gleich mal. Und dann wird es ein zentrales System. Und es passiert Folgendes.
+
+(0:06:04 - 0:06:13)
+Die GAKs fliegen jetzt da, wo vorhin die Wechselrichter standen, ins Feld hinein und zack. Blaue Kurve bitte beachten. Die geht nach unten.
+
+(0:06:13 - 0:06:18)
+Das ist der große Trick. Jetzt hat man also mehrere GAKs. Größer eins haben wir es genannt.
+
+(0:06:18 - 0:06:23)
+Und dann geht grundsätzlich die Stringkabellänge nach unten. Jetzt bauen wir noch mehr GAKs rein. Naja gut.
+
+(0:06:24 - 0:06:38)
+Und das führt dazu, dass die Stringkabellänge halt noch geringer wird. Also das ist die bildliche Darstellung der Motivation sozusagen, warum man überhaupt GAKs einsetzt. Die Stringkabellänge reduziert sich.
+
+(0:06:38 - 0:06:49)
+Da steht es Daumen hoch. Wir brauchen diese GAKs, um die Stringkabellänge zu reduzieren. Wunderbar, das finde ich, hat mich zumindest schon mal überzeugt.
+
+(0:06:49 - 0:06:57)
+Und jetzt mache ich das ähnliche nochmal aus einer anderen Perspektive. Wir haben eine Freilandanlage genommen. Da haben wir vielleicht alle Teilnehmer gleich schon abgeholt.
+
+(0:06:57 - 0:07:03)
+Haben wir Dachleute dabei und Freiland. Vom Grundsatz ist das natürlich sehr ähnlich. Aber jetzt machen wir das hier nochmal.
+
+(0:07:03 - 0:07:12)
+Da steht jetzt also ein Zentralwechselrichter total platziert in der Mitte. Und er hat jetzt hier Stringkabel, immer schön Plus und Minus. Die werden jetzt alle hingelegt.
+
+(0:07:12 - 0:07:19)
+Und Achtung, jetzt geht es nur ums Prinzip. Nicht, dass mich da einer anruft und sagt, wir haben das so geplant, wie du es gesagt hast. Und das funktioniert gar nicht.
+
+(0:07:19 - 0:07:35)
+Also wir schreiben hier jetzt keine Zahlen hin, sondern wir machen das nur so in der Tendenz. Einmal ohne GAK haben wir gesagt, kostet drei Euro, sage ich jetzt mal, so die Stringkabellänge, die wir hierfür brauchen. Das DC-Hauptkabel kostet gar nichts, weil wir haben ja keins.
+
+(0:07:36 - 0:07:46)
+Achtung, wir haben keinen GAK. Die Verluste sind dann tendenziell hoch, weil lange Stringkabel machen wir, glaube ich, nächste Woche Verlustberechnung. Aber das kann man sich jetzt erst mal so merken.
+
+(0:07:46 - 0:07:56)
+Lange Stringkabel, hohe Verluste, Hauptkabel keine Verluste, weil die haben wir nicht. Und wir haben das zusammengefasst. Ich hoffe, gleich kommt Achtung, Achtung, Projektspezifische Betrachtung notwendig.
+
+(0:07:56 - 0:08:07)
+Wir haben es jetzt erst mal genannt. Der GAK an sich und die Montage sozusagen zusätzlich hätte man vielleicht noch mal nennen können, kosten auch nichts. Wir haben ja keine GAKs, also null.
+
+(0:08:07 - 0:08:12)
+Und dann kommen also sechs Euro raus. So ist das jetzt erst mal. Jetzt kommen die GAKs rein.
+
+(0:08:12 - 0:08:18)
+Da sind sie. Die Stringkabel werden kürzer, haben wir gerade schon gesagt. Dafür kommen hier in weiß die DC-Hauptkabel dazu.
+
+(0:08:18 - 0:08:32)
+Und jetzt nur in der Logik, nur in der Tendenz, weil jeder hat andere Einkaufspreise, die Stringkabellängen werden billiger. Nur noch ein Euro das Material. Dafür habe ich jetzt aber Hauptkabel und jetzt hegt das schon.
+
+(0:08:32 - 0:08:41)
+Das 1 plus 1 ist eben nicht 3, sondern das ist ja jetzt unsere Hint, unser Hinweis, dass das jetzt in Summe günstiger wird. Bei den Verlusten ist es das Gleiche. Weniger Verluste.
+
+(0:08:42 - 0:08:54)
+Dafür kommen halt ein bisschen Hauptkabelverluste dazu. Und jetzt muss man aber auch doch die Montage dieser GAKs und die Lieferung hinzurechnen. Jetzt haben wir es absichtlich gemacht, dass da nicht auch sechs rauskommt, um zu zeigen, dass man dahin will.
+
+(0:08:54 - 0:09:14)
+Der Projektleiter will genau das über mir sehen. Vielleicht noch ein bisschen aufwendiger dargestellt und noch mit ein bisschen detaillierteren Zahlen gefüttert. Also in Euro pro Meter Preisen oder in wie viel kostet denn ein GAK genau? Was kosten die zusätzlichen Kabelanschluss Systeme und so? Man kann das sehr, sehr kleinteilig aufteilen.
+
+(0:09:14 - 0:09:23)
+Aber im Grunde ist es das, was über mir gemacht werden muss. Und wenn jetzt rauskommt mit GAK ist es billiger. Dann habe ich die Frage richtig beantwortet.
+
+(0:09:23 - 0:09:33)
+Warum wir diesen DC Sammelkasten einsetzen wollen. Weil er nämlich die Gesamtkosten reduziert. Ein riesen Euro Symbol.
+
+(0:09:33 - 0:09:41)
+Da wollen wir hin. Und das ist das, was ich auch schon erhofft habe, dass es gleich kommt. Ein Orange, weil das ist uns natürlich immer wichtig.
+
+(0:09:42 - 0:09:47)
+Deswegen ist ja unser Job so interessant und spannend. Das ist projektspezifisch erforderlich. Man kann das nicht allgemein sagen.
+
+(0:09:48 - 0:10:03)
+Seit wir das machen hier in unserem Büro, ändern sich auch die Tendenzen da draußen. Das liegt immer daran, wie der Aluminiumpreis ist, der Kupferpreis, ob gerade so viele Wechselrichter im Markt sind oder zu wenig. Also man macht das immer wieder gerne immer wieder neu, diese Bewertung.
+
+(0:10:04 - 0:10:19)
+Und dann hat sich in unserer Erfahrung auch das Konzept zentral, dezentral mit ohne GAK eigentlich immer mal wieder geändert. So, ich schiebe das hier mit rein. Also das ist der Vorteil für die GAKs.
+
+(0:10:19 - 0:10:38)
+Und um das hier noch fertig zu machen, ich bin ein bisschen aus dem Wege schon. Okay, so sage ich bei dezentralen Systemen wäre unser Vorteil der, dass es überhaupt, dass dieser Anschlusskasten erforderlich ist, um überhaupt dezentrale Systeme zu ermöglichen. Aber das sehen wir später noch.
+
+(0:10:39 - 0:10:44)
+Wir konzentrieren uns jetzt auf die linke Seite. Das ist unser DC-System.

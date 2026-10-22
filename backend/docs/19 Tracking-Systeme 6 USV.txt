@@ -1,0 +1,131 @@
+(0:00:03 - 0:05:45)
+So im nächsten Kapitel gucken wir uns mal das Thema USV ein bisschen genauer an und natürlich auch hier wieder im Kontext mit Trackersystemen. USV an sich gibt es an vielen verschiedenen Stellen von so einer PV-Anlage, Übergabestationen, Umspannwerk, Trafostationen. Darum geht es jetzt nicht, sondern im Kontext mit den Trackermotoren. 
+
+Schauen wir uns das einmal hier wieder in unserem Schaubild ein, wo würde man da zum Beispiel so eine USV einbauen können. Also wir sehen mal wieder hier unsere Tracker an den Tischen und die AC-Verbindung zur NCU und am Ende zur Trafostation. Und jetzt könnte man zum Beispiel, ich zeige gleich noch zwei weitere Varianten, hier eine USV dazwischen schalten. 
+
+Das wäre jetzt mal so eine typische AC-Versorgung, da kommt unsere USV mit rein, unsere unterbrechungsfreie Stromversorgung, dafür steht USV und dann hätte man die jetzt da so integriert. Das ist da drin, einmal ein Umrichter und einmal eine Batterie. Finde ich auch mal ganz interessant, in vielen Gesprächen fällt mir auf, dass die Leute vielleicht nicht unbedingt immer so von USV sprechen, sondern vielleicht meinen sie eigentlich nur die Batterie oder meinen sie auch nur den Umrichter. 
+
+Aber ich sage mal so, die unterbrechungsfreie Stromversorgung wäre jetzt aus meiner Sicht die Kombination von diesen beiden Komponenten. Ein bisschen mehr ist dann vielleicht noch mit drin, aber das sind die zwei Hauptkomponenten. So und jetzt stellt sich die Frage, warum brauchen wir denn überhaupt eine USV für die Tracker bei Trackersystemen und die große Antwort auf diese Frage ist Sturm. 
+
+Wir haben es so zusammengefasst, dass man darauf achten muss, dass die Tracker bei Sturm in die sogenannte Stow-Position, in die Sicherheitsposition fahren können müssen. Ich zeige das hier mal in unserer kleinen Animation. Da kommt der Sturm und jetzt erkennt der Windsensor das und die Network Control Unit erkennt auch, dass der Wind jetzt einfach zu stark geworden ist und gibt dann das Befehl, soll jetzt alle Tracker in Sicherheitsposition fahren. 
+
+Die Spannungsversorgung, um die es jetzt in dem Kapitel vor allem geht, sehen wir jetzt hier gehighlighted. Also der Draht glüht und die Energie wird sozusagen von der Transformatorstation am Ende vom Netz aus bezogen und führt dazu, dass jetzt folgendes passiert. Die Motoren fahren vielleicht ungefähr 60 Grad. 
+
+Das wäre der Maximalwinkel, den die zurücklegen müssten in ihre Sicherheitsposition. So fürs Gefühl, sowas dauert dann auch 20, vielleicht eher 30 Minuten von dieser Maximalposition. Also das passiert jetzt nicht wie im Video in fünf Sekunden, sondern das dauert eine ganze Weile. 
+
+Insofern sollte man da auch rechtzeitig damit anfangen. Okay, jetzt drehe ich das Ganze mal wieder zurück und der Strom ist jetzt erstmal wieder abgeschaltet. Wir brauchen ihn nicht, weil das, was ich jetzt gerade erklärt habe, ist noch nicht die Antwort auf die Frage, warum brauchen wir einen USV. 
+
+Das wäre ja vielleicht die Frage, warum brauchen wir einen Netzanschluss. Aber der Punkt für die USV kommt jetzt in diesem Moment, weil ich jetzt noch impliziere, dass es zusätzlich einen Netzausfall gibt. So, zeigen wir hier mal symbolisch. 
+
+Zack, da kommt mein Blitz und jetzt ist das auch ausgegraut. Ich habe also kein Netz mehr, das mir jetzt helfen würde, meine Motoren zu bewegen. Jetzt brauche ich die USV. 
+
+Man sieht es gehighlighted hier wieder, ab der USV habe ich also genügend Energie, um jetzt trotzdem, jetzt kommt da der Sturm, meine Tracker in Sicherheitsposition fahren zu können. Ich hoffe, das ist soweit klar, dass man jetzt überhaupt weiß, warum man überhaupt solche USV da einbauen muss und ich habe es auch schon ein bisschen dargestellt in meiner Skizze, glaube ich, diese USV ist genauso groß wie die Trafferstation, rein physisch. Also das sind schon große Geräte, die man jetzt hier für solche großen Tracker-Systeme bräuchte. 
+
+Nachdem wir die Frage, nachdem warum geklärt haben, also die Motivation für eine USV, zeige ich jetzt mal, die vier Varianten sind es, die ich mir da so überlegt habe. Variante Nummer 1 nenne ich zentral AC. Dann glaube ich gleich klar, warum zentral, weil es gibt auch dezentral und warum AC, weil ich auch gleich DC zeige. 
+
+Aber wir fangen jetzt mal mit der zentral AC Variante an. Hier wieder dargestellt, da ist unsere USV also in Reihe geschaltet zwischen der Transformatorstation, da kommt die Hilfsspannung ja eben her, über so ein Hilfstrafo und der NCU, so eine Verteilerbox, da ist sie jetzt also zentral an der Transformatorstation installiert und mit AC-Spannung versorgt. Deswegen zentral AC. 
+
+Jetzt mache ich das in diesen vier Varianten, die jetzt gleich kommen, an der Stelle über mir, immer gleich. Ich sage jetzt erst mal, Netzhaus-Val ist abgesichert. Das ist natürlich super positiv, weil dafür hatte ich ja gerade erklärt, weil die Frage, warum, dann ja erst mal positiv beantwortet. 
+
+Also Netz fällt aus, dann kann die USV einspringen und alles ist im grünen Bereich. Dann habe ich aufgeschrieben, wir brauchen natürlich AC-Kabel dafür, ist ja ein AC-System und die haben jetzt einen relativ großen Querschnitt. Das liegt daran, dass da jetzt zentral also die ganze Energie verteilt werden muss ins ganze Feld, zu jedem einzelnen Tracker hin. 
+
+Das geht nur über große Querschnitte, ist erstmal grundsätzlich ein Nachteil. Dann die USV selbst hat eine relativ große Leistung, deswegen haben wir sie ja auch so groß gezeichnet. Also die muss ja jetzt vielleicht 100 Motoren versorgen können, das kann man später noch auch ausrechnen, welche Energie man dafür braucht, aber rein physisch gesehen ist das also ein Riesending und dadurch auch ein ganz schöner Kostenfaktor.
+
+(0:05:46 - 0:08:10)
+Positiv wirkt natürlich, dass ich dann relativ wenige brauche, jetzt gegenüber der dezentralen Variante, die ja gleich als nächstes kommt. Die Wartung ist positiv zu bewerten, das geht relativ einfach. Das sind aus USV- Systeme und das sind ja dann auch nicht so viele. 
+
+Also wenn ich jetzt zehn Trafostationen habe, habe ich dann zehn zentrale USV-Systeme, die sind alle gleich und dann kann ich das auch relativ einfach warten. Ich muss ja noch nicht mal im Feld rumlaufen, das würde ich mit so einer Jahresinspektion glaube ich ganz gut hinkriegen. So und die Ausfallwahrscheinlichkeit der USV, ganz wichtig, der USV selbst jetzt, die ist recht niedrig, weil ich habe ja eben nicht so viele, kann man eine Wahrscheinlichkeitsrechnung machen oder Risikoanalyse. 
+
+Also es sind ja nicht so viele, deswegen dieses gewartet worden, die fällt jetzt einfach mal nicht aus der Wahrscheinlichkeit nach. Sollte sie es doch tun, dann hat sie eine sehr große Wirkung, weil ja dann viele Motoren nicht mehr betrieben werden können. Also das ist jetzt genau gleich sehen, was der Unterschied zur dezentralen Version. 
+
+Also AC-Vorteil, niedrige Auswahrscheinlichkeit, aber wenn es passiert, dann ist wirklich ganz schlecht, weil dann sind ja vielleicht hunderte von Tischen in der falschen Position, im Sinne von nicht in der Sicherheitsposition. Okay, ganz wichtiger Punkt noch, bei dieser zentral AC-Variante gibt es jetzt einen, finden wir, sehr großen zusätzlichen Nutzen, den man unbedingt mal gehört haben muss. Wir nennen ihn Eigenverbrauch. 
+
+Also was ist damit gemeint, erkläre ich jetzt ganz kurz. Jetzt kann man also diese USV, die eben relativ teuer ist, auch noch positiv dem Kunden verkaufen, indem man sagt, dass man diese Batterie, die kann man steuern, dass man die gezielt tagsüber durch den PV-Strom auflädt. Zeigen wir hier, unsere Sonne scheint und der Strom fließt ja jetzt sozusagen durch die USV, kann jetzt die darin befindlichen Batterien aufladen und natürlich gleichzeitig das machen, was sie eigentlich soll, nämlich über die Trafo-Station ins Netz einspeisen. 
+
+Aber auf dem Weg dorthin hat sie jetzt erstmal unsere Batterien aufgeladen mit vermeintlich relativ günstigen PV-Strom. Jetzt ist sie also aufgeladen durch den PV-Strom und nachts ist jetzt hier gemeint, deswegen ist jetzt alles andere wieder weg, Sonne ist weg. In der Nacht kann sie jetzt also unsere NCU zum Beispiel versorgen, auch die TCUs, die haben nicht viel Verbrauch, aber ein bisschen ja doch, die Sensoren, das Monitoring-System und zum Beispiel auch das CCTV-System, das kann ja durchaus ein bisschen mehr Leistung haben.
+
+(0:08:11 - 0:11:02)
+Wenn ich das richtig verdrahte, sozusagen auf der richtigen Seite anschließt von dieser USV, dann würden jetzt nachts die Komponenten über meinen gespeicherten Strom aus der USV versorgt werden und nicht Bezug aus dem Netz generieren. Also ich reduziere den Netzbezug. Noch deutlich mehr Energie ist das dann auch am Abend, nachdem ja die Sonne jetzt untergegangen ist, muss der Tracker ja sozusagen wieder zurück in seine Sicherheitsposition. 
+
+Nachts, die ist dann waagrecht bei uns 9 Grad, also diese Maximalbewegung von 60 Grad auf 9 Grad macht er nach Sonnenuntergang. Davor ist es nicht sinnhaft, weil da laufen ja die Wechselrichter noch. Also in dem Moment, wo die Sonne weg ist und die Wechselrichter keine Energie mehr erzeugen, gerade dann soll sozusagen der Motor seinen maximalen Weg zurücklegen und dadurch auch maximal Energie beziehen. 
+
+Zeigen wir hier auch noch mal, oben die Batterie ist schon ein bisschen leerer geworden, weil habe ich jetzt gebraucht, um in diese Richtung meine Tracker mit Energie zu versorgen, damit sie in Sicherheitsposition fahren können. Also auch die Energie hole ich mir jetzt nicht aus dem Netz, müsste ich nämlich sonst bezahlen mit, wie auch immer, wie viel Cent das so kostet und habe das aber mit dem hoffentlich günstigeren PV- Strom jetzt gelöst und diesen, ja, diesen Differenzwert, den kann ich mir in meine Abschreibung der USV gut rechnen. Das machen wir jetzt nicht nur abends, sondern wir machen es auch jeweils am nächsten Tag. 
+
+Morgens ist es genau das gleiche, der Tracker ist schlau, der geht in seine vorbereitete Ost-Ausrichtung morgens, kurz bevor die Sonne aufgeht, also auch da haben wir ja noch keinen Solarstrom. Guckt oben auf die Batterie, zack, wird es gleich ein bisschen weniger wieder werden, genau, und die USV versorgt dementsprechend jetzt unseren Motor damit. Wir fahren in Vorbereitung der Sonnenposition und auch die Energie brauchen wir also nicht aus dem Netz holen. 
+
+Führt dazu, dass ich von Tag zu Tag und dann dementsprechend von Jahr zu Jahr meine Batterie selbst amortisiert. Wenn man das gegenrechnet und vielleicht mit dem Kunden positiv abstimmen kann, dann hat man erst mal gezeigt, dass man als Elektroplaner voll verstanden hat, wie so eine USV funktioniert und welche Benefits man sich daraus holen kann und vielleicht findet er das ja auch so gut, dass man die vermeintlichen Mehrkosten für diese USV am Anfang zwar investiert, aber über viele Jahre sich dann über den nicht benötigten Netzstrom wieder zurückholt. Also das ist eine Superpower von dieser Variante Zentral AC. 
+
+Wir haben es genannt, zusätzlicher Nutzen Eigenverbrauch. Ich hoffe jetzt ist klar, was damit gemeint ist. Geht bei mir jetzt im Hintergrund ein bisschen unter, aber wäre also ein ganz wichtiger Punkt für so einen Projektleiter, für so einen Vertriebler und dann natürlich auch für die Elektroplaner, die sie ja dann dementsprechend auch auslegen müssen.
+
+(0:11:04 - 0:13:15)
+Gut, das war die Zentral AC Variante. Jetzt geht es ein bisschen einfacher, weil jetzt haben wir das Grundprinzip schon sozusagen erläutert. Jetzt kommt die Dezentral aber AC Variante. 
+
+Ihr habt den grünen, die grüne Lupe gesehen, wie sie da reingeflogen ist. Also jetzt gibt es nicht mehr neben der Trafostation so ein Riesending, sondern jetzt gibt es an jeder einzelnen Tracker-Einheit, das können wie gesagt vielleicht ja 100 Stück pro Transformator sein, pro Trafostation, hängen die dann da am Motor direkt unter den Modulen. Okay, also auch hier wieder Daumen hoch, der Netzausfall wäre abgesichert. 
+
+Jetzt halt dezentralisiert, aber vom Prinzip ist das ja erst mal der Sinn der Sache, Netzfeld aus, Sturm kommt und trotzdem können jetzt alle Tische für sich einzeln autark wieder in Sicherheitsposition fahren. Jetzt habe ich einen sehr kleinen AC Kabel Querschnitt, also ich brauche ja trotzdem, ist ja eine AC Variante, ich brauche ja trotzdem ein Kabel vom Hilfstrafo bis zu den Trackern, aber viel kleiner, weil ich kann mit sehr, sehr wenig, aber dafür kontinuierlich Stromfluss meine Batterien da langsam aufladen und dadurch brauche ich schon mal viel weniger Kabel. Außerdem sind die USV natürlich viel kleiner, aber klar, jetzt habe ich eine sehr, sehr große Anzahl, also ich brauche so viele USV wie ich Tracker habe. 
+
+In meinem Beispiel waren es ungefähr 100, statt gegenüber der Zentral AC eine. Das kann man jetzt wunderbar in so einer Kostenanalyse gegenüberstellen. Die Wartung ist deutlich aufwändiger, das finde ich kann man mit Euro immer sehr schwierig beziffern, aber ich finde das ist klar, da haben ja auch alle, mit denen ich darüber gesprochen habe, zugestimmt. 
+
+Also wenn ich jetzt anfangen muss, 100 USV Systeme, die haben ja wie gesagt ein Umrichter drin, eine kleine Batterie, eine Steuerlogik, wenn ich das alles jedes Mal überprüfen muss, ist das natürlich was ganz anderes als eine Zentral zu überprüfen. Jetzt habe ich auch diese Ausfallwahrscheinlichkeiten der USV gedreht, also dass jetzt überhaupt mal was passiert, das ist sehr wahrscheinlich. Jetzt habe ich ja 100 Stück, von denen fällt also irgendeine immer aus, sage ich jetzt einfach mal so, aber die Wirkung daraus ist ja dann sehr klein, dann wäre halt im Notfall nur ein Tisch nicht gedreht.
+
+(0:13:15 - 0:13:45)
+Naja und der überlebt ja vielleicht trotzdem, aber das ist eine Frage der Risikoanalyse. Ja das war meine Dezentral AC Variante, jetzt kommt meine Dezentral DC Variante. Ihr seht schon so ein kleines Modul da oben, das fliegt jetzt hier mit rein, das würde man dann so zwischen den Modultischen positionieren und müsste jetzt also zusätzlich an der Stelle eingebaut werden.
+
+(0:13:46 - 0:19:17)
+Der Netzausfall ist weiterhin abgesichert, weiterhin Daumen hoch AC Kabel, habe ich gerade gesagt und es wird einem noch deutlicher, dass man keine AC Kabel mehr braucht, ist natürlich ein großer Vorteil. Dann die USV hat eine sehr sehr kleine Leistung, dafür eine große Anzahl, das ist also dieses Dezentral Prinzip. Die Wartung ist aus diesem Grund sehr aufwendig und bei der Ausfallwahrscheinlichkeit ist es auch das gleiche wie gerade bei AC, hohe Ausfallwahrscheinlichkeit, so viele Systeme, so viele kleine Zusatzmodule, Umrichterbatterien, irgendwas ist da immer mal, aber dafür ist es dann nicht so schlimm, dass irgendwo einmal nicht richtig funktioniert. 
+
+So die letzte Variante ist so ein bisschen mein persönlicher Favorit, sage ich jetzt mal. Wir installieren überhaupt keine USV, das ist tatsächlich eine sinnvolle Variante im Kapitel USV. Wir entscheiden uns bewusst dafür, keine zu verbauen. 
+
+Ich finde jetzt ist nur ganz wichtig, dass man auch wirklich versteht, was dann die Konsequenzen daraus sind und das am besten natürlich im großen Team auch so bespricht und wieder irgendeine kleine Risikoanalyse meinetwegen macht, aber dann sich ganz bewusst dafür entscheidend ist, keine USV zu installieren, mit den Risiken lebt, mit den Nachteilen lebt und das nicht aus Versehen passiert. Also das Wichtigste ist, deswegen haben wir es grün gehighlighted, der Netzausfall ist in der Variante jetzt ja eben nicht abgesichert. Also in den ersten drei war das so und in dieser Variante sage ich ganz bewusst, mache ich nicht. 
+
+Vorteil, keine AC Kabel, Vorteil, ich habe keine USV, ich brauche dementsprechend auch überhaupt keine Wartung dafür einplanen und die Ausfallwahrscheinlichkeit, die muss ich auch gar nicht mehr betrachten, weil ich habe ja keine USV, also kann sie auch nicht ausfallen und hat dementsprechend auch keine Auswirkungen auf den Betrieb. Ich hoffe, dass diese Logik, die ich mir da über mir überlegt habe, jetzt so richtig Sinn macht. Also viermal positiv und einmal negativ sozusagen. 
+
+Und jetzt gucken wir uns das aber nochmal genauer an in einer Risikobewertung, die ich ja schon die ganze Zeit genannt hatte, warum wir diese Variante doch vielleicht in unserem Projekt heimlich nach vorne pushen. Also wie hoch ist denn eigentlich das Risiko, dass es jetzt zu einem Netzausfall kommt und meine USV eigentlich sehr sinnvoll wäre. Ich habe erstmal meine Grundbedingungen hier aufgeschrieben. 
+
+Erstens wichtig ist, dass die Wetterdaten überwacht werden, das seht ihr gleich warum, aber das ist einfach Stand der Technik, das passiert nun mal. Wir wissen, dass in so einer digitalen Welt immer alles, was überall so passiert und wir gehen erstmal von dem stabilen Netz aus. Das hängt von eurem Projekt, aber alle Projekte, die ich gebaut habe, sind in grundsätzlich erstmal stabilen Regionen und dementsprechend gehen wir mal von dem stabilen Netz aus. 
+
+Was passiert dann? Also das Risiko, dass es zu einem ungeplant, das ist auch wieder ganz wichtig, es muss ja ein ungeplanter Netzausfall sein, weil wenn es ein geplanter wäre, wüsste ich das ja vorher und meine Betriebsführung fährt halt nun mal vorher in Schutzpositionen und dann brauche ich auch keine USV, wenn dann der Netzausfall erst mal kommt. Also er muss ungeplant sein und da sage ich, also drei Viertel der Welt sehr niedriges Risiko, das kann man sich ja mal länderspezifisch nachlesen, aber in gewissen nordeuropäischen Regionen sind wir dabei weit unter einem Prozent, also das ist schon ein sehr sehr geringes Risiko, dass das überhaupt passiert. Und jetzt muss aber gleichzeitig ja auch noch ein Sturmereignis überhaupt auftreten, sonst brauche ich ja die USV nicht, sonst muss ich ja gar nicht in meine Sicherheitsposition fahren. 
+
+Deswegen ist dieses Plus, das ich da vor Sturmereignis geschrieben habe, ganz ganz wichtig. Also es ist eine Unbedingung und jeder, der das mal in der Uni hatte, weiß, dass das jetzt sozusagen schon insgesamt sehr sehr unwahrscheinlich wird, weil ich habe jetzt ein niedriges Risiko für ein Netzausfall, ich habe ein noch niedrigeres Risiko, dass es ein Sturmereignis gibt und dass es beides gleichzeitig passiert, das ist sozusagen jetzt so richtig unwahrscheinlich. Jetzt kommt ja noch mehr dazu, jetzt muss zusätzlich das Ganze, also der Netzausfall und das Sturmereignis entweder sehr früh am Morgen passieren oder sehr spät am Abend, weil sowohl in der Nacht als auch zur Mittagszeit bin ich ja automatisch schon in meiner Sicherheitsposition, also waagrecht, das heißt in den Fällen wäre es ja auch nicht mal so schlimm, noch mal eine deutliche Reduzierung meines Gesamtrisikos und wenn ich jetzt hier noch mal den letzten verwirrten Punkt mit dazu nehme, dann hat jetzt auch noch mein O&M, meine Betriebsführung versagt, weil ich einfach mal behaupte, dass solche Stürme, von denen wir hier sprechen, das ist ja nicht starker Wind, sondern das müssen wirklich Unwetter sein, dass sie dann auch noch vergessen haben, sozusagen den Wetterbericht sich anzugucken, also die Unwetterwarnung sozusagen übersehen haben. 
+
+Wir haben das hier genannt mit der Proaktive Schutz durch das O&M-Team hat versagt, also sie haben entweder nicht mitgekriegt, dass ein Sturm kommt oder sie haben es zwar mitgekriegt, aber dann eben den automatischen Tracker nicht gestoppt. Das muss jetzt auch noch passieren. Alle vier Sachen zusammen, extrem niedriges Gesamtrisiko und deswegen finden wir, kann man durchaus mit Kunden, mit Projektleitern, mit Versicherungen gemeinsam den Daumen hoch für keine USV, ja genau, in der Gesamtbewertung darstellen, so wie ich es hier gemacht habe.
+
+(0:19:19 - 0:22:41)
+Daumen hoch für keine USV. Wie gewohnt die gesamte Zusammenfassung meiner ganzen Varianten, also vielleicht einmal hier dieses Kapitel anhören und dann in Zukunft immer nur noch auf diese Gesamtübersicht gucken. Netzausfall für meine vier Varianten, dreimal der Daumen hoch bei keine USV, Daumen nach unten, sonst wäre es wirklich Quatsch, sich das hier in der Übersicht anzugucken, aber ich habe es in Klammern gesetzt, dass was damit gemeint ist, ist mit einer Risikoanalyse kriege ich das zumindest vielleicht so auf auf Halbstufe gedreht und dann ist es schon nicht mehr ganz so orange, aber das ist natürlich erstmal grundsätzlich der große Unterschied bei Netzausfall und ich habe keine USV, muss ich damit rechnen, dass ich ein Problem kriege. 
+
+Dann die Anzahl der USV ist bei zentral Daumen hoch und bei dezentral Daumen runter, weil es einfach so furchtbar viele sind und wenn ich eben keine USV bei baue, da habe ich sogar zwei Daumen nach oben, weil keine USV ist grundsätzlich besser in den Anschaffungskosten sozusagen. Die Größe der USV, die korreliert dann auch mit der Größe der Kabel, also dem Querschnitt, ist wiederum bei zentral negativ und bei dezentral ist sie super positiv und bei keine USV ist sie ganz herausragend positiv. Die CAPEX Kosten, das liegt an der Anzahl und der Größe der USV in Summe, also die Bereitstellungskosten sozusagen, Materialkosten. 
+
+AC Daumen runter, weil da brauche ich immer die Verbindung von der Station bis zu den Trackern und bei dezentral Daumen hoch, weil das ist relativ einfach direkt am Tracker zu installieren, brauche ich aber projektspezifisch ein Angebot von dem Hersteller, weil vielleicht macht er das ja so teuer, dass sich dann doch die AC Kabel lohnen. Also das ist eine Tendenz, die wir hier darstellen, natürlich wie immer. Und bei OPEX war es doch so, genau, die dezentralen kriegen von mir einen Daumen nach unten, weil ich sage, da muss ich zu 100 Stellen laufen und die regelmäßig warten und irgendwas ist ja doch immer kaputt. 
+
+Also bin ich da ständig da draußen und immer beschäftigt damit, dass alle USV Systeme auch wirklich reibungslos laufen. Deswegen gibt es da bei dezentralen Daumen nach unten. Und das wäre jetzt mal so unser Gefühl, sag ich mal, nach vielen, vielen Gesprächen und Recherchen. 
+
+Daumen hoch gibt es eben vorwiegend für die Variante keine USV. Aber natürlich haben wir auch viele, viele Projekte gesehen, die mit USV System betrieben werden. Die sind natürlich nicht falsch, sondern da macht man das einfach mit einer anderen Philosophie, sag ich jetzt mal. 
+
+Und dann muss man sich noch mal die zentral vs. dezentral und AC vs. DC angucken. 
+
+Und da hat bei uns dezentral AC so ein bisschen verloren. Das waren die Varianten auch. Riesen Zusammenfassung. 
+
+Aber ich finde, alle Varianten, die ich mal so gesehen habe, haben wir jetzt hier ganz gut zusammengefasst gekriegt. Letzter Punkt fürs Kapitel USV. Wenn ich jetzt also verstanden habe, warum ich die USV brauche und mich für eine Variante entschieden habe, dann muss ich sie jetzt natürlich auch noch dimensionieren. 
+
+Ist ja klar. Wie mache ich das? Als allererstes brauche ich die Leistung. Erster Schritt Leistungsberechnung. 
+
+Haben wir mal zwei geteilt, damit es nicht ganz so trivial ist. Einmal in den Tracker selbst, also in den Motor, der ja dann den Tisch bewegt. Und den Rest haben wir genannt Monitoring.
+
+(0:22:41 - 0:25:44)
+Das war mehr so ein Beispiel, das wir hier zeigen wollen. Also unsere Tracker-Motoren, das hatten wir vorhin aus dem anderen Kapitel auch so zusammensummiert, haben jetzt 16.800 Watt. Markiere ich mal grün und das muss dann in meine Tracker-Tabelle. 
+
+Bei den Trackern würde ich darauf achten, dass diese Motoren so ein Inrush-Current erzeugen. Also wenn die erst mal losfahren, das erste Drehmoment überwinden, dann brauchen die immer einen relativ großen Strom. Also meinetwegen 30 Prozent mehr. 
+
+Deswegen mal 1,3. Dann hat man da auch schon mal einen richtigen Puffer mit drin. Und jetzt unten in blau markiert sozusagen der Rest, also TCU, Sensoren, Monitoringbox, NCU, vielleicht CCTV, ist dann im Monitoring als Summe zusammengefasst. 
+
+Deutlich weniger Leistung. Aber kommt jetzt gleich, im zweiten Schritt geht es um die zeitliche Bewertung. Wir haben ja erst eine Leistung, wir wollen aber eine Energie, also brauchen wir jetzt auch noch die Zeit, in der diese Leistung benötigt wird. 
+
+Beim Tracker habe ich es vorhin schon mal gesagt, vielleicht braucht er nur 20 Minuten, muss man anfragen. Manchmal braucht es nur 30 Minuten, um diesen Maximalwinkel zu durchfahren. Rechnen wir mal mit 20 Minuten. 
+
+Und beim Monitoring wäre das aber Quatsch, weil ich will natürlich bei Netzausfall auch weiterhin mein Monitoring haben und CCTV ja sowieso. Und dann setzen wir mal eher so 10 Stunden an. Das ist also ein deutlicher Unterschied. 
+
+Auf gut Deutsch 20 Minuten lang fahren beide Systeme voll und dann die letzte 9 Stunden und 40 Minuten nur noch mein Monitoring. Daraus folgen folgende Kapazitäten. Das rechnet man einfach aus mit Leistung mal Zeit, also 20 durch 60 Minuten, ein Drittel Stunde kommt man auf 7.280 Wattstunden und beim Monitoring kommt man bei 350 Watt mal 10 Stunden auf 3.500 Wattstunden. 
+
+Mit einer Excel-Tabelle kriegt man das sehr schnell ausgerechnet und dann würde man jetzt noch umrechnen in Ampere-Stunden, so dimensioniert man Batterien. Und weil wir sagen, wir haben ein 48 Volt DC-Batterie- Spannungssystem und weil man grundsätzlich nicht auf 0% so eine Batterie entleert, sondern maximal auf 20% entleert, das ist dieses DoD, kommen wir hier auf 189,6 Ampere-Stunden und beim Monitoring kommen wir auf 91,2 Ampere-Stunden. Bedeutet in Summe eine Gesamtkapazität der Batterie von 280,8 Ampere-Stunden, also sagen wir mal aufgerundet 300 Ampere-Stunden und das ganz wichtig bei einem 48 Volt DC-System, wenn das 24 Volt sind, dann verdoppelt sich diese Kapazität, die gebraucht wird. 
+
+Wenn ihr das gemacht habt, diesen Schritt erreicht, also eine Kapazität in Abhängigkeit von einer Systemspannung abgeben könnt, dann habt ihr die USV sinnvoll und richtig dimensioniert.

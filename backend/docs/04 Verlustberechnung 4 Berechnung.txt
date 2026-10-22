@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:15)
+Also das Kapitel, was wir haben, nennt sich Berechnung und wir starten auch gleich. Wir haben noch eine Stunde Zeit, haben noch, denke ich, ausreichend Input, um hier diese Stunde zu füllen, beziehungsweise wird es wahrscheinlich am Ende eher eng. Also los geht's.
+
+(0:00:17 - 0:01:12)
+Also erst mal die Lastverteilung, die man in so einem Solarpark hat, die uns ja diese Verlustberechnung auch immer so ein bisschen schwierig macht, oder zumindest die tatsächlichen Verluste hinterher zu ermitteln, die ist erst mal abhängig von verschiedenen Parametern und wir führen einfach nur ein paar auf. Es gibt sicherlich noch eine ganze Reihe mehr, aber ob eure Lastverteilung im Tagesverlauf oder im Jahresverlauf auch so aussieht, wie sie jetzt rechts oben gezeigt ist, das hängt erst mal ab von der Ausrichtung der Module. Ist es eine Ost-West-Anlage, ist es eine Südanlage, ich habe auch schon Nord-Süd-Anlagen gesehen, also da gibt es verschiedene Kurvenverläufe über den Tag und dann natürlich auch verschiedene Lastverläufe übers Jahr betrachtet, die dann unsere tatsächliche Verlustberechnung natürlich erschweren würden und deshalb macht man das ja später auch noch mal ein bisschen softwaregestützt.
+
+(0:01:13 - 0:01:47)
+Es gibt ein DC-AC-Verhältnis, also ob eure Kurve, eure AC-Kurve dann so aussieht wie hier oder ob ihr im Sommer da einen Clipping, einen Deckel obendrauf habt, hängt natürlich auch am DC-AC-Verhältnis. Das auch beeinflusst unsere Kurve. Die Einstrahlung natürlich auch, in Norddeutschland ist es meinetwegen anders als in Marokko, da habt ihr unterschiedliche Kurvenverläufe, unterschiedlich hoch, unterschiedlich breit vielleicht auch, die Tage sind länger oder kürzer, das ist hier einfach ein wichtiges Thema und das macht es für uns schwer.
+
+(0:01:47 - 0:02:22)
+Für die Kabelverlustberechnung nehmen wir dann einfach mit, wir vereinfachen erstmal unsere Berechnung, also vor allem den Teil der Kabel, den berechnen wir jetzt erstmal bei Nennenlast. Also wir versuchen erstmal nicht zu ermitteln, wie viele Anteile, wie viele Stunden im Jahr haben wir Teillast, 10, 20, 30, 40 Prozent, sondern wir machen erstmal eine Berechnung bei Nennenlast. Das ist erstmal eine wichtige Maxime hier und diese Nennenlastverluste, die pflegen wir dann später in diese Simulationstools ein.
+
+(0:02:23 - 0:02:55)
+Meinetwegen PVSYST ist, glaube ich, ein sehr bekanntes Berechnungsmodul oder Berechnungsprogramm, was dann aus diesen Nennenlastverlusten über diese Jahresverläufe zu, ich sage mal, jeder Stunde des Jahres die entsprechenden Verluste ausrechnen kann, aufsummieren kann und dann reale Verluste aus diesen realen Lastverläufen ermittelt. Das ist erstmal ganz wichtig, glaube ich, zu verstehen. Und das erleichtert uns natürlich die Berechnung erstmal ungemein.
+
+(0:02:56 - 0:03:34)
+Hier nochmal, wie ich es eben gesagt habe, unten die drei Taschenrechner, Stringkabel, Niederspannungskabel, Mittelspannungskabel, die berechnen wir jetzt und nehmen diese drei Kabeltypen auch einfach erstmal mit. Die sind da unten als Bild, dass es ein bisschen anschaulicher ist, was wir hier ausrechnen wollen und gucken uns jetzt mal an, wie diese Formeln oder diese Berechnungen jetzt zustande kommen. Also PVerlust ist erstmal U mal I, kennt vielleicht jeder, oder P ist U mal I, Strom mal Spannung, das ist dann die Leistung, das ist Grundlagenelektrotechnik, erstes Semester oder erste Woche vielleicht sogar, das sollte jeder verstanden haben.
+
+(0:03:36 - 0:05:06)
+Und aus diesem U ist gleich R mal I, meine Freundin, die Medizin studiert hat, die sagt immer Uri, so merkt die sich das, also U ist gleich R mal I, das ist auch eine grundlegende Formel und diese Formeln kann man jetzt natürlich kombinieren. Sehen wir gleich, also Spannung ist gleich Widerstand mal Strom, wir nehmen mal das U aus dieser Formel, P ist gleich U mal I raus und schieben dafür jetzt das U oder das R-Kabel mal L aus der Formel U ist gleich R mal I, Entschuldigung, schieben das rüber und dann steht da PVerluste ist gleich R-Kabel mal I mal I und das ist dann die Formel, die wir natürlich eben schon mal erwähnt hatten, PVerluste ist gleich R-Kabel mal I-Quadrat, das ist jetzt im Grunde genommen der Kern und hier nochmal der Hinweis, den ich jetzt auch schon zwei oder dreimal gegeben habe, Verluste sind quadratisch abhängig vom Strom, das ist hier der ganz wichtige Punkt. Wir zeigen das jetzt nochmal hier in dieser Grafik einfach nochmal, also wenn ihr da eine hohe Leistung habt und die Spannung jetzt erhöht, dann seht ihr, dass sich hier die Verluste, das ist diese orangene Linie, dann quadratisch reduziert, je höher die Spannung, desto geringer die Verluste, das ist hier im Prinzip vielleicht das Learning, was man hier mitnehmen sollte.
+
+(0:05:08 - 0:06:05)
+Wir schieben jetzt mal das PVerluste hoch oder diese Formel für PVerluste, R-Kabel mal I-Quadrat und gehen jetzt auf das R-Kabel etwas genauer ein, also auf den Kabelwiderstand und schauen wie wir den ausrechnen können. Also natürlich geht ein die Länge des Kabels und es geht ein das Kappa und der Querschnitt des Kabels, das ist jetzt diese Variante 2, die man verwenden kann, also ihr wisst nicht, welchen Kabelhersteller ihr habt, dann rechnen wir den Kabelwiderstand aus über dieses Kappa und über den Querschnitt des Kabels und über die Länge. Das Kappa führen wir jetzt nochmal rechts auf, wir hatten das am Anfang auch schon, hier ist es jetzt der Vollständigkeit halber nochmal dargestellt, also Kupfer hat ein höheres Kappa als Alu und dadurch leitet Kupfer im Grunde genommen besser als Aluminium.
+
+(0:06:06 - 0:06:24)
+Der Querschnitt ist auch nochmal in der Legende. Jetzt die Länge hier, Kabellänge, was hat die für einen Einfluss auf diesen Kabelwiderstand, wollen wir euch einfach nur mal kurz zeigen in einer Grafik hier. Also je länger das Kabel, das ist glaube ich keine Überraschung, desto höher der Kabelwiderstand.
+
+(0:06:26 - 0:07:09)
+Eindeutige Geschichte, jetzt haben wir das Kappa noch, das Kappa ist materialabhängig und jetzt zeigen wir euch das Kappa von Aluminium, haben das jetzt mal mit einer gewissen Steigung hier eingezeichnet, das soll einfach nur schematisch das Ganze mal andeuten, das ist jetzt hier keine detaillierte Auswertung, sondern Aluminium hat im Grunde genommen einen Widerstand über die Kabellänge, der höher ist als der Widerstand von Kupfer. Das wollen wir hier zeigen, also wer Kupfer verwendet, kann dünnere Querschnitte nehmen oder kann längere Kabel machen, aber muss natürlich auch mehr Geld ausgeben. Deshalb nehmen viele Aluminium, akzeptieren den höheren Widerstand des Kabels, des Kappas, dafür ist das Kabel deutlich günstiger in der Beschaffung.
+
+(0:07:12 - 0:07:50)
+Dann gibt es noch die Temperatur, die dann eben auch noch einen Einfluss hat auf die Kabel und jetzt schauen wir uns hier mal nur noch das Kupferkabel an, wir hätten auch nur das Alukabel zeigen können, aber damit es einfacher oder sichtbarer ist, gucken wir uns das Kupfer an. Bei 20 Grad, das sind die Werte, die wir aus den Datenblättern herausnehmen können, wäre das der Widerstandsverlauf über die Kabellänge und wenn wir jetzt die Temperatur erhöhen, sagen wir beispielsweise auf 50 Grad, dann gibt es da eine Formel, die dahinter liegt, die den Widerstand des Kabels erhöht. Das heißt, hohe Temperaturen haben dann eben einen Einfluss auf den Kabelwiderstand.
+
+(0:07:50 - 0:08:40)
+Hier ist mal die Formel angegeben, könnt ihr mal so zur Kenntnis nehmen, in der Regel braucht man die in so einem typischen Projektablauf nicht unbedingt, aber jetzt seht ihr es mal, was der Einfluss von der Temperatur auf das Kabel hat, das heißt, wenn eure Kabel dauerhaft in warmen Bereichen verlegt werden, dann könnten die durchaus höhere Widerstandswerte haben und dann sollte man es vielleicht auch mal berücksichtigen. Jetzt kommt noch der Kabelquerschnitt rein, auch hier, denke ich, keine große Überraschung, wir erhöhen den Kabelquerschnitt und dadurch reduzieren wir den Kabelwiderstand. Also, glaube ich, ist auch eine klare Geschichte, das A steht unterm Bruchstrich und deshalb ein größeres A reduziert dann eben das R-Kabel.
+
+(0:08:42 - 0:09:17)
+Mathematisch kann man das natürlich so greifen, ich denke, logisch kann man das mindestens genauso gut greifen, große Querschnitte, weniger Widerstand. So, das war jetzt erst mal das R-Kabel, jetzt wird das R-Kabel oben grau und jetzt gucken wir uns mal das I² an und das jetzt eben für DC-Verluste, damit würden wir mal anfangen. Es gibt natürlich neben den DC-Verlusten auch noch andere, aber der Startpunkt und wenn man sich nochmal unsere Übersicht hervorruft, von links gestartet, am Modul gestartet, starten wir jetzt mal mit den DC-Kabelverlusten.
+
+(0:09:17 - 0:09:29)
+Hier sieht man es nochmal und was wir jetzt hier zeigen wollen, ist ein Stromkreis. Das lernt man, glaube ich, auch ganz früh schon, wahrscheinlich schon in der Schule. Ein Stromkreis muss geschlossen sein.
+
+(0:09:30 - 0:09:51)
+Bei DC gibt es eben einen Hinleiter und einen Rückleiter und dadurch fließt ein Strom und das ist jetzt bei uns, wenn wir unsere Berechnungen durchführen, der IMPP vom Modul. Das heißt, ihr müsst wissen, welches Modul ihr da verwendet und könnt dann eben daraus einen Strom ablesen. Der Strom fließt dann im Kreis.
+
+(0:09:51 - 0:10:28)
+Er fließt vom Modul zum Wechselrichter und wieder zurück, genau. Also ein geschlossener Stromkreis sieht dann eben so aus. Der IMPP fließt und die Verluste, die sich daraus jetzt ergeben, PV-Luste DC haben wir sie genannt, ist dann eben IMPP², so wie wir das ja vorher gelernt haben, und dann mal Rhin, also da wollten wir sagen, das ist der Hinweg vom Modul zum Wechselrichter und da das natürlich nicht reicht für die Verluste, sagen wir jetzt mal überschlägig, nehmen wir den Hinweg zweimal, damit wir auch den Rückweg haben.
+
+(0:10:31 - 0:10:51)
+Kritik wäre hier wahrscheinlich angebracht, weil oft der Hinweg nicht genauso lang ist wie der Rückweg, weil dazwischen liegt die Stringlänge. Das ist uns auch klar und bewusst. Ich denke am Ende, und das zeigen wir vielleicht später auch noch mal ein bisschen detaillierter, kommt es uns dann eher auf die Gesamtlänge des installierten Stringkabels an, was wir dann ansetzen für die Kabelberechnung.
+
+(0:10:52 - 0:11:15)
+Aber vom Grundsatz her immer wichtig bei Stringkabeln, man muss im Prinzip immer diesen Faktor 2 irgendwo so ein bisschen im Hinterkopf haben oder berücksichtigen oder man weiß, wie viel Kabel man insgesamt verlegt hat, man braucht Hin- und Rückleiter. So genau, das wäre jetzt DC-Kabel. Wir gucken uns das gleiche jetzt mal für das AC-Kabel an, weil da ist es ein bisschen anders.
+
+(0:11:16 - 0:11:31)
+Da haben wir einen Wechselrichter und dieser Wechselrichter baut jetzt kein DC-Netz auf. Klar, es ist ja ein AC-Netz, sondern er baut jetzt ein dreiphasiges Wechselstromnetz auf. Das sieht dann im Grunde genommen so aus.
+
+(0:11:31 - 0:12:02)
+Wir haben hier Widerstände eingezeichnet und wir sehen dann auf der rechten Seite, das sollen jetzt Wicklungen darstellen, meinetwegen vom Transformator. Also unser Wechselrichter ist verbunden mit dem Transformator. Es fließt ein Strom und der hat die Größe p, das ist die Leistung zum Beispiel des Wechselrichters, geteilt durch die Leiterleiterspannung mal Wurzel 3. Daraus resultiert dann ein Strom und der fließt jetzt über alle drei Phasen, also dieser Strom fließt in allen drei Phasen.
+
+(0:12:03 - 0:12:20)
+Alle, die sich noch an den Sinusverlauf erinnern, der kommt aber auch gleich nochmal. Er fließt jetzt natürlich nicht so gleichmäßig in alle drei Phasen, sondern immer um 120 Grad verschoben, so sagen wir das, sodass sich im Sternpunkt die Ströme aufheben. Es kommt gleich nochmal ein bisschen detaillierter.
+
+(0:12:21 - 0:12:46)
+Habe ich jetzt vielleicht schon vorweggenommen, ein bisschen was, aber seid schon mal vorbereitet. Die p-Verluste ist also gleich I² mal R und jetzt fällt aus der Wurzel 3 da nochmal der Faktor 3 raus, sage ich mal. Also Wurzel 3 und 3 haben jetzt keinen direkten Zusammenhang hier in der Darstellung, aber im Grunde genommen, im Schaubild meine ich, wird es sehr sichtbar.
+
+(0:12:46 - 0:13:25)
+Die Verluste setzt man natürlich nicht nur für einen Leiter an, also für L1, sondern auch für L2 und L3 und deshalb muss man dieses I² mal R mal 3 multiplizieren und dann die Gesamtverluste für das Drehstromsystem oder dreipolige System, Wechselstromsystem zu erfassen. Die Idee oder der geniale Trick hierbei ist natürlich, dass wir keinen Rückleiter brauchen. Das war für mich, ich sage mal, in meinen Anfängen der Elektrotechnik schon ein Aha-Effekt oder wie kann das sein, dass drei Leiter zusammengeschlossen werden und kein Strom fließt.
+
+(0:13:25 - 0:13:41)
+Aber das ist ja genau der Trick, der hier und in Mittelspannungssystemen sowieso, wir verlegen dann immer nur drei Phasen und im Sternpunkt heben sich dann die Ströme auf. Man spart da eben Material. Das ist ein ganz großer Trick, den sich hier die Leute vor ungefähr 100 Jahren mal überlegt haben.
+
+(0:13:42 - 0:14:06)
+Und eben auch diese Transformierbarkeit der Wechselspannung hat dann ja am Ende auch dafür gesorgt, dass wir ganz viel mit Wechselstrom machen. Also hier zeigen wir das jetzt nochmal, wir versuchen es nochmal besser zu greifen, warum sich denn der Strom im Sternpunkt aufhebt. Drei Phasen, die sind alle 120 Grad Phasen verschoben, resultiert in unserem Fall natürlich von den Wechselrichtern oder kommt von den Wechselrichtern.
+
+(0:14:06 - 0:14:43)
+Aber ich würde jetzt mal sagen, früher, als es nur Generatoren, Maschinen gab, mit, ich sage mal, wirklich rotierenden Maschinen, da waren dann eben die Wicklungen in diesen Winkeln angeordnet, in diesen 120 Grad Winkeln, sodass, ich sage mal, der Südpol 120 Grad vor Phase 1, 120 Grad vor Phase 2, vor Phase 3 im Prinzip rotiert ist. Und so hat sich dann so ein Drehfeld aufgebaut. Und wenn man jetzt hier in genau diesem Punkt mal in das Schema reinguckt, da sieht man dann, dass Phase 2 gerade auf 0 ist.
+
+(0:14:44 - 0:14:59)
+Und Phase 1 und Phase 3 haben gerade Plus- und Minusstrom, sage ich mal. Also die sind identisch groß. Der positive Strom von L1 ist genauso groß wie der negative Strom von L3.
+
+(0:14:59 - 0:15:05)
+Und in Phase 2 fließt gar nichts. Und im Zeigerbild würde das dann genauso aussehen. Also in L2 fließt nichts.
+
+(0:15:05 - 0:15:15)
+Und der Strom, der von L1 kommt, fließt bei L3 wieder raus. Und so ist das dann eben, dass im Sternpunkt sich diese Ströme aufheben. Das, was reinfließt, fließt auch wieder raus.
+
+(0:15:15 - 0:15:31)
+Der Sternpunkt ist 0. Beim anderen Punkt wäre das eben hier. L1 und L3 sind bei positiv 50 Prozent und L2 ist bei negativ 100 Prozent. Und dann würde das ungefähr so aussehen.
+
+(0:15:31 - 0:15:43)
+L1 und L3 fließen rein in den Sternpunkt. Bei L2 fließt die doppelte Menge ungefähr dann wieder raus. Und so auch hebt sich hier in diesem spezifischen momentanen Punkt eben der Strom im Sternpunkt auf.
+
+(0:15:44 - 0:15:56)
+Das ist der große, große Trick. Das findet im Grunde genommen nicht nur an diesen zwei oder drei Punkten statt, sondern überall summieren sich die Ströme zu jedem Zeitpunkt im symmetrischen System auf 0.

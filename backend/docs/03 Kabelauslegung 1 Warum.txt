@@ -1,0 +1,50 @@
+(0:00:00 - 0:00:31)
+Warum ist unser erster Punkt? Da gehen wir mal rein und schauen dann, was wir uns da erstmal für Fragen gestellt haben oder was wir uns da überlegt haben, warum machen wir das überhaupt? Wir brauchen Kabel, um elektrische Energie zu übertragen oder auch Signale zu übertragen, klar. Bei uns ist der Fokus sicherlich auf der Energie erstmal oder auf die Energieübertragung gelegt und deshalb berechnen wir Kabel, weil wir das auch projektspezifisch dann immer wieder brauchen werden. Es gibt bei jedem Projekt andere Umgebungsbedingungen.
+
+(0:00:31 - 0:00:41)
+Das ist dann nun mal so. Es gibt Projekte in Norddeutschland, in Süddeutschland oder in Spanien oder in Sibirien. Da hat man sicherlich andere Anforderungen an Kabel und Kabeldimensionierung.
+
+(0:00:41 - 0:00:52)
+Deshalb ist das immer projektspezifisch und wir sollen natürlich für jedes Projekt die normativen Anforderungen erfüllen. Das ist ganz wichtig. Das ist vertraglich geschuldet.
+
+(0:00:52 - 0:01:05)
+Das sollten wir zu unserer eigenen Sicherheit auch immer machen, damit das am Ende auch alles gut funktioniert. Einen weiteren Punkt, den wir hier aufgeschrieben haben, haben wir auch ein bisschen überlegt, ob wir das wirklich so hinschreiben. Da steht jetzt Schutz gegen Überlast.
+
+(0:01:06 - 0:01:22)
+Also Achtung, nicht Schutz gegen Kurzschluss. Das ist hier absolut nicht gemeint. Aber wir sind der Meinung, dass wenn wir unsere Wechselrichterkabel und Stringkabel sinnhaft dimensionieren, dass das dann auch gleich der Schutz gegen Überlast ist, weil wir ja wissen, was für Ströme wir zu erwarten haben.
+
+(0:01:22 - 0:01:33)
+Das ist ein bisschen anders als die Steckdose bei mir zu Hause, wo noch eine Steckdose und noch ein Mehrfachverteiler dran ist. Da kann man nicht gegenüber Last schützen. Aus unserer Sicht ist es hier im Solarpark aber so.
+
+(0:01:33 - 0:01:40)
+Der Wechselrichter macht halt 100 Ampere. Das wissen wir nicht mehr. Und dann ist das Kabel auch gleich gegenüber Last geschützt, wenn ich es richtig dimensioniert habe.
+
+(0:01:42 - 0:01:53)
+Dann haben wir das Thema Materialkosten. Ich kann natürlich auch das dickste Kabel nehmen, was ich so greifen kann. Und dann ist das Kabel sicherlich schon gut ausgelegt.
+
+(0:01:53 - 0:02:06)
+Aber das steht natürlich dann immer wieder gegen die Projektkosten. Und die Verluste müssen wir natürlich auch noch mal im Auge behalten. Also Kosten gegen Verluste, das ist immer so ein Thema.
+
+(0:02:06 - 0:02:38)
+Kommen wir gleich vielleicht auch noch mal kurz ein bisschen genauer darauf zu sprechen. Und das Nächste ist dann eben, was dann vielleicht so ein bisschen neben der Spur zur Kabelberechnung ist, Auswahl baulich sinnvoller Querschnitte. Also wir berechnen das Kabel erst mal und müssen dann aber natürlich auch noch prüfen, ist das Ganze sinnvoll? Kriege ich das überhaupt an den Wechselrichter angeschlossen? Passt das Kabel in meine Mittelspannungsschaltanlage? Kriege ich dafür Endverschlüsse oder kriege ich dafür Kabelschuhe und passen die auf den Bolzen? Also solche Themen, Schnittstellen, finde ich, ist erst mal kein Berechnungsthema.
+
+(0:02:39 - 0:03:02)
+Aber solltet ihr immer im Kopf haben, also solltet ihr immer mittragen, sage ich mal, die Schnittstelle, da passieren die größten oder die meisten Fehler, nicht die größten. Aber da habt ihr häufig dann das Thema, passt jetzt doch nicht rein oder der Biegeradius haut nicht hin und so weiter. So, kommerzielle Optimierung ist dann noch ein Punkt, der sich so ein bisschen natürlich auch ableitet aus der Kabelberechnung.
+
+(0:03:02 - 0:03:35)
+Wir haben ein Kabel berechnet, wir haben es dimensioniert, haben jetzt einen Querschnitt und würden damit jetzt erst mal ins Rennen gehen. Ich frage dann aber erst mal meinen Projektleiter, wie siehst du das? Wollen wir jetzt das dünnstmögliche Kabel nehmen, was natürlich der Norm entspricht? Oder hast du vielleicht viel Budget und es ist dir vielleicht auch wichtiger, im Zweifel eine etwas bessere Performance Ratio zu haben, dann können wir natürlich immer einen Querschnitt größer nehmen. Also, wie gesagt, Abstimmung mit dem Projektleiter.
+
+(0:03:35 - 0:04:01)
+Redet darüber, redet über eure Berechnungen und dann gibt es vielleicht auch Entscheidungen, die nicht straight nach der Normberechnung folgen, sondern ein großzügiges Budget lässt dann vielleicht auch mal einen größzügigeren Kabelquerschnitt zu. Und dann ist das natürlich klar, ein erhöhter Kabelquerschnitt erhöht die Materialkosten. Das ist nun mal so, das ist, glaube ich, keine Überraschung.
+
+(0:04:01 - 0:04:12)
+Blaue Linie geht hoch, wenn der Querschnitt hochgeht, das sind die Kosten. Dafür gehen aber die Verluste natürlich runter. Und das ist einfach eine Abstimmungssache.
+
+(0:04:12 - 0:04:22)
+Also, ich halte mich dann da gerne raus. Ich sage dem Projektleiter das. Er hat dann die Budgetverantwortung und er kann dann gerne entscheiden, den Querschnitt größer zu wählen.
+
+(0:04:22 - 0:04:46)
+Kleiner in der Regel dann nicht, weil dann haben wir natürlich diesen Punkt, dass wir von der normativen Mindestanforderung abweichen. Und das ist dann natürlich höchst kritisch. Einmal unserem Kunden gegenüber oder dem Gutachter gegenüber und auch für uns selbst, für unser eigenes Projekt, wenn wir dann hinterher Schwierigkeiten kriegen mit Kabelquerschnitten, ist keinem geholfen.
+
+(0:04:46 - 0:04:48)
+Ganz unabhängig von irgendeiner vertraglichen Schuld.

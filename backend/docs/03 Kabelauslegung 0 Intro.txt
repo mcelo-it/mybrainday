@@ -1,0 +1,38 @@
+(0:00:00 - 0:00:09)
+Hallo und herzlich willkommen zu unserem heutigen Brain Day. Das ist für mich die erste Veranstaltung in diesem Semester, deshalb vielleicht ganz kurz. Ich bin Holger.
+
+(0:00:09 - 0:00:23)
+Ihr werdet mich in den nächsten 27 Modulen, sind es glaube ich, noch öfter zu sehen bekommen. Ich freue mich, dass ich euch heute hier durch das Thema Kabelauslegung durchführen darf. Vielleicht einmal kurz zu Beginn.
+
+(0:00:23 - 0:00:34)
+Wir machen das ja in der Regel so, dass wir euch durch diesen Hintergrund stehenden Blöcke führen. Und zwischendrin haben wir immer Menti Fragen. Also Mentimeter ist das Produkt, was dahintersteht.
+
+(0:00:35 - 0:00:52)
+Unter menti.com könnt ihr euch dann einwählen oder solltet ihr euch bitte gerne einwählen. Gerne mit einem mobilen Endgerät oder mit einem zweiten Bildschirm, dass ihr die Präsentation verfolgen könnt und dann eure Antworten in dieser Software Menti geben könnt. Die Fragen sind in der Software, das seht ihr dann gleich.
+
+(0:00:52 - 0:01:13)
+Das ist sehr einfach und deshalb haben wir auch für die erste Runde natürlich keine Fragen gestellt, wo man Punkte kriegt, sondern erstmal Erfahrungsfragen. Werdet ihr gleich sehen. Dann kommt ihr da erstmal entspannt rein und wisst dann nachher, wenn es später darum geht, Punkte zu sammeln, eine kleine Challenge zu haben, wisst ihr dann auch, wie das Ganze funktioniert.
+
+(0:01:13 - 0:01:42)
+Dann haben wir später, wenn wir es zeitlich schaffen, noch eine Kula-Tour, also eine 3D-Tour, wo man dann mal tatsächlich wie ein Gutachter, sagen wir mal, auf der Baustelle steht und sich das mal ansehen kann und bewerten kann, was wir da gebaut haben, ob das eben entsprechend einer Kabeldimensionierung errichtet wurde. Also das sind so zwei Module, die wir jetzt hier verwenden heute, Menti und Kula. Wenn es dann später dazu kommt, erkläre ich das natürlich noch mal kurz, dass da alle abgeholt sind und alle daran teilnehmen können.
+
+(0:01:42 - 0:01:53)
+Also los geht's. Vielleicht noch eine wichtige Sache. Wir enden hier um 11 Uhr und wir wissen, dass natürlich alle, wir wahrscheinlich auch Anschlusstermine haben.
+
+(0:01:53 - 0:02:04)
+Also wir haben ja am Ende nicht diese akademische Viertelstunde, die wir überziehen werden. 11 Uhr, ich sage jetzt mal plus minus zwei Minuten. Das ist unser Ziel und daran wollen wir uns auch halten.
+
+(0:02:04 - 0:02:19)
+Und deshalb haben wir hier einen straffen Zeitplan, also keine Zeit zu verlieren. Ich lege los, damit ihr an euren Nachfolgetermin teilnehmen könnt. Also wir starten unsere Vorstellung, unsere Präsentation in der Regel mit der Warum-Frage.
+
+(0:02:19 - 0:02:35)
+Die Warum-Frage finden wir immer ganz hilfreich, damit die Leute erst mal wissen, wo wir stehen, warum wir das Ganze überhaupt machen. Dann kann man hinterher, glaube ich, besser zuhören und vielleicht auch besser die Fragen stellen oder sich besser selbst hinterfragen. Dann schauen wir uns heute mal den Kabelaufbau an.
+
+(0:02:35 - 0:02:51)
+Also dass erst mal alle genau wissen, wie so ein Kabel aufgebaut ist, was für Komponenten es hat und so weiter. Wichtiger Themenblock, den wir dann ja auch haben, ist der Themenblock Normen. Verfolgt uns immer wieder mit großer Freude natürlich.
+
+(0:02:51 - 0:03:08)
+Da ist eben alles geregelt, was wir so brauchen für so eine Kabelberechnung. Manchmal ein bisschen lästig, aber am Ende ist das in Deutschland ja schon so, dass es in Normen geregelt ist und dass wir wirklich wissen, woran wir uns halten können. Das kann man immer diskutieren und kann man auch vielleicht mal von abweichen, wenn man gute Gründe dafür hat.
+
+(0:03:08 - 0:03:35)
+Aber erst mal stehen die Normen über alles. Deshalb ist das hier für uns ein wichtiger Block, auf den wir dann eingehen, bevor wir dann zu dem Kabeldimensionierung gehen, die Dimensionierungsparameter, die man dafür so braucht und danach der letzte Teil, der dann kommt, Mittelspannungskabelberechnung, Niederspannungskabelberechnung und Stringkabelberechnung an einem Beispiel durchzuführen. Also los!

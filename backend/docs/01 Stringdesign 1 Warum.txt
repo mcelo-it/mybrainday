@@ -1,0 +1,32 @@
+(0:00:00 - 0:00:14)
+Also, da führen wir uns durch und dann starten wir auch gleich mit der Motivationsfrage. Also, wenn mich jemand fragt, warum String Design, würde ich mit ihm antworten. Ich habe es über mich mal so grafisch so ein bisschen dargestellt.
+
+(0:00:14 - 0:00:23)
+Darum geht es jetzt, String Design. Man verbastelt sozusagen zwei, in dem Fall zwei oder mehr Module mit einem Wechselrichter. Das ist für uns das String Design.
+
+(0:00:24 - 0:00:36)
+Und warum ist das so wichtig? Also, ganz wichtig erstmal, weil es technische Grenzwerte gibt. Das zeigen wir dann auch nochmal im Detail. Aber man will also nicht den Wechselrichter kaputt machen und wenn auch nicht die Garantie verarlieren.
+
+(0:00:36 - 0:00:58)
+Also, man muss die technischen Grenzwerte im Detail prüfen und dann natürlich auch nachweisen können, dass man es gemacht hat und sie sinnhaft einhält. Für uns so ein zweiter Punkt, der sich auch durch alle unsere Vortragsreihen, glaube ich, durchzieht, ist, dass es ja dann doch zum Glück auch irgendwo normativ immer festgehalten ist. In unserem Fall ist das die 0100712.
+
+(0:00:59 - 0:01:06)
+Da stehen noch auch andere Sachen drin und die gehen wir heute im Detail nicht durch. Für alle, die schon öfter mal dabei waren, jetzt keine Angst haben. Heute gibt es ganz wenige Normen.
+
+(0:01:07 - 0:01:20)
+Ehrlich gesagt, war es das dann jetzt, glaube ich, schon. Also, ich will hier drauf verweisen, dass das auch normativ eine Grundlage hat, unser String Design. Wir machen das also nicht, weil wir denken, dass es richtig ist, sondern weil die Norm das auch so vorsieht.
+
+(0:01:21 - 0:01:45)
+Und der dritte Punkt, das ist weniger technisch für mich, so greife ich es zumindest im Wording, sondern da geht es um das projektspezifische Anlagendesign. Was meine ich dann damit? Also einmal, der Wirkungsgrad der Anlage ist abhängig vom String Design. Das ist nicht richtig und falsch, sondern man hat halt Vor- und Nachteile, wie so oft im Leben.
+
+(0:01:45 - 0:02:04)
+Und jetzt kann ich den Wirkungsgrad erhöhen über das String Design, dann habe ich aber vielleicht andere Effekte, die ich nicht will. Insofern muss ich nur die Auswirkungen kennen. Und gleichzeitig, das ist meistens die Kontraseite, sonst würde man es nicht diskutieren, ist es so, dass die Material- und auch Montagekosten abhängig sind von dem String Design.
+
+(0:02:04 - 0:02:20)
+Das sehen wir eben dann später in den Beispielen immer ganz gut. Da kommt eine Rückmeldung von der Baustelle, um Himmels Willen, wer hat sich das denn ausgedacht? Ja, kann ich sagen, das war der Theoretiker am Schreibtisch, weil es nämlich nach Tabelle die beste Lösung ist. Kommerziell vielleicht, aber vor Ort ein Albtraum.
+
+(0:02:20 - 0:02:34)
+Und deswegen steigen im Endeffekt die Montagekosten dann wieder über die Materialeinsparkosten. Also dann muss man so eine Gesamtprojektperfektion versuchen zu greifen. Und das läuft bei uns unter Anlagendesign.
+
+(0:02:34 - 0:02:49)
+Also vielleicht nochmal groß abspeichern. Wir machen das, weil es in der Norm steht. Okay, aber dann geteilt, weil wir technische Grenzwerte, Limitierungen austesten müssen und weil wir das optimale projektspezifische Anlagendesign suchen.
