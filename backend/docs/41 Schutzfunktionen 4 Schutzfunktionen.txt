@@ -1,0 +1,575 @@
+(0:00:00 - 0:00:19)
+Das war der Aufbau. Wenn ihr jetzt Strom und Spannung messt, dann habt ihr natürlich viele Möglichkeiten, Schutzfunktionen zu realisieren und umzusetzen. Und jetzt gehen wir einfach mal in den größten Block für heute, in den für mich auch wichtigsten Block, in diese ganzen Schutzfunktionen.
+
+(0:00:19 - 0:00:34)
+Also hier erhöhte Aufmerksamkeit. Wir haben jetzt auf jeden Fall bis zur Pause noch eine ganze Menge Zeit. Die würden wir jetzt auch nutzen und dann, sage ich mal, irgendwo in diesen Schutzfunktionen eine kleine Unterbrechung einplanen.
+
+(0:00:36 - 0:00:50)
+So, Schutzfunktionen. Wie geht es los? Wir fangen an mit dem Netz- und Anlagenschutz oder kurz gesagt NA-Schutz. So ist, glaube ich, der Begriff, den ihr alle vielleicht schon mal gehört habt.
+
+(0:00:51 - 0:01:07)
+Und dieser NA-Schutz, der setzt sich dann eben zusammen aus zwei Ebenen. Übergeordnet schreiben wir jetzt mal zuerst später. Auf der anderen Seite, das kommt nach dem Block übergeordnet, kommt dann eben der zwischengelagerte oder untergeordnete.
+
+(0:01:07 - 0:01:25)
+Da gibt es verschiedene Ausdrücke. Wir fangen an mit übergeordnet und der wird realisiert am NAP. Und NAP ist bei uns der Netzanschlusspunkt, also häufig die Übergabestation oder das Umspannwerk, je nachdem wo, auf welcher Spannungsebene wir einspeisen.
+
+(0:01:26 - 0:01:45)
+Und wir haben ja auch noch hingeschrieben, Wiederzuschaltung mit Netzleitstelle, also den Netzanschlusspunkt schalten wir in der Regel nicht automatisch. So und der erste Punkt, der jetzt auch wirklich kommt, ist dann der QU-Schutz, habe ich eben schon erwähnt. Und jetzt würden wir dann auch noch mal so ein bisschen ins Detail gehen, beziehungsweise Detail ist gut.
+
+(0:01:45 - 0:02:01)
+Wir haben heute nur ein paar Minuten für den QU-Schutz, also wir geben euch erstmal die erste Idee. Und im Sommer, wie gesagt, dann wirkliche Details, was man da macht, wie man ihn prüft und so weiter. Heute sollt ihr erstmal nur verstehen, was der QU-Schutz überhaupt ist und was er macht.
+
+(0:02:02 - 0:02:25)
+So, hier linke Seite, NAP, Netzanschlusspunkt, sage ich mal, das ist vielleicht die Muffe vor der Übergabestation. Dann kommt ein Leistungsschalter und QU-Schutz heißt eben, das Wort passt hier kaum in eine Zeile, Blindleistungsrichtungsunterspannungsschutz. Dadurch, dass das Wort so lang ist, erklärt ist, finde ich auch schon relativ viel.
+
+(0:02:26 - 0:02:35)
+Da kommen wir gleich dazu. Wir würden das jetzt mal hier als Grafik darstellen. Das ist auch genau das Logikschema, wie man es in der Norm findet.
+
+(0:02:35 - 0:02:51)
+Wir messen eine Spannung am Netzanschlusspunkt und jetzt sind wir bei diesem langen Wort, ich sage mal, schon fast an der Ende. Am Ende, wir messen hier die Unterspannung. Und zwar messen wir die Leiterleiterspannung und schauen, ob die kleiner 85% ist.
+
+(0:02:51 - 0:03:08)
+Und im nächsten Schritt zeigen wir euch auch, dass das eine Unverknüpfung ist. Das heißt, wenn nur zwei Phasen kleiner als 85% sind, dann ist dieser QU-Schutz nicht aktiv. Also alle Phasen müssen unter 85% sein.
+
+(0:03:08 - 0:03:35)
+Das ist ja erstmal Kriterium 1. Der Unterspannungsschutz, also der Teil von dem Wort oben, der hintere Teil, der wäre jetzt hier erstmal gezeigt und definiert mit einer Unverknüpfung. Und dann gibt es eben noch oben einen weiteren Logikpfad, der misst Spannung und Strom. Und wenn man Spannung und Strom misst, kann man durch die Phasenverschiebung ermitteln, wie viel Blind- und wie viel Wirkleistung man einspeist.
+
+(0:03:36 - 0:03:50)
+Und eben auch schauen, in welchen Quadranten man sich befindet. Und wenn man jetzt festlegt, wir beziehen Blindleistung aus dem Netz, dann ist das zweite Kriterium erfüllt. Auch hier ist es eine Unverknüpfung.
+
+(0:03:51 - 0:04:05)
+Also wenn die Netzspannung gesund wäre und wir beziehen Blindleistung aus dem Netz, ist das erstmal kein großes Problem. Dann würde der QU-Schutz nicht aktiv werden. Weil wir dann davon ausgehen können, dass unser Netz stabil läuft und dann können wir ruhig mal ein bisschen Blindleistung beziehen.
+
+(0:04:05 - 0:04:24)
+Erst wenn unser Netz in Schwierigkeiten ist, spannungsseitig, dann müssen wir eben sehen, dass wir das Netz stützen und nicht weiter schwächen. Und alle die schwächen werden abgeschaltet oder werden automatisch rausgeworfen. Dann gibt es noch ein weiteres Kriterium, das ist das Minimalstromkriterium.
+
+(0:04:25 - 0:04:47)
+Das ist in der Regel 10% des Nennstroms. Das heißt, wenn eure Anlage in einem schwachen Lastbetrieb ist, auch dann wird der QU-Schutz gar nicht aktiviert. Weil auch dieses Minimalstromkriterium oder Mindeststromkriterium, weil das eben in dieser Unverknüpfung dafür sorgen würde, dass nicht alle Signale da sind.
+
+(0:04:48 - 0:05:13)
+Und dann kommen wir nicht in die Anregung, in die Anregephase. Und dann wird eben nicht der jetzt folgende Auslöse-Timer gestartet, der eben nach 500 ms dafür sorgt, dass dann wiederum ein Auslösesignal an den Leistungsschalter geschickt wird, der dann wahrscheinlich so 50, 60, 70 ms später die Anlage vom Netz getrennt hat. So ist ein QU-Schutz aufgebaut.
+
+(0:05:14 - 0:05:33)
+Ich hoffe, dass das erstmal greifbar ist für alle. Merkt euch, Unterspannung, Blindleistung muss erfüllt sein, Mindeststrom auch merken, ist aber vielleicht nicht der allerwichtigste Punkt hier. Und dann haben wir meistens Auslösezeiten von 500 ms, und zwar am Netzanschlusspunkt für Freiflächenanlagen.
+
+(0:05:33 - 0:05:50)
+Für Dachanlagen, vielleicht jetzt hier schon mal ein kleiner Exkurs, da kommen wir später dann auch nochmal dazu. Für Dachanlagen ist es dann meistens so, dass wir ja nicht die Produktion vom Netz werfen wollen, weil wir etwas Blindleistung aufgenommen haben. Für Produktionshallen gelten diese Richtlinien nicht.
+
+(0:05:51 - 0:06:12)
+Das heißt, wir müssen zwar am Netzanschlusspunkt messen für unseren Solarpark, aber müssen dann in der Regel dafür sorgen, dass das Auslösesignal an eine andere Stelle geschickt wird, wo wir eben nur den Solarpark abschalten. Ist dann meistens die Niederspannungs-Hauptverteilung, zeigen wir euch nachher nochmal. Wir haben es jetzt erstmal für eine Freiflächenanlage dargestellt, weil das erstmal einfach ist.
+
+(0:06:13 - 0:06:28)
+Freiflächenanlagen sind aus meiner Sicht leichter zu planen als Dachanlagen. So, das war die erste Schutzfunktion, die wir hier haben, ich sage mal von rund 10 Stück, die wir nachher zusammen haben. Jetzt geht es weiter, übergeordnet weiterhin, Spannungsschutz.
+
+(0:06:29 - 0:06:49)
+Spannungsschutz ist sicherlich nicht so komplex, wird aber bei eigentlich jeder Anlage gefordert. Der Netzbetreiber gibt uns das vor, die 4110 definiert es im Grunde genommen vor, der Netzbetreiber entscheidet. Wir haben den Netzanschlusspunkt wie vorhin, wir haben wieder einen Leistungsschalter und wir machen wieder eine Auslösung und Messung am Netzanschlusspunkt.
+
+(0:06:50 - 0:07:07)
+Für einen Spannungsschutz braucht man einen Spannungswandler, der ist jetzt links schon mal dargestellt. Das sind diese zwei Kreise und an diesen zwei Kreisen ist dann unser Schutzrelais angeschlossen. Und in der Mittelspannung ist es dann in der Regel so, dass unser Schutzrelais die Leiterleiterspannung misst.
+
+(0:07:07 - 0:07:28)
+Das sieht man in diesen Funktionsblöcken U12, U23, U31. Und diese Spannungsschutzfunktionen haben eben einen ANSI-Code, der jetzt hier dargestellt ist mit der 59 und der 27. Das eine ist für Unterspannung, also die 59 ist für Überspannung, wenn ich jetzt richtig liege, und die 27 für Unterspannung.
+
+(0:07:29 - 0:07:50)
+Diese Schutzfunktionen kann man jetzt mehrstufig aufbauen. U größer, U kleiner natürlich und eben auch U größer, größer, U kleiner, kleiner. Das heißt im Grunde genommen, wir messen die Spannung und je nachdem, auf welchen Wert unsere Spannung fällt oder steigt, startet unser Relais dann am Ende einen Timer.
+
+(0:07:51 - 0:08:02)
+Wir haben hier eine ODA-Verknüpfung, vielleicht wichtig im Gegensatz zu dem QU-Schutz. Hier reicht es, wenn zum Beispiel zwei Spannungen absinken. Bei geerdeten Netzen reicht es sogar, wenn eine Spannung absinkt.
+
+(0:08:03 - 0:08:20)
+Dann ist es eine ODA-Verknüpfung und dann wird ein entsprechender Timer gestartet. Je nachdem, in welcher Stufe wir uns dann befinden, ist die Zeit schneller oder langsamer. Das heißt, wenn wir U kleiner, kleiner haben, also sehr, sehr tiefe Spannungsabsinkung, dann wollen wir sehr, sehr schnell abschalten.
+
+(0:08:20 - 0:08:49)
+Wenn wir U kleiner haben, dann ist die Zeit meistens etwas langsamer. Dann entscheidet das Relais nach der definierten Zeit, den Ausbefehl abzusenden und wiederum den Mittelspannungsleistungsschalter auszuschalten. Jetzt wollen wir euch noch mal zeigen, wie so eine Spannungsfunktion aussehen kann in einer Grafik.
+
+(0:08:49 - 0:08:57)
+Wir haben hier die erste Achse gezeigt mit der Spannung. Das heißt, die Spannung steigt an. Auf der Y-Achse zeigen wir die Zeit.
+
+(0:08:58 - 0:09:08)
+Irgendwo auf der Spannungsachse haben wir dann so eine Art Nennspannung. Was heißt so eine Art? Das ist die Nennspannung, sagen wir mal 20.000 Volt oder meinetwegen auch 400 Volt. Das sei jetzt mal dahingestellt.
+
+(0:09:10 - 0:09:22)
+Links von dieser Unennen haben wir eben den Unterspannungsbereich. Also alles, was kleiner ist als unsere Nennspannung, ist Unterspannung. Alles, was größer ist als unsere definierte Netzspannung, ist eben Überspannung.
+
+(0:09:23 - 0:09:37)
+Und vielleicht noch mal klar sagen, das hat jetzt erstmal nicht unbedingt was mit Blitzschutz zu tun, sondern einfach mit die Netzspannung steigt. So, jetzt würden wir mal auf die Unterspannungseite springen. Wir haben jetzt erstmal eine Linie reingemalt.
+
+(0:09:38 - 0:09:52)
+Das heißt, die Spannung ist jetzt erstmal abgefallen auf einen Wert kleiner unsere Nennspannung, sagen wir mal 80%. Das ist meines Erachtens nach so ein Wert, der häufig für die erste Spannungsstufe gilt. Das ist dann U kleiner.
+
+(0:09:53 - 0:10:02)
+Wird dann ungefähr an der Stelle definiert. Und dann gibt es dazu eben eine Zeit. U kleiner, ich glaube, in zum Beispiel 2,7 Sekunden sieht man häufig.
+
+(0:10:02 - 0:10:13)
+Das kann man erstmal so definieren. Und dann gibt es noch eine zweite Stufe jetzt in unserem Fall. Das wäre dann U kleiner, kleiner mit einer schnelleren Ausschaltzeit.
+
+(0:10:13 - 0:10:23)
+Also die Zeit wird kleiner auf der linken Seite. So könnte jetzt erstmal so ein Unterspannungsmodell aussehen. Manchmal hat man nur eine Stufe, manchmal hat man zwei Stufen.
+
+(0:10:24 - 0:10:45)
+Und im Grunde genommen sind alle Stufen sowohl vom Betrag, also von dem Spannungsschwellwert, als auch von der Zeit variabel in so einem Relais einstellbar. Und nehme ich mal vorweg, meistens gibt euch der Netzbetreiber das ja auch vor mit diesem E9-Bogen. So und jetzt zeigen wir euch das Ganze nochmal auf der Überspannungsseite.
+
+(0:10:46 - 0:10:55)
+Im Grunde genommen baut es sich ähnlich auf oder fast genauso, nur gespiegelt. Wir haben ein U größer, was definiert wird. Wir haben ein U größer, größer, was definiert wird.
+
+(0:10:56 - 0:11:15)
+Jetzt seht ihr auch schon, die gestrichelten Linien haben eine unterschiedliche Länge, weil dann eben die Auslösezeiten an der Stelle auch unterschiedlich sind. Das eine löst schneller aus, das andere löst etwas langsamer aus. So, alles was jetzt innerhalb des Bereichs ist, ja genau, auch die Überspannung ist natürlich flexibel.
+
+(0:11:15 - 0:11:52)
+Wir haben es ja auch so ein bisschen dargestellt, ein bisschen Höhen versetzt, einfach um euch nur zu zeigen, das ist natürlich nicht unbedingt immer der gleiche Abstand vom Unennen, sondern Überspannungen gibt es glaube ich bis 125 Prozent und Unterspannungen sind einfach andere Werte definiert vom Netzbetreiber. So, jetzt kommt der Frequenzschutz. Der ist funktioniert, ich sage es jetzt erstmal ähnlich, der misst nämlich auch am Netzanschlusspunkt und der misst auch über Spannungswandler.
+
+(0:11:52 - 0:12:28)
+Das ist erstmal gut zu wissen. Häufig ist das auch kombiniert in einem Gerät oder eigentlich fast immer, muss ich schon sagen, aber die Funktion muss natürlich aktiviert oder deaktiviert werden. Es gibt diese Über- und Unterfrequenzschutz. 
+
+In der ANSI-Norm wird es definiert als Nummer 81, O und U, also over und under, das ist immer Englisch. Und auch dieser Frequenzschutz ist mehrstufig. Hier der Unterschied zu der Spannung, in der Regel ändern sich im Netz immer alle drei Spannungen.
+
+(0:12:29 - 0:12:49)
+Das ist denke ich völlig ausgeschlossen, dass so ein Generator eine rotierende Maschine auf einer Frequenz eine höhere Spannung macht als auf den anderen beiden. Das ist baulich einfach nicht möglich. Deshalb ändern sich hier alle drei Frequenzen und deshalb haben wir auch nur einen Funktionsblock dargestellt.
+
+(0:12:50 - 0:13:14)
+Und so wird das dann auch geprüft von dem Schutzprüfer. Alle drei Frequenzen ändern sich nach oben oder nach unten. Und je nachdem in welcher Frequenzstufe man sich dann befindet, f kleiner oder f kleiner kleiner oder welchen Grenzwert man über- oder unterschreitet, haben wir dann eben eine definierte Auslösezeit, die eben zu dieser Stufe dazugehört und lösen dann mal nach 5 Sekunden aus, mal nach 100 Millisekunden.
+
+(0:13:15 - 0:13:35)
+Das kann immer mal ein bisschen variabel sein, wenn der Netzbetreiber eine andere Vorstellung für sein Netz hat, weil wir hier vor allem sein Netz auch schützen. Das ist jetzt im Prinzip die gleiche Grafik wie vorhin. Wir haben eine Nennfrequenz, das ist in Deutschland ja immer 50 Hertz oder in ganz Europa ist es 50 Hertz.
+
+(0:13:36 - 0:14:13)
+Und dann gibt es eben einen Frequenzbereich, der unter diesen 50 Hertz liegt und es gibt einen Frequenzbereich, der liegt über diesen 50 Hertz. Und sobald man jetzt irgendwo links von der gelben Linie ist oder ganz rechts von der rechten Linie ist, dann bewegt man sich in diesen Auslösebereich und das Schutzrelais soll dann eben einen Auslösebefehl absetzen und den Leistungsschalter ausschalten. Alles was innerhalb dieser beiden gelben Treppen ist, ist dann eben entweder vom Grenzwert der Frequenz oder vom Grenzwert der Zeit in einem gesunden Zustand und wir schalten nicht aus.
+
+(0:14:13 - 0:14:35)
+Das heißt, wir können ruhig mal für einen kurzen Zeitraum F größer, größer überschreiten, aber eben nur für einen kurzen Zeitraum. Wenn wir dann zurückfallen in den gesunden Bereich, dann lösen wir nicht aus. Wir zeigen euch das nachher nochmal so ein bisschen am Strom, wo man so Prüfschlüsse setzt, seht ihr dann nachher nochmal.
+
+(0:14:35 - 0:14:52)
+Dann wird es vielleicht nochmal ein bisschen anschaulicher. Jetzt würden wir im Prinzip die gleichen Schutzfunktionen betrachten, also Netz- und Anlagenschutz. Dabei bleiben wir jetzt erstmal und würden jetzt aber von dem übergeordneten rüber springen zu dem zwischengelagerten.
+
+(0:14:54 - 0:15:48)
+Der zwischengelagerte Schutz, also ich sage jetzt mal Spannung und Frequenz, blenden wir gleich ein und ich setze das jetzt nochmal in Klammern dazu. Der QU-Schutz, den gucken wir uns im Folgenden mal an. Der QU-Schutz, den jetzt aber nicht, ich habe es gesagt, eingeklammert oder ausgeklammert, wäre sicherlich bei Dachanlagen häufig auch mal als zwischengelagerter Schutz mit dabei bzw. 
+
+in der NSHV mit eingebaut. Aber jetzt haben wir ihn erstmal links stehen lassen als QU-Schutz und gucken uns jetzt erstmal nur den Spannungsschutz an und den Frequenzschutz, weil in unseren Freiflächenanlagen sind das dann die beiden Funktionen, die in den Niederspannungs-Hauptverteilungen der Strafo-Stationen umgesetzt werden. Und sie werden auch immer bei Dachanlagen in den Niederspannungs-Hauptverteilungen umgesetzt.
+
+(0:15:50 - 0:16:07)
+Und alle beide Funktionen darf man in der Regel automatisch auch wieder zuschalten. Die Funktionen an sich funktionieren jetzt genauso wie der übergeordnete Schutz. Bei der Spannung kann man jetzt vielleicht noch anfügen, dass meistens unsere Niederspannungsnetze oder früher zumindest immer geerdet waren.
+
+(0:16:07 - 0:16:21)
+Dann würde es reichen, wenn eine Spannung absinkt und nicht zwei Phasen absinken. Das ist ein Detail, aber vom Grundsatz her sind diese Schutzfunktionen identisch zu den übergeordneten. Wir messen nur an einer anderen Stelle und wir lösen eben an einer anderen Stelle aus.
+
+(0:16:21 - 0:16:47)
+Und das haben wir jetzt nochmal hier in dieser Grafik dargestellt. Übergeordnet ist eben Messung in der Mittelspannung in der Regel für Frequenz, Spannung und QU mit eben den jeweils zugehörigen Auslösezeiten. Das ist hier ein bisschen vereinfacht. 
+
+Normalerweise bräuchten wir jetzt viel mehr Funktionsblöcke. Aber so ist es, denke ich, erstmal ausreichend verständlich für alle. Frequenz löst in einer anderen Zeit aus als Spannung, als QU.
+
+(0:16:47 - 0:17:01)
+Aber hier haben wir es mal kombiniert, der Übersichtlichkeit halber. Und dann lösen eben die übergeordneten alle am Leistungsschalter am Netzanschlusspunkt aus. Der zwischengelagerte Schutz wiederum, der ist auf der Niederspannungsseite des Trafos.
+
+(0:17:07 - 0:17:27)
+Eigentlich würde man ihn an der EZE, also am Wechselrichter, umsetzen. Da wir jetzt aber bei fast allen Parks Wechselrichter haben, die keine Prüfklemmleiste enthalten, die nicht prüfbar sind im Sinne von einer Schutzprüfung. Kein Auslösekontakt, kein Anregekontakt und so weiter.
+
+(0:17:28 - 0:18:05)
+Und natürlich auch die Vielzahl der Wechselrichter spielt natürlich auch eine große Rolle. Deshalb hat man eben entschieden, dass wir ein zwischengelagertes Schutzrelais einsetzen müssen, was wir dann zum Beispiel in der Niederspannungsverteilung unserer Trafostation oder in der Niederspannungshauptverteilung von unserem Gebäude oder im PV-Schrank von unserem Gebäude installieren müssen. Das heißt, wir messen an einer zentralen Stelle, wo wir dann eben die Schutzfunktionen umsetzen, prüfen können und dann zentral über einen Leistungsschalter alle 30 Wechselrichter ausschalten.
+
+(0:18:06 - 0:18:23)
+Das ist natürlich vom Prüfaufwand her viel einfacher und die Prüfung an einem Wechselrichter ist eben gar nicht möglich. Deshalb gibt es dieses Schutzrelais. Jetzt haben wir noch vor dem Niederspannungsleistungsschalter ein bisschen Platz gelassen.
+
+(0:18:23 - 0:18:43)
+Da fliegt jetzt nochmal ein Motor rein. Und diesen Motorantrieb, den bräuchte man, wenn man automatisch zuschalten will, weil ansonsten kann der Motor natürlich nicht zuschalten. Hier ist nochmal genannt, dass die Wirkorte dieser beiden Schutzfunktionen unterschiedlich sind.
+
+(0:18:46 - 0:18:58)
+Wir kommen später nochmal darauf, wo der Frequenzschutz bei so einem Gebäude auslösen kann. Also wenn wir jetzt bei einer Dachanlage nochmal sind, nochmal darüber schwenken. Ich hoffe, das ist nicht zu verwirrend.
+
+(0:18:58 - 0:19:11)
+Dann würde man den Auslöseort ja sicherlich bei Frequenzspannung und Q auch woanders hinlegen, also irgendwo ins Gebäude. Das sei jetzt erstmal dahingestellt. Ich will hier nicht für zu viel Verwirrung sorgen.
+
+(0:19:11 - 0:19:19)
+Wir lassen es erstmal einfach. Das ist hier die Freiflächenanlage und das richtige System für die Freiflächenanlage. Die Parameter sind unterschiedlich.
+
+(0:19:19 - 0:19:33)
+Das ist dann das Stichwort vom Anfang. Etwas Selektivität, die wir hier haben wollen. In der Regel löst dann erst das zwischengelagerte Relais aus und erst später das übergeordnete Relais.
+
+(0:19:37 - 0:19:45)
+Jetzt haben wir den Netz- und Anlagenschutz erstmal hinter uns. Wir grauen das ganze Thema aus. Jetzt kommt aber ein viel größerer Block Überstrom.
+
+(0:19:47 - 0:20:01)
+Und da würden wir, denke ich, bevor wir da reinspringen, jetzt erstmal eine kleine Pause machen von 5 Minuten. Hat mir gerade die Regie zu geflüstert. Wir sind jetzt genau bei 1 Minute vor 9. Wir machen 5 Minuten Pause.
+
+(0:20:02 - 0:20:08)
+Ihr könnt den Netz- und Anlagenschutz erstmal verdauen. Danach kommt der Überstromschutz. Ist ein großer Block, viele Punkte.
+
+(0:20:09 - 0:20:18)
+Und dafür holt ihr euch am besten erstmal einen Kaffee. Also bis in 5 Minuten. Sind hoffentlich alle wieder zurück.
+
+(0:20:19 - 0:20:26)
+Erfrischt mit einem kleinen Kaffee. Wir sind schon fast mittendrin im Überstrom. Wir haben zumindest das erste Feld eingeblendet.
+
+(0:20:27 - 0:20:44)
+Ich habe meine Fernbedienung verloren. Hier ist sie. Und jetzt geht es los mit der ersten Schutzfunktion in der Kategorie Überstrom.
+
+(0:20:45 - 0:20:55)
+Und das ist der UMZ. Da würden wir jetzt auch gleich mal reinspringen. UMZ ist immer ein kurzer Begriff, den jeder mal so sagt, aber die wenigsten wissen, was es eigentlich heißt.
+
+(0:20:56 - 0:21:05)
+Und das ist nämlich der unabhängige Maximalstromzeitschutz. Ist auch wieder ein sperriges Wort. Wir kommen gleich so ein bisschen dahin, warum das genau so heißt, wie es heißt.
+
+(0:21:06 - 0:21:16)
+Jetzt zeigen wir erstmal, wie das Ganze funktioniert. Also oft ist es eben so, wir haben eine Schaltanlage, sage ich mal, mit einer Sammelschiene. Ihr erinnert euch vielleicht an das Bild, was wir ganz am Anfang mal gezeigt hatten.
+
+(0:21:19 - 0:21:30)
+Und da ist ein Leistungsschalter dran. Hier haben wir jetzt noch mal als Schutzobjekt noch mal einen Transformator mit dargestellt. Und vor unserem Schutzobjekt wäre dann eben ein Stromwandler.
+
+(0:21:31 - 0:22:01)
+Dieser Stromwandler misst Strom. Wir haben das jetzt hier, das war so ein bisschen unsere Entscheidung, wir haben jetzt mal gesagt, er misste Strom von Phase 1 und 2, von 2 und 3 oder von 3 und 1. Und diese Ströme sind dann im Kurzschlussfall, das ist elektrotechnik, 180 Grad entgegengesetzt, weil wir haben einen Kurzschluss zwischen zwei Phasen. Dann muss der im Prinzip sich so hinbiegen, der Strom, dass beide Ströme in die Fehlerstelle reinfließen und sich dort eben aufheben.
+
+(0:22:03 - 0:22:20)
+Egal auf welchen zwei Phasen jetzt dieser Kurzschluss entsteht oder eben auch auf drei Phasen, es ist eine Oder-Verknüpfung. Und je nach Höhe des Stroms gehen wir dann eben in eine Auslöselogik rein. Meistens ist es zweistufig I größer, I größer, größer.
+
+(0:22:21 - 0:22:42)
+Und das Relais setzt dann entsprechend die Auslösezeit nach der definierten Zeit ab. Also für das I größer sehen wir da an so Trafostationen oft mal 300 Sekunden, 500 Millisekunden, manchmal auch noch länger. Für das I größer, größer sind wir dann meistens deutlich schneller.
+
+(0:22:43 - 0:23:00)
+Ich sage mal 100 Millisekunden ist da so ein klassischer Wert, vielleicht auch manchmal schneller. Da geht es dann eben darum, in einem satten Kurzschlussfall den Schaden an der Fehlerstelle möglichst gering zu halten. Die I größer Stufe, die würde ich vielleicht erstmal für uns ein bisschen definieren.
+
+(0:23:01 - 0:23:22)
+Da geht es eher darum, das Thema Überlast zu schützen. Das heißt, wir überschreiten jetzt den Schwellwert oder den Betriebsstrom jetzt nicht um das Zehnfache, sondern eher um das um 20, 30 Prozent. Dann entsteht kein so großer Schaden natürlich, sondern Bauteile werden erwärmt und erhitzt und dann müssen wir nicht so schnell auslösen.
+
+(0:23:23 - 0:23:40)
+So, jetzt nochmal schnell das Auslösesignal zu dem Leistungsschalter. Was ich übersprungen habe, sind die ANSI-Codes, die wir hier nennen. Das ist ANSI 50 und ANSI 57 für einmal den ungerichteten UMZ 50.
+
+(0:23:40 - 0:23:49)
+Ich glaube, den hatte ich eben auch schon mal genannt. Den sieht man wirklich häufig, den gerichteten UMZ mit der 67. Den sehe ich eigentlich nicht so oft.
+
+(0:23:49 - 0:24:04)
+Wir hatten ihn schon ein-, zweimal. Wichtig ist, wenn man einen gerichteten Strom messen will, braucht man immer Spannungswandler. Weil ohne Spannung kriegt man bei Wechselstrom, der immer nach links und rechts fließt, keine Richtung, keine Energieflussrichtung detektiert.
+
+(0:24:08 - 0:24:25)
+So, jetzt zeigen wir euch mal wieder so ein klassisches Diagramm. Ihr kennt das vielleicht, wenn ihr mal so eine Schutzstudie gelesen habt oder so eine Selektivitätsberechnung euch angesehen habt. Da sieht man dann immer so ein Zeit-Strom-Diagramm, würde ich es jetzt mal nennen.
+
+(0:24:26 - 0:24:42)
+Und da sind dann die Kennlinien, die wir berechnen, nachher dargestellt. Und man kann dann sehen, ob die Komponenten geschützt sind oder ob alle Geräte selektiv arbeiten. Also Auslösung erst mal durch Überschreiten von der Stromschwelle.
+
+(0:24:42 - 0:24:51)
+Das hatten wir eben in der Logik auch gesehen. Je nachdem, wie viele Schwellen es gibt. Wenn eine Schwelle überschritten wird, dann wird ein Timer gestartet.
+
+(0:24:51 - 0:25:11)
+Und dann muss eben auch die, ja, jetzt kommt ja erst die Stromschwelle ins Diagramm, aber dann muss eben auch nachher die Verzögerungszeit ablaufen. Und erst dann wird eben die Entscheidung getroffen, dass wir auslösen. So, wir haben jetzt hier unten in unserem Diagramm erst mal ein I größer dargestellt.
+
+(0:25:11 - 0:25:30)
+Also ich sage mal, alles was links von dem I größer liegt, ist der Betriebsbereich, würde ich jetzt mal so definieren. Da erwarte ich dann keine Auslösung. Alles was über I größer ist, ist dann, ich nenne das jetzt mal Überlastbereich.
+
+(0:25:31 - 0:25:39)
+Und alles was über I größer, größer ist, ist dann mein Kurzschlussbereich. Und diesem I größer ist eben eine Zeit zugeordnet. Das ist T größer.
+
+(0:25:40 - 0:26:00)
+Und mein I größer, größer ist eben auch eine Zeit zugeordnet, T größer, größer, die dann deutlich schneller normalerweise ist als T größer. So, daraus ergibt sich jetzt eben diese Kennlinie. Und wir haben jetzt im Prinzip den Bereich definiert, der gesund ist.
+
+(0:26:00 - 0:26:18)
+Das ist alles was, ja, links unterhalb der orangenen Linie liegt. Und alles was oberhalb rechts von der orangenen Linie liegt, das ist dann der Auslösebereich. So, die Linie ist natürlich flexibel, sage ich mal, bewegbar.
+
+(0:26:18 - 0:26:31)
+Also ich sage mal, Zeit nach unten sind wir fast, kann man bis 50 Millisekunden meistens runterschieben. Die Zeit nach oben kann man wahrscheinlich auch mehr oder weniger unbegrenzt hochschieben. Und die Ströme eben auch.
+
+(0:26:32 - 0:26:42)
+Also seid ihr sehr flexibel, könnt ihr fast machen was ihr wollt. Man muss dann eben aufpassen, dass man die Werte nicht zu klein oder zu groß einstellt. Dass wir vielleicht mal aus Versehen auslösen, das will man nicht.
+
+(0:26:42 - 0:26:53)
+Und zu groß einstellen, dass wir gar nicht auslösen, das wollen wir natürlich auch nicht. Also das muss man berechnen und dann findet man hier die richtigen Werte. So, jetzt haben wir mal Beispiele gemacht.
+
+(0:26:54 - 0:27:03)
+Wir nennen das jetzt Prüfschüsse. Und ihr seht schon der erste Punkt, der ist jetzt in dem Diagramm unten links auch dargestellt. Also er ist kleiner als I größer.
+
+(0:27:04 - 0:27:16)
+Von daher, ich hatte es eben gesagt, das ist jetzt erstmal mein Betriebsbereich. Und der unterschreitet auch beide Auslösezeiten. Dann würde ich jetzt sagen, bei dem Prüfschuss befinden wir uns in einem ganz normalen Betrieb.
+
+(0:27:16 - 0:27:31)
+Und der Strom, der ist sowieso nur für so eine kurze Zeit da gewesen, dass wir da weit weg sind von Auslösungen. Jetzt genau Daumen hoch. Ich sage mal Daumen hoch, weil wir haben einen normalen Betriebszustand.
+
+(0:27:32 - 0:27:42)
+Wir gehen mal weiter. Jetzt schieben wir diesen Wert mal weit nach oben. Das heißt, wir haben wenig Strom für eine relativ lange Zeit.
+
+(0:27:42 - 0:27:56)
+Das heißt, das I größer Kriterium ist nicht erfüllt, obwohl aber T größer und T größer erfüllt wären. Weil das aber eine Unverknüpfung ist, lösen wir nicht aus. Wenig Strom ist für uns erstmal kein Problem.
+
+(0:27:56 - 0:28:10)
+Wenn wir jetzt aber den Strom erhöhen und den I größer überschreiten, dann wird der Timer von T größer gestartet. Und das kommt dann irgendwann zu einer Auslösung. Wir machen jetzt den Daumen runter.
+
+(0:28:10 - 0:28:18)
+Lasst euch da aber nicht in die Irre führen. Das ist nicht schlecht. Wenn wir den Strom überschreiten, ist das natürlich per se erstmal ein Problem.
+
+(0:28:19 - 0:28:33)
+Aber dass das Schutzrelais das dann detektiert und auslöst, das ist ja erstmal gut und richtig. Hier sind wir im Auslösebereich. Jetzt erhöhen wir den Strom deutlich für eine sehr kurze Zeit.
+
+(0:28:34 - 0:28:43)
+Das sieht man jetzt bei dem Punkt, der unten rechts im Diagramm dargestellt ist. Also I größer und I größer größer. Diese Stufen regen an, sagen wir, weil die Werte überschritten werden.
+
+(0:28:44 - 0:28:56)
+Aber die Zeiten laufen dann ja auch los von T größer und T größer. Aber eben der Strom fällt aus irgendeinem Grund wieder zurück. Der Fehler wird geklärt aus irgendeinem Grund.
+
+(0:28:57 - 0:29:07)
+Und dann kommt es hier in diesem Fall eben nicht zu einer Auslösung. Deshalb machen wir den Daumen hoch. Wir können also weiter unseren Park betreiben.
+
+(0:29:07 - 0:29:20)
+Es kann natürlich daran liegen, dass vielleicht ein vorgelagertes Relais zuerst abgeschaltet hat. Oder der Fehler sich, ich sag jetzt mal, der Ast, der in so eine Freileitung fällt, der ist vielleicht ganz schnell verbrannt. Dann fällt der Strom schnell wieder zurück.
+
+(0:29:22 - 0:29:32)
+Und dann können wir weiter machen, weiter betreiben den Park. Jetzt gehen wir aber, ich sag mal, mit der Zeit. Also der gleiche Fehlerstrom liegt für eine etwas längere Zeit an.
+
+(0:29:32 - 0:29:45)
+Und dann sind wir wieder in einem Auslösebereich. Und die größer größer Stufe löst hier sehr schnell aus. Das könnt ihr dann in der Regel auch auf euren Relais sehen, welche Stufe angeregt hat.
+
+(0:29:45 - 0:29:58)
+I größer I größer größer. Oder wenn ihr Displays habt, wenn ihr, ich sag mal, ein etwas qualitativ hochwertiges Relais habt, seht ihr das dann auch. Und ihr seht dann meistens auch bei so Anregefällen, wie lange diese Anregung dann Bestand hatte.
+
+(0:29:58 - 0:30:13)
+Oder nach welcher Zeit das Aussignal abgesetzt wurde. Aber dann muss man eben schon, ich sag mal, ein paar Euro mehr ausgeben, damit euer Schutzrelais, euer UMZ-Relais auch ein Display hat und das eben mit lockt. Das war UMZ.
+
+(0:30:14 - 0:30:26)
+Jetzt kommt, sag ich mal, der Bruder von dem UMZ. Das ist der AMZ. Das ist auch eine Stromfunktion von der Begrifflichkeit.
+
+(0:30:26 - 0:30:39)
+AMZ ist dann eben nicht unabhängig, sondern abhängiger Maximalstrom-Zeitschutz. Und der ist eben von der Charakteristik etwas anders. Auch hier zur einfachen Erklärung habt ihr wieder ein Strom-Zeit-Diagramm.
+
+(0:30:40 - 0:31:08)
+Und so ein AMZ, würde ich jetzt erstmal sagen, verhält sich erstmal grundsätzlich, wie sich so ein Kabel auch physikalisch verhalten würde, wenn es einfach überlastet ist. Also ein Kabel könnte wahrscheinlich für kurze Zeit viel Strom tragen. Und wenn der Strom, sag ich mal, einen Grenzwert nur leicht überschreitet, dann hält eben dieser Maximalstrom-Zeitschutz den Strom auch länger, bevor er ausschaltet.
+
+(0:31:08 - 0:31:24)
+Eine Schmelzsicherung hat eine ähnliche Charakteristik. So, den AMZ-Schutz, den kann man dann einstellen oder programmieren mit verschiedenen Charakteristiken. Wir hatten den im Griff gerade schon.
+
+(0:31:24 - 0:31:44)
+Einmal Normalinvers, es gibt auch Veryinvers, also sehrinvers oder extreminvers. Dann verändert sich einfach der Verlauf der Kurve und sie wird steiler. Hier ist dann wirklich eine Netzberechnung gefragt, beziehungsweise wie verhält sich zum Beispiel ein Transformator im Überlastbereich.
+
+(0:31:45 - 0:32:13)
+Macht es jetzt mehr Sinn, Normalinvers zu nehmen oder Extreminvers? Da muss man dann vielleicht auch mit den Herstellern Rücksprache halten. Erstmal sind diese Inversenkurven aus meiner Sicht in Annäherung ein physikalisches Abbild der, ich sag mal, Komponenten-Charakteristik. Je mehr Strom die Komponente, das Schutzobjekt zu sehen bekommt oder abbekommt, desto schneller müssen wir auslösen, weil desto schneller nehmen unsere Komponenten Schaden.
+
+(0:32:15 - 0:32:35)
+In Deutschland sehen wir meistens das UMZ, das AMZ hat sich bei uns nicht so richtig durchgesetzt. Liegt ein Stück weit daran, dass Netzbetreiber uns UMZ-Werte geben und dann machen wir unsere Staffelung auch mit UMZ. Diese Kennlinie kann man kippen und schieben, eben mit diesem Normal, Vary und Extreminvers.
+
+(0:32:36 - 0:33:06)
+Die Charakteristik, die Steilheit ändern und mit Zeitparametern und mit Stromparametern dann eben nach links oder nach oben oder nach unten schieben. Ganz so einfach ist es nicht, weil die Werte, die wir für diese Inversenkurven bekommen, das sind jetzt keine Zeitwerte an sich, sondern das sind Faktoren. Da liegt wirklich eine Formel hinter einer Inversenkurve und wir kriegen zwei Faktoren, Strom und Zeit, und mit diesen Faktoren ändern wir die Lage der Kurve.
+
+(0:33:06 - 0:33:53)
+Das kann man dann nur schwer per Hand dahinwerfen, wir machen das jetzt mal so oder so, sondern da macht es wirklich Sinn, sich die einzelnen Kurven, die einzelnen Auslösecharakteristiken, dann mal in eine Grafik zu legen und dann zu schauen, dass die auch alle nebeneinander liegen und gestaffelt sind. Die ganze Funktion gibt es dann auch umgerichtet und gerichtet, also hier der Umgerichtete ist dann die 51, also UMZ war 50, AMZ ist 51 und der Gerichtete ist dann eben die 67. Und jetzt kommt noch ein Punkt, vielleicht auch interessant oder wichtig, den kann man auch kombinieren mit UMZ, also die meisten Relais, da kann man die Stufe 1 als AMZ einrichten.
+
+(0:33:53 - 0:34:45)
+Und ihr seht, ihr habt das jetzt gesehen, unten, vielleicht gehe ich nochmal zurück, das ist jetzt, sage ich mal, I größer als AMZ eingestellt und wenn wir jetzt I größer als UMZ nehmen, dann könnte man am Ende dieser Kennlinie, das seht ihr jetzt, nochmal runtergehen und in Schnellzeit einfach abschalten, wenn wir einen Strom von einem gewissen Grenzwert überschreiten. Und das meinen wir mit kombinierbar mit UMZ, also man kann zwei unterschiedliche Charakteristiken auswählen, die trotzdem miteinander arbeiten. So, jetzt haben wir nochmal unsere Schussbeispiele, also wir haben jetzt hier einen kleinen Strom und auch für eine kurze Zeit, das ist jetzt für uns, denke ich, ein ganz normaler Betriebsstrom, ohne die Höhe und die Zeit genau definiert zu haben, aber das sieht für mich nach Betrieb aus, kein Problem, die Anlage läuft, wir lösen hier nicht aus, Daumen hoch.
+
+(0:34:46 - 0:35:37)
+Jetzt geht der Strom auf einmal hoch und überschreitet unsere Kennlinie und jetzt würde unser Schutzrelais diesen Strom gar nicht so lange fließen lassen, wie er jetzt eingezeichnet ist, sondern ihr könntet euch jetzt von dem Punkt eine Linie runterdenken und das wäre dann die Zeit an der Stelle, wo ihr diese orangene Linie durchschneidet, wäre dann die Zeit, nach der das Relais eben die Auslösung absenden würde. So, Auslösung, Daumen runter. Das waren jetzt, sage ich mal, die einfachen UMZ und AMZ-Funktionen, damit kann man gut Kabel und Trafos in Strahlennetzen sichern, also das ist erstmal die Klassiker, die wir so kennen und jetzt kommt als nächstes der Erdschlussschutz.
+
+(0:35:37 - 0:36:08)
+Und hier wird das Thema dann auch gleich komplexer. Wir gehen trotzdem darauf ein, wir erklären euch hier ein paar Punkte. Erdschlussschutz, nehme ich schon mal vorweg, ist auch immer so ein Stück weit abhängig von der Sternpunktbehandlung, die ihr habt, also fließt ein großer Erdstrom oder ein kleiner Erdstrom, wie verhält er sich? Also das ist nicht ganz so trivial, deshalb hatte ich vorher auch bei unserem UMZ-Schutz gesagt, wir betrachten 180° verdrehte Ströme, also wirklich einen satten Kurzschluss zwischen zwei Leitern.
+
+(0:36:10 - 0:36:58)
+Hier beim Erdschlussschutz hat man ja in der Regel eine Erdberührung und eine Phase, die den Strom trägt oder vielleicht auch zwei Phasen, aber in der Regel ist es eine und deshalb hatte ich den UMZ 180° verdreht auf zwei Phasen, um das klar zu trennen. So, also genau der erste Punkt, den hatte ich schon vorweggenommen, das ist erstmal ein Stück weit abhängig von der Sternpunkterdung. Wenn ich geerdete Sternpunkte habe, ist so ein Erdschluss sehr leicht zu detektieren, weil dann habe ich einen satten Erdschlussstrom, einen hohen Strom, aber wenn ich, ihr erinnert euch zurück in diese Netztechnik-Themen, wenn ich jetzt isolierte Netze habe oder kompensierte Netze, da habe ich dann ja kaum noch Erdschlussströme und dann wird das eben auch schwer zu detektieren und vor allem auch schwer die Richtung festzulegen.
+
+(0:36:59 - 0:37:34)
+Das ist hier erstmal Sternpunktbehandlung, das muss man dann im Hinterkopf haben. Ich denke, das muss jetzt nicht jeder Planer wissen, bei welcher Sternpunktbehandlung man welche Funktion oder welche Erdschlusserkennung einstellt, sondern das ist wirklich ein Spezialthema, da kann man sich dann ruhig auch erstmal zurücklehnen und sagen, da frage ich jemanden, der das wirklich gut kann und dann kriegt man da auch eine wirklich gute Antwort. Also für die Erdschlusserfassung bräuchte man, wenn man sie richtungsabhängig haben will und auch in isolierten und kompensierten Netzen, braucht man zusätzlich Spannungswandler.
+
+(0:37:35 - 0:37:58)
+Das ist meistens so, Verlagerungsspannung misst man da, das ist die offene Delta-Wicklung, die wir dann verwenden. Dadurch bekommt das Relais die Möglichkeit, über sehr komplexe Zusammenhänge, teilweise in der ersten Sinusperiode des Erdschlusseintritts, dann die Richtung zu detektieren. Das wäre dann so ein Erdschlusswischer-Relais.
+
+(0:38:00 - 0:38:23)
+Also ist da dann Stromunspannung, also I0 und U0, das muss dann in der Regel mit UNT verknüpft werden. Man kann das auch in vielen Relais anders einstellen, dass auch I0 alleine für eine Auslösung sorgt, aber wenn wir jetzt sagen, die klassische Erdschlusswischer-Richtungserkennung ist ein UNT. Und dann gibt es eben auch eine Auslösezeit, die wir jetzt hier mal als TAUS auch definiert haben.
+
+(0:38:24 - 0:38:45)
+Das kann aber auch sein, dass man sagt, wir melden jetzt erstmal nur den Erdschluss in einem kompensierten Netz und versuchen dann den Fehler zu finden und abzuschalten, bevor wir direkten aussenden. Also Erdfehler kann man in manchen Netzformen oder bei manchen Netzformen auch weiter betreiben. In geerdeten Netzen auf jeden Fall nicht, weil da der Strom sehr, sehr hoch wird.
+
+(0:38:47 - 0:38:58)
+Hier haben wir das Erdschlusswischer-Relais nochmal genannt. Und wir haben nochmal eine wattmetrische Erdschlusserfassung genannt. Das sind so diese zwei, die wir dann häufig im Mittelspannungsnetz sehen.
+
+(0:38:58 - 0:39:13)
+Das sind dann wirklich schon sehr, sehr spezifische Begriffe und was dann dahinter steckt, ist dann auch nicht ganz so leicht zu greifen. So, das war der Erdschluss. Und jetzt kommt der Distanzschutz.
+
+(0:39:13 - 0:39:25)
+Ja, hier das Distanzschutz. Ich glaube, der ist mir in den Solarparks jetzt das erste Mal vor drei, vier Jahren mal über den Weg gelaufen. Vorher hatten wir das bei unseren Erzeugungsanlagen eigentlich nicht.
+
+(0:39:26 - 0:39:40)
+Die EDES fordert jetzt, glaube ich, einen Distanzschutz in unseren Übergabestationen. Ich glaube, ab 5 Megawatt, wenn ich richtig liege, im Mittelspannungsnetz. Und das ist eine Schutzfunktion, die uns demnächst, denke ich, häufiger begegnen wird.
+
+(0:39:40 - 0:40:01)
+Und da brauchen wir dann auch wirklich Berechnungen und viele Parameter, um diesen Distanzschutz richtig einzustellen. Also, wenn ihr seht in eurem E9-Bogen Distanzschutz, dann könnt ihr gleich schon mal das im Kopf haben. Das wird ein bisschen komplexer, das eben mit eurem Schutzprüfer abzustimmen und da eben die richtigen Werte zu finden.
+
+(0:40:02 - 0:40:10)
+Lass uns erstmal reingehen, was das überhaupt bedeutet, Distanzschutz. Jetzt haben wir hier unsere Sammelschiene unten. Wir haben Stromwandler, wir haben Leistungsschalter.
+
+(0:40:10 - 0:40:40)
+Und wir sagen erstmal, dass es ein Kurzschlussschutz ist, also deshalb auch in der Kategorie von unseren Stromschutzfunktionen für Freileitung und Kabel. Das heißt, ANSI 21, klar steht noch dazu, das heißt, wir versuchen unser Kabel gegenüber Strom zu schützen. Und wenn wir uns im Bereich der EDES aufhalten, das ist dann das klassische Anwenderbeispiel in unserer Übergabestation für den Solarpark.
+
+(0:40:40 - 0:40:55)
+Dann gibt uns die EDES erstmal meistens ein Anregeverfahren vor. Und zwar ist das die UI-Anregung und das ist eine Unverknüpfung. Das heißt, Spannung fällt unter einen Wert und der Strom überschreitet einen Grenzwert.
+
+(0:40:56 - 0:41:14)
+Dann wird erstmal unser Distanzschutz geweckt, sage ich mal. Er regt an, er fängt an zu arbeiten. Die Idee ist eben bei dieser Anregefunktion, wenn wir irgendwo einen Kurzschluss haben, weit weg in unserem Solarpark meinetwegen oder Windpark, dann sorgt das für einen Spannungseinbruch.
+
+(0:41:15 - 0:41:36)
+Den messen wir mit unserem Schutzrelais und der Strom, der dann fließt, muss erstmal für die Anregung dieses Relais gar nicht so groß sein. Da reden wir jetzt nicht über Tausende von Ampere, sondern manchmal hat man da so 100 Ampere Anregestrom, der dann auch manchmal unter dem Betriebsstrom des Solarparks liegt. Aber wir brauchen ja eben diese Kombination.
+
+(0:41:36 - 0:42:01)
+Das Netz bricht ein, der Strom überschreitet diesen Grenzwert, wir starten unsere Distanzmessung. Und die Distanzmessung funktioniert durch Strom- und Spannungsmessung klar, aber das Relais ermittelt den Widerstand der Leitung. Das heißt, durch den Strom, der fließt, und durch die Spannung, die anliegt, kann das Relais sagen, der Widerstand des Kabels ist jetzt 3 Ohm.
+
+(0:42:02 - 0:42:29)
+Und wenn es das ermittelt, dann weiß das Relais, wie weit der Fehler von der Übergabestation wegliegt. Weil wir sagen dem Relais vorher, was wir für ein Kabel angeschlossen haben, was für ein Kabeltyp, was für Widerstände R und X das Kabel hat, was für ein Leitungswinkel. Das heißt, in welchem Winkel der Kurzschlussstrom fließt, der ist dann ja meist nicht rein ohmsch, sondern hat auch induktive Anteile, das heißt, er hat einen Winkel.
+
+(0:42:30 - 0:42:52)
+Und dann kann das Relais durch die gemessenen Werte eben sagen, alles klar, das ist ein Kurzschluss, der ist 3 Kilometer entfernt oder 100 Meter entfernt. Und je nachdem, wie weit der Kurzschluss weg ist, würde das Relais eben in unterschiedlichen Zeiten auslösen können. Wir müssen dem Relais das aber vorher sagen, und dafür definiert man Auslösezonen, so nennen wir das.
+
+(0:42:53 - 0:43:27)
+Die erste Zone, sagen wir, ist die Kabelstrecke, das Kabel ist 3 Kilometer lang, dann ist Zone 1 3 Kilometer, in Widerstand gerechnet natürlich. Und die zweite Zone kann dann das nächste Kabel sein, bis 5 Kilometer, und dann kann man noch eine dritte Zone, vierte Zone machen, sodass das Relais ziemlich weit in irgendwelche Strukturen reinschaut und dann in gestaffelten Zeiten auslöst. Die Idee ist dann eben, je näher der Fehler bei uns an der Übergabestation, desto schneller wollen wir eben auslösen, weil wir sind das Relais, was am nächsten am Fehler ist.
+
+(0:43:27 - 0:43:59)
+Und wenn wir dann ausschalten, dann müssen gegebenenfalls nicht noch andere Anlagenteile abgeschaltet werden. So, dann haben wir die Auslösezeit, und je näher der Fehler, desto schneller lösen wir aus, das ist die Idee. Weil jedes Relais ist sozusagen für seinen Schutzbereich erstmal zuständig, wenn es ausfällt oder nicht reagiert, aus welchem Grund auch immer, dann kann natürlich auch ein vorgelagertes abschalten, aber dann schalten wir in der Regel mehr ab, als wir wollen.
+
+(0:43:59 - 0:44:21)
+Deshalb machen wir das so. Distanzschutz, genau. Ich hatte es eben schon kurz vorweggenommen, der Distanzschutz misst den Widerstand des Kabels oder den Widerstand des Kurzschlusses, und der setzt sich eben zusammen aus R, also Ohmschallwiderstand, und X, das ist dann der Blindwiderstand.
+
+(0:44:22 - 0:45:14)
+Und so ein Kabel, wenn ihr da jetzt ein Mittelspannungskabel 300 Quadrat im Erdreich verlegt, dann weiß man ungefähr, was für ein Winkel das in einem Kurzschlussfall hat, und das ist dann Z1, ZI, Impedanz der Leitung, genau. Und obendran ist noch so eine blaue Linie Rf, das ist ein Ohmschallwiderstand, also ein rein Ohmschallanteil, den addieren wir sozusagen immer dazu für unsere erste Zone und auch für die anderen Zonen, weil wir davon ausgehen können, im Kurzschlussfall haben wir auch einen Lichtbogen, der eben einen Ohmschen Anteil nochmal dazu addiert, und dann spannt sich da so ein Fenster auf, so eine Zone, und wenn wir uns in dieser Zone befinden mit unserer Messung, dann wissen wir, dass wir im Auslösebereich sind. Und dann muss eben unser Relais, für diese Zone definieren wir jetzt mal 200 Millisekunden, eben in 200 Millisekunden auslösen.
+
+(0:45:14 - 0:45:47)
+Wenn der Fehler weiter draußen liegt, also der Widerstand größer ist, dann lösen wir eher langsamer aus. So, hier machen wir mal einen Schuss, links neben unserer Zone, und hier würden wir jetzt erstmal sagen, befinden wir uns nicht in unserer typischen Auslösezone, d.h. hier würden wir erstmal nicht erwarten, dass Zone 1 auslöst. Vielleicht löst eine andere Zone aus, vielleicht löst die sogenannte Endzeit aus, aber erstmal nicht unser Relais, deshalb sagen wir Daumen hoch, wenn das so ist und so sein soll, dann lösen wir nicht aus, wir arbeiten weiter.
+
+(0:45:47 - 0:46:15)
+Wenn wir jetzt aber den Fehler in diesen gelben Bereich schieben, der gelb schraffierte Bereich, dann befinden wir uns in dieser Auslösezone 1, so nenne ich sie mal, und dann lösen wir aus. Das ist im Grunde genommen ein ganz ganz kurzer Abriss von diesem Distanzschutz, da kann man eine ganze Woche mitfüllen. Aber für euch, jetzt sozusagen für die erste Idee, was ist ein Distanzschutz, wie funktioniert der, ist das glaube ich erstmal ausreichend.
+
+(0:46:16 - 0:46:43)
+Vorher hatte ich ja schon mal gesagt, wenn ihr das seht, wird es ein bisschen schwierig mit dem Schutztechniker und so weiter. Diese Impedanzen der Kabel, das ist etwas, was ihr dann wahrscheinlich liefern müsst, vielleicht zusammen mit dem Zertifizierer, vielleicht könnt ihr das selber ermitteln. Aber der Schutzprüfer, der wird dann irgendwann am Tage der Schutzprüfung zur Anlage fahren und wahrscheinlich ruft er euch erst 3 Stunden vorher an und sagt, ich bin gleich da, schickt mir doch bitte nochmal schnell die Werte, und dann müsst ihr eben diese Werte irgendwie ermitteln können.
+
+(0:46:43 - 0:47:10)
+Das könnt ihr ja schon mal im Kopf haben, wenn es jetzt dazu kommt, wenn es zu so einer Distanzschutzprüfung kommt, Kabelwerte oder die Werte des Schutzobjekts, die müsst ihr dann irgendwie ermitteln können oder irgendwoher bekommen. So, wir haben ausgelöst, genau, das war nochmal der Daumen runter. Jetzt geht es weiter, nächste Schutzfunktion, Differentialschutz.
+
+(0:47:10 - 0:47:24)
+Ja genau, ich denke, das ist den meisten auch noch nicht ganz so oft über den Weg gelaufen. In unseren Mittelspannungssystemen sehen wir das nicht so häufig. Diesen Differentialschutz, den sehen wir oft in Umspannwerken.
+
+(0:47:26 - 0:47:47)
+Ja genau, hier wird es auch erstmal so dargestellt, Transformator, der Differentialschutz schützt häufig Trafos in Umspannwerken. Der ANSI-Code dazu ist die 87T, also diese 87, die ist jetzt nochmal untergliedert im Unterkapitel, 87T für Trafo. Und dann gibt es diesen Differentialschutz, aber auch für Leitungen.
+
+(0:47:48 - 0:48:04)
+Dann ist das die 87L. Für Leitungen ist dieses ganze Thema dann nochmal viel komplexer. Das seht ihr gleich, der Differentialschutz, der muss ja seine Differenz messen, und wenn man jetzt eine Freileitung hat von ein paar Kilometern, dann wird das sehr komplex, da Differenzen zu ermitteln.
+
+(0:48:04 - 0:48:23)
+Aber vielleicht sage ich da nochmal zwei Sätze später zu. Und dann haben wir noch für Sammelschienen gibt es eben auch einen Differentialschutz mit seinem eigenen Kürzel, das B für wahrscheinlich Bassbar. Jetzt zeigen wir euch erstmal einen einfachen Differentialschutz.
+
+(0:48:23 - 0:48:35)
+Das Betriebsmittel hier in dem Fall ist für mich vielleicht ein Transformator. Das heißt, ein Kabel geht rein, wir haben links einen Leistungsschalter oder einen Schalter, dann den Stromwandler. Der misst den Iin, den Strom, der reinfließt.
+
+(0:48:35 - 0:48:47)
+Dann haben wir den Trafo, dann gibt es einen Iout, den Strom, der rausfließt. Und der wird dann eben mit dem Stromwandler gemessen und dann haben wir einen Leistungsschalter. Jetzt habe ich gesagt, wir haben einen Transformator.
+
+(0:48:47 - 0:49:06)
+Dann muss das Relais natürlich erstmal wissen, was für ein Übersetzungsverhältnis der Transformator hat. Weil das Iin, was rausfließt, ist dann ja nicht das Iin, was reingeflossen ist, sondern korrigiert um das Übersetzungsverhältnis des Trafos und eventuell um den Winkel. Das macht es jetzt gleich ein bisschen komplex für den Differentialschutz, aber der kriegt das hin.
+
+(0:49:07 - 0:49:19)
+Das sind ja, ich sage mal, intelligente Geräte. Denen sagt er einfach nur, was für ein Trafo das ist und dann machen die das schon von alleine. Also, unser Relais misst jetzt eben das, was reinfließt, zu dem, was rausfließt.
+
+(0:49:20 - 0:49:35)
+Und wenn das ungleich ist, dann kommt es zu einer Auslösung. Also, das ist erstmal sehr, sehr simpel. Das heißt, nur Fehler innerhalb dieses Systems, innerhalb dieser beiden Stromwandler werden gefunden oder erkannt und abgeschaltet.
+
+(0:49:35 - 0:49:55)
+Wenn ihr jetzt weiter rechts oder weiter links einen Kurzschluss habt, dann könnte dieser Kurzschluss einwandfrei durch diese Schutzzone durchfließen, durch die beiden Stromwandler und würde eben nicht ausschalten. Weil der Strom, der reinfließt, ist so groß wie der Strom, der rausfließt. Kirchhoffsches Gesetz, ja, das kennen viele vielleicht noch aus der Uni.
+
+(0:49:55 - 0:50:16)
+Das definiert eben, dass die Ströme, die in einen Punkt reinfließen, genauso groß sein müssen, wie die, die wieder rausfließen. So, das Differentialschutzrelais setzt dann die Auslösung ab, meistens an beide Leistungsschalter. Weil, naja, im Solarpark mag das vielleicht nochmal ein bisschen anders sein, weil vom Solarpark dann ja meist eh kein Strom mehr kommt.
+
+(0:50:16 - 0:50:54)
+Aber wenn wir uns jetzt in einem, ich sag mal, vermaschten Netz befinden, dann muss dieses ganze Betriebsmittel raus, weil von beiden Seiten eine Spannung anliegen könnte und dann eben für weiteren Schaden sorgen würde. Differentialschutz, genau, der löst unmittelbar aus, sobald er diese Differenz, einen kleinen Puffer hat er natürlich auch immer drin, aber sobald er diese Differenz detektiert, löst er in Schnellzeit aus. Das heißt, der versucht den Schaden maximal klein zu halten und der große Vorteil von so einem Differentialschutz ist, dass der auch einfach die maximale Selektivität hat.
+
+(0:50:54 - 0:51:31)
+Also der schaltet genau, oder der erkennt genau den Fehler zwischen diesen zwei Stromwandlern, nicht mehr und nicht weniger und kann dann eben genau dieses Betriebsmittel, was zwischen diesen Stromwandlern liegt, abschalten. Das ist, ich sag mal, ganz große Klasse, vor allem in so einem Umspannwerk oder im Netz des Netzbetreibers, allerdings ist dieses Relais halt auch relativ teuer. Der Aufwand ist relativ teuer, zwei Stromwandler, zwei Leistungsschalter, Differentialschutzrelais sind eben auch nicht die günstigsten und deshalb sehen wir das leider in Solarpark sehr, sehr selten.
+
+(0:51:33 - 0:51:58)
+Wenn man jetzt viel, viel Geld zur Verfügung hätte, könnte man das bestimmt mal einsetzen, aber ich sag mal, dadurch, dass wir einfache Strahlennetze haben, ist dann auch die Funktion von so einem Gerät nicht 100% auszuschöpfen. Das war der Differentialschutz. Jetzt kommt nochmal der Niederspannungsleistungsschalter.
+
+(0:52:00 - 0:52:23)
+Den kennen wir, denke ich, aus Dachanlagen, aus Freiflächenanlagen. Den sehen wir fast überall. Ich musste einmal einen Schluck trinken, ich habe irgendwie einen Frosch im Hals.
+
+(0:52:25 - 0:52:39)
+Der Niederspannungsleistungsschalter, genau. Auch hier zeigen wir euch, den kann man ja einstellen, das zeigen wir euch hier an einem Stromzeitdiagramm nochmal. Viele von diesen Leistungsschaltern haben eben verschiedene Einstellrädchen.
+
+(0:52:40 - 0:52:59)
+Manche haben auch die Möglichkeit, über eine Software einzustellen. Hier sind wir jetzt bei den Rädchen, das Rad mit dem L dran, das könnte man für den Überlastschutz einstellen. Dann gibt es ein weiteres Rädchen mit dem S, das ist dann der Kurzschlussschutzverzögert.
+
+(0:52:59 - 0:53:19)
+Und ein drittes Rädchen würde dann eben die dritte Stufe darstellen, das ist dann der Unverzögerte Kurzschlussschutz. Genau, das sind die Einstellmöglichkeiten, die so ein Leistungsschalter hat. In einem Bild würde man das dann, man kann die variieren, nach links und rechts schieben.
+
+(0:53:20 - 0:53:32)
+Jetzt haben wir aber, glaube ich, noch ein Bild von so einem Leistungsschalter, das seht ihr jetzt hier. Und da sind eben diese drei Rädchen, die ihr dann eben variieren könnt. Der Leistungsschalter hat einen Nennstrom, ich glaube, der hat 2500 Ampere.
+
+(0:53:33 - 0:53:56)
+Und dann könnt ihr jetzt mit diesen Faktoren, die ihr über diese Drehrädchen einstellt, diese Linien, diese Kennlinien da, nach links, rechts oder oben und unten verschieben. Je nachdem, ob ihr den Stromwert oder die Zeit einstellt, variiert ihr eben diese Auslösecharakteristik des Leistungsschalters in drei Stufen. Beim UMZ hatten wir immer nur von zwei Stufen gesprochen, diese Leistungsschalter haben halt drei.
+
+(0:53:58 - 0:54:07)
+Mehr hilft meistens mehr. Also das ist erstmal ganz gut. So, und jetzt zum Schluss fügen wir euch hier noch an die Sicherungen.
+
+(0:54:08 - 0:54:17)
+Das sind die klassischen NH-Sicherungen in der Regel. Kennen wir, glaube ich, fast alle. Die haben dann einen Nennstrom.
+
+(0:54:18 - 0:54:32)
+Und hinter diesem Nennstrom verbirgt sich dann eben auch eine Charakteristik von diesen NH-Sicherungseinsätzen. Die gibt es in diversen Größen. Und jetzt haben wir euch hier erstmal eine dargestellt mit 40 Ampere.
+
+(0:54:34 - 0:54:56)
+Das heißt, die kann erstmal einen Nennstrom von 40 Ampere tragen, das ist gar kein Problem. Und wenn der Strom dann über diese 40 Ampere ansteigt, dann löst eben diese Sicherung schneller aus. Also wenn wir, sage ich mal, bei 50 Ampere sind, dann kann diese Sicherung den Strom vielleicht noch eine Stunde tragen oder auch einen Tag.
+
+(0:54:56 - 0:55:15)
+Aber wenn wir dann auf 100, 200, 300 oder 1000 Ampere gehen, dann wird diese Sicherung sehr, sehr schnell und löst den Strom gegebenenfalls auch in wenigen Millisekunden aus, weil sie sofort verglühen würde. Das ist ja einfach eine thermische Funktion. Wenn die Sicherung dann einmal ausgelöst hat, ist sie kaputt und man muss sie austauschen.
+
+(0:55:16 - 0:55:31)
+Die gleiche Kennlinie gibt es dann eben für andere Stromgrößen, für 40, für 250 Ampere und meinetwegen auch für 400 Ampere. Ich glaube, so ein NH3-Trenner, der kann auch 630 Ampere. Und dann kommen wir, glaube ich, da stoßen wir langsam an Grenzen.
+
+(0:55:34 - 0:55:44)
+Genau, hier haben wir dann nochmal Werte angegeben. 10 hoch 2 ist 100 Ampere. Da sieht man, dass die 40-Ampere-Sicherung bei 100 Ampere dann schneller auslöst.
+
+(0:55:44 - 0:56:00)
+Das sind dann 10 Sekunden, glaube ich. Und analog gilt das Gleiche dann ja eben für die NH-Trenner mit höheren Nennströmen. So, das war jetzt der große Block Überstrom.
+
+(0:56:00 - 0:56:08)
+Da sind wir, glaube ich, in der Zeit gut durchgekommen. Jetzt kommen noch sonstige Schutzfunktionen. Und da wollen wir erstmal den Isolationswächter nennen.
+
+(0:56:10 - 0:56:28)
+Und später kommt noch das DMCR-Relais, also Isolationswächter. Den sehen wir jetzt häufiger, weil viele Parks in die Richtung IT-Netz gehen. Und für diese IT-Netze müssen wir eben dieses IMD, so nennen wir es meistens, Isolation Monitoring Device, einsetzen.
+
+(0:56:29 - 0:56:50)
+Das wird installiert zwischen den drei Phasen, gegen Erde. Und das misst einfach dauerhaft den Isolationswiderstand der Leiter gegen Erde. Und wenn jetzt mal der Isolationswiderstand unter dem eingestellten Grenzwert fällt, dann setzen wir eine Meldung ab oder wir lösen eben aus.
+
+(0:56:50 - 0:56:56)
+Das sind die zwei Möglichkeiten. Das muss man sich dann überlegen. Das ist auch so ein Stück weit eine Philosophiefrage.
+
+(0:56:57 - 0:57:08)
+Man muss bei einem Isolationsfehler nicht zwingend abschalten. Man kann das Netz weiter betreiben. Man kann aber auch sagen, Leute, wir wollen unseren Solarpark dann abschalten, weil wir wollen hier kein fehlerhaftes Netz betreiben.
+
+(0:57:09 - 0:57:15)
+Und der Ertrag ist ja jetzt auch nicht so wichtig. Dann kann man eben auch sich entscheiden und ausschalten. Und dann muss halt der Techniker den Fehler beheben.
+
+(0:57:15 - 0:57:23)
+Und dann kann man auch guten Gewissens wieder einschalten. Unterschiedliche Ansätze. Das muss, denke ich, jeder Betreiber am Ende auch für sich entscheiden.
+
+(0:57:24 - 0:57:37)
+Zusammen mit dem Planer. Ich würde erst mal empfehlen, schaltet lieber aus. Und dann wird der Fehler auch gesucht, weil die Erfahrung, glaube ich, auch zeigt, dass wenn man nur Meldungen hat, dass dann oft auch nicht viel passiert.
+
+(0:57:37 - 0:57:48)
+Deshalb beim Aus, da laufen die Leute wenigstens sofort los und suchen Fehler. Wichtig in IT-Netzen, hatte ich gesagt. In geerdeten Netzen ist das nicht relevant, dieses Relais.
+
+(0:57:49 - 0:58:03)
+Da haben wir andere Auslösefunktionen. So, jetzt kommt noch das DMCR-Relais. Wir hatten das schon in dem TRAFO Brain Day, glaube ich, schon mal besprochen.
+
+(0:58:04 - 0:58:12)
+Deshalb wird das hier, glaube ich, auch nur zwei Minuten dauern. Das DMCR-Relais, das ist eben ein Relais. Hier seht ihr dieses Modell davon.
+
+(0:58:12 - 0:58:24)
+Das sitzt oben auf dem Transformator. Und im Grunde genommen ist das für die Erkennung von Überlastung des Transformators zuständig. Also es misst vor allem die Temperatur, meistens in mehreren Stufen.
+
+(0:58:25 - 0:58:36)
+Es misst aber auch das Ölniveau. Und es misst, ob Gas im Transformator entstanden ist. Und dadurch kriegen wir eben einen guten Schutz des TRAFOs realisiert.
+
+(0:58:36 - 0:58:48)
+Gegen vor allem, wie ich finde, Überlast. Weil wir messen eben die Temperatur. Und wenn der TRAFO eben mal zwei, drei, vier Stunden überlastet ist, dann ist das erstmal per se kein großes Problem.
+
+(0:58:50 - 0:59:00)
+Aber es zehrt natürlich an seiner Lebensdauer. Man soll das nicht zu oft machen. Und wenn man dann gewisse Temperaturen überschreitet, dann sollten wir eben den TRAFO auch ausschalten.
+
+(0:59:01 - 0:59:12)
+Und dafür ist eben genau dieses DMCR-Relais gedacht. Jetzt dreht sich das nochmal. Es löst den Mittelspannungsleistungsschalter aus.
+
+(0:59:13 - 0:59:22)
+So realisieren wir das meistens. Es gibt auch Lösungen natürlich an Möglichkeiten, dass man auch den Niederspannungsleistungsschalter ausschaltet. Also beide Seiten des TRAFOs.
+
+(0:59:23 - 0:59:31)
+Das kann man im Grunde machen, wie man möchte. Ich würde sagen, Mittelspannung ist ausreichend. Und dann löst unser Niederspannungsschalter sowieso automatisch aus.
+
+(0:59:31 - 0:59:37)
+Weil wir in Deutschland zumindest immer das NA-Schutzrelais haben, was den Leistungsschalter zum Fallen bringt.

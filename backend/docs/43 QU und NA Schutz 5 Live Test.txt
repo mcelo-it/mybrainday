@@ -1,0 +1,164 @@
+(0:00:00 - 0:00:15)
+So, jetzt gehen wir mal in den Live-Test und schauen uns das dann wirklich nochmal an, wie so ein Relais sich da verhält. Wir schauen uns jetzt nicht das große Relais an, was wir eben hatten, sondern eher ein kleineres Relais. Gehen da aber dann tatsächlich mal rein und machen auch gleich eine Übung draus.
+
+(0:00:17 - 0:00:38)
+Also wir starten auch tatsächlich mit einer Übung. Das ist jetzt hier, öffnet die Excel, die ist hoffentlich schon im Chat, Excel Übung 38, NA-Schutz, ja, also Brain Day 38 ist heute, deshalb heißt das so und NA-Schutz, das ist die Übung. Nehmt das Blatt 1, genau, wir können mal hier auf meinem Laptop sehen, was das Blatt 1 jetzt tatsächlich ist.
+
+(0:00:38 - 0:01:05)
+Unten sind drei Blätter drin, spickt bitte nicht in Blatt 2, sondern haltet euch hier an Blatt 1 und ihr sollt jetzt hier in diese gelben Felder die Werte eintragen, die uns der Netzbetreiber hier im neuen Bogen auf der rechten Seite vorgibt. Dafür, denke ich, geben wir euch mal drei Minuten Zeit und dann schauen wir uns das nochmal zusammen an. Ich hoffe, ihr seid alle wieder zurück.
+
+(0:01:06 - 0:01:26)
+Ich gehe das jetzt mal hier ein paar Schritte für euch durch und zeige euch, wie wir uns das gedacht hätten. Also U größer, größer hätten wir uns hier erhofft, dass man sich den hier herausnimmt. Hier sind die Empfehlungen des Netzes aus der 4110, also für Anschluss-Mittelspannung-Sammelschiene, Anschluss-Mittelspannungsnetz und hier hinten, das sind dann die Werte, die der Netzbetreiber vorgibt.
+
+(0:01:26 - 0:02:02)
+Also U größer, größer ist zum Beispiel 1,25 und dann errechnen sich daraus auch gleich die Erd-Leiter-Leiter-Spannung und die Zeit wären 100 Millisekunden. Das können wir jetzt hier so durchgehen und für U kleiner, kleiner hätten wir dann 0,45 glaube ich und die Zeit wäre 50 Millisekunden und für U kleiner hätten wir 300 Millisekunden. So wären hier die Lösungen anzugeben.
+
+(0:02:03 - 0:02:17)
+Ich hoffe, das haben alle soweit hingekriegt. Wir würden jetzt mal zurückgehen in die PPT. Öffnet die Excel, nimmt das Blatt 2, überprüft, ob das Relais richtig eingestellt ist.
+
+(0:02:17 - 0:02:29)
+Das ist jetzt die Aufgabe. Ich habe euch gerade gezeigt, wie die Ergebnisse sind. Ihr habt sie jetzt auch noch mal rechts eingeblendet und jetzt ist der Kollege hier und schaut, ob das Relais wirklich richtig eingestellt ist.
+
+(0:02:29 - 0:02:36)
+Also dieses Relais hat einfach drei Bedienknöpfe. Er wird da gleich mal durchgehen und jetzt müsst ihr mal schauen. Los geht's.
+
+(0:02:36 - 0:02:51)
+U größer, ist das am Teststand richtig eingestellt? Ist das richtig? Und jetzt ist die Frage gestellt und ihr sollt jetzt die Antwort dazu geben. U größer, größer. Schaut vielleicht noch mal in euer Prüfprotokoll, wo ihr das gerade eingetragen habt.
+
+(0:02:51 - 0:03:06)
+Vergleicht das mit dem Wert, den wir hier auf dem Display zeigen. Es gibt sicherlich immer Rundungsfehler, darum soll es hier nicht gehen. Schaut nicht auf die allerletzte Stelle, sondern rundet den Wert und dann ist das richtig eingestellt.
+
+(0:03:06 - 0:03:14)
+Ich sage rundet den Wert, weil im Protokoll steht, glaube ich, 72,17. Hier steht 72,2 und das ist aber richtig eingestellt. Wir gehen weiter.
+
+(0:03:19 - 0:03:29)
+Weiter geht es mit TU größer, größer. Jetzt geht es um die Zeiteinstellung. Das, was ihr hier seht auf dem Relais, ist die Zeiteinstellung und ihr sollt jetzt in der nächsten Frage beantworten, ob das richtig ist.
+
+(0:03:29 - 0:03:48)
+Also zur nächsten Menti-Frage. Was hatten wir? Ja, nein, keine Ahnung. Mal gucken.
+
+(0:03:54 - 0:04:07)
+Bei mir im Protokoll stand 100 Millisekunden. Haben die meisten richtig eingestellt? Also die Antwort ist erstmal richtig. Wir gehen das jetzt nochmal für einen weiteren Prüfpunkt durch und dann kommen noch ein paar andere schöne Sachen.
+
+(0:04:07 - 0:04:13)
+Also der nächste Parameter ist U größer. Ja, genau, hier sind wir richtig. Der ist erstmal aktiviert, das ist schon mal schön.
+
+(0:04:14 - 0:04:37)
+Und der Einstellwert ist 63,5. Ist das denn erstmal richtig? U größer 63,5. Ich hoffe nicht, dass ich euch da gerade auf eine falsche Fährte geleitet habe.
+
+(0:04:37 - 0:04:43)
+Ich habe ja gesagt, das ist richtig. Das ist ja gar nicht richtig. Ich habe nochmal in mein Prüfprotokoll geguckt.
+
+(0:04:43 - 0:04:48)
+Also U größer ist eben nicht zu aktivieren. Ich habe gesagt, es ist aktiviert, das ist richtig. Das war falsch.
+
+(0:04:48 - 0:05:02)
+Also, dass es hier eingestellt ist, ist einfach falsch. Jetzt deaktiviert der Kollege das, er stellt die Funktion auf Off und dann ist das deaktiviert und dann ist das Relais für U größer auch richtig eingestellt. Eins weiter noch.
+
+(0:05:02 - 0:05:12)
+Und dann U kleiner, kleiner schauen wir uns noch an. Und das steht bei 26 Volt. Und dann gehen wir jetzt auf die Menti-Frage.
+
+(0:05:15 - 0:05:35)
+Auch hier gilt wieder, rundet es bitte. Weil diese Schutzrelais eben nicht auf die Millivolt genau eingestellt werden, sondern eben nur eine Nachkommastelle. So, genau.
+
+(0:05:35 - 0:05:47)
+Oh, da sind drei richtig, drei falsch. Also 26 Volt ist richtig eingestellt, weil aus meiner Sicht ist 25,98, rundet man auf 26. So, das würden wir jetzt für die Schutzprüfung wirklich so Stück für Stück durchgehen.
+
+(0:05:47 - 0:06:00)
+Alle Zeiten, alle Einstellungen, das ersparen wir euch jetzt an der Stelle und würden mit den nächsten Übungen gleich mal weitermachen. Sonst verlieren wir hier zu viel Zeit. Also es wird jetzt wirklich spannend.
+
+(0:06:00 - 0:06:26)
+Seid bereit für Übung 3. Wir müssen hier noch kurz was vorbereiten. Übung 3. Und da schauen wir uns dann gleich mal wirklich ein Relais an, wie dieses Relais dann wirklich arbeitet. Wir haben jetzt hier ein Splitscreen und wir haben hier tatsächlich diese Prüfsoftware.
+
+(0:06:26 - 0:06:39)
+Und jetzt wollen wir von euch erst mal wissen, wir wollen die U größer, größer Rampe prüfen. Ja, die Rampenfunktion, die machen wir. Und wir wollen von euch wissen, was ist denn die richtige Rampeneinstellung? Wir hatten das eben versucht, so ein bisschen zu erklären.
+
+(0:06:40 - 0:06:52)
+Also was ist erst mal der Sollwert? Wir müssen ja unten den Sollwert eintragen. Was erwarten wir? Da könnt ihr jetzt diesen Cursor nach links oder rechts ziehen. Ihr könnt da den Spannungswert entsprechend einstellen, so wie ihr es erwartet.
+
+(0:06:52 - 0:07:04)
+Also was ist der Sollwert? Tragt den bitte ein. Und dann sollt ihr auch eintragen, wo die Rampe starten soll und wo sie vielleicht enden soll. Ja, also ihr müsst vor dem Sollwert starten und nach dem Sollwert enden.
+
+(0:07:04 - 0:07:16)
+Das ist vielleicht hier die Aufgabe. Haben wir schon ein paar Abstimmungen im... Nee, okay. Dann, wenn keiner abstimmt, dann würden wir jetzt trotzdem mal zeigen, wie diese Rampe hier funktioniert.
+
+(0:07:17 - 0:07:25)
+Der Kollege hat hier den richtigen Sollwert, wie ich das hier sehe, schon eingetragen. Und jetzt startet er einfach mal. Ja, also erst mal die Ergebnisse löschen.
+
+(0:07:25 - 0:07:31)
+Ja, so würde das Ganze aussehen. Und jetzt geht die Rampe los. Die startet, ja.
+
+(0:07:31 - 0:07:42)
+Also man sieht jetzt auch unten links im Bild. Ja, wenn wir jetzt auf die Rampe... Mhm. Ja, wir sind noch nicht verbunden, ja.
+
+(0:07:42 - 0:07:53)
+Das ist auch ein klassischer Fehler hier bei so einer Schutzprüfung, dass man, wenn man die erst mal startet, erst mal nicht verbunden ist. Passiert mir auch regelmäßig, ja. Jetzt noch mal los.
+
+(0:07:55 - 0:08:04)
+Und jetzt würden wir die Rampe noch mal starten. Unten links im Bild sieht man jetzt dann tatsächlich die Spannung, wie sie gerade verläuft. Das ist Rampe 1. Jetzt Rampe 2. Die Spannung geht hoch, ja.
+
+(0:08:04 - 0:08:12)
+Also 68 Volt, 69 Volt ungefähr. Ihr seht es auch in der Grafik, das geht hoch. Und der Balken unten verschiebt sich auch.
+
+(0:08:13 - 0:08:15)
+Das seht ihr auch. Der Balken geht immer mit. Der bleibt dick.
+
+(0:08:15 - 0:08:24)
+Hier ist es genau umgekehrt gedacht. Also wenn der Balken gleich dünn wird, dann haben wir unser Signal bekommen. Dann fällt im Prinzip der Kontakt am Relais ab.
+
+(0:08:24 - 0:08:30)
+Vielleicht hört ihr es auch klicken. Ich höre das hier immer klicken dann. Und so genau würde so eine Prüfung jetzt ablaufen.
+
+(0:08:31 - 0:08:51)
+Die Spannung erhöht sich ganz langsam, immer weiter, immer weiter, immer weiter. Und irgendwann löst das Relais aus und unten in der Bewertung, ich weiß nicht, ob man das noch ein bisschen größer kriegt. Ich kann sehen, seht ihr ja, dass der Sollwert diese 72,17 war und der tatsächliche Wert war jetzt 72,22, wenn ich das so richtig erkenne.
+
+(0:08:51 - 0:08:57)
+Also wir sind da sehr, sehr exakt. Das Relais funktioniert sehr, sehr genau. Und dann kommt auch gleich der Rückfallwert danach.
+
+(0:08:57 - 0:09:07)
+Die Rampe fuhr wieder runter. Dann haben wir auch hier die Bewertung und wir fallen sehr, sehr schnell wieder zurück. Also ist auch hier die Prüfung dann erstmal erfolgreich bestanden.
+
+(0:09:07 - 0:09:15)
+So würde das tatsächlich live aussehen. Prima. Dann könnten wir nochmal das Menti einblenden.
+
+(0:09:19 - 0:09:27)
+Also jetzt müssten wir im Grunde genommen die Ergebnisse hier aufschreiben. Das wäre dann jetzt meine Aufgabe. Ich mache das einfach mal live mit.
+
+(0:09:27 - 0:09:37)
+Wir waren jetzt bei U größer, größer, glaube ich. Und jetzt, ich nehme mal an, dass das jetzt die Phase 1 war. Und dann würde ich jetzt hier, ich kann das jetzt gar nicht mehr so richtig erkennen.
+
+(0:09:37 - 0:09:45)
+72, ich kann es jetzt leider nicht mehr sehen, das Ergebnis. 72,17 war der nominelle Wert. Ich glaube, das war irgendwie sowas.
+
+(0:09:45 - 0:09:52)
+72,22 und der Rückfallwert, den müsste ich ja jetzt auch irgendwie erkennen. Sehe ich nicht. Der ist leider nicht mehr im Bild.
+
+(0:09:53 - 0:10:09)
+Von daher, ja, jetzt wird er reingeschoben. Genau, 72,22 war richtig und 71,23 war der Rückfallwert. Genau, also ein wenig später kommt das Relais zurück.
+
+(0:10:09 - 0:10:25)
+Und jetzt könnte man weitergehen in die nächste Prüfung. Und die nächste Prüfung wäre dann, ach so, ist das Testergebnis von U größer, größer in Ordnung. Ja, okay.
+
+(0:10:36 - 0:10:42)
+Jetzt sind wir bei U kleiner, kleiner. Genau, das haben wir erst mal die meisten richtig beantwortet. Es sind auch nur noch vier dabei.
+
+(0:10:43 - 0:10:50)
+Ja, ist ein bisschen schade. Aber die Leute haben das zumindest erst mal größtenteils dann richtig beantwortet. Jetzt zeigen wir noch eine Unterspannung.
+
+(0:10:51 - 0:11:01)
+Und auch hier sehen wir jetzt Ergebnisse. Ich weiß gar nicht, ob wir das Menti jetzt noch brauchen oder ob wir jetzt ohne Menti das weitermachen. Und ich erkläre hier einfach die Bewertung.
+
+(0:11:02 - 0:11:13)
+Und jetzt, genau, würde ich mir das nochmal anschauen. Jetzt sehe ich, dass hier der Rückfallwert in dem Relais dann anscheinend als fehlerhaft bewertet wurde. Ja, das kann dann mal passieren.
+
+(0:11:13 - 0:11:25)
+Ich kann aber leider nicht so ganz genau. Kannst du ein bisschen reinzoomen, dass ich die Werte besser erkenne? Ja, wir fallen schon zurück. Aber offensichtlich fallen wir etwas zu spät zurück.
+
+(0:11:25 - 0:11:42)
+Und damit wäre hier die Prüfung für den Rückfallwert erst mal nicht bestanden. Und man müsste jetzt im Relais diesen Rückfallwert nochmal umstellen. Ich würde sagen, dadurch, dass es jetzt schon 10.58 Uhr ist, sparen wir uns das noch, diese Übung.
+
+(0:11:42 - 0:11:55)
+Und wir gehen jetzt mal zurück in die PPT und machen dann nochmal mit dem Prüfprotokoll weiter. Weil ich glaube, das jetzt hier noch so weiterzuführen ist ein bisschen zu schwierig. Wir machen mit dem Prüfprotokoll weiter, PPT.
+
+(0:11:55 - 0:12:00)
+Und dann haben wir es für heute auch gleich geschafft, denke ich.

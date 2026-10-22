@@ -1,0 +1,346 @@
+(0:00:00 - 0:00:20)
+Und gehen jetzt in das größere Kapitel der Normen. Ja, also immer ein bisschen hartes Brett, die Normen, müssen wir aber trotzdem durch. Ich finde, am Ende des Tages, wenn ihr da in Diskussionen verstrickt werdet mit Zertifizierern, mit Kunden, mit Schutzprüfern, dann ist das immer hilfreich, erst mal zu wissen, welche Normen ihr überhaupt in die Hand nehmen sollt.
+
+(0:00:21 - 0:00:30)
+Ihr sollt die Norm nicht auswendig können. Um Gottes Willen, das ist überhaupt nicht das Ziel. Aber erst mal, glaube ich, bringt euch das hier ein Stückchen weiter, wenn ihr dann zumindest wisst, in welchem Kapitel ihr nachschlagen müsst.
+
+(0:00:31 - 0:00:40)
+Und ihr habt schon mal davon gehört. Und das ist hier das Ziel jetzt von dem Kapitel Normen. Also Normen, da gibt es für im Grunde genommen Schutz, gibt es jetzt verschiedene Normen, die wir hier mal aufgeführt haben.
+
+(0:00:41 - 0:00:49)
+Und wir haben es im Grunde genommen in zwei Bereiche unterteilt. Der erste Bereich ist der Anwendungsbereich. Und da seht ihr gleich die 41ARN41XX.
+
+(0:00:50 - 0:01:04)
+4110 ist es heute, für die 4120 gilt es genauso. Das sind eben für die verschiedenen Spannungslevel unsere PV-Normen. Wo sehr, sehr viel definiert ist, was jetzt diesen NA-Schutz bestimmen wird.
+
+(0:01:04 - 0:01:14)
+Und da gehen wir dann nachher im Detail auch darauf ein. Es sind noch weitere FNN Lastenheft, FNN Lastenheft QU, die sind sehr, sehr interessant. Und wenn ihr wirklich selbst Schutzprüfungen macht, schaut sie euch an.
+
+(0:01:14 - 0:01:27)
+Wenn ihr nicht Schutzprüfungen macht, schaut trotzdem auch mal rein. Dann habt ihr mal eine Idee, welche Fragen sich die Schutzprüfer alle so stellen. Und ich denke, ihr werdet da auf jeden Fall schlauer und verliert dadurch nichts.
+
+(0:01:27 - 0:01:33)
+Schaut gerne mal rein. Für heute ist das erst mal nicht so wichtig. Wir konzentrieren uns auf die VDEARN41XX.
+
+(0:01:33 - 0:01:45)
+Der zweite Baum, den es dann gibt, das ist der zweite Zweig dieses Baumes. Das sind dann Komponentenzertifikate oder Komponenten-Normen. Also es geht dann um Mess-Relais und Schutz-Relais-Einrichtungen, wie die gebaut werden müssen.
+
+(0:01:45 - 0:02:03)
+Es geht auch um ANSI-Codes, zeigen wir euch gleich mal eins, zwei für die verschiedenen Schutzfunktionen. Das ist alles jetzt nicht so entscheidend, aber ich finde es schon auch wichtig, dass man weiß, was es da gibt, wo man dann in dem Fall mal reinschauen soll. Also wir grauen alles aus und konzentrieren uns jetzt im weiteren Verlauf auf die VDEARN41XX.
+
+(0:02:05 - 0:02:12)
+Schieben die mal da runter. So sieht die Norm aus, so sieht das Deckblatt aus. Wir haben es immer nur als PDF, deshalb habe ich das Deckblatt so noch nicht gesehen.
+
+(0:02:13 - 0:02:24)
+Aber ich glaube, man kann das so bestellen, dann sieht das genau so aus. Also die ist aus dem Jahr 2023 und unterteilt in, ich glaube, insgesamt 13 Kapitel. Kapitel 1 bis 10 machen wir heute nicht.
+
+(0:02:24 - 0:02:45)
+Ich glaube, die Kapitel 11 bis 13 machen wir heute auch nicht. Nein, ich glaube das nicht, ich weiß das, aber ich glaube, dass es 13 gibt. Und wir springen ja auch gleich schon mal in die erste Untergliederung und schauen uns auch nicht die Kapitel 10, 1, 10, 2, 10, 4, 5 und 6 an, sondern wir gehen gleich in das Kapitel 10.3 und das sind die Schutzeinrichtungen und Schutzeinstellungen.
+
+(0:02:45 - 0:02:52)
+Also wir haben jetzt schon ganz, ganz viel ausgeblendet. Freut euch nicht zu früh. Diese Norm untergliedert sich noch sehr, sehr weit.
+
+(0:02:52 - 0:03:01)
+Also es geht da noch viel ins Detail. Schutzeinrichtungen und Schutzeinstellungen. Das ist jetzt erst mal unser Hauptkapitel, an das wir ran wollen.
+
+(0:03:01 - 0:03:21)
+Wir schieben das hoch und gucken uns jetzt weitere Unterkapitel in dieser 41.10 Kapitel 10.3 an. Diese Kapitel, das macht die Norm generell so, die fangen immer erst mal mit der 10.3.1 an oder mit dem ersten Oberkapitel und das dann meistens Allgemeines. Wir nehmen das hier für die 10.3.1 mal mit.
+
+(0:03:21 - 0:03:34)
+Allgemeines. Es wird erst mal definiert, was, was für einen Schutz braucht man hier? Wir sind bei Schutzeinrichtungen und dann geht es um Personenschutz. Wir haben das ja ausgegraut, weil für den NA-Schutz ist der Personenschutz nicht so entscheidend.
+
+(0:03:34 - 0:03:49)
+Der Personenschutz, das ist UMZ-Schutz vielleicht, aber das machen wir heute nicht. Und wenn die Spannung und Frequenz sich ändert im Netz, dann ist das für die Personen nicht so entscheidend. Da sind 20.000 Volt, 20.000 Volt und 18.000 Volt sind immer noch tödlich.
+
+(0:03:49 - 0:03:58)
+Also das ist da gar nicht so entscheidend. Wir schauen uns an. Netzschutz und Anlagenschutz, so wie wir es vorhin schon mal gesagt haben.
+
+(0:03:58 - 0:04:02)
+Jetzt haben wir es das zweite Mal gesagt. Dann bleibt es besser kleben. Das schützen wir.
+
+(0:04:03 - 0:04:28)
+Dann gibt es Varianten. Wie schützt man das oder oder wie wird es umgesetzt? Und die Norm unterscheidet hier zwischen dem Anschluss an der Sammelschiene eines Umspannwerks. Achtung, hier ist nicht gemeint, dass wir gemäß 41.20 ein Umspannwerk bauen, was an der Hochspannung angeschlossen wird, sondern es gibt ein Umspannwerk vom Netzbetreiber und der Netzbetreiber sagt, hier ist ein Schaltfeld, da könnt ihr anschließen.
+
+(0:04:28 - 0:04:46)
+Das wäre dann Anschluss, Sammelschiene, Umspannwerk und das zweite wäre Anschluss der Anlage, der Erzeugungsanlage im Mittelspannungsnetz. Das sind grundsätzlich die zwei Varianten und eine dritte noch, Mischanlagen, Dach. Die gibt es auch noch, da gibt es auch noch Hinweise und die wollen wir euch heute nicht vorenthalten.
+
+(0:04:48 - 0:04:57)
+So Netz- und Anlagenschutz bleibt erst mal stehen. Jetzt gibt es ein ganzes Sammelsurium an Punkten, die aufgeführt werden. Also es gibt erst mal Einstellwerte.
+
+(0:04:58 - 0:05:18)
+Wir sind in der 41.10, dann ist es der E9-Bogen, den kriegen wir vom Netzbetreiber. Da gibt es einen ganzen separaten Brainday, was da alles drinsteht, wie der so aufgebaut ist, wie man den bekommt. Dann definiert die Norm, dass man eine Eigenzeit vom Schutzrelais haben darf und eine Auslösezeit von der Schaltanlage und dass das ganze kleiner 100 Millisekunden ist.
+
+(0:05:19 - 0:05:28)
+Das war relativ lange für uns unklar. Die Norm hat es jetzt mal beschrieben, also die Auslösezeit, die vorgegeben wird. Ich komme da später noch mal im Detail drauf.
+
+(0:05:28 - 0:05:38)
+Die darf man um maximal 100 Millisekunden in der Summe überschreiten. Ja, wir kommen da später im Detail drauf, dann wird das, glaube ich, klarer. Prüfklemmleisten müssen vorhanden sein.
+
+(0:05:38 - 0:05:52)
+Das ist bei aktuellen Projekten, finde ich, gar kein Thema mehr. Vor vielen Jahren war das dann doch schon so, dass oft keine Prüfklemmleisten drin waren. Man wusste nicht so genau, wie soll man den Schutz denn jetzt prüfen? Zieht man überall Drähte raus und verdrahtet hinterher wieder alles neu? Prüfklemmleisten müssen da sein.
+
+(0:05:53 - 0:06:08)
+Das macht uns das Leben einfacher und vor allem verhindert es, dass man, wenn man Drähte rauszieht, später die Drähte vielleicht wieder falsch reinsteckt. Dann hat die Prüfung ja nichts geholfen, wenn man danach wiederum falsch verdrahtet und eigentlich nochmal neu prüfen müsste. Prüfung vor Ort ist ein wichtiger Punkt.
+
+(0:06:08 - 0:06:16)
+Wir hören tatsächlich immer noch mal von manchen Lieferanten. Ach ja, komm, wir prüfen das Schutzrelais im Werk, dann habt ihr das Protokoll. Können die gerne machen.
+
+(0:06:16 - 0:06:27)
+Das hilft vor allem dem Schutzprüfer vor Ort, wenn alles im Werk schön vorgeprüft wurde. Aber die Norm sagt, wir müssen diese Schutzrelais vor Ort prüfen. Ob es regnet, ob Winter ist, wir müssen raus.
+
+(0:06:27 - 0:06:42)
+Wir prüfen die Station, wenn sie an ihrer vorgesehenen Stelle stehen, wenn sie begehbar sind außenrum, wenn sie verfüllt sind, dann starten wir unsere Prüfung. Dann verändert sich nichts mehr, dann bleibt es so, wie es ist. So ist es in der Norm vorgesehen und nicht anders.
+
+(0:06:42 - 0:06:55)
+Und zusätzlich alle vier Jahre sollen wir Wiederholungsprüfungen durchführen. Auch das muss man machen. Mittlerweile achten die Netzbetreiber da, glaube ich, auch drauf und schreiben dann die Betreiber der Anlage an, wenn sie das entsprechend versäumen.
+
+(0:06:58 - 0:07:08)
+Anforderungen, Schutzprüfungen, Rückfallwert. Rückfallwert jetzt auch nur mal kurz beschrieben. Rückfallwert haben bestimmt schon viele gehört, die mit so Schutzprüfprotokollen und Zertifizierern arbeiten, wird häufig bemängelt.
+
+(0:07:09 - 0:07:17)
+Rückfallwert erklären wir später nochmal, was das ist im Detail, was da genau die Werte sind. Aber hier ist es erstmal definiert, dass wir es brauchen. Strom- und Spannungswandler mit Schutzklassen.
+
+(0:07:18 - 0:07:26)
+Für Schutzklassen, was das genau bedeutet, gibt es auch wieder ein Brainday, könnt ihr euch gerne anschauen. Erstmal hier, ihr müsst erstmal die richtigen Wandler raussuchen. Das ist Voraussetzung.
+
+(0:07:28 - 0:07:44)
+Komponentenzertifikate braucht ihr. Ihr dürft nicht jedes beliebige Schutzrelais einsetzen für den NA-Schutz, sondern ihr braucht eben dafür ein Komponentenzertifikat. Das heißt, das Relais muss erstmal geprüft sein, dass das überhaupt diese Anforderungen der 4110 oder 4120 erfüllt.
+
+(0:07:44 - 0:07:56)
+Und nur dann dürft ihr es einsetzen und das wird eben abgefragt bei der Planung. Nachweis der USV-Pufferung, auch das ist gefordert. Kommen wir später auch nochmal dazu, wie viel Puffer ihr für welches Relais dann braucht.
+
+(0:07:58 - 0:08:10)
+Das wäre dann hier diese Tabelle, in der dann später mal irgendwann steht, wie viel Puffer ihr für welches Relais braucht. Das ist ein schöner Übergang. Jetzt gehe ich auf diese Tabelle nicht ein und auch später werde ich die nicht ganz im Detail erklären.
+
+(0:08:10 - 0:08:23)
+Aber wir werden diese Tabelle am Ende mal gefüllt haben. Dann sind da oben keine Fragezeichen mehr, sondern ihr wisst, welche zwei Schutzfunktionen es gibt. Und was die Parameter Prüfung, USV, Livekontakt, wo man das umsetzen muss und wo nicht.
+
+(0:08:23 - 0:08:46)
+Also das ist dann eine schöne Tabelle später als Übersicht, wenn ihr mal in der Planung steckt und nicht weiterkommt, kann man da mal schnell reingucken und sagen, brauche ich, brauche ich nicht oder machen wir so oder so. Ist vielleicht für den späteren Alltagsgebrauch sehr hilfreich. Wir gehen erstmal weiter, Kapitel 10.3.1 hatten wir, 10.3.2. Kurzschluss, Schutzeinrichtung des Anschlussnehmers.
+
+(0:08:46 - 0:08:55)
+Heute nicht relevant. Habt ihr Glück gehabt, Kurzschlussschutz machen wir in einem anderen Braindate. Der ist natürlich äußerst relevant, aber eben nicht für heute.
+
+(0:08:55 - 0:09:06)
+Wir springen drüber und kommen zum nächsten Punkt. Das wäre dann 10.3.3 in der Abfolge, Entkoppelungsschutzeinrichtung des Anschlussnehmer. Das klingt schon viel mehr nach dem, was wir heute machen wollen.
+
+(0:09:06 - 0:09:18)
+Entkoppelungsschutz, NA-Schutz, das ist genau das, worum es geht, sind unterschiedliche Begriffe. Auch hier wieder ein allgemeiner Punkt. Wen, Netz, Erzeugungsanlage und andere Teilnehmer.
+
+(0:09:19 - 0:09:32)
+Hier wird nochmal gesagt, wir wollen nicht nur das Netz und die Erzeugungsanlage schützen, sondern auch noch andere Teilnehmer. Weiß ich ehrlich gesagt nicht, welche da gemeint sind. Ich hatte noch keine anderen Teilnehmer, aber im Grunde genommen soll ja wahrscheinlich jeder Teilnehmer im Netz geschützt werden.
+
+(0:09:35 - 0:10:04)
+Dann, wann sollen wir die Leute schützen? Im Falle eines Netzfehlers, im Falle von Inselbildung. Wenn unser Solarpark sich als Insel ausprägt, alle rundherum sind abgeschaltet und unser Solarpark läuft noch, dann sollen wir abschalten. Und der dritte Punkt, der ist dann hier ganz interessant für die Zukunft, beziehungsweise in Spanien hat man es ja schon mal kennengelernt, wenn mal die Netzspannung ganz weg ist und die dann wieder aufgebaut wird und das dann zu langsam geht, auch dann soll unser Entkoppelungsschutz greifen.
+
+(0:10:04 - 0:10:33)
+Greifen hatten wir in Deutschland ja zum Glück in dem Ausmaße noch nicht. Wo soll das Ganze eingebaut werden? Am Netzanschlusspunkt ist immer ein wichtiger Standort für diesen Entkoppelungsschutz und an den Erzeugungseinheiten. Und dann gibt es Werte, die vorgegeben werden und da gibt es dann eben erstmal einen Vorschlag aus der 4110, kommen wir gleich auch nochmal im Detail dazu und es gibt dann aber die projektspezifischen Anpassungen und da sind wir dann ja wieder bei diesem E9-Bogen.
+
+(0:10:33 - 0:10:59)
+Da stehen dann auch die Vorschläge drin, seht ihr später und da steht drin, was wir wirklich machen sollen. Und es werden Funktionen beschrieben, haben wir hier dieses Symbolchen mal eingefügt und das kommt jetzt auch gleich mit, weil wir jetzt die Funktionen beschreiben wollen und zwar haben wir dann zuallererst die Spannungsschutzeinrichtungen. Unter Spannungsschutzeinrichtungen, was versteht man da? Das wollen wir euch jetzt mal ein klein bisschen näher bringen.
+
+(0:11:00 - 0:11:31)
+Erstmal gibt es einen Unterspannungsschutz oder Spannungsrückgangsschutz, so nennt sich das hier. Wir haben das hier zweistufig schon mal dargestellt, u kleiner, u kleiner, kleiner und in der Norm, in der Schutznorm grundsätzlich nennen sich diese Spannungsrückgangsschutzfunktion ist dann der ANSI-Code 27. Also wenn ihr richtige Top-Experten seid in Schutztechnik, dann redet ihr demnächst nur noch in Zahlen und dann sagt einer 27 und ihr wisst sofort, Unterspannungsschutz.
+
+(0:11:31 - 0:11:49)
+Ich weiß das noch nicht, vielleicht komme ich da irgendwann nochmal hin. Das Pendant zum Unterspannungsschutz ist dann der Spannungssteigerungsschutz oder Überspannungsschutz und auch dafür gibt es eine andere Nummer. Natürlich, warum auch nicht, macht man eine 59 dafür, damit man noch mehr Zahlen sich merken kann.
+
+(0:11:50 - 0:12:07)
+Diese beiden Spannungsfunktionen nehmen wir jetzt erstmal wieder raus, weil wir brauchen ein bisschen Platz und schauen uns, wie man die dann tatsächlich umsetzt. Wir haben hier erstmal einen Transformator und einen Leistungsschalter eingezeichnet und haben das N von dem Transformator erstmal orange gezeichnet. Das heißt, da wollen wir gleich ein bisschen drauf hinaus.
+
+(0:12:07 - 0:12:22)
+Das ist ein Thema, was jetzt hier für diesen Spannungsschutz erstmal wichtig ist. Nach unserem Trafo haben wir eine Spannung, ich würde sagen größer 400 Volt, weil alles bis 400 Volt können wir ohne Spannungswandler messen. Hier haben wir einen Spannungswandler drin, vielleicht sind es 800 Volt.
+
+(0:12:22 - 0:12:44)
+Deshalb setzen wir diesen Spannungswandler ein und können jetzt Spannungen messen. Wir machen das erstmal dreiphasig, das ist vorgegeben in der Norm und auch so üblich, weil wir haben ja auch drei Spannungsphasen im Netz, dann messen wir an jeder Phase die Spannung. Jetzt erkennt man vielleicht ein bisschen, warum ich auf dieses N am Transformator hinaus wollte.
+
+(0:12:45 - 0:13:08)
+Wir messen nämlich die Leiter Neutralspannung oder Leiter Erdspannung bei geerdeten Netzen. Dieser Dy-N-Trafo, da ist jetzt der Sternpunkt geerdet, das heißt unser parkinternes Netz ist geerdet, deshalb messen wir Leiter Erdspannung. Wir haben das 1N, 2N, 3N genannt und das ist jetzt erstmal die Vorgabe für diese Netzform.
+
+(0:13:08 - 0:13:43)
+Merkt euch das, es gibt gleich noch die andere Variante. Genau, Messung Leiter Leiterspannung bei isolierten oder kompensierten Netzen. Das wäre jetzt der Fall, wenn wir, oder häufig tatsächlich auch der Fall bei uns in Deutschland, wenn wir am übergeordneten Schutz prüfen, messen, das heißt wir messen die Netzspannung, weil, jetzt haben wir da ein D an unserem Transformator stehen, das ist natürlich nicht die ganze Wahrheit, weil wir müssen natürlich bewerten, welche Sternpunktbehandlung das Umspannwerk, das vorliegende Umspannwerk uns liefert im Grunde genommen.
+
+(0:13:44 - 0:14:30)
+Wenn das dann aber ein kompensiertes oder isoliertes Netz ist, und das haben wir sehr häufig in der Mittelspannung, dann wären eben Leiter Leiterspannung zu messen, also das erste Messmodul misst zwischen Leiter 1 und 2, das zweite zwischen 2 und 3 und das dritte zwischen 3 und 1. Das wären dann eben die Unterschiede zwischen diesen verschiedenen Sternpunktbehandlungen, die dann eben in verschiedenen Messverfahren resultieren, Leiter Erde, Leiter Leiter. Über- und Unterspannungsschutz, das sind diese beiden Funktionen, die wir da ermitteln wollen oder messen wollen und das zeigen wir euch, denke ich, am besten in einem Diagramm. Da haben wir auf dem Diagramm einmal die Spannung und wir haben die Zeit, weil jetzt geht es darum, wann lösen die denn aus, wie lösen die aus, wie ist das gestaffelt oder wie ist das überhaupt gedacht grundsätzlich.
+
+(0:14:31 - 0:14:58)
+Es gibt eine Nennspannung, wir hatten gerade beispielsweise 800 Volt in unserem Niederspannungssystem des Solarparks, vielleicht sind es auch 20.000 Volt, wie auch immer, das ist jetzt erstmal die Nennspannung. Nennspannung, Unennen, wenn wir uns in dem Bereich befinden, dann sollte sicherlich erstmal kein Schutz auslösen, dann ist ja alles in Ordnung. Links von Unennen ist dann Unterspannung, rechts von Unennen ist dann die Überspannung zwangsläufig und in beiden Richtungen wollen wir dann natürlich erstmal einen Schutz aufbauen.
+
+(0:14:58 - 0:15:46)
+Wir fangen mal an bei der Unterspannung und haben jetzt einfach eine Linie reingezogen, das könnte zum Beispiel 80% sein, sehen wir häufig und das hat jetzt erstmal keinen Zeitbezug, also müssen wir jetzt nochmal weitermachen und den Zeitbezug, den kriegt das Ganze jetzt. Das heißt, es ist nicht nur wichtig, dass wir zum Beispiel 80% der Netzspannung unterschreiten, sondern das Ganze auch noch für einen gewissen Zeitraum unterschreiten, damit wir ausschalten. In einem Diagramm würde das dann so aussehen, also wir haben jetzt ein u kleiner und ein t kleiner für diese Schutzfunktion definiert und man kann jetzt im Grunde noch weitergehen, wir haben diesen Schutz ja schließlich mehrstufig auszuführen und jetzt könnte man das u kleiner kleiner hier noch eintragen und dazu schließlich noch eine Zeit, t kleiner kleiner.
+
+(0:15:47 - 0:17:01)
+Also wenn die Spannung weiter einbricht, dann soll das Schutzrelais noch schneller auslösen, das ist meistens so die Regel und das ist dann eben einstellbar, je nach Netzbetreiber, ich hatte eben gesagt 80%, vielleicht will ein anderer Netzbetreiber nur 70 oder 90%, dann darf er eben diese Werte, diese Spannungswerte beziehungsweise die Zeiten grundsätzlich anders einstellen, als in der Norm vorgeschlagen. Auf der anderen Seite machen wir das Gleiche, da gibt es dann für t größer und t größer größer eben vielleicht andere Werte, vielleicht andere Zeiten, also natürlich andere Werte, vielleicht andere Zeiten, sodass man auch bei Überspannung ab einem gewissen Zeitraum, ab einer gewissen Spannung eben durch den Netzentkopplungsschutz abgeschaltet werden soll. Eine Sache, die wir ganz am Anfang schon mal erwähnt hatten, ist dann eben das Rückfallverhältnis, das heißt, wenn unsere Netzspannung jetzt für einen kurzen Zeitraum einen gewissen Grenzwert überschreitet, die Zeit aber vielleicht noch nicht abgelaufen ist, also es kam noch nicht zu einer Auslösung, die Spannung aber sehr schnell wieder zurück Richtung gesunder Spannung geht, dann soll das Relais das sehr sehr schnell erkennen, das ist hier die Aufgabe.
+
+(0:17:02 - 0:17:52)
+98% beziehungsweise 102%, wir sagen jetzt mal 2%, Richtung gesunder Spannung soll das Relais sofort realisieren, dass wir wieder aus dem Fehlerbereich raus sind und stabil bleiben. Das ist diese Idee des Rückfallverhältnisses, also wenn wir uns jetzt vielleicht mal eine Unterspannung anschauen, wir würden meinetwegen die 80% für einen kurzen Zeitraum unterschreiten Richtung 70%, kommen dann aber wieder zurück auf 81% oder 82%, dann muss unser Relais das merken und darf eben nicht erst bis Nennspannung wieder im Fehlerbereich bleiben und einfach auslösen, obwohl die Spannung ja schnell wieder zurück kam. Das wird abgeprüft später, wir tragen es hier nochmal kurz ein, 98% ist es bei Überspannung, 102% ist es eben bei Unterspannung.
+
+(0:17:53 - 0:18:31)
+Naturgemäß, also man muss eben wieder näher an die gesunde Spannung rankommen, einmal von unten, einmal von oben und dann sind das eben diese 2% für die Erkennung, dass wir wieder im fehlerfreien Zustand sind. Wir gucken uns jetzt mal Beispiele an, wir haben da jetzt einen Punkt mal reingeworfen, das ist ein Beispiel und diesen Punkt, wenn ihr euch den anschaut, der liegt jetzt zwischen der Nennspannung und U-Größe und Daumen hoch erstmal, weil jetzt löst das Relais nicht aus. Das ist ein bisschen irreführend, Daumen hoch, natürlich ist das gut, wenn das Relais jetzt nicht auslöst, aber kommen wir später dazu.
+
+(0:18:31 - 0:19:30)
+Wir schieben dann diesen Punkt nochmal viel viel weiter in die Überspannung, also jetzt sind wir vielleicht bei 130% der Spannung, aber wir haben das nur für einen ganz ganz kurzen Zeitraum, das ist ja jetzt wirklich nur ein Punkt, ein kurzer Zeitraum, das heißt wir schneiden diese orange Linie nicht, deshalb Daumen hoch wieder, das Relais löst nicht aus, wir bleiben stabil. Jetzt bleibt diese Überspannung aber für einen gewissen Zeitraum anstehen, für meinetwegen 500 Millisekunden und jetzt geht der Daumen runter, weil wir lösen aus, aber eigentlich ist der Daumen runter vielleicht impliziert ja, dass das negativ ist, aber nein nein nein, wir lösen ja richtigerweise aus, weil wir wollen ja das Netz und die Anlagen schützen, so ist es gedacht, aber Daumen runter für wir lösen jetzt aus, wir haben keinen Ertrag mehr. So ist es gemeint, das sind hier die Beispiele, wir müssen also diese zwei Kriterien erfüllen, den Spannungswert über- oder unterschreiten und das Zeitkriterium eben auch überschreiten.
+
+(0:19:32 - 0:20:45)
+Wir sind noch nicht ganz durch hier mit dem Spannungsschutz, mit der Spannungsschutzeinrichtung, sondern es gibt noch ein Oder-Kriterium, also das Schaubild hier wird jetzt weitergezeichnet, oder also es reicht, wenn die Spannung zwischen Phase 1 und 2 den Grenzwert überschreitet oder eben eine andere Phase, jedenfalls müssen es nicht alle gleichzeitig machen, das wäre ja beim QU-Schutz beispielsweise so, hier ist es so, dass wirklich nur ein Phasenpaar diesen Grenzwert überschreitet und dann reicht das schon aus, um gleich ein Zeitmodul zu starten. Also wir messen am Netzanschlusspunkt, das ist für den übergeordneten Schutz so gedacht und wenn das Oder jetzt erfüllt ist, dann läuft eben so ein Zeitmodul los, das ist dieses Zeitkriterium und wenn dieses Zeitkriterium abgelaufen ist, dann kommt das eben zu einer Auslösung hier am Netzanschlusspunkt. So ist erstmal der Spannungsschutz gedacht, möglicherweise löst er auch an der EZE aus, das zeigen wir euch später nochmal, wenn wir bei Dachanlagen sind, es gibt da Varianten, dann würde das im Grunde genommen so aussehen, aber jetzt für die Freiflächenanlage, für die klassische PV-Freiflächenanlage wäre die Auslösung und die Messung erstmal am Netzanschlusspunkt.
+
+(0:20:49 - 0:21:05)
+So, Spannungssteigerungsschutz haben wir durch, jetzt kommt die Frequenzschutzeinrichtung. Da ist es von der Logik an vielen Stellen sehr ähnlich, deshalb kommen wir hoffentlich ein bisschen schneller durch. Wir zeigen euch jetzt aber erstmal, was es da für Funktionen gibt.
+
+(0:21:05 - 0:21:50)
+Also erstmal Frequenzrückgangsschutz, hier ist nur das f kleiner gezeigt, weil das in unserem Projektleben meistens auch nur ein f kleiner ist, was da gefordert wird und auch da gibt es diesen ANSI-Code 81u, da machen sie es uns ein bisschen einfacher, weil es ist eben eine Zahl mit einem U für Under- oder Unterfrequenzschutz und für die Überfrequenz ist es die gleiche Zahl zumindest, aber dann an der Stelle mit einem O für die Overfrequency, denke ich mal, oder für die Überfrequenz. Wir machen dann weiter und schauen uns auch hier die Funktionen an und schauen uns erstmal an, wo das dann realisiert werden kann. Also haben wir wieder Netzanschlusspunkt und wir haben dann Auslösung und Messung am Netzanschlusspunkt oder an der EZE.
+
+(0:21:51 - 0:21:59)
+Das kann der Netzbetreiber dann frei entscheiden. Wir stellen das jetzt mal hier am Netzanschlusspunkt dar. Die Norm sagt auch, es muss nur einphasig gemessen werden.
+
+(0:22:00 - 0:22:12)
+Habe ich jetzt rausgenommen hier, weil mir hilft das im Grunde genommen nicht. Die Schutzrelais, die wir da anschließen, die haben eh einen dreiphasigen Spannungsanschluss. Ob die das dann intern einphasig oder dreiphasig machen, ist für mich dann gar nicht so relevant.
+
+(0:22:12 - 0:22:32)
+Das Schaubild jedenfalls zeigt, dass es hier einphasig ist und auch hier gilt im Grunde genommen die Logik. Wird dieser eingestellte Grenzwert F1 überschritten, dann läuft ein Zeitmodul los und dann wird der Leistungsschalter ausgeschaltet. Dann kommt auch die Logik wie beim Spannungsschutz.
+
+(0:22:33 - 0:22:47)
+Das Ganze soll mehrstufig ausgeführt werden können zumindest. Hier haben wir euch das gleiche Schaubild wie eben nicht nach und nach animiert dargestellt, sondern ihr kriegt es jetzt auf einmal rein. Fn ist in der Mitte die Nennfrequenz.
+
+(0:22:47 - 0:22:57)
+Das ist dann bei uns in Europa, Deutschland immer 50 Hertz. In Amerika meinetwegen 60. Aber europaweit könnte da mal von 50 Hertz sehr stabil ausgehen.
+
+(0:22:57 - 0:23:11)
+Und auch hier kann das dann in beide Richtungen natürlich sich die Frequenz verändern. Richtung zu viel Frequenz, also Überfrequenz oder Richtung Unterfrequenz. Und dann soll es eben nach gewissen Zeitabläufen zu Auslösungen kommen.
+
+(0:23:11 - 0:23:28)
+Wichtig ist aber auch erstmal, dass diese 4110 auch sagt, dass zwischen 47,5 und 51,5 Hertz die Trennung vom Netz nicht zulässig ist. Dafür müssen wir ab 51 Hertz vom Netz gehen. Das ist meistens im Schutzrelais dann eingestellt.
+
+(0:23:28 - 0:23:41)
+Aber vielleicht kommt das ein bisschen aus dem übergeordneten europäischen Code, weil da ist die Logik ein klein bisschen anders. Da geht es nämlich genau in die Richtung bis 51,5 Hertz oder bis 47,5 Hertz. Das müsst ihr am Netz bleiben.
+
+(0:23:41 - 0:23:49)
+So sagt es dann der europäische Code. Was danach passiert, ist dann nicht mehr so wichtig. Die Deutschen machen das dann ja eher so, was danach passiert, ist wichtig.
+
+(0:23:49 - 0:24:03)
+Nämlich abschalten. Und dass wir zwischen diesen beiden Werten am Netz bleiben müssen, das wird ja gar nicht so laut herausposaunt. Aber das ist trotzdem eine Vorgabe, die erfüllt werden muss und die unsere Wechselrichter auch erfüllen können.
+
+(0:24:06 - 0:24:22)
+So, dann kommt nochmal der QU-Schutz hier zum Schluss in der Reihenfolge und den führen wir hier auch nochmal mit auf. Den QU-Schutz, den machen wir unten nach links, weil es geht auch um Unterspannung und Blindleistung. Und den findet ihr online.
+
+(0:24:22 - 0:24:37)
+Den haben wir hier nur, dass es komplett ist, nochmal mit aufgeführt. Da gehen wir heute im Detail nicht drauf ein. So, dann geht es weiter mit dem nächsten Punkt, beziehungsweise wir fassen jetzt hier Punkte mal zusammen.
+
+(0:24:37 - 0:24:57)
+Nämlich diese ganzen Funktionen, die wir gerade so im Detail durchgeführt sind, die werden jetzt von der Norm in Kapitel 10.3.3.5 zusammengefügt. Und es wird gesagt, all diese drei Funktionen, die braucht ihr für den übergeordneten Entkopplungsschutz. Ja, das ist jetzt das erste Mal, dass dieser Begriff hier, glaube ich, offiziell in der Norm so fällt, übergeordneter Entkopplungsschutz.
+
+(0:24:58 - 0:25:18)
+Also wir sehen am Netzanschlusspunkt vor, dass dann eine Spannungsschutzeinrichtung, eine Frequenzschutzeinrichtung und ein QU-Schutz vorgesehen werden sollen oder zumindest vor oder zumindest eingerichtet werden kann. Die Relais, die wir da einsetzen, können das dann umsetzen. So, wir gehen da mal rein und schauen uns das an.
+
+(0:25:19 - 0:25:32)
+Übergeordneter Netzentkopplungsschutz, das war dieses Schema. Also wir messen tatsächlich am Netzanschlusspunkt und wir lösen am Netzanschlusspunkt aus. Das macht ein separates Schutzrelais gut und das kriegt das dann aber auch meistens hin.
+
+(0:25:32 - 0:25:46)
+Das ist nicht die große Problematik. Wir wissen ja mittlerweile, wie das läuft. So, das geht dann darunter und jetzt sammeln wir nochmal zwei von diesen Funktionen ein, und zwar den Spannungs- und den Frequenzschutz.
+
+(0:25:47 - 0:26:08)
+Und das soll dann der Entkopplungsschutz an den Erzeugungseinheiten sein. Wir nennen das dann auch häufig zwischengelagerten Entkopplungsschutz und kommen jetzt nochmal kurz dazu, warum wir das denn zwischengelagert nennen. Also, wir haben ja erstmal in den Wechselrichtern einen NA-Schutz, NA-Schutz integriert in der Erzeugungseinheit, das gibt es.
+
+(0:26:08 - 0:26:18)
+Das ist ja auch eine tolle Funktion. Am Ende will sich der Wechselrichter ja auch ein Stück weit selbst schützen. Das könnten wir natürlich auch nutzen und einfach da die Werte einstellen, die der Netzbetreiber fordert.
+
+(0:26:18 - 0:26:38)
+Aber wir haben da erstmal ein großes Problem, weil wir haben keine Prüfklemmleisten an den Wechselrichtern. Prüfklemmleisten sehen so aus, das ist dann üblicherweise, können wir da unser Schutzprüfgerät anschließen und können dann da kleine Ströme und Spannungen einspeisen, um nachzuweisen, dass diese NA-Schutzfunktion auch funktioniert. Haben wir nicht an den Wechselrichtern, wir schauen uns das mal an.
+
+(0:26:38 - 0:26:49)
+Der Wechselrichter hat ganz viele DC-Eingänge, hat da auch ein paar Kommunikationsanschlüsse, vielleicht auch noch einen AC-Ausgang, den wir jetzt hier nicht sehen, hat er aber. Und keine Prüfklemme. Deshalb können wir diesen Wechselrichter nicht prüfen.
+
+(0:26:50 - 0:27:05)
+Das heißt, das ist erstmal ein Problem und deshalb ist erstmal hier dieser NA-Schutz in diesen Wechselrichtern nicht gültig. Das zweite Problem, was er dann auch hat, bzw. wir nutzen es dann einfach als Vorteil später, ist diese Anzahl der Wechselrichter.
+
+(0:27:05 - 0:27:56)
+Wenn wir große Solarparks haben, dann haben wir da beispielsweise 100 Wechselrichter, jetzt hier im Beispiel sind es mal 5, und die werden dann auf mehrere TRAFO-Stationen geführt und in dieser TRAFO-Station sitzt dann der zwischengelagerte Entkoppelungsschutz. Das heißt, wir müssen jetzt nicht mehr 5 Prüfungen machen oder 100, sondern nur noch eine Prüfung in der TRAFO-Station und das ist natürlich, weil Schutzprüfer sind nicht billig, ein riesengroßer Vorteil und am Ende ist dann dieses zwischengelagerte Entkoppelungsschutzrelais wahrscheinlich schon sein Geld wert, weil wir jetzt nicht fünfmal prüfen, sondern nur einmal prüfen und das dann an einer zentralen Stelle. Das ist im Grunde genommen der Grund, warum wir diesen zwischengelagerten Schutz einbauen, warum der seine Berechtigung hat in Deutschland oder bei unseren Freiflächenanlagen, bei Dachanlagen genauso, diese beiden Punkte.
+
+(0:27:59 - 0:29:00)
+Anschluss der Erzeugungsanlage an die Sammelschiene des Umspannwerks und der Anschluss an das Mittelspannungsnetz. Kompliziert war es schon, damit es weiter spannend bleibt, nehmen wir jetzt diese zwei Punkte, wir hatten das ja am Anfang schon genannt, die Norm unterscheidet eben in diesen beiden Anschlussvarianten am Umspannwerk und am Mittelspannungsnetz und jetzt nehmen wir uns beide Punkte mal mit, weil am Ende sind da die Unterschiede relativ marginal, also relativ klein. Wir haben jetzt hier zwei große Solarparks, einer der hat ein Umspannwerk, da sieht man das, beziehungsweise der schließt an ein Umspannwerk vom Netzbetreiber an, so ist es gedacht, wir haben keinen 110 kV Anschluss, sondern der Netzbetreiber hat irgendwo sein Umspannwerk stehen und dann dürfen wir jetzt an so ein Schaltfeld direkt an die Sammelschiene anschließen und das andere auf der rechten Seite ist dann eben unser klassischer Mittelspannungsanschluss mit so einer Übergabestation, die jetzt hier auf der PV-Fläche steht, die könnte aber auch genauso gut ein paar Kilometer von der PV-Anlage entfernt sein.
+
+(0:29:02 - 0:29:29)
+So, also Kurzschlussschutzeinrichtung des Anschlussnehmers hatten wir schon, heute nicht relevant, können wir überspringen und wir haben den nächsten Punkt Entkoppelungsschutzeinrichtung des Anschlussnehmers, die dann wiederum wichtig sind. Achtung, wir sind jetzt an der Sammelschiene des UW, das seht ihr oben drüber, wir gucken uns erstmal den Anschluss direkt an so ein Umspannwerk an. Es gibt einen übergeordneten Entkoppelungsschutz und der soll integriert in das Schutzkonzept des Umspannwerks sein.
+
+(0:29:29 - 0:29:54)
+Das heißt, das ist dann eher die Aufgabe des Netzbetreibers, weil ihr kennt ja dieses Schutzkonzept des Umspannwerks gar nicht und es soll gegebenenfalls ein Distanzschutz im Umspannwerk vorgesehen werden. Das muss dann aber tatsächlich der Netzbetreiber irgendwie machen, weil ihr könnt ja bei ihm vielleicht ein Schaltfeld bestellen, aber er wird euch wahrscheinlich nicht in sein Umspannwerk lassen und diese Änderungen, Anpassungen, Planungen durchführen lassen. Das kommt von ihm.
+
+(0:29:56 - 0:30:33)
+Dann Vorschlag der Parameter, gegebenenfalls Anpassungen durch den E9-Bogen, das ist glaube ich klar, also der Netzbetreiber gibt euch den E9-Bogen und sagt euch dann, was dann die Anforderungen sind, was die Einstellwerte sind. Die E9-Bogenwerte, die kommen jetzt nicht unbedingt von irgendwo her, sondern die 4110 definiert erstmal Spannungsteigerungsschutz und dann gibt es dann einen Bereich, in dem unsere Relais arbeiten können müssen, also von 100 bis 130 Prozent. Und es gibt für den übergeordneten Schutz, später auch für den zwischengelagerten Schutz, Vorschläge in der Norm, die dann umgesetzt werden können.
+
+(0:30:33 - 0:30:47)
+Und das seht ihr tatsächlich auch in dem E9-Bogen. Diese Vorschläge stehen auf dem E9-Bogen, wurden eben aus der 4110 darüber kopiert und die sind jetzt hier aufgeführt. Also der Vorschlag ist, macht doch mal für die U größer, größer Stufe, 120 Prozent und 300 Millisekunden.
+
+(0:30:47 - 0:31:03)
+Das gleiche gibt es dann für den Spannungsteigerungsschutz, also 110 Prozent und 180 Sekunden und das geht dann hier so weiter. Das sind die Vorschläge, die kommen eben aus der Norm. Einen Unter-Unterspannungsschutz braucht ihr mal gar nicht und den QU-Schutz, den stellt ihr bitte so ein.
+
+(0:31:03 - 0:31:17)
+Das könnt ihr gerne so machen. QU-Schutz wollen wir nicht beachten, blenden wir aus. Und wenn man das dann so umsetzt, wie die Norm das vorschlägt, dann würde das in so einer Grafik hier resultieren.
+
+(0:31:17 - 0:31:36)
+Also wir haben Unterspannungsschutz und wir haben Überspannungsschutz und diese Vorschläge, die die Norm eben gemacht hat, die würden dann genau so aussehen. Unterspannung nur eine Stufe, Überspannung zwei Stufen. Wollen wir ein bisschen darauf hinaus, dass es jetzt gleich um Selektivität geht, dass man zwischen dem Übergeordneten und dem Zwischengelagerten eine gewisse Selektivität dann findet.
+
+(0:31:37 - 0:31:55)
+So, das ist dann nämlich gleich der nächste Punkt, Entkoppelungsschutz an der EZE. Der wird dann hier auch nochmal aufgeführt. Auch hier gibt es dann Vorschläge, 125%, 100 Millisekunden und so weiter ist jetzt im Detail gar nicht so entscheidend, weil der E9-Bogen kann das dann ja ohnehin nochmal anders definieren.
+
+(0:31:55 - 0:32:05)
+Wir gucken uns das aber nochmal im Schaubild an. Wir hatten den Übergeordneten in gelb und jetzt kommt in grün der Zwischengelagerte. Die Zahlen gehen mal raus, weil die nicht so relevant sind.
+
+(0:32:06 - 0:32:27)
+Und da sieht man jetzt hier, dann hat man eben den Zwischengelagerten-Schutz auch noch mit drin mit anderen Werten. Das brauchen wir jetzt gar nicht im Detail bewerten, aber so ist erstmal die Logik. Die letzte Spalte, da muss ich einmal schnell aus dem Bild, die habe ich dann eingetragen, weil jetzt sage ich NA-Schutz integriert in der Erzeugungseinheit, den brauchen wir auch.
+
+(0:32:27 - 0:32:57)
+Wir können das meistens in den Wechselrichtern nicht deaktivieren, sondern wir müssen etwas einstellen. Und das stellen wir dann jetzt erstmal etwas weniger sensitiv ein, als den Zwischengelagerten-NA-Schutz, weil der Zwischengelagerte-NA-Schutz soll ja auslösen und nicht vorher die Wechselrichter. Das seht ihr später auch nochmal, erklären wir nochmal ein bisschen detaillierter, was damit gemeint ist, aber das wäre erstmal unser Vorschlag, integriert in der EZE und dann hätte man im Grunde genommen kein Unterlaufen des Zwischengelagerten-Schutzes.
+
+(0:32:57 - 0:33:52)
+In der Grafik seht ihr jetzt, dass diese EZE-Einstellungen deutlich langsamer auslösen als der übergeordnete und Zwischengelagerte-Schutz und zu deutlich beim Überspannungsschutz höheren Spannung, beim Unterspannungsschutz bei geringeren Spannung. Also er wird wahrscheinlich faktisch deaktiviert sein, er wird nie auslösen, weil der Zwischengelagerte-Schutz das übernehmen soll. Achtung, noch ein Hinweis, den Spannungsfall beachten, also wenn wir bei der Überspannung jetzt sind, dann ist es zwangsläufig so, dass am Transformator auf der 800V-Seite eine andere Spannung ist als am Wechselrichter, das heißt am Wechselrichter kann das 1-2% höher sein, wenn ihr dann die Spannungswerte in den Erzeugungseinheiten größer als 2% stellt, seid ihr da sicherlich auf der sicheren Seite, hängt ab von euren Kabellängen, aber das sollte in der Ermittlung dieser Werte nochmal bedacht sein.
+
+(0:33:54 - 0:35:01)
+So, hier kommen jetzt nochmal die Frequenzfunktionen mit dazu, es gibt auch hier einen Frequenzbereich, übergeordnet ist der meistens nicht umzusetzen und zwischengelagert gibt es dann da eben auch Vorgaben für den Frequenzschutz und dann eben auch nochmal hier dargestellt, das ist dann der zwischengelagerte Frequenzschutz, da gibt es dann wenig Selektivität, weil es gibt ihn jetzt nur einmal und in der EZE setzen wir dann eben auch um und zwar mit deutlich höheren Frequenzen oder deutlich tieferen Frequenzen und deutlich größeren Zeiten, sodass der Wechselrichter im Grunde genommen nicht aufgrund einer Frequenzänderung abschalten wird, sondern dass immer eben von dem zwischengelagerten Schutz umgesetzt wird. Also, auch hier kein Unterlaufen des zwischengelagerten Schutzes, das ist damit gemeint, das sagen die Zertifizierer relativ häufig. Wir haben jetzt hier eine große Tabelle gefüllt für den Anschluss am Umspannwerk und jetzt wechseln wir mal unsere Perspektive und nehmen jetzt den Anschluss im Mittelspannungsnetz.
+
+(0:35:01 - 0:35:29)
+Das geht jetzt viel, viel schneller, weil die Punkte sind sehr, sehr ähnlich, also allgemein erstmal nicht relevant, Kurzschlussschutz auch hier heute nicht relevant, machen wir nicht, können wir drüber gehen und jetzt kommt die Entkopplungsschutzeinrichtung des Anschlussnehmers. Auch hier können wir jetzt große Tabellen füllen, machen wir auch einmal schnell für den übergeordneten Schutz, tragen das aber einmal ganz schnell ein. Das sieht jetzt erstmal sehr ähnlich aus zu dem, was wir eben am Umspannwerkanschluss hatten.
+
+(0:35:30 - 0:35:51)
+Hätten wir mal eine Übung daraus machen können und ihr sucht den Unterschied, aber das machen wir für euch. Entkopplungsschutz an der EZE gibt es auch noch, das füllen wir auch noch aus und hauen euch hier die ganzen Werte ganz schnell rein. Ich kann gerne so stehen bleiben, weil der Unterschied, der jetzt zwischen diesen beiden Einstellparametern ist, der ist, wie ich finde, sehr, sehr marginal.
+
+(0:35:52 - 0:36:15)
+Das sind diese drei Werte, die unterschiedlich sind zwischen dem Anschluss am Mittelspannungsnetz und dem Anschluss an der Sammelschiene des Umspannwerks. Also hat die Norm ganz schön viel Energie investiert, ich auch ehrlich gesagt, für diese drei kleinen Unterschiede. Wir hatten am Anfang am Umspannwerk noch den Distanzschutz erwähnt, aber auch den sehen wir mittlerweile im Mittelspannungsnetz immer häufiger bei größeren Anlagen.
+
+(0:36:15 - 0:36:36)
+Das kommt dann aus den THBs des Netzbetreibers, also gibt es da gar nicht mehr so viele Unterschiede. So, das waren diese beiden und wir sind noch nicht ganz am Ende hier mit der Norm. Es kommt noch ein Punkt, den wir auch häufig haben, Schutzkonzept bei Mittelspannungsanlagen und danach kommt noch ein Punkt, verspreche ich euch.
+
+(0:36:36 - 0:36:55)
+Also erstmal gibt es bei Mischanlagen Unterschiede. Mischanlagen sind Dachanlagen, das ist hier gemeint und der übergeordnete Schutz, der macht die Messung am Netzanschlusspunkt. Es gibt auch hier noch eine kleine Möglichkeit, woanders zu messen, weil häufig ist es am Netzanschlusspunkt schwierig, die Distanzen sind groß für Aussignale.
+
+(0:36:55 - 0:37:26)
+Die Norm gibt hier noch den Hinweis, dass man bei einem Spannungsfall kleiner 2% auch an einer anderen Stelle auf der Mittelspannungsleitung messen darf. Muss man mit dem Netzbetreiber abstimmen, kann man aber mal so mitnehmen, vielleicht hilft einem das in dem einen oder anderen Projekt weiter. Die Auslösung an der EZA, die ist dann ja häufig dieses Problem, ihr messt am Netzanschlusspunkt, die EZA ist aber ganz woanders und da sollt ihr jetzt auslösen, wie kriegen wir das hin, ist immer ein Thema, aber erstmal so gedacht in der Norm, dass man das so umsetzt.
+
+(0:37:27 - 0:37:57)
+Die Signalführung muss dann drahtbruchsicher sein, finde ich macht auch bei besonders so langen Strecken immer Sinn, dass man dann eine gewisse Sicherheit mit reinbekommt. QU-Schutz, den nehmen wir jetzt hier mal mit, Messung an der EZE ist erlaubt, das finde ich auch gut, weil die EZE erzeugt ja oder verbraucht die Blindleistung und die Auslösung wäre dann auch an der EZE. Also immer so ein bisschen mit dem Hintergedanken, wir wollen dann ja nicht die Fabrik, die Produktion abschalten, wenn die PV-Anlage irgendetwas vielleicht nicht richtig macht.
+
+(0:37:58 - 0:38:20)
+So, QU nehmen wir raus, überspringen wir heute und jetzt haben wir diese schöne Tabelle, erstmal oben ein Stück weit gefüllt. Es gibt den übergeordneten NA-Schutz, es gibt den zwischengelagerten NA-Schutz und es gibt dann als drittes den Eigenschutz der EZE. Wer ist jetzt für was verantwortlich? Für die Parameter sind die Netzbetreiber verantwortlich, für die Erzeugungsanlage, für den Eigenschutz der Anschlussnehmer.
+
+(0:38:21 - 0:38:44)
+Wir gehen das jetzt mal zügig durch. Die Prüfung machen die Anschlussnehmer generell, die USVen sind hier eingetragen, 8 Stunden, 5 Sekunden an dem zwischengelagerten Schutz und der Eigenschutz der EZE auch. Livekontakte braucht ihr, Ausfall der Hilfsspannung und der Messspannung muss man detektieren, automatische Wiedereinschaltung, Achtung, bei dem übergeordneten nicht, bei dem zwischengelagerten schon.
+
+(0:38:45 - 0:39:09)
+Und dann, wo wird gemessen am Netzanschlusspunkt, in der Niederspannung oder an der EZE und wo wird ausgelöst. Dann gibt es halt hier noch ein paar Variationen, Netzanschlusspunkt oder Niederspannung und der Zwischengelagerte macht es in der Niederspannung und na klar, die EZE kann eben nur an der EZE auslösen. So, 10.4 Zuschaltbedingungen und Synchronisation.
+
+(0:39:09 - 0:39:33)
+Das machen wir jetzt noch und dann haben wir glaube ich die Norm durch. Und diese Zuschaltbedingungen und Synchronisation, das finde ich ja immer besonders wichtig, weil das für den Betreiber eminent wichtig ist, dass nach so einem Netzausfall die Anlage auch hoffentlich automatisch wieder zuschaltet. Und das ist hier eben erstmal in diesem Kapitel Norm gegeben und die Norm sagt, die Zuschaltung muss erstmal möglich sein, im Bereich zwischen 90 und 110%.
+
+(0:39:33 - 0:40:01)
+Es muss möglich sein, aber ob wir es da auch dürfen, steht auf einem anderen Blatt, ist ein anderes Unterkapitel, das seht ihr gleich. Aber die Wechselrichter können, denke ich, grundsätzlich erstmal zwischen 90 und 110% eingeschaltet werden und dann legen die auch los, auch zwischen 47,5 Hertz und 50,2, sofern da ein ausreichendes Primärenergie-Dargebot, so nennt es die Norm, gegeben ist. Also die Sonne muss scheinen.
+
+(0:40:02 - 0:40:15)
+Darum geht es und dann können die Wechselrichter auch. Das ist eine Voraussetzung. So, und jetzt ist das Zuschalten eben nach einer Auslösung am Netzanschlusspunkt erstmal nicht zulässig.
+
+(0:40:15 - 0:41:20)
+Das könnt ihr mal mitnehmen in der Mittelspannung, da wird es jetzt erstmal, oder zumindest bei einem Mittelspannungsnetzanschluss, da werdet ihr den Mittelspannungsübergabeschalter nicht automatisch wieder einschalten dürfen, wenn Frequenz oder Spannung schwankt. Da müsst ihr jedes Mal hinfahren und jedes Mal prüfen, warum haben wir ausgelöst und dann muss derjenige mit Schaltberechtigung manuell wieder einschalten. Habt ihr aber eine Auslösung an der EZE oder am Zwischengelagerten Entkopplungsschutz, dann ist eben diese automatische Zuschaltung möglich bzw. 
+
+dann auch ja wirklich von den Betreibern gewollt, weil jedes Mal hinzufahren, wenn es zu so einem Fehler kommt, das ist natürlich nicht schön. So, also jetzt mal diese Logik, um das nochmal in so einem Logikdiagramm zu greifen. Ihr hattet jetzt eine Auslösung durch einen Frequenz- oder Spannungsfehler, also es ist eine Oder-Verknüpfung da unten, eins von beiden hat zur Auslösung geführt und wenn jetzt die Spannung wieder zurückkommt, also mindestens 95% und die Frequenz zwischen 49,9 und 51,1 liegt, das ist eine Unverknüpfung, also das Netz ist wieder stabil, hat wieder gesunde Werte.
+
+(0:41:21 - 0:41:41)
+Dann können diese beiden Sachen zusammen dazu führen, dass man über eine Zeitverzögerung, in der Regel sind das 10 Minuten, manche Netzbetreiber haben glaube ich auch schon 15 Minuten, kann man dann eben wieder zuschalten. So ist das erstmal gedacht und so versuchen wir das bei der Schutzprüfung dann auch zu prüfen, dass die Anlage wieder einschaltet.

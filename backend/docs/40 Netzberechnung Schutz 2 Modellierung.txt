@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:24)
+Gut, also wir haben jetzt glaube ich nochmal abgeholt, warum überhaupt Kurzschlussströme entstehen und jetzt wollen wir uns die mal ausrechnen. Ausrechnen, weil die belasten unsere Komponenten und deswegen sollen sie über die Schutztechnik so abgeschaltet werden, die auftretenden Kurzschlussströme, dass sie die Komponenten nicht beschädigen. Und dann haben wir alles richtig gemacht, weil dann haben wir ein System gebaut, in dem durchaus Fehler auftreten werden.
+
+(0:00:24 - 0:01:53)
+Umso besser die Betriebsführung oder die Planung, umso weniger oft wird das passieren. Es wird passieren und wenn sie auftreten, dann sind die Schutztechnik so konzipiert, dass die Komponenten trotzdem sicher sind. Man kann also den Fehler revidieren und wieder zuschalten. Das ist sozusagen der große Aufgabe jetzt für heute. Jetzt modellieren wir unser Netz. Das machen wir relativ zügig, weil das sozusagen eine Fleißarbeit ist. Ich zeige trotzdem einmal, wie es geht. Und da fangen wir oben an mit dem Netz. Da holen wir uns unseren E7 oder E9 Bogen, je nach Spannungsebene. Da schalten wir auf die Seite 6. Da sind die Netzdaten drin. Wir zoomen rein und dann sehen wir, da haben wir schon mal eine definierte Spannungsebene UN 110 kV. Das ist wichtig, weil die Spannung definiert im Grunde die Ströme mit. Dann kommt der nächste große Punkt, den man immer braucht, eine minimale Netz-Kurzschlussleistung am Netzverkümpfungspunkt. Die kann nur der Netzbetreiber kennen. Das ist definiert über die Impedanz und die Topologie des Netzes. Wir würden also nur raten, es kann nur der Netzbetreiber kennen. Im deutschen System ist Zertifizierungspflicht und die Pflicht bezieht sich auch auf die Pflichten des Netzbetreibers. Er ist verpflichtet, uns diese Kenndaten zur Verfügung zu stellen. Das finde ich auch gut. Das hat also zwei Richtungen, diese Zertifizierpflicht. Und deswegen kriegen wir diese Kenndaten ja auch immer höchst professionell, frühzeitig und auch richtig.
+
+(0:01:54 - 0:02:08)
+In anderen Gebieten, in denen diese Zertifizierpflicht so nicht definiert ist, ist das schwieriger, viel schwieriger. Man fragt nach diesen Kenndaten, kriegt oft keine. Dann nehmen wir Annahmen, die vermeintlich richtig sind.
+
+(0:02:08 - 0:02:25)
+Auf denen basieren dann unsere Parameter, die dann darauf basierend auch richtig sind, aber ob dann sozusagen der Ursprung das widerspiegelt, das sei dann mal dahingestellt. Also diesen Mega-Volt-Ampere-Wert holen wir uns da raus. Dann haben wir hier noch einen Impedanzwinkel.
+
+(0:02:25 - 0:02:42)
+Da geht es Richtung, jetzt wird es unsymmetrisch, die ganze Sache. Deswegen nehmen wir den zwar mit, aber überlassen das jetzt erstmal für heute dem Netzberechnungsprogramm, den dann auch richtig zu bewerten. Und dann gibt es einen Bemessungskurzzeitstrom IK, der ist wichtig, den nehmen wir jetzt immer mit.
+
+(0:02:43 - 0:03:10)
+Den IK-2-K3-Max. Das wird noch viel, viel länger jetzt später, also gewöhnt euch schon mal daran, dass diese Indizes ungefähr die kürzesten sind, die wir heute sehen werden. Das 2- erkläre ich gleich noch. K3 hatten wir schon, der ist dreipolig und das ist jetzt der maximale, der auftreten kann. 31,5 Kiloampere für eine Sekunde. Eine Sekunde deshalb, weil umso länger er wirkt, umso weniger hoch darf dieser Strom sein.
+
+(0:03:11 - 0:03:26)
+Da gibt es Abhängigkeiten und wenn man das dann als Zeitachse darstellt, wird da eine Gerade draus. Sehen wir später noch, aber jetzt haben wir erstmal einen Punkt uns rausgesucht. Das ist ein super Startpunkt, damit haben wir unser Netz definiert und damit geht alles sozusagen los.
+
+(0:03:26 - 0:03:34)
+Der Rest liegt bei uns. Zum Beispiel der Transformator. Wir zeichnen wieder zwei ein, das ist aber mehr eine Formsache.
+
+(0:03:35 - 0:03:53)
+Das ist jetzt gar nicht so relevant, in welchem Netzbereich ihr seid, in welchem Spannungsbereich. Wir machen das jetzt nur beispielhaft für ein Hochspannungssystem, dann haben wir es gleich abgefrühstückt. So, unser Hochspannungstransformator, der hat ein Datenblatt, das holen wir uns und dann holen wir uns diese folgenden Kenndaten raus.
+
+(0:03:53 - 0:04:12)
+Einmal die Oberspannungsseite und die Unterspannungsseite, also die Nennspannung der Oberspannung und der Unterspannungsseite. Dann blättern wir so ein bisschen weiter und sehen, hier ist eine Bemessungsleistung. Hervorragend, der hat jetzt 31,5 MVa und dann blättern wir noch weiter runter in unserem Datenblatt und finden dieses kleine UK.
+
+(0:04:13 - 0:04:29)
+Das ist ein ganz wichtiger Wert, dafür ist er relativ gut abgekürzt, wenn man so will. Also der verschwindet gerne mal, werdet ihr später auch noch sehen, wenn wir uns so ein Typenschild angucken. Der wird immer mitgeführt und der ist ganz wichtig, auch wenn er so ein ganz kleiner Buchstabe nur ist.
+
+(0:04:29 - 0:04:47)
+Also haben wir uns die vier Kenndaten rausgezogen, die wir brauchen werden und gehen dann weiter in den jetzt bei uns Mittelspannungstransformator. Und da sieht das genauso aus, da sind jetzt nur andere Kennwerte angegeben. Wer es jetzt gemerkt hat, wir hatten gerade 31,5 MVa, der hat jetzt 6500 kVa.
+
+(0:04:47 - 0:05:04)
+Das ist natürlich essentiell, auch für die Übung Achtung, dass man hier auf die Einheiten achtet. Sonst schiebt man natürlich gigantische Fehler mit in diese Berechnung mit rein. Die Spannung ist hier 33 kV auf der Oberspannungseite und 0,8 auf der Unterspannungseite.
+
+(0:05:04 - 0:05:17)
+Das ist nur ein Beispiel, das wir mal zeigen wollen und dann sieht man hier auch wieder so ein UK. Das wird jetzt hier anders genannt, aber wer es schon öfter mal gesucht hat, kann sich das auch hier raussuchen. Also Impedanz nennen sie es hier, aber vor allem ist es in Prozent angegeben.
+
+(0:05:17 - 0:05:32)
+Das ist schon mal ein sehr sehr guter Hinweis, dass das unser UK ist, also hier 8%. Wenn wir den Mittelspannungstransform haben, kommen die Kabel. Das haben wir letzte Woche auch so gemacht, da gibt es jetzt auch wieder verschiedene Spannungsebenen.
+
+(0:05:32 - 0:05:46)
+Wir gucken uns erstmal die Mittelspannung an. Also zwischen den zwei Transformatoren liegt jetzt so ein Mittelspannungskabel. Da brauchen wir in wundersamer Weise die gleichen Daten wie letzte Woche auch für die Lastverlustberechnung.
+
+(0:05:47 - 0:06:08)
+Wenn man sich oben nur ganz kurz das Ersatzschaltbild anguckt, wird klar, woraus so ein Kabel elektrisch besteht. Also aus einem Wirkwiderstand, aus einer Impedanz, einer Induktivität und Kapazitäten, die also parallel sozusagen gegen Erde dargestellt werden können. Diese Parameter findet man im Datenblatt.
+
+(0:06:09 - 0:06:23)
+Sollten sie mal nicht aufgelistet sein, muss man den Hersteller fragen, weil geben tut sie immer. In unserem Datenblatt haben wir Glück gehabt. Das wäre jetzt so ein 400 Quadratkabel und jetzt steht da ein Leiterwiderstand in Ohm pro Kilometer.
+
+(0:06:23 - 0:06:38)
+Deswegen steht da auch so ein Strich an dem R. Also auch da bitte darauf achten. Das ist ja auch wieder eine höchst risikobehaftete Stelle. Wenn man jetzt denkt, das ist für 10 Kilometer, dann hat man schon ein Dreher drin.
+
+(0:06:39 - 0:06:45)
+Also ist es nicht. Es ist pro Kilometer. Die Länge muss man also projektspezifisch noch hinzumultiplizieren.
+
+(0:06:46 - 0:06:51)
+Wir gehen weiter. Da steht die Betriebskapazität. Da kann man auch auf die Einheiten hinten achten.
+
+(0:06:52 - 0:07:03)
+Dann man da auch die Kapazität trifft und nicht die Induktivität. Also Nanofahrrad ist ganz klar, das ist unser Kapazitätsbelag. Und dann direkt daneben haben wir unsere Induktivität in Millihenry.
+
+(0:07:03 - 0:07:14)
+Ich kann es nur immer dann betonen, wenn ich sehe, alle, die ich treffe, technisch. Privat mache ich das auf keinen Fall, aber technisch. Da ist ein Riesenunterschied zwischen Millihenry und Nanofahrrad.
+
+(0:07:14 - 0:07:25)
+Wenn man das nicht sozusagen richtig mitnimmt, ist die Berechnung grundfalsch. Das wird man dann später auch ausprobieren können in unserer Excel-Übung. Also wir haben das hoffentlich richtig gemacht.
+
+(0:07:25 - 0:07:32)
+Die Einheiten sind korrekt und wir haben unser Mittelspannungskabel dimensioniert. Und da ist es schon. Ich sage jetzt einfach mal ein Kilometer.
+
+(0:07:33 - 0:07:53)
+Das ist natürlich clever, weil wenn man mit einem Kilometer rechnet, dann sind ja wieder die realen Werte genau die gleichen wie die Belege, weil dann der Faktor 1 ist. Das ist in Realität nie so, also ist eure Berechnung deutlich schwieriger. Das Niederspannungskabel nehmen wir der Form halber auch noch mit.
+
+(0:07:54 - 0:08:05)
+Wir haben hier ein Datenblatt, in dem wir raushoben. Jetzt haben wir 300 Quadrat, da kommt wieder so ein R, ein C und ein L. Und dann ziehen wir das mit. Und da sagen wir, glaube ich, auch ein Kilometer.
+
+(0:08:05 - 0:08:17)
+Genau, das macht es für uns einfach leichter. Ganz unten kommt der Wechselrichter, der wahrscheinlich heute zum ersten Mal in unserer langen Brainday-Reihe praktisch keine Rolle spielt. Ich zeige es später kurz, warum.
+
+(0:08:18 - 0:08:41)
+Aber jetzt schauen wir ihn uns trotzdem an. Wir nehmen der Form halber, sage ich mal so, die Leistung mit raus und auch den Nennstrom. Das machen wir, weil wir sagen, nein, das sagen nicht wir, sondern das ist so, in einem Kurzschlussfall trägt auch der Wechselrichter seinen Beitrag zum Gesamt-Kurzschluss bei.
+
+(0:08:41 - 0:09:19)
+Das kann man sich so vorstellen, wenn man jetzt irgendwo im Mittelspannungsnetz einen Fehler hat, dann kommen sowohl von Wechselrichterseite als auch von Netzseite Kurzschlussströme. Diesen Kurzschlussstrom, das haben wir schon oft hinterfragt bei Wechselrichterherstellern, der ist in dieser IGBT-Schalttechnik von Wechselrichtern jetzt dünnes Eis, aber in dieser Leistungselektronik-Welt ist der praktisch 1 oder nahe 1. Wir nehmen ihn dann mit 1,1 an, den Faktor. Das heißt, der Kurzschlussstrom hätte bei uns jetzt 170 Ampere gegenüber dem Nennstrom von 155 Ampere.
+
+(0:09:19 - 0:09:31)
+So machen wir das immer. Warum ist das der Form halber? Wir werden es später sehen. Diese Ströme sind jetzt gegenüber den Kurzschlussströmen, also den Beiträgen vom Netz, praktisch verschwinden, gering.
+
+(0:09:31 - 0:09:40)
+Wir haben das auch gerechnet und man kommt am Ende praktisch aufs Gleiche raus. Also man kann diesen Strom vernachlässigen. Machen wir natürlich jetzt nicht, sondern wir ziehen ihn mit.

@@ -1,0 +1,228 @@
+(0:00:00 - 0:00:07)
+So, nochmal in die Übersicht. Belastbarkeit der Betriebsmittel haben wir jetzt auch gefunden. Jetzt kommt das letzte Kapitel.
+
+(0:00:07 - 0:00:21)
+Das ist die Schutztechnik. Wir brauchen jetzt im Grunde alles das, was wir uns vorher erarbeitet haben, um die Schutztechnik zu dimensionieren und entsprechende Diagramme zu erstellen. Also wir fangen mal ganz langsam an.
+
+(0:00:22 - 0:00:31)
+Und was wir erst mal für wichtig hielten, war, dass es erst mal lineare Darstellungen gibt. Das ist, glaube ich, das, was immer alle kennen. Das sieht so aus.
+
+(0:00:32 - 0:00:59)
+Wir haben ja mal bewusst ein sehr buntes Bild mit vielen, vielen Zahlen erstellt, weil in unserer Schutztechnik haben wir jetzt grundsätzlich ein Problem, denke ich. Wir haben Werte von 100 Ampere, so Betriebsströme, und wir haben aber dann wiederum auch Werte im Kurzschlussfall, die dann Richtung 40, 50 Kiloampere gehen. Und das macht es unheimlich schwer, auf so einer Skala hier diese Werte alle sinnhaft darzustellen.
+
+(0:00:59 - 0:01:22)
+Das betrifft sowohl den Strom auf der X-Achse als auch die Zeit auf der Y-Achse. Und da haben sich jetzt die Elektroingenieure vor vielen, vielen Jahren einen Trick einfallen lassen und haben eben so eine doppellogarithmische Darstellung entwickelt. Also ich muss das nochmal zurück machen, weil jetzt, ihr seht das jetzt, wir schauen mal kurz auf die X-Achse, die hat sich jetzt die Skalierung im Grunde genommen geändert.
+
+(0:01:22 - 0:01:51)
+Man sieht jetzt immer von Farbe zu Farbe im Grunde eine Zehnerpotenz. Das heißt, man kommt von 1.000 auf 10.000 auf 100.000. Im Grunde genommen hat man jetzt die gleichen Abstände auf der X-Achse, dafür aber deutlich kleinere bis deutlich größere Zahlenbereiche. Wenn man diesen grünen Bereich sich anschaut, ist glaube ich von 10.000 bis 100.000, ist natürlich ein riesengroßer Zahlenbereich, der von 1.000 bis 10.000 ist dann deutlich kleiner.
+
+(0:01:51 - 0:02:18)
+Aber das macht es uns möglich, eben in so einer doppellogarithmischen Darstellung sehr kleine Ströme und sehr große Ströme und sehr kleine Zeiten und sehr große Zeiten im Grunde aufzuzeigen. Auf der Y-Achse seht ihr es vielleicht noch ein bisschen eindrücklicher, da geht es ja von 0,01 bis 100 Sekunden in dieser doppellogarithmischen Darstellung. Ich gehe nochmal zurück und in dieser Darstellung hier geht es ja nur von 0,1 bis 3,7.
+
+(0:02:18 - 0:02:37)
+Das ist dieser große Unterschied. Schutzstaffelpläne sind meistens hier so dargestellt, doppellogarithmisch. Das ist, finde ich, erstmal eine wichtige Grundlage, die man greifen muss und sich dann nicht wundern darf, warum dann auf einmal so große oder so kleine Zeiten da stehen, obwohl das alles doch nah beieinander ist.
+
+(0:02:37 - 0:03:02)
+Da können dann auf einmal ganz schön große Dimensionen dazwischen liegen. So ist das erstmal grundsätzlich gemacht in unserer Schutzwelt. Jetzt versuchen wir mal zusammen mit euch so einen Staffelplan oder so ein Schutzkonzept hier mal zu erarbeiten, wie macht man das denn eigentlich? Wir haben einen Betriebsstrom, den kennen wir hoffentlich, wir wissen wie viel Strom fließt über zum Beispiel unser Kabel oder über unseren Trafo.
+
+(0:03:02 - 0:03:24)
+Den rechnen wir aus und würden den dann auch erstmal ganz weit links hoffentlich in unser doppellogarithmisches Diagramm eintragen. Das ist eine durchgehende Linie von unten nach oben, weil dieser Strom ist im Grunde nicht zeitlich begrenzt. Der Betriebsstrom kann ja tagelang fließen oder zumindest bei PV-Anlagen über mehrere Stunden.
+
+(0:03:25 - 0:03:59)
+Und dieser Betriebsstrom muss erstmal kleiner sein als der Dauerstrom der Komponente. Das heißt, der Dauerstrom der Komponente, was die Komponente tragen kann, muss erstmal größer sein als der Betriebsstrom. Deshalb haben wir es auf der rechten Seite eingetragen. 
+
+So ist das erstmal grundsätzlich gedacht. Wir wollen ja jetzt zusätzlich noch einen Schutz implementieren. Wir wollen uns ja nicht darauf verlassen, dass unser Betriebsstrom immer kleiner ist als der zulässige Dauerstrom unseres Kabels.
+
+(0:04:00 - 0:04:19)
+Dann machen wir erstmal die Stufe 1, wir nennen die immer I größer, und die schützt erstmal unsere Komponenten gegen Überlast. Das heißt im Grunde genommen, diese Komponente darf nicht auslösen, wenn wir im Normalbetrieb sind. Sie muss aber auch die Komponente schützen.
+
+(0:04:19 - 0:04:43)
+Was wir dann machen ist, dass wir diese I größer Stufe in der Regel 10 bis 20 Prozent größer einstellen als den Betriebsstrom. Also sagen wir, wir haben Betriebsstrom von unserem Kabel, der Nennstrom ist 100 Ampere, das ist das, was so fließen kann. Dann würden wir den Schutz jetzt mal auf 110, 120 Ampere stellen, damit er nicht auslöst, wenn wir im normalen Betrieb sind.
+
+(0:04:43 - 0:05:07)
+Aber trotzdem soll er ja das Kabel gegen eine Überlastung schützen. Das heißt, diese Schutzstufe muss auch kleiner sein als der zulässige Dauerstrom der Komponente. Wenn man unser Beispiel nochmal verfolgt, 100 Ampere Nennstrom zum Beispiel, das ist das, was fließt.
+
+(0:05:08 - 0:05:27)
+Und der zulässige Strom von unserem Kabel ist vielleicht 150, dann würden wir sehen, dass wir das Schutzgerät irgendwo dazwischen bringen. Also zum Beispiel 120 Ampere für die I größer Stufe. So versuchen wir das dann jetzt auch mal zu machen und tragen jetzt hier, genau so tut man es dann in so einem Schutzkonzept, so eine erste Schutzstufe ein.
+
+(0:05:27 - 0:05:46)
+Die sitzt jetzt genau da, wo sie sitzen soll, also zwischen dem Betriebsstrom und dem zulässigen Dauerstrom. Und würde jetzt bei Überschreitung dieser Stufe, würde sie eben nach einer gewissen Zeit auslösen, damit das Kabel nicht überlastet wird. Das ist erstmal die Idee.
+
+(0:05:46 - 0:06:10)
+Jetzt habe ich hier aber schon ein riesengroßes Sternchen hinbekommen von meinem Kollegen, der sagt, das ist aber in PV-Anlagen oft so gar nicht möglich. Weil unsere Komponenten, die wir so einsetzen, sind meistens sehr stark an der Grenze belastet. Wir haben ein Kabel beispielsweise, das ist mit den Reduktionsfaktoren auf 150 Ampere schon zu berechnen als maximalen zulässigen Strom.
+
+(0:06:11 - 0:06:21)
+Und der Strom, der fließt, ist tatsächlich auch schon 145. Wir sind sehr stark an der Grenze. Das machen wir, weil wir wissen, dass unsere Wechselrichter ja gar nicht mehr Strom liefern werden.
+
+(0:06:21 - 0:06:33)
+Das ist ein großer Unterschied zu der Hausinstallation, wo man nicht so genau weiß, wie viele Verbraucher jetzt an der Steckdose angeschlossen werden. Wie viele Mehrfachsteckdosen und so weiter. Und deshalb nehmen wir das im Grunde genommen in Kauf.
+
+(0:06:34 - 0:06:54)
+Das hat sich so auch etabliert, dass man sagt, zwischen 145 Ampere, was wir eben im Betrieb haben, und 150 Ampere, was das Kabel aushält, kriegen wir keine sinnhafte Schutzstufe bei 147,5 Ampere gesetzt. Das ist viel zu knapp, so genau können wir nicht messen. Da werden wir entweder Auslösungen bekommen.
+
+(0:06:55 - 0:07:17)
+Ja, wahrscheinlich werden wir Auslösungen bekommen, aus Versehen, das wollen wir ja auch nicht. Deshalb akzeptiert man es und wir schieben diese Schutzstufe weiter nach rechts, sodass wir dann eben nicht bei 145 aus Versehen auslösen. Wir schieben sie auf 160, 170, haben dann wieder diese 110, 120 Prozent Puffer und schützen aber unser Kabel nicht gegen Überlastung.
+
+(0:07:17 - 0:07:26)
+Das ist dann an der Stelle nicht mehr möglich. Wir sagen aber, die Wechselrichter werden das schon nicht tun. Die werden nicht einfach mehr Strom einspeisen.
+
+(0:07:27 - 0:07:32)
+Deshalb akzeptieren wir das so. Das einmal mitnehmen. Jetzt kommt noch der Schutz gegen Kurzschluss.
+
+(0:07:33 - 0:07:42)
+Also wir hatten Überlast, haben wir jetzt gemacht und jetzt kommt der Kurzschluss. I größer, größer. Dafür brauchen wir erstmal den minimalen Kurzschlussstrom.
+
+(0:07:42 - 0:07:56)
+Den haben wir jetzt so ausführlich berechnet, so lang hergeleitet. Endlich findet sich der minimale Kurzschlussstrom hier in unserer Grafik wieder. Das heißt, wir haben Kurzschluss, das ist das, was mindestens kommt.
+
+(0:07:56 - 0:08:15)
+Das ist das, was auch unser Schutzrelais zur Anregung bringen muss. Es kommt jetzt aber zusätzlich noch der maximale Kurzschlussstrom, also IK' der Komponente. Moment, das ist der IK', der maximale Kurzschlussstrom, den wir zu erwarten haben.
+
+(0:08:16 - 0:08:28)
+Also minimal, maximal, irgendwo dazwischen liegt unser Kurzschlussstrom. Und unsere Komponente, die liegt dann später dahinter. Wir haben jetzt die I größer, größer Stufe schon eingetragen.
+
+(0:08:28 - 0:08:34)
+Ihr habt das gesehen, ich gehe nochmal zurück. Das ist I größer, was wir sehen. I größer, größer sieht im Grunde genommen so aus.
+
+(0:08:34 - 0:09:02)
+Und die Komponente, die wir schützen wollen, die kann jetzt mehr als IK' oder mehr als den maximalen Kurzschlussstrom, der zu erwarten ist, kann diese Komponente aushalten. Und das Schutzgerät mit der I größer, größer Stufe würde ohnehin viel früher abschalten und viel schneller abschalten. Das heißt, jetzt ist erstmal unser Kabel gegen den maximalen Kurzschlussstrom geschützt.
+
+(0:09:02 - 0:09:12)
+Und unser Schutzrelais löst schnell genug aus. So wäre das jetzt erstmal definiert. Jetzt kommt noch zusätzlich Staffelung.
+
+(0:09:12 - 0:09:31)
+Wir müssen jetzt natürlich noch versuchen, dass im Grunde genommen das richtige Schutzrelais auslöst. Also nicht unser Netzanschlusspunkt auslöst, wenn ein Wechselrichter ein Problem hat, sondern wir versuchen jetzt eine Staffelung aufzubauen. Staffelung ist meistens so zu verstehen, der Netzbetreiber, der gibt uns einen Vorgabewert am Netzanschlusspunkt.
+
+(0:09:31 - 0:09:44)
+Der ist dann erstmal in Stein gemeißelt und daran versuchen wir uns zu orientieren. Wenn der Netzbetreiber uns jetzt wenig Zeit gibt, haben wir grundsätzlich erstmal ein Thema, mit dem wir irgendwie zurechtkommen müssen. Versuchen wir aber nochmal ein bisschen zu greifen.
+
+(0:09:45 - 0:09:54)
+Und man muss die Selektivität beachten. Genau, Selektivität, Staffelung, das ist vielleicht so ein bisschen das Gleiche. Also selektiv wollen wir auslösen.
+
+(0:09:54 - 0:10:19)
+Es muss eben immer das Relais auslösen, was am nächsten Abend Fehler ist. Wir sehen das gleich nochmal ein bisschen besser. Und um das nochmal ein bisschen vielleicht auch zeitlich zu greifen, so eine Selektivität, das ein Relais nach dem anderen abschaltet, ist meistens gegeben, wenn wir zwei bis 300 Millisekunden Zeit zwischen diesen Abschaltzeiten der einzelnen Relais vorsehen können.
+
+(0:10:20 - 0:10:43)
+Das meinte ich jetzt, dass wir den Netzbetreiber, wenn der Netzbetreiber uns schon nach 100 Millisekunden abschaltet, dann haben wir natürlich keine Möglichkeit mehr, 200 Millisekunden Puffer zum nächsten Relais einzuplanen, sondern dann lösen alle Relais zeitgleich aus, sobald sie ihre Stromschwellen überschritten haben. Das kann passieren. Dann kann man mit dem Netzbetreiber nochmal versuchen zu sprechen.
+
+(0:10:43 - 0:10:56)
+Aber das ist dann grundsätzlich erstmal ein kleines Problem, was wir haben. Und das sehen wir öfter, kommen wir aber meistens einigermaßen gut mit zurecht. Vor allem, weil wir auch nicht so viele Schutzabschaltungen haben.
+
+(0:10:58 - 0:11:18)
+Wir gucken uns jetzt wirklich mal so ein Projekt an, hier so einen kleinen Solarpark und haben hier einen Fehler auch mal eingezeichnet und versuchen jetzt mal rauszufinden, welches Relais dafür zuständig ist, wie man das einstellen könnte und wie so eine Staffelung dann funktioniert. Also der Fehler ist da. Wir haben jetzt auch ein Schutzgerät eingebaut.
+
+(0:11:18 - 0:11:30)
+Das sitzt zum Beispiel im Umspannwerk. Wenn wir hier wieder annehmen, wir haben 110 kV Netz, dann haben wir das Umspannwerk. In der Mittelspannungsverteilung haben wir eben ein Schutzgerät, das überwacht erstmal das Kabel.
+
+(0:11:31 - 0:11:54)
+Also es überwacht das Kabel, aber trotzdem sieht es natürlich auch alles, was hinter dem Kabel noch passiert. Wenn der Trafo einen Kurzschluss hätte, wenn der Wechselrichter einen Kurzschluss hätte, müssen die Kurzschlussströme vom Netz ja durch dieses Relais oder an diesem Relais vorbeifließen und es würde das auch sehen. Hier ist es aber erstmal so, dieses Relais soll das Kabel schützen und nicht unbedingt den Trafo.
+
+(0:11:54 - 0:12:03)
+Dafür gibt es später noch andere Relais. Schutz des Kabels im Kurzschlussfall. Das ist hier die Idee und wir schauen uns die Kabelkennlinie erstmal an.
+
+(0:12:03 - 0:12:22)
+Die ist linear in diesem doppellogarithmischen Papier. Das heißt, wenn ihr das jetzt in einem linearen Diagramm zeigen würdet, wäre die nicht so schön gerade, sondern wahrscheinlich sehr gekrümmt. Hier ist sie erstmal gerade. 
+
+Das ist die Kennlinie von einem Kabel. Das Schutzgerät sitzt jetzt erstmal im Umspannwerk und soll das Kabel schützen. So haben wir es hier dran geschrieben.
+
+(0:12:23 - 0:12:50)
+Der Ort des Schutzgeräts ist das Umspannwerk und das Schutzobjekt, was wir schützen wollen, ist primär erstmal das Kabel. Wir haben den Betriebsstrom, wir haben den zulässigen Dauerstrom des Kabels und wir haben jetzt hier auch den IKmin eingetragen. Den IKmax tragen wir auch noch ein und daran sehen wir jetzt auch wiederum, dass unser Kabel erstmal den IKmax tragen kann für eine gewisse Zeit.
+
+(0:12:50 - 0:13:29)
+Also gegen Kurzschluss würde ich jetzt davon ausgehen, haben wir hier glaube ich schon mal einen guten Schutz, weil das Kabel das erstmal für ungefähr eine Sekunde oder länger diesen maximalen Kurzschlussstrom tragen kann. Jetzt kommt hier so eine I größer und I größer größer Stufe, die wir hier einstellen in unserem Schutzgerät. Man sieht dann auch, dass unser Schutzgerät bei ungefähr 1000 oder unter 1000 Ampere schon in einer Zeit von vielleicht 500 Millisekunden, das ist jetzt nur grob abgeschätzt, diesen maximalen Kurzschlussstrom abschaltet und damit ist unser Kabel grundsätzlich erstmal gegen weitere Zerstörungen geschützt.
+
+(0:13:29 - 0:14:09)
+Der Bagger hat zwar reingehauen, also das Kabel hat eine Zerstörung, aber es wird verhindert, dass jetzt hunderte Meter Kabel anfangen zu glühen und dadurch lange Kabelstrecken wirklich eine große Beschädigung haben. Also Schnittpunkt von der grünen zur gelb gestrichelten Linie zeigt das Auslösen des Schutzrelais im Kurzschlussfall. Stufe 1 und Stufe 2 der Schutzrelais sind oberhalb der Belastungsgrenze des Kabels, also das Kabel könnte überlastet werden, aber das nehmen wir eben hin, wie ich es vorhin erklärt hatte.
+
+(0:14:09 - 0:14:38)
+Wir nehmen jetzt mal diese erste Kennlinie von unserem Schutzrelais im Umspannwerk mit, machen die aber grau. Es hat sich jetzt ein bisschen verschoben, die Skalierung hat sich ein bisschen geändert, aber wir wollten jetzt diese Kennlinie erstmal mitnehmen, um jetzt bei dem nächsten Schutzrelais, was wir zeigen, dann auch gleich die Selektivität mitzubetrachten. Also wir kriegen ein neues Schutzgerät, das sitzt jetzt direkt vor dem Transformator und das soll jetzt den Transformator schützen im Kurzschlussfall.
+
+(0:14:38 - 0:14:50)
+Primäre Aufgabe von dem Relais ist, schütze den Trafo im Kurzschlussfall. Das ist jetzt diese Kennlinie, die so ein Transformator hat. Also ein Transformator kann meinetwegen ein paar Kiloampere für eine Sekunde tragen.
+
+(0:14:50 - 0:15:21)
+Es ist hier eine leichte Krümmung drin, so müsste jetzt der Trafo geschützt werden. Das ist ein nicht-linearer Verlauf, das ist ein bisschen anders als bei dem Kabel, aber das, wie vorher schon mal gesagt, das machen unsere Simulationstools. Jetzt kommen auch hier wieder der Laststrom rein, der Betriebsstrom, den wir haben und der maximal zulässige Strom auf unserer Komponente und eben die minimalen und maximalen Kurzschlussströme, die wir an dieser Stelle des Netzes haben.
+
+(0:15:22 - 0:15:41)
+Zusätzlich kommt jetzt nochmal rein unsere Auslösekennlinie, die wir ermitteln und dann in dem Relais programmieren. Und was man jetzt hier schon sieht ist, wir haben wieder diese Schnittpunkte zwischen grün und gelb und orange gestrichelt. Das heißt, wir lösen deutlich früher aus, als dass unser Trafo beschädigt wird.
+
+(0:15:42 - 0:16:15)
+Das heißt, der Trafo ist erstmal geschützt. Und wir sehen hier zusätzlich noch, dass wir eine Staffelung haben zwischen dem Schutzrelais, was vorher das Kabel geschützt hat und dem Schutzrelais, was jetzt hier in grün gezeigt ist, was den Transformator schützt. Das heißt, ein Kurzschluss im Trafo, den auch unser Schutzrelais im Umspannwerk sehen würde, würde jetzt hier selektiv ausgeschaltet werden von dem Schutzrelais am Transformator, weil wir haben jetzt hier eine sinnvolle Zeitstaffelung wählen können.
+
+(0:16:17 - 0:16:27)
+Also Stufe 1 und Stufe 2 des Schutzrelais sind oberhalb der Belastungsgänze des Trafos. Das ist hier erstmal gut, Trafo ist geschützt. Wir nehmen jetzt diese beiden Kennlinien nochmal mit.
+
+(0:16:27 - 0:16:45)
+Hier hat sich auch wieder die Skalierung ein bisschen geändert, aber am Ende des Tages kommt es hier darauf an, dass man hier sieht, wie ungefähr so eine Staffelung dann darzustellen oder umzusetzen ist. Jetzt haben wir einen Kurzschluss im Kabel und auch hier gibt es ein neues Schutzrelais. Das sitzt meinetwegen auf der Niederspannungseite des Transformators.
+
+(0:16:46 - 0:17:02)
+Dieses Schutzrelais hat jetzt primär die Aufgabe, die Sammelschiene und das Kabel zu schützen. Die Sammelschiene und das Kabel haben jetzt diese Kennlinie, die in blau eingetragen ist. Es ist genauso wie vorhin, auf der Mittelspannungseite gilt das für die Niederspannungseite.
+
+(0:17:02 - 0:17:15)
+Der Verlauf ist linear und das Kabel oder die Sammelschiene haben einen Laststrom. Sie haben einen zulässigen Dauerstrom, genau wie vorher. Wir haben minimale und maximale Kurzschlussströme.
+
+(0:17:16 - 0:17:49)
+Der Kurzschluss ist zwischen diesen beiden gelb- und orange gestrickelten Linien. Das, was unsere Komponenten aushalten, ist dann eher weiter links dargestellt. Unsere Kürzschlüsse bzw. 
+
+I-größer- und I-größer-Stufen trägt man jetzt möglichst so ein. Das heißt, wir schalten relativ schnell große Ströme aus und haben sogar einen Schutz zwischen dem Laststrom und dem zulässigen maximalen Strom. Das wäre hier jetzt auch gleichzeitig eine tolle Staffelung, die man da hingebracht hat.
+
+(0:17:50 - 0:18:16)
+Man hat jetzt hier die Sammelschiene oder das Kabel geschützt. Und wenn man das jetzt nochmal mitnimmt und sich wirklich nur einen Staffelplan anschauen würde, so wäre das. Dann sieht man jetzt, dass man hier hoffentlich zwischen allen Auslösestufen immer so 200 mA Zeit schafft, damit die anderen Relais wiederum Zeit haben, wenn der Fehler ausgeschaltet ist, wieder zurückzukehren zum Normalzustand und nicht auch gleichzeitig mit ausschalten.
+
+(0:18:16 - 0:18:34)
+Weil, man muss sich das vielleicht so vorstellen, ihr habt im Niederspannungskabel einen Kurzschluss, der geht Richtung 50.000 kA. Dann sehen das im Grunde genommen alle Schutzrelais. Und es könnte passieren, dass alle gleichzeitig den Fehler schicken, der Leistungsschalter 50 ms später erst geöffnet hat.
+
+(0:18:34 - 0:18:57)
+Und dann lösen im Grunde genommen alle Schalter, alle Relais aus. Um das zu verhindern, braucht man eben diese 200 ms Puffer von Stufe zu Stufe, damit eben nicht alle Relais ausschalten und nicht gleich euer ganzer großer Solarpark aus ist, wenn ein Wechselrichter meinetwegen einen Kurzschluss hat. Das soll das dann hier erstmal für die Staffelung gewesen sein.
+
+(0:18:58 - 0:19:10)
+Wichtig, größere Ströme, schnellere Auslösung. Nehmt das mal so mit. Und die Staffelung, die ist eben mit 200 bis 300 ms ungefähr einzurechnen.
+
+(0:19:10 - 0:19:20)
+Und der Netzbetreiber gibt uns den Startpunkt. Das ist genau das, was ich eben gesagt habe, was ich euch erklären wollte. So wäre das sinnvoll aufgebaut.
+
+(0:19:22 - 0:19:41)
+Genau, jetzt haben wir hier nochmal im Modell das ein bisschen dargestellt. Und wir gucken uns nochmal an, was passiert jetzt, wo liegen Kurzschlüsse, wo würde welches Relais vielleicht auslösen. Also hier nehmen wir mal als Hypothese an, ein Niederspannungskabel hat einen Kurzschluss.
+
+(0:19:41 - 0:19:58)
+Und die Höhe des Kurzschlusses und die Dauer des Kurzschlusses, die sieht man jetzt hier angedeutet in dem Diagramm mit dem gelben Punkt. Das ist jetzt erstmal die Idee. Alle Relais, würden wir jetzt sagen, sehen erstmal den Fehler.
+
+(0:19:58 - 0:20:25)
+Weil ihr müsst euch vorstellen, der Kurzschlussstrom fließt von oben vom Netz durch den ersten Trafo über das Mittelspannungskabel, über den zweiten Trafo in das Niederspannungskabel. Alle Relais sehen diesen Fehler erstmal. Es kommt aber dann dazu, dass nur der Niederspannungsleistungsschalter oder das Schutzrelais in der Niederspannung und das Mittelspannungstrafo-Relais anregen.
+
+(0:20:26 - 0:20:38)
+Weil die Stromschwellen nur von diesen beiden Relais überschritten werden. Das sieht man hier in dem Diagramm. Der Strom ist nicht hoch genug, um dieses grün dargestellte Relais im Umspannwerk zu triggern.
+
+(0:20:38 - 0:20:49)
+Das reagiert noch gar nicht. Das sagt auch, der Strom ist noch nicht so hoch, gar nicht so schlimm. Aber die beiden Relais im Mittelspannungsnetz vor und nach dem Niederspannungstrafo, die sehen das erstmal.
+
+(0:20:50 - 0:21:04)
+Und jetzt passiert es eben, dass der Niederspannungsleistungsschalter viel schneller ausschaltet. Weil er hat eine viel schnellere Auslösezeit an der Stelle eingestellt. Sodass dann hoffentlich der Leistungsschalter auf der Mittelspannung nicht mit abschaltet.
+
+(0:21:04 - 0:21:18)
+Nur der Niederspannungsschalter löst aus, weil er viel schneller ist als der Mittelspannungsschalter. Wir schieben den Fehler nochmal in den Transformator hinein. Gucken uns das an, was würde hier passieren.
+
+(0:21:18 - 0:21:28)
+Und jetzt wäre erstmal der erste Punkt, der Niederspannungsschalter sieht diesen Fehler jetzt nicht. Weil auch hier kommt der Fehler ja vom Netz. Fließt durch den Hochspannungstrafo, durch den Mittelspannungstrafo.
+
+(0:21:29 - 0:21:38)
+Der Niederspannungsschalter sieht den Fehler, so sage ich das immer, nicht. Er detektiert keinen zu hohen Strom. Das heißt, er würde jetzt auch nicht auslösen.
+
+(0:21:39 - 0:21:59)
+Nur der Mittelspannungsschalter im Umspannwerk und der vor dem Strafo sehen jetzt diesen Fehler. Allerdings ist dieser Fehlerstrom jetzt nicht so hoch, dass eins dieser beiden Relais im Umspannwerk oder vor dem Transformator seine Stromschwelle überschreitet. Das heißt, jetzt haben wir hier einen minimalen Kurzschlussstrom.
+
+(0:21:59 - 0:22:08)
+Und der regt aber diese beiden Relais gar nicht an. Das heißt, es kommt auch zu keiner Ausschaltung. Und das ist genau das, was man jetzt verhindern muss.
+
+(0:22:08 - 0:22:40)
+Dass man einen Fehler hat, einen Kurzschlussstrom hat, der dann eben nicht ausreichend hoch ist, um dieses Relais entweder im Umspannwerk oder auf der Mittelspannungsseite des Transformators zum Auslösen zu bringen. Letztes Beispiel, dann sind wir damit auch durch. Wir machen jetzt nochmal einen Kurzschluss auf dem Mittelspannungskabel, zeigen das hier in unserem Diagramm und sehen jetzt hier, dass nur das Mittelspannungskabel-Relais den Fehler sieht.
+
+(0:22:40 - 0:22:57)
+Dieses Relais vorne am Umspannwerk, das sieht jetzt den Fehler, die beiden nachgelagerten Relais im Solarpark nicht. Das ist vielleicht die Zuleitung, die drei Kilometer zum Solarpark hinführt. Darauf ist ein Fehler, klar im Solarpark, die sehen das nicht, nur das Relais im Umspannwerk.
+
+(0:22:58 - 0:23:52)
+Das Mittelspannungskabel-Relais oder das Relais im Umspannwerk löst dann eben auch aus und der gesamte Solarpark ist damit eben abgeschaltet. Ist aber auch so gewollt und muss dann leider so passieren, wenn eben an der Stelle dieser Fehler auftritt. Damit haben wir, glaube ich, einen Bogen geschlossen von der Berechnung über die Auslastung der Komponenten bis zur Dimensionierung der Schutztechnik bzw. 
+
+der Einstellung, der Überstrom-Einstellung der Schutzrelais. Und hoffentlich habt ihr das alles soweit verfolgen können, dass ihr jetzt, wenn ihr mal eine Schutzstudie seht, die sinnhaft verstehen könnt und die richtigen Fragen stellen könnt an den richtigen Stellen. Mich hat es sehr gefreut, mir hat es sehr viel Spaß gemacht. 
+
+Ich freue mich aufs nächste Mal und bis bald. Tschüss!

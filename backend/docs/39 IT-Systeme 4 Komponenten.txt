@@ -1,0 +1,428 @@
+(0:00:00 - 0:00:37)
+So, wir kommen zurück nach der Pause. Wir hatten bisher uns gefragt, warum sollten wir überhaupt isolierte Netze oder IT-Systeme in diesen PV-Systemen installieren? Daraus sind viele Fragen, glaube ich, erst mal entstanden, die ich aufgeschrieben habe. Und dann habe ich hoffentlich in den Kapiteln 2 und 3 dann die elektrotechnischen Grundlagen, sage ich mal so, dargestellt, um zumindest die Fragen beantworten zu können, insofern, wie man dann damit umgehen kann, sozusagen mit den Herausforderungen eines IT-Systems.
+
+(0:00:37 - 0:00:54)
+Und jetzt will ich nach der Pause den Bogen schlagen zu, also wir haben jetzt kapazitive Erdfehlerströme berechnet und wir haben verstanden, dass der Sternpunkt sozusagen isoliert ausgeführt werden muss. Das war jetzt irgendwie die Theorie. Und jetzt gucken wir uns an, was das dann in der Praxis bedeutet.
+
+(0:00:54 - 0:01:20)
+Und das ist das Kapitel Komponenten. Da gehen wir einfach mal rein in die Komponenten und haben, glaube ich, erst mal eine Übersicht gebastelt, genau, die wir jetzt nach und nach mitführen. Und dann sind das am Ende vier Hauptkomponenten genannt, die wir uns jetzt im Detail angucken, was die Auswirkungen von den theoretischen Erkenntnissen daraus dann hergeleitet werden können.
+
+(0:01:20 - 0:01:39)
+Okay, und das Erste ist, das ist die spektakulärste Komponente, der Transformator. Da haben wir ein 3D-Modell, das wir jetzt auch gleich sehr gut nutzen werden, weil wir das einfach aufschneiden und dann reingucken, was so ein Sternpunkt und so eine Windung dann eigentlich wirklich aussieht. Und das machen wir genau jetzt.
+
+(0:01:39 - 0:01:56)
+Also wir holen uns den hier ran, damit der ein bisschen größer aussieht. Ich sage das gerne dazu, weil heute, glaube ich, haben wir auch ausreichend Zeit, haben keinen Zeitdruck, dass das jetzt ein typischer Hochspannungstransformator wäre. Wir haben da den Ölkessel oben abgenommen, weil der völlig irrelevant ist.
+
+(0:01:57 - 0:02:06)
+Aber so sieht oft so ein Umspannwerkstransformator aus. In den kompakten Trafo-Stationen sehen die meisten ein bisschen kompakter aus, sozusagen. Das ist aber nicht relevant.
+
+(0:02:07 - 0:02:19)
+Das Grundprinzip ist das Gleiche. Ihr werdet es später in der Tour sehen, da haben wir einen kompakten Trafo, also einen Mittelspannungstrafo. Da sind dann oben die Unterspannungsanschlüsse, also die ein bisschen kleineren, die man hier jetzt sieht.
+
+(0:02:19 - 0:02:34)
+Die sind dann meistens auch gekapselt, also isoliert ausgeführt. Hier ist das nicht so, dass es so ein Umspannwerkstrafo ist. Aber das macht gar nichts, sondern vielleicht ist es sogar ein bisschen besser, weil dann kann man das besser sehen, wo wir uns jetzt gleich befinden werden.
+
+(0:02:35 - 0:02:53)
+Also als erstes schauen wir uns bei dem Transformator mal die Verschaltung an. Da haben wir uns im ganzen anderen Zwei-Stunden-Blog genau angeguckt, was es da so gibt. Deswegen nehmen wir da jetzt ganz viel Basiswissen mit und schauen uns erst mal das erste Beispiel an.
+
+(0:02:53 - 0:03:17)
+Das wäre die Dreiecksverschaltung. Dazu schneiden wir den Trafo erst mal hier auf und sehen, dass da innen drin ist ein Kern und diese Windungen, die Wicklungen, die sind in Kupferfarben, macht vielleicht auch sehr viel Sinn, dargestellt und werden jetzt hier um den Kern gewickelt. Das sind also die drei Phasen und die jeweiligen Wicklungen dazu.
+
+(0:03:18 - 0:03:27)
+Die ziehen wir jetzt mal aus dem Trafo raus. Nicht wundern, da bleibt jetzt einfach die Oberspannungsseite drin. Die schauen wir uns danach an.
+
+(0:03:27 - 0:03:44)
+Aber diese Seite haben wir uns jetzt mal rausgezogen, damit man das besser erkennen kann, wieso das jetzt eigentlich eine Dreiecksverschaltung ist. Und dann ziehe ich hier mal eine weiße Linie rein. Das ist sozusagen von unten, jetzt einfach nur betrachtet, durch die Wicklung durch nach oben.
+
+(0:03:44 - 0:03:57)
+Und dann führt ja die Verbindung der Draht wieder an den unteren Teil der nächsten Wicklung. Das sieht dann so aus, geht es weiter zur Phase 3 und da geht es dann auch wieder hoch. Und dann kann man es sich schon erahnen, dann geht das Ganze wieder zurück.
+
+(0:03:57 - 0:04:14)
+Also mit der weißen Verbindung, glaube ich, kann man noch mal besser erkennen, wie das eigentlich dargestellt ist oder sich darstellt. Also der physikalische Aufbau ist sozusagen das kupferfarbene. Und wenn man jetzt das in ein elektrisches Schaltbild übertragen will, dann kann man jetzt hier so eine weiße Linie drüber ziehen.
+
+(0:04:15 - 0:04:23)
+Das sind dann die Phasen L1, L2, L3. Da oben werden die angeschlossen. Also da geht ja auch der Kupferdraht raus und in dem Bild über mir sieht man es auch.
+
+(0:04:23 - 0:04:35)
+Das wären dann die Anschlüsse oben, da haben wir das ja einfach jetzt abgeknapst. Und da oben werden die Anschlusspunkte. Und jetzt, finde ich, gibt es eine ganz tolle Darstellung noch, um es sich noch besser in sein Gedächtnis einzubrennen.
+
+(0:04:36 - 0:04:51)
+Wir nehmen jetzt diese weiße Linie da raus und ziehen die sozusagen so ein bisschen gerade, wenn man will. Also jetzt werden einfach nur die Kurven rausgenommen und auf einmal sieht man, dass das Ganze eindeutig ein Dreieck ist. Also die Darstellung und die mittige sind genau das Gleiche.
+
+(0:04:51 - 0:05:00)
+Wir haben es einfach nur so ein bisschen entzerrt. Dann sind natürlich L1, L2 und L3 an einer anderen Stelle. Aber ich glaube, jetzt wird allen klar, dass es sich um einen Dreieck handelt.
+
+(0:05:01 - 0:05:10)
+In Zukunft, wenn man das jetzt so im Kopf eingebrannt hat, kann man ja diese Darstellung, die ich als letztes gemacht habe, auch wieder löschen. Und dann überlegt man sich immer nur die, wie sie auch wirklich verbaut ist. Also die mittlere.
+
+(0:05:10 - 0:05:22)
+Also so sieht so eine Dreiecksschaltung aus. Und jetzt gucken wir uns das Gleiche auf der anderen Seite in unserem Beispiel hier an. Der Stern, dazu drehe ich den Trafo, weil ich mir die andere Seite einfach angegucken will.
+
+(0:05:22 - 0:05:28)
+Also die Oberspannungsseite. Schneide das wieder auf. Hol meine Wicklung hier raus.
+
+(0:05:29 - 0:05:39)
+Und jetzt sieht man schon, das sind weniger Windungen. Das ist eine andere Tatsache, die wir uns heute nicht angucken. Viel wichtiger ist, wie ist denn da jetzt die eine Wicklung an die andere verschaltet.
+
+(0:05:39 - 0:05:45)
+Und dann machen wir wieder genau das Gleiche. Wir ziehen hier erstmal einen Sternpunkt rein. Um den geht es ja eigentlich heute.
+
+(0:05:46 - 0:05:53)
+Den setzen wir hier also unten in die Mitte. Und jetzt führen wir hier eine Linie rechts nach draußen. Ja, genau.
+
+(0:05:54 - 0:06:02)
+Also das ist sozusagen der Sternpunkt, der dann nach draußen gezogen wird. Und dann führen wir hier noch eine Linie rein. Das wäre dann L3.
+
+(0:06:02 - 0:06:07)
+Dann führen wir hier eine Linie rein. Das wäre dann L2. Und dann führen wir hier noch eine Linie rein.
+
+(0:06:07 - 0:06:14)
+Dann ist das L1. Ich muss mich da auch gleich korrigieren. Ich denke, das ist jetzt eben die Unterspannungsseite.
+
+(0:06:14 - 0:06:25)
+So wäre ein typischer Trafo aufgebaut. Also jetzt hat man hier den Sternpunkt rausgeführt. Und wenn man das rüber zieht, dann sieht das anders aus.
+
+(0:06:25 - 0:06:34)
+Ich finde, hier kann man es jetzt einfach viel besser sehen, warum das überhaupt Stern heißt. Oben das Dreieck, unten der Stern. Wenn man das mit den Wicklungen irgendwie so durcheinander sieht, finde ich, konnte man es nicht so gut nachvollziehen.
+
+(0:06:35 - 0:06:41)
+Aber jetzt, finde ich, ist es klar. Und genau diese Schaltbilder muss man sich merken. Der Trafobauer, der wird es dann schon richtig machen.
+
+(0:06:41 - 0:06:51)
+Der kann sich das wahrscheinlich eh besser vorstellen. Aber in der Spezifikation sind es einfach nur Buchstaben. In dem elektrischen Schaltbild sind es im Grunde die Linien, die man links sieht.
+
+(0:06:52 - 0:07:06)
+Okay, gut. Also das muss man wissen, um jetzt weiter sozusagen folgen zu können. Jetzt machen wir den Trafo erstmal wieder zu und gucken uns im nächsten Unterkapitel, sag ich mal jetzt konkret, den Sternpunkt an.
+
+(0:07:08 - 0:07:17)
+So, dazu drehen wir den Trafo ein bisschen und gucken uns das erste Beispiel an. Ein DYN 5 Trafo. Das YN habe ich orange gemacht.
+
+(0:07:18 - 0:07:31)
+Darauf will ich hinaus. Wir gucken uns also die Unterspannungsseite des Transformators an. Und bei DYN 5, das ist das kleine n, da ist jetzt grundsätzlich erstmal der Sternpunkt geerdet und rausgeführt.
+
+(0:07:32 - 0:07:37)
+Das ist wichtig. Er ist rausgeführt. Ja, da ist er.
+
+(0:07:37 - 0:07:53)
+Im Trafo innen drin, so von viel Öl ummantelt sozusagen, der mangenterfarbene Punkt, da ist er. Und der wird dann eben rausgeführt, ich nehme ihn nochmal zurück, dann sieht man es besser, über einen separaten Anschlusspunkt. Das ist ganz wichtig und das kommt auch in der 360-Grad-Tour dann als Aufgabe.
+
+(0:07:53 - 0:08:03)
+Also das ist ein separater Anschlusspunkt, wenn ihr oben mal durchzählt. Ist auch eine typische Frage, wenn man sich sowas vor Ort mal anguckt. Warum sind denn da jetzt vier? Genau, der vierte ist der Sternpunkt.
+
+(0:08:03 - 0:08:08)
+Also L1, L2, L3. Eigentlich sind es immer nur drei. Und jetzt seht ihr da oben aber einen vierten.
+
+(0:08:09 - 0:08:14)
+Das ist der Sternpunkt. Da darf man sich auch nicht vertun vor Ort. Ich hoffe, die haben das ausreichend beschriftet.
+
+(0:08:14 - 0:08:23)
+Und dieser Sternpunkt wird jetzt an der Stelle dahin rausgeführt. Rausgeführt. Jetzt wird er in meinem Beispiel ja eben geerdet.
+
+(0:08:23 - 0:08:36)
+Also, da ist unser Erdungssymbol, da ist alles in Ordnung. Und ganz wichtig ist, wenn man jetzt davon spricht, dass der Sternpunkt geerdet ist, dann reden wir von zwei Einzelschritten. Einmal ist er rausgeführt, das muss er sein.
+
+(0:08:36 - 0:08:55)
+Sonst kann ich ihn ja nicht hier zweiter Schritt anschließen und erden. Das ist aber wichtig, dass man da im Wording darauf achtet, genau darauf will ich später in der Tour hinaus, dass es nicht reicht, einfach nur den Sternpunkt rauszuführen, sozusagen. Sondern dann geht es auch darum, dass man ihn dann richtig weiter behandelt, würde man sagen.
+
+(0:08:55 - 0:09:08)
+Also wirklich physisch anschließt an irgendeine Erdverbindung. Das war die erste Variante, die ich darstellen will. Jetzt graue ich die mal aus und führe die Mangentha-Farbenelide wieder zurück.
+
+(0:09:08 - 0:09:16)
+Und jetzt habe ich den gleichen Trafo. Es ist immer noch ein DYN 5. Ja, wenn eine typische Menti-Frage, mache ich jetzt aber nicht. Es ist ja immer noch der gleiche Trafo.
+
+(0:09:17 - 0:09:23)
+Aber jetzt ist der Sternpunkt nicht mehr angeschlossen. Irgendjemand hat diese Kupferleitung entfernt. Und jetzt ist es ein isolierter Sternpunkt.
+
+(0:09:24 - 0:09:32)
+Also das ganze System hat sich jetzt geändert. Das ist genau der Radiergummi-Effekt, den wir vorhin hatten. Also hier ist mein Radiergummi.
+
+(0:09:32 - 0:09:44)
+Irgendjemand hat die Kupferleitung abgeschraubt. Das ist ja kein Radiergummi mehr, sondern das sind riesige Kupferkabel. Also da muss sich jemand schon wirklich proaktiv dafür entscheiden.
+
+(0:09:44 - 0:09:53)
+Und den richtigen Schraubenschlüssel mitbringen, sonst geht das gar nicht. Aber hat er jetzt hier gemacht und deswegen ist jetzt mein Sternpunkt isoliert. Für mich Daumen nach oben.
+
+(0:09:53 - 0:10:05)
+Damit will ich symbolisieren, ich will ja ein IT-System bauen. Also ist das jetzt der richtige Weg, um ein IT-System zu bauen. Gut, das ist sozusagen die Sternpunktbehandlung an sich.
+
+(0:10:05 - 0:10:15)
+Und jetzt nehmen wir nochmal ein drittes Kapitel mit rein. Das nenne ich Anwendung für mein IT-System. Da habe ich nämlich verschiedene Varianten, die ich gerade schon so angerissen habe.
+
+(0:10:15 - 0:10:26)
+Aber jetzt sage ich sie nochmal in aller Deutlichkeit. Also die erste Möglichkeit zumindest, die ich für meine Anwendung im IT-System habe ist. Ich nehme ein DYN 5 zum Beispiel.
+
+(0:10:26 - 0:10:38)
+Es gibt auch andere Typen, aber es geht mir ja jetzt um das N auf der Unterspannungsseite. Deswegen wieder orange und hier dargestellt. Aber ich schließe das N überhaupt nicht an.
+
+(0:10:38 - 0:10:48)
+Es ist zwar da rausgeführt, aber nicht angeschlossen. Das ist meine Variante A. Die Variante B kann ich genauso machen. Wirkt vielleicht nach außen auch noch etwas professioneller und durchdachter.
+
+(0:10:49 - 0:10:56)
+Ist, dass ich diesen N gar nicht erst rausführe. Dann heißt dieser Trafo DY11. Das N gibt es jetzt nicht mehr, weil es ist nicht rausgeführt.
+
+(0:10:57 - 0:11:01)
+Ja, das ist der wichtige Unterschied. Und das sieht dann so aus. Die Linie ist weg.
+
+(0:11:01 - 0:11:08)
+Ganz wichtig, wenn man so will. Virtuell besteht ja dieser Sternpunkt im Trafo immer noch. Da ändert sich ja nichts.
+
+(0:11:09 - 0:11:22)
+Aber jetzt hat intern niemand ein Kabel angeschlossen. Und dadurch heißt der Trafo jetzt nicht mehr DYN 5. Sondern jetzt heißt er DY zum Beispiel 11. Und dann gibt es noch eine dritte Variante.
+
+(0:11:23 - 0:11:30)
+Wir haben HS dahinter geschrieben. Eine typische Hochspannungsvariante. Also so ein Umspannwerkstrafo wird oft so ausgeführt.
+
+(0:11:30 - 0:11:36)
+Muss nicht, aber wird oft so gemacht. Und da wäre es jetzt so. Achtung, jetzt ist es kein Y mehr.
+
+(0:11:36 - 0:11:45)
+Jetzt ist es ein D. Also jetzt haben sich die Buchstaben gedreht. Jetzt steht da nicht mehr DY, sondern YD. Und das machen wir jetzt hier in dem 3D-Modell wunderbar.
+
+(0:11:46 - 0:11:51)
+Wir ziehen jetzt einmal diese Wicklung zurück. Also wir haben uns verwickelt. Deswegen wickeln wir neu.
+
+(0:11:52 - 0:11:57)
+Und haben jetzt, habt uns gesehen. Ich mache nochmal zurück. Wir ziehen sozusagen die Verbindung unten raus.
+
+(0:11:58 - 0:12:08)
+Und schließen sozusagen schräg an, wenn man so will. Und machen jetzt dadurch aus einem Y ein Dreieck. Hat es ja vorhin schon einmal andersrum gezeigt.
+
+(0:12:08 - 0:12:13)
+Sozusagen mit den weißen Linien. Also genau das haben wir jetzt einfach hier gemacht. Wir haben einen anderen Trafo bestellt.
+
+(0:12:13 - 0:12:18)
+Jetzt ist der anders gewickelt. Ansonsten merkt man ja im Modell sehr gut. Ändert sich eigentlich nicht viel.
+
+(0:12:18 - 0:12:25)
+Es sind ja nur kleine Verbindungen im Trafo. Aber dadurch gibt es jetzt sozusagen diesen Sternpunkt nicht. Es ist ein Dreieck.
+
+(0:12:25 - 0:12:32)
+Und dadurch kann ich ihn auch nicht rausführen. Und dadurch kann ich auch keinen Fehler machen. Und dadurch hätte ich jetzt definitiv ein IT-System.
+
+(0:12:33 - 0:12:42)
+Könnte auch gar nicht das Ganze anders bauen. So, jetzt ist er richtig fertig gebaut. Gut, also das waren meine Anwendungsmöglichkeiten.
+
+(0:12:43 - 0:12:50)
+Also ihr seht schon, wenn ihr das Projekt plant. Muss man von vornherein das beachten. Der Trafo hat die längsten Lieferzeiten meistens.
+
+(0:12:50 - 0:13:04)
+Also man kann immer noch korrigieren, wenn man so will. Wenn man einen Standard-Trafo aus meiner Sicht, die YN5, bestellt hat. Aber wenn man das nicht so gemacht hat, dann kann man zumindest nicht mehr in die andere Richtung, sag ich mal, sich korrigieren.
+
+(0:13:05 - 0:13:14)
+Also jetzt haben wir drei Varianten für den Trafo beschrieben. Und auch warum man die so spezifizieren muss. Wie man sie spezifizieren würde.
+
+(0:13:15 - 0:13:21)
+Die nächste Hauptkomponente ist das Kabel. Da haben wir auch so ein schönes Modell. Das geht jetzt ein bisschen einfacher.
+
+(0:13:21 - 0:13:32)
+Aber ich finde, wahrscheinlich mindestens genauso wichtig in der Bewertung. Weil man verlegt natürlich sehr viel Niederspannungskabel. Also ist das auch eine wichtige Komponente, die ist teuer.
+
+(0:13:32 - 0:13:45)
+Und wenn man erstmal die falsche verlegt hat, ist es ehrlich gesagt, ja, also wahrscheinlich ein kommerzielles Desaster, das nochmal neu zu machen. Also schauen wir uns das nochmal genau an jetzt, was man da beachten muss. Erstmal der Kabeltyp, so haben wir es gemacht.
+
+(0:13:48 - 0:13:52)
+Typischer Niederspannungskabel-Typ ist das jetzt. Und da seht ihr es schon. Ich zeige es gleich nochmal genauer.
+
+(0:13:52 - 0:14:04)
+Aber da sieht man es jetzt schon. Ich will auf das "-o", und die Zahl 3 hinaus. Das sind jetzt für mich beim Kabeltyp erstmal die wichtigen Parameter, sozusagen der Kabelbezeichnung.
+
+(0:14:05 - 0:14:13)
+Und dann nehmen wir jetzt einfach nur noch einen zweiten Typ mit rein. Also das ist jetzt VPE-Kabel. Also die Isolierung ändert sich.
+
+(0:14:14 - 0:14:19)
+Aber das "-o", und das 3 ändert sich nicht. Also das ist egal, welches von den beiden man nimmt. Darauf will ich nicht hinaus.
+
+(0:14:20 - 0:14:25)
+Sondern ich will darauf hinaus, dass es drei Leiter hat. Hier ist es. Drei Leiter.
+
+(0:14:26 - 0:14:30)
+Wir haben es ja am Anfang gezeigt. Da waren ja nur drei Linien. Ich brauche ja gar keinen PE.
+
+(0:14:30 - 0:14:43)
+Und ich brauche auch keinen N. Insofern brauche ich auch kein 5- oder 4-Leiter-Kabel. Drei reichen. Da muss man für dich ein bisschen mutig sein, weil im Nachhinein kann man dann nicht mehr ein anderes System draus machen.
+
+(0:14:43 - 0:15:00)
+Also wenn das jetzt so gebaut wird, und das empfehlen wir, weil das ist der Sinn der Sache, materialsparend, dann kann man aber nicht mehr zurück. Also bei dreiartigen Kabeln beachten, dass man aber auch wirklich dann IT baut. Die Wechselrichter müssen sozusagen dafür geeignet sein.
+
+(0:15:00 - 0:15:09)
+Der Trafo muss dafür geeignet sein. Also jetzt keinen Fehler mehr machen, weil dann nach oben geht nicht mehr. Und wenn man es aber so macht, dann hat man, finde ich, technisch alles richtig gemacht.
+
+(0:15:09 - 0:15:22)
+Und beachtet nochmal, dass es ein "-o", es ist kein J. Wir brauchen kein PE. Das J steht ja für den grün-gelben. Brauchen wir bitte, bitte, bitte eben nicht, weil sonst wäre unsere farbliche Markierung der Kabel falsch.
+
+(0:15:22 - 0:15:28)
+Also, "-o", ist wichtig. Und jetzt gucken wir uns noch eine Alternative an. Das ist dann ein 4-artiges.
+
+(0:15:29 - 0:15:37)
+Ja, das zeige ich jetzt gleich hier mal. Da hat man schon das 4-artige, und dann blitzt das jetzt ganz bewusst und absichtlich auch schon raus. Also da kann das ein grün-gelber sein.
+
+(0:15:37 - 0:15:46)
+Das ist dann so. Dann macht man dann bitte ein J, weil das führen wir jetzt meinetwegen den PE mit. Das ist ja okay, können wir ja machen.
+
+(0:15:47 - 0:15:55)
+Haben wir halt eine zusätzliche Erdung. Wir legen ihn aber nicht auf den Sternpunkt, sondern einfach nur in die Stationserdung. Aber grundsätzlich kann man jetzt hier ein J nehmen.
+
+(0:15:56 - 0:16:03)
+Deswegen haben wir das auch orange gemacht. Darauf wollten wir hinaus. Daumen hoch geht aber beim 3-artigen, und zwar ohne PE.
+
+(0:16:05 - 0:16:12)
+So, das zweite Subkapitel, das ist der Anschluss der Kabel. Das machen wir ganz kurz, das ist es schon. Also ich sage ja nur Ausrufezeichen.
+
+(0:16:13 - 0:16:35)
+Jetzt muss man halt aufpassen, dass sowohl im Wechselrichter als auch im Trafo die Anschlusspunkte richtig dimensioniert sind. Das ist ja grundsätzlich so. Aber wenn man vielleicht die letzten 10 Projekte mit so einem 4- oder sogar 5-artigen Kabel gebaut hat, und jetzt hat man plötzlich nur noch ein 3-artiges, dann muss man schon jetzt nochmal ganz konkret reingucken, ob im Wechselrichter und in der Trafostation das so vorgesehen ist.
+
+(0:16:35 - 0:16:48)
+Andersrum natürlich genauso. Vielleicht hat man jetzt dem Stationslieferanten gesagt, ja, ja, wir machen ja IT, und dann führt der das auch so aus, dass der für die Kabel gar keinen PE-Anschluss vorsieht. So rum geht es ja auch, kann ja sein.
+
+(0:16:49 - 0:16:59)
+Also Stationspläne genau angucken. Da steht das dann drin, ob diese Anschlusspunkte überhaupt da sind. Weil wenn man dann doch mit einem 4-Leiter-Kabel kommt, ist auf einmal keine Kupferschiene da, und man kann da gar nicht mehr anschließen.
+
+(0:17:00 - 0:17:20)
+Also worauf ich, glaube ich, hier nur hinaus möchte, ist, weil es jetzt, wenn man so will, zusätzliche Varianten gibt, muss man nochmal mehr auf die Anschlusspunkte der Kabel gucken, ob die auch richtig ausgeführt sind. Daumen geht weiterhin hoch bei dem 3-artigen. Jetzt kommen wir zum dritten Subkapitel, die Spannung.
+
+(0:17:20 - 0:17:35)
+Das ist wieder ein bisschen mehr Elektrotechnik. Das haben wir am Anfang ja auch so schön gemacht. Also da sage ich jetzt erstmal, Angabe Nennspannung wird immer so im Datenblatt gemacht, dass man die Leitererzspannung slash Leiterleiterspannung angibt.
+
+(0:17:35 - 0:17:44)
+Die Nennspannung, also für die das Kabel ausgelegt ist. So macht man das. Und jetzt Achtung, ein kleiner Effekt oben, auf den ich nur hinweisen will, sonst kann man den ja nicht sehen.
+
+(0:17:45 - 0:18:00)
+Also dass das O und das 3 noch orange ist, kommt von der vorherigen Folie sozusagen. Und das ist jetzt aber nicht mehr relevant. Deswegen hab ich jetzt die Markierung rüber geschoben, und zwar zu dem 0,6 KV-Wert.
+
+(0:18:00 - 0:18:11)
+Weil darauf will ich ja jetzt in diesem Subkapitel hinaus. Jetzt gucken wir uns also nicht mehr die Anzahl der Phasen an, sondern die Nennspannung des Kabels. Und die wäre jetzt hier mit 0,6 angegeben.
+
+(0:18:11 - 0:18:17)
+Typisches Kabel, ganz normal. Erstmal alles okay. Aber jetzt ist es schon nicht mehr so okay.
+
+(0:18:18 - 0:18:38)
+Weil wir ja in Kapitel 3 was, glaube ich, ausgerechnet haben, was passiert, wenn ein poliger Fehler auftritt. Dann hatten wir doch diese Spannungserhöhung mal Wurzel 3. Ihr habt es in Menti auch nochmal nachgerechnet, selbst gemacht. Und zack, in einem 800-Volt-System haben wir plötzlich, hier hab ich es nochmal dargestellt, Leiter gegen Erde, Spannungen von 800 Volt.
+
+(0:18:38 - 0:18:55)
+Und jetzt wird hoffentlich ein Schuh draus, warum wir vor einer Stunde mittlerweile da so ein bisschen drauf rumgeritten haben, das so genau gezeigt haben, dieses Dreieck. Jeder auch mal selbst gerechnet hat. Weil jetzt kommt plötzlich die Erkenntnis, oha, dann passt ja, es wird passen, ich sag gleich warum.
+
+(0:18:55 - 0:19:09)
+Aber jetzt erstmal in der ersten Betrachtung ist ja 0,8 kV, also 800 Volt, größer als 0,6 kV. Also könnte man sagen, roter Alarmen lauschen an, wir haben das falsche Kabel. Wir machen erstmal weiter.
+
+(0:19:09 - 0:19:17)
+Jetzt haben wir diese Tatsache, glaube ich, sehr gut herausgearbeitet, warum das so ist. Und jetzt kommt aber eine Norm. Das ist so eine Kabelnorm 0276.
+
+(0:19:18 - 0:19:43)
+Die habe ich, glaube ich, jeden zweiten Tag vor mir liegen, weil man damit die Kabel auslegt. Und da steht jetzt erstmal drin, wenn ich eine Erdschlussdauer von nur, sag ich jetzt mal, maximal 8 Stunden oder 125 Stunden pro Jahr habe, also 8 Stunden am Stück oder 125 Stunden pro Jahr, dann ist das in Ordnung. Darauf sind diese Kabel ausgelegt.
+
+(0:19:45 - 0:19:56)
+Also die haben sich sozusagen genau das auch überlegt. Das kommt eben, glaube ich, historisch vor allem aus den höheren Spannungsebenen. Ist aber eigentlich egal, weil in der Mittelspannung wird sowas täglich gemacht.
+
+(0:19:56 - 0:20:14)
+Da fahren eben die Systeme genau mit diesem einpoligen Fehler immer weiter durch. Das heißt, da haben die ja das gleiche Problem gehabt. Und deswegen steht also in der Norm, wenn man das zeitlich begrenzt, dann ist auch diese Überschreitung von der Nennspannung, die ich da oben orange markiert habe, in Ordnung.
+
+(0:20:14 - 0:20:33)
+Aber, ja, das ist jetzt die Konsequenz daraus, dann muss ich zumindest aufpassen, dass ich eine dauerhafte Überwachung habe und ich muss das in meinem Schutzkonzept beachten. Wie man das sieht, das kommt später noch, aber das reicht ja jetzt vielleicht dem einen oder anderen Planer jetzt auch schon mal, dass er das so machen kann. Dann ist das Kabel schon mal das Richtige.
+
+(0:20:33 - 0:20:46)
+Und jetzt muss er aber irgendwo ganz dick aufschreiben, dass jetzt also die Spannungsüberwachung notwendig ist. Das ONM muss sich dann, also das Monitoring muss sich da einen automatisierten Alarm drauflegen. Die Netzbetreiber machen das ja auch so.
+
+(0:20:46 - 0:21:00)
+Sobald ein Fehler auftritt, muss man es sehen, aber man muss nicht abschalten. Finde ich ganz wichtige Erkenntnis des heutigen Tages. Bei einpoligen Fehlern im IT-System muss ich nicht abschalten, aber ich muss das Ganze überwachen.
+
+(0:21:00 - 0:21:05)
+So steht es auch in der Norm. Das sage ich später noch mal. Das kann man mit einem Alarm machen, der visuell ist.
+
+(0:21:05 - 0:21:19)
+Dann kann man natürlich sich E-Mails automatisiert schicken oder was auch immer. Aber das ist zwingend erforderlich, weil ich ja nur einen sehr kurzen Zeitraum habe, um diesen Fehler dann zu beheben. Sonst sind meine Kabel nicht mehr dafür freigegeben.
+
+(0:21:20 - 0:21:32)
+Okay, das war das Kabel. Also wichtiger Punkt, passt mal auf diese Nennspannung auf und rechnet es am besten einfach noch mal selber nach, das Dreieck zeichnen. Und dann ist man sich da, glaube ich, auch sicher, dass es passt.
+
+(0:21:34 - 0:21:42)
+Das Erdungssystem. Hatten wir auch schon mal uns ganz genau angeguckt, wie man so ein Ding aufbaut. Deswegen kommt dem einen oder anderen vielleicht dieses Modell bekannt vor.
+
+(0:21:43 - 0:21:50)
+Das machen wir heute jetzt in drei Minuten. Da ist es jetzt erst mal nur so, meine Unterkonstruktion liegt da irgendwo. Da ist mein Wechselrichter, meine Trafostation.
+
+(0:21:51 - 0:22:01)
+Und jetzt wird das Ganze meist zum Beispiel mit so einem V4A-Rundstahldraht verbunden. Das zeigen wir hier. Da haben wir eine Klemme drauf.
+
+(0:22:02 - 0:22:13)
+Und das nennen wir einen Erdungsleiter, der an der Unterkonstruktion angeschlossen wird. Da ist er erst mal. Also das ist erst mal meine Erdung, die wir an der Unterkonstruktion anschließen.
+
+(0:22:14 - 0:22:24)
+Jetzt gucken wir uns genauer den Wechselrichter an und machen da noch eine zweite Geschichte dran. Weil darum will ich auch im Wording sehr klar trennen. Da kommt jetzt nämlich ein Schutzleiter dran.
+
+(0:22:25 - 0:22:30)
+Der ist jetzt da auch grün-gelb markiert. Kann man sich dann besser vorstellen, was das ist. Ich glaube, man sieht es dann auch besser.
+
+(0:22:31 - 0:22:41)
+Also wir unterscheiden jetzt bitte zwischen Erdungsleiter und Schutzleiter. Gut. Gegebenenfalls, das haben wir mit reingenommen, weil wir in den Niederlanden viel gemacht haben, da war das ein großes Thema.
+
+(0:22:41 - 0:22:52)
+Man muss das redundant machen, aber das ist jetzt nur so eine Sidekick-Information sozusagen. Genau. Muss man sich lokal betrachten, ob man es redundant machen muss oder nicht.
+
+(0:22:52 - 0:23:00)
+Aber gut. Wir machen es jetzt in unserem deutschen System erst mal nicht redundant. Deswegen ist der Punkt nur so am Rande erwähnt.
+
+(0:23:01 - 0:23:15)
+Was folgt denn jetzt daraus? Also wir haben eine Erdungsanlage und die hat Anforderungen. Und zwar müssen die Erdfehlerströme und die Schutzleiterströme zur Erde abgeführt werden. Das habe ich einfach aus dieser Norm da raus kopiert.
+
+(0:23:15 - 0:23:22)
+Das ist die 0100540. Also wir haben jetzt offensichtlich Erdfehlerströme bei Fehlern und die müssen abgeführt werden. Alles klar.
+
+(0:23:23 - 0:23:33)
+Das ist irgendwie eine klar definierte Aufgabe. Jetzt muss man wissen, wie groß sind diese Erdfehlerströme und man muss wissen, wie ist mein Erdungsmaterial ausgelegt. Und jetzt machen wir diese Unterteilung bitte weiter.
+
+(0:23:34 - 0:23:41)
+Erdungsleiter und Schutzleiter. Erst mal wieder der Erdungsleiter. Da steht drin 50 Millimeter Quadrat mindestens.
+
+(0:23:41 - 0:23:51)
+Haben wir in dem Brain Day Erdung auch viel drüber geredet. Wenn man das umrechnet, dieses rund 10 Millimeter Durchmesser, kommt man auf 78. Also ist unser Standard völlig in Ordnung.
+
+(0:23:51 - 0:24:02)
+Nur nicht verwirren lassen. Die Norm spricht halt vom, nicht vom Durchmesser, sondern vom Querschnitt genau. Und die Angabe des Materials machen wir aber als Durchmesser.
+
+(0:24:03 - 0:24:10)
+Also 50 Quadrat ist kleiner als rund 10. Deswegen ist es in Ordnung. Der Erdungsleiter.
+
+(0:24:10 - 0:24:36)
+Der Schutzleiter ist ja anders. Der Schutzleiter ist der, der am Wechselrichter angeschlossen wird. Und da sind wir die letzten Monate, wenn man so will, aber auch Jahre, erst mal davon konfrontiert worden, dass sowohl in der Bedienungsanleitung des Wechselrichters als auch in der Norm, hier haben wir es einfach rauskopiert, so steht das in der Norm, steht drin, dass der Querschnitt des Schutzleiters die Hälfte des Querschnitts des Energieleiters sein sollte.
+
+(0:24:36 - 0:24:45)
+Es halbe. Wenn wir da jetzt 240 Quadrat anschließen, sind wir bei 120 Quadrat. Das war schon immer bei uns zumindest irgendwie so ein Thema.
+
+(0:24:45 - 0:25:01)
+Warum ist das so? Muss man das so machen? Und jetzt kommen wir da raus, indem wir sagen, wir berechnen das. Das ist vielleicht ein bisschen aufwendiger, aber dafür werdet ihr sehen, braucht man dann eben nicht so große Querschnitte. Also wir nehmen die Berechnung mit und gucken uns das einmal an.
+
+(0:25:02 - 0:25:08)
+Gleiches Spiel. Schutzleiter und Erdungsleiter trenne ich. Also einpoliger Fehler.
+
+(0:25:08 - 0:25:29)
+Da sind wir super vorbereitet, weil wir uns das vorhin schon ganz genau angeguckt haben, wie das so funktioniert, wie man diesen Erdfehlerstrom berechnen kann. Und jetzt habe ich aber noch eine zweite Hausaufgabe sozusagen schon erledigt, nämlich oben seht ihr es, also mein V4A rund 10 mm, der kann 280 Ampere, kann der ganz normal tragen. Dafür ist er zulässig.
+
+(0:25:29 - 0:25:54)
+Das interessiert ihn dann sozusagen gar nicht in diesen Dimensionen. Und mein Schutzleiter, der war 16 Quadratkupfer, der kommt immerhin auch auf 160 Ampere, nur die Größenordnung hat, die genauen Zahlen sind jetzt überhaupt nicht relevant, aber die Größenordnung 100 bis 200 Ampere. So, in unserem Beispiel, das wir ja vorhin auch genauso schon gemacht haben, das ist jetzt nur eine Wiederholung mit einer gewissen Kabellänge, mit einem gewissen Kabeltyp.
+
+(0:25:55 - 0:26:14)
+Dann kommt die Kapazität da raus und eine Spannungsebene von 800 Volt. Der gleichen Formel wie vorhin, ihr habt selbst gerechnet, kommen wir auf 1,28 Ampere in unserem Beispiel und das ist der Effekt des Tages. Naja, wir hatten vorhin schon einen guten Effekt, dann ist es der zweite Effekt des Tages.
+
+(0:26:14 - 0:26:41)
+1,2 Ampere sind ja viel geringer als das, was unsere Erdungsleiter oben können. Also brauchen wir diese S-Halbe aus unserer Sicht so nicht direkt folgen, sondern wenn man der Logik folgt, dass man es berechnen kann, das haben wir hier gemacht, macht man das projektspezifisch und kommt auf viel geringere Querschnitte, die da eigentlich erforderlich sind. Also genau, der kapazitive Erdfehlerstrom kleiner als der IPE zulässig.
+
+(0:26:42 - 0:26:57)
+Bei einpoligen Fehlern, ich sage es ja immer wieder, es gibt ja dummerweise auch noch zweipolige Fehler. Da ist er, der zweipolige Fehler, muss man sich ein bisschen anders vorstellen. Also vorhin hat der Bagger ja jetzt nur in eine Phase von einem Kabel gehauen.
+
+(0:26:57 - 0:27:10)
+Jetzt passiert folgendes, wir zeigen es hier einmal. Er hat also einmal in L3 reingehauen und dummerweise in ein anderer Bagger, in einem anderen Kabel in L2. Ist natürlich sehr unwahrscheinlich, aber jetzt sagen wir mal, das passiert.
+
+(0:27:11 - 0:27:30)
+Dann passiert folgendes, wir haben es hier orange dargestellt, jetzt hat man einen sehr unschönen Kreis geschlossen zwischen zwei Fasern und dann redet man eben von einem zweipoligen Fehler. Und jetzt haben wir ganz andere Probleme, jetzt haben wir ganz andere Ströme. Das zeigen wir auch noch mal.
+
+(0:27:31 - 0:27:54)
+Und für diesen Fall gibt es jetzt keine IMDs, die wir da, Isolationswächter, die wir da nennen, sondern jetzt kommen wieder unsere guten alten Schmelzsicherungen oder vielleicht auch so kleine Leistungsschalter zum Tragen. Die sind jetzt wichtig, müssen wir auch auslegen, müssen wir bewerten und müssen wir richtig einstellen für den zweipoligen Fehler. Dann machen wir wieder das Gleiche wie gerade, kommen jetzt nur andere Werte raus, sage ich gleich.
+
+(0:27:54 - 0:28:14)
+Der zweipolige Kurzschluss, da würde ich jetzt, genau, das ist ein Kurzschluss, da würde ich jetzt den Kurzschlussstrom, den 1-Sekunden-Strom von dem Erdungsleiter und von dem Schutzleiter beachten. Also wer gut aufgepasst hat, sieht, diese Ströme sind jetzt höher. Vorhin waren es irgendwie 200 Ampere, jetzt sind es eher 2000 Ampere, also andere Liga.
+
+(0:28:14 - 0:30:49)
+Und dann gucken wir uns die Sicherungen an, auch eine andere Brain Day, aber dann hat man es nochmal gesehen, man geht in so eine Kennlinie rein und dann guckt man sich an, wie schnell schalten die ab, zum Beispiel 250 Ampere und dann sieht man, dass dieser zweipolige Fehler, also wir haben es auch genannt, der zweite Fehler, man muss ja sozusagen entweder mit einem Fehler in beide Phasen hauen oder man macht zwei Fehler in verschiedenen Phasen, dann wird der durch die Sicherung in dem Fall hier sicher abgeschaltet, also auch diese Bewertung muss man machen. Das Material ist dann geschützt und jetzt nur nochmal, um das klarzustellen, beim einpoligen Fehler fahren wir weiter, die Spannungen verschieben sich, aber alles ist gut, wir übermachen das, wir sehen, wir müssen reagieren und einen Fehler finden, aber im zweipoligen Fehler ist das nicht so, die Sicherung erkennt das und bei uns im Beispiel, weiß ich jetzt auch nicht, kann ich nicht so gut lesen, nach 10 Sekunden oder nach 100 Sekunden, nach einer Sekunde, so ist es, schaltet die Sicherung ab, da wird also nicht viel überwacht werden müssen, sondern da wird der Fehler weggeschaltet und alles ist gut. So, der vierte Punkt ist der Wechselrichter, da wollten wir einfach nochmal reingucken, weil er dazugehört, gibt es aber jetzt nicht so viel zu beachten, weil ich würde es mal so sagen, man muss halt die Bedienungsanleitung lesen, das ist klar, verlasst sich jetzt bitte nicht auf mich und auch hier steht wieder ein Hersteller, einfach weil wir das Modell von ihm gekriegt haben, das ist total egal, bitte hier nicht als Werbung verstehen, das ist mir völlig egal, welcher Hersteller das ist oder welcher Wechselrichter Typ, ihr müsst nachgucken, ob der für ein IT-System geeignet ist und wenn, dann sind die meistens auch schon so gebaut, ich zeige es mal, das wäre jetzt ganz konkret dieses Beispiel hier, dass man jetzt da zum Beispiel die vier Adern, ihr erinnert euch, Subcomputer Kabel, die vier Adern auch wirklich anschließen kann, also ist da genug Platz, funktioniert das überhaupt vom Durchmesser her, der Biegeradius, ihr seht schon, der PE, das ist ganz typisch, so Probleme von der Baustelle, der ist ja höllisch geknickt hier, das würde man so ja gar nicht zulassen, aber ist ja nur ein 3D-Modell, also das muss man sich angucken, ob das überhaupt passt und ansonsten kann man ja sagen, dreiadriges Kabel, da war ja bei mir der Daumen hoch, nehmen wir halt das und dann sieht das ja so aus, sieht ja dann natürlich gleich schon viel besser aus und wir haben jetzt außen am Gehäuse den Wechselrichter mit einem externen PE-Anschluss noch angeschlossen und halt nachgewiesen über diese Berechnung, dass auch da der Querschnitt ausreichend dimensioniert ist.
+
+(0:30:53 - 0:31:21)
+Genau, beim Wechselrichter haben wir noch so zwei, drei Bullet-Points aufgeschrieben, also Systemwechsel ist meinetwegen nicht erforderlich, die Anti-PD-Funktion, das hatten wir vorhin schon, das wäre doch super, jetzt haben wir, anderthalb Stunden später wird sozusagen der Kreis geschlossen, jetzt haben wir das System ja so gebaut und der Wechselrichterhersteller kann jetzt also seine Funktion super ausführen und dann haben wir da eine gute Antwort an Kunden und Projektleiter. Anschluss beachten, genau das haben wir im 3D-Modell gerade gezeigt.

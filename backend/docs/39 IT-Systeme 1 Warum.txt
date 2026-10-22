@@ -1,0 +1,74 @@
+(0:00:00 - 0:00:19)
+Jetzt müssen wir nochmal loslegen mit der Frage, warum. Die machen wir relativ kurz in Bullet Points, weil ich hier jetzt sozusagen mehrere Punkte aufliste, die ich jetzt erstmal als Aussage greifen will, damit man versteht, warum wir das heute überhaupt machen. Ist ja eben auch die Frage, warum.
+
+(0:00:19 - 0:00:45)
+Diese einzelnen Punkte werden aber dann in den nächsten 1 Stunde 50 Minuten sehr detailliert beschrieben. Also will ich jetzt hier sozusagen nichts vorwegnehmen, aber um eine Gesamtübersicht darstellen zu können, ist das, glaube ich, trotzdem sinnvoll. Also ich nehme sozusagen vorweg, es wird sich herausstellen, dass man gegebenenfalls weniger Kabelmaterial einsetzen muss, wenn man auf ein IT-System setzt.
+
+(0:00:45 - 0:01:00)
+Das liegt daran, dass der PE- und der N-Leiter gegebenenfalls, sage ich jetzt mal, entfallen können. Warum und wie genau, das sehen wir eben dann später in dem Kapitel Komponenten. Wir wollten das jetzt nur mal vorne wegschieben, damit man so ein bisschen die Motivation verspürt, hier dran zu bleiben.
+
+(0:01:02 - 0:01:19)
+Na gut, und das führt dann dazu, dass es gegebenenfalls, habe ich schon wieder gesagt, geringere Gesamtkosten gibt. Das gegebenenfalls will ich deswegen immer so betonen, weil es kann ja auch sein, dass ein 3-Leiter-Kabel plötzlich mal teurer ist als ein Standard-4- oder 5-Leiter-Kabel. Aber sagen wir mal, dem ist nicht so.
+
+(0:01:20 - 0:01:31)
+Dann kriegen wir über diesen weniger Kabelmaterial eben auch ein Kostenersparnis mit rein. Also das ist natürlich schon mal eine sehr treibende Kraft. Es kostet weniger.
+
+(0:01:32 - 0:01:45)
+Dann kommt hinzu, es gibt grundsätzlich eine höhere Versorgungssicherheit. Auch das schauen wir uns in einem einzelnen Kapitel an. Aber ich nehme es schon mal vorweg, wenn es einen einpoligen Fehler gibt, ganz wichtig, sehen wir später den Unterschied zum zweipoligen Fehler.
+
+(0:01:45 - 0:02:03)
+Aber wenn es einen einpoligen Fehler gibt, also man haut mit dem Bagger oder mit der Schaufel aus Versehen nur in eine der drei Phasen, dann kann das System weiter betrieben werden. Das ist genau der große Trick, deswegen macht man das eigentlich auch vorwiegend. Also höhere Versorgungssicherheit, andersrum gesagt weniger Ausfälle.
+
+(0:02:05 - 0:02:15)
+Dann gibt es den sogenannten PID-Effekt. Und weil es den gibt bei den Modulen, hat man eine Anti-PID-Funktion eingeführt. Auf die gehen wir jetzt auf keinen Fall ein, wie sie genau funktioniert.
+
+(0:02:16 - 0:02:24)
+Hochkomplexes System. Viele Wechselrichter bieten das an. Und meist ist diese Funktion nur in isolierten Netzen möglich.
+
+(0:02:24 - 0:02:41)
+Also sagen wir, dass das auch eine treibende Kraft war. Dritter Punkt quasi, warum sich die IT-Systeme anfangen durchzusetzen, so wäre meine Erfahrung oder Interpretation. So, dann gibt es noch den Personenschutz und den Brandschutz.
+
+(0:02:41 - 0:02:51)
+Das ist natürlich auch ein Riesenthema, deswegen greife ich das nur ganz, ganz, ganz vorsichtig an. Das mache ich ganz bewusst vorsichtig, weil da will ich mich nicht zu weit aus dem Fenster lehnen. Man muss das in Summe betrachten.
+
+(0:02:52 - 0:03:07)
+Aber grundsätzlich ist es erst mal so, wir werden es später sehen, es gibt geringere Fehlerströme. Und deswegen wird beim einpoligen Fehler es keine Fehlerlichtbögen geben. Dass der Fehler an sich trotzdem auftritt, ist davon unberührt.
+
+(0:03:07 - 0:03:22)
+Aber wenn er auftritt, sind die Ströme geringer. Und deswegen gibt es keine oder weniger Fehlerlichtbögen. Und das Problem mag ja nicht, oder das Personen- und Brandschutzgefährdende mag ja nicht der Fehler selbst sein, sondern der daraus resultierende Lichtbogen.
+
+(0:03:22 - 0:03:36)
+Genau, also bei einpoligen Fehlern gibt es eben keinen hohen Fehlerstrom, deswegen keinen hohen Lichtbogen. Oder gar keinen. Die Schritt- und Berührungsspannung, darauf hat das auch Auswirkungen, die ist dadurch meist unkritisch.
+
+(0:03:36 - 0:03:51)
+Also weniger Strom ist erst mal positiv. Und der vierte Punkt, den wir hier noch mit aufgeführt haben, ist später auch ein bisschen animiert gemacht, wie das überhaupt funktioniert. Der Fehlerstrom wird dann über die Geräteerdung abgeleitet.
+
+(0:03:51 - 0:04:01)
+Das ist auch ein Vorteil. Also hier ist ein klares Plus. Und dann nehmen wir noch was dazu, weil es, finde ich, wichtig ist im Gesamtkontext.
+
+(0:04:01 - 0:04:07)
+Also es gibt eben mehrere Netzformen. Fünf sind, finde ich, übergeordnet. Die zeigen wir dann auch gleich noch.
+
+(0:04:08 - 0:04:28)
+Aber da ist halt wichtig, dass es jetzt keinen Einfluss hat, die Netzform auf den Betrieb im fehlerfreien Zustand. Ich finde, das ist eine ganz wichtige Erkenntnis noch. Also wenn mal einer fragt, ja, was ist denn der Vor- oder Nachteil, dann redet man eben bei den vier Punkten oben von entweder Fehlerfällen oder Materialkosten.
+
+(0:04:28 - 0:04:40)
+Das ist ein ganz elektrotechnisch unabhängiges Thema sozusagen. Aber wenn man über den Betrieb selbst spricht, dann hat die Netzform gar keinen Einfluss. Also da kann man jetzt nicht sagen, das IT-System hätte einen Vorteil während des Betriebs.
+
+(0:04:41 - 0:04:53)
+Das ist nicht so, keinen Einfluss. So, und dann haben wir noch mit reingenommen, Dachanlagen sind natürlich, klar, genauso wichtig wie Freilandanlagen. Da wird es wie immer ein bisschen komplizierter.
+
+(0:04:53 - 0:05:15)
+Die Kollegen von den Dächern haben einfach, sage ich mal, eine größere Herausforderung technischer Natur. Da ist es jetzt erstmal grundsätzlich so, dass das IT-System also nur auf dem Dach für die Protovoltaikanlage meist nicht zulässig ist. Das liegt daran, da nehme ich den Punkt nochmal weg, das liegt daran, dass das Gebäude selbst ja schon eine Netzform hat.
+
+(0:05:16 - 0:05:26)
+Meist ist das so ein TNC-System oder ein TNCS-System. Und das darf man danach nicht wieder auf ein IT-System umbauen. Deswegen würde ich das jetzt erstmal hier orange stehen lassen.
+
+(0:05:26 - 0:05:35)
+Kritisch würde ich es nicht machen. Das meine ich auch nicht üblich. Jetzt gibt es da eine Variante, habe ich auch schon selbst öfter so gebaut.
+
+(0:05:36 - 0:05:48)
+Diese riesigen Logistikhallen, riesige PV-Anlagen kriegen manchmal separate Transformatoren. Also wenn man so will, fast einen separaten Netzanschluss, zumindest einen separaten Mittelspannungsanschluss. Und dann kann man das schon machen.
+
+(0:05:48 - 0:06:00)
+Dann kann man sozusagen dieses Design separat betrachten. Und dann wäre die technischen Hintergründe, die wir jetzt gleich erläutern, dann doch wieder sinnhaft.

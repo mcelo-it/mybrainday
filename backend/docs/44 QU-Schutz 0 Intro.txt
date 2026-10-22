@@ -1,0 +1,17 @@
+(0:00:00 - 0:00:28)
+Hallo und herzlich willkommen zu unserem heutigen Brainday. Kurz vorm Wochenende ist sicherlich die Anspannung nicht mehr so groß. Ich hoffe, ihr könnt euch noch mal zwei Stunden hier richtig konzentrieren, weil wir haben heute ein Thema auf Lager, was schon sehr, sehr komplex im Detail ist, wo man hinterher sehr, sehr genau aufpassen muss, was die technischen Details sind, um eben dann am Ende wirklich zu verstehen, warum das und wie das funktioniert.
+
+(0:00:29 - 0:00:35)
+Also wir haben hier eine Übersicht für euch vorbereitet. Die meisten kennen das. Das ähnelt sich jede Woche ein wenig.
+
+(0:00:35 - 0:00:50)
+Wir starten heute mit dem Warum. Dann haben wir die Normen dabei, die für uns aus unserer Sicht relevant sind. Wir zeigen euch das Schutzkonzept, wie das grundsätzlich aufgebaut ist, Komponenten, die benötigt werden für den Schutz.
+
+(0:00:50 - 0:01:13)
+Das ist ja heute unser Thema. Am Ende machen wir mal die theoretische Prüfung mit euch und danach gehen wir in einen Live-Test und schauen mal, wie das dann in der Realität funktionieren würde. Dafür haben wir hier ein Schutzprüfgerät aufgebaut, ein Schutzrelais, verdrahten das und zeigen euch mal, wie man dann durch so eine Prüfung im Schnelldurchgang durchkommt.
+
+(0:01:13 - 0:01:23)
+Und das Letzte, wenn wir dann noch ein bisschen Zeit dafür haben, wäre das Prüfprotokoll. Da werden wir dann mal sehen, ob wir dazu kommen. Also wir haben wieder einen vollen Plan.
+
+(0:01:23 - 0:01:26)
+Deshalb geht es direkt los in das Warum.

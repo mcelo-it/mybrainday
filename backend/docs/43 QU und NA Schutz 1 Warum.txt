@@ -1,0 +1,73 @@
+(0:00:00 - 0:00:08)
+Und kommen dann gleich zu dem Punkt NA-Schutz. Warum brauchen wir einen NA-Schutz? Ja, der hat erst mal Aufgaben. Wir gliedern das hier in fünf Punkte.
+
+(0:00:08 - 0:00:20)
+Die Aufgabe Nummer eins ist dann eben das N für Netzschutz. Und die Aufgabe zwei ist dann eben der Anlagenschutz. Das heißt, NA-Schutz bedeutet eigentlich Netz- und Anlagenschutz.
+
+(0:00:20 - 0:00:39)
+Wir wollen einmal das Netz schützen vor uns im Grunde genommen. Ja, das heißt, wenn das Netz in Schwierigkeiten gerät, dann soll unsere PV-Anlage irgendwann vom Netz gehen oder unser Windpark. Und auf der anderen Seite sollen wir eben auch vielleicht vor zu hohen Spannungen, vor zu hohen Frequenzen, vor dem Netz geschützt werden.
+
+(0:00:39 - 0:00:48)
+Das geht in beide Richtungen hier. Und das wird hier eben mit dem Netz- und Anlagenschutz realisiert. Es geht um Über- und Unterschreiten von Grenzwerten.
+
+(0:00:49 - 0:01:06)
+Welche Grenzwerte das sind, das zeigen wir dann später in einem folgenden Block. Das Nächste sind die Funktionen, genau, die kommen dann jetzt gleich hier schon. Das ist nämlich die Grenzwerte des Spannungsschutzes, die hier vor allem wichtig sind, und eben des Frequenzschutzes.
+
+(0:01:06 - 0:01:26)
+Das sind beides im Grunde genommen diese Parameter, die wir überwachen und vor denen wir sowohl die Anlage als auch das Netz schützen wollen. Dann unter NA-Schutz fällt aus unserer Sicht auch noch der Blindleistungs- Unterspannungsschutz, abgekürzt der QU-Schutz, den gibt es natürlich auch. Der ist aber heute hier bei dem NA-Schutz aus unserer Sicht erst mal nicht relevant.
+
+(0:01:27 - 0:01:36)
+Sprengt dann den Rahmen. Dafür gibt es dann einen anderen Brain-Day, wo man sich das wirklich im Detail in Ruhe nochmal ansehen kann. Fehlerursachen.
+
+(0:01:36 - 0:01:53)
+Warum brauchen wir den NA-Schutz? Wie kommt es überhaupt zu Frequenz- und Spannungsschwankungen im Netz? Und da geht es dann immer um ein Ungleichgewicht in der Erzeugung und dem Verbrauch. Also es gibt dann Wirkleistung. Es kann ein Ungleichgewicht in der Wirkleistung geben.
+
+(0:01:53 - 0:02:05)
+Das heißt, wir produzieren vielleicht zu wenig beziehungsweise wir haben zu viele Konsumenten, die eben Wirkleistung benötigen. Und das hätte dann gleich einen Einfluss auf die Frequenz. In dem Fall würde die Frequenz sinken.
+
+(0:02:06 - 0:02:21)
+Wenn das umgedreht ist, wir erzeugen mehr als wir verbrauchen, dann würde die Frequenz steigen. Der andere Punkt ist dann eben die Blindleistung. Das Q, Blindleistung Q, das hat dann eben einen Einfluss auf die Spannung.
+
+(0:02:21 - 0:02:38)
+Das heißt, genauso wie bei der Wirkleistung, würden wir zu viel Blindleistung produzieren, würde die Spannung steigen. Hätten wir zu wenig Blindleistung im Netz, würde die Spannung sinken. So, dann geht es weiter mit den Anforderungen an diesen NA-Schutz.
+
+(0:02:38 - 0:02:45)
+Und da gibt es erst mal die Anforderung Schnelligkeit. So ein NA-Schutz muss schnell sein. Und ich habe das hier noch ergänzt.
+
+(0:02:46 - 0:03:02)
+Er muss gleichzeitig aber auch sehr genau sein, weil wir haben jetzt immer in der Vergangenheit viele Themen mit Zertifizierern gehabt, dass unsere Messungen vielleicht nicht genau genug sind. Deshalb wollte ich das hier nochmal highlighten. Schnelligkeit und Genauigkeit, da kommen wir später nochmal drauf zu sprechen, warum das denn beides so wichtig ist.
+
+(0:03:03 - 0:03:21)
+Und vor allem in unserer Messung seht ihr das dann wahrscheinlich. Zuverlässig, klar, NA-Schutz, der wird schon hin und wieder mal gebraucht. Aber wenn ihr jetzt einen gut laufenden Park habt, dann kommt so ein NA-Schutz, vielleicht wird er vielleicht ein, zwei, dreimal im Jahr aktiv werden müssen.
+
+(0:03:22 - 0:03:43)
+Und die restliche Zeit des Jahres ist er eben inaktiv oder er ist schon aktiv, aber er löst eben nicht aus, er führt nicht zu einem Abschalten. Aber wenn es dann eben passiert, dann ist das eben wichtig, dass der zuverlässig arbeitet und eben dann in diesen paar Fällen im Jahr, die er gebraucht wird, auch zuverlässig arbeiten kann. Selektivität ist bei Schutzgeräten immer ein wichtiger Punkt.
+
+(0:03:43 - 0:04:06)
+Haben wir, glaube ich, in anderem Brain, der ist auch schon häufiger mal angesprochen, bedeutet im Grunde genommen, erst mal sollen vielleicht unsere Wechselrichter abschalten, danach soll der Netzanschlusspunkt abschalten und ganz zum Schluss erst das Umspannwerk. Ja, das wäre eine Selektivität und die muss hier auch für den NA-Schutz gegeben sein. So, der letzte Punkt auf dieser Folie, das ist die Motivation.
+
+(0:04:07 - 0:04:37)
+Motivation, ganz wichtig, Sicherstellung, Netzstabilität und Versorgungssicherheit, dafür machen wir das. Und vor allem wird das ja in Deutschland abgeprüft über dieses Anlagenzertifikat. Ja, das heißt, wir planen den NA-Schutz, wir kriegen Vorgaben und wenn wir das dann entsprechend der Vorgaben geplant haben, dann müssen wir später nachweisen für die Konformitätserklärung, dass wir das auch umgesetzt und geprüft haben, weil, das wisst ihr alle, ohne Konformitätserklärung keine dauerhafte Betriebserlaubnis.
+
+(0:04:37 - 0:05:41)
+Das ist dann dieser Pokal, den wir ganz zum Schluss des Projektes, zumindest in meiner Projektwelt, in der Planungswelt in der Hand halten und dann sind wir mit dem Projekt planungstechnisch in Betriebnahme seitig durch. Jetzt sind wir aus der PPT geflogen, noch einmal zurück. So, das hatten wir und jetzt geht es nämlich weiter. 
+
+Wir wollen euch das noch einmal kurz zeigen, die Konformitätserklärung, wie das funktioniert, wie das im groben, ganz groben Ablauf zu erfüllen ist. Also wir haben Anschlussnehmer und wir haben eine Zertifizierstelle, das sind jetzt erst mal die zwei Gegenspieler, die wir haben und wir kriegen vom Netzbetreiber dann einen E9-Bogen, so heißt er in der 4110. In der 4120 ist der E7-Bogen, wir haben beide aufgeführt und wir machen daraus erst mal ein Schutzkonzept, was dann der Anschlussnehmer bei der Zertifizierstelle einreichen kann und die Zertifizierstelle prüft das dann und hoffentlich wird sie es auch für gut befinden und hat da keine Rückmeldung.
+
+(0:05:41 - 0:06:56)
+In der Realität, wisst ihr alle, ist das dann häufig anders, da gibt es dann meistens mehrere Runden, mehrere Rückmeldungen, bevor wir das Anlagenzertifikat dann überreicht bekommen. Haben wir dann das Anlagenzertifikat, also der Anschlussnehmer hat es, dann darf man ja weitergehen, man darf die Inbetriebnahme vorbereiten, man darf tatsächlich auch in Betrieb gehen, aber vorher, ganz wichtig, bevor ihr dann wirklich den Schalter umlegen dürft in eurer Übergabestation oder eurem Umspannwerk, muss man die Relais einstellen, hier haben wir mal so ein kleines zwischengelagertes Schutzrelais vorweg dargestellt und wenn es eingestellt ist, dann muss man es aber eben auch prüfen und wenn ihr dann dieses Prüfprotokoll irgendwann in der Hand haltet, dann gebt ihr das an den Anschlussnehmer, wir gehen nicht den direkten Weg zum Zertifizierer, sondern erstmal zum Anschlussnehmer, weil der hat jetzt seinen E11-Bogen und E11 ist es in der 4110, in der 4120 der E9-Bogen, nicht verwirren lassen, also den E11-Bogen füllt er jetzt in der Mittelspannung aus und überreicht den dann der Zertifizierstelle. Im E11-Bogen ist dann im Grunde genommen das Schutzprüfprotokoll ein Checkpunkt und dann kann man das gleich auf der nächsten Seite ausfüllen.
+
+(0:06:56 - 0:07:46)
+Aber wir haben es jetzt übergeben, den E11-Bogen und wenn wir den übergeben haben und es gibt dann hoffentlich keine Rückmeldung mehr von der Zertifizierstelle, dann haben wir es endlich, dann kriegen wir die Konformitätserklärung, dann sind alle zufrieden von der Anforderung ganz am Anfang des Netzbetreibers und über die Planung, über das Anlagenzertifikat bis zur Umsetzung im Feld haben wir dann alles erfolgreich gelöst. Jetzt nochmal zurück zu dem E11, was ich gerade schon angesprochen hatte. Ein Dokument von diesen vielen Dokumenten, die es in der 4110 gibt, ich glaube es gibt insgesamt 18 E-Bogen, der E11-Bogen ist dann eben diese Inbetriebsetzungserklärung für die Erzeugungsanlage und ich hatte es gerade schon ein Stück weit vorweggenommen, hier ist eine Checkbox, das Prüfprotokoll der Schutzeinrichtungen am Netzanschlusspunkt.
+
+(0:07:47 - 0:08:20)
+Das heißt wir müssen den A-Schutz umsetzen am Netzanschlusspunkt, das ist hier schon mal vorweggenommen, bevor wir da später in die Details gehen. Und wenn wir eben dieses Prüfprotokoll haben, dann können wir da den Anhang im Grunde genommen reinpacken, so sieht das Schutzrelais meistens dann aus und wir nennen das jetzt in unserem Fall Anhang 6, Schutzprüfprotokoll NAP und können dann auch den Haken setzen. Und damit man es ganz sauber hat, machen wir es dann meistens noch so, schreiben wir auch in dieses Protokoll, welcher Anhang das jetzt ist.
+
+(0:08:20 - 0:08:47)
+Das macht die ganze Sache dann später ein bisschen übersichtlicher. Es geht genauso dann für den Schutz an den Erzeugungseinheiten, den zwischengelagerten Entkoppelungsschutz, so nennen wir ihn, schon mal vorweggegriffen und auch da kriegen wir ein Protokoll, das ist dann Anhang 7 und auch hier schreiben wir das in diesen E11-Bogen mit rein, Haken rein, Anhang 7, Schutzprüfprotokoll der Erzeugungseinheit EZE. Dann gibt es noch einen dritten Punkt.
+
+(0:08:47 - 0:09:11)
+Wir haben nicht nur diese zwei Schutzeinrichtungen, sondern es gibt noch eine dritte, das ist dann der Wechselrichter. Da kommen wir gleich später auch nochmal drauf zu sprechen, das ist bei uns dann immer die Einstellung des Wechselrichters. Wir können es nicht prüfen, zeigen wir später, deshalb legen wir eine Art Screenshot ab, ein Export aus den Wechselrichtereinstellungen und das ist dann eben der Anhang 8. Warum wir das machen, das zeigen wir später, wird glaube ich später dann klar.
+
+(0:09:12 - 0:09:19)
+Also Haken rein, Anhang 8 reinschreiben und dann haben wir den E11-Bogen erstmal soweit ausgefüllt.

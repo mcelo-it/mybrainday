@@ -1,0 +1,232 @@
+(0:00:00 - 0:00:10)
+So, das waren vorbereitende Tätigkeiten für die Elektrotechnik, die jetzt da kommt. Da gucken wir uns jetzt rein. In Ruhe schauen wir da rein.
+
+(0:00:11 - 0:00:17)
+Ich versuche es möglichst langsam zu machen. Frag später auch noch mal, ob ich zu schnell war. Aber dann ist es wahrscheinlich eh schon zu spät.
+
+(0:00:17 - 0:00:29)
+Also ich versuche mir hier wirklich Zeit zu lassen, weil man das sehen muss. Jetzt gleich in den Linien mit verschiedenen Farben, was passiert. Okay, also das haben wir schon sozusagen super vorbereitet.
+
+(0:00:29 - 0:00:37)
+Das ist erst mal das Netz, so wie wir es aufgebaut haben. Jetzt zeige ich hier die Leiter Erdespannung. Jetzt geht es viel ums Wording.
+
+(0:00:38 - 0:00:51)
+Ich hoffe, dass ich mich selber da nicht verhaspele. Aber ich habe es ja im Zweifel sonst hier richtig aufgeschrieben. Also bitte aufpassen, das ist die Leiter gegen Erdespannung und die ist im IT-System jetzt erst mal 0 Volt.
+
+(0:00:52 - 0:01:01)
+Das ist wichtig zu verstehen. Das liegt daran, dass ja der Sternpunkt eben nicht gegen Erde rausgeführt ist. Also da gibt es sozusagen jetzt keine keine physische Verbindung.
+
+(0:01:01 - 0:01:16)
+Deswegen haben wir hier erst mal 0 Volt, also kein Gegenpotenzial sozusagen, dass man messen könnte. Jetzt haben wir über die Spulen auch eine Spannung eingetragen. Achtung, wir haben jetzt die gleichen Farben, um nicht hier irgendwie zu bunt zu werden.
+
+(0:01:16 - 0:01:29)
+Aber das sind andere Spannungswerte. Also das ist jetzt die Spannung Leiter gegen den neutralen Punkt, also gegen den Sternpunkt. Und die zeige ich jetzt links unten noch mal so als Pfeil.
+
+(0:01:29 - 0:01:42)
+Typische elektrische Darstellung. Warum? Das wird jetzt gleich ersichtlich werden, wenn ich langsam weitermache. Also das war jetzt die Phase 1 gegen den N. Und da ist er auch schon, der N. Der ist jetzt mittig, werdet ihr gleich sehen, dargestellt.
+
+(0:01:43 - 0:01:57)
+Und dann gibt es den 2 gegen N und den 3 gegen N. Das würde man so darstellen, weil man dann die Phasenwinkel daraus ableiten kann. Jetzt fehlerfreier Betrieb. Da haben wir jetzt überall 120 Grad dazwischen.
+
+(0:01:57 - 0:02:11)
+Da seht das jetzt auch. Also so eine Darstellung ist üblich in der Elektrotechnik. Also der 1 gegen N, der 2 gegen N und den 3 gegen N Spannungen sind alle mit dem gleichen Betrag versehen.
+
+(0:02:12 - 0:02:20)
+Hier sind es 461 Volt. Nehme ich vorweg. Wir nehmen ein 800 Volt System und 800 Volt durch Wurzel 3 ist 461 Volt.
+
+(0:02:20 - 0:02:33)
+Das könnte man jetzt also in einem 800 Volt System bei einer typischen PV Freilandanlage messen können. Würde man im Messgerät sehen. Und die Phasenversatz sind 120 Grad.
+
+(0:02:33 - 0:02:47)
+Das sieht man auch eben da in der Ecke ganz gut. Das ist so eine andere typische Darstellung, die haben wir mal mit reingenommen, damit man jetzt, finde ich, alle drei irgendwie zusammen hat. Kommen auch immer wieder vor, gerade bei Fehleraufbereitungen, sage ich mal.
+
+(0:02:47 - 0:02:59)
+Das ist das Gleiche nur mit einer Zeitachse versehen. Also sieht man jetzt auch die 120 Grad Phasenverschiebungen und man sieht, dass die Beträge eben alle gleich groß sind. Also ein sehr schönes symmetrisches Netz.
+
+(0:02:59 - 0:03:11)
+120 Grad verzogen und die X-Achse ist einfach nur die Zeitlinie. So jetzt kommen noch mal die Leiter Leiterspannungen mit rein. Also die Feinheiten sind jetzt ganz wichtig.
+
+(0:03:12 - 0:03:21)
+Da seht ihr jetzt im Index U12, U23 und U31. Ich hoffe genau, da kommen sie auch mit ins Bild rein. Die würde man jetzt an der Stelle sehen können.
+
+(0:03:22 - 0:03:53)
+Und die sind erst mal auch gleich groß, sind eben jetzt 800 Volt und die sind mit einem anderen Winkel gegeneinander versetzt. Das ist aber nicht relevant, sondern wichtig sind sie sind gleich groß und sie haben alle 800 Volt. Also wenn man von einem 800 Volt System sprechen, dann reden wir immer von Leiter Leiter, nicht vom Leiter gegen Erde, das schon mal gleich gar nicht im IT-System, weil das wäre so nicht messbar und oder Null und Leiter gegen den Neutralpunkt ist es eben auch nicht, weil das ist dann die 461, also durch Wurzel 3. Das ist erst mal die Basis.
+
+(0:03:53 - 0:04:06)
+Das habe ich jetzt so ausführlich gemacht, weil jetzt kommen wir die Veränderungen durch die Fehler mit rein und denen muss man jetzt, sage ich mal, folgen. Das muss ich selber schon mehrfach ganz langsam machen. Deswegen ist mir klar, dass wenn man es zum ersten Mal sieht, das nicht so einfach ist.
+
+(0:04:07 - 0:04:12)
+Okay, symbolisch oben ist es orange geworden. Wir haben jetzt einen Fehler. Sozusagen im Normalbetrieb ist es einfach.
+
+(0:04:12 - 0:04:19)
+Aber jetzt kommt einer mit dem Bagger und haut in das Kabel rein. Das machen wir so. Da ist er, der Blitz.
+
+(0:04:19 - 0:04:32)
+Und zwar geht er jetzt von dem Phase 3, also L3 gegen Erde. Also auch wichtig zu verstehen, dass es ein einpoliger Fehler jetzt. Der Bagger hat nicht das ganze Kabel durchgehauen, sondern er hat genau nur eine Phase getroffen.
+
+(0:04:32 - 0:04:41)
+Da ist jetzt die Isolierung defekt. Und jetzt haben wir einen einpoligen Fehler gegen Erde. Der Bullet Point sagt schon, jetzt entsteht plötzlich ein geerdetes Netz.
+
+(0:04:41 - 0:04:48)
+Das hatten wir ja vorher nicht. Jetzt haben wir da aber eine Verbindung gegen Erde. Und deswegen habt ihr es hoffentlich gesehen.
+
+(0:04:48 - 0:04:57)
+Ich habe es orange gemacht. Ist L3 jetzt gleich E? Haben wir es genannt? Glaube ich nicht aus der Fachliteratur, sondern wir machen das jetzt gerade mal so. Das ist also jetzt Erdpotenzial.
+
+(0:04:57 - 0:05:04)
+L3 ist gleich Erdpotenzial. Und jetzt seht ihr es schon. U1, E, U2, E, U3, E war vorher gleich.
+
+(0:05:04 - 0:05:15)
+Ist jetzt nicht mehr so. Das ist jetzt nicht mehr so, sondern die fehlerbehaftete Phase kriegt jetzt also Erdpotenzial. Ist 0 Volt.
+
+(0:05:15 - 0:05:20)
+Und da sieht man es. Da verschiebt sie sich. Ich habe jetzt den Pfeil ein bisschen kleiner gemacht.
+
+(0:05:20 - 0:05:28)
+Der ist jetzt sozusagen null. Und das hat Konsequenzen auch auf die anderen Spannungen. Die gesunden Leiter nennen wir sie.
+
+(0:05:28 - 0:05:39)
+Die erhöhen sich jetzt um den Faktor Wurzel 3. 1,73 ist das. Und das zeigen wir jetzt hier auch. Also jetzt ist das zufällig halt nicht zufällig, sondern jetzt ist das halt auch 800 Volt.
+
+(0:05:39 - 0:05:57)
+Aber Achtung, man wird es gleich sehen. Vorhin waren die Leiter gegen den Neutralpunkt, gegen den N 800 Volt. Jetzt ist es die Spannung der ersten Phase gegen Erde, die war vorher null und die Spannung der zweiten Phase gegen Erde, die war vorhin auch null.
+
+(0:05:57 - 0:06:01)
+Die sind jetzt plötzlich 800 Volt geworden. Das heißt, die sind erstens nicht mehr gleich. Man sieht es.
+
+(0:06:02 - 0:06:11)
+0, 800, 800 ist nicht der gleiche Wert. Und sie sind auch nicht mehr null, sondern sie haben jetzt plötzlich 800 Volt. In dem Dreieck an der Seite sieht das so aus.
+
+(0:06:11 - 0:06:38)
+Die zwei, die schieben sich jetzt nach oben, weil der L3, kann man sich vielleicht vorstellen, ist jetzt erstens mit der Erde verbunden und die ja wiederum mit dem Sternpunkt hinten, mit dem N. Also verschieben sich auch die gesunden Leiter sozusagen gegenüber dem Erdpotenzial. Und das ist der wichtige Punkt, der später dann auch noch bei der Fehlererkennung, bei der Fehlerbewertung und auch bei der Materialauslegung wichtig ist. Also das jetzt merken.
+
+(0:06:39 - 0:06:56)
+Ich weiß, dass das mit den Farben nicht so einfach ist. Wir haben es aber bewusst so gemacht, dass da jetzt nicht 17 verschiedene Farben auftreten, sondern man muss auf den Index achten. U3e ist nicht gleich U1e und das ist aber wiederum gleich U2e bei dem Fehler in der dritten Phase.
+
+(0:06:57 - 0:07:15)
+So und jetzt ist auch schon wieder dazugekommen U12, also die verketteten Leiterspannungen, die bleiben nämlich gleich. Das ist der entscheidende Punkt. U gegen Erde ändert sich, aber die untereinander, die verketteten Spannungen, die bleiben gleich.
+
+(0:07:15 - 0:07:20)
+Das sieht man hier. Vorhin im Dreieck waren die auch da. Da hatte ich es als weiße Linie gemacht.
+
+(0:07:20 - 0:07:31)
+Unten sieht man es noch, das U12, das ist einfach genau gleich geblieben und das U23 und das U31, das müsste man jetzt glauben oder im Handout noch mal vergleichen. Die sind auch gleich geblieben. Die haben sich gar nicht verändert.
+
+(0:07:31 - 0:07:42)
+Also die sind jetzt nur gleich den U1e geworden. Also erste Phase gegen Erde. Aber die verketteten Spannungen an sich sind weiterhin gleich.
+
+(0:07:42 - 0:07:48)
+Die sind alle 800 Volt. Das ist der große Trick des IT-Systems. Man hat jetzt einen Fehler, da hat einer reingehauen.
+
+(0:07:48 - 0:08:02)
+Aber das System würde das gar nicht merken, wenn es nur die verketteten Spannungen betrachtet. Und das ist der Trick für den Wechselrichter. Der Wechselrichter selbst schaut auf diese verketteten Spannungen und kann jetzt einfach weiterfahren.
+
+(0:08:02 - 0:08:17)
+Höhere Versorgungssicherheit. Okay, ja, das war starker Tobak. Wir machen gleich mal weiter in der Elektrotechnik und haben jetzt hier noch Kapazitäten eingezeichnet.
+
+(0:08:18 - 0:08:30)
+So würde man Kabel elektrotechnisch darstellen. Also L1, L2, L3 sind jetzt einfach Kabel zwischen Traffe und Wechselrichter. Und da gibt es, das ist physikalisch so gegeben, Kapazitäten gegen Erde.
+
+(0:08:31 - 0:08:44)
+Wir nehmen den gleichen Fehler wie gerade. Der ist also immer noch drin. Und weil es da jetzt eben eine Verbindung gibt, fließt jetzt plötzlich ein kapazitiver, glaube ich, heißt der Erdfehlerstrom.
+
+(0:08:44 - 0:08:51)
+Da ist er schon. Und dieser Fehlerstrom, der jetzt also fließt. Jetzt haben wir vorher keinen Fehlerstrom gehabt, weil wir hatten keinen Fehler.
+
+(0:08:51 - 0:09:00)
+Jetzt haben wir einen Fehler und da fließt jetzt ein Fehlerstrom. Und der ist abhängig von der Netzgröße. Vielleicht das als Sidekick noch.
+
+(0:09:00 - 0:09:10)
+Wir haben es nicht dargestellt. Deswegen sage ich es jetzt nur. Zwischen der Phase 3 und da fließt kein Fehlerstrom, weil der Sternpunkt ist nicht geerdet.
+
+(0:09:10 - 0:09:29)
+Es gibt keinen Kreis sozusagen, der geschlossen werden kann. Aber zwischen Phase 1 und Phase 2 fließt dieser kapazitive Erdfehlerstrom durch die Erde. Und das macht er nicht, weil da irgendwie ein harter Kurzschluss ist, sondern weil es eben Kapazitäten gibt, die naturgemäß vorhanden sind.
+
+(0:09:30 - 0:09:46)
+So, die sind abhängig von der Netzgröße und deswegen ist auch der Erdfehler abhängig von der Netzgröße. Und weil das von der Netzgröße abhängig ist, muss man jetzt die Anzahl der parallelen Systeme beachten. Das ist sozusagen jetzt wichtig, weil dann die Kapazitäten der einzelnen Kabel sich aufaddieren.
+
+(0:09:48 - 0:10:00)
+Und das ist die Formel dazu. Also wer will, schreibt es sich schon mal auf oder umkreist es sich im Handout, weil die wird jetzt ein-, zweimal noch kommen. Relativ einfache Formel, finde ich, aber die braucht man, wenn man diesen Erdfehlerstrom berechnen will.
+
+(0:10:01 - 0:10:10)
+Ich sage es mal so, wir machen das jetzt auch gleich für die Niederspannung, werden dann sehen, dass das unkritische Ströme werden. Das werde ich schon mal vorweg. In der Mittelspannung ist das anders.
+
+(0:10:10 - 0:10:25)
+Wenn ich oder unser Team Umspannwerke, sage ich mal, mit plane oder betreue, dann ist dieser Wert tatsächlich wichtig, weil in der Mittelspannung kommt man da dann an sogenannte Löschgrenzen. Genau, da ist er auch schon. Also bei 30 Ampere, sagt man, wird es kritisch.
+
+(0:10:25 - 0:10:40)
+Der muss also niedriger sein als 30 Ampere. Und jetzt sprechen wir von Mittelspannung, weil das die Löschgrenze von den Lichtbögen ist. Okay, also soweit zur Theorie dieses kapazitiven Erdfehler Stromes.
+
+(0:10:40 - 0:10:59)
+Und jetzt hier noch mal dargestellt in einer Zeitachse gleiches Spiel, nur in einer Zeitachse gleicher Fehler. Das würde so aussehen. Achtung, es geht los. 
+
+Alles ist sauber. Jetzt kommt der Fehler. Und jetzt ändern sich also im oberen Diagramm sind die Spannungen dargestellt von einem symmetrischen System hin zu.
+
+(0:11:00 - 0:11:12)
+Ja, muss ich selber überlegen. Spannung, die Spannung der dritten Leiters gegen den Neutralpunkt wird null. Das sieht man, das pendelt sich so ziemlich bei null ein.
+
+(0:11:13 - 0:11:29)
+Und die anderen zwei werden eben erhöht um Faktor 1,7 sind also plötzlich nicht mehr die 461, sondern die 800 Volt. Also zwei Systeme erhöhen ihre Spannung und die dritte geht auf null. Finde ich, kann man sich so viel besser vorstellen als vorhin in der Tabelle.
+
+(0:11:30 - 0:11:38)
+Aber es ist genau das Gleiche. Und jetzt, glaube ich, wird schon klar, warum das ein bisschen kritisch ist. Diese Spannungserhöhung muss man beachten bei der Materialauswahl.
+
+(0:11:38 - 0:11:47)
+Und was ist mit dem Strom? Das war die zweite Folie, die ich gezeigt habe. Gleiches Spiel, gleiche Zeit. Der Strom ist erst mal null und im Fehler eintritt.
+
+(0:11:47 - 0:11:55)
+Da entladen sich dann diese Kapazitäten, die es ja nun mal gibt. Und null wird dann nicht. Aber er tendiert Richtung einem niedrigen Strom.
+
+(0:11:55 - 0:12:10)
+Also es geht erst mal hoch los mit solchen Ausschlägen und dann pendelt er sich eben ein bei dem IC, den wir auch gleich noch ausrechnen werden. Da ist ja auch schon die Berechnung Nummer eins haben wir sie genannt. Ich glaube, es gibt zwei Stück.
+
+(0:12:11 - 0:12:38)
+Und das machen wir jetzt mal, was ich gerade in der Theorie erläutert habe an einem pragmatischen Beispiel. Ich finde, die Frage, die sich sozusagen jetzt daraus stellt, aus dieser Theorie ist Wie lang darf denn dann das Kabel sein? Wenn ja der Grenzwert von dem IC mit 30 Ampere definiert wurde, also nicht überschritten werden darf, wir rechnen also rückwärts. Und das machen wir so, indem wir die Formel einfach nur umstellen.
+
+(0:12:38 - 0:12:51)
+Dann sieht die so aus und ein Mittelspannungssystem uns raussuchen. Wir nehmen 20 KV als Nennspannung. Wir nehmen diesen Kabeltyp an, der hat einen bestimmten Kapazitätsbelag, also Mikrofahrrad pro Kilometer.
+
+(0:12:51 - 0:13:14)
+Achtung, pro Kilometer ist wichtig, ist also noch nicht die tatsächliche Länge drin, weil die wollen wir ja ausrechnen. Und wenn wir das jetzt machen, dann kommt acht Kilometer raus. Also wir haben festgestellt, wenn das Umspannwerk und genau das machen wir dann eben in dem Kontext jetzt so gebaut wird mit dem IT-System Richtung PV-Park, dann darf aber die Kabelstrecke in Summe des Mittelspannungssystems nicht mehr als acht Kilometer sein.
+
+(0:13:14 - 0:13:26)
+Sonst würde man bei dem kapazitiven Erdfehlerstrom einen Grenzwert überschreiten. Aber gut, ich würde sagen, heute ist der Fokus ja erst mal Niederspannung. Das ist ja sozusagen das Neue, wenn man so will, für unsere PV-Anlagen.
+
+(0:13:27 - 0:13:34)
+Und da machen wir genau das gleiche Spiel. Die Zahlen habe ich hier hingeschrieben. Achtung, aufmerksam bleiben, weil das sollte jetzt gleich auch nochmal selber nachrechnen.
+
+(0:13:35 - 0:13:44)
+Andere Spannungsebene natürlich. Der Kabelquerschnitt ist ähnlich, aber trotzdem sind die Kapazitäten dann anders. Und da kommt jetzt dann was ganz anderes raus.
+
+(0:13:44 - 0:13:55)
+116 Kilometer Niederspannungssystem. Wäre jetzt bei so einer Freilandanlage ja pro Trafo-Station auf der Niederspannungsseite. Das ist unrealistisch, aber okay.
+
+(0:13:55 - 0:14:14)
+Deswegen ist es doch gut, dass man es mal ausgerechnet hat. So, die zweite Berechnung, das ist im Grunde das Pendant zu dem, was ich danach gezeigt habe, ist, wie groß ist der Erdfehlerstrom in einem Niederspannungsnetz 0,8 kV? Und eine Ausdehnung von 5 Kilometern. Also es ist die gleiche Formel.
+
+(0:14:14 - 0:14:24)
+Ich drehe sie jetzt nur um. Ein bisschen Mathematik sozusagen, Kenntnisse gefordert. Jetzt ist das umgestellt auf den IC und wir nehmen die 5 Kilometer an.
+
+(0:14:24 - 0:14:49)
+Also nicht den maximalen Strecken, die wir gerade berechnet haben, sondern jetzt nehmen wir mal eine realistische Größe an und dann kommt man auf einen Fehlerstrom von 1,28 Ampere. Das hat jetzt 46 Minuten gedauert, diesen absoluten Wert mal herzuleiten. Also ein Fehlerstrom in so einem IT-System auf der Niederspannungsseite sind wir bei ungefähr 1 Ampere, 1 bis 2, 3, 4 Ampere.
+
+(0:14:49 - 0:15:04)
+Das ist nicht so relevant. Ihr könnt euch ja vorstellen, sehen wir dann ja auch noch, dass das für ein Erdungssystem, für ein Niederspannungskabel, so wie wir das auslegen, völlig unkritisch ist. Da sind ja ganz andere Nennströme, über die wir dann sonst so sprechen.
+
+(0:15:04 - 0:15:18)
+Also hier ist sozusagen die mathematische Herleitung dessen, was ich vorhin schon gesagt habe. Der Vorteil bei diesem System ist, die einpoligen Erdfehlerströme sind relativ gering. Und das ist natürlich gut für das Schutzkonzept.
+
+(0:15:20 - 0:15:24)
+Ja, Omega S2 PF. So, jetzt kommt die Übung. Ich erkläre sie kurz.
+
+(0:15:24 - 0:15:39)
+Es ist genau das Gleiche, was ich gerade schon gesagt habe. Aber ich finde, wenn man es mal selber gemacht hat, Taschenrechner raus, dann kann man es einfach besser nachvollziehen. Wie lang darf das Kabel im Mittel sein? Da haben wir einen Fallstrick eingebaut, der ehrlich gesagt ziemlich fies ist.
+
+(0:15:39 - 0:15:56)
+Also wie lang darf das Kabel im Mittel sein, damit die Löschgrenze von 30 Ampere nicht überschritten wird? Die Formel haben wir hier mit reingeschrieben und das Beispiel haben wir jetzt ein bisschen geändert. Jetzt haben wir plötzlich 690 Volt, damit nicht genau das Gleiche rauskommt. Und die Kapazität ist ein bisschen anders.
+
+(0:15:57 - 0:16:06)
+Und jetzt will ich wissen, wie das Kabel lang sein darf. Bei zehn parallelen Systemen. So, wir nehmen uns da nicht viel Zeit.
+
+(0:16:06 - 0:16:12)
+Wir gucken mal, wie schnell ihr da seid. Gehen parallel in Menti, dann nehme ich.

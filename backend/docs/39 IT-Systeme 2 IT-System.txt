@@ -1,0 +1,239 @@
+(0:00:00 - 0:00:13)
+Gehen ins nächste Kapitel. Also die die Motivation ist, glaube ich, jetzt umrissen. Und wenn ihr am Ende, sage ich mal, dieses zweistündigen Blogs, dann auch all diese Punkte, die ich gerade genannt habe, noch mal wiedergefunden habt in der genaueren Beschreibung.
+
+(0:00:13 - 0:00:24)
+Dann haben wir alles richtig gemacht. Okay, IT-System. Wir sehen uns das also jetzt erst noch mal im Detail an, wie so ein IT-System aufgebaut ist.
+
+(0:00:24 - 0:00:45)
+Und da springe ich einmal kurz in die Überschrift der DIN 0100 100, errichten von Niederspannungsanlagen. Also wirklich eine übergeordnete Definition aus einer deutschen Norm. Und da steht erst mal drin, also IT hat zwei Buchstaben offensichtlich, dass der erste Buchstabe die Erdung an der Stromquelle definiert.
+
+(0:00:45 - 0:00:51)
+Das kann man sich mal merken. Also der erste Buchstabe ist die Quelle. Wir bauen das ja meistens in unseren Schemen auch von links nach rechts.
+
+(0:00:52 - 0:01:07)
+Und so eine Quelle, das wäre jetzt mal hier zum Beispiel so ein Transformator. Den brauchen wir jetzt auch noch ganz oft. Heute, weil der ja offensichtlich die Quelle darstellt und dessen Behandlung sozusagen, also wie der ausgeführt wird, den ersten Buchstaben definiert.
+
+(0:01:08 - 0:01:14)
+Der zweite Buchstabe ist dann die Erdung am anderen Ende der Leitung. Das wäre dann der Verbraucher. Nicht verwirren lassen.
+
+(0:01:14 - 0:01:24)
+So steht es halt in der Norm. Bei uns ist es zwar in unserem Wording ein Erzeuger, aber aus der Normsicht ist das irrelevant. Also damit ist schon, da kommt auch schon der Wechselrichter gemeint.
+
+(0:01:24 - 0:01:28)
+Nicht verwirren lassen. Erster Buchstabe ist der Transformator. So wird das sein.
+
+(0:01:29 - 0:01:40)
+Und auf dem zweiten Buchstabe kommt dann der Wechselrichter. Und was überhaupt? Ja, also und zwar die Erdung dieser Komponenten. Das wird dann auch wieder aufgeteilt.
+
+(0:01:40 - 0:01:45)
+Jetzt nehmen wir mal den Transformator. Den gibt es dann als Isolé. Das kommt dann aus dem Französischen.
+
+(0:01:46 - 0:01:56)
+Und da ist dann der Sternpunkt vom Transformator isoliert. Und das Pendant ist das Terre. Das ist die Erdung des Sternpunktes.
+
+(0:01:56 - 0:02:09)
+Also entweder ist der Sternpunkt isoliert ausgeführt oder ist geerdet. Das sehen wir später noch in verschiedenen Darstellungen und dann eben auch in der 360 Grad Tour, wie das dann praktisch aussieht. Aber jetzt erst mal sozusagen als Wortblock so dargestellt.
+
+(0:02:10 - 0:02:16)
+Und am Verbraucher sieht es ähnlich aus. Da gibt es Neutre. Das ist dann der Neutralleiter, dass man den verbindet.
+
+(0:02:16 - 0:02:22)
+Oder man nimmt noch den Terre. Das ist das gleiche Prinzip. Also eine direkte Erdung.
+
+(0:02:24 - 0:02:32)
+Gut, jetzt basteln wir das mal zusammen. Also wir haben vier Varianten für zwei Buchstaben. Damit kann man jetzt mehrere Varianten zusammenbasteln.
+
+(0:02:33 - 0:02:50)
+Wir holen uns vom ersten Buchstaben das T und vom zweiten Buchstaben das N, also ein T N. Und jetzt schreiben wir daneben legen wir nochmal diese Symbole. Das sind jetzt immer zwei Stück. Das soll also heißen der Sternpunkt an der ersten Stelle von der Stromquelle ist geerdet.
+
+(0:02:50 - 0:03:00)
+Das ist das erste Symbol. Und das zweite, da gibt es direkte Erdung. So, und dann gibt es die zweite Variante, ein IT-System.
+
+(0:03:00 - 0:03:11)
+Da fliegen die Buchstaben schon fröhlich rein. Und da ist es dann eben anders. Die Stromquelle ist nicht geerdet.
+
+(0:03:11 - 0:03:21)
+Deswegen haben wir das Symbol durchgestrichen und der Verbraucher wäre dann direkt geerdet. IT, darum geht es heute. Kann man sich vielleicht schon mal merken.
+
+(0:03:21 - 0:03:31)
+Diese Symbole führen wir uns jetzt genauso immer mit. Der Form halber hier noch das dritte Haupt, sag ich mal, System TT. Nur dass man es mal gezeigt hat, nehmen wir nicht mit.
+
+(0:03:31 - 0:03:46)
+Und wenn man das so zusammenschiebt mit dem Wording, dann sieht das jetzt genau so aus. Also das sind erst mal grundlegend die drei übergeordneten Systeme TN, IT und TT. Bevor es zum IT-System geht, noch mal aufs TN-System.
+
+(0:03:47 - 0:04:09)
+Das sieht als einpoliges Schema so aus, sieht man in der Elektrotechnik ja ständig und muss man dann auch verstehen. Würde sagen, wir versuchen es immer so zu erklären, dass wir jetzt in der ersten Ebene meinetwegen hatten wir das jetzt als normative Darstellung in Wortlaut, in Schrift. Jetzt kommt genau das gleiche ja noch mal als einpoliges Schema.
+
+(0:04:09 - 0:04:20)
+Und später sehen wir das dann auch noch in anderen Ebenen. Da geht es dann halt vielleicht um Berechnung und dann später auch um Bilder im realen Leben. Also wir versuchen immer das Gleiche sozusagen in verschiedenen Ebenen darzustellen.
+
+(0:04:21 - 0:04:31)
+Also jetzt war es gerade der Wortlaut. Jetzt kommt hier das einpolige Schema und so würde das dann erst mal aussehen. Das TN-System kann man jetzt unterteilen.
+
+(0:04:31 - 0:04:37)
+Das haben bestimmt auch schon die meisten gehört. Und so kommen wir dann überhaupt jetzt auch auf fünf. Also das TNC-System gibt es.
+
+(0:04:37 - 0:04:45)
+Da wäre dann hier der Pen zusammengeführt. Also der P, E und der N sind zusammengeführt. Dann sieht das so aus.
+
+(0:04:46 - 0:04:54)
+Das wäre dann das TNC-System. Dann kann man die aufteilen, den Pen in den P, E und den N. Das machen wir hier mal. So sieht das dann aus.
+
+(0:04:54 - 0:05:04)
+Und Achtung, das Pen hinten, das muss ich jetzt auch auseinanderschieben. Und dann haben wir hinten unser Fünfleitersystem. Das kennen natürlich ganz viele Hausinstallationen typischer Fall.
+
+(0:05:04 - 0:05:12)
+So sieht das ganz oft aus. Und das wäre dann ein TNC-S System. Das S steht, glaube ich, für wahrscheinlich französisch.
+
+(0:05:12 - 0:05:28)
+Aber im Grunde geht es ums Separate, also Separate Systems. Und da wäre dann das CS, die Kombination aus der Combined und aus dem Separated. Und das S, der Pfeil jetzt hier noch mal nach unten.
+
+(0:05:28 - 0:05:41)
+Den stellen wir hier noch mal da. Jetzt würde man also keine Mischung bauen, sondern der PE wird gleich in der vielleicht bei uns Trafo-Station direkt mit separat ausgeführt. Und dann nennt man das TNS-System.
+
+(0:05:41 - 0:05:56)
+Also wir haben jetzt das TN-System noch mal in drei Subkategorien unterteilt und die als Anlagenschema oder als einpoliges Schema dargestellt. Warum macht man das? Dann werfen wir ein paar Bullet Points rein. Also erst mal, es gibt eine sehr einfache Fehlererkennung.
+
+(0:05:57 - 0:06:12)
+Ja, was ist schon einfach? Aber gut, wenn man sich das genauer anguckt, man kennt es ja auch so mit einfachen Sicherungen meistens ausgebaut. Also so eine Fehlererkennung ist sehr einfach und es wird auch sehr schnell und logisch abgeschaltet. Da gibt es eigentlich nur schwarz und weiß.
+
+(0:06:13 - 0:06:19)
+Wir werden später sehen. In dem IT-System ist das nicht ganz so. Deswegen haben wir das jetzt hier erst mal als Vorteil dargestellt, dass das halt einfach und schnell ist.
+
+(0:06:20 - 0:06:31)
+Und für mich ganz wichtig, das ist eine bekannte Technik. Da geht es ja nicht nur um mich, sondern da geht es ja auch um alle, die so eine Anlage betreuen. Es sind ja viele, viele Parteien involviert und im Grunde müssen sie sich ja alle damit wohlfühlen.
+
+(0:06:32 - 0:06:42)
+Meine Erfahrung ist, TN-Systeme sind bekannter, in der Niederspannung zumindest. Und deswegen wäre das für mich ein Vorteil. Wo wird sowas eingesetzt? Genau, Gebäudeinstallation.
+
+(0:06:42 - 0:06:53)
+Da ist das sehr verbreitet. Das wäre dann das TNS-System. Und vorher, das hat man ja gerade schon gesehen, noch combined sozusagen ist dann eins vor dem Gebäude, nämlich im Verteilnetz des Netzbetreibers.
+
+(0:06:53 - 0:07:09)
+Aber Achtung Niederspannung. So sind unsere Niederspannungssysteme hier meistens ausgeführt. Netzbetreiber noch als C und dann kommt sie dahinter als S. Gut, und jetzt schlagen wir mal die Brücke vom TN-System rüber ins IT-System.
+
+(0:07:10 - 0:07:19)
+Das versuche ich grafisch mal so darzustellen. Also TN-System habe ich jetzt links weggeschoben und das IT-System ist jetzt reingerutscht. Aber Achtung, sehr animiert.
+
+(0:07:20 - 0:07:27)
+In dem Bild, sozusagen in dem einpoligen Schema ist das noch nicht passiert. Ja, nicht verwirren lassen. Das passiert ja jetzt erst noch, weil wir den Unterschied zeigen wollen.
+
+(0:07:27 - 0:07:40)
+Und da ist der große, große Unterschied. Das ist das I, also der Sternpunkt wird nicht geerdet. Das machen wir mal hier mit einem Radiergummi, indem wir den sozusagen da einfach weglöschen.
+
+(0:07:40 - 0:07:59)
+Und da wird er jetzt gerubbelt und zack ist er rausgenommen. Das haben wir deshalb so ein bisschen jetzt übertrieben animiert gemacht, weil das ist ja nur eine kleine Linie, die aber sehr große Auswirkungen hat. Also jetzt würde man eben das gesamte Konstrukt, das System anpassen müssen, nur weil man diesen kleinen Strich rausgenommen hat.
+
+(0:08:00 - 0:08:13)
+Okay, jetzt haben wir erst mal den Sternpunkt also nicht mehr geerdet. Und jetzt sagen wir noch zusätzlich, das ist meistens so, der N wird bei den Wechselrichtern gar nicht benötigt. Da muss man jetzt unbedingt in die Bedienungsanleitung gucken.
+
+(0:08:13 - 0:08:22)
+Das macht man ja aber hoffentlich sowieso. Und da würde das dann auch drinstehen, dass der Wechselrichter den gar nicht braucht. Deswegen grauen wir den jetzt mal langsam aus und dann verschwindet er auch.
+
+(0:08:22 - 0:08:31)
+Dann sieht es schon mal nur noch so aus. Und jetzt sage ich, braucht man auch den PE nicht mehr mitführen. Man kann das machen, aber man muss ihn nicht mitführen.
+
+(0:08:31 - 0:08:39)
+Das zeigen wir später auch noch in so einer Animation. Also jetzt sparen wir uns in Anführungsstrichen den ja auch noch mal im Kabel. Und dann sieht es erst mal so aus.
+
+(0:08:40 - 0:08:46)
+Der Wechselrichter ist hier jetzt nicht mit dargestellt, weil den muss man schon erden. Das ist wichtig. Aber den zeigen wir jetzt hier erst mal noch nicht.
+
+(0:08:46 - 0:08:56)
+Deswegen ist das reine IT System so. Sieht also schon mal ganz anders aus. Was sind da die Vorteile? Habe ich schon mal kurz gesagt.
+
+(0:08:56 - 0:09:04)
+Hohe Verfügbarkeit und warum das so ist, sage ich dann im dritten Kapitel. Aber das bitte mitnehmen. Das ist einfach ein Vorteil, warum man das macht.
+
+(0:09:04 - 0:09:09)
+Zum Beispiel in Krankenhäusern. Das kommt auch gleich als Anwendungsfall. Dann hat man den hohen Personenschutz.
+
+(0:09:10 - 0:09:24)
+Das lag an der Berührungs- und Schrittspannung, die niedriger ist und an den niedrigen einpoligen Fehlerströmen, die auftreten können. Und man hat einen geringeren Verkabelungsaufwand. Das war das Stichwort Materialkosten.
+
+(0:09:26 - 0:09:35)
+Genau, warum macht man das dann? Habe ich sozusagen jetzt hiermit beschrieben. Und daraus folgt meistens dann das Wo. Also die Verfügbarkeit bezieht sich dann meistens auf Krankenhäuser.
+
+(0:09:35 - 0:09:44)
+Das ist für mich der bekannteste Fall. Das erscheint für mich absolut sinnvoll. Daher hat die Versorgungssicherheit natürlich sehr hohe Priorität.
+
+(0:09:45 - 0:09:49)
+Deswegen macht man das da. Genau. Und dann kommen auch schon die Bebauanlagen.
+
+(0:09:49 - 0:09:58)
+Da kann man es vielleicht auch auf die Verfügbarkeit schieben. Aber das soll ja gerne jeder selber mal bewerten für seine PV-Anlagen. Warum es denn machen möchte.
+
+(0:09:58 - 0:10:10)
+Das kann also auch am geringeren Verkabelungsaufwand liegen oder vielleicht ja auch daran. Das geht mir zumindest so, dass die wechselrechte Hersteller gar nichts anderes mehr anbieten. Und dann gibt es noch kleine Industrieanlagen.
+
+(0:10:10 - 0:10:24)
+Da kann das auch auftreten. Okay, so jetzt versuche ich das, was ich gesagt habe, gerade noch mal zu sammeln. Und vielleicht kann man ja so eine Übersicht nutzen, um die mal in so einem Gespräch rauszuziehen.
+
+(0:10:24 - 0:10:37)
+Dann braucht man nicht das Zwei-Stunden-Video hier präsentieren, sondern vielleicht nur diese Seite, wenn man sich gemerkt hat, woher denn sozusagen diese ganzen Punkte kommen. Also grundsätzlich liste ich jetzt einfach noch mal auf, was ich gerade schon gesagt habe. Ich sammle es nur.
+
+(0:10:38 - 0:11:02)
+Und da sage ich, es gibt Kriterien, zum Beispiel den Personenschutz, habe ich mehrfach erwähnt und sage jetzt im TMC-System kriegt er von mir zwei Daumen hoch. Das ist jetzt eine Bewertung, eine quantitative Bewertung. Die haben wir uns nicht selbst ausgedacht, sondern die haben wir uns aus Literatur rausgezogen und haben sie dann noch mal selbst mit unseren Kriterien, sage ich mal, bewertet oder verändert.
+
+(0:11:03 - 0:11:16)
+Das kann jeder für sich selbst machen. Das heißt, das hier ist eine subjektive Bewertung, in der natürlich objektive Technik mit reingeflossen ist. Aber das muss man projektspezifisch oder planerspezifisch selbst betrachten.
+
+(0:11:17 - 0:11:31)
+Grundsätzlich als Tendenz gilt das jetzt erst mal so, das TNS-System ist sicherer, was den Personenschutz anbelangt, als das TNC-System. Und das IT-System würden wir sagen, ist dann ungefähr gleichwertig zu betrachten. Drei Daumen hoch.
+
+(0:11:32 - 0:11:43)
+Also großer Vorteil fürs IT-System. Jetzt mache ich es ein bisschen schneller, weil das wiederholt sich dann ja sozusagen. Und wir sehen es auch in den anderen Kapiteln noch mal dann genauer beschrieben, weil beim Brandschutz ist es dann ähnlich.
+
+(0:11:43 - 0:11:50)
+Das lag also an diesen Strömen. Die werden wir dann auch noch berechnen später. Dann hat man vielleicht noch mal ein besseres Gefühl dafür.
+
+(0:11:51 - 0:11:57)
+Und beim Anlagenschutz auch. Also wir sehen schon, die Tendenz geht Richtung IT. Das haben wir vielleicht auch nicht ganz unabsichtlich so gemacht.
+
+(0:11:57 - 0:12:08)
+Aber wir sehen schon, da sind deutlich mehr Daumen als bei den anderen Systemen. Die Verfügbarkeit, das ist ja vielleicht das Allerwichtigste. Auch da gewinnt das IT-System gegenüber den anderen zwei Systemen.
+
+(0:12:10 - 0:12:20)
+Elektrochemische Verträglichkeit habe ich aus der Literatur einfach so mitgenommen, weil das ist wahrlich nicht mein Fachgebiet. Aber da ist es wohl auch so, dass es Vorteile gibt. Die werde ich jetzt hier nicht benennen, weil ich sie gar nicht kenne.
+
+(0:12:20 - 0:12:33)
+Und dementsprechend will ich sie auch nicht bewerten. Sagen wir mal Tendenz offensichtlich auch für IT-System. Erfahrung habe ich jetzt mit reingenommen, weil meine Erfahrung nach, dass eben der größte Nachteil ist.
+
+(0:12:33 - 0:12:44)
+Also da ist vielleicht sogar nur ein halber Daumen. Aber dann in den nächsten zwei, drei Jahren wird der ja dann vielleicht eher größer oder mehr werden, weil sich dann alle damit etabliert haben. Und dann ist das natürlich auch wieder kein Nachteil mehr.
+
+(0:12:46 - 0:13:01)
+Die Instandhaltung ist tatsächlich auch etwas schwieriger bei dem IT-System. Wir werden das später sehen. Der Vorteil, dass die durch Fehler einfach durchfahren können, ohne abzuschalten, hat auch indirekt Nachteile, nämlich eine höhere Materialbelastung.
+
+(0:13:01 - 0:13:20)
+Also man muss dann tatsächlich deutlich mehr darauf achten, ob man seine Materialien nicht überlastet. Und zwar, weil man sie ja im teilweise überlasteten Zustand weiterhin in Betrieb lässt. Wenn man immer gleich alles automatisch abschaltet, würde ich sagen, ist die Instandhaltung einfach, weil entweder ist alles okay und die Anlage läuft oder es ist nicht okay und dann ist ja abgeschaltet.
+
+(0:13:20 - 0:13:28)
+Im IT-System ist das eben gemixt. Dadurch wird ja die Verfügbarkeit besser. Aber dann sehen wir hier eindeutig einen Nachteil für die Instandhaltung.
+
+(0:13:28 - 0:13:54)
+Man muss da viel mehr Augenmerk darauf legen. Man muss es verstehen, was da eigentlich passiert, um dann bewerten zu können, ob die Anlage trotzdem 20 Jahre, sag ich mal, standhält. So, und bei der Installation wiederum haben wir dann drei Daumen fürs IT-System wieder genommen, weil wir gesagt haben, wenn man dann schon das wirklich durchzieht, die Logik, hat man auch weniger Anschlüsse, hat vielleicht leichtere Biegeradien, hat weniger Material an sich zu verlegen.
+
+(0:13:55 - 0:14:03)
+Das heißt, die Installation ist vermeintlich einfacher. Und dann kommen wir jetzt mal auf so ein Gesamtergebnis. 15 Daumen für das TNC, 17 Daumen für das TNS.
+
+(0:14:03 - 0:14:09)
+Aber jetzt ist der entscheidende Punkt, ob 15, 16 oder 17. Darauf will ich nicht hinaus. Ich will darauf hinaus.
+
+(0:14:09 - 0:14:27)
+Wir haben mehr Daumen beim IT-System gekriegt als bei den anderen. Und deswegen würde wir die Fragen, warum hiermit noch mal untermauern können. Das ist der Grund, warum wir in Zukunft bei Freilandanlagen dieses System priorisieren werden und bei Dachanlagen dann, wenn es möglich ist.
+
+(0:14:29 - 0:14:37)
+So, dann hatten wir auch, glaube ich schon, eine Übersicht haben wir noch. Genau, ich stelle nämlich jetzt mal Fragen. Das machen wir diesmal ein bisschen anders als sonst.
+
+(0:14:37 - 0:14:54)
+Also ich sammle jetzt schon mal Fragen, die ich mir aus dieser halben Stunde sozusagen oder ihr euch auch wahrscheinlich abgeleitet habt. Und die werden wir dann in den nächsten zwei Stunden noch beantworten. Also der Transformator, das ist natürlich immer so eine Hauptkomponente.
+
+(0:14:55 - 0:15:28)
+Welche Schaltgruppe braucht er dann? Wie muss ich den spezifizieren und bestellen? Das Kabel, worauf muss ich achten? Welcher Kabeltyp ist gebraucht und ist die Spannungsfestigkeit überhaupt ausreichend? Wenn wir das IT-System verbauen. Was muss ich beim Erdungssystem beachten? Wie werden die Wechselrichter geerdet und das System an sich, also die Verbindung der Tischreihen und der Trafo-Station zu den Wechselrichtern hin? Und ein Schutzsystem, das leuchtet jetzt hier gelb, weil das sieht von einem Hersteller zumindest auch wirklich genauso aus. Von dem haben wir das gekriegt.
+
+(0:15:28 - 0:15:36)
+Wie immer machen wir keine Werbung. Wir sind völlig unabhängig. Das ist mir egal, was da für ein IMD heißt, das Schutzrelais eingebaut ist.
+
+(0:15:37 - 0:16:02)
+Das hier ist jetzt halt mal gelb und das würde in Wirklichkeit auch genauso aussehen, wenn man diesen Hersteller benutzt. Und da stellt man sich die Frage, welches IMD-Relais muss ich einbauen? Nach welcher Norm? Wie finde ich dann Fehler, wenn es dann mal welche gibt? Und ich finde noch ganz wichtig bei der Parametrierung. Wann wird denn überhaupt dann zu und abgeschaltet? Also bei welchen Fehlern, nach welchen Zeiten und nach welchen Kriterien sozusagen?

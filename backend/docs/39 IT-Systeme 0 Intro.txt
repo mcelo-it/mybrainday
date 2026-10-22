@@ -1,0 +1,26 @@
+(0:00:00 - 0:00:12)
+Hallo und herzlich willkommen zum heutigen Brain Day. Heute schauen wir uns das Thema isolierte Netze an. Wir nennen es im Folgenden jetzt auch relativ konsequent IT-Systeme.
+
+(0:00:12 - 0:00:22)
+Ich glaube, der ein oder andere hat das so auch schon mal gehört. Das ist in der Elektrotechnik ein uraltes Thema. Diese Systemform gibt es natürlich schon sehr lange.
+
+(0:00:23 - 0:00:40)
+Für uns hier im Team in Berlin, in dem Kontext mit Photovoltaikanlagen, ist es relativ neu. Ich würde sagen, vor drei, vier, fünf, sechs Jahren hat es uns das erste Mal erwischt. Mittlerweile ist es angekommen, glaube ich, als Stand der Technik.
+
+(0:00:40 - 0:01:01)
+Trotzdem ist es, weil es eben auf die Gesamtbetrachtung der Elektrotechnik oder erneuerbaren Energien ein relativ neues, eingesetztes Thema ist, irgendwie noch nicht ganz so bekannt im Umfeld, für uns ja dann auch nicht. Dementsprechend widmen wir dem heute einen ganzen Zwei-Stunden-Blog. Wir machen das wie gewohnt.
+
+(0:01:01 - 0:01:14)
+Wir gucken uns erst mal an, warum überhaupt IT-Systeme oder isolierte Netze. Dann erklären wir auch noch mal, was das ist. Wir haben uns auch schon mal in einem einzelnen Brain Day alle Netztopologien genauer angeguckt.
+
+(0:01:14 - 0:01:33)
+Das machen wir heute nicht, sondern wir gucken uns heute nur noch mal dieses eine im Speziellen an. Das muss man machen, weil man die Grundlagen braucht, um dann im nächsten Kapitel das elektrische Verhalten besser nachvollziehen zu können. Das wiederum ist Grundvoraussetzung für eine sinnvolle Dimensionierung der Komponenten.
+
+(0:01:33 - 0:01:43)
+Da haben wir auch eine kleine 360-Grad-Tour wieder mitgebracht. Nach der Pause und nach diesem Kapitel wird es wieder ein bisschen praktischer. Das Letzte wäre dann die Schutztechnik.
+
+(0:01:43 - 0:01:53)
+Das machen wir sehr kurz. Das machen wir deshalb kurz, weil wir uns in den nächsten Wochen noch mal sehr ausführlich um die Schutztechnik kümmern. Da wird das Thema dann auch noch mal auftauchen.
+
+(0:01:54 - 0:01:57)
+Es gehört aber hier mit rein. Deswegen ist das unser fünftes Kapitel.

@@ -1,0 +1,124 @@
+(0:00:00 - 0:00:18)
+Und da gucken wir uns erst mal die weiteren E-Bögen an. Was meine ich mit weiteren E-Bögen? Ich werde sie jetzt hier einfach auflisten. Also der E11 in Betriebssitzungserklärungsbogen, der war, wie alle gemerkt haben, sehr gehaltvoll.
+
+(0:00:18 - 0:00:28)
+Da konnte man richtig viel erzählen dazu. Deswegen haben wir noch ein eigenes Kapitel draus gemacht. Und ganz wichtig, den habt ihr auch wirklich jetzt ja ausgefüllt.
+
+(0:00:29 - 0:00:40)
+Jetzt bei den nächsten Bögen, die jetzt kommen, ist das ein bisschen anders. Der E6-Erdungsprotokollbogen ist erst mal der erste, den wir uns dazu angucken. Also auch den brauchen wir.
+
+(0:00:40 - 0:00:50)
+Und da stelle ich jetzt aber ziemlich erfreut fest, den habe ich schon. Das ist also ein Riesenunterschied zu dem E11-Bogen, den musste ich ja jetzt erstellen. Den E6 habe ich schon.
+
+(0:00:50 - 0:01:09)
+Und ich habe ihn deshalb, weil er dokumentiert die Erdung der Übergabestationen. Und ohne diese Dokumentation hätte es gar keine Inbetriebnahme gegeben. Also wäre da eher der Anspruch, dass man während der E6-Bogen erstellt wird, darauf zu achten, dass er auch richtig erstellt wird, dass alle unterschreiben und dass man eine Kopie davon hat.
+
+(0:01:10 - 0:01:24)
+Das wäre vielleicht mehr die Grundaufgabe gewesen. Jetzt haben wir ihn und dann würde man spätestens jetzt einfach noch mal reingucken und formell überprüfen, dass da auch alles stimmt. Weil ich finde, da kann man sehr, sehr viel Zeit sparen.
+
+(0:01:25 - 0:01:42)
+Meinetwegen auch der Zertifizierstelle Arbeit ersparen. Aber das ist jetzt nicht so das Kernthema, sondern man kann sich Zeit sparen, weil wenn man jetzt Fehler findet und das die Zertifizierstelle natürlich dann dementsprechend auch macht, dann hat man im Zweifel 4, 6, 8 Wochen Zeit verloren. Weil bis die das uns zurückspiegeln, kann es dementsprechend dauern.
+
+(0:01:42 - 0:02:07)
+Also machen wir das. Wir gucken jetzt da rein und jetzt erscheinen also auch diese grünen Felder nicht mehr, sondern die sind schon da, weil wir füllen das jetzt nicht aus, sondern wir prüfen es einfach nur noch mal. Na ja, gut. 
+
+Und dann sieht man auch da wieder diese Identifikationsnummern, dass die irgendwie projektspezifisch soweit passen. Das macht auf jeden Fall Sinn. Dann habe ich hier noch mal dargestellt, dass es sich um eine Erstprüfung handelt.
+
+(0:02:07 - 0:02:13)
+Finde ich es erst mal logisch. Sonst würden wir nicht diese Konfirmitätserklärung diskutieren. Sonst gäbe es die ja schon.
+
+(0:02:15 - 0:02:26)
+Dann zweites Kapitel. Das ist noch mal ein bisschen interessanter. Da wird jetzt beschrieben, wie so eine Erdungsanlage, nee, nicht so eine, sondern wie die Erdungsanlage von genau dieser projektspezifischen Übergabestation auszusehen hat.
+
+(0:02:27 - 0:02:45)
+Ich habe da mal oben Flächenerde, Tiefenerde habe ich mal angekreuzt und dann steht da RA, also Ausbreitungswiderstand kleiner 2 Ohm. So, das habe ich mir aus der Tab rausgelesen, dass das so ist und dass es richtig ist. Wurde auch schon geprüft, sonst hätte es keine Inbetriebnahme gegeben.
+
+(0:02:45 - 0:02:59)
+Wir machen es aber einfach noch mal. Und das schreibe ich hier mal auf, so als Beispiel kleiner 2 Ohm und zum Beispiel muss man zwei Ringer erstellen. Und jetzt sieht man hier aus einem anderen Schulungsblock von uns mal so ein Konzept, so eine Zeichnung hätte ich.
+
+(0:02:59 - 0:03:07)
+Man sieht es da auch mittig beschrieben, siehe unten. So würde ich das anhängen. Das wäre, finde ich, best case.
+
+(0:03:07 - 0:03:12)
+Sonst hat man das vielleicht mit der Hand auch noch mal irgendwie skizziert. Natürlich auch in Ordnung. Aber sowas braucht man.
+
+(0:03:12 - 0:03:28)
+Erdung ausgeführt nach Zeichnung, siehe unten, siehe Anhang, was auch immer. Und genau darauf kann man dann achten, dass das auch richtig gemacht worden ist. So, das waren jetzt die Vorgaben und weiter unten ganz weit runtergerutscht, weil erst da, finde ich, wird es wieder richtig relevant.
+
+(0:03:28 - 0:03:40)
+Bei den Messwerten steht jetzt drin, die tatsächliche Impedanz, die da gemessen wurde, ist 1,9. Das ist kleiner als zwei. Und damit hätten wir das richtig ausgeführt.
+
+(0:03:42 - 0:03:49)
+Unten dann noch mal. Da kann man, finde ich, reingucken, auch wenn man keine Erdungsexperte ist. Steht denn da jetzt ohne Mängel? Das ist, finde ich, wichtig.
+
+(0:03:49 - 0:04:01)
+Sonst würde ich es nicht weiterleiten an die Zertifizierstelle. Da kommt man sich ja auch vielleicht selber ein bisschen komisch vor, wenn die Zertifizierstelle antwortet. Nein, keine Konformitätserklärung, weil da steht ja drin, dass es gar nicht richtig gemacht worden ist.
+
+(0:04:02 - 0:04:10)
+Also das, finde ich, verhindert man, indem man sich das selber erst mal noch mal durchliest. Gut, und dann wie immer die Unterschrift. Alles klar, passt.
+
+(0:04:10 - 0:04:29)
+Und ab damit zur Zertifizierstelle. Dann gibt es ein Inbetriebsetzungsprotokoll für ÜST-Übergabestationen. Da haben wir mal so ein 3D-Teil bei mir in den Hintergrund gepackt, damit man sich vorstellen kann, wie sowas in der Mittelspannung typischerweise aussieht.
+
+(0:04:29 - 0:04:36)
+Hier hat man auch noch eine Niederspannungsseite dabei. Also das wäre jetzt hier so eine Kombianlage. Aber wie auch immer, hier ist die Mittelspannung.
+
+(0:04:36 - 0:04:44)
+Da kann man sich ein bisschen besser vorstellen, worum es da eigentlich geht. Und auch hier Daumen hoch. Also deswegen ist das in diesem separaten Kapitel.
+
+(0:04:45 - 0:04:58)
+Den gibt es schon, diesen E7-Inbetriebsetzungsprotokollbogen für die Übergabestationen. Und wir prüfen ihn jetzt einfach noch mal formell. Machen wir es stichprobenhaft, sage ich mal.
+
+(0:04:58 - 0:05:04)
+Die Anlagenanschrift, die passt. Die sieht auch wieder aus wie im E9-Bogen. Da ist er, alles klar.
+
+(0:05:05 - 0:05:35)
+Dann deutlich, deutlich, deutlich schwieriger, aber einfach auch sinnhaft wäre, hier noch mal gucken, sind denn alle Punkte abgehakt? Jetzt in meinem Beispiel sind es noch nicht, aber wären sie dann. Und da muss man eben, jetzt sind sie drin, da muss man eben sicher sein, dass wenn da mal ein Haken nicht gesetzt wurde, dass das dann vielleicht nicht notwendig ist. Gibt es eine Frage dafür, warum ist der Haken nicht gesetzt? Oder wurde er vielleicht im Nachgang noch mal gesetzt? Und dann gibt es dazu wiederum ein E-Mail oder einen Nachweis.
+
+(0:05:36 - 0:05:49)
+Also diese Punkte sind essentiell wichtig. Ich nehme mal nur einen jetzt völlig aus dem Stehgreif heraus, raus. Im Übersichtsplan ist der vorhanden und das ist natürlich eine Notwendigkeit.
+
+(0:05:49 - 0:06:00)
+Also wenn da kein Haken dran ist, muss man schon mal fragen, warum ist denn kein Übersichtsplan vorhanden? Wir gehen mal davon aus, alle Haken sind gesetzt. Dann können wir hier einfach weitermachen. Gut, wunderbar.
+
+(0:06:00 - 0:06:13)
+Dann kommt hier eine Unterschrift vom Elektrofachbetrieb und vom Anlagenbetreiber. Das sind also zwei verschiedene Personen. Steht da ja auch extra da oder zwei verschiedene Firmen.
+
+(0:06:13 - 0:06:31)
+Ich hatte es noch nie, dass der Anlagenbetreiber auch gleichzeitig der Errichter beziehungsweise die Elektrofachkraft ist. Übergabestation, kenne ich so, unterschreibt oft der Lieferant der Übergabestation hier als Elektrofachbetrieb. Das sind halt die, die genau wissen, wie diese Station funktioniert, wie sie aufgebaut ist, die haben sie vielleicht auch geprüft.
+
+(0:06:32 - 0:06:52)
+Also das sind unterschiedliche Personen hier. Muss mit rein, ganz wichtig. Und jetzt kommt hier nochmal ein, finde ich, sehr interessanter Punkt, den lese ich jetzt nicht vor, das kann jeder nochmal im Nachgang in Ruhe machen, aber im Grunde blitzen hier schon diese maximal sechs Monate raus und dann steht da auch nochmal maximal zwölf Monate nach in Betriebssitzung der ersten Erzeugungseinheit.
+
+(0:06:53 - 0:07:09)
+Also ich denke, das kommt allen bekannt vor, die ganz aufmerksam zugehört haben. Das ist jetzt genau die Zeit, die ihr jetzt habt. Ab diesem Moment, der da eingetragen wird, ich mache das schon mal hier, 15.12.2023, da wurde die Übergabestation in Betrieb genommen und jetzt läuft die Zeit.
+
+(0:07:09 - 0:07:39)
+Das ist genau dieser Zeitstrahlbalken, den ich oben in blau eingetragen hatte. Ihr habt jetzt entweder sechs Monate Zeit, wenn ihr die ganze Anlage heute noch in Betrieb nehmt, aber maximal zwölf Monate Zeit, um die Konfirmitätserklärung einzureichen, wenn ihr heute an diesem 15.12. vielleicht noch ein, zwei Wechselrichter in Betrieb nehmt, aber nicht die ganze Anlage. Das ist wichtig, hier ist es dokumentiert und jetzt kann man als Zertifizierstelle aber ja auch wunderbar mal querlesen.
+
+(0:07:39 - 0:08:19)
+Jetzt kann man ja mal im Kalender gucken, was haben wir denn heute und wenn da jetzt während die Zertifizierstelle das hier prüft, steht, wir haben mittlerweile Januar 25, dann gehen ja schon mal alle Alarmglocken los, dann sind wir da ja weit drüber und dann gibt es auch hoffentlich eine Rückmeldung. Gut, vorübergehende Briefserlaubnis maximal sechs beziehungsweise zwölf Monate, hatte ich gesagt und hier, hier steht ja auch der Netzbetreiber mit seiner Unterschrift drin, also das finde ich ist wahrscheinlich der einzige Punkt sogar, wo wirklich offiziell vom Netzbetreiber bestätigt wird, wann diese sechs beziehungsweise zwölf Monate loslaufen. Also haben wir die E7 auch abgehakt.
+
+(0:08:20 - 0:08:48)
+Jetzt kommt noch der E10 im Betriebssetzungsprotokollbogen für die EZE, also jetzt sind wir bei den Erzeugungseinheiten. Wichtiger Unterschied in diesem typisch technischen, finde ich, Übersichtenfachjargon geht sowas doch oft unter. Das eine heißt E10, das andere, weiß ich schon gar nicht mehr, hieß anders und beim einen geht es um ÜST und bei dem geht es um EZE, aber im Inhalt ist das natürlich ein meilenweiter Unterschied.
+
+(0:08:48 - 0:09:16)
+Also jetzt gucken wir uns mal so ein Inbetriebssetzungsprotokoll für Erzeugungseinheiten an und da ist es für mich auch so, in meinen Projekten gibt es das, ich sage mal manchmal sogar mehrfach, weil es eben ja Teilinbetriebnahmen geben kann. Also jetzt nur mal als ein Beispiel. Meine Anlage hat eine Übergabestation, aber vielleicht vier Mittelspannungslinien und jetzt habe ich die erste Linie am ersten Tag in Betrieb genommen, die zweite am zweiten, die dritte am dritten, nur so als Beispiel.
+
+(0:09:16 - 0:09:28)
+Dann könnte man vier Inbetriebssetzungsprotokoll für die EZE erstellen, aber nur eins für die Übergabestation. Wir gucken da auch noch mal rein. Gleiche Anlagenbezeichnung wie E9, das ist natürlich ganz, ganz wichtig.
+
+(0:09:29 - 0:09:40)
+Die Registriernummer auch hier wieder. Ich finde, jetzt wird es deutlich, warum das Sinn macht, dass es immer die gleiche ist. Vor allem, wenn man zehn Projekte parallel bearbeitet, macht das höchst Sinn, dass man hier aufpasst, dass man nicht durcheinander kommt.
+
+(0:09:41 - 0:10:24)
+Die Zertifizierstelle steht da drin und dann kann man das mit dem Anlagenzertifikat vergleichen und hier stehen auch noch mal Leistungsangaben, die man auch mit dem Anlagenzertifikat vergleichen kann. Und dann stehen hier Inbetriebssetzungsdaten, also einmal das Datum und die Uhrzeit. Vor allem das Datum, finde ich, ist absolut sinnhaft, weil jetzt hat man meinetwegen vier von diesen Dokumenten, die sind jetzt vielleicht sogar über Wochen oder Monate verteilt in Betrieb genommen worden und jetzt muss man sich aus den vielen Unterlagen, also mein Beispiel zu bleiben, einmal Übergabestationsprotokoll, viermal EZE-Inbetriebssetzungsprotokoll, die Daten so aufschreiben, dass man auf maximal zwölf Monate kommt oder eben in Summe sechs Monate.
+
+(0:10:24 - 0:10:52)
+Aber das geht nur, wenn man diese Unterlagen auch hat. Für den Direktvermarkter ist das auch wichtig, genau, das hat jetzt mit Konfirmitätserklärung nichts zu tun, aber für den Direktvermarkter sind diese Unterlagen wichtig, da geht es auch um Fristen, die eingehalten werden müssen, wollten wir nur genannt haben, dass da auch noch mal was losgeworden ist. Was unterschreiben wir denn jetzt hier eigentlich? Ich erkläre hiermit, dass die Angaben der Wahrheit entsprechen.
+
+(0:10:53 - 0:11:26)
+Also grundsätzlich muss der Inbetriebssetzer hier sich dann wirklich noch mal Gedanken gemacht haben, was er da eigentlich unterschreibt. Ich finde, das ist gar nicht groß zu betonen, das macht man einfach so, aber grundsätzlich steht es da auch noch mal drin. Man unterschreibt ja nicht einfach irgendwas, sondern man liest es sich durch, und da wurde auch noch mal beschrieben, man muss schon genau wissen, was man da tut, sonst darf man es nicht unterschreiben, und man steht jetzt auch dazu gerade, dass die Anlage genauso gebaut wurde, wie wir hier behaupten, sie in Betrieb genommen zu haben.
+
+(0:11:27 - 0:11:39)
+Also wie immer die Unterschrift drunter, und das macht jetzt nicht irgendjemand, der gerade noch greifbar ist, sondern das macht ein Fachbetrieb und auch der Betreiber, damit er sich auch wirklich in der Verantwortung fühlt.

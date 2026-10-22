@@ -1,0 +1,214 @@
+(0:00:00 - 0:00:09)
+Und schauen uns jetzt einmal die Normen an. Ja, ich sage mal, von uns ein sehr beliebtes Thema. Wir kommen da nicht drumherum.
+
+(0:00:09 - 0:00:20)
+Und ich glaube, hier ist es heute auch relativ kurz gehalten und übersichtlich. Wir haben euch das jetzt mal ein bisschen versucht, schematisch hier aufzubauen. Es gibt Normen für die Anwendung.
+
+(0:00:20 - 0:00:39)
+Das ist jetzt, sage ich mal, die linke Seite dieses Kreises und die VDE 41 XX Normen, die wir ja hier so oft besprechen. Die steht hier ganz oben, ist auch aus meiner Sicht, denke ich, immer die wichtigste Norm bei uns. Darunter kommt dann gleich das FNN Lastenheft-QU-Schutz.
+
+(0:00:39 - 0:01:03)
+Ja, da seht ihr, steht schon QU-Schutz drin, ist vor allem für diesen Vortrag, wenn es um QU-Schutz oder um die QU-Schutzfunktion geht, natürlich sehr, sehr wichtig. Dann kommen noch zwei weitere, die wir sehr, sehr wichtig finden, um sie mal gelesen und verstanden zu haben, aber die für heute nicht so relevant sind. Deshalb werden wir auf das Lastenheft Netzschutzsysteme und Netzschutzkonzepte für künftige Netze, was wirklich sehr interessant ist.
+
+(0:01:03 - 0:01:22)
+Guckt mal rein, wenn ihr Zeit habt, gehen wir aber heute nicht darauf ein. Und auf der anderen Seite, den Normen gegenüber, stehen dann die Komponentennormen, die jetzt für heute auch nicht wichtig sind. Aber wir führen sie mal auf, diese DIN EN 602551, also Messrelais und Schutzeinrichtungen, sehr wichtig.
+
+(0:01:22 - 0:01:53)
+Und dann gibt es eben diese IEC C372, da geht es dann um diese ANSI-Codes, Device-Nummern und so weiter, Abkürzungen, also auch nicht wichtig für heute. Wir starten mal mit der 4110, wir grauen die anderen aus, später geht es dann eben in das Lastenheft-QU-Schutz, aber erst mal 4110. Und da haben wir euch jetzt zuerst mal so ein paar Punkte aufgeschrieben, die wir jetzt nicht, sage ich mal, einzelnen Kapiteln immer zuordnen wollen, sondern das ist jetzt für euch einfach mal so eine Übersicht.
+
+(0:01:53 - 0:02:12)
+Also ihr kriegt Einstellwerte aus den E-Bögen, das ist erst mal ganz wichtig, vor allem in der Mittelspannung, das ist der E9-Bogen. Da kriegt ihr die Einstellwerte des QU-Schutzes her, kriegt ihr vom Netzbetreiber, wo genau das jetzt in dieser 4110 steht. Wie gesagt, ist jetzt für heute vielleicht nicht ganz so wichtig.
+
+(0:02:12 - 0:02:21)
+Dann braucht ihr Komponentenzertifikate nach der 4110 oder 4120. Das ist eben auch wichtig. Die meisten Schutzrelais können das aber liefern.
+
+(0:02:22 - 0:02:38)
+Wenn ich mich so auf dem Markt umschaue, ist das eben eine sehr begrenzte Anzahl an Relais, die da so in unseren Mittelspannungsschaltanlagen eingesetzt werden. Aber die haben eben diese Komponentenzertifikate. Schutzrelaisprüfung ein wichtiger Thema, ein wichtiges Thema.
+
+(0:02:38 - 0:02:48)
+Deshalb haben wir das heute in unserem Vortrag auch mit aufgenommen. Muss man vor der Inbetriebnahme und auch vor Ort durchführen. So spricht es die 4110 und dann eben auch alle vier Jahre.
+
+(0:02:48 - 0:03:15)
+Mittlerweile, so wie ich das mitbekomme, sind da die Netzbetreiber auch hinterher und fragen das ab, dass man das dann eben zur Verfügung stellen muss. Ist aber auch sinnvoll, weil wenn wir die Anlagen nach vier Jahren besichtigen und Schutzrelaisprüfung erneut durchführen, dann sieht man da schon sehr erschreckende Dinge zum Teil. Also macht das sehr viel Sinn, alle vier Jahre sich dann noch einmal darum zu kümmern, Schalter zu schalten, Schutzrelais zu prüfen.
+
+(0:03:17 - 0:03:32)
+Haltet euch dran, also alle die Betreiber sind von euch. Prüfklemmleiste ein wichtiger Punkt, sehe ich aber in allen Projekten mittlerweile auch, ist glaube ich kein Geheimnis mehr, dass die mit dabei sein muss. Ist auch eigentlich überall mittlerweile drin.
+
+(0:03:32 - 0:03:40)
+Am Anfang war das nicht so. USV ist auch mit drin. Wir müssen dieses Schutzrelais puffern, vor allem das übergeordnete am Netzanschlusspunkt.
+
+(0:03:40 - 0:04:04)
+Deshalb ist das Thema USV wichtig und dann haben wir noch Anforderungen an Schutzprüfungen, die hier, sag ich mal, kurz zumindest thematisiert werden. Und vor allem will ich hier auf den Rückfallwert bei Spannungsschutzfunktion und auch bei der QU-Schutzfunktion hinweisen. Das schreibt die Norm klar auf und die Norm erwartet auch, dass es einen Live-Kontakt gibt.
+
+(0:04:05 - 0:04:15)
+So, das ist ein Überblick. Wir gehen jetzt aber trotzdem noch mal in ein Kapitel der Norm. Das Deckblatt kennt ihr bestimmt, so sieht das aus und wir blättern uns da jetzt mal tief rein.
+
+(0:04:15 - 0:05:02)
+Also Kapitel 10 suchen wir uns raus und dann gucken wir in das Kapitel 10.3. Da geht es um Schutzeinrichtungen und Schutzeinstellungen und in dem Kapitel 10.3, also ich nehme es vorweg, wir sind noch nicht tief genug drin in der in der Ordnerstruktur. Das Kapitel 10.3 unterteilt sich dann natürlich noch mal in 10.3.1, 10.3.2, 10.3.3 und da sind wir jetzt gleich an der richtigen Stelle. Entkoppelungsschutzeinrichtungen des Anschlussnehmers und auch hier sind wir noch nicht ganz am Ende, weil hier gibt es dann noch den Punkt 10.3.3.4. Und jetzt haben wir, glaube ich, lange geblättert, sind jetzt endlich bei der QU-Schutzfunktion und wollen uns jetzt mal anschauen, was die 41.10 hierzu zu sagen hat.
+
+(0:05:02 - 0:05:29)
+Also vielleicht auch schon vorwegnehmend, so ein Stück weit manche Sachen sind dann in der in dem FNN-Lastenheft, QU-Schutz später auch noch mal so erwähnt. Aber das zeigen wir noch zweimal, weil wir es für sehr, sehr wichtig halten und ich glaube, wenn man es zwei oder dreimal gesehen hat, erinnert man sich besser dran und versteht auch vielleicht noch mal besser die Zusammenhänge. Also los, Blindleistungsrichtungsunterspannungsschutz, so nennt es die 41.10, genauso wie alle anderen Richtlinien und das ist eben der Name, QU-Schutz.
+
+(0:05:31 - 0:05:46)
+Und dieser QU-Schutz soll gemäß 41.10 eben nach Fehlern im Netz die Netzstützung überwachen, so wie wir es eben auch schon kurz erwähnt haben. Fault right through, Spannung bricht ein. Wir wollen dann netzstützend arbeiten.
+
+(0:05:46 - 0:06:15)
+Das ist der Hintergrund. So, jetzt zeigen wir euch hier erst mal den Netzanschlusspunkt und wir sollen jetzt eben laut der 41.10 die Netzspannung überwachen und zwar soll die Leiterleiterspannung, ich sag mal, immer über 85 Prozent sein. Wenn sie unter 85 Prozent ist, dann haben wir hier ein Kriterium in diesem Schutzrelais, was das erst mal registriert und was, so wie wir so schön sagen, erst mal anregen würde.
+
+(0:06:15 - 0:06:48)
+Also diese drei Bausteine, alle Leiterleiterspannung unter 85 Prozent und wichtig, alle, wenn jetzt die Leiterspannung von L1, L3 zum Beispiel über 85 Prozent ist, dann reicht uns das nicht aus. Es müssen alle unter 85 Prozent sein, damit das Spannungskriterium anregt. Dann gleichzeitig, also und Baustein kommt später auch gleichzeitig zu dem Spannungseinbruch, beziehen wir dann induktive Blindleistung aus dem Netz.
+
+(0:06:48 - 0:06:59)
+Da gehen wir nachher auch schon noch mal ein bisschen tiefer rein, was das wirklich heißt. Also wir arbeiten, der Park arbeitet jetzt netzschwächend. Das würde jetzt in dem Fall mal so aussehen.
+
+(0:06:59 - 0:07:29)
+Das ist jetzt, ich sag mal, die Blindleistungskennlinie, die oben dargestellt ist. Wenn sich also jetzt der Solarpark oben in dem Bereich befindet, also ich sag's schon mal, das kann einspeisend oder beziehend von Wirkleistung sein, aber eben induktive Blindleistung aus dem Netz bezieht, ich sag mal, das Netz schwächt, dann würde eben auch dieser Baustein oben anregen. Natürlich erst, wenn eine gewisse Menge an Blindleistung erreicht ist.
+
+(0:07:30 - 0:07:44)
+Dafür gibt es dann einen Winkel oder eine Blindleistungsschwelle, sagen wir später noch mal mehr dazu. Und als drittes Kriterium gäbe es ein Minimalstromkriterium. In unseren Schutzrelais ist das eigentlich immer aktiviert.
+
+(0:07:44 - 0:07:57)
+Es gibt hier so eine optionale Geschichte noch, würde ich jetzt aber erst mal rauslassen. Ich würde sagen, aktiviert immer euer Minimalstromkriterium. Das heißt, der Strom muss mindestens 10% hoch sein, also 0,1 mal innen.
+
+(0:07:58 - 0:08:24)
+Und jetzt haben wir da drei Kriterien, Unterspannung, Blindleistung und Mindeststrom. Wenn die jetzt alle, also unverknüpft, alle gegeben sind, alle vorhanden sind, dann sagt das Relais, wir starten jetzt noch einen Timer und warten 500 Millisekunden. Und wenn diese 500 Millisekunden abgelaufen sind, also die 500 Millisekunden sind bei fast allen Projekten so gegeben.
+
+(0:08:24 - 0:08:41)
+Der Netzbetreiber ist natürlich auch dazu berufen, das auch mal ändern zu können, länger oder kürzer zu machen. Aber das, was ich in meiner Laufbahn gesehen habe, ist immer 500 Millisekunden. Dieser Timer Baustein, der läuft dann jetzt los, wenn alle Bedingungen erfüllt sind.
+
+(0:08:41 - 0:08:53)
+Und wenn diese 500 Millisekunden abgelaufen sind, dann gibt es eine Auslösung am Netzanschlusspunkt. So, das zeigen wir jetzt hier. Dann wird der Leistungsschalter oben ausgelöst.
+
+(0:08:53 - 0:09:14)
+Also Messung und Auslösung ist jetzt hier so definiert, soll am Netzanschlusspunkt erfolgen. Genau, einstufig habe ich hier nochmal mit aufgenommen, weil das sehen wir nachher in dem FNN-QU-Lastenheft ist das dann zweistufig, zeigen wir gleich. Hier ist es aber nur einstufig in der 4110 und so sehen wir das auch bei allen Projekten.
+
+(0:09:15 - 0:09:38)
+Jetzt noch ein wichtiger Punkt. Die 4110 sagt jetzt Einzelheiten zum QU-Schutz, die sollen wir uns bitte aus dem FNN-Lastenheft QU-Schutz raussuchen. Und das ist jetzt natürlich dann auch gleich unser Aufhänger, um zurück in unsere Übersicht zu gehen und jetzt eben uns diese Einzelheiten, diese Details für den QU-Schutz nochmal anzusehen.
+
+(0:09:40 - 0:09:49)
+So, der fliegt hoch. Jetzt haben wir eine neue Überschrift. Wir sind jetzt in der neuen, in der anderen Richtlinie, in der anderen Norm FNN-Lastenheft QU-Schutz und schauen uns hier.
+
+(0:09:49 - 0:10:08)
+Im Grunde folgen wir der Struktur der Norm und die fängt auch erst mal an mit so einer Art, nicht mit so einer Art, die fängt an mit der Motivation. Warum machen wir das überhaupt? Und ich sage mal, es doppelt sich jetzt ein bisschen. Aber auch das FNN-Lastenheft QU-Schutz spricht halt von Vermeidung von Systemkollapsen.
+
+(0:10:08 - 0:10:19)
+Dafür ist dieser Schutz gedacht. Das ist eben ganz wichtig. Dann bezieht sich diese Norm auch einmal darauf, dass dieser QU-Schutz eben auch im EEG gefordert ist.
+
+(0:10:19 - 0:10:26)
+Das heißt, das hat auch dann einfach einen gesetzlichen Charakter. Wir kommen da einfach nicht drum rum. Es sei denn, der Netzbetreiber lässt uns.
+
+(0:10:27 - 0:10:38)
+Das kann natürlich immer der Fall sein. Aber erst mal gibt es hier eine wirklich klare, harte Berechtigung, warum ein QU-Schutz eben gefordert werden darf. Also wenn da jemand diskutieren will, kann er das versuchen.
+
+(0:10:39 - 0:10:57)
+Der Netzbetreiber kann aber immer auch ganz klar sagen, dass wir das liefern müssen. Und jetzt gibt es hier in diesem FNN-Lastenheft Vorgaben und Funktionen. Irgendwer muss ja nun mal definieren, was genau jetzt so ein QU-Schutz können kann, was für Genauigkeiten der haben muss.
+
+(0:10:58 - 0:11:07)
+Und deshalb gibt es hier eben dieses Lastenheft. Darum geht es jetzt, denke ich, im Detail. So, erst mal die Ausführung wird hier beschrieben.
+
+(0:11:08 - 0:11:21)
+Es wird erst mal zu Beginn klar definiert Verbraucherzell-File-System. Das hatten wir schon mal in anderen Brain Days. Aber naja, also ehrlich gesagt, ich beschäftige mich mit diesem QU-Schutz schon sehr lange.
+
+(0:11:21 - 0:11:43)
+Ich prüfe den auch häufig selbst. Aber es ist einfach ein sehr, sehr komplexes Thema, vor allem was Blindleistungsrichtung oder Wirkleistungsrichtung betrifft. Deshalb nehmen wir uns die Zeit und gucken uns jetzt wirklich noch mal ein Verbraucherzell-File-System an und versuchen auch im Laufe des Vortrags mehr und mehr die Richtung zu definieren.
+
+(0:11:44 - 0:11:56)
+Also wir gucken in dem Verbraucherzell-File-System aus dem Netz. Deshalb haben wir euch oben dieses Auge dahin gemacht und teilen das jetzt hier mal auf in vier Quadranten. Ihr seht, dass auf der X-Achse haben wir Verbrauch oder Einspeisung.
+
+(0:11:56 - 0:12:14)
+Rechts ist Verbrauch, links ist Einspeisung. Und in der Y-Achse, da haben wir dann eben die Blindleistung später, kommt gleich rein. Wenn wir jetzt sagen, wir sprechen über Verbrauch, dann würden unsere Zähler und unsere Schutzrelais auf dem Display eine positive Wirkleistung anzeigen.
+
+(0:12:15 - 0:12:30)
+Ganz wichtig, das kann man erst mal so für sich behalten. Und wenn wir jetzt den Pfeil zwischen Kraftwerk und Netz in die andere Richtung drehen, also die Energie fließt von unserem Kraftwerk, von unserem Solarpark Richtung Netz. Dann ist die Wirkleistung negativ.
+
+(0:12:30 - 0:12:49)
+Nehmt das mit bei der Inbetriebnahme. Wenn ihr die Möglichkeit habt, guckt bitte, bitte auf eure Displays, auf eure Schutzrelais, auf eure Janizers, auf eure Zähler. Schaut, dass, wenn der Solarpark läuft, das ist dann ja klar definiert, man sind ein paar Wechselrichter an und ihr speist ein, dass dann die Leistung negativ ist.
+
+(0:12:49 - 0:13:07)
+Das ist der ultimative Test, den man immer machen sollte. Komplizierter wird es dann allerdings, wenn wir über Blindleistung sprechen, weil das ist dann nicht immer ganz so klar, zu welchem Zeitpunkt sich der Solarpark induktiv oder kapazitiv verhält. Das muss man sich dann wirklich genau angucken.
+
+(0:13:08 - 0:13:19)
+Bei der Wirkleistung ist es meines Erachtens nach klar. Das wisst ihr, wann die Wechselrichter produzieren. Aber deshalb gucken wir uns ja auch nochmal hier an, was genau das mit der Blindleistung auf sich hat.
+
+(0:13:19 - 0:13:47)
+Man kann jetzt erst mal sagen, das Kraftwerk verhält sich induktiv, also viele, vielleicht drahfuß drinnen, überwiegend Transformatoren, die im Leerlauf laufen. Dann ist unser Park eher induktiv und dann, Achtung, beziehen wir Blindleistung aus dem Netz, so würde ich es jetzt definieren. Und ganz wichtig ist, auf eurem Relais, auf eurem Zähler, auf den Displays würde jetzt Q positiv sein.
+
+(0:13:47 - 0:14:05)
+Das ist ganz wichtig. Und wenn der, genau, induktive Blindleistungsabgabe des Netzes, wir beziehen diese Blindleistung also aus dem Netz, da ist das Wording ganz, ganz kompliziert, ganz, ganz schwierig. Deshalb finde ich es erst mal ganz, ganz wichtig, dass man sich hier auf ein Zellpfeilsystem geeinigt hat.
+
+(0:14:05 - 0:14:29)
+Und jetzt kann man aber das Kraftwerk natürlich nochmal als kapazitiven, als kapazitives, nach einem kapazitiven Verhalten definieren. Und dann wäre eben die Blindleistung negativ und dann nimmt das Netz induktive Blindleistung von unserer PV-Anlage auf. Dann sind wir Netzstützend oder Spannungshebend.
+
+(0:14:29 - 0:14:47)
+Nehmt das so mit, versucht euch das irgendwie zu merken. Am Ende gibt es nochmal eine kurze Übersicht und ich beziehe mich da erst mal nur auf die Wirkleistung, weil ich finde, dass das erst mal ausreicht für euch, wenn ihr vor Ort seid und auf die Displays schaut. So, jetzt gehen wir nochmal durch diese vier Quadranten.
+
+(0:14:47 - 0:15:05)
+Quadrant 1 ist Verbrauch und Spannung senkende Blindleistung. Das heißt, wir beziehen sowohl Wirkleistung als auch Blindleistung vom Netz. Das haben wir jetzt versucht mit diesen beiden Pfeilen darzustellen, mit dem grünen und mit dem orangenen.
+
+(0:15:05 - 0:15:19)
+Und dann sind wir im ersten Quadranten. Also alles, was Verbrauch ist und Blindleistungsbezug, erster Quadrant. Dann haben wir Einspeisung von Wirkleistung und Verbrauch von Blindleistung wäre zweiter Quadrant.
+
+(0:15:20 - 0:15:33)
+Dann gibt es Einspeisung von Wirkleistung und Einspeisung von Blindleistung. Die beiden Pfeile da zeigen es wieder an und dann befinden wir uns im dritten Quadranten. P Wirkleistung, Q Blindleistung, S Scheinleistung.
+
+(0:15:34 - 0:15:39)
+Merkt euch das, wenn es geht. Und dann gibt es noch den letzten Quadranten. Da verbrauchen wir Energie.
+
+(0:15:39 - 0:15:56)
+Also wir beziehen Energie aus dem Netz, Wirkenergie und speisen trotzdem Blindenergie ein und wirken deshalb Spannungshebend. Also es gibt vier Variationen. Man kann sowohl Wirkleistung einspeisen und dabei Spannungshebend und Spannungssenkend wirken.
+
+(0:15:56 - 0:16:13)
+Und man kann verbrauchen und auch im Verbrauch Spannungshebend und Spannungssenkend wirken. Das ist erst mal wichtig, das verstanden zu haben. So jetzt als kurze Tabelle, dass man das vielleicht, wenn man mal bei einer Inbetriebnahme ist, das gleich greifbar hat.
+
+(0:16:13 - 0:16:20)
+Also wir sind im Verbraucherzellfallsystem. Daran würde ich auch nicht rütteln. Das würde ich nicht von irgendwem diskutieren lassen.
+
+(0:16:20 - 0:16:27)
+Das ist das, worauf wir uns einigen. Und wenn wir P einspeisen, dann sind wir negativ. Dann ist die Wirkleistung negativ.
+
+(0:16:27 - 0:16:38)
+Und vielleicht für später mal, dass ihr das dann so ein bisschen im Hinterkopf habt, U und I sind dann um 180 Grad verdreht. Nehmt das mal mit. Das werdet ihr im normalen Projektgeschäft nie sehen.
+
+(0:16:39 - 0:16:52)
+Bei einer Schutzreleeprüfung ist das aber wichtig und das zeigen wir euch natürlich am Ende. Jetzt gibt es dann noch Bezug von Wirkleistung, also Bezug von P und das wäre dann positiv. Ich erkläre das ja so häufig mit meinem Zähler zu Hause.
+
+(0:16:53 - 0:17:06)
+Da habe ich keine PV-Anlage, da habe ich nur Bezug und da kennt der Zähler nur die eine Richtung und dreht immer weiter nach oben. Das ist leider so. Und wenn man jetzt in das Erzeugerzellfallsystem wechseln würde, das machen wir nicht.
+
+(0:17:06 - 0:17:15)
+Deshalb ist es ja ausgegraut. Dann wäre das alles umgedreht und gehen wir nicht drauf ein. Vergesst dieses Erzeugerzellfallsystem.
+
+(0:17:15 - 0:17:32)
+Ist gut zu wissen, dass es das gibt, aber ihr braucht das in den meisten Fällen nicht. Und hier nochmal der Hinweis, den ich eben schon mal angedeutet habe oder der für mich so wichtig ist, prüft diese Wirkleistungsrichtung bei der Inbetriebnahme. Das ist im Grunde genommen das A und O, die finale Prüfung.
+
+(0:17:34 - 0:17:45)
+Ihr werdet das nachher sehen, da gibt es ganz, ganz viele Möglichkeiten, diese Leistungsrichtung zu drehen. Zeigen wir später. Aber gut, das ist erstmal Verbraucherzellfallsystem, der erste kleine Punkt.
+
+(0:17:46 - 0:18:04)
+Und jetzt geht es nochmal Auslösung oder die Darstellung der Auslösequadranten. Ihr habt ja eben verstanden, dass es diese vier Quadranten gibt und wir zeigen euch jetzt hier mal die Blindleistungskennlinie und diese Blindleistungskennlinie. Ihr erinnert euch, oben rechts ist der erste Quadrant, oben links ist der zweite Quadrant.
+
+(0:18:06 - 0:18:27)
+Sobald ihr euch, sage ich mal. Bei einem Netzfehler in diesen beiden Quadranten blindleistungsmäßig befindet, sollte euer Schutzrelais das registrieren und eben, wenn alle anderen Kriterien auch gegeben sind, eine Auslösung initiieren. Also Quadrant 1, Quadrant 2, die Spannung senkenden Quadranten.
+
+(0:18:27 - 0:18:58)
+Ihr nehmt Blindleistung aus dem Netz, sind eben, ich sage mal, würden zu einer Auslösung führen, sowohl während einer Wirkleistungseinspeisung als auch bei Wirkleistungsverbrauch. Das gilt bei beiden oder das gilt bei beiden Wirkleistungsrichtungen. So ist das. 
+
+So und jetzt gibt es hier nochmal die Auslöselogik. Die haben wir eben schon mal gesehen in der 4110. Das ist das, was ich meinte.
+
+(0:18:58 - 0:19:11)
+Wir zeigen hier manche Sachen dann auch schon doppelt. Das sieht hier in der FNN im FNN-Lastenheft genau so aus, bezieht sich auch immer auf den Netzanschlusspunkt. Das kommen wir dann nachher auch nochmal dazu.
+
+(0:19:12 - 0:19:29)
+Was hier in der FNN-Richtlinie ein bisschen anders ist, ist, dass wir hier zwei Zeitglieder haben. Das ist ein Unterschied zur 4110, die fordert explizit nur ein Zeitglied, also diese 0,5 Sekunden. Und hier gäbe es noch die Option, ein zweites Zeitglied einzufügen.
+
+(0:19:29 - 0:19:43)
+Also man könnte erst, sage ich mal, die Wechselrichter ausschalten nach 500 Millisekunden und nach 1,5 Sekunden am Netzanschlusspunkt abschalten. Ist aber in der 4110 nicht gefordert. Deshalb sehe ich das auch in meinen Projekten so eigentlich nie.
+
+(0:19:43 - 0:19:52)
+Ich sehe immer nur eine Zeitstufe, 0,5 Sekunden. Und jetzt gibt es noch Anforderungen an das Relais. Da stand schon zum Beispiel Genauigkeiten.
+
+(0:19:53 - 0:20:06)
+Und hier wird jetzt genau definiert, was diese Schutzrelais, die wir einsetzen, können müssen. Also Sie müssen den Strom nach einer gewissen Genauigkeit messen, plus, minus 2 Prozent. Es muss ein Rückfallverhältnis für den Strom geben.
+
+(0:20:07 - 0:20:18)
+Das sind hier 95 Prozent. Nicht zu verwechseln mit diesem Spannungsrückfallverhältnis, was ja immer bei 98 Prozent beziehungsweise 102 Prozent lag.

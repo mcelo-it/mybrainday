@@ -1,0 +1,209 @@
+(0:00:00 - 0:00:13)
+Thema Normen, ich traue mich das schon immer gar nicht mehr zu sagen. Ich hätte nie gedacht, dass ich mich für Normen irgendwann mal so interessiere. Auch hier war es wieder so, ich habe viele Normen gelesen und am Ende in diesen Normen viel, viel gelernt.
+
+(0:00:14 - 0:00:28)
+Deshalb kommt dieses Kapitel jetzt immer wieder. Ich hoffe persönlich, dass euch das nicht allzu sehr langweilt, aber da steht einfach unheimlich viel drin. Man muss sich nur die Zeit nehmen und das einfach mal lesen und dann lernt man einfach viel.
+
+(0:00:28 - 0:00:49)
+Wir haben es unterteilt jetzt hier mal in Normen für die Anwendung und in Normen für die Produkte, müsste jetzt genau der zweite Pfad hier aufgehen, für die Komponenten. Das ist erstmal unsere grobe Oberstruktur. Die VDE, ARN 4110, 4120 kennt ihr alle, gehen wir gleich nochmal kurz darauf ein.
+
+(0:00:50 - 0:01:05)
+FNN Lastenheft, Netzschutzsysteme. Der FNN ist das Forum für Netz- und Schutztechnik im VDE. Die legen da wirklich Richtlinien, Rahmenbedingungen vor, also sehr wichtige Dokumente.
+
+(0:01:06 - 0:01:13)
+Dann gibt es noch das FNN Lastenheft QU. Da will ich hier einmal drauf eingehen. Jetzt den unteren Punkt, den kann ich leider nicht so richtig erkennen.
+
+(0:01:13 - 0:01:33)
+Das ist eine Norm, die wollte ich zeigen, aber nicht drauf eingehen, weil ehrlich gesagt, sie war für mich schon etwas zu komplex. Ich habe da nicht alle Punkte verstanden, aber in dieser Norm geht es eben darum, welche Schutztechniken werden benötigt in der Zukunft. Unser Netz wird umgebaut, wird umstrukturiert.
+
+(0:01:33 - 0:01:46)
+Da gibt es dann viel, viel, viel um Distanzschutz, viel, viel um Sammelschienenschutz. Also das könnt ihr euch gerne mal angucken, für die, die tiefer in die Elektrotechnik einsteigen wollen. Auch da unheimlich viel Wissen, was dort vermittelt wird.
+
+(0:01:46 - 0:01:55)
+Aber für unsere zwei Stunden sprengt es ein bisschen den Rahmen. Trotzdem sei sie genannt. Komponenten, da haben wir die DIN EN 60255.
+
+(0:01:56 - 0:02:03)
+Das ist eine Schutzrelais-Norm, soll nur genannt sein. Da will ich nicht weiter darauf eingehen. Und die zweite Norm, das sind diese ANSI-Codes.
+
+(0:02:04 - 0:02:21)
+Die erläutern wir später nochmal, weil die tauchen im täglichen Arbeiten immer mal wieder auf. Jetzt schauen wir erstmal, was die VDE ARN 4110, würde ich jetzt mal sagen, oder 4120 zu Schutztechnik sagt. Erstmal ganz wichtiger Punkt, diese E-Bögen.
+
+(0:02:22 - 0:02:35)
+Ihr kennt sie hoffentlich alle zu Genüge. Den E9-Bogen in der Mittelspannung, den E7-Bogen in der Hoch- und Höchstspannung. Da kriegen wir erstmal Schutzeinstellwerte für unsere Schutzrelais her.
+
+(0:02:35 - 0:02:48)
+Dann gibt es Komponentenzertifikate nach der 4110, 4120. Also Schutzrelais werden eben danach zertifiziert. Das heißt, sie erfüllen dann eben die Anforderungen dieser Norm.
+
+(0:02:50 - 0:03:03)
+Dann legt die 4110, 4120 eben auch Schutzprüfungen vor der Inbetriebnahme. Verpflichtend gibt sie sie vor. Und eben dann alle vier Jahre zyklische Wiederholungsprüfungen.
+
+(0:03:03 - 0:03:16)
+Auch ein ganz wichtiger Punkt, das war vor einigen Jahren noch nicht ganz so klar geklärt. Jetzt ist es klar, wir müssen Wiederholungsprüfungen an diesen Schutzrelais durchführen. Dann gibt die 4110 Prüfklemmleisten vor.
+
+(0:03:16 - 0:03:27)
+Eigentlich eine Selbstverständlichkeit in der Schutztechnik. Würde es in dieser Norm nicht drinstehen, hätten viele Solaranlagen die Prüfklemmleisten trotzdem nicht. Deshalb ist das sehr hilfreich, dass wir sie hier haben.
+
+(0:03:27 - 0:03:41)
+USV, also Batteriepufferung von Schutzrelais. Auf alles, was den Netzschutz betrifft, müssen gepuffert sein. UMZ-Schutz nicht zwingend, aber eben der NA-Schutz.
+
+(0:03:42 - 0:04:03)
+Dann haben wir Anforderungen an die Schutzprüfungen, die in der 41xx definiert werden. Und hier einfach nur als Stichpunkt, beziehungsweise kennt ihr es bestimmt alle, ihr habt ein Schutzprüfprotokoll, reicht das ein beim Zertifizierer und in den meisten Fällen kommt es irgendwie zurück. Und es stimmt zum Beispiel der Rückfallwert bei der Unterspannungsauslösung nicht.
+
+(0:04:03 - 0:04:17)
+Deshalb hier der Rückfallwert. Die Norm definiert hier einfach Parameter, die eingehalten werden müssen. Und die werden dann eben auch in der Konformitätserklärung sehr viel geprüft von den Zertifizierern.
+
+(0:04:17 - 0:04:40)
+Und da gibt es dann auch kein Ja, nein, vielleicht, sondern wenn man das nicht einhält, muss man nochmal prüfen. Und zum Schluss dann der Live-Kontakt, so nennen wir es hier, weil es meistens über den Live-Kontakt oder Watchdog-Kontakt des Relais gelöst wird. Wenn Spannung ausfällt oder wenn das Schutzsystem ausfällt, dann schalten unsere Übergabestationen in der Regel aus.
+
+(0:04:41 - 0:05:02)
+Live-Kontakt, Watchdog, das ist dieser Kontakt vom Schutzrelais, der abfällt, wenn das Relais einen Schaden, einen Fehler detektiert, also einen internen Fehler, beziehungsweise wenn die Spannung ausgeht, dann fällt dieser Kontakt ab, die Unterspannungsspule löst aus, die Anlage geht aus. Also das ist dann sehr, sehr sicher, da kann eigentlich nichts passieren. Wir schalten dann immer aus.
+
+(0:05:04 - 0:05:28)
+So, das war die 41xx. Und jetzt gehen wir weiter in ein Dokument in das FNN Lastenheft Netzschutzsysteme, was viel, viel detaillierter auf Schutztechnik eingeht. Dieses Dokument definiert erstmal funktionale Voraussetzungen für ein Schutzsystem.
+
+(0:05:28 - 0:05:43)
+Also genau, Haupt- und Reserveschutz werden definiert. Erstmal, dass es so etwas gibt in unseren Anlagen, in so einer Trafo-Station. In einem Park, da haben wir einen OMZ-Schutz, aber der hat dann meistens keinen Reserveschutz mehr.
+
+(0:05:44 - 0:06:05)
+Beziehungsweise ist der Reserveschutz im besten Fall dann irgendwas, was dann im Umspannwerk kommt und abschaltet, aber nicht in dem Sinne, wie wir es vielleicht aus Umspannwerken kennen. Da wird so ein 40-50 MVA-Trafo meistens mit zwei redundanten Schutzsystemen abgesichert. Welche Systeme das sind, kommen wir vielleicht später drauf, aber das ist dann wirklich redundant.
+
+(0:06:05 - 0:06:15)
+Zwei Relais, zwei Stromwandler, zwei Auslösespulen. Strom- und Spannungswandler werden erstmal definiert. Welche gibt es, wie funktionieren sie, was sind die Genauigkeiten.
+
+(0:06:15 - 0:06:27)
+Die Leistungsschalter werden benannt und werden dann auch nochmal spezifiziert. Das kann man sich gerne im Detail angucken. Und es geht ja auch um Belastbarkeiten von Betriebsmitteln.
+
+(0:06:29 - 0:06:44)
+Wenn euch das wirklich interessiert, schaut euch das an. Für unser Thema Schutzsysteme sind die ersten Punkte vielleicht noch nicht so ganz relevant, aber die Norm zeigt dann doch noch Sachen, die wir wirklich benötigen. Netzeigenschaften.
+
+(0:06:44 - 0:07:06)
+Ihr könnt euch vielleicht nochmal an diese Netzschutzthemen erinnern, die wir vor ein paar Wochen hatten. Was sind isolierte Netze, kompensierte Netze? Und diese Norm sagt euch tatsächlich, mit welchen Schutzfunktionen, in welchen Netzsystemen ihr effektiv und gut arbeitet. Und da wird dann der isolierte Sternpunkt genannt, den hatten wir auch vor ein paar Wochen.
+
+(0:07:08 - 0:07:28)
+Erdschlusskompensation, Petersenspule, kompensierte Netze oder Respe hatten wir es dann auch mal genannt. Gibt es Schutzfunktionen, niederohmige Sternpunkterdung, vorübergehend niederohmige Sternpunkterdung. Das sind die Netzformen, die erstmal definiert werden und für die dann in dieser Norm auch Schutzvorschläge definiert werden.
+
+(0:07:29 - 0:07:53)
+Meistens ist das dann eher, denke ich, wichtig für die Netzbetreiber, weil das dann in den Mittelspannungsnetzen, Übertragungsnetzen mehr von Relevanz ist als vielleicht in einem Solarpark. Und weil eben diese Netzbetreibernetze vielleicht nicht nur Strahlennetze sind, die sind sehr einfach zu schützen und zu bearbeiten, sondern die haben dann eben auch Ringnetze oder vermaschte Netze. Und dann wird diese ganze Schutztechnik schon deutlich komplexer.
+
+(0:07:56 - 0:08:10)
+Eigenschaften Höchstspannungsnetz, Hochspannungsnetz, Mittelspannungsnetz. Also, wem diese Thematik Hochspannungsnetze bisher sehr fremd war, steigt da ein bisschen ein. Freiflächenanlagen gehen mittlerweile in die Hochspannung, in die 110 kV, teilweise sogar in die 400 kV.
+
+(0:08:11 - 0:08:22)
+Das heißt, guckt euch das gerne an. Eigenschaften von Höchstspannungsnetzen kann man hier erstmal in der Norm nachlesen. Das ist hier kein geheimes Wissen, was da die Netzbetreiber hüten, sondern es steht tatsächlich in so einer Norm.
+
+(0:08:24 - 0:08:37)
+So, dann geht es weiter zum nächsten Überpunkt. Da sind wir bei dem Betrieb und der Instandhaltung. Wichtig natürlich für unsere Schutzrelais, für unsere Betriebsführer und für unsere Commissioning Teams, würde ich jetzt mal sagen.
+
+(0:08:38 - 0:08:56)
+Diese Norm gibt uns hier erstmal einen Prüfzyklus an für die Schutzrelais, also ähnlich wie es die 4110 auch schon tut. Hier wird es auch nochmal definiert, man muss Wiederholungsprüfung durchführen. Der Prüfumfang für so eine Inbetriebnahme und Wiederholungsprüfung wird grob definiert und abgerissen.
+
+(0:08:58 - 0:09:21)
+Und zum Schluss kommen wir dann zum letzten Punkt, Funktionen und Anwendungen. Und hier zeigt uns dann die Norm unabhängig von der Netzform vielleicht ein Stück weit, wie schützen wir sinnhaft Transformatoren, wie schützen wir am Ende Kabel und Leitungen, welche Schutzfunktionen gibt es, wie stellt man das ein. Und dann gibt es auch einen Punkt Schutz von Kompensationsanlagen.
+
+(0:09:21 - 0:09:53)
+Die sehen wir jetzt auch tatsächlich immer noch relativ häufig in der 4120, damit wir unsere Solarpacks eben nicht reduziert fahren müssen, kommen Kompensationsanlagen, die werden auch von Schutzsystemen geschützt. Dann wird der Schutz am Netzanschlusspunkt definiert und hier unterteilt man das dann eben durch Kundenanlagen, also ich sage mal Industriehalle, Industriegebäude ohne Einspeiser und eben Erzeugungsanlagen. Da gibt es unterschiedliche Anforderungen, QU-Schutz und so weiter.
+
+(0:09:53 - 0:10:15)
+Da kommen wir gleich drauf und haben bestimmt schon alle mal gehört, den braucht man eben nur für Erzeugungsanlagen und nicht für eine Produktionshalle. Jetzt kommen wir dann zu Prüfmethoden, Inbetriebnahme und Betrieb. Auch das klar definiert oder mehr oder weniger klar definiert in der Norm.
+
+(0:10:16 - 0:10:40)
+Der Ablauf einer Inbetriebnahme wird definiert. Also da werden auch verantwortliche Personen benannt und so weiter. Also wie nehme ich einen Park oder eine Erzeugungsanlage oder auch eine Bezugsanlage in Betrieb? Welche Prüfungen muss ich durchführen? Wandlerprüfungen, Verdrahtungsprüfungen, also muss man primär in den Stromwandler einspeisen, um zu sehen, dass der Strom eben auch am Relais ankommt.
+
+(0:10:40 - 0:10:58)
+Verdrahtung muss man prüfen, man muss Isolationsprüfungen durchführen und eben am Ende auch das Schutzrelais selbst prüfen und dann auch scharfe Auslösungen am Ende durchführen. Das sind so die Punkte vielleicht, die man immer mal so im Kopf haben sollte. Da steht noch mehr drin, das kann man sich dann in Ruhe nochmal durchlesen.
+
+(0:10:59 - 0:11:09)
+Prüfprotokolle werden definiert und was drinstehen muss. Und dann sind wir mit diesem Thema auch schon mal durch. Also Norm 1 von 5 habt ihr jetzt schon hinter euch.
+
+(0:11:09 - 0:11:36)
+Wir springen jetzt in das FNN Lastenheft-KU, weil der KU-Schutz natürlich bei uns immer mal, wie immer von Bedeutung ist, immer an jedem Netzanschlusspunkt umgesetzt werden muss. Bei Dachanlagen ein bisschen anders als bei Freiflächenanlagen, aber es gibt ihn und die Schutzeinstellwerte sind gleich oder fast gleich. FNN Lastenheft-KU-Schutz, das beschreibt erstmal die Motivation für den KU-Schutz.
+
+(0:11:36 - 0:12:17)
+Das finde ich auch erstmal gut, weil alle reden immer davon und vielleicht weiß ja jetzt gar nicht unbedingt jeder, wofür der überhaupt ist. Und dieses Lastenheft sagt erstmal ganz klar, dass dieser KU-Schutz für die Vermeidung von Systemkollapsen, so schreiben sie es, tatsächlich zuständig ist. Das heißt, der KU-Schutz schaut erstmal in das Netz und wenn er sieht, die Netzspannung reduziert sich unter einem, ich sage jetzt mal kritischen Wert, kleiner 85 Prozent, das ist genau die Grenze und unser Solarpark oder unser Windpark, ich sage jetzt mal, bezieht Blindleistung aus dem Netz, dann schwächen wir das Netz zusätzlich.
+
+(0:12:17 - 0:12:30)
+Und das ist dann natürlich, dann besteht das Risiko, dass das System tatsächlich kollabiert. Weil wenn dann alle Anlagen falsch arbeiten, dann hat das Netz irgendwann keine Chance mehr. Wir müssen mit unseren Parks das Netz stützen und nicht das Gegenteil tun.
+
+(0:12:32 - 0:12:47)
+Der Funktionsumfang wird dann nochmal hier definiert, was so ein KU-Schutz eben machen muss und der Prüfumfang wird auch nochmal dargestellt und zwar auch sehr, sehr ausführlich. Also da geht es dann natürlich um Blind- und Wirkleistung und um Winkel. Das ist sehr, sehr komplex.
+
+(0:12:48 - 0:13:01)
+Müsst ihr euch ein Stück weit, denke ich, auf euren Schutzprüfer verlassen, dass der das vernünftig macht. So, die Ausführung des KU-Schutz wird nochmal dargelegt. Erster Punkt.
+
+(0:13:01 - 0:13:20)
+Erinnert euch hoffentlich auch an das Thema mit dem Janica. Da hatten wir viel, viel über Verbraucherzellfallsysteme und Erzeugerzellfallsysteme gesprochen. Hier ist es das Verbraucherzellfallsystem, was grundsätzlich angewendet wird beim KU-Schutz.
+
+(0:13:20 - 0:13:37)
+Also ist klar, hier in der Norm definiert, damit man nicht in die falsche Richtung arbeitet. Das ist ein großes Risiko, weil dann ist man gleich netzschwächend und nicht netzstärkend. Dann wird klar dargestellt, was die Auslöselogik ist oder wie die Auslöselogik funktioniert.
+
+(0:13:37 - 0:13:46)
+Da kommen wir später nochmal drauf. Ist ein bisschen komplexer als andere Schutzsysteme, aber das erklären wir euch. Und dann werden diese Quadranten dargestellt.
+
+(0:13:46 - 0:14:02)
+Also vielleicht erinnert ihr euch vier Quadranten. Zwei sind Bezug, zwei sind Einspeisung und jeweils zwei sind Einspeisung, Blindleistung und Bezug, Blindleistung. Das sind so diese Quadranten, die werden definiert und dann die Anforderungen an das Relais.
+
+(0:14:02 - 0:14:16)
+Und da geht es vor allem dann um Genauigkeiten, sind definiert. Anschluss der Messwandler. Ich glaube, das ist hier der letzte Punkt im FNN-Lasten-FQ.
+
+(0:14:16 - 0:14:29)
+Und da soll nur gesagt sein, erstmal beschreiben wir hier, dass der Anschluss am Netzanschlusspunkt erfolgen muss. Das steht da so. Ein bisschen vorweggreifen.
+
+(0:14:29 - 0:14:40)
+Bei Freiflächenanlagen ist das klar, funktioniert, keine Frage. Bei Dachanlagen, sehen wir später noch, ist das nicht immer ganz so klar. Da muss man dann mal in die Diskussion mit dem Netzbetreiber gehen.
+
+(0:14:41 - 0:14:50)
+Kommen wir später dazu. Genauigkeit der Messwandler wird definiert, erinnert euch. 5P20 ist so eine Messwandlergenauigkeit für Schutzwandler.
+
+(0:14:51 - 0:15:15)
+Man darf für den QU-Schutz, wenn man jetzt keine Überstromfunktion hat, auch normale Messwandler verwenden, also mit Klasse 0,5, 0,2, weil wir hier keinen Überstrom erwarten, sondern wir sind ja hier eher eine Leistungsmessung als eine Kurzschlussmessung. Wieder Zuschaltung, ja, noch ein Thema. Auslösung am NAP, am Netzanschlusspunkt heißt das.
+
+(0:15:17 - 0:15:25)
+Da heben wir die Hand, das darf man erstmal nicht. Das ist bei uns erstmal grundsätzlich ein Nein. Die Mittelspannung schalten wir nicht automatisch wieder zu.
+
+(0:15:26 - 0:15:45)
+Hier die Norm definiert es so, dass man manuell zuschalten muss. Und dann eben auch in Rücksprache mit der Leitstelle gilt, denke ich, grundsätzlich in der Mittelspannung, schaltet man nicht einfach ein und aus, sondern man hält kurz Rücksprache mit der Leitstelle. Wir haben abgeschaltet, warum? Und dann entscheidet man zusammen, ihr dürft wieder einschalten.
+
+(0:15:46 - 0:16:05)
+Und wenn wir an der EZE auslösen, genau, und das ist jetzt auch wieder hier so ein bisschen der Hinweis, Dachanlagen, da ist das manchmal möglich, dass man den QU-Schutz eben in der Niederspannung installiert oder auch technisch sinnvoll. Und dann darf man da eben wieder automatisch einschalten. Hier würde ich dann immer sagen, stimmt das nochmal mit dem Netzbetreiber ab.
+
+(0:16:06 - 0:16:18)
+Für Spannung und Frequenz ist das sehr, sehr klar, dass man das darf. QU bewegt sich dann eher so ein bisschen in der Grauzone. Fragt da einmal nach oder lasst es freigeben vom Netzbetreiber und dann seid ihr auf der sicheren Seite.
+
+(0:16:21 - 0:16:38)
+So, jetzt kommt genau der weiße Punkt unten, FNN-Netzschutzkonzepte für zukünftige Netze. Das war das, was ich vorhin schon mal kurz erklärt habe. Gehe ich nicht tiefer drauf ein hier, aber gerne schaut es euch an, besorgt euch diese Richtlinie und lest es euch mal durch.
+
+(0:16:39 - 0:16:50)
+Also es ist erstaunlich, was drinsteht. Dann gehen wir rüber zu den Komponenten. Die erste Norm, das ist die DIN EN 60255, ist eine Komponentennorm.
+
+(0:16:50 - 0:17:01)
+Relais werden nach dieser Komponente gebaut. Auch hier würde ich jetzt gar nicht weiter darauf eingehen. Die klassischen, typischen Relais, die wir später auch nochmal kurz zeigen, sind nach dieser Norm gebaut.
+
+(0:17:01 - 0:17:19)
+Und da verlasse ich mich persönlich drauf, dass ich, wenn ich von Siemens, von Woodward SEG oder von sonst wem so ein Relais kaufe, dass die eben nach diesen Normen gebaut sind. Dann kommt der letzte Punkt, die letzte Norm. Dann habt ihr das auch schon hinter euch mit den Normen.
+
+(0:17:19 - 0:17:37)
+Der ANSI-Code, den haben wir mit aufgenommen. Ich glaube, ich habe es am Anfang schon mal gesagt, weil er häufig, ich sage mal, indirekt zitiert wird, würde ich sagen. Wenn die Leute sagen zum Beispiel, nimmt die Schutzfunktion 50, dann wissen viele Schutztechniker, dass das irgendwo in der Richtung UMZ-Schutz liegt.
+
+(0:17:38 - 0:17:54)
+Wir haben sie hier aufgenommen, dass ihr es mal gehört habt und das ein bisschen zuordnen könnt. Dieser ANSI-Code, der definiert erstmal Funktionsnummern und zwar für Relais, für Kabelkomponenten. Man kann in diesem Code sehen, so einen schönen Stromlaufplan und da sind dann Zahlen und Nummern drin.
+
+(0:17:54 - 0:18:06)
+Und jedes Gerät ist dann erstmal definiert über Zahlencodes. Das ist erstmal ganz schön, dass es da so eine Richtlinie gibt. Und auch für Schutzfunktionen gibt es dann eben Nummern.
+
+(0:18:06 - 0:18:34)
+Ich glaube, es sind so 90, knapp 100 an der Zahl, da ist dann eben jede Schutzfunktion, die es gibt, durchnummeriert. Für uns sind jetzt natürlich heute in den zwei Stunden nicht 90 Schutzfunktionen relevant, sondern wir haben, ich denke mal, so 10 rausgepickt, die für uns in der Solar- oder Wind- in den Erzeugern bei der Erzeugungstechnik relevant sind. Dann gibt es eben die Geräteschutzfunktion.
+
+(0:18:34 - 0:18:52)
+Ja, das ist sehr, sehr ähnlich. Auch hier werden dann eben diese Schutzfunktionen erstmal beschrieben. Ich würde mal sagen, nicht unbedingt sehr ausführlich, sondern mit zwei, drei, vier Zeilern, aber für jede Schutzfunktion steht dann eine kurze Beschreibung.
+
+(0:18:52 - 0:19:01)
+F größer ist dann zum Beispiel so etwas wie Überfrequenzschutz. Der Schutz löst aus, wenn die Frequenz einen Wert überschreitet. So oder so ähnlich ist das dann beschrieben, also sehr, sehr simpel.
+
+(0:19:03 - 0:19:11)
+Details muss man sich dann sicherlich selbst erarbeiten. Dann gibt es diese Nummerierung, die ich eben schon mal beschrieben habe. Jede Schutzfunktion hat eine Nummerierung.
+
+(0:19:14 - 0:19:30)
+Und kommt noch ein Punkt. Das Abkürzungsverzeichnis hätten wir auch noch. Ja, das doppelt sich mit diesen Funktionsnummern ein Stück weit, aber es gibt dann eben Abkürzungen zum Beispiel für Hilfskontakte, dass man die in Stromlaufplänen leichter sieht.
+
+(0:19:30 - 0:19:43)
+Es gibt Abkürzungen für Signale und Befehle. All das ist in diesem Code definiert. Also es ist vielleicht nicht unbedingt ein Code mit viel, viel Fließtext, sondern eher ein Code mit Zahlen, Abkürzungen und Definitionen.

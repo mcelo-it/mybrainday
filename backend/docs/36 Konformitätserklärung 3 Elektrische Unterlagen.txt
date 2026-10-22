@@ -1,0 +1,176 @@
+(0:00:00 - 0:00:18)
+Und gucken uns jetzt bitte die elektrischen Unterlagen einmal genauer an. Ich habe dieses Bild hier nochmal dargestellt, das hatte ich am Anfang schon mal kurz erklärt und graue jetzt aus, damit man nochmal weiß, wo wir jetzt eigentlich gerade sind und die elektrischen Unterlagen bleiben stehen. Also wir haben da so ein bisschen viel geteilt, was man alles so braucht.
+
+(0:00:18 - 0:00:40)
+Und jetzt gucken wir uns erstmal Teil 1, die elektrischen Unterlagen an. Dazu gibt es eine beschriebene Checkliste und die haben wir hier auch aufgeschrieben und jetzt fangen wir einfach mal in aller Ruhe an mit dem ersten Prüfpunkt, der da heißt elektrische Unterlagen. So und das sind jetzt erstmal das einpolige Schaltbild.
+
+(0:00:40 - 0:00:55)
+Das ist ja immer ein bisschen auch so die Grundlage, die Bibel oder was auch immer. Jedes Elektroplaner, da findet man ja immer schon ganz viele Informationen und deswegen will die Zertifizierstelle die natürlich dann auch haben. Und jetzt gucken wir uns die erst nochmal gemeinsam an.
+
+(0:00:56 - 0:01:15)
+Wie machen wir das? Wir stellen es so dar und gehen jetzt aber nicht auf die vielen, vielen Details ein, die da drin beschrieben sind. Das haben wir in einer anderen Schulungseinheit gemacht, weil wir finden, dass da so viel Know-how oder Wissen oder Schwierigkeiten oder wie auch immer drin steckt, dass man das jetzt auf keinen Fall hier mal schnell in eine Minute pressen sollte. Machen wir nicht.
+
+(0:01:16 - 0:01:32)
+Deswegen haben wir das, wie gesagt, ganz, ganz akribisch und kleinteilig schon mal an einer anderen Stelle erklärt. Wer das schon kennt, umso besser, dann kann er hier ja sozusagen genauso schnell wischen wie ich jetzt gleich. Wer nicht, der nimmt das jetzt erstmal so hin und guckt sich dann nochmal in Ruhe an.
+
+(0:01:33 - 0:01:49)
+Also wir haben dieses Schaltbild selbst gebaut, schon vor einigen Monaten, sonst wäre die Anlage ja nicht dementsprechend errichtet worden. Und jetzt geht es also darum, dass wir das nochmal überprüfen. Und zwar die Planung, elektrisches Schaltbild, gegenüber der tatsächlichen Realisierung.
+
+(0:01:49 - 0:02:03)
+Wir machen das, finde ich, jetzt erstmal hier sozusagen in genau dieser Übersicht. Und später macht die Zertifizierstelle das ja dann eben auch. Also das ist ja eben der Grund, warum wir diese Unterlagen da einreichen sollen.
+
+(0:02:04 - 0:02:13)
+Wie machen wir das? Wir gucken uns die verschiedenen Komponenten an. Wir machen das mal so ein bisschen beispielhaft. Die wichtigsten, nämlich Schaltanlagen, also Mittelspannung und Niederspannung.
+
+(0:02:14 - 0:02:20)
+Zoome ich einfach mal rein, damit man nochmal ein Gefühl dafür hat. Haben wir es hier grün markiert. So sieht die dann ja in Realität aus.
+
+(0:02:20 - 0:02:41)
+Und jetzt geht es eben darum, einfach nur um hier nochmal ein Beispiel zu nennen, ist das auch wirklich diese 24 kV, 630 Ampere, 20 Kiloampere für eine Sekunde Schaltanlage mit drei Feldern und einem Leistungsschalter im Trafofeld, ist das wirklich genau so gebaut worden? Das ist sozusagen die Frage. Ich sage erstmal ja. Habe ich mir nochmal angeguckt.
+
+(0:02:41 - 0:02:51)
+Habe ich auch den Bauleiter nochmal gefragt oder er hat mir ein Bild geschickt und jetzt bin ich sicher, genauso haben wir das auch wirklich dann umgesetzt. Bei Kabeln ist das gleiche Spiel. Davon gibt es mehrere.
+
+(0:02:52 - 0:03:00)
+Ich zeige hier mal so ein Kabeleingangsfeld, Kabel an 300 Meter. Und der Typ, der Querschnitt ist natürlich ganz wichtig. Das ist ein Kupferkabel.
+
+(0:03:00 - 0:03:14)
+Ist das wirklich so? Sage ich ja, Daumen hoch. Bei den Wandlern ist es immer ein bisschen schwieriger. Da müsste man vielleicht einen Deckel aufmachen und mal reingucken, ein Foto machen und sich zumindest die Dokumentation der Station angucken.
+
+(0:03:15 - 0:03:23)
+Dann gibt es meistens Aufkleber, sehen wir später auch noch, die irgendwo aufgeklebt sind. Und dann kommt man auch von draußen dran. Also hier seht ihr mal Stromwandler, Spannungswandler.
+
+(0:03:23 - 0:03:34)
+Und die Daten sind grün markiert. Sind die genauso umgesetzt worden wie von mir geplant? Natürlich die Wechselrichter. Also da geht es um Anzahl und Typ.
+
+(0:03:34 - 0:03:43)
+Hier haben wir mal vier. Jetzt schaut man vor Ort und es sind leider nur drei. Dann würde ich sagen, ändert man das unbedingt hier im Plan oder rüstet noch einen Wechselrichter nach.
+
+(0:03:45 - 0:03:57)
+Die Transformatoren. Da gibt es auch ein wunderbares Typenschild, das wir hier grün markieren mit Oberspannung, Unterspannung. All diese Kenndaten, die wir auch in anderen Schulungseinheiten erklären, die müssen jetzt hier nochmal gegengeprüft werden.
+
+(0:03:57 - 0:04:11)
+Jetzt wissen wir ganz genau, was das ist, sondern kann man das ganz kritisch, aber auch sehr zügig, wenn man weiß, was man sucht, nochmal gegenprüfen. Die Schutzgeräte. Kommt auch gleich nochmal ein Schutzschema mit vielen, vielen Details.
+
+(0:04:11 - 0:04:19)
+Aber hier sieht man ja erstmal, ja genau, also zwei Stück sind da eingebaut. In der Mittelspannung eins und dann auch nochmal in der Niederspannung eins. Das haben wir genauso gemacht.
+
+(0:04:20 - 0:04:31)
+Mehr Details dann später. Hier vielleicht erstmal grundsätzlich Position und Anzahl. So, und wenn das alles passiert ist, dann haben wir hier so ein cooles Gimmick mit reingesetzt.
+
+(0:04:31 - 0:04:47)
+Dann kann man sagen, also ich bin sicher. Ich Elektroplaner und ich Verantwortliche für das Erstellen der Konformitätserklärung bin mir sicher, dass das alles genau so gebaut wurde, wie ich es geplant hatte. Wenn nicht, ich sage es nur, der Form halber gibt es zwei Möglichkeiten.
+
+(0:04:47 - 0:05:00)
+Man baut auf der Baustelle dann um. Das kann man natürlich machen oder man passt es auch im Anlagenschema an. Ja, die Planung wird dann dementsprechend angepasst und dann, finde ich, sollte man fairerweise die Zertifizierstelle auch darauf hinweisen.
+
+(0:05:00 - 0:05:16)
+Was dann passiert, kann man ja dann erstmal abstimmen. Wenn das kleinteilige Sachen sind, die eigentlich keine Auswirkungen auf die Ergebnisse der Berechnungen haben, wenn zum Beispiel der Kabelquerschnitt sich ein bisschen vergrößert hat, dann wird das keinen großen Unterschied machen. Dann nehmen die das einfach nur an.
+
+(0:05:16 - 0:05:29)
+Meistens markieren die das auch dann nochmal in der Konformitätserklärung, dass auch der Netzbetreiber das am Ende weiß. Aber vom Grundsatz passiert dann nichts. Ich finde es trotzdem wichtig, dass man es benennt, damit da eine chronologische Logik reinkommt.
+
+(0:05:29 - 0:05:36)
+So, dann hätten wir erstmal unser einpoliges Schaltbild geprüft. Grüne Haken dran. S-Bild-Stempel.
+
+(0:05:36 - 0:05:52)
+Die Zertifizierstellen, manchmal kenne ich so Fragen auch danach, dass man das auch so markiert. Also dass man jetzt nicht das Schema einreicht, dass da irgendwie vom Vorjahr noch irgendwo so ein Revisionsstempel drin hat. Das wirkt dann ja schon so ein bisschen nicht gerade nach S-Bild.
+
+(0:05:52 - 0:06:06)
+Insofern mehr so nach Vorplanung. Also vielleicht macht man wirklich nochmal konkret eine eigene Version dann jetzt für die Dokumentation und eben auch für die Zertifizierstellen. Dann wollen die das Schutzkonzept sehen.
+
+(0:06:06 - 0:06:12)
+Das gibt es natürlich. Insofern kann ich da sehr schnell mir das aus der Schublade raussuchen. So sieht das aus.
+
+(0:06:12 - 0:06:27)
+Das schauen wir uns heute auch nicht im Detail an, sondern nur der Form halber betone ich es. Ich meine, es sind fünf Schulungseinheiten, die wir da aufgebaut haben, nur um zu erklären, was da eigentlich wie da passiert. Auslöseorte, Schutzeinstellwerte.
+
+(0:06:27 - 0:06:44)
+Das machen wir jetzt natürlich nicht, sondern nehmen wir an, dass das natürlich funktioniert hat. Sonst wären wir jetzt ja nicht hier, wo wir sind, also Anlage schon in Betrieb und Schutzkonzept ja auch schon fertig, sondern wir gucken es uns nochmal akribisch an und prüfen wieder Planung versus Realität. Erstmal allgemein.
+
+(0:06:44 - 0:07:03)
+Stimmen diese Auslöseverbindungen noch? Stimmen die Messorte noch? Ja, was soll ich sagen? Überall kann ein Fehler passieren. Dann ist die Station doch irgendwie anders aufgebaut worden, als wir das angenommen haben, weil wir irgendwelche revidierten Pläne übersehen hatten. Deswegen schaut man am Ende nochmal, ob es auch wirklich so gebaut wurde.
+
+(0:07:04 - 0:07:23)
+Die Einstellwerte natürlich, das kann man dann querlesen gegen die Schutzprüfprotokolle, macht die Zertifizierstelle dann genauso. Und wir haben es nochmal so aufgeschrieben, welche Schutzrelease gibt es denn überhaupt. Also wichtig immer für uns Erzeuger, die übergeordneten Kupplungsschutzeinheiten, das ist dann hier, da oben ist es, so sieht es manchmal aus.
+
+(0:07:23 - 0:07:37)
+Und der zwischengelagerte Schutz nehmen wir auch einfach nochmal rein, weil wir so ein schönes Bild haben und man sich es dann vielleicht ein bisschen besser vorstellen kann. Grundsätzlich gibt es auch noch mehr Schutzrelease. Die sind jetzt aber aus Sicht von diesem Schema nicht so relevant.
+
+(0:07:38 - 0:07:53)
+IMD und natürlich auch die Einstellwerte, die Schutzeinstellwerte in den Wechselrichtern, Selbstsicherungen. Es gibt sehr, sehr viel mehr Schutzfunktionen in der Gesamtanlage. Aber jetzt aus dem Konzept heraus, das wir hier zeigen wollen, sind die erstmal nicht so wichtig.
+
+(0:07:53 - 0:08:01)
+Deswegen haben wir nur diese zwei genannt. Also, genau so ist es gemacht worden. Prüfprotokoll hat genau die gleichen Werte, wie hier in unserem Schemaszenen.
+
+(0:08:01 - 0:08:09)
+Wunderbar, S-Bildstempel drauf. Weiter geht's. Dann kommt der Kommunikationsplan.
+
+(0:08:10 - 0:08:21)
+Auch der birgt unglaublich viel Potenzial für Fehler. Aber einfach nur, weil er eben am Ende sehr komplex ist, sehr, sehr viel Know-how drinsteht. Gleiches Spiel.
+
+(0:08:21 - 0:08:32)
+Wir haben uns das an anderer Stelle sehr, sehr genau angeguckt. Und heute prüfen wir nur, ob es auch genau so gebaut wurde. Und zwar was? Also, ich sage mal schematisch, die Darstellung der Komponenten.
+
+(0:08:32 - 0:08:50)
+Sind es vielleicht andere geworden, mehr oder weniger? Und aber auch, wie sind die Kommunikationswege aufgebaut? Haben sich da vielleicht die Kommunikationsart verändert? Oder wurden doch andere Schnittstellen verwendet? Manchmal passiert sowas ja, dass die Planung ja dann doch nicht ganz umsetzbar war. Dann wird vielleicht auch sogar vor Ort noch was umgebaut. Ist nicht schlimm.
+
+(0:08:50 - 0:09:13)
+Man muss es nur in die SBILD-Kommunikationspläne übernehmen. Und dann haut man den SBILD-Stempel drauf. So, jetzt haben wir dreimal unser SBILD elektrische Unterlagen kreiert und holen uns jetzt noch so ein bisschen andere Dokumentarten, nenne ich sie mal, das Anlagenzertifikat und Komponentenzertifikate.
+
+(0:09:13 - 0:09:32)
+Das ist recht schnell gemacht, weil das Anlagenzertifikat gibt es natürlich schon. Wir suchen es uns trotzdem raus, weil, erinnert euch an den Anfang, man soll ja gegen die ursprüngliche Planung vergleichen. Und die ursprüngliche Planung ist nun mal, sag ich mal, fixiert im Anlagenzertifikat.
+
+(0:09:32 - 0:09:48)
+Jeder, der real plant, weiß, dass so eine Planung sehr viele Revisionsnummern hat. Am Ende gibt es eine, die wichtig ist, und das ist die, die zertifiziert wurde. Deswegen braucht die Zertifizierstelle das Anlagenzertifikat, damit der Vergleich überhaupt machbar ist.
+
+(0:09:48 - 0:10:02)
+Und dann gibt es noch Komponentenzertifikate, das ist dann vor allem der Parkregler und das Schutzgerät und der Wechselrichter, die haben alle selbst noch Zertifikate und die reichen wir auch mit ein. Und warum machen wir das? Finde ich, war immer so ein bisschen meine Frage. Ihr habt das doch schon.
+
+(0:10:02 - 0:10:16)
+Ihr habt doch das Anlagenzertifikat erstellt. Da steht das ja auch alles drin. Aber die Logik ist, es muss nicht die gleiche Zertifizierstelle die Konfirmitätserklärung ausführen wie die Zertifizierstelle, die das Anlagenzertifikat erstellt.
+
+(0:10:16 - 0:10:28)
+Das ist nicht zwingend erforderlich. Meiner Erfahrung nach passiert das meistens so, ist aber nicht notwendig. Und weil das nicht so sein muss, ist erst mal in den Checklisten grundsätzlich aufgeführt, dass man all diese Unterlagen nochmal einreicht.
+
+(0:10:29 - 0:10:47)
+Ich finde, so ein bisschen ist es ja in der Logik, wenn es die gleiche Zertifizierstelle ist, kann man natürlich noch mal nachfragen, ob sie das wirklich brauchen. Und wenn sie sagen, nein, in eurem Fall nicht, weil haben wir ja schon, dann würde ich es nicht mehr mitschicken. Aber heute machen wir ja die logische Betrachtung von so einem gesamten Abarbeiten einer Checkliste.
+
+(0:10:47 - 0:11:05)
+Und da würde man das dann hinzufügen. So, also Anlagenzertifikat und Komponentenzertifikate sind jetzt auch nochmal drin. Vielleicht ein Hinweis noch, weil er mir gerade so einfällt nebenbei, bei Komponentenzertifikat, da kann es durchaus sein, dass es nochmal eine revidierte Form von einem Schutzrelais zum Beispiel gibt.
+
+(0:11:06 - 0:11:23)
+Dann werden auch die Komponentenzertifikate angepasst. Und so ein Zertifizierprozess von vorne bis hinten dauert ungefähr ein Jahr, vielleicht sogar noch länger. Also wenn in dieser Zeit sich da was verändert hat und jetzt da eben ein Relais mit einer neuen Versionsnummer vor Ort verbaut wurde, würde man unbedingt auch die neuen Komponentenzertifikate einreichen.
+
+(0:11:26 - 0:11:49)
+Sonstiges, das ist immer ein guter Punkt, da sammelt man so den Rest. Also erstmal einen geografischen Lageplan, den haben wir auch fürs Anlagenzertifikat schon gemacht. Deswegen prüft man da jetzt einfach nur noch mal, ist das immer noch hier in unserem Beispiel auf dem Hausdach von unserem Büro hier in Neukölln, also ist das immer noch der gleiche Ort und ist auch die Größe rein physisch, jetzt nicht elektrisch, das macht man ja im Schema auch noch gegeben.
+
+(0:11:50 - 0:12:03)
+Ich finde, das ist meistens so. Also ich habe noch nie aus Versehen die Anlage an einer Stelle errichtet, aber es geht ja ums Prinzip. Also prüft man auch da noch mal, ob das immer noch so gebaut wurde, wie es ursprünglich geplant war.
+
+(0:12:06 - 0:12:19)
+Sonstige relevante Bestandteile der Erzeugungsanlage, das können viele verschiedene sein. Wir haben mal ein paar aufgelistet, die jetzt mehr und mehr auch bei uns ankommen in den Projekten. Also wurde eine Kompensationsanlage gebaut.
+
+(0:12:19 - 0:12:31)
+Das ist natürlich erst mal eine Zertifizierung in sich. Das ist ja ein Riesenprojekt in sich. Aber wenn man eben eine Kompensationsanlage mit errichtet hat, dann muss man auch da genau die gleichen Logiken folgen.
+
+(0:12:31 - 0:12:39)
+Also auch da noch mal die Planungsunterlagen prüfen und mit einreichen. Und das Gleiche gilt auch bei Bezugsanlagen. Das wäre bei Dächern der Fall.
+
+(0:12:40 - 0:13:03)
+Vielleicht haben sie ja da was geändert im Bezug, hat dann gar nichts zu tun mit unserer PV-Anlage, muss aber mit zertifiziert werden. Und ganz wichtig, neu, jetzt, brandaktuell, wir arbeiten alle mit, die Speicher, oft gibt es solche Hybridsysteme, also dann werden ja zwei Sachen gleichzeitig zertifiziert, ein Speicherprojekt und eine PV-Anlage. Und dann muss man das natürlich beides als eigenständiges Projekt greifen.
+
+(0:13:03 - 0:13:21)
+Aber wenn es als eine Konformitätserklärung in Summe bearbeitet wird, mache ich es so, dass ich diese Unterlagen, ich sage jetzt mal, in getrennten Orten aufsammle und dann aber gemeinsam einreiche. Und dann gilt natürlich genau das Gleiche auch hier für die Speicher. Die Planung wird gegen die Realisierung geprüft.
+
+(0:13:24 - 0:13:37)
+Hacken dran. Sonstige abzustimmende Punkte, da haben wir immer nur einen, weil das ist für uns so allgemein, dass wir da gar kein Beispiel nennen wollen. Aber in jedem Projekt passiert es.
+
+(0:13:38 - 0:13:49)
+Es gibt Spezialabstimmungen mit dem Netzbetreiber. Meiner Erfahrung nach passiert das, ich sage mal, in jedem zweiten Projekt. Das ist dann ja auch nicht weiter tragisch, denn Netzbetreiber kann das natürlich und macht das auch zu Recht und gerne.
+
+(0:13:50 - 0:14:08)
+Und dann muss man das eben nur sauber dokumentieren, als E-Mail, PDF-Form. Und dann kommt das hier in den Ordner mit rein. Und dann hat man auch hier vielleicht nochmal eine Änderung gegenüber der ursprünglichen Abstimmung, die ja im Anlagenzertifikat hinterlegt ist, weil man vor Ort festgestellt hat, das macht doch keinen Sinn oder es geht gar nicht oder so.
+
+(0:14:08 - 0:14:13)
+Und dann würde man hier diese neuen abgestimmten Punkte auch nochmal nachweisen.

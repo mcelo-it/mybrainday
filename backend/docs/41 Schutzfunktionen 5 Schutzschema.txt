@@ -1,0 +1,47 @@
+(0:00:00 - 0:00:16)
+Jetzt gehen wir in das Schutzschema. Das würden wir euch mal darstellen, wie wir diese Schutzfunktionen, die wir jetzt alle einmal im Detail oder mehr oder weniger im Detail besprochen haben, darstellen würden. Wir haben das jetzt mal untergliedert in die Übergabestation, die wir hier sehen.
+
+(0:00:17 - 0:00:32)
+Und in so einer Übergabestation haben wir üblicherweise Spannungswandler, Stromwandler und einen Leistungsschalter. Und zu diesem Leistungsschalter gehört dann ja meist immer ein Schutzrelais, weil ohne ein Schutzrelais kann so ein Mittelspannungsleistungsschalter nichts tun. Das zeigen wir euch gleich.
+
+(0:00:32 - 0:00:43)
+Dann kommt die Trafo-Station. Da haben wir meistens auf der Mittelspannungseite dann keine Spannungswandler, sondern nur einen Stromwandler und einen Leistungsschalter. Den Transformator an sich.
+
+(0:00:43 - 0:00:55)
+Und auf der Niederspannungseite folgt dann, je nach Spannungslevel der Wechselrichter, auch nochmal ein Spannungswandler. Zum Beispiel von 800 Volt auf 100 und ein Stromwandler. Dann nochmal ein Leistungsschalter.
+
+(0:00:55 - 0:01:07)
+Und ganz zum Schluss kommt das Wechselrichterlevel. Das wäre jetzt erstmal der grundsätzliche Schutzaufbau oder das Schutzschema, wie wir es versuchen würden, vereinfacht darzustellen. Das braucht man dann meistens auch für die Zertifizierung.
+
+(0:01:08 - 0:01:21)
+Und jetzt in diese Schutzfunktion nochmal reingesprungen, würden wir diese Schutzfunktion, die wir hier besprochen haben, nochmal in dieses Schema reinwerfen. Wir fangen glaube ich an mit dem Na-Schutz. Ja genau, die anderen werden ausgeblendet.
+
+(0:01:21 - 0:01:32)
+Na geht los. Und jetzt zeigen wir euch erstmal, wo das denn sich befindet in einem Schema. Na-Schutz übergeordnet ist Spannungsfrequenzschutz und Qu-Schutz.
+
+(0:01:32 - 0:01:44)
+Der sitzt in der Übergabestation. Der wird gemessen am Strom- und Spannungswandler. Der Qu-Schutz braucht dann eben auch den Strom, Spannung und Frequenz, den Spannungswandler.
+
+(0:01:44 - 0:02:00)
+Und wir lösen die Mittelspannung aus. Das ist hier die Freiflächenanlagen-Schematik. Der Zwischengelagerte-Schutz, der sitzt dann in der Trafo-Station, zum Beispiel am Niederspannungsleistungsschalter, misst dort gegebenenfalls die 800 Volt über einen Spannungswandler.
+
+(0:02:01 - 0:02:16)
+Oder wenn wir ein 400 Volt System haben, kann er auch direkt messen. Und er löst dann eben den Niederspannungsleistungsschalter aus. Im Wechselrichter, das ist immer ganz wichtig, da gibt es natürlich auch noch andere Funktionen, die so ein bisschen mit dem Na-Schutz verwandt sind.
+
+(0:02:16 - 0:02:34)
+Meinetwegen die Leistungsreduzierung bei Überfrequenz. Aber der Na-Schutz an sich, der ist im Wechselrichter erstmal zu deaktivieren oder auf sehr unsensibel einzustellen, damit er nicht den Na-Schutz in der Trafo-Station unterläuft. Das ist immer der wichtige Punkt.
+
+(0:02:35 - 0:02:50)
+Jetzt geht es weiter zu den Überstromfunktionen. Dann werfen wir diese Funktion, sofern wir sie denn haben, jetzt auch mal in unser Schema rein. In der Übergabestation an sich haben wir jetzt mal einen Distanzschutz zusätzlich dargestellt.
+
+(0:02:50 - 0:03:01)
+Das könnte auch ein OMZ-Schutz sein, bei größeren Anlagen oft Distanz. Und eben einen Erdschlussschutz. Die messen Strom und Spannung und lösen dann eben auch in der Mittelspannung aus.
+
+(0:03:01 - 0:03:35)
+In der Trafo-Station ordnen wir dann vor dem Transformator mittelspannungsseitig meistens ein sehr einfaches OMZ-Relais an, das dann eben auch genau an der Stelle misst, am Trafo-Abgangsfeld zum Trafo, und dann eben den Mittelspannungsleistungsschalter auslöst. Zusätzlich gibt es dann auf der Niederspannungsseite am Niederspannungsleistungsschalter noch mal ein OMZ-Schutzrelais, was dann eben die Sammelschiene und die ganzen Wechselrichter dahinter schützt. Und jeder Wechselrichter, jede Leitung hat dann noch mal eine eigene Sicherung.
+
+(0:03:35 - 0:03:56)
+Hier ist es dargestellt als Schmelzsicherung, also NH vermutlich. Es gibt es bei vielen Stationen mittlerweile auch als kleine Leistungsschalter MCCB. Jetzt kommen noch mal die sonstigen Funktionen, die wir eben auch hatten, also Isolationsmessung und DMCR.
+
+(0:03:57 - 0:04:25)
+Isolationsmessung, sofern unsere Netztopologie sie dann fordert, also im IT-Netz, würde man dann auf der Niederspannungsseite des Trafos messen lassen und auslösen lassen. Das DMCR misst die Temperatur an dem Trafo und löst dann aus unserer Sicht sinnvoll die Mittelspannung aus. Isolationsmessgerät genau würde dann den Niederspannungsleistungsschalter auslösen, weil der Isolationsfehler dann in der Regel im Solarpark auf irgendeiner Kabelstrecke liegt.
