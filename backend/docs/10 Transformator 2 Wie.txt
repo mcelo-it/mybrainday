@@ -1,0 +1,95 @@
+(0:00:00 - 0:00:21)
+Jetzt geht es weiter mit dem Wie. Dieses Wie bedeutet erstmal, wie funktioniert so ein Transformator, was steht dahinter, wie übersetzt man Spannung auf ein anderes Level. Und da gibt es das Gesetz der elektromagnetischen Induktion.
+
+(0:00:21 - 0:00:37)
+Und das macht man sich hier eben für den Betrieb von Transformatoren erstmal zunutze. Wir schauen uns jetzt erstmal den Aufbau hier an von so einem Transformator. Man sieht hier die Wicklung und man schließt jetzt hier erstmal den Wechselrichter an.
+
+(0:00:37 - 0:01:05)
+Auf der Seite U2, so ist sie bei uns definiert, das ist die Energiequelle. U2 wäre dann auch die Sekundarseite, so wird es auch häufig in der Literatur beschrieben. Aber so funktioniert das erstmal, der Wechselrichter wird angeschlossen und jetzt könnte der Wechselrichter erstmal dort einen Strom erzeugen, einen Stromfluss erzeugen, der dann wiederum durch die Wicklungen fließt, die hier um den Eisenkern des Transformators gelegt werden.
+
+(0:01:05 - 0:01:31)
+Und diese Wicklungen, die man jetzt hier sieht, sind erstmal von der Anzahl her ungefähr sechs Stück. Das heißt, diese sechs Wicklungen würden jetzt dafür sorgen, dass in dem Eisenkern ein magnetischer Fluss induziert wird. Das ist fürs Induktionsgesetz nicht zwingend notwendig, für Transformatoren verwendet man das aber, weil dieser magnetische Fluss dann erstmal dafür sorgt, dass diese Induktion optimiert wird.
+
+(0:01:31 - 0:02:00)
+Der Eisenkern konzentriert diesen magnetischen Fluss und so kann dann eben die Energie besser übertragen werden von der einen Seite auf die andere Seite. Hier ist es dann mal gezeigt, der magnetische Fluss in diesem Eisenkern, der jetzt von dem Wechselrichterstrom induziert wird. Jetzt gibt es eine Gegeninduktion, die wird im Grunde genommen hervorgerufen durch die primäre Wicklung, die wir jetzt hier sehen.
+
+(0:02:00 - 0:02:24)
+Und hier haben wir jetzt mehr Wicklungen. Hier wird es dann blau markiert, also hier haben wir nicht nur sechs Windungen oder Wicklungen, sondern hier haben wir deutlich mehr. Und das sorgt dann eben dafür, dass hier eine deutlich höhere Spannung am Ende induziert wird durch den magnetischen Fluss, als wir auf der Sekundarseite durch den Wechselrichter haben.
+
+(0:02:25 - 0:02:47)
+Die Spannung, die dann hier entsteht, das ist dann die primäre Spannung U1 und die wird dann in der Regel übertragen. Hier haben wir jetzt einen Freileitungsmast, also es ist dann meistens eine Mittelspannungseinspeisung, die wir haben. Also wir spannen dann von zum Beispiel 800 Volt hoch auf Mittelspannung und die Mittelspannung wäre dann hier die primäre Spannung U1.
+
+(0:02:51 - 0:03:18)
+Wir sehen jetzt hier auf dem Transformator dann auch nochmal gezeigt die Anschlüsse. U1 ist dann eben der Oberspannungsanschluss und U2 ist dann der Unterspannungsanschluss. Und das Induktionsgesetz, da wollen wir jetzt auch gar nicht allzu tief rein und um Gottes willen das gar nicht mathematisch zu tief gehen, zu sehr vertiefen, sondern wir wollen hier im Grunde genommen nur den Zusammenhang zeigen, wie kommen wir von U1 zu U2.
+
+(0:03:19 - 0:03:39)
+Und was dann dazwischen steht ist N, das ist die Anzahl der Windungen, multipliziert mit der Änderung des magnetischen Flusses, das ist das, was da im Eisenkern im Kreis lief, zum zur Änderung der Zeit. Das ist hier ein ganz wichtiger Zusammenhang. Am Ende stehen diese beiden Werte fest.
+
+(0:03:39 - 0:03:58)
+Am Ende ist das vielleicht noch gar nicht so entscheidend hier, aber das kommen wir gleich dazu. Das ist hier natürlich ein ganz wichtiger Punkt. Hier braucht man einen verändernden magnetischen Fluss und das würde bei Gleichstrom nicht funktionieren, weil da hätte man einen magnetischen Fluss, der konstant ist und der sich nicht permanent ändert.
+
+(0:03:59 - 0:04:16)
+Was haben wir jetzt hier in der Formel? Den magnetischen Fluss. Und der magnetische Fluss, der jetzt durch die Wicklung 1 fließt, ist genauso groß wie der magnetische Fluss, der durch die Wicklung 2 fließt. Das heißt, das ganze Thema hat hier gar keine große Auswirkung.
+
+(0:04:16 - 0:04:33)
+Und wir haben die Zeit, T1, die Zeit an der Primerwicklung ist genauso wie die Zeit an der Sekunderwicklung. Das heißt, magnetischer Fluss und Zeit sind hier gar nicht so relevant. Wir haben eben 50 Hertz und dadurch haben wir eben diesen verändernden magnetischen Fluss in einer gewissen Zeit.
+
+(0:04:34 - 0:04:45)
+Das ist dann eben das Resultat daraus. Man könnte diese beiden Punkte, die vorher genannt wurden, im Grunde genommen wegkürzen. Erforderlich ist ja einfach nur, dass wir eine Wechselspannung haben oder einen Wechselstrom.
+
+(0:04:46 - 0:05:20)
+Und das ist dann eben der Grund, warum wir Wechselstrom verwenden, weil in Zeiten, wo es noch keine Leistungselektronik gab, mit der man auch Gleichströme hochsetzen kann, hatten wir eben den Vorteil genutzt vom Wechselstrom, dass man den eben so gut transformieren kann und damit eben die Vorteile nutzen kann, die wir im ersten Kapitel, warum, schon beschrieben hatten. Jetzt haben wir hier nochmal den Zusammenhang aufgeschrieben. Also die Spannung ist dann proportional zur Wicklungsanzahl oder zu dem Unterschied der Wicklungen.
+
+(0:05:21 - 0:05:49)
+Das heißt, wenn man 10 Wicklungen Primär hat und 100 Wicklungen Sekundär, dann hat man hier ein Übersetzungsverhältnis von 10 und kann damit im Grunde genommen die Spannung hochtransformieren. Hier schreiben wir das nochmal auf, also U1 zu U2, also Primärspannung zu Sekundärspannung, ist dann gleich das Verhältnis der Wicklungen auf der Primärseite zu dem Verhältnis der Wicklungen auf der Sekundärseite. Das heißt, das Verhältnis ist hier wichtig.
+
+(0:05:50 - 0:06:27)
+Und wenn wir jetzt davon ausgehen, dass die Leistung auf der Primärseite genauso ist wie auf der Sekundärseite, das würde ich jetzt hier vereinfacht mal annehmen, wir vernachlässigen die Verluste, die wir da in so einem Transformator haben werden, die aber vernachlässigbar klein sind für unsere Betrachtung jetzt, dann wäre es eben auch so, dass der Strom auf der Sekundärseite zu dem Strom auf der Primärseite eben dann im umgekehrten Verhältnis stehen. Also die stehen dann zu den Wicklungen auf der Primärseite zu den Wicklungen auf der Sekundärseite. Also man erhöht im Grunde genommen die Anzahl der Wicklungen und reduziert dadurch den Strom.
+
+(0:06:30 - 0:06:56)
+Und das, daraus kann man sich jetzt auch nochmal ableiten, das Verhältnis zur Spannung zwischen Spannung und Strom, also U1 zu U2, ist dann das gleiche Verhältnis wie I1 zu I2. So, und jetzt wollen wir hier nochmal den Bogen schlagen zu den Verlusten. Das ist im Grunde genommen ein bisschen ähnlich wie in unserem Kapitel Warum.
+
+(0:06:56 - 0:07:16)
+Warum machen wir das? Hatten wir ja schon gesagt, es geht um Verluste. Und hier in unserem Transformator haben wir eine Primärseite mit einer Spannung von U1 und da haben wir eben ein Mittelspannungskabel zum Beispiel angeschlossen und eine Sekundärseite mit einer Spannung von U2. Da haben wir dann eben ein Niederspannungskabel angeschlossen.
+
+(0:07:16 - 0:07:36)
+Dazwischen steht jetzt genau dieser Transformator, der eben dafür sorgt, dass die Spannung hochgeht, der Strom geht runter und für die Verluste hat das dann natürlich nochmal eine besondere Auswirkung. Genau das gucken wir uns jetzt mal an und wir treffen erstmal eine Annahme. Das heißt, wir wollen eine Leistung übertragen von einem Megawatt.
+
+(0:07:36 - 0:07:51)
+Das ist für einen großen Solarpark eine übliche Leistung, würde ich jetzt mal sagen. Und wir betrachten jetzt hier mal ein Kabel mit einem Widerstand von einem Ohm. Das ist natürlich sehr vereinfacht, aber für die Betrachtung hier, für den Aha-Effekt später, sollte das in jedem Fall ausreichen.
+
+(0:07:53 - 0:08:12)
+So, wir wissen erstmal, wie wir einen einpoligen Strom von so einer Anlage jetzt berechnen können. Also, wir wissen, dass P, das ist ein Megawatt, und müssen das dann eben teilen durch die Spannung, multipliziert mal Wurzel 3. Und wir wissen auch, wie man Verluste berechnet. Da hatten wir schon in einem anderen Brain Day.
+
+(0:08:12 - 0:08:32)
+Die Verlustleistung ist 3 mal R mal I². Wenn wir uns das jetzt mal tabellenförmig hier aufschreiben wollen, wir würden jetzt im Folgenden die Spannung ein wenig variieren. Dann kommen wir bei einer Spannung von 1000 Volt, bei einer Leistung von einem Megawatt, dann auf einen Strom von 577,4 Ampere.
+
+(0:08:32 - 0:08:49)
+Das müsst ihr mir glauben, könnt ihr aber auch gerne nachrechnen. Und daraus würden jetzt Verluste reduzieren über diesen 1 Ohm Widerstand, die eben ungefähr 1000 kW groß sind. Jetzt haben wir den Transformator dazwischen.
+
+(0:08:49 - 0:08:57)
+Wir transformieren also hoch. Und wir nehmen jetzt mal an, dass der Kabelwiderstand immer noch der gleiche ist. Und die Leistung eben auch.
+
+(0:08:57 - 0:09:05)
+Aber die Spannung geht hoch. Wir verzehnfachen jetzt hier mal die Spannung. Das heißt, wir gehen auf 10.000 Volt, reduzieren dadurch die Ströme.
+
+(0:09:05 - 0:09:18)
+Die sind jetzt nur noch ein Zehntel. Und die Verluste, die errechnen sich jetzt eben zu 9,9 kW. Das ist erstmal hier ein besonderer Effekt, den wir hier natürlich sehen.
+
+(0:09:19 - 0:09:26)
+Geht aus dem I² hervor. Spannung verzehnfachen wir. Die Verluste werden aber nur noch ein Hundertstel groß sein.
+
+(0:09:27 - 0:09:42)
+Und wenn wir das jetzt weiterführen hier, wir verzwanzigenfachen mal die Spannung, dann kommen wir auf ein Vierhundertstel der Verluste. Und wenn wir sogar noch höher gehen, das kann man jetzt natürlich so weiterführen. Wir vervierzigfachen die Spannung, 40.000 Volt.
+
+(0:09:43 - 0:09:52)
+Dann gehen die Ströme natürlich noch weiter runter. Und die resultierenden Verluste sind dann nur ein Tausendsechshundertstel. Also deutlich weniger.
+
+(0:09:53 - 0:10:12)
+Der Unterschied zur Spannung, beziehungsweise das Verhältnis zwischen steigender Spannung und reduzierten Verlusten ist dann eben quadratisch. Hier steht es dann auch nochmal. Wir können diese Werte jetzt nochmal übernehmen, damit man das nochmal schöner sieht und sich dann vielleicht auch besser merken kann.
+
+(0:10:13 - 0:10:26)
+Hier in so eine Grafik mal eingefügt. Quadratische Verluste bedeuten ganz am Anfang, sobald wir die Spannung erhöhen, gehen die Verluste erst mal rapide runter. Das hilft uns natürlich sehr, um effizientere Solarparks zu bauen.
+
+(0:10:27 - 0:10:33)
+Und hinten raus bleibt natürlich immer noch ein Effekt da. Und wir reduzieren hier einfach unsere Verluste.

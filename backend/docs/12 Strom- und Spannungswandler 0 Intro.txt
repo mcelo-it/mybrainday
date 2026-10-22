@@ -1,0 +1,29 @@
+(0:00:00 - 0:00:09)
+Hallo und herzlich willkommen zum Brainday. Heute mit dem Thema Strom- und Spannungswandler. Wir starten direkt los.
+
+(0:00:10 - 0:00:18)
+Wir haben heute wenig Zeit zu verlieren. Wir haben ein großes Thema in zwei Stunden gepackt. Ihr kennt das, das ist immer etwas voll vielleicht.
+
+(0:00:18 - 0:00:31)
+Wir geben uns beste Mühe, euch die wichtigsten Inhalte rauszuziehen und haben euch das in eine Struktur gepackt mit sieben Kapiteln. Wir gehen es kurz durch. Wir starten heute mit dem Thema warum.
+
+(0:00:31 - 0:00:53)
+Warum brauchen wir überhaupt Strom- und Spannungswandler? Warum treffen wir uns heute hier? Danach schauen wir uns die beiden Themen getrennt an. Als erstes schauen wir uns die Stromwandler an, um danach in das Thema Spannungswandler zu springen. Beide sind sehr ähnlich strukturiert und beide beinhalten im Grunde genommen die gleichen Daten und Fakten.
+
+(0:00:53 - 0:01:05)
+Aber das Prinzip vom Stromwandler unterscheidet sich eben von dem eines Spannungswandlers. Das werdet ihr dann gleich feststellen. Dann tauchen wir mal ein in unsere 360-Grad-Tour.
+
+(0:01:05 - 0:01:17)
+Da seht ihr dann, wo diese Spannungswandler sich befinden. Wir schauen uns das wirklich im Detail an, klettern mal in so einen Kabelkeller rein und dann gibt es dazu auch ein paar Übungen. Danach kommen die Normen.
+
+(0:01:17 - 0:01:27)
+Haben wir heute ein bisschen weiter nach hinten geschoben. Liegt so ein bisschen daran, dass wir euch erst mal erklären wollten, was sind Stromwandler, was sind Spannungswandler. Was ist da der Unterschied, um dann erst in die Normen zu kommen.
+
+(0:01:27 - 0:01:41)
+Aber das ist sicherlich für viele auch hilfreich und interessant. Der Aufbau kommt dann noch. Und mit Aufbau meinen wir nicht den Aufbau eines Stromwandlers, sondern eher den Aufbau im Gesamtkonstrukt, zum Beispiel Übergabestation.
+
+(0:01:42 - 0:02:03)
+Wo befinden sich die Stromwandler? Wie sind sie vor allem dann auch verschaltet mit den entsprechenden Messgeräten, Schutzrelais und so weiter. Zum Schluss führen wir dann hier nochmal eine Live-Messung durch im Büro. Da speisen wir dann wirklich in die Stromwandler ein und schauen mal, was wir dann an so einem Schutzrelais oder an so einem Messgerät für einen Wert sehen.
+
+(0:02:04 - 0:02:12)
+Und den bewerten wir dann auch hinterher anhand von Übungen, ob das richtig ist. Wo können da die Fehler liegen? Wo verstecken sich die Fehler und so weiter.

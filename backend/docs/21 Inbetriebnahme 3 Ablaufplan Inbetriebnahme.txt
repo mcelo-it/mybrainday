@@ -1,0 +1,371 @@
+(0:00:00 - 0:00:33)
+Also, ab ins nächste Kapitel, den Ablaufplan einer Inbetriebnahme. Was meine ich genau damit? Also, wir haben uns sehr viele und sehr lange Gedanken darüber gemacht und wir haben entschieden, dass wir versuchen, so einen Inbetriebnahmeablaufplan in zwei Ebenen darzustellen. Was ich genau damit meine, erklärt sich, glaube ich, am besten, wenn wir einfach loslegen und es machen, nur versucht, kurze Beschreibung dazu vorab.
+
+(0:00:33 - 0:01:06)
+Einmal schauen wir uns an, wie solche Prüfprotokolle, Vorlagen, Bedingungen, Dokumente, die ich überhaupt für so eine Inbetriebnahme brauche, in einem zeitabhängigen Kontext entstehen. Also, auf gut Deutsch, wann erstelle ich eigentlich diese Unterlagen? Und dann machen wir das noch in einem zweiten Schritt. Also, dann löschen wir einfach alles noch mal und fangen noch mal mit den gleichen Unterlagen von vorne an und zeigen, in welchen Bedingungen denn im Kontext die zueinander stehen.
+
+(0:01:07 - 0:01:19)
+Also, welche Vorbedingungen ich immer brauche, damit ich überhaupt in den nächsten Schritt gehen kann. Wir fangen einfach mal an. Vorbedingungen wird jetzt erstmal ausgegraut, interessiert uns jetzt nicht, sondern wir gehen in die zeitabhängige Schiene.
+
+(0:01:20 - 0:01:41)
+Und zeitabhängig bedeutet, ich habe es oben als Zeitstrahl dargestellt, das sind jetzt Wochen oder Weeks oder wie auch immer. Und das ist jetzt völlig egal, ob das jetzt Woche eins ist oder ob wir im Sommer starten, das ist irrelevant. Es geht jetzt nur darum, dass ich finde, dann kann man sich das besser vorstellen, wenn man das einfach einem konkreten Beispiel zeigt.
+
+(0:01:41 - 0:02:00)
+Also, auch dass jetzt die einzelnen Phasen vielleicht bei euren Projekten völlig andere Dauer- oder Startzeitpunkte haben, mögt ihr mir bitte einfach nachsehen und müsst das dann eben auf euer Projekt dementsprechend anpassen. Ihr seht schon auf der linken Seite die verschiedenen Prüfpunkte. Wir fangen einfach mal an.
+
+(0:02:00 - 0:02:43)
+Ich glaube, dann wird es klar, was ich da eigentlich machen will. Ich fange an mit der Kennlinienmessung, genau, und überlege mir, ob mittig, seht ihr das jetzt, eingefügt eine Linie, ob die während der Modulmontage vielleicht schon realisiert werden kann oder vielleicht erst, wenn die TRAFO-Stationen installiert sind oder vielleicht, wenn meine Inbetriebnahme der Übergabestation stattfindet, oder erst mal, letzter Punkt, später werden es noch mehr, ob das noch später erst möglich ist, wenn nämlich meine Stationen und meine Wechselrichter in Betrieb sind. Also, ich habe meinen Zeitpfad eben so ein bisschen eingeteilt in so Meilensteine, könnte man es vielleicht nennen, die eben auch so nacheinander eigentlich meistens ablaufen.
+
+(0:02:44 - 0:02:50)
+Jetzt gucken wir uns das an mit meiner Kennlinienmessung. Also, diese erst mal ziemlich einfach. Die kann ich eigentlich immer machen.
+
+(0:02:51 - 0:03:10)
+Also, während der Modulmontage sind ja meinetwegen die ersten Strings dann schon fertig, dann kann ich da auch eine Kennlinienmessung machen. Das kann ich aber auch später machen, vielleicht jetzt schon mal für diese zweite Bedingungsphase einmal vorab als Beispiel genannt. Die Kennlinienmessung ist auch gar keine Vorbedingung für eine Inbetriebnahme von einer Übergabestation zum Beispiel.
+
+(0:03:11 - 0:03:23)
+Deswegen könnte ich sie, und genau das wollen wir hier zeigen, könnte ich sie auch noch später machen, wenn vielleicht die Wechselrichter in Betrieb gehen oder sogar noch später. Das erst mal so als einführendes Beispiel. Jetzt kommen die String-Mess-Protokolle.
+
+(0:03:23 - 0:03:36)
+Da wird es schon ein bisschen schwieriger, weil die kann ich natürlich auch machen, wenn sie installiert sind. Aber ich muss das gemacht haben, bevor meine Inbetriebnahme der Wechselrichter stattfindet. Deswegen endet das Ding jetzt mal ganz klar an dieser Stelle.
+
+(0:03:37 - 0:03:44)
+So geht es jetzt einfach weiter. Wir gucken uns das mit den DC-Hauptkabeln an, wenn es denn welche gibt. Und da wäre das gleiche Prinzip.
+
+(0:03:44 - 0:04:03)
+Also bevor ich die Wechselrichter in Betrieb nehme, muss ich die DC-Hauptkabel-Messprotokolle ausgeführt und überprüft haben. Wie sieht es bei den AC-Niederspannungskabeln aus? Lass mich mal selbst überraschen. Ja, im Grunde sehr ähnlich.
+
+(0:04:04 - 0:04:22)
+Da kann man aber erst starten, wenn die Trafo-Stationen installiert sind. Also es ist aus unserer Sicht jedenfalls sehr sinnhaft, weil wenn die Stationen noch nicht installiert sind, dann sind die Kabel mit Sicherheit noch nicht in der Endposition. Und dann würde man sie vielleicht vorprüfen.
+
+(0:04:22 - 0:04:37)
+Aber so eine finale Prüfung würde man dann noch nicht machen. Also da sieht man vielleicht jetzt endlich mal, warum wir eigentlich diese Darstellung so gewählt haben. Die Niederspannungskabel-Messung kann erst später starten und muss aber auch fertig sein, bevor wir Wechselrichter in Betrieb nehmen.
+
+(0:04:39 - 0:04:48)
+Jetzt kommen Lichtwellenleitermessungen. Das ist ein ganz anderes Thema. Aber auch das kann ich erst prüfen, wenn die Stationen stehen, weil sonst sind die LWL-Kabel noch gar nicht am Ende angekommen.
+
+(0:04:49 - 0:05:09)
+Und die kann ich aber, wenn es denn nicht anders geht, auch später noch messen. Da muss es eben nicht so sein, dass ich mit meiner Inbetriebnahme der Stationen warte und auch nicht der Wechselrichter, bis ich das Monitoring sozusagen geprüft in Betrieb genommen habe. Nachteil ist, die Wechselrichter sind dann nicht steuerbar.
+
+(0:05:09 - 0:05:18)
+Aber dann gibt es im einen Weg jetzt eine Übergangsphase, bis das auch funktioniert. Und dann könnte ich das im Notfall auch ein bisschen später noch machen. Die Mittelspannungskabel.
+
+(0:05:18 - 0:05:31)
+Die Mittelspannungskabel müssen vor der Inbetriebnahme der Übergabestation geprüft worden sein. Und jetzt habe ich dann noch so eine 24-Stunden-Prüfung mit reingenommen. Ich setze sie einfach auch schon mal gleich damit rein.
+
+(0:05:31 - 0:05:54)
+Was ich damit meine ist, oft sind bei großen Projekten die Mittelspannungskabel geprüft, lange bevor die Inbetriebnahme stattfindet. Und unserer Meinung nach ist es sehr sinnhaft, diese Kabelprüfung dann meinetwegen am Tag, deswegen 24 Stunden vorher oder auch zwei oder drei Tage vor der Inbetriebnahme nochmal zu prüfen. So eine Prüfung dauert je nach Anlagengröße vielleicht einen Tag.
+
+(0:05:55 - 0:06:06)
+Das ist es unserer Meinung nach wert. In den Monaten zwischen Kabelinstallation und Inbetriebnahme kann ja vielleicht nochmal ein Bagger irgendwo über ein Kabel gefahren sein. Und das will man dann unbedingt vorher nochmal rauskriegen.
+
+(0:06:06 - 0:06:19)
+Deswegen diese Unterscheidung. Also die 24-Stunden-Prüfung, so nennen wir die, die findet, wenn man so will, auf der Linie statt, also am Tag vor der Inbetriebnahme. Eine Thermografie, die schiebe ich mal nach hinten rein.
+
+(0:06:20 - 0:06:39)
+Das ist für uns nicht so relevant und kann ja vor allem auch erst gemacht werden, wenn die Anlage in Betrieb ist. Sonst habe ich ja gar keine Erwärmung meiner Komponenten. Die Stationserdung, ganz wichtig, kann erst gemacht werden, wenn die TRAFOs fertig installiert sind.
+
+(0:06:40 - 0:06:51)
+Sonst macht die Erdungsmessung im Kontext keinen Sinn. Und sie muss unbedingt fertig sein, bevor meine Stationen in Betrieb genommen werden. Wir haben mit und ohne Unterkonstruktion hingeschrieben.
+
+(0:06:51 - 0:07:01)
+Das ist immer ein kleines Thema. Ich würde sagen, macht einfach beides. Also einmal den Erdungsring mit Verbindung in die Unterkonstruktion, weil so wird es ja später sein.
+
+(0:07:01 - 0:07:18)
+Aber auch einmal ohne diese Verbindung einfach frei stehen prüfen, halten wir für sinnvoll. Die Unterkonstruktion hat eine Durchgangsmessung. Das heißt zum Beispiel von Reihe zu Reihe, aber eben auch von Tisch zu Tisch prüfen vor der Inbetriebnahme der Stationen und der Wechselrichter.
+
+(0:07:18 - 0:07:24)
+Unbedingt machen. Und na ja, die Modulmontage muss ja abgeschlossen sein. Sonst kann man diese Tischreihen ja gar nicht prüfen.
+
+(0:07:25 - 0:07:35)
+Beim Wechselrichter ist es das Gleiche. Auch da nochmal darauf hingewiesen. Ich nehme einen Wechselrichter nicht in Betrieb, wenn ich nicht vorher geprüft habe, ob er denn ausreichend geerdet ist.
+
+(0:07:35 - 0:07:47)
+Mache ich nicht und deswegen endet diese Linie genau an der Stelle. Wenn es solche Sammelkästen gibt für die Strings, ist es das gleiche Prinzip. Man muss sie natürlich erst messen und dann in Betrieb nehmen.
+
+(0:07:48 - 0:07:58)
+Und dann haben wir hier noch eine Richterbestätigung, eine Trafostation. Die kommt immer mitgeliefert vom Stationslieferanten. Auch bei der Übergabestation ist es im Grunde das Gleiche.
+
+(0:07:58 - 0:08:10)
+Deswegen startet diese Linie schon viel früher. Das liegt ja meistens schon bei der Auslieferung vor. Aber sie muss eben auch vorliegen, bevor ich die Station in Betrieb nehme.
+
+(0:08:12 - 0:08:25)
+So, jetzt schiebe ich den ganzen Zeitstrahl nach rechts. Ich hoffe, das helfen jetzt diese Wochenangaben oben, um dem Ganzen ein bisschen folgen zu können. Und ich kann da auch gerne wieder eingeblendet werden.
+
+(0:08:25 - 0:08:44)
+Das wirkt immer so ein bisschen persönlicher, aber ich glaube, ich brauche das unten gar nicht. Also, jetzt haben wir den ganzen Zeitstrahl nach rechts geschoben. Und blenden einfach aus, was bisher geschah, und holen uns weitere Prüfpunkte mit rein.
+
+(0:08:44 - 0:08:54)
+Das waren jetzt vielleicht 15 oder so. Ich habe insgesamt 40 mitgebracht, nur dass ihr wisst, was da jetzt noch passiert. Ich glaube, ich kann jetzt ein bisschen zügiger werden, weil jetzt die Grundlogik klar ist.
+
+(0:08:54 - 0:09:07)
+Nichtsdestotrotz, ich finde, wenn man selber dann mal so einen Plan erstellen will, muss man ja wirklich sich für jeden Punkt einzeln überlegen, wann man den denn setzt. Das kann man nicht einfach kopieren, pasten. Checkliste Wechselrichter.
+
+(0:09:07 - 0:09:22)
+Also, sind die alle die Drehmomente richtig angezogen? Ist die Beschriftung richtig? Solche Sachen werden in solchen Checklisten abgefragt. Das machen wir, bevor wir die Wechselrichter in Betrieb nehmen. Dann die Checkliste der Transformatorstationen.
+
+(0:09:22 - 0:09:35)
+Gleiches Prinzip muss auch vorliegen. Ein Zuschaltkonzept. Das bezieht sich meinetwegen vor allem auf die Mittelspannung, aber auch bei der Niederspannung muss man sich mal vorher überlegen, welchen Knopf man zuerst drückt.
+
+(0:09:35 - 0:09:45)
+Also so eine Reihenfolge beschreiben, das meinen wir mit Zuschaltkonzept. Sehen wir nach in den anderen Kapiteln dann noch mal ganz genau. Da bauen wir gemeinsam eins auf.
+
+(0:09:45 - 0:09:58)
+Aber dieses Zuschaltkonzept muss vor der Inbetriebnahme der Übergabestation vorliegen, sonst macht das keinen Sinn. Jetzt kommt der Empfang des Routers. Das ist dann später für den Festnetzanschluss das gleiche Prinzip.
+
+(0:09:58 - 0:10:07)
+Das ist dann später fürs Monitoring ganz, ganz wichtig. Und das würde ich unbedingt aber mal am Anfang prüfen. Das ist vielleicht keine Grundbedingung für so einen Netzbetreiber.
+
+(0:10:07 - 0:10:27)
+Das mag nicht unbedingt so sein. Das ist aber extrem hilfreich für euch in der Abwicklung, weil sobald das da mal vor Ort richtig losgeht, macht es einfach viel mehr Spaß, wenn man am Telefon sozusagen seine Kollegen in der Leitwarte hat und die einen da parallel unterstützen können. Und das geht ja immer nur, wenn die ausreichend guten Internetanschluss haben.
+
+(0:10:27 - 0:10:34)
+Also teste diesen Router gleich mal am Anfang. Dann gibt es ein Bittestprotokoll. Das hatte ich vorhin schon genannt.
+
+(0:10:34 - 0:10:56)
+Das ist auch hier sozusagen am Start der Übergabestation zwingend erforderlich. Ein Schutzreleeprüfprotokoll der Achtung Trafostation auf der Mittelspannungsseite ist beides wichtig. Also auch da wieder, wenn einer zu mir sagt, brauche ich die Schutzprüfprotokolle, dann frage ich noch mal nach, welche er denn genau meint.
+
+(0:10:56 - 0:11:17)
+Also sagen wir mal, in der Trafostation auf der Mittelspannungsseite gibt es welche. Dann müssen die vorliegen, bevor die Stationen in Betrieb gesetzt werden. Und auf der Niederspannungsseite, wir haben es jetzt hier parallel eingezeichnet, ihr werdet es aber später sehen, braucht man sie im Grunde einen kleinen Schritt später erst, wenn man dann auch die Niederspannungsseite in Betrieb nehmen will.
+
+(0:11:18 - 0:11:41)
+Also gibt es zwei Seiten in der Trafostation und die Mittelspannung brauche ich ein bisschen vorher als die Niederspannungsprotokolle. Ich mache mir Sensor-Checklisten, also es sind die Einstrahlungssensoren an der richtigen Stelle. Ist der Winkel richtig? Haben wir auch in der ganzen Lernmodul, haben wir uns das sehr, sehr kleinteilig angeguckt, wie so eine Checkliste meiner Sensoren so aussieht.
+
+(0:11:41 - 0:12:06)
+Und da habe ich ein bisschen mehr Zeit, weil die Prüfung, die Betriebnahme des Monitorings erfolgt sinnerweise erst nach den Trafostationen, sonst habe ich nämlich hier keinen Zugang zu meinen Datenloggern. Also passiert das nun mal erst später. Aber wichtig finde ich an der Stelle auch wieder, weil ich sehe oft, dass es nicht gemacht wird, die Checklisten selbst, die sollen vorher bereit liegen.
+
+(0:12:06 - 0:12:29)
+Es ist einfach die Logik einer Checkliste, dass man sie macht, bevor man das jeweilige Bauteil dann schlussendlich in Betrieb nimmt. Also deswegen endet das vor der Inbetriebnahmemonitoring. Einstellprotokoll der Wechselrichter, das ist meistens so, diese Wechselrichter werden dann vielleicht noch mal über den Online-Zugang oder über den Laptop vor Ort noch mal feinjustiert.
+
+(0:12:29 - 0:12:40)
+Das macht Sinn, vor allem, wenn es viele sind. Und deswegen macht man das während der Inbetriebnahme der Wechselrichter. Die Datenpunktliste, da gibt es auch eine super Schulungseinheit dazu.
+
+(0:12:40 - 0:12:54)
+Die selbst hat ja wahrscheinlich schon 40, 50 Prüfpunkte. Die prüfe ich dann noch mal in aller Ruhe, meistens einer vor Ort, einer aus der Leitwarte, während der Inbetriebnahme des Monitorings. Also zeitlich erst mal deutlich später.
+
+(0:12:55 - 0:13:00)
+Und jetzt kommt hier noch mein Parkregler. Genau, der ist hier. Das passt schon so, da bleibe ich einfach hier drin.
+
+(0:13:01 - 0:13:19)
+Der Parkregler, der wird erst danach noch mal geprüft. Ja, ich sage es lieber einmal noch dazu. Der Parkregler selbst kann ja nur sinnhaft funktionieren, wenn das gesamte Monitoringsystem funktioniert.
+
+(0:13:20 - 0:13:40)
+Das heißt, ich kann meinen Parkregler erst eben, wie man hier, finde ich, jetzt mal sehr schön sieht, ganz am Ende prüfen. Jeder, der das mal irgendwie am Anfang schon machen will, der wird feststellen, das bringt einfach nichts, weil die Wechselrichter vielleicht die Führungsgröße vom Parkregler gar nicht kriegen. Und dann, na ja, dann macht der Test sozusagen keinen Sinn.
+
+(0:13:41 - 0:13:57)
+Der Direktvermarkter, der ist auch ganz da hinten, wir haben es genannt, nach kompletter Inbetriebnahme sozusagen. Also auch der Direktvermarkter kann seine Prüfung erst ganz am Schluss durchführen. Die dritte Seite, und ich glaube, das ist auch die letzte, die wir jetzt hier mitgebracht haben.
+
+(0:13:58 - 0:14:09)
+Eine Topologietabelle, also Auflistung aller Seriennummern, aller Arten der Einheiten, die da so verbaut sind. Das ist bei großen Projekten, sind das riesige Listen. Das dauert sehr lange, die zu füllen.
+
+(0:14:09 - 0:14:18)
+Da hat man am Anfang, finden wir, sehr viel Zeit. Während der Bauphase macht man das, aber die muss fertig sein zur Inbetriebnahme. Sonst schwimmt man im Zweifel während der Inbetriebnahme.
+
+(0:14:18 - 0:14:37)
+Wenn ja dann doch vielleicht mal ein Wechselrichter defekt ist, dann muss diese Liste existieren, damit ich mit der Seriennummer sofort zuordnen kann, welcher das ist. Und dann kann ich auch gleich irgendwie einen Mangel anzeigen. E5, diese Bögen kommen also aus der 4110, der Inbetriebssetzungsauftrag vor der Inbetriebnahme der Übergabestation.
+
+(0:14:38 - 0:14:50)
+Das haben wir vorhin bei der 4110 auch so gesagt, stand da auch so drin. Jetzt hier nur noch mal in einer anderen Darstellung. Beim Erdungsprotokoll der Übergabestation ist es das Gleiche.
+
+(0:14:50 - 0:15:10)
+Vor der Inbetriebnahme der Übergabestation muss das vorliegen. Der Einbaubeleg auch, auch ein hitziges Thema, weil, ich habe ja gerade gesagt, die Fernwirktechnik und auch der Direktvermarkter können sinnhaft erst testen, viel weiter rechts, also da über mir, nach der Inbetriebnahme. Sonst können die gar nicht testen.
+
+(0:15:10 - 0:15:37)
+Aber der Einbaubeleg selbst, also der Nachweis, dass ich einen beauftragt habe, dass ich eine Box dazu eingebaut habe, dass die Komponenten vor Ort sind, den muss ich vorher schon einreichen. Sonst sagt im Zweifel der Netzbetreiber, dass er das eben nicht gut findet, weil du brauchst es doch eh. Warum ist es denn noch nicht verbaut? Inbetriebssetzungsprotokoll für die Übergabestation, das macht man dann während der Inbetriebnahme der Übergabestation selbst.
+
+(0:15:39 - 0:15:51)
+Stringsammelkästen haben wir auch eine Checkliste mit eingebaut. Und eine Zähleranlaufprüfung machen wir. Vielleicht hier wird nochmal schön deutlich, warum wir das so darstellen, wie wir es darstellen.
+
+(0:15:51 - 0:16:17)
+Das passiert jetzt also alles so ein bisschen nacheinander. Und wenn jetzt der Projektleiter oder der Kunde aufgeregt, bei mir als Beispiel, in der Woche 21 sagt, ja, wo ist denn die Zähleranlaufprüfung? Dann kann ich so eine Vorlage rausholen und ihm in Ruhe erklären, dass ich das jetzt nicht für sinnhaft halte, weil wir brauchen doch erstmal eine Einspeisung der Wechselrichter. Sonst kann ich ja gar nicht richtig gucken, ob der Zähler richtig funktioniert.
+
+(0:16:17 - 0:16:27)
+Deswegen nach dieser dritten grünen Linie sozusagen. Jetzt kommt ein Unterschied in Betriebssetzungserklärung EZE und EZA. Und ich bin gespannt, ob wir es richtig gemacht haben.
+
+(0:16:28 - 0:16:40)
+Also die EZE, das mache ich über Wochen während der Inbetriebnahme meiner Wechselrichter. Und die EZA, ja, die mache ich dann eben am Ende. Das dauert dann vielleicht nur noch einen Tag, um dann das nochmal gesammelt auszuführen.
+
+(0:16:42 - 0:16:52)
+Fotodokumentation mache ich meinetwegen auch während der Installation. Aber jetzt haben wir es gesagt danach, weil dann ist nun wirklich alles fertig. Sonst ändert sich im Zweifel nochmal eine Beschriftung oder so.
+
+(0:16:52 - 0:17:08)
+Mein Probebetrieb findet nach der Inbetriebnahme statt. Meine Errichterbestätigung setze ich nach der Inbetriebnahme. Und jetzt auch Konfirmitätserklärung und Betriebserlaubnisverfahren, sowohl E16 als auch E17, den Unterschied erklären wir in einer anderen Einheit.
+
+(0:17:08 - 0:17:33)
+Also alle diese Unterlagen, diese vier, die ich jetzt relativ schnell da eingeblendet habe, die kommen eben alle erst nach der kompletten Inbetriebnahme, also sowohl Übergabestationen als auch Stationen, als auch Wechselrichter, als auch Monitoring. Alles muss in Summe in Betrieb genommen sein. Erst dann kann ich sinnhaft eine Errichterbestätigung schreiben, eine Konfirmitätserklärung erstellen lassen.
+
+(0:17:33 - 0:17:56)
+Und auch danach wiederum kann ich erst ein Betriebserlaubnisverfahren erhalten vom Netzbetreiber. So, meine Zeitabhängigkeit ist jetzt durch. Und jetzt verspreche ich, dass das im zweiten Schritt, also hier bei den Vorbedingungen, deutlich einfacher ist.
+
+(0:17:56 - 0:18:20)
+Ich wollte nur unbedingt vermitteln, dass man das, was wir jetzt gerade gemacht haben, auch noch mal in einem anderen Zusammenhang darstellen kann. Es gibt, jeder Projektleiter hat das, Projektmanagement-Tools, die beides gleichzeitig machen, also sowohl eine Zeitschiene darstellen als auch die Vorbedingungen, die Verknüpfungen der einzelnen Arbeitsschritte darstellen. Wir wollten das nicht.
+
+(0:18:20 - 0:18:34)
+Erstens ist das in PowerPoint ziemlich aufwendig. Aber vor allem, finde ich, wird es dann wirklich unübersichtlich. Ich glaube, so wie ich es gerade gemacht habe, war es eigentlich sehr übersichtlich.
+
+(0:18:34 - 0:18:42)
+Und das, was ich jetzt zeige, ist es auch. Aber wenn man beides gleichzeitig macht, wird es wirklich schwierig zu lesen. Da braucht man dann sehr viel Übung.
+
+(0:18:43 - 0:18:55)
+Und deswegen haben wir das hier aufgetrennt. Wenn man beides für sich einzeln greift, dann kann man ja im Kopf wie so eine Matrix das zusammenschieben. Also, wieder die gleichen.
+
+(0:18:55 - 0:18:59)
+Ich glaube, es sind um die 40 Punkte. Da seht ihr sie jetzt mal alle zusammen. Es sind wieder genau die gleichen.
+
+(0:18:59 - 0:19:09)
+Also da haben wir jetzt nichts Neues reingeschoben. Die kann man jetzt nicht lesen, das ist mir klar. Aber was wir jetzt machen, ist, wir starten einfach mal mit der Inbetriebnahme des Netzanschlusses.
+
+(0:19:09 - 0:19:26)
+Ihr erinnert euch, das war der allererste Schritt. Und jetzt fragt mich der Projektleiter, was brauchen wir für diesen allerersten Schritt? Und die Liste, die ich gerade gezeigt habe, die sortiere ich jetzt in einer anderen Logik. Achtung, ich mache das mal hier in der gleichen Farbe markiert.
+
+(0:19:26 - 0:19:41)
+Und jetzt rausgesumt sind es nur der E5, der E6 und der E7. Also für den ersten Schritt, die Inbetriebnahme des Netzanschlusses. Ihr erinnert euch, das ist was anderes, als die Inbetriebssetzung der Übergabestation.
+
+(0:19:41 - 0:20:20)
+Brauche ich nur diese drei Dokumente. Wenn man das so kleinteilig in so einem Startgespräch für die Inbetriebnahme darstellt, glaube ich, schafft man es von Anfang an, Missverständnisse zu vermeiden, die ja bei so vielen Wortwendungen, die hier verwendet werden, ganz leicht auftreten. Also jetzt noch mal gehighlighted, wenn jemand in Zukunft, der hier zugehört hat, zu mir sagt, was brauche ich für die Inbetriebnahme? Dann verweise ich als allererstes bitte jetzt auf dieses Video, dieses Kapitel, das er sich noch mal anschaut, weil das so aus meiner Sicht nicht möglich ist zu beantworten.
+
+(0:20:20 - 0:20:33)
+Sondern er muss die einzelnen Teilschritte der Inbetriebnahme definieren. Also Inbetriebnahme, Netzanschluss. Und dann kann ich ihm sagen, welche Prüfpunkte, welche Protokolle, welche Unterlagen Voraussetzung dafür sind.
+
+(0:20:34 - 0:20:39)
+Diese drei für den Netzanschluss. Wir machen mal weiter. Also die haben wir jetzt schon.
+
+(0:20:39 - 0:21:01)
+Und jetzt, wer ganz aufmerksam zugeguckt hat, sieht, dass meine Gesamtliste jetzt auch kleiner geworden ist. Ich habe die jetzt, mein Kollege war es, in einer akribischen Kleinarbeit jetzt hier mal rausgenommen, damit sie für den nächsten Schritt, Achtung, die Inbetriebssitzung der Übergabestation, nicht auch noch drin liegt. J01 ist jetzt am Netz.
+
+(0:21:02 - 0:21:20)
+Was brauche ich, um meine Übergabestation jetzt weiter in Betrieb setzen zu dürfen? Drei Stück sind es. Ich zoome sie raus. Einmal die Schutzrelais-Prüfprotokolle der Übergabestation, das BIT-Test-Protokoll und den Einbaubeleg Fernbeugtechnik.
+
+(0:21:20 - 0:21:25)
+Einbaubeleg. Wir können das Ding noch nicht prüfen, aber wir weisen nach. Wir haben es bestellt.
+
+(0:21:25 - 0:21:28)
+Es wurde geliefert. Es ist eingebaut. Wir sind bereit.
+
+(0:21:30 - 0:21:41)
+Nächster Schritt. Als Nächstes können wir von der Übergabestation aus die Mittelspannungslinie zuschalten. In meinem Beispiel später werdet ihr das auch noch mal genauer sehen.
+
+(0:21:41 - 0:21:51)
+In so einem Schema, das wir gezeichnet haben, das können jetzt drei Stationen sein. Das kann auch vielleicht nur eine Station sein in der Mittelspannung. Bei großen Projekten können das noch deutlich mehr sein.
+
+(0:21:52 - 0:22:08)
+Also von der Übergabestation, da gibt es jetzt erst mal nur eine, können eine Vielzahl von Transformatoren über eine Mittelspannungslinie miteinander verbunden sein. Und jetzt nur, um diese Linie weiter in Betrieb nehmen zu können, brauche ich folgende Dokumente. Ich zoome rein.
+
+(0:22:09 - 0:22:28)
+Die 24-Stunden-Prüfung. Also ich habe jetzt am Tag vorher noch mal geprüft, damit ich sicher sein kann, dass in den letzten Wochen nicht doch noch mal irgendwo bei irgendwelchen Bauarbeiten im Feld der Bagger ein Kabel beschädigt hat. Ich brauche jetzt meine Stationserdungsprotokolle.
+
+(0:22:29 - 0:22:38)
+Das von der Übergabestation brauchte ich vorher schon. Aber das für die Trafostation, das brauche ich erst jetzt. Und vielleicht ist das ja, haben wir ja gesehen in unserem Zeitstrahl, vielleicht ist das ja jetzt erst ein paar Wochen später.
+
+(0:22:38 - 0:22:45)
+Dann habe ich ja noch ein bisschen Zeit gehabt. Die Errichterbestätigung der Trafostation. Mein Zuschaltkonzept brauche ich spätestens jetzt.
+
+(0:22:46 - 0:22:57)
+Und auch noch mal die Checkliste Trafostation. Also überall sind Schlösser verbaut, die Türen schließen richtig und die Beschriftung ist dran. Jetzt habe ich meine Mittelspannungslinien in Betrieb genommen.
+
+(0:22:57 - 0:23:13)
+Im nächsten Schritt würde ich vorschlagen, schalten wir mal die Transformatoren einzeln zu. Da brauche ich tatsächlich nur eins, habe ich mir in meiner Liste so überlegt, und zwar das Schutzrelaisprüfprotokoll jetzt der Trafostation Mittelspannung. Also der Übergabestation, das meine ich nicht.
+
+(0:23:13 - 0:23:20)
+Und ich meine auch nicht die Niederspannungsschutzrelais. Dass man die jetzt haben kann, ist schön. Das wird auch meistens so sein.
+
+(0:23:21 - 0:23:39)
+Aber wenn ich es wirklich jetzt eben so akribisch mal in der Vorbedingung darstellen möchte, dann brauche ich die jetzt erst mal gar nicht. Sondern wenn ich mein Trafo zuschalten will, dann brauche ich eben das Schutzprüfprotokoll, wenn man so will, des Transformators. Und das ist auf der Mittelspannungsseite im Abgangsfeld vom Transformator.
+
+(0:23:41 - 0:23:57)
+Es wird weniger, es wird weniger. Jetzt seht ihr, habe ich den Folgepfeil nicht vergessen, sondern das ist Absicht. Das ist Absicht, weil die DC-Seite ist aus unserer Sicht entkoppelt von der AC-Seite.
+
+(0:23:57 - 0:24:05)
+Was wir jetzt gemacht haben, war ja immer nur AC. Ob Mittelspannung oder Niederspannung, ist gar nicht so relevant. Aber das kommt immer vom Netz.
+
+(0:24:05 - 0:24:13)
+Wenn ich mein Netz nicht habe, dann habe ich auch keine AC-Spannung. Bei der DC-Seite ist es natürlich anders. Die ist ja nun mal getrieben von der Sonne.
+
+(0:24:14 - 0:24:27)
+Das ist ja sozusagen die Grundlogik unseres Aufgabenfeldes. Und da ist es jetzt wichtig zu verstehen, dass das unabhängig passieren kann. Ich versuche ja, parallele Arbeitsschritte optimiert ablaufen zu lassen.
+
+(0:24:27 - 0:24:38)
+Und das wäre jetzt eben so einer. Also pass auf, ich habe es mir so überlegt, ich brauche meine Wechselrichter. Und damit ich da auf der DC-Seite, das ist ganz wichtig, die haben meistens so einen Trennschalter auf der DC-Seite.
+
+(0:24:39 - 0:24:49)
+Damit ich da einschalten darf, brauche ich die String-Messprotokolle. Ich brauche die Hauptkabelprotokolle, wenn es denn welche gibt. Ich brauche die Durchgangsmessung der Unterkonstruktion.
+
+(0:24:49 - 0:25:02)
+Jetzt brauche ich das erst. Also bei meinen Transformatoren brauchte ich das eigentlich noch nicht wirklich, weil das Erdungsprinzip der Unterkonstruktion für die Trafostation nicht relevant ist. Diesen Kontext zu greifen, finde ich, ist die Idee dieser Darstellung hier.
+
+(0:25:02 - 0:25:15)
+Also jetzt brauche ich meine Erdungsprotokolle von der Unterkonstruktion, vom Wechselrichter, wenn es String-Sammelkästen gibt, von denen auch. Und meine Checklisten vom Wechselrichter. Und jetzt schon weniger.
+
+(0:25:16 - 0:25:33)
+Meine String-Sammelkästen, genau, das ist ein ähnliches Prinzip, blende ich jetzt ein. Wenn ich denn welche habe, das ist halt projektspezifisch. Aber wichtig ist für mich, ihr habt jetzt die Protokolle gesehen, die ich brauche, um diese Einheiten hier schon mal autark in Betrieb nehmen zu können.
+
+(0:25:34 - 0:25:51)
+Das heißt, ihr werdet jetzt keine Energie erzeugen. Das geht nicht, weil zwischen Wechselrichter und Trafostation noch keine physische Verbindung besteht. Aber diese zwei einzelnen Systeme sind jetzt schon mal autark, parallel, von verschiedenen Teams, vielleicht zeitgleich in Betrieb genommen worden.
+
+(0:25:51 - 0:26:00)
+Das zu steuern, ist kompliziert. Und deswegen hoffe ich, hilft das, wenn man das mal so ein bisschen aufschreibt. Wir haben es extra hingeschrieben, DC, DC-Seite.
+
+(0:26:02 - 0:26:07)
+Ah ja, da war unser String-Sammelkästen. Okay, alles klar. Wir machen weiter, wir machen weiter.
+
+(0:26:08 - 0:26:18)
+Jetzt sind wir wieder beim Transformator. Und jetzt haben wir da auf der Niederspannungsseite NH-Sicherungen verbaut. Und dann sage ich, jetzt wird es auch mal an der Zeit, die einzusetzen.
+
+(0:26:18 - 0:26:40)
+Wir machen das hier absichtlich so, dass das erst jetzt passiert. Also das hat vielleicht auch im Projektablauf jemand schon mal ein bisschen vorher gemacht. Aber wir haben es hier deshalb gemacht, weil uns wichtig ist, diese NH-Sicherungen stellen eine sinnhafte Trennstelle während der Bauphase dar.
+
+(0:26:40 - 0:26:47)
+Wir würden die Sicherungen nicht einlegen, wenn die Trafostationen gleich geliefert werden. Machen wir nicht. Dann hat man da noch mal, da braucht man sie noch nicht.
+
+(0:26:47 - 0:26:58)
+Da hat man da noch mal eine sehr, sehr saubere und klare und auch visuell sichtbare Trennstelle. Also diese NH-Sicherungen sind alle raus und die Trenner sind irgendwie alle geöffnet. Aber jetzt, jetzt brauchen wir sie.
+
+(0:26:58 - 0:27:18)
+Also alle Sicherungen einsetzen. Und damit man das macht, also einsetzen und schließen, braucht man die Niederspannungsmessprotokolle der Kabel. Wenn man jetzt die, jetzt kann man die Wechselrichter einschalten.
+
+(0:27:18 - 0:27:25)
+Jetzt geht das überhaupt. Also je nach Wechselrichtertyp, darauf will ich jetzt überhaupt nicht hinaus. Da muss man natürlich in der Bedienungsanleitung lesen, wie das dann auch wirklich geht.
+
+(0:27:25 - 0:27:40)
+Wir haben das jetzt übergeordnet genannt, dass man die, Entschuldigung, da muss ich noch mal neu starten. Jetzt kommt als nächstes das Einschalten des Niederspannungsleistungsschalters. Das Einschalten des Niederspannungsleistungsschalters in der Trafostation.
+
+(0:27:40 - 0:28:04)
+Dafür brauche ich jetzt endlich das Schutzreleeprüfprotokoll auf der Niederspannungsseite und spätestens jetzt sagen wir auch die Topologietabelle. Und warum haben wir es so rum gemacht? Die NH-Sicherung ist für uns nicht sinnhaft für das tatsächliche Zuschalten der Wechselrichter, sondern der Leistungsschalter ist dafür gebaut. Der kann auch, der erkennt den Fehler ja im Zweifel auch und würde dann auch abschalten.
+
+(0:28:04 - 0:28:27)
+Der ist einfach dafür gemacht, dass wenn irgendwie ihr auf einen Fehler schaltet und bei der ersten Inbetriebnahme ist das ja durchaus möglich, trotz aller Prüfungen, dann ist es sinnhaft dazu, den Leistungsschalter benutzt zu haben, weil der öffnet sich dann wieder. Der ist, wie gesagt, genau für solche Fehler konzipiert worden. So, jetzt gehen die Wechselrichter in Betrieb.
+
+(0:28:28 - 0:28:37)
+Ich habe also die Sicherung drin, den Niederspannungsleistungsschalter auch eingeschaltet. Jetzt sieht der Wechselrichter erstmalig AC-Spannung. Die sind ja alle netzgesteuert.
+
+(0:28:37 - 0:29:03)
+Das heißt, jetzt sieht er das Netz und das ist doch erst mal wunderbar. Wenn der jetzt auch richtig schön in Betrieb geht und ich dann auch im Monitoring sehe, dann kann ich jetzt hier meine E10 und meine E11 machen. Und, ganz wichtig, als Variante 1 dargestellt, kann ich jetzt auch, Achtung, hier kommt so ein Pfeil, habt ihr gesehen, mittig, lila, jetzt, jetzt, jetzt, jetzt greift die Verbindung zwischen der DC-Seite und der AC-Seite.
+
+(0:29:03 - 0:29:19)
+Also jetzt erstmalig haben wir sozusagen wirklich das ganze System in Betrieb genommen, aber wir haben es halt von zwei Seiten aus gemacht. Einmal die DC-Seite in Betrieb genommen und vom Netz aus die AC-Seite aus in Betrieb genommen. Ich habe es hingeschrieben, zwei Varianten.
+
+(0:29:20 - 0:29:34)
+Dann zeige ich auch sehr sinnhafter Weise gleich die zweite Variante. Also die erste Variante wäre gewesen, meine DC-Systeme sind schon eingeschaltet. Achtung, sie sind schon eingeschaltet, wenn ich den Niederspannungsleistungsschalter zuschalte.
+
+(0:29:34 - 0:29:55)
+Also DC-Completto und jetzt mache ich den Niederspannungsleistungsschalter und dann würden jetzt im Zweifel 10, 20 Wechselrichter schon richtig hochfahren. Die sehen dann AC ist da, DC ist da und los geht's. Eine andere Philosophie ist, ich mache erst den Niederspannungsleistungsschalter rein, die Wechselrichter sind AC bereit und dann schalte ich die DC-Seite ein.
+
+(0:29:56 - 0:30:09)
+Achtung, lese dazu bitte die Bedienungsanweisung. Das ist immer unterschiedlich, je nachdem, wie die Wechselrichterhersteller das so sehen. Meiner Erfahrung nach können das auch die Projektleiter, die Bauleiter oder der Kunde unterschiedlich sehen.
+
+(0:30:09 - 0:30:25)
+Ich kenne beides und deswegen haben wir beide Varianten dargestellt. So, letzter Punkt in dieser Logik hier. Mein Inbetriebnahmemonitoring kommt jetzt tatsächlich in einem Diagramm nochmal von zwei Seiten.
+
+(0:30:25 - 0:30:55)
+Ich wollte es mal ein bisschen komplizierter machen, aber ich hoffe, es ist gelungen zu zeigen, dass jetzt meistens immer nur eine Linie da war und jetzt sind es einfach mal zwei. Weil mein Inbetriebnahme des Monitorings macht aus meiner Sicht erst nur dann Sinn, wenn sowohl der Trafo zugeschaltet ist, dann sind meistens die Spannungsversorgung da, das LWL-System funktioniert, die Datenlogger sind da, das Internet funktioniert dann sozusagen bis in die Trafostation rein. Aber ohne die Wechselrichter in Betriebnahme macht so ein Inbetriebnahmemonitoring ja auch eigentlich noch gar keinen Sinn.
+
+(0:30:55 - 0:31:20)
+Dann kommen die Sensoren durch die Trafostation dazu, aber der Wechselrichter ist ja nun mal der Kern meiner Fernregelung meines Monitorings und der kommt eben erst jetzt dazu. Deswegen kommt das von zwei Seiten. Da sind sie alle Monitoring-relevanten Themen, LWL-Messung, Routerempfang, Sensoren, Prüfung direkt vom Markter, Datenpunktliste, Einstellprotokolle der Wechselrichter.
+
+(0:31:20 - 0:31:40)
+Also die brauche ich im Grunde jetzt erst. Dass ich so ein LWL früher geprüft habe, finde ich super, dann brauche ich ja jetzt nicht mehr mich darum kümmern, aber nun wirklich für die Inbetriebnahme des Monitorings relevant wäre es erst jetzt. So, und jetzt kommt die, ich meine, ich habe sie intern Resterampe genannt.
+
+(0:31:40 - 0:32:08)
+Wenn ich jetzt meinen Probebetrieb starte und irgendwann beendet habe erfolgreich, also alles, was jetzt noch nach der Inbetriebnahme des Monitorings abläuft, das kommt jetzt. Ich kann jetzt noch Kennlinienmessung machen, Thermografie macht jetzt Sinn, die Wechselrichter laufen, Zähleranlaufprüfung muss jetzt spätestens passieren, der Nachweis des Probebetriebs muss jetzt erstellt werden und dann nochmal diese E12, E16, E17. Also ich erstelle jetzt meine Konformitätserklärung.
+
+(0:32:09 - 0:32:17)
+Ich will jetzt meine Betriebserlaubnisverfahren vom Netzbetreiber erhalten und ich erstelle jetzt eine Richterbestätigung und eine Fotodokumentation.

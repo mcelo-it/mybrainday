@@ -1,0 +1,35 @@
+(0:00:00 - 0:00:33)
+Jetzt haben wir noch acht Minuten Zeit. Wir gehen jetzt in die Übung und würden euch bitten, im Sinne eines Gutachters euch dieses Anlagenschema mal anzusehen und mit der Checkliste, die ihr hier links im Bild seht, ihr habt sie auch im Chat bekommen, dieses Schema durchgeht und dann die fehlenden Informationen, die hier eben nicht aufgeführt sind, in eurer Excel-Liste eintragt. Und danach fragen wir das Ganze im Menti wieder ab.
+
+(0:00:33 - 0:00:40)
+Die Zeit läuft, Countdown fünf Minuten. Wir sehen uns dann gleich wieder und fragen das Ganze nochmal ab. Bis gleich.
+
+(0:00:41 - 0:00:50)
+Wir gehen weiter in der PPT und schauen uns hier diese ganzen Punkte nochmal an. Also Checkbox Nummer eins. Wir gehen das relativ zügig durch.
+
+(0:00:51 - 0:00:58)
+Die Leistung ist da. Die Ober-Unterspannung, die fehlte. Genau, deshalb machen wir den Fragezeichen in unsere Checkliste.
+
+(0:00:59 - 0:01:15)
+Die Schaltgruppe ist da. Die Kurzschlussspannung ist da und der Stufensteller ist da. Dann gehen wir weiter, schauen uns die die Mittelspannung-Schaltanlage an, die Leistungsschalter und sehen dort den Typ des Schaltfelds RRL.
+
+(0:01:16 - 0:01:28)
+Wir sehen das Spannungslevel. Wir sehen die Frequenz. Was wir nicht sehen ist der Kurzschlussstrom und wir sehen auch noch sonstige Bauteile.
+
+(0:01:30 - 0:01:41)
+Weiter geht es mit den Schutzfunktionen und hier sehen wir den UMZ-Schutz. Den haben wir gefunden in der Niederspannungsverteilung. Wir sehen den zwischengelagerten Schutz, dass er nicht vorhanden ist.
+
+(0:01:41 - 0:01:58)
+Deshalb haben wir das Fragezeichen reingemacht und wir sehen die NH-Sicherung mit 250 Ampere. Dann kommt der nächste Block. Hier kommen die Niederspannungsverteilungen mit den Wechselrichtern.
+
+(0:01:59 - 0:02:07)
+Das erste ist der Nennstrom des Leistungsschalters. Der ist hier. Dann kommt die Anzahl der Wechselrichter, A3.
+
+(0:02:09 - 0:02:24)
+Dann kommt der Typ des Wechselrichters und jetzt kommt noch die... Die haben noch gefehlt, genau. Als nächstes kommen noch die Kabel. Jetzt haben wir hier den Kabeltyp.
+
+(0:02:25 - 0:02:42)
+Wir haben den Querschnitt. Wir haben die Nennspannung und wir haben ja auch noch die Kabellänge, die jetzt nicht da ist. Dann kommen wir jetzt zum Ende.
+
+(0:02:43 - 0:02:45)
+Wir haben jetzt diese Checkliste durchgearbeitet.

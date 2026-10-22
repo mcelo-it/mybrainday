@@ -1,0 +1,226 @@
+(0:00:00 - 0:00:17)
+und gehen ins nächste Kapitel Komponenten. Jetzt schauen wir uns erst mal acht, neun Komponenten an mit ein paar Stichpunkten, um dann später im Design da sozusagen schneller folgen zu können, wenn ich die zusammenbastele. Und da fangen wir an mit dem tiefen Erder.
+
+(0:00:17 - 0:00:30)
+Ich zeige den auch mal hier in so einem coolen 3D Modell. Der dreht sich auch ein bisschen langsam, wobei das bei so einem Stab jetzt auch gar nicht so spektakulär ist. Aber immerhin sieht man den dann mal von verschiedenen Seiten.
+
+(0:00:30 - 0:00:35)
+Also so sieht so ein tiefen Erde aus. Ich hatte den auch schon oft in der Hand. Der ist ganz schön schwer.
+
+(0:00:35 - 0:00:43)
+1,5 Meter. Meistens sind die rund. Gibt es verschiedene Typen, aber ich würde sagen, das ist wirklich so ein Standard tiefen Erde sozusagen.
+
+(0:00:45 - 0:01:06)
+Und jetzt haben wir den noch mal rausgeschoben und zeigen noch mal in einem Diagramm, warum man die länger als 1,5 Meter in den Boden rammen sollte. Und das sieht man in diesem Diagramm, finden wir ganz gut. Also da geht es jetzt um diesen berühmten Ausbreitungswiderstand der also möglichst klein sein soll.
+
+(0:01:06 - 0:01:21)
+Jetzt nehmen wir erst mal diese grüne Linie. Da sehen wir jetzt, umso tiefer wir den tiefen Erde ins Erdreich schlagen, umso geringer wird dieser Ausbreitungswiderstand. Und wir sehen gerade am Anfang sagen wir mal über 1, 2, 3, 4, 5 Metern ist dieser Unterschied enorm.
+
+(0:01:21 - 0:01:39)
+Deswegen ist es extrem sinnhaft, die tiefen Erde ich sage jetzt mal 10 Meter ist doch ein guter Wert, da reinzuschlagen. Aber bei 30 Metern sieht man schon, da verliert das an Sinnhaftigkeit. Dieser Potentialtrichter, der da irgendwie aufgebaut wird, der verliert dann an Effektivität.
+
+(0:01:39 - 0:01:47)
+Also nimmt mit 1,50 Meter würden wir nicht empfehlen. 30 Meter auch nicht. Also so um die 8, 9, 10 Meter tief macht Sinn.
+
+(0:01:48 - 0:02:05)
+Und wenn man wissen will, warum, kann man in diese Tabelle hier gucken. Und dann sieht man auch noch, das ist aber auch logisch, dieser spezifische Erdbodenwiderstand ist das, den man da sieht. Umso höher der ist, umso schlechter, also umso höher wird auch der Ausbreitungswiderstand.
+
+(0:02:05 - 0:02:12)
+Aber den Boden könnte nicht beeinflussen. Der ist, wie er ist. Die Tiefe der tiefen Erde, den könnte beeinflussen.
+
+(0:02:13 - 0:02:20)
+Also jetzt brauchen wir, sage ich mal 10 Meter. Einer ist 1,50 Meter lang. Und dann gibt es daraus folgend noch einen zweiten Effekt.
+
+(0:02:21 - 0:02:26)
+Der ist ein bisschen komplizierter. A durch L steht da. Also mittlerer Erderabstand.
+
+(0:02:26 - 0:02:38)
+Da geht es jetzt um die Abstände der tiefen Erde sozusagen nebeneinander im Verhältnis zur mittleren Erderlänge. Und also was man aus dieser Tabelle ganz einfach ablesen kann. Deswegen haben wir auch eine Linie reingemacht.
+
+(0:02:39 - 0:03:03)
+Der Abstand von einem tiefen Erde zum nächsten sollte mindestens so groß sein wie die Länge, die ihr in den Erdboden geschlagen habt. Beispiel Wir sind ja 10 Meter tief gegangen und jetzt brauchen wir noch einen zweiten tiefen Erde, dann sollte der mindestens 10 Meter entfernt sein. Das kann man sich auch wieder aus diesem Potenzial, dass der unten im Erdreich schafft, vorstellen.
+
+(0:03:03 - 0:03:20)
+Man haut einfach sozusagen den tiefen Erde, wenn man ihn zu nah setzt in den gleichen Trichter rein und dann hat er überhaupt keine kein Mehrwert. Also merkt euch Abstand tiefen Erde sollte größer gleich sein zur Einschlag Tiefe. Wenn man einen Meter tief haut, kann man ihn einen Meter weit wegsetzen.
+
+(0:03:20 - 0:03:29)
+Wenn man aber 10 Meter tief geht, bringt das nichts mehr. Dann setzt man ihn diagonal auf die andere Seite der Station oder noch weiter weg. Also auch 10 Meter entfernt.
+
+(0:03:29 - 0:03:38)
+Das sind, finden wir die zwei wichtigen Erkenntnisse beim tiefen Erde. Also 10 Meter tief und 10 Meter entfernt. Aus dieser Logik für uns abgeleitet.
+
+(0:03:39 - 0:03:47)
+So, der hat dann meistens ein Durchmesser von 20 Millimeter. Okay, nichts Besonderes. Es gibt verschiedene Materialtypen Edelstahl, verzinkter Stahl, Kupfer.
+
+(0:03:48 - 0:03:52)
+Das sind so die typischen. Und wir nehmen meistens Edelstahl. Deswegen haben wir das markiert.
+
+(0:03:52 - 0:03:59)
+Ist aber nicht richtig und falsch. Hat nur andere Erdausbreitungswiderstände zur Folge. So, und er hat zwei Seiten.
+
+(0:03:59 - 0:04:07)
+Das fanden wir ganz spannend. Deswegen zeigen wir das einmal, weil man da vor Ort darauf achten kann. Vor allem, weil ja keiner so ein Ding mal jeweils selber installiert hat.
+
+(0:04:07 - 0:04:10)
+Außer meinetwegen mir. Ich habe es tatsächlich gemacht. Zeige ich das einmal.
+
+(0:04:12 - 0:04:23)
+Also lotrecht muss der ja in die Tiefe gehauen werden und der ist steckbar. Und deswegen ist wichtig zu wissen, dass der zwei verschiedene Seiten hat. In das eine Ende kann man hier so eine Spitze reinstecken, weil dann geht der besser runter.
+
+(0:04:23 - 0:04:28)
+So kann man das machen. Und auf der anderen Seite, das wäre dann unten. Also so muss man den runterhauen.
+
+(0:04:29 - 0:04:42)
+Und oben sieht der anders aus. Oben hat er so ein Gegenstück, sodass man eben das untere Ende vom oberen tiefen Erde hier draufstecken kann. Dann hält er auch gut.
+
+(0:04:42 - 0:04:53)
+Dann haben die eine Verbindung und dann sind die am Ende sozusagen eins. Und das macht man an der Station und an der Übergabe Station. Sehen wir aber gleich noch unser nächstes Produkt, das wir benötigen.
+
+(0:04:54 - 0:05:00)
+Oft muss man nicht, aber kann man ist ein Band. Es kann aus dem gleichen Material sein. Sehen wir auch gleich.
+
+(0:05:00 - 0:05:11)
+Und das ist halt dann so ein Flachband. Das hat dann zum Beispiel 30 mal 3,5 Millimeter. Am Ende geht es ja um die Oberfläche, die man kreiert mit diesem Produkt.
+
+(0:05:11 - 0:05:21)
+Das kann auch wieder aus diesen meistens diesen drei Materialien sein. Und haben wir auch in ein Diagramm mit reingenommen, weil wir sagen, wir wollen ja einen Vorschlag machen, einen konkreten finde ich. Das finde ich zumindest sehr hilfreich.
+
+(0:05:22 - 0:05:39)
+Und da sagen wir jetzt erst mal, wir sehen die maximale Schritt Spannung. Haben wir vorhin ja gesagt, die sollte möglichst niedrig sein. Und bezogen auf dieses Gesamtpotenzial sehen wir hier in Abhängigkeit der Eingrab Tiefe von jetzt so einem Band Erde oder von dem Erde an sich.
+
+(0:05:39 - 0:05:57)
+Und da sieht man auch wieder, das verliert an Effektivität. Also man braucht den gar nicht 2, 3, 4, 5 Meter tief graben. Das macht gar nicht so viel Sinn, sondern da haben wir unsere Linie bei einem Meter gesetzt. 
+
+0,5. Das vielleicht so sinnhafte Range, die man hier sehen kann. Also am Anfang hat es einen enormen Einfluss.
+
+(0:05:58 - 0:06:05)
+Diese Schritt Spannung sinkt enorm. Hinten raus nicht mehr. Also nehmt mal mit, wenn die Frage mindestens 0,5 Meter.
+
+(0:06:05 - 0:06:17)
+Weil sinnhaft und weil Frostschutz. Das war dann dieses Symbol, das jeder noch sehen könnte. Und den nehmen wir dann auch oft als Ringen um so eine Trafo Station oder über so eine Übergabestation.
+
+(0:06:20 - 0:06:32)
+Ein bisschen das Pendant zu der ganzen Geschichte, aber flexibel einsetzbar. Ein Runddraht, der hat dann eben ein Durchmesser 10 Millimeter. Daraus kommt eine Fläche von ungefähr 70 Quadratmillimeter.
+
+(0:06:33 - 0:06:42)
+Das kann ja jeder mal am Wochenende nachrechnen. Und den gibt es dann auch wieder in verschiedenen Materialien. Und den würden wir oft in den Kabelgraben legen.
+
+(0:06:42 - 0:06:52)
+Der ist einfach billiger und einfacher zu verlegen als dieses Flachband. Und man kann die Tische damit ganz hervorragend verbinden. Das ist aber Geschmackssache.
+
+(0:06:52 - 0:06:58)
+Da haben wir schon verschiedene Varianten gesehen, wie man die Tische miteinander verbindet. Aber dieses Material ist zulässig. Das kann man nehmen.
+
+(0:06:59 - 0:07:07)
+Und das sehen wir später in Kapitel 7, glaube ich. Da muss man dann nur darauf achten, wie man die Materialien miteinander verbindet. Also das sehen wir aber später.
+
+(0:07:09 - 0:07:15)
+Okay, das war der Runddraht. Jetzt braucht man Verbindungsklemmen. Das ist wichtig.
+
+(0:07:16 - 0:07:22)
+Das wird auch geprüft. Das ist auch normativ so vorgesehen. Da sieht man mal so eine Verbindungsklemme.
+
+(0:07:22 - 0:07:36)
+Weil wichtig ist, dass, wenn ich jetzt Runddraht an irgendwas anderes anschließe, an den Tiefenerder oder an den Bandstahl, egal, dann muss die Verbindung passen. Da muss ein Verbindungsdruck bestehen. Das darf sich auch nicht über die Jahre lösen.
+
+(0:07:36 - 0:07:53)
+Sonst verliert ja mein Gesamtsystem völlig an Effektivität, wenn die Verbindung sich löst. Dafür gibt es so Multifunktionsklemmen, z.B. an verschiedenen Materialien. Und das kann man jetzt im Kabelgraben gut einsetzen, um die einzelnen 100-Meter-Stücke z.B. zu verbinden.
+
+(0:07:53 - 0:08:04)
+Oder auch an der Trafo-Station, zeige ich gleich im Design nochmal. Kabelschuhe braucht man, glaube ich, immer. Egal, ob zentral oder dezentrales System.
+
+(0:08:05 - 0:08:13)
+Irgendwo müssen wir Potentialausgleiche z.B. anschließen. Da sagen wir jetzt erst mal nur auf den Querschnitt achten. Also der Kabelschuh muss zum Kabel passen.
+
+(0:08:13 - 0:08:25)
+Na klar, das ist ganz wichtig. Auch hier, klar, gibt es in verschiedenen Materialien. Aber sehen wir später, dann muss eben das Material vom Kabelschuh zum Material von z.B. der Unterkonstruktion passen.
+
+(0:08:25 - 0:08:41)
+Aber auch zum Material von meinem Kabel, das ich da einführe. Der Einsatzort typisch für so einen Kabelschuh ist der Wechselrichter oder so eine DC-Sammelbox oder eben auch an der Unterkonstruktion. Wir sehen es gleich noch im Detail in meinem Design.
+
+(0:08:41 - 0:08:52)
+Aber kann man sich schon mal merken, Kabelschuhe gehören mit in die Spezifikation von so einem Erdungssystem. Und jetzt hat man z.B. ein Potentialausgleichskabel am Wechselrichter. Also meinetwegen dezentraler Wechselrichter.
+
+(0:08:53 - 0:09:03)
+Und das stecke ich ja dann eben da in den Kabelschuh rein. Und da kommen wieder die gleichen Mindestquerschnitte. Jetzt haben wir uns überlegt, beim Aluminium schreiben wir 25 oder 35 hin.
+
+(0:09:03 - 0:09:16)
+Jetzt haben wir uns hier für 25 entschieden. Je nachdem, in welche beiden Normen wir gucken. Aber wie gesagt, wenn man 10 Durchmesser nimmt, kommt man auf höhere Flächen.
+
+(0:09:18 - 0:09:27)
+Da Hinweis gilt natürlich generell. Aber wenn ich immer das bei jeder Slide sage, ist es ja auch sinnlos. Hier ist es uns aber schon wichtig.
+
+(0:09:27 - 0:09:39)
+Schaut da in das Installationsanleitung vom Wechselrichter. Die geben das immer mit an. Und dann würde ich auch immer dem folgen, wenn das noch höher ist als die Querschnitte, die ich oben beschreibe, dann folgt denen.
+
+(0:09:40 - 0:09:50)
+Das ist es nicht wert, da eine Diskussion vom Zau zu brechen. Aber wenn die niedrigere haben, dann würde ich wiederum meinen Folgen sozusagen halt immer den größeren nehmen. Genau das hatten wir schon am Wechselrichter.
+
+(0:09:51 - 0:09:55)
+Sehen wir auch gleich noch. Und das sehen wir auch gleich noch. Und das wird vielleicht auch eine Frage werden.
+
+(0:09:56 - 0:10:05)
+Die Markierung als PE ist wichtig. Also das ist ja jetzt ein Potenzialausgleich am Wechselrichter. Das muss dann auch dementsprechend markiert werden.
+
+(0:10:05 - 0:10:11)
+Hier sieht man es auch grün, gelb. Auch das steht schon so in der Norm drin. Das ist kein Nice-to-have.
+
+(0:10:11 - 0:10:20)
+Das muss man machen. Und jetzt zeigen wir nochmal so eine typische Brücke von einem Tisch zum anderen. Davon kann man je nach Anlagengröße dann hunderte oder tausende bestellen.
+
+(0:10:21 - 0:10:30)
+Am besten vielleicht vorgefertigt. Also wieder die gleichen Querschnitte von der Unterkonstruktion von einem Tisch zum anderen. Und dann haben wir noch ein zweites Beispiel mit reingenommen, das wir auch schon oft gesehen haben.
+
+(0:10:30 - 0:10:36)
+So flexibles Erdungsband gibt es auch. Also das ist irrelevant. Es geht darum, die Materialien am Übergang müssen passen.
+
+(0:10:37 - 0:10:44)
+Korrosionsfest sein. Das ist wichtig. Sehen wir später in Kapitel 7. Und der Querschnitt muss eingehalten werden.
+
+(0:10:44 - 0:10:56)
+Wie das dann in der Form ausgeführt wird, ist nicht relevant. Die Korrosionsschutzbinde, die taucht auch immer wieder auf. Für die, die vor Ort schon mal dabei waren, die haben es vielleicht gesehen.
+
+(0:10:56 - 0:11:14)
+Da muss man aber im richtigen Moment dabei gewesen sein. Also die nimmt man, um vor allem an den Verbindungsstellen die Verbindungsstellen vor Korrosion zu schützen. Grundsätzlich ist es so, dass die Materialien des Korrosionsfest sind.
+
+(0:11:15 - 0:11:20)
+Man macht es trotzdem. Ich würde es immer so vorschlagen. Ich schreibe es auch so in meine Spezifikation rein.
+
+(0:11:20 - 0:11:56)
+Wenn ich vor Ort irgendwas prüfe, dann schaue ich da schon auch drauf, weil man in Fachzeitschriften den Vorschlag findet, diese zu nutzen, einfach nur, weil sie die Lebensbeständigkeit erhöhen. Also wenn man unterschiedliche Materialien verwendet, muss man es sowieso machen, weil man das dann wasserfest installieren muss, damit es nicht zur Korrosion kommt. Aber jetzt sagen wir mal, wir machen es eh komplett richtig und nehmen gleiche Materialien, die also miteinander sowieso schon korrosionsfest sind, würden wir es trotzdem empfehlen, weil man dann einfach eine doppelte Sicherheit hat.
+
+(0:11:56 - 0:12:13)
+Hier haben wir es aufgeschrieben. Das erhöht einfach die Qualität, die Lebensdauer von der Verbindung. Und warum reite ich auf so einer Korrosionsbinde jetzt so lange rum? Weil ich glaube, ich am Ende das große Ganze realisiert haben möchte, dass dieses Erdungssystem für 20, 30, 40 Jahre stabil ist.
+
+(0:12:13 - 0:12:32)
+Nicht nur für die Inbetriebnahme, sondern ja meinetwegen für immer. Und das sind die Schwachstellen, da wo die einzelnen Erdungsteile zu dem Gesamterder verbunden werden, gibt es Schwachstellen. Wenn sich die löst in den nächsten zehn Jahren, dann habt ihr den Erdungsausbreitungswiderstand nicht mehr unter zwei Ohm, so wie ihr es am Anfang hattet.
+
+(0:12:32 - 0:12:54)
+Also diese Verbindungsstellen mit äußerster Vorsicht oder extra Vorsicht nochmal behandeln. So und unser letztes Bauteil ist eine Modulklemme. Wir hatten es auch schon mal raus, weil es eigentlich eigentlich wollen wir nicht sagen in solchen in solchen Kursen, also weil so eine Modulklemme nicht zwingend erforderlich ist.
+
+(0:12:54 - 0:13:03)
+Ich sage also für die Erdung, für die Montage natürlich schon. Aber ich zeige es einmal, was wir damit machen. Also man kann ja, das ist jetzt einfach nur die Reihenfolge falsch.
+
+(0:13:03 - 0:13:10)
+Dann hole ich mir alle her. Also man kann erst mal grundsätzlich sagen, so ein Modul hat Schutzklasse zwei. Das findet ihr im Datenblatt.
+
+(0:13:10 - 0:13:24)
+Das ist wichtig. Das ist so wie beim Stringkabel auch Schutzklasse zwei heißt erst mal grundsätzlich, dass der Potenzial Ausgleich nicht zwingend erforderlich ist. Das kann man ja erst mal so an sich für sich stehen lassen.
+
+(0:13:24 - 0:13:43)
+Jetzt kennen wir es aber so, dass wenn man die Hersteller Vorgaben in Ruhe durchliest, also die Montage Anweisung, da steht da durchaus drin, dass man die Module erden soll oder kann. Geht es ja schon ums Wording? Vielleicht geht es da auch um Übersetzungsfehler oder wie auch immer. Also das ist ein dünnes Eis dann, wenn man sich darauf bezieht.
+
+(0:13:43 - 0:13:51)
+Deswegen bleiben wir bei Schutzklasse zwei. Das ist für uns der entscheidende Punkt. Wenn das so drinsteht, ist der Potenzial Ausgleich nicht zwingend erforderlich.
+
+(0:13:52 - 0:13:58)
+Wir zeigen die Klemme trotzdem, weil es sie ja oft gibt. Und jetzt bei Klemme ist dann wichtig. Man sieht es von unten auch ein bisschen.
+
+(0:13:58 - 0:14:10)
+Die hat halt eine Dornklemme in unserem Fall und die durchbricht die obere Eloxier Schicht des Rahmens. Also das kann man auch mal ausprobieren. So konnte ich mir das auch gut merken.
+
+(0:14:10 - 0:14:33)
+Meinetwegen auch für so einen Kurs, dass wenn man mal die den Übergangs Widerstand von so einem Modul Rahmen misst, dann merkt man, dass die isoliert sind, weil die eben so eine Eloxier Schicht außenrum haben. So und die Dornklemme durchbricht das jetzt. Und dann hat man eine leitende Verbindung von dem Modul zur Unterkonstruktion, von der Unterkonstruktion zur Erdung, um die es ja heute geht.
+
+(0:14:34 - 0:14:40)
+Also grundsätzlich kann man mit so Dornklemmen Potenzial Ausgleich von Modul Rahmen realisieren.

@@ -1,0 +1,313 @@
+(0:00:00 - 0:00:17)
+schauen uns jetzt den Aufbau des Transformators an und starten hier erstmal mit einer 360-Grad-Tour. Also das ist jetzt erstmal, ich hatte es vorhin gesagt, das ist die Tour für mich. Ihr könnt euch zurücklehnen und euch ansehen, was ich hier präsentiere.
+
+(0:00:17 - 0:00:28)
+Also bitte würde ich jetzt mal genau den Kollegen bitten, meinen Bildschirm einzublenden. Und ich werde jetzt hier gar nicht so viel erzählen. Also ich erzähle ein bisschen, dass das ein Umspannwerk ist.
+
+(0:00:28 - 0:00:37)
+Ich gehe aber nicht auf die Komponenten des Trafos ein, weil das machen wir dann nachher. Ihr könnt euch die jetzt gerne schon mal anschauen. Ich erkläre hier vielleicht so ein bisschen, was man hier rechts und links sieht.
+
+(0:00:38 - 0:00:46)
+Genau hier auf der rechten Seite ist dann eher das Mittelspannungsgebäude. Ja, da ist dann die Hochspannung runtergespannt. Hier schauen wir uns mal aus der anderen Perspektive an.
+
+(0:00:46 - 0:01:02)
+Ich glaube, hier in diesen Betonklötzen sind die Eigenbedarfstrafos. Und jetzt hat man aber hier auch schon den großen Transformator stehen. In diesem Projekt ist das eben ein 110 kV Trafo auf, ich glaube, 30 oder 31,5 kV.
+
+(0:01:02 - 0:01:08)
+Hier oben sieht man Anschlüsse am Trafo. Wir würden jetzt mal so ein Stückchen rumgehen. Man hat hier ein Typenschild.
+
+(0:01:09 - 0:01:19)
+Das kann man sich hier auch im Detail ansehen. Ich blende es nur mal ein. Das hilft euch vielleicht später, dass ihr so ein bisschen besser euch in diesen 360-Grad-Touren bewegen könnt.
+
+(0:01:19 - 0:01:29)
+Also ein Typenschild kann man sich anschauen. Und man kann dann hier wieder das X drücken, dann kommt man wieder zurück. Hier hat man dann noch eine niederohmige Sternpunkterdung.
+
+(0:01:29 - 0:01:40)
+Nur, dass ihr mal damit was anfangen könnt, dass ihr es mal gesehen habt. Das ist nicht direkt der Transformator, gehört aber am Ende ein wenig dazu. Ich würde jetzt mal um den Trafo weiter rumlaufen.
+
+(0:01:41 - 0:01:55)
+Diese ganzen Gefäße, das, was hier dran ist und hier unten. Das zeigen wir euch gleich alles nochmal in einer 3D-Animation in der PPT. Das hilft dann sicherlich, das jetzt vorher schon mal gesehen zu haben.
+
+(0:01:56 - 0:02:12)
+Was man jetzt hier sieht, ist, dass die 110 kV kommt hier über diese ganzen Schaltgeräte, schließt oben an den Transformator an. Und dann hat man hier wahrscheinlich den Anschluss der Hochspannung. Und hier unten geht es dann wahrscheinlich, ja hier sieht man es nicht gut, aber hier gehen dann die Mittelspannungsleitungen zurück.
+
+(0:02:12 - 0:02:25)
+Unter dem Trafo durch oder an dem Trafo vorbei. Und gehen dann eben in das Gebäude, wo die Mittelspannungsschaltanlage steht. Jetzt stehen wir unter der 110 kV-Leitung und drehen uns hier mal um.
+
+(0:02:25 - 0:02:35)
+Genau, die dicken schwarzen hier, das sind dann die Mittelspannungskabel. Und oben die dünnen blanken Drähte, das ist die Hochspannung. So ist das grundsätzlich aufgebaut.
+
+(0:02:36 - 0:02:42)
+Na, hier kann ich gar nicht weiterlaufen. Ich muss jetzt den Weg mal zurück gehen. Ja, genau.
+
+(0:02:42 - 0:02:48)
+Man hat hier zwei Trafos parallel. Das ist das, was ich ja vorhin sagte. Die müssen dann einen gewissen Abstand voneinander halten.
+
+(0:02:48 - 0:03:07)
+Und so kann man oder können wir hier uns diesen Trafo in diesen 360°-Touren natürlich im Detail ganz toll anschauen. Und das hilft, glaube ich, allen, die nicht so oft im Umspannwerk sind, sich sowas anzuschauen. Ich gehe nochmal auf die andere Seite des Trafos.
+
+(0:03:08 - 0:03:17)
+Das ist dann hier. Genau, hier sieht man jetzt nochmal, naja, hier kommt man jetzt nicht tiefer oder genauer ran. Wahrscheinlich ist das hier so ein Stufensteller.
+
+(0:03:17 - 0:03:25)
+Ja, jetzt nehme ich natürlich doch schon wieder was vorweg. Will ich eigentlich nicht. Aber hier geht es dann darum, dass man eben diesen Stufensteller sieht mit einer Anzeige.
+
+(0:03:25 - 0:03:39)
+Hier ist ein Anschlusskasten, wo dann viel Verdrahtung noch zusammenläuft. Und man eben sich, genau, Signale zum Beispiel vom Stufensteller, Temperaturen und so weiter abgreifen kann. Und in sein SCADA oder in sein Monitoring-System überführen kann.
+
+(0:03:40 - 0:03:49)
+So ist das im Grunde genommen hier im Umspannwerk aufgebaut. Ich würde jetzt, denke ich, das Umspannwerk erstmal wieder verlassen für euch. Wir nehmen den Solarpark wieder in Betrieb.
+
+(0:03:50 - 0:04:09)
+Und wir würden jetzt wieder zurück in die PowerPoint-Präsentation gehen. Und euch versuchen, das, was man jetzt hier gesehen hat, nochmal an 3D-Animationen nochmal zu erklären. Und dann natürlich auch ein bisschen mehr Details zu geben, als das, was ich jetzt hier im Schnelldurchlauf gemacht habe.
+
+(0:04:09 - 0:04:25)
+Und hier war es mir nur wichtig, dass ihr mal diese Art von Transformator seht. Das ist natürlich ein anderer Transformator, als der Transformator, der, sage ich mal, in einer kompakten Station steht. Das ist hier eben ein Outdoor-Transformator für ein Umspannwerk 110 kV gewesen.
+
+(0:04:26 - 0:04:38)
+Wenn wir jetzt in unserem Solarpark sind, haben wir, ich würde es mal nennen, eine andere Kategorie. Nämlich die Niederspannung- und Mittelspannungstrafos. Und die sind dann eben in kleinen Gebäuden häufig untergebracht.
+
+(0:04:38 - 0:04:47)
+Manche sind auch freistehend. Aber die Regel, die ich so kenne, ist, dass zumindest eine Containerstation ist. Also zumindest so eine Art Container drumherum gebaut ist.
+
+(0:04:49 - 0:05:03)
+Also los, wir gucken uns jetzt hier mal so ein 3D-Modell von so einem Transformator an. Auch hier würde ich jetzt erstmal wieder sagen, das ist wahrscheinlich ein Hochspannungstrafo, den man draußen aufstellt. Also genau, das sieht man jetzt sicherlich an den Komponenten.
+
+(0:05:03 - 0:05:15)
+Damit genau, hätte ich jetzt auch gleich angefangen. Der Öl-Ausdehnungsbehälter, die Nummer 1, der jetzt da eben oben drauf ist. Das kennt man bei den Hermetik-Transformatoren aus Kompaktstationen nicht.
+
+(0:05:16 - 0:05:25)
+Also hier ist eben ein Ausdehnungsbehälter. Das heißt, der Trafo wird heiß und kalt. Und dann müssen relativ große Mengen Öl natürlich sich ausdehnen, sich verschieben können.
+
+(0:05:26 - 0:05:39)
+Und dafür hat man dann diesen Behälter. Der ist jetzt nicht dafür da, dass da Öl nachlaufen kann, wenn der Trafo irgendwo einen Leck hat. Sondern das ist wirklich für Ausdehnung, dass sich da oben der Pegel so ein bisschen hoch und runter leveln kann.
+
+(0:05:39 - 0:05:49)
+Und dass in dem Gehäuse dann immer ausreichend Öl vorhanden ist. Dann gibt es Kühlrippen. Haben wir eben in der Tour natürlich auch gesehen.
+
+(0:05:49 - 0:06:05)
+Das sind diese Kühlrippen, die eben außen an dem Trafo sind. Die Idee ist im Grunde genommen, dass man die Fläche des Trafos durch diese Kühlrippen deutlich erhöht. Und dass dadurch natürlich die Wärme viel, viel besser an die Luft abgegeben werden kann.
+
+(0:06:05 - 0:06:24)
+Also je mehr Rippen, je mehr Oberfläche, desto einfacher ist es für den Trafo, seine Wärme eben an die Umgebung abzuführen. Und die würden sich dann natürlich auch ausdehnen, wenn sie heiß werden. Und eben mehr Öl benötigen, was da eben rein oder durchläuft.
+
+(0:06:24 - 0:06:37)
+Dann haben wir Ventilatoren. Hier sind sie jetzt an der, ich würde mal sagen, Stirnseite der Kühlrippen angebracht oder des Trafos. In unserer Tour waren die eben unter den Kühlrippen.
+
+(0:06:37 - 0:06:46)
+Also das gibt es auch unterschiedliche Ansätze. Man kann natürlich auch von unten die Luft hochblasen. Dann hat man unter jeder Kühlrippe im Grunde genommen einen Ventilator.
+
+(0:06:46 - 0:07:04)
+Hier in diesem Modell ist es eben so, dass von der Seite die Luft dadurch geblasen wird, um einfach eine deutlich bessere Kühlung zu erreichen. Und wenn man den Trafo eben kühlt, kann man den Trafo einfach höher belasten. Dann haben wir hier einen Schutz, einen Trafoschutz.
+
+(0:07:05 - 0:07:20)
+Man sieht den relativ klein hier oben auf dem Trafo. So wie er jetzt hier aufgebaut ist, kenne ich den vor allem eben von den Hermetik-Trafos, die wir in unseren kompakten Stationen haben. Also wir schauen uns den jetzt mal im Detail ein bisschen besser an.
+
+(0:07:20 - 0:07:33)
+So sieht dieses Gerät dann aus. Steckt im Grunde genommen mit dem unteren Teil im Trafo drin und fühlt so ein bisschen Temperatur und wahrscheinlich Ölstand und Druck. Wir gucken uns diese Punkte jetzt nochmal alle an.
+
+(0:07:34 - 0:07:47)
+Also auf dem Trafo sitzt da, ist dann natürlich auch dicht, öldicht, luftdicht abgeschlossen. Und wir haben dann erstmal eine Füllstandsanzeige inklusive Gasanzeige. Genau, das würde im Grunde genommen so aussehen.
+
+(0:07:47 - 0:07:59)
+Diese Füllstandsanzeige ist jetzt erstmal gut oder normal. Wir haben viel Öl im Trafo, der Schwimmer schwimmt ganz weit oben. Also wir haben einen guten Füllstand, haben kein Problem.
+
+(0:07:59 - 0:08:14)
+Jetzt kann es aber mal passieren, aus irgendwelchen Gründen, was auch immer. Der Ölstand ist niedriger, vielleicht war der Trafo auch von Anfang an gar nicht ganz voll, sondern etwas niedriger. Dann hat man eben diesen Status 2, sagen wir mal.
+
+(0:08:14 - 0:08:22)
+Also Achtung, Achtung, wir müssen ein bisschen aufpassen. Das Trafoöl ist ein bisschen wenig. Entweder füllt es nach oder schaut mal, ob euer Trafo vielleicht irgendwo Öl verliert.
+
+(0:08:23 - 0:08:39)
+Und wenn das dann auch nicht funktioniert, dann gibt es am Ende noch den letzten Trigger, würde ich mal sagen, oder die letzte Hürde. Und dann würde man hier wahrscheinlich bei sehr niedrigem Ölstand irgendwann die Schalter auslösen. So ist das Ganze gedacht.
+
+(0:08:39 - 0:08:58)
+Also es ist eine Schutzfunktion und wir haben erstmal eine Warnung, die man dann mit seinem Monitoring verknüpfen kann, um dann eben Maßnahmen zu ergreifen. Und als letztes wäre dann eben die harte Abschaltung des Trafos, um eben den großen Schaden abzuwenden. Zusätzlich hat dieses Gerät dann noch eine Temperaturmessung.
+
+(0:08:59 - 0:09:11)
+Das sieht man jetzt hier. Auf der Seite hier sieht man eben die Einstellrädchen. Da kann man meistens, also es gibt bestimmt auch andere Geräte, die mehr oder weniger können, aber meistens kann man auch hier zwei Stufen einstellen.
+
+(0:09:12 - 0:09:17)
+Die erste Stufe wäre für den Alarm. Achtung, Achtung, der Trafo ist zum Beispiel 90 Grad warm. Das ist schon relativ viel.
+
+(0:09:18 - 0:09:35)
+Und dann kann man das eben mitloggen, im Monitoring beobachten. Passiert das jetzt oft oder passiert das nicht so oft? Und die zweite Stufe wäre dann beispielsweise 100 Grad. 100 Grad ist, glaube ich, ein üblicher Wert, den man häufig sieht, den ihr am besten natürlich von eurem Trafo-Hersteller vorgeben lasst.
+
+(0:09:35 - 0:09:49)
+Aber dann wäre 100 Grad, sagen wir mal, die zweite Stufe. Und da schalten wir dann eben auch ab, weil wir dann Bedenken haben, dass der Trafo diese 100 Grad lange aushält. Also er wird es kurzfristig aushalten können, aber dauerhaft sollte man das sicherlich nicht tun.
+
+(0:09:50 - 0:10:16)
+Und dann eben den Trafo abschalten und mal schauen, haben wir denn da vielleicht was falsch ausgelegt? Müssen wir da vielleicht noch nacharbeiten oder ein Wechselrichter weniger dran? Gibt es dann eben viele Lösungen, um diesen Trafo weniger zu belasten und um die Temperatur besser im Griff zu haben. Dann gibt es zusätzlich meist bei diesen Geräten noch Druckschalter, die man eben auch einstellen kann. Ist jetzt hier nicht dargestellt, aber können diese Geräte auch.
+
+(0:10:17 - 0:10:35)
+Die Geräte haben auch Namen, haben wir bisher noch nicht genannt, aber es gibt ein DMCR-Gerät, das kann sowas. Es gibt auch ein DGPT2-Gerät oder es gibt den sogenannten Buchholz. Das ist für viele wahrscheinlich erstmal der bekannteste Begriff, weil das ist das Gerät, was wahrscheinlich schon am längsten auf dem Markt ist.
+
+(0:10:35 - 0:10:50)
+Ein Buchholzschutz. Die können unterschiedliche Dinge und das wollten wir euch jetzt hier noch einmal aufführen, dass ihr das ein bisschen einordnen könnt. Was ist das? Was kann das? Und so ein Buchholz kann eben Gasentwicklung und das kann das DMCR und das DGPT2 auch.
+
+(0:10:50 - 0:11:07)
+Das gleiche gilt eben auch für Ausdehnung des Öls. Das ist auch Buchholz. Im Grunde genommen sind das meine ich so die Kernfunktionen von Buchholz. 
+
+Ausdehnung, Gasentwicklung. Das können aber auch diese, ich würde mal sagen, etwas moderneren Geräte auch. Den Ölstand erfassen sie auch alle drei.
+
+(0:11:07 - 0:11:22)
+Was dann so ein Buchholz aber nicht mehr kann, wäre die Temperaturmessung. Und das können diese anderen beiden Schutzgeräte schon. Also haben sie einen kleinen Vorteil oder einen deutlichen Vorteil gegenüber dem Buchholzrelais.
+
+(0:11:23 - 0:11:50)
+Also wenn ihr jetzt ein Buchholz einsetzt, müsstet ihr euch dann schon noch mal Gedanken machen, wie messe ich denn jetzt die Öltemperatur. Beziehungsweise bei den 110 kV Trafos habt ihr dann auch weitere Möglichkeiten und könnt auch die Temperatur direkt an der Mittel- oder Hochspannungswicklung messen, um dann vielleicht noch bessere, noch genauere Werte zu erhalten. Weil die erwärmt sich natürlich zuerst, überträgt das dann ans Öl und das Öl führt es dann über die Kühlrippen irgendwann ab.
+
+(0:11:51 - 0:12:01)
+Sehen wir aber gleich noch mal ein bisschen besser, wie das dann im Detail aufgebaut ist, diese Wicklung, das Öl und so weiter. Das war der Schutz. Wir kommen jetzt zum Stufenschalter.
+
+(0:12:01 - 0:12:29)
+Den sehen wir hier in relativ klein, die Nummer 5. Er ist auch bei den Hermetik-Trafos klein. Bei dem 110 kV Trafo, ich habe das ja eben kurz gezeigt, ist so ein Stufenschalter schon noch mal eine andere Liga, würde ich sagen, ein anderer Aufwand, der da betrieben wird. Und der Hauptgrund ist, dass es diesen Stufenschalter, oder diesen Tap-Changer auf Englisch, eben einmal als On-Load-Tap-Changer gibt.
+
+(0:12:30 - 0:12:38)
+Den haben dann meistens die 110 kV Trafos. Also der kann während des Betriebs die Spannung variieren. Und es gibt den No-Load-Tap-Changer.
+
+(0:12:38 - 0:12:50)
+Das ist der Stufenschalter, den wir eben aus diesen kompakten Trafostationen können. Also den dürft ihr nur bedienen, wenn eure Trafostation freigeschaltet ist. Dann könnt ihr die Stufung verändern, obendrauf manuell.
+
+(0:12:50 - 0:13:04)
+Und bei dem 110 kV Trafo passiert das im laufenden Betrieb. Und das hat natürlich den ganz großen Vorteil, dass der eure Mittelspannung, eure Spannung im Solarpark, Windpark, wo auch immer, sehr konstant halten kann. Also das 110 kV Netz kann schwanken.
+
+(0:13:05 - 0:13:23)
+Der automatische Stufenschalter merkt das, wenn es variiert. Und ihr merkt in eurem Solarpark das dann erstmal nicht, dass vielleicht das 110 kV Netz schwankt und irgendwelche Netzprobleme hat. Der Trafo kann das relativ schnell, sehr feinstufig ausgleichen.
+
+(0:13:24 - 0:13:36)
+Wir schauen uns den Stufenschalter mal an. Also wir nehmen erstmal die einfache Variante. Das ist eben der manuelle Stufenschalter, den man nur im ausgeschalteten Zustand bedienen darf.
+
+(0:13:36 - 0:13:42)
+Also Grund 1 ist, der sitzt auf dem Trafo. Da würde ich jetzt nicht draufklettern, wenn der Trafo in Betrieb ist. Das macht man nicht, das ist gefährlich.
+
+(0:13:43 - 0:14:07)
+Und Grund 2 ist, wenn man den jetzt dann doch drehen würde im Betrieb, würde dieser Schaltmechanismus das nicht vertragen. Und dann hätte man wahrscheinlich einen Schaden an diesem Stufenschalter beziehungsweise im Inneren des Trafos, was dann natürlich immer ein ganz großes Problem ist. Wir gucken uns an, was auf so einem Typenschild dann draufsteht von so einem Stufenschalter, beziehungsweise steht das auf dem Typenschild des Transformators drauf.
+
+(0:14:08 - 0:14:26)
+Der hat jetzt hier in unserem Bild, sieht man es ja schon, wer da mitgezählt hat, 5 Stufen. Man kann ihn von Position 1 bis Position 5 durchstufen. Und das würde jetzt bei unserem 20 kV Transformator bedeuten, wir haben eine Position 3, 20 kV, wir nennen das Mittelstellung.
+
+(0:14:27 - 0:14:39)
+Und wir haben eine Position 1, das ist dann zum Beispiel 21 kV. Auf der Unterspannungsseite würde der Trafo, den wir jetzt haben, eben 400 Volt ausgeben. Andere Trafos machen andere Spannungen.
+
+(0:14:39 - 0:14:49)
+Es gibt den bestimmt auch mit 800 Volt. Das ist dann natürlich projektspezifisch. Und wenn wir uns jetzt den Stufenschalter anschauen, hier sieht man jetzt die 1, die gerade durchs Bild gelaufen ist.
+
+(0:14:50 - 0:14:56)
+So ist der jetzt eingestellt. Wir zeigen es oben im Bild. Und wir zeigen jetzt auch den nackten Transformator dazu.
+
+(0:14:56 - 0:15:22)
+Man sieht jetzt die Wicklung des Transformators. Und zwar sehen wir die Primärwicklung des Transformators, das heißt die Hochspannungswicklung des Transformators. Wir stehen auf Stufe 1 und das bedeutet, ihr seht es jetzt gleich auch in dem Bild, da kommt dann eine Verbindung, seht ihr es genau, von dem Anschluss des Trafos zu der, ich würde jetzt mal sagen, längsten Wicklung des Trafos.
+
+(0:15:23 - 0:15:39)
+Und das bedeutet dann eben 21 kV Stufung auf der Hochspannungsseite und auf der Unterspannungsseite erreichen wir dann 400. Das ist erstmal physikalisch so. Wir greifen an der Hochspannungswicklung ab und deshalb steht das genauso auf dem Typenschild des Trafos.
+
+(0:15:39 - 0:15:48)
+Deshalb ist er auf 21 zu 400 gestuft. Wenn wir jetzt uns entscheiden, den Trafo auf der Mittelposition zu betreiben, das können wir machen, dann dreht man den. Ich mache es nochmal zurück.
+
+(0:15:48 - 0:16:00)
+Oben links im Bild sieht man das. Wir drehen jetzt mal von der 1 auf die 3. Dann greift man eben andere Wicklungen im Trafo ab. Man hat dann eben 20.000 Volt zu 400.
+
+(0:16:01 - 0:16:16)
+Da sieht man es jetzt nochmal. Jetzt greift man eben zwei, drei Wicklungen später ab und dadurch erreicht man dann eben ein anderes Übersetzungsverhältnis des Transformators. Also er ist ja nicht mal von 21.000 auf 400, sondern ist dann von 20.000 auf 400.
+
+(0:16:18 - 0:16:37)
+Was bedeutet das denn jetzt nochmal ganz praktisch im Livebetrieb des Projektes? Wir stufen den Schalter und er wird natürlich nicht dafür sorgen, dass wir jetzt die Netzspannung auf 21 kV anheben. Das wird nicht der Fall sein. Das ist jetzt ein bisschen irreführend.
+
+(0:16:38 - 0:16:47)
+Also das Netz wird weiterhin so sein, wie es ist. Also sagen wir mal, das Netz ist 20 kV. Dann können wir jetzt gerne diesen Transformator auf 21 kV stufen.
+
+(0:16:47 - 0:17:14)
+Das wird uns dann aber in dem Fall gar nicht die Netzspannung verändern, sondern das Netz wird gleich bleiben. Das Übersetzungsverhältnis ändert sich und dadurch, wir gucken uns das jetzt mal an, wir schalten auf Position 1, ändert sich nicht die Hochspannung, sondern die bleibt konstant auf 20 kV beispielsweise und die Unterspannung, die wird sich dann verändern. Das ist einfach ein bisschen anders, als es im Typenschild gezeigt wird oder dargestellt wird.
+
+(0:17:14 - 0:17:26)
+Aber das liegt im Grunde genommen daran, dass die das auf dem Typenschild richtig machen. Die Hochspannungsseite, die Hochspannungswicklung, die wird gestuft, die wird verändert, länger oder kürzer gemacht. Die 400-Volt-Seite, die bleibt gleich.
+
+(0:17:27 - 0:17:37)
+Das Resultat ist dann aber eben ein anderes. So, wir haben diese Tabelle nochmal, ich sage mal, komplettiert. Wir haben für euch das jetzt mal umgerechnet.
+
+(0:17:38 - 0:18:01)
+20 kV nehmen wir als konstant an und dann habt ihr eben auf der Unterspannungsseite für eure Wechselrichter zum Beispiel eine variierte Spannung. So, der ist jetzt wieder auf den Trafo draufgeflogen. Den Onload-Tabchanger können wir dann gerne auch nochmal im Detail besprechen.
+
+(0:18:01 - 0:18:10)
+Machen wir heute nicht, das führt ein bisschen zu weit. Aber der hat in der Regel dann deutlich mehr Stufen und ist feiner gestuft. Ich glaube 1,25 Prozent pro Stufung anstatt 2,5.
+
+(0:18:11 - 0:18:30)
+Und meistens haben die, glaube ich, so 8 Stufen Plus und 8 Stufen Minus. Also da kann man dann schon sehr fein das Netz ausgleichen und einfach Stufen, Stufen, Stufen, sodass wir dann im Park immer gleich bleiben. Steckt natürlich auch ein kleines Relais dahinter, was eben die Spannung misst und dann eben variiert, wenn es notwendig ist.
+
+(0:18:30 - 0:18:54)
+Für die Zertifizierung, um da nochmal den kurzen Schwenk hinzubringen, ist das natürlich dann auch immer wichtig, weil die jetzt in so einem Anlagenzertifikat dann eben mit der Spannung rechnen können, mit der Reglerseilspannung von eurem Onload-Tabchanger. Das ist eben ein wichtiges Thema. Und jetzt habt ihr vielleicht ein bisschen besser begriffen, was das bedeutet, was damit gemeint ist.
+
+(0:18:54 - 0:19:05)
+So, wir gucken uns auch nochmal den Öltank an. Dafür, also Öltank oder das Innere des Transformators, dafür drehen wir den Trafo, schneiden den mal auf. Und das, was jetzt hier gelb geworden ist, das ist Öl.
+
+(0:19:06 - 0:19:24)
+Und dieses Öl ist eben auch in den Kühlrippen. Dieses Öl isoliert erstmal die Wicklung. Und dieses Öl ist natürlich auch für die Kühlung des Transformators sehr, sehr hilfreich, weil es dann auch erstmal, bis sich so ein Öl erstmal aufgewärmt hat, vergeht auch erstmal eine gewisse Zeit.
+
+(0:19:25 - 0:19:37)
+Das heißt, so lange kühlt das erstmal und kann dann natürlich auch nach außen dieses Öl ganz gut abfüllen. Ihr seht hier in orange die Wicklungen. Das sind eben jetzt erstmal die Hochspannungs- und Niederspannungswicklungen.
+
+(0:19:38 - 0:19:50)
+Man kann die jetzt hier in diesem Bild gar nicht unterscheiden, weil die liegen zusammen. Aber das sind erstmal grundsätzlich die Wicklungen, die wir hier sehen. Und wir nehmen jetzt diesen Eisenkern, den wir jetzt noch nicht gezeigt hatten.
+
+(0:19:51 - 0:20:02)
+Aber den Eisenkern mit den Wicklungen nehmen wir jetzt erstmal hier raus. Jetzt sehen wir drei Wicklungen, also drei orange runde Wicklungen. Und das sind tatsächlich immer zwei Wicklungen übereinander.
+
+(0:20:03 - 0:20:17)
+Und diese Wicklungen, die liegen um einen geblechten Weicheisenkern. Das ist nochmal eine Information, die ihr so mitnehmen könnt. Also das ist ein robustes Eisenkonstrukt, was eben aus verschiedenen dünnen Blechen geblecht wird.
+
+(0:20:18 - 0:20:35)
+Und um diesen Eisenkern, darum liegen dann diese Wicklungen, die dann wiederum Spannung induzieren und Spannung übertragen von der Niederspannung auf die Hochspannung. Wir haben jetzt hier in diesem Beispiel zwei unterschiedliche Varianten mal dargestellt. Einmal die Dreieckverschaltung.
+
+(0:20:36 - 0:20:46)
+Das sehen wir jetzt hier. Also es ist die Oberspannungsseite im Dreieck gewickelt. Das kann projektspezifisch natürlich ganz anders sein, aber für unser Beispiel ist das jetzt erstmal so.
+
+(0:20:47 - 0:21:04)
+Oberspannung, Dreieck. Und darunter liegt dann eben die Unterspannungswicklung. Und wenn man die jetzt auch nochmal rausnehmen würde, dann würde man hier vielleicht so ein bisschen besser erkennen, dass die nicht im Dreieck verschaltet ist, wie das Konstrukt daneben, sondern das ist jetzt hier im Stern verschaltet.
+
+(0:21:05 - 0:21:14)
+Also ich würde mal sagen, die unteren Enden der Spulen sind beim Stern alle zusammen verbunden. Bei der Dreieckschaltung verbindet man immer unten mit oben, unten mit oben. Das ist ein bisschen anders.
+
+(0:21:15 - 0:21:23)
+Das zeigen wir nachher vielleicht auch nochmal ein bisschen deutlicher, dann wird es vielleicht nochmal ein bisschen klarer. Hier ist der Eisenkern. Genau, so sieht er aus.
+
+(0:21:24 - 0:21:41)
+Eben geblecht, wie wir es eben schon gesagt hatten. Und der ist eben dafür da, den magnetischen Fluss, den diese Spulen induzieren, zu konzentrieren und weiterzuleiten. Es werden Wirbelstromverluste in dem Eisenkern reduziert.
+
+(0:21:42 - 0:21:55)
+Der Grund dafür ist diese Blechung, oder deshalb macht man eben diese Blechung. Man nimmt keinen massiven Eisenkern, sondern man nimmt viele, viele dünne Bleche. Hier sind Stärken angegeben von 0,25 mm bis 0,5 mm.
+
+(0:21:56 - 0:22:10)
+Die werden dann aufeinandergelegt, zusammengepresst und dadurch erreicht man eben optimale Betriebsverhalten von diesen Transformatoren. Also weniger Wirbelstromverluste, so nennt man das, erreicht man dann durch diese Blechung. Das ist eine sehr filigrane Arbeit.
+
+(0:22:13 - 0:22:35)
+Habe ich selbst noch nie gemacht, noch nie gesehen, aber so funktioniert es im Grunde genommen in der Theorie. Vom Öltank geht es dann weiter zu den Unterspannungsanschlüssen. Wir haben es jetzt hier bewusst Unterspannung genannt, weil das können 110 kV-Anschlüsse sein, das können 20 kV oder 10 kV-Anschlüsse sein, sofern die andere Seite höher ist.
+
+(0:22:35 - 0:22:46)
+Also es ist ja immer im Verhältnis zu sehen. Also hier ist es jetzt mal als Unterspannung gemeint. Hier in dem Bild erkennt man das an den kürzeren Isolatoren.
+
+(0:22:46 - 0:23:00)
+Je kleiner die Spannung, desto kürzer die Isolatoren. Hier ist er mal etwas größer dargestellt. Wenn ich diesen Isolator sehe, dann würde ich hier schon sagen, das ist auf jeden Fall nicht Niederspannung, sondern hier haben wir einen etwas höheren Spannungsbereich.
+
+(0:23:00 - 0:23:15)
+Jede Phase braucht natürlich einen Isolator, weil an jede Phase ein Kabel angeschlossen wird. Und dieser Isolator stellt am Ende die Verbindung zu den inneren Wicklungen im Transformator her. Genau, die Länge ist dann abhängig von der Nennspannung.
+
+(0:23:15 - 0:23:32)
+Also bei Niederspannung hat man meistens wirklich nur so Kupferlaschen dran. Bei Mittelspannung sind es dann oft auch so Konusanschlüsse, da kann man dann den normalen Endverschluss draufstecken. Und wenn man dann in die 110 kV, 220 kV, 380 kV geht, dann werden diese Dinger immer länger.
+
+(0:23:33 - 0:23:45)
+Und das, was hier dargestellt ist, ist sicherlich so etwas wie 110 kV. Und wenn wir jetzt auf die Oberspannungsseite gehen würden, kommen wir erst später hin. Wir haben jetzt hier noch einen Unterspannungssternpunkt.
+
+(0:23:47 - 0:24:03)
+Wenn ihr da ganz genau reinschaut, ihr seht jetzt auf der Unterspannung vier Anschlüsse. Wir haben gesagt drei Phasen und der vierte wäre jetzt der herausgeführte Sternpunkt. Und jetzt kommt noch der Oberspannungsanschluss.
+
+(0:24:04 - 0:24:22)
+Und das sind dann eben die größeren Isolatoren, die wir da sehen. Auch die sehen sehr ähnlich aus der Unterspannung und erfüllen im Grunde genommen die gleichen Zwecke. Jede Phase braucht natürlich ihren eigenen Isolator und es wird wieder die Verbindung zu den Wicklungen hergestellt.
+
+(0:24:22 - 0:24:38)
+Und bei einem 380 kV Trafo sind diese Isolatoren dann sehr, sehr lang. Jetzt kommt zum Schluss, last but not least würde ich sagen, hier an der Stelle die Erdung. Das ist nicht zu verwechseln mit der Sternpunkterdung.
+
+(0:24:39 - 0:25:02)
+Hier geht es um die Erdung des Transformatorgehäuses. Also wir schließen natürlich an dieses Metallgehäuse des Trafos eine Erdung an, für den Fall, dass es einen internen Fehler am Trafo gibt, dass wir da keine Spannung auf dem Gehäuse haben, dass es hier keine Berührungsspannung gibt, die dann am Ende gefährlich sein könnten für Tiere, Menschen und so weiter. Also das ist die klassische Erdung.
+
+(0:25:02 - 0:25:18)
+Es kann natürlich sein, dass diese Erdung an unser Erdungssystem angeschlossen wird und die Sternpunkterdung vom Trafo auch. Dann ist es am Ende auf die gleiche Erdung angeschlossen, aber trotzdem muss man diese beiden Themen trennen. Das eine erdet das Gehäuse, das andere erdet unser Stromnetz.

@@ -1,0 +1,247 @@
+(0:00:00 - 0:00:21)
+Damit wir die Live-Inbetriebnahme gleich wunderbar zusammen ausführen können, müssen wir uns erst noch mal in Ruhe jetzt so eine Schaltsequenz angucken. Wir bauen eine Schaltsequenz einfach mal gemeinsam auf. Und wie machen wir das? Wir sortieren die erst mal ein nach Technik, also einmal Mittelspannung und einmal Niederspannung.
+
+(0:00:22 - 0:00:36)
+Jetzt erst mal für die Mittelspannung. Für die Mittelspannung ist es so, ich schiebe mir das mal nach oben, dass ich verschiedenste Schaltervarianten haben kann. Das ist projektspezifisch.
+
+(0:00:36 - 0:00:57)
+Wir haben uns zwei rausgesucht von konkreten Herstellern und zeigen die jetzt noch mal, damit man besser verstehen kann, wie dann eine Schaltsequenz funktionieren kann. Also typischer Aufbau von einem Drei-Stellungs-Leistungs-Schalter, da ist schon ganz wichtig, sieht so aus. Wie gesagt, verschiedene Hersteller machen das unterschiedlich.
+
+(0:00:57 - 0:01:16)
+Wir haben jetzt hier mal ein Beispiel rausgenommen. Da seht ihr das Leistungsschalter-Symbol mit dem X und dann seht ihr auch die Erdungsverbindung. Was kann man jetzt machen? Man kann bei diesen Drei-Stellungs-Leistungs-Schalter einmal das System in Betrieb nehmen.
+
+(0:01:16 - 0:01:29)
+Das haben wir jetzt hier gemacht. Da sind jetzt zwei Dinge gleichzeitig passiert. Den Leistungsschalter haben wir eingeschaltet und den Trennschalter haben wir geschlossen.
+
+(0:01:31 - 0:01:44)
+Jetzt zeige ich nochmal rückwärts, was man dann sozusagen auch einzeln machen kann. Man kann diesen Leistungsschalter hier öffnen und man kann den Trennschalter trennen. So ist das.
+
+(0:01:44 - 0:01:52)
+Der ist dann tatsächlich in so einer Zwischenposition. Was macht ihr mal in so einem Mittelspannungsbefähigungskurs? Nicht hier. Das glaubt ihr mir jetzt einfach, dass das geht.
+
+(0:01:52 - 0:02:08)
+Und dann kann diese Position 2 so aussehen. Und dann gibt es noch einen dritten Schritt. Jetzt könnte ich an den Trennschalter noch, also den TS, den Trennschalter noch eins weiter schieben und dann ist mein Abgang geerdet.
+
+(0:02:09 - 0:02:15)
+Diese Möglichkeiten gibt es erst mal. Jetzt habe ich noch einen zweiten Schalter in meinem Beispiel gleich. Deswegen habe ich den hier dargestellt.
+
+(0:02:15 - 0:02:31)
+Das ist ein Drei-Stellungs-Last-Trennschalter. Das ist im Detail ganz, ganz, ganz wichtig. Also wenn man solche Scheißsequenzen selber bauen will, wenn man sich da nach vorne schieben will in Betriebnahmeverantwortung, dann muss man das genau verstehen, was der Unterschied ist.
+
+(0:02:31 - 0:02:38)
+Also jetzt ein Drei-Stellungs-Last-Trennschalter. Der sieht erst mal so aus. Der hat erst mal ein Kreissymbol und kein X mehr.
+
+(0:02:38 - 0:02:50)
+Und in unserem Beispiel ist der jetzt eben einfach ein bisschen anders aufgebaut. Wenn man so will, ist das physisch jetzt eigentlich auch nur ein Schalter. Bei dem anderen Beispiel waren es zwei getrennte, die aber miteinander verriegelt sind.
+
+(0:02:51 - 0:03:00)
+Ist aber für den Kern der Sache jetzt nicht relevant. Wir wollen eben aber einfach nur mal konkrete Beispiele nutzen. So, bei dem machen wir das wieder genauso.
+
+(0:03:00 - 0:03:10)
+Also diesen Drei-Stellungs-Last-Trennschalter, den kann man sozusagen in Betrieb nehmen. Dann sieht er so aus. Man kann den Last-Trennschalter trennen.
+
+(0:03:11 - 0:03:27)
+Dann ist er in der Mittelposition und man kann den Abgang, wenn man so will, erden, also den Last-Trennschalter schließen. Diese Varianten gibt es erst mal. So, die habt ihr euch jetzt gemerkt, hoffe ich, weil jetzt geht es nämlich mal ins Eingemachte.
+
+(0:03:27 - 0:03:33)
+Jetzt geht es in ein konkretes Beispiel. Oben seht ihr es. Wir sind in der Mittelspannung im Schritt 0, nenne ich ihn.
+
+(0:03:33 - 0:03:42)
+Das mache ich absichtlich. Das ist nämlich der Montagezustand oder der Auslieferungszustand. Also da wird ja schon immer geschaltet, wenn die Mittelspannungskabel angeschlossen werden.
+
+(0:03:42 - 0:03:53)
+Aber wir nennen ihn absichtlich Schritt 0, weil irgendwie ist das jetzt, bevor es eigentlich so richtig losgeht. Und da habe ich eine Übergabestation mitgebracht. Bitte, bitte genau zuhören, genau draufschauen.
+
+(0:03:53 - 0:04:19)
+Jetzt geht es um die Details. Das ist meine Übergabestation und das ist mein Eingangsfeld H01, so heißt das. Das hat auch ein Ziel auf der anderen Seite, nämlich eine Trafostation 1, also mein Abgangsfeld, das rübergeht in die Trafostation 1. Da sehe ich jetzt grün symbolisch hier eingezeichnet, dass der Abgang erst mal geerdet ist.
+
+(0:04:20 - 0:04:38)
+Ja, also dieser Trennschalter, der ist auf Erdposition geschlossen. Also mein Abgangsfeld ist geerdet. Der Leistungsschalter, den ihr da ja auch noch zusätzlich seht, der ist ausgeschaltet.
+
+(0:04:39 - 0:04:52)
+So ist erst mal meine aktuelle Position. Ich mache das jetzt einfach immer so weiter. Ich gehe ins nächste Feld H02, da ist das Ziel, das Netz, der Netzbetreiber, das ist also das Abgangsfeld der Übergabestation.
+
+(0:04:52 - 0:05:03)
+Und da ist das jetzt genauso gemacht. Aber jetzt seht ihr schon, das ist jetzt eben diese andere Schaltervariante. Das ist jetzt ein Lasttrennschalter und der hat diese drei Stellungsvarianten sozusagen.
+
+(0:05:04 - 0:05:27)
+Also genau das, was ich gerade im Detail gezeigt hatte und wie man da so schalten kann, seht ihr jetzt hier in diesem Beispiel. Und diese zwei Schaltervarianten nehmen wir jetzt mit und gehen rüber, über dieses Kabel in die erste Trafostation, Trafostation 1. Trafostation 1 hat ein Eingangsfeld H01 mit dem Ziel. Andere Seite ist ja meine Übergabestation.
+
+(0:05:29 - 0:05:36)
+Und da ist jetzt das genauso erst mal im Montagezustand vorgesehen. Der Abgang ist geerdet. Das ist immer gut.
+
+(0:05:36 - 0:05:52)
+Für Arbeiten ist das genau der richtige Zustand. Deswegen ist der Schalter, das ist ja der gleiche, in unserer Darstellung auch ausgesetzt. Vielleicht einmal noch ganz kurz an der Stelle, weil wir auch lange gesprochen haben, wie man das am besten in so einer Tabelle darstellt.
+
+(0:05:53 - 0:06:03)
+So wirklich im Wording genau richtig perfekt trifft man es ganz schwierig. Also ich sage es an der Stelle noch mal. Der Abgang ist geerdet.
+
+(0:06:03 - 0:06:16)
+Dieser Lasttrennschalter ist in Erdposition geschaltet. Das bedeutet, weil das ja der gleiche Schalter ist, der drei Positionen kann, dass der Abgang nicht eingeschaltet ist. Er ist also ausgeschaltet.
+
+(0:06:18 - 0:06:33)
+Jetzt das nächste Feld H02. Da geht es rüber zur nächsten Trafostation, zur Trafostation 2. Und der Lasttrennschalter ist in die gleiche Position gebracht worden. Deswegen gehe ich direkt weiter zu meinem H03.
+
+(0:06:33 - 0:06:39)
+Achtung, das ist jetzt diese andere Schalter Variante. Das ist auch richtig so. Da ist ein Leistungsschalter verbaut.
+
+(0:06:39 - 0:06:57)
+Das ist richtig so. In den Leistungsgrößen, die wir da so verbauen, ist das immer zwingend erforderlich, weil hier wird der Transformator geschützt über ein Schutzrelais und das Schutzrelais muss einen Leistungsschalter ansteuern können. Deswegen braucht man hier einen Leistungsschalter.
+
+(0:06:57 - 0:07:10)
+Der kann also im Gegensatz zum Lasttrennschalter einen Fehler freischalten. Deswegen sieht es hier jetzt ein ganz klein bisschen anders aus, also nur in der Darstellung. Mein grüner Pfeil, weiterhin der Abgang ist geerdet.
+
+(0:07:11 - 0:07:19)
+Und jetzt hier, finde ich, ist es wirklich treffend. Der Leistungsschalter, den ihr da seht, der ist zusätzlich auch noch auf Aus. Da ist er, da ist er.
+
+(0:07:20 - 0:07:27)
+So, in meiner Trafostation 2, gleiches Spiel. Eingangsfeld vom Trafostation 1 ist geerdet. Alles klar.
+
+(0:07:28 - 0:07:39)
+Und da, ich kann auch da drin bleiben, das ist jetzt nicht so relevant, ist der Leistungsschalter aus, also in Ausposition. Und der Abgang, also mein Transformator, ist geerdet. So, das ist mein Montagezustand.
+
+(0:07:39 - 0:08:01)
+Das müsst ihr erst mal so mitnehmen können, damit ihr jetzt mit mir zusammen sozusagen weitermachen könnt. Weil ich habe jetzt hier schon mal auf meinen Cursor gedrückt und oben ist jetzt der Schritt 0 in Schritt 1 umgesprungen. Ich bin jetzt also im Schritt Netzanschluss.
+
+(0:08:01 - 0:08:14)
+Haben wir ja ganz oft erklärt, warum, warum das so ist. Ich kann da ruhig drin bleiben. Das finde ich immer einfacher, weil das hinter mir ist gar nicht so relevant.
+
+(0:08:15 - 0:08:23)
+Also wir sind jetzt im Schritt 1 Netzanschluss. Und jetzt seht ihr das auch ganz, ganz kleinteilig. Ich muss darauf hinweisen, sonst kann man das nicht sehen.
+
+(0:08:23 - 0:08:42)
+Aber geht mal bitte in der Übergabestation in das Feld H02 in meine Tabelle. Da seht ihr, dass das Jahr jetzt ausgegraut wurde, weil genau das machen wir jetzt im Schritt 1 Netzanschluss. Wir ändern die Position dieses Last Trennschalters in Feld H02.
+
+(0:08:42 - 0:08:55)
+Achtung, ich mache es jetzt von Ja auf Nein. Und der Schalter oben ist von der grünen Erde gesprungen in die Mittelposition und ist jetzt orange. Ich mache es einmal noch mal langsam.
+
+(0:08:56 - 0:09:05)
+Dann hat man es gesehen und genau so geht das ja jetzt dann immer weiter. Also ich gehe noch mal zurück. Mein H02 Abgangsfeld zum Netzbetreiber ist jetzt geerdet.
+
+(0:09:06 - 0:09:17)
+Die Erde ist geschlossen. Ich ändere das in den Nein Zustand und der Schalter ist jetzt genau in dieser Mittelposition. Das heißt, der Schalter ist auch nach wie vor ausgeschaltet.
+
+(0:09:18 - 0:09:40)
+Diese Position ist möglich, sie existiert. Was mache ich als Nächstes? Ich nehme mir den jetzt gleichen Schalter tatsächlich, aber gehe von der Position Schalter aus in die Position Schalter 1. Ich habe noch mal sozusagen betätigt, drauf gedrückt. Und jetzt seht ihr, jetzt ist das Abgangsfeld eingeschaltet.
+
+(0:09:40 - 0:09:55)
+Und was jetzt passiert, ist ja endlich mal das, worum es eigentlich geht. Hier seht ihr es blau markiert. Jetzt kommt die Spannung aus dem Netz über den Lastschalter in H02 bis auf meine Sammelschiene oben beim Leistungsschalter in H01.
+
+(0:09:55 - 0:10:07)
+Endet das erst mal, weil die S geöffnet. Das zu verstehen, das zu verstehen, ist der Kerngedanke von so einer Schaltfrequenz Sequenz. Also die Leute, die das wirklich machen, vor Ort auf diesen Sedien gleich kleinen grünen Knopf drücken.
+
+(0:10:07 - 0:10:22)
+Die müssen das begreifen. Die müssen verstehen, welche Konsequenz genau die einzelnen Arbeitsschritte haben. Wenn sie das nicht tun und weil sie zum Beispiel so ein Schema sich nicht vorbereitet haben, dann sind sie nicht geeignet für diese Inbetriebnahme Tätigkeiten.
+
+(0:10:23 - 0:10:38)
+Das war jetzt mal relativ ausführlich erklärt, so dieser erste Schritt, das geht jetzt ein bisschen zügiger, weil die Logik bleibt jetzt immer die gleiche Achtung. Ich ändere oben in meiner Übersicht den Schritt. Jetzt sind wir im Schritt zwei.
+
+(0:10:39 - 0:10:59)
+Und im zweiten Schritt will ich jetzt erst mal alle Erde öffnen, die ich noch so geschlossen habe. Das seht ihr jetzt schon im Eingangsfeld der Übergabestation H02 ist schon grau geworden. Achtung H01 in der Übergabestation wird jetzt orange, weil der Abgang ist nicht mehr geerdet.
+
+(0:11:00 - 0:11:23)
+Im nächsten Schritt gehe ich in die Trafo Station 1 ins H01, nehme da die Erde raus. Achtung, jetzt ist er in dieser Mittelposition. Das mache ich in H02 auch. 
+
+Erde raus. Also der Abgang ist nicht mehr geerdet. H03 habe ich jetzt auch die Erde rausgenommen.
+
+(0:11:23 - 0:11:34)
+Achtung, in der Trafo Station mache ich einfach weiter. Hier geht die Erde raus. Zack, der Lastrendschalter ist jetzt in dieser Mittelposition und auch im Trafo Abgangsfeld mache ich das schon mal.
+
+(0:11:34 - 0:11:41)
+Jetzt habe ich da auch die Erde rausgenommen. Jetzt ist dieser Schritt zwei beendet. Ich habe alle Erde geöffnet.
+
+(0:11:41 - 0:11:59)
+Warum mache ich das? Darüber könnt ihr euch wunderbar dann austauschen mit anderen Fachkräften. Ich mache das, weil während der Inbetriebnahme, das ist ganz wichtig, Inbetriebnahme ist ein Risiko, das besteht, dass man auf einen geerdeten Abgang schaltet. Das würden die vorgelagerten Schutzrelais erkennen.
+
+(0:11:59 - 0:12:22)
+Im Zweifel erst im Umspannwerk oder in der Übergabestation und würden dann das tun, wofür sie gebaut sind. Sie würden abschalten, aber das wollen wir nicht, weil dann müssen wir deutlich und klar zugeben, auch schriftlich wird so etwas dann gemacht, dass wir einen Fehler gemacht haben, dass wir in unserer Schaltsequenz irgendwas entweder nicht richtig bedacht haben oder uns nicht an die Schaltsequenz gehaltet haben. Also erstmal alle Erde raus, weil dann kann ich auch nicht auf eine Erde draufschalten.
+
+(0:12:23 - 0:12:36)
+Wenn wir noch nicht im Inbetriebnahmeprozess sind, dann lassen wir bitte die Erde drin. Auf jeden Fall, denn während der Arbeitshandlungen müssen die Abgänge immer geerdet werden. Deswegen war das ja auch im Schritt vorher so.
+
+(0:12:37 - 0:12:46)
+Okay, wir haben jetzt also die Erde geöffnet. So, Achtung oben, Schritt drei. Wir bereiten die Mittelspannungslinie jetzt vor für die Zuschaltung.
+
+(0:12:46 - 0:13:02)
+Erstmal nur vorbereiten. Konzentriert euch auf Trafostation 1. H01 und H02 ist der Schalter ausgegraut worden und jetzt, zack, nehme ich ihn rein. Achtung, ihr seht es auch gleich hier in der Linie im Schema.
+
+(0:13:02 - 0:13:09)
+Jetzt ist dieser Lasttrennschalter geschlossen. Achtung, nächstes. Auch hier schalte ich mein Schaltfeld ein.
+
+(0:13:10 - 0:13:19)
+Der Lasttrennschalter ist geschlossen und jetzt bin ich schon bei der nächsten Trafostation. Auch da mache ich das. Jetzt habe ich also meine ganze Linie durchgeschaltet.
+
+(0:13:19 - 0:13:36)
+Wer das so lesen kann, ist jetzt schon klar im Vorteil. Man sieht jetzt schon, dass von der Übergabestation H01 bis zum H02-Feld bei dem X in der Trafostation 2 die ganze Linie durchgeschliffen ist. Jetzt haben wir eine Linie gebaut.
+
+(0:13:37 - 0:13:52)
+Ich nenne das die Mittelspannungslinie vorbereiten. Für was bereite ich sie vor? Für den Schritt vier bereite ich sie vor. Im Schritt vier erfolgt jetzt das Zuschalten dieser soeben vorbereiteten Mittelspannungslinie.
+
+(0:13:52 - 0:14:18)
+Konzentriert euch auf die Übergabestation Feld H01. Ist der Schalter schon in der Tabelle ausgegraut worden? Und jetzt? Spannender Moment. Ich habe es gerne schon oft gemacht und bin danach aber doch wieder erleichtert, wenn es vorbei ist, weil jetzt kann ja nun einfach auch mal, wenn das Kabel doch nicht richtig geprüft ist oder man einen Schaltfehler getätigt hat, dann würde jetzt Folgendes nicht so reibungslos funktionieren.
+
+(0:14:18 - 0:14:27)
+Nämlich ich schalte diesen Schalter in H01 ein. Das ist mein Leistungsschalter. Zack, jetzt ist mein Abgangsfeld eingeschaltet.
+
+(0:14:28 - 0:15:03)
+Und jetzt, weil wir alles richtig gemacht haben, schiebt sich sozusagen meine Spannung die ganze Linie entlang bis zum letzten Feld in der Trafostation 2. Hier blau dargestellt. Das bleibt jetzt auch so, weil wir keinen Fehler gemacht haben. Ich sage es nur noch mal an der Stelle, wenn irgendwo auf Erde geschaltet wird oder wenn jetzt ein Fehler im Kabelfeld ist oder im Kabel selbst, dann würden das die Schutzrelais erkennen und dann würde innerhalb von Millisekunden, so sind die ja eingestellt, diese dieser Schalter vom Leiste vom Relais im Umspannwerk auch wieder öffnen.
+
+(0:15:04 - 0:15:08)
+Bei uns nicht. Alles richtig gemacht. Die Linie ist jetzt unter Spannung.
+
+(0:15:10 - 0:15:18)
+Jetzt kommt der letzte Schritt. Jetzt wollen wir endlich unsere Transformatoren zuschalten. Ihr seht, dass ich das absichtlich nicht gemacht habe.
+
+(0:15:18 - 0:15:34)
+Bis jetzt also auf Station 1 und 2. In der 1 ist es H03, in der 2 ist es H02, sind weiterhin geöffnet. Die Schalter sind auf Ausposition und das ändern wir jetzt. Ich mache das absichtlich, weil ich will die jetzt in Ruhe einzeln zuschalten.
+
+(0:15:34 - 0:15:40)
+Netzbetreiber kann nach Hause fahren. Andere Subs, die da involviert sind, brauche ich jetzt vielleicht auch nicht mehr. Jetzt geht's weiter.
+
+(0:15:41 - 0:15:55)
+Trafostations intern. Erstmal H03 in der Station 1. Achtung, ich schalte hier auf 1. Der Leistungsschalter ist geschlossen. Und da ist jetzt meine Spannung ab zum Trafo.
+
+(0:15:56 - 0:15:59)
+Das Gleiche. Oh, das war einen Tick doch zu schnell. Bis jetzt habe ich es super gemacht.
+
+(0:16:00 - 0:16:17)
+Jetzt habe ich es hier an einer Stelle doch zu schnell gemacht. Jetzt mache ich das Gleiche nochmal in der Trafostation 2. Achtung, Schalter 1. Ihr seht es im Symbol und die Spannung geht rüber. Das wäre eine erfolgreiche Betriebnahme der Transformatoren, also der Mittelspannungsseite gewesen.
+
+(0:16:17 - 0:16:29)
+Jetzt ziehe ich das alles nochmal zusammen und ihr lasst euch auf gar keinen Fall verwirren. Aber die Schaltsequenz, von der ich eigentlich spreche, sieht so aus. Man kann sich das natürlich visuell bauen, so wie wir es ja auch gemacht haben.
+
+(0:16:29 - 0:16:45)
+Aber ich finde, das funktioniert eigentlich besser so für das Bauen selbst und für das Diskutieren. Wenn man dann erst mal vor Ort ist, reicht diese Übersicht und dann weiß derjenige auch, was er damit anzufangen hat. Das ist also die Schaltsequenz, die auch in meinen Bedingungen da immer wieder öfter vorkam.
+
+(0:16:45 - 0:16:59)
+Also die Person, die für die Mittelspannungsinbetriebnahme verantwortlich ist, die muss so eine Schaltfrequenz vorliegen haben. Das war die Mittelspannung. Die Niederspannung ist einfacher, finde ich, aber wichtig ist sie trotzdem.
+
+(0:17:00 - 0:17:16)
+Deswegen zeigen wir sie nochmal. Achtung, ab geht's in die Niederspannung. In dem Bild gerade hier, nur Mittelspannung, schiebe ich nach links und zeige jetzt nochmal den Abgang weiter in der Trafostation, also zu der Niederspannungsseite rüber.
+
+(0:17:16 - 0:17:33)
+Das ist sozusagen jetzt auch blau markiert. Das, was unter Spannung steht, nach diesem Schritt 5. Ihr seht schon, für die, die ganz aufmerksam sind, die Module sind es auch genau, weil die Module, es ist jetzt Tag, stehen auch unter Spannung. Was machen wir jetzt? Jetzt haben wir also hier der Transformator brummt.
+
+(0:17:33 - 0:17:44)
+Die Niederspannungversorgung ist auch schon da, weil es da keine Trennstelle mehr gibt in unserem Beispiel. Und jetzt kann ich zum Beispiel die DC-Strings zuschalten. Achtung, ich mache das unten.
+
+(0:17:45 - 0:17:55)
+Diese Drehschalter bei so dezentralen Wechselrichtern zum Beispiel nehme ich jetzt in Betrieb. Zack. Und was passiert? Wichtig, nur die DC-Seite der Wechselrichter steht jetzt unter Spannung.
+
+(0:17:55 - 0:18:11)
+Auf der AC-Seite ist überhaupt noch nichts passiert, weil die ja netzbetrieben sind und die warten ja jetzt noch auf das Netz. In meiner Variante 1, so wie ich sie hier darstelle, ist das zumindest so. Als nächstes würde ich die Hilfsspannung der Trafostation in Betrieb nehmen.
+
+(0:18:11 - 0:18:20)
+Achtung, das ist so mittig. Oben ist das hier. Habe ich jetzt die Sicherung eingelegt, dass es 230 Volt und jetzt kann ich da noch so kleine B6 Automaten einschalten.
+
+(0:18:20 - 0:18:31)
+Das mache ich auch noch. Mache ich alles schön vorher von den Wechselrichtern, weil jetzt habe ich mein Monitoring ist jetzt da, die Steckdosen funktionieren, das Licht geht. Jetzt kommen meine Kollegen übers Monitoring mit dazu.
+
+(0:18:32 - 0:18:41)
+Habe ich schon viel geschafft an der Stelle. Jetzt die Niederspannungssicherung einlegen. Ich hatte es gesagt, ich würde das machen, bevor ich den Niederspannungs Leistungsschalter schalte.
+
+(0:18:42 - 0:18:53)
+Da zack, jetzt sind die Niederspannungssicherung meiner Trafostation eingelegt und letzter Schritt zuschalten des Niederspannungs Leistungsschalters. Das ist ein Leistungsschalter. Der ist dafür gebaut.
+
+(0:18:53 - 0:19:13)
+Ich mache tack, drin ist er. Jetzt ist die Netzspannung bis zum Wechselrichter verfügbar und deswegen erstrahlen jetzt auch die Wechselrichter in meinem spannungsführenden Blau. So ist also meine Schaltsequenz, wenn man so will, nochmal in einer anderen Ebene dargestellt, nämlich dem Schema.

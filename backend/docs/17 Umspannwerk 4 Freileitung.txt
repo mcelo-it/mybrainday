@@ -1,0 +1,179 @@
+(0:00:00 - 0:00:29)
+Und jetzt, bevor wir in die Pause gehen, kommen wir nochmal zu dem Kapitel Freileitung. Ich hatte das eben schon mal in der 360 Grad Tour euch ganz kurz zumindest so eine Freileitungsanbindung gezeigt, wie das funktioniert. Und wir kriegen jetzt immer, immer häufiger die Frage gestellt, sag mal, wo kann man denn jetzt an diese Freileitung anschließen? Und das ist natürlich erst mal pauschal gar nicht so einfach zu beantworten, weil am Ende hat der Netzbetreiber das letzte Wort.
+
+(0:00:29 - 0:00:55)
+Also der Netzbetreiber sagt uns am Ende, wo wir anschließen können und wo nicht. Aber es gibt, denke ich, schon ein paar Punkte, auf die man achten kann, so dass man dann vielleicht, bevor man große Anfragen beim Netzbetreiber stellt, schon mal klar sagen kann, an der Stelle könnte es gehen oder an der Stelle könnte es gehen oder hier könnte es wahrscheinlich nicht gehen. Das haben wir jetzt mal versucht, so ein bisschen aufzuarbeiten, was da unsere Erfahrungen aus den letzten Monaten und Jahren sind.
+
+(0:00:55 - 0:01:11)
+Und anhand einer Karte würden wir jetzt mal diesen ganzen Prozess beginnen. Wir haben eine Freileitung euch mal eingezeichnet, die habt ihr, glaube ich, gerade ins Bild, im Bild auftauchen sehen. Das ist eine 110 KV Freileitung, da in dieser Magentafarbe in dem Plan und die hat eben einen Verlauf.
+
+(0:01:11 - 0:01:27)
+Der ist natürlich erst mal gegeben und auf diesem Verlauf finden sich jetzt verschiedene Masten. Die haben wir jetzt natürlich einfach mal eingezeichnet, wie wir denken, Masten stehen könnten. Das kann in der Realität natürlich ganz, ganz anders sein, aber so könnte das vom Grundsatz erst mal aussehen.
+
+(0:01:28 - 0:01:48)
+Jetzt gibt es einen Masttyp, der in Deutschland am meist verbreiteten ist, so sagt es zumindest die Literatur und das ist erst mal der Donaumast. Der Donaumast, den gibt es dann eben als Abspannmast, später auch noch als Tragmast. Jetzt gucken wir uns erst mal den Donauabspannmast an und den würden wir erst mal finden in Kurven.
+
+(0:01:48 - 0:02:12)
+Der Donauabspannmast, so heißt er, hier ist er mal herangesoomt, oben in der Kurve, dort ist eine leichte Biegung in dem Verlauf der 110 KV Trasse. Da bräuchte man erst mal einen Abspannmast und dieser Abspannmast sieht dann genau so aus, wie er aussieht. Er hat erst mal zwei Systeme und nimmt Leitungen oder nimmt seitliche Lasten auf.
+
+(0:02:12 - 0:02:37)
+Das heißt, er ist geeignet, um diese Biegung in der 110 KV Trasse statisch erst mal zu halten. Zwei Systeme tragen diese Masten und das gilt dann auch für alle anderen Masten, die wir später zeigen. So ist das in der Regel in der 110 und 380 KV gedacht, dass mindestens zwei Kabelsysteme an diesen Masten angeschlossen werden.
+
+(0:02:37 - 0:03:26)
+Also man sieht von dem Mast, auf der linken Seite sind drei Isolatoren und auf der rechten Seite sind drei Isolatoren. Diese Leitungen sind so ein bisschen im Dreieck angeordnet, zwei unten, eins oben, ein Seil und diese Dreiecksverschaltung, die kennen wir auch aus der Mittelspannung, die hilft natürlich immer in so einem elektrischen System, die magnetischen Felder möglichst gleichmäßig aufzuteilen, sodass es da keine großen Unterschiede gäbe zwischen den kapazitiven Beeinflussungen, beispielsweise zwischen den Kabeln. Jetzt ist das Markenzeichen von dem Donauabspannmast, also Donau wäre diese Dreieckskonstellation der Kabel und für ein Abspannmast als Markenzeichen, und das kann man sich vielleicht mal so merken, sind hier diese gespannten Isolatoren.
+
+(0:03:26 - 0:03:52)
+Also man sieht jetzt die in Orange eingefärbten Isolatoren, die hängen nicht runter, sondern die sind so ein Stück weit nach vorn und hinten abgespannt. Das heißt, diese Isolatoren, die deuten erst mal darauf hin, dass man hier ein Abspannmast hat. Das heißt, Kurve ist natürlich erst mal das erste Indiz, das erste Signal und das zweite wäre dann eben, dass man gespannte Isolatoren hat.
+
+(0:03:53 - 0:04:20)
+Die massivere Bauweise, die würdet ihr jetzt natürlich auf dem Lageplan erst mal nicht erkennen und ehrlich gesagt, wenn ihr diese Masten dann vor Ort mal seht, ist das auch nicht ganz klar, gleich zu sehen, dass dieser Mast auch massiver gebaut ist. Aber es ist natürlich so, weil sonst könnte er eben diese seitlichen Masten nicht aufnehmen. Und ganz wichtig, der letzte Punkt, hier an so einem Mast ist erst mal grundsätzlich der Anschluss von einem Umspannwerk möglich.
+
+(0:04:20 - 0:04:38)
+Das ist die Quintessenz, worauf wir hier hinaus wollten. Also wenn ihr so eine Kurve seht, da steht wahrscheinlich ein robuster, stabiler Mast und wahrscheinlich kann man diesen Mast dafür nutzen, ein Umspannwerk anzuschließen. So, jetzt kommt der Donaumast noch mal als Tragmast.
+
+(0:04:38 - 0:04:47)
+Der sieht erst mal sehr, sehr ähnlich aus zu dem Donaumast als Abspannmast. Die ersten drei Punkte treffen auch nach wie vor so zu. Es ist ein sehr häufig eingesetzter Typ.
+
+(0:04:47 - 0:05:09)
+Es gibt zwei Systeme auf jeder Seite des Mastes 1 und die Leitungsverlegung ist dort im Dreieck. Hier ist jetzt dieser Donaumast noch mal gezeigt und der Unterschied, der einzige Unterschied, den es hier gibt, den man hier auf den ersten Blick sieht, ist, dass eben diese Isolatoren runterhängen. Dadurch kann dieser Mast erst mal nur vertikale Lasten aufnehmen.
+
+(0:05:09 - 0:05:21)
+Es ist ein Tragmast. Ja, also wenn jetzt eine seitliche Last käme, dann würden diese Isolatoren sofort zur Seite schwenken. Der Mast ist erst mal statisch auch gar nicht so konzipiert, dass er eben seitliche Lasten tragen kann.
+
+(0:05:24 - 0:05:40)
+So, und das hat dann eben als Resultat, dass an solchen Masten der Anschluss von einem Umspannwerk erst mal nicht möglich ist. Wie das grundsätzlich funktionieren würde, dieser Anschluss, das kommt später. Aber jetzt müsst ihr erst mal mitnehmen an so einem Tragmast.
+
+(0:05:40 - 0:05:55)
+Da stehen die Chancen erst mal sehr, sehr schlecht, dass man da überhaupt irgendwas machen kann für sein Umspannwerk. So, dann gibt es eine Mastvariante, die man eher seltener sieht in Deutschland, aber die trotzdem noch eingesetzt wird. Das ist die Tonne.
+
+(0:05:55 - 0:06:10)
+So wird es dann umgangssprachlich genannt. Die Tonne, die kann erst mal, die trägt erst mal die Leiter vertikal angeordnet. Ja, also man sieht auch hier zwei Systeme auf jeder Seite und die Leiter liegen übereinander.
+
+(0:06:10 - 0:06:33)
+Es ist elektrisch gesehen dann wahrscheinlich erst mal nicht ganz so von Vorteil, weil natürlich das mittlere Leiterseil eine höhere Beeinflussung hat von dem oberen und unteren Seil als das obere und untere Seil. Deshalb würde man das nicht unbedingt überall so verwenden. Aber einen Vorteil hat natürlich dieser Mast, weil er ist sehr schmal, dafür aber sehr hoch.
+
+(0:06:33 - 0:06:52)
+Aber dadurch, dass er schmal ist, kann man ihn natürlich gut einsetzen in Waldgebieten, wo man vielleicht die Schneise für diese Freileitungstrasse möglichst klein, möglichst gering halten will. Da kann man diesen Mast nutzen, auch wenn man ihn mittlerweile nicht mehr so häufig sieht. Hier wäre es auch erst mal relativ schwer, ein Umspannwerk anzuschließen.
+
+(0:06:53 - 0:07:10)
+Würde ich, wenn ich jetzt meine erste Einschätzung abgeben würde, erst mal sagen, wir gehen zum nächsten Mast und gucken mal, wie der aussieht. Dann gehen wir zu einer weiteren Variante der Masten. Diesen Mast haben wir eben auch in der 360°-Tour gesehen.
+
+(0:07:10 - 0:07:26)
+Das ist der Ein-Ebenen-Mast und den gibt es als Tragmast erst mal. Und der Ein-Ebenen-Mast würde dann genau so aussehen, also auch zwei Systeme. Beide Systeme sind vertikal angeordnet, also die Leiterseile sind nebeneinander.
+
+(0:07:27 - 0:07:41)
+Dadurch hat der Mast erst mal keine große Höhe, sondern er ist sehr, sehr flach, würde man so sagen. Dafür ist er aber relativ breit. Das heißt, man würde ihn jetzt auf keinen Fall im Waldgebiet einsetzen, weil da müsste man sehr viel Wald roden, um da diese Trasse aufzubauen.
+
+(0:07:42 - 0:07:54)
+Aber man könnte ihn jetzt gut einsetzen in der Nähe von Wohngebieten. So hatten wir es dann da auch in der Karte uns gedacht. Da ist ein Restaurant und da würde man jetzt vielleicht nicht den allerhöchsten Mast bauen oder das ist vielleicht eine kleine Siedlung.
+
+(0:07:54 - 0:08:13)
+Da würde man nicht die hohen Masten bauen, sondern vielleicht eher dazu tendieren, den flachen, dafür breiteren Mast zu nehmen. Und dadurch eben vielleicht die elektrotechnischen Nachteile, die auch dieses System bietet. Weil auch hier ist das mittlere Kabel jeweils natürlich stärker belastet von den äußeren als die äußeren.
+
+(0:08:14 - 0:08:21)
+Dafür hat er eben diesen Höhenvorteil. Also eine vertikale Lastaufnahme. Er kann tragen, deshalb heißt er Tragmast.
+
+(0:08:22 - 0:08:30)
+Er kann aber dann wahrscheinlich keine Kurven machen. Und auch hier wäre es dann nicht möglich, ein Umspannwerk zu installieren. Diesen Tragmast gibt es aber auch als Abspannmast.
+
+(0:08:30 - 0:08:42)
+Sonst hätten wir unser Umspannwerk in der Tour ja gar nicht so errichten können. Und der sieht dann tatsächlich sehr, sehr ähnlich aus. Also erst mal die Stahlkonstruktion sieht genauso aus.
+
+(0:08:42 - 0:08:53)
+Sie wird nicht genauso sein. Sie wird schon robuster und massiver sein. Aber die Isolatoren, die sind auch hier, wie wir es vorhin bei dem Donaumast gesehen hatten, erst mal zu den Seiten abgespannt.
+
+(0:08:53 - 0:09:12)
+Das heißt, das ist erst mal hier der Hinweis wieder, Achtung Leute, das könnte ein Mast sein, der vielleicht wirklich seitliche Kräfte tragen kann. Nicht nur vertikal, sondern auch horizontal, wo man dann eben ein Umspannwerk später anschließen kann. Gespannte Isolatoren als Markenzeichen dafür, wie oben bei dem Donaumast.
+
+(0:09:12 - 0:09:24)
+Und dann hat dieser Mast natürlich eine massivere Bauweise als der Tragmast in der einen Ebene. Aber das würde ich auch sagen, ist nicht gleich für den Laien sofort zu erkennen, sondern wichtiger. Dann schaut auf die Isolatoren.
+
+(0:09:25 - 0:09:40)
+Wenn die gespannt sind, ist das ein Zeichen dafür, dass es ein Abspannmast ist. Hier wäre dann auch ein Anschluss von einem Umspannwerk möglich. Dafür kriegen wir den Daumen hoch und zeigen euch jetzt nochmal die Masten im Vergleich.
+
+(0:09:40 - 0:09:51)
+Also eine Ebene, Donau und Tonne. Das sind so die Modelle. Und Donau und eine Ebene dann als Abspannmast für den Anschluss von so einem Umspannwerk.
+
+(0:09:53 - 0:10:12)
+Eine Kombination wäre auch noch möglich und das haben wir bei in der 380 KV häufig. Da gibt es dann meistens Donaumasten für 380 KV und unten drunter ist dann manchmal noch eine 110 KV Trasse als Ein-Ebenen-Mast. Dann würde sich eben Donau-Ebene kombinieren.
+
+(0:10:12 - 0:10:28)
+Und häufig ist es auch so, dass die deutsche Bahn mit auf diese Masten geht. Dann hat man oben einen Donaumast und unten drunter hat man dann zwei Systeme der deutschen Bahn. Ist dann immer sehr gut daran zu erkennen, dass das nur zwei Leiter auf jeder Seite sind als eine Ebene.
+
+(0:10:28 - 0:10:43)
+Also eine Kombination ist möglich. So, dann stellt sich jetzt die Frage, wo bauen wir das Umspannwerk? Wir hatten es ja im Grunde genommen schon beschrieben, dass die Abspannmasten geeignet sind. Also Variante 1 Abspannmast.
+
+(0:10:43 - 0:10:53)
+Wir schieben unseren Bagger mal dahin, da könnten wir es jetzt mal versuchen. Da müssen wir uns jetzt mit dem Netzbetreiber abstimmen und fragen. Der kann da sicherlich noch sagen, nee, nee, nee, der ist nicht geeignet.
+
+(0:10:53 - 0:11:07)
+Der ist schon völlig ausgereizt, der kann keine Lasten mehr aufnehmen. Aber das ist erst mal jetzt ein Startpunkt, wo wir vielleicht in einer frühen Planungsphase erst mal weiterdenken könnten. Wenn der nicht geeignet ist, gibt es immer noch eine zweite Möglichkeit.
+
+(0:11:08 - 0:11:25)
+Zum Beispiel könnte man einen zusätzlichen Abspannmast einbauen. Das haben wir auch schon bei Projekten gemacht, dass man dann sagt, hier zwischen diesen zwei Tragmasten gäbe es jetzt die Möglichkeit, einen Abspannmast einzubauen. Man würde jetzt keinen Tragmast austauschen und gegen einen Abspannmast ersetzen.
+
+(0:11:25 - 0:11:41)
+Meistens stellt man dann einen Mast dazwischen. Das geht und dann hat man hier die Möglichkeit, diesen Mast einzubauen und dann hier eben mit dem Umspannwerk anzuschließen. Aber auch das ist nur von uns eine Richtschnur.
+
+(0:11:41 - 0:11:51)
+Hier hat natürlich immer der Netzbetreiber das letzte Wort. Also es wird wahrscheinlich nichts helfen, wenn ihr jetzt zum Netzbetreiber geht. Der Holger hat gesagt, ihr könnt ein Umspannwerk bauen und einen Mast aufbauen.
+
+(0:11:51 - 0:12:04)
+Wenn der Netzbetreiber da seine Bedenken hat, dann wird das nicht funktionieren. So, wie funktioniert denn das Ganze jetzt? Also wir wissen jetzt, wo das Umspannwerk hin soll. Wir haben uns jetzt da zwei Masten ausgesucht.
+
+(0:12:04 - 0:12:13)
+Und jetzt wäre eine Variante zum Beispiel Traverse. Der linke Mast, den wir jetzt hier sehen, das ist ein Abspannmast. Wir sehen es wieder an diesen gespannten Isolatoren.
+
+(0:12:14 - 0:12:25)
+Und die Idee, die man jetzt hier hätte, wenn wir den Mast gefunden haben, dass wir hier eine Traverse einbauen können. So ähnlich habt ihr es auch eben in der Tour gesehen. Da war ein Mast mit einer Traverse dran.
+
+(0:12:26 - 0:12:44)
+Die Traverse fliegt jetzt hier rein und die würde man dann unterhalb der bestehenden Freileitung installieren. Und dann hätte man im 90 Grad Winkel zu der Freileitungstrasse eben diese Traverse an den Mast gebaut. Wir blenden jetzt den Rest der Freileitungstrasse aus, weil das jetzt gar nicht mehr so wichtig ist.
+
+(0:12:45 - 0:12:56)
+Und blenden hier ein Portal ein. Und dieses Portal wäre dann der Startpunkt vom Umspannwerk. Und dieses Portal müsste jetzt erstmal grundsätzlich außerhalb des Schutzstreifens von dem Umspannwerk sitzen.
+
+(0:12:56 - 0:13:05)
+Meistens sind das so dann 30, 40 Meter von der Freileitung entfernt. Da steht dann oft das Portal und da fängt dann auch unser Umspannwerk an. Ihr habt das eben in der Tour ja auch gesehen.
+
+(0:13:05 - 0:13:30)
+Ich stand unter dem Portal und von da geht es dann zur Freileitung rüber. Das würde dann genauso funktionieren. Die Verbindung vom Portal zur Traverse, das ist erstmal ein stark gespanntes Seil, was da gezogen wird, schließt eben so an diese Traverse und wird an dem Portal erstmal abgespannt und an diesen Isolatoren oder über die Isolatoren an dem Portal befestigt.
+
+(0:13:33 - 0:13:59)
+Diese Verbindung, diese gespannten Seile, die dienen jetzt dafür, dass man von diesem Seil eben hochgehen kann zu den Leitern der Freileitung. Das heißt Phase 1, Phase 2, Phase 3 werden jetzt an die bestehende Leitung über ein Draht, über ein Seil eben an unsere Verbindung zum Umspannwerk angeschlossen. Und so ist das hier schon im Grunde genommen erledigt.
+
+(0:13:59 - 0:14:06)
+Die Verbindung zur Freileitung ist jetzt hergestellt. Das Umspannwerk, wie es jetzt mal geschrieben ist, ist ca. 50 Meter von der Freileitung entfernt.
+
+(0:14:06 - 0:14:33)
+Häufig kriegen wir auch Fragen, können wir auch 300, 400 Meter entfernt das Umspannwerk aufbauen? Das wird in der Regel von den Netzbetreibern nicht akzeptiert. Und wenn man dann auch noch Masten bauen müsste über diese Strecke, dann hat man, denke ich, auch ein genehmigungstechnisches Thema, weil man dann nicht so einfach mal Freileitungen errichten darf. So, die zweite Variante, die es dann gäbe, wäre Unterspannung.
+
+(0:14:33 - 0:14:48)
+Und das ist jetzt nicht zu verwechseln mit der Schutzfunktion Unterspannung, sondern eine Unterspannung ist eine Art der Anbindung an so eine Freileitungstrasse. Ist eben nicht die Traverse, sondern Unterspannung. Wird ein bisschen anders gemacht.
+
+(0:14:48 - 0:15:02)
+Wir drehen mal die Ansicht. Das Portal bleibt bestehen. Das Portal ist jetzt ein bisschen in Richtung Leiterseil gerutscht, also steht nicht mehr im 90 Grad Winkel zu dem Mast, sondern jetzt im 90 Grad Winkel zu dem Leiterseil.
+
+(0:15:02 - 0:15:30)
+Und hier blenden wir euch so einen Hilfsmast ein, der verschiebt sich gleich noch. So sieht ein Hilfsmast aus, den man jetzt für so eine Unterspannung verwenden würde. Und den Hilfsmast, da gibt es dann natürlich auch unterschiedliche Angaben bei unterschiedlichen Netzbetreibern, aber in ungefähr 20 Meter Entfernung von dem Mast muss dann eben dieser Hilfsmast aufgestellt werden und zwar ungefähr mittig in der Achse des Mastes, aber ganz mittig ist nicht richtig, sondern ein Meter aus der Achse verschoben.
+
+(0:15:30 - 0:15:58)
+Das heißt, in unserem Fall müsste dieser Hilfsmast noch ein Meter jetzt nach rechts geschoben werden, aus der Achsmitte heraus. Für den Fall, dass der Netzbetreiber das linke Seilsystem warten will oder das mal runterfällt, dann sollte dieser Hilfsmast ein Stückchen weiter rechts stehen, sodass er da in Ruhe arbeiten kann. So, Hilfsmast steht, Portal steht und jetzt kommt eben auch hier eine Verbindung, eine stark gespannte Leiterseilverbindung von dem Portal zu dem Hilfsmast.
+
+(0:15:59 - 0:16:12)
+Die ist dann meistens so in sieben, acht Metern Höhe, manchmal auch zehn Meter Höhe. Und von dort würde man jetzt oben an die Leiter anbinden. Wir drehen dafür mal das Bild, damit ihr das besser seht.
+
+(0:16:12 - 0:16:29)
+Also diese Hilfsmasten, sagen wir mal zehn Meter hoch. Da kann man jetzt drunter durchlaufen, da könnte dann wahrscheinlich so ein LKW drunter durchfahren, sodass nichts passiert. Und von dort greift man jetzt auch wieder, wie von der Traverse eben auch, hoch an diese Freileitung und schließt dort an.
+
+(0:16:31 - 0:17:06)
+So, als Drittes, und das ist eine Sonderlösung, die wir jetzt auch mal in einem Projekt hatten, die wir euch dann eben nicht vorenthalten wollen, Mastaufführung mit einem Erdkabel, ist eine Sonderlösung, die man vielleicht mal hat, wenn man jetzt an der Stelle des Mastes oder da, wo die Unterspannung stehen würde, einfach keinen Platz hat für sein Umspannwerk, dann kann man solche Sonderlösungen mal drüber nachdenken. Aber das ist natürlich nicht so einfach und auch nicht immer ganz so klar zu beantworten, wie geht das jetzt. Aber in dem Projekt, was ich da kenne, haben wir es eben so gemacht.
+
+(0:17:06 - 0:17:27)
+Der Hilfsmast wird mit Abstand zum Mast wieder montiert, so ein bisschen ähnlich wie bei der Unterspannung vorhin. Wir schieben den da mal drunter und unser Umspannwerk steht jetzt eben nicht im 90-Grad-Winkel zu diesem Hilfsmast, sondern steht so ein Stück weit entfernt, ein bisschen rausgerückt. In meinem Beispiel waren das knapp 100 Meter, die das Umspannwerk dann wegsteht.
+
+(0:17:27 - 0:18:03)
+Und dann kann man eben mit einem Erdkabel nicht im 90-Grad-Winkel zur Freileitung, sondern in einem anderen Winkel, eben für uns der geeignete Winkel, von diesem Netzanschlusspunkt weg zu dem Portal des Umspannwerks und kann dann da eben anschließen. Das macht uns ein bisschen flexibler, weil sowohl bei der Traverse als auch bei der Unterspannung ist immer die Vorgabe, mehr oder weniger genau im 90-Grad-Winkel von der Freileitung abzuspannen. Wenn das nicht geht, weil ihr dort aus grundstückstechnischer Sicht einfach keinen Platz habt, dann ist so eine Erdkabelanbindung eine denkbare Lösung.
+
+(0:18:03 - 0:18:22)
+Die muss man dann wirklich mit Fachleuten durchsprechen, dass das so machbar ist. Lieferzeiten von Erdkabeln für so kurze Strecken sind dann auch immer ein Problem und es ist auch nicht ganz billig, aber es ist zumindest eine Alternative. So, jetzt geht das Kabel noch hoch zur Freileitung und auch hier eben genau wie bei der Unterspannung funktioniert das so.

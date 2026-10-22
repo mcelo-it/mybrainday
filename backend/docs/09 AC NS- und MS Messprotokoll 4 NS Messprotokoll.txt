@@ -1,0 +1,119 @@
+(0:00:00 - 0:00:12)
+Wir gehen weiter in die Niederspannungs-Messprotokolle. Hier sehen wir so ein Niederspannungs-Messprotokoll. Wir haben das selber nachgebaut.
+
+(0:00:12 - 0:00:23)
+So eine Vorlage haben wir uns aus der Norm genommen. Und die zeigen wir euch jetzt nochmal kleinteiliger im Detail. Also einmal den Kopf, dann die Topologie.
+
+(0:00:23 - 0:00:35)
+Die ist ganz wichtig, dass die nachvollziehbar ist aus so einem Messprotokoll, damit man das überhaupt sinnhaft bewerten kann. Zum Beispiel, ob überhaupt alle vorne im Kabel geprüft wurden. Dann die Prüfergebnisse, die wir dann später auch noch bewerten.
+
+(0:00:36 - 0:00:58)
+Und eine Fußzeile ist mir persönlich immer ganz wichtig, dass man da nicht aus Versehen die Unterschrift vergisst. Also kurz den Kopf angeschaut, geht es wirklich nur darum, dass man mal die Bullet-Points gehört hat und vielleicht eine Stichpunktliste für später hat, um sich da selber durchzuarbeiten. Ich würde immer gucken, dass bei meinem Messprotokoll der Kopf richtig angegeben ist.
+
+(0:00:58 - 0:01:04)
+Also Projektdaten müssen drin sein. Der Grund für die Prüfung muss drin sein. Das hatten wir oben schon.
+
+(0:01:04 - 0:01:29)
+Es geht nicht nur um die Erstprüfung, sondern das können auch Wiederholprüfungen sein oder auch ganz wichtig, es kann sein, dass es einen Fehler gab und der wurde dann ausgebessert und dann nochmal neu geprüft. Also für so eine chronologische Dokumentation sind diese Haken hier bei Grund für die Prüfung sehr sinnvoll. Die Funktionsprüfung selbst, da gibt es alle möglichen projektspezifischen Funktionen, die da geprüft werden können.
+
+(0:01:29 - 0:01:50)
+Wir haben hier nur so mal drei Beispiele reingenommen, auf die ich jetzt nicht weiter eingehen will. Das ist projektspezifisch, das kann man sehr weit ausbreiten, dieses Feld. Aber Sinn macht es auf jeden Fall, dass man also nicht nur das Kabel selbst prüft, sondern auch, wenn man so will, die drumherum liegenden Funktionen, die damit zusammenhängen.
+
+(0:01:52 - 0:02:30)
+Gleiches gilt für den Punkt, steht extra so drin in der Vorlage, in der Norm, dass man also auch die Erdung und den Schutz, der mit dem Kabel zusammenhängt, prüft. Das mag jetzt hier eine visuelle Prüfung sein, ist ja erst mal im ersten Schritt äußerst sinnvoll, aber man entlässt sozusagen den Prüfer nicht einfach nur damit, dass er irgendwie das Kabel geprüft hat und die Messergebnisse aufgeschrieben hat, das reicht nicht, sondern er muss es auch im Kontext mit dem Gesamtsystem, also dem Schutz, bewerten. Dann ist das Messverfahren abhängig von der Netztopologie.
+
+(0:02:30 - 0:02:50)
+Deswegen haben wir das hier mal so angegeben, dass man das in aller Ruhe auswählen kann, was man jetzt da vor Ort hat, weil daraus dann auch Rückschlüsse zu ziehen sind, ob man überhaupt richtig gemessen hat. Das sehen wir später auch noch. Wir machen es vor allem am Beispiel TN- und IT-System, welche unterschiedlichen Prüfverfahren man da anwenden würde.
+
+(0:02:51 - 0:03:09)
+Damit man es aber, wie gesagt, in dem Messprotokoll, das man ja recht nüchtern zugeschickt bekommt, wirklich bewerten kann, muss man es hier angeben, welches System denn überhaupt vorliegt. Das wäre dann der Kopf. Dann gehen wir in den nächsten Punkt, die Anlagentopologie.
+
+(0:03:09 - 0:03:28)
+Da gehen wir einmal durch. In unserem Beispiel, wir würden also bei Niederspannungswechselrichtern ein dezentrales System, würde ich aufschreiben, welcher Wechselrichter überhaupt angeschlossen ist. Und hier mit Klemme ist gemeint, wo in der Niederspannungsverteilung er aufgelegt ist.
+
+(0:03:28 - 0:03:36)
+Das ist ja nicht zwangsläufig so, dass der Wechselrichter 1.1 auf der Klemme 1 liegt. Das muss nicht so sein. In der Realität ist das sogar oft anders.
+
+(0:03:36 - 0:03:43)
+Dann ist das hier ein typischer Copy-Paste-Fehler. Das muss also korrigiert werden. Projektspezifisch angepasst werden.
+
+(0:03:45 - 0:03:56)
+Kabeltyp, Kabelquerschnitt schreiben wir hier rein, weil darauf bezogen ist ja dann die Messung. Also man muss wissen, was da für ein Kabel verlegt wurde. Auch die Kabellänge geben wir an.
+
+(0:03:57 - 0:04:18)
+Und jetzt als nächstes die Betriebsspannung. Das entnehmen wir den Normtabellen, mit welcher Betriebsspannung man prüft, also mit welcher Betriebsspannung angelegt ist und daraus dann eine andere Prüfspannung folgt. Deswegen ist die Angabe der Betriebsspannung wichtig.
+
+(0:04:19 - 0:04:31)
+Gut, dann hatte ich vorhin ja schon erwähnt, mit dem Anklicken an Kreuzen, dass man auch sagt, die Schutzfunktion an sich ist gegeben. Funktionsprüfung hat man gemacht. Das heißt, man muss hier schon reinschreiben, welche Schutzfunktion es überhaupt gibt.
+
+(0:04:31 - 0:04:48)
+Das wäre jetzt in unserem Fall eine Sicherung. Da schreibt man den Typ rein, den Nennstrom der Sicherung, weil man eben aus den Messergebnissen rückschließen will, ob denn der Schutz über zum Beispiel diese Sicherung überhaupt gewährleistet ist. Und deswegen muss das hier in der Topologie mit drinstehen.
+
+(0:04:49 - 0:04:59)
+Dann haben wir jetzt mit reingeschrieben, Wechselrichter-Kenndaten. Ich sage gleich, warum. Nicht wegen dem Wechselrichter-Namen, sondern auch nicht im Grunde der Leistung, sondern wegen dem Strom am Ende.
+
+(0:04:59 - 0:05:07)
+Am Ende geht es um den, der belastet ja das Kabel. Deswegen will man ihn wissen. Und der Spannungsfall wird hier angegeben.
+
+(0:05:07 - 0:05:23)
+Das sehen wir später auch noch mal ein bisschen genauer in der Messung der Schleifenimpedanz, warum man das eigentlich macht. Im Grunde ist er proportional zur Impedanz des Kabels. Das heißt, die könnte man hier auch gut daraus abgeleitet noch angeben.
+
+(0:05:23 - 0:05:44)
+Das könnte man machen, um dann später, das machen wir nicht jetzt, sondern später in der Bewertung dann den Spannungsfall bzw. die Impedanz, auf der der Spannungsfall beruht, mit der gemessenen Schleifenimpedanz zu vergleichen. Also rein muss er auf jeden Fall, weil das haben wir vorhin auch gehört, in der Norm wird er gefordert.
+
+(0:05:46 - 0:05:58)
+Das wäre so eine Topologie an sich, weil noch haben wir keine Messergebnisse, keine Prüfergebnisse uns angeguckt. Das machen wir jetzt. Die werden dann sinnhafterweise aus unserer Sicht in der gleichen Zeile.
+
+(0:05:58 - 0:06:21)
+Es geht also einfach nach rechts weiter geschoben und dann könnte das so aussehen. Da stehen jetzt also Messergebnisse oder Prüfergebnisse und dann steht da zum Beispiel, dass die Durchgangsprüfung, die wir ja machen müssen, dass die in Ordnung ist. Ich habe jetzt hier nochmal die Grenzwerte mit aufgelistet, damit man dann eine Abschlusstabelle hat, um da gleich nicht nur in Ordnung reinschreiben zu können, sondern in Ordnung, weil kleiner 0,2 Ohm.
+
+(0:06:22 - 0:06:28)
+Also das wäre so eine Durchgangsprüfung. Daumen hoch. Dann haben wir den Schutzleiterwiderstand gemessen.
+
+(0:06:28 - 0:06:44)
+Wir geben auch hier 0,2 Ohm als sinnvolle Größe an. Am Ende sind die natürlich projektspezifisch unterschiedlich, aber sie müssen sehr, sehr klein sein. Und in unserem Beispiel hier haben wir jetzt mal an einem Wechselrichter die dritte Zeile von unten.
+
+(0:06:44 - 0:06:50)
+Da steht Achtung, hier ist es 10 Ohm. Das ist zu viel. Das ist nicht kleiner 0,2 Ohm.
+
+(0:06:50 - 0:07:00)
+Deswegen geht der Daumen nach unten. Die Prüfspannung haben wir angegeben mit 1000 Volt. Da sehen wir auch in der dritten Zeile ist irgendwas reingerutscht.
+
+(0:07:01 - 0:07:10)
+Also warum das jetzt so ist, weiß natürlich niemand. Aber weil es in unserem Beispiel so ist, geht der Daumen nach unten. Die Prüfspannung für unser System muss 1000 Volt betragen.
+
+(0:07:11 - 0:07:18)
+500 wäre zu niedrig. So, und jetzt kommen die Isolationswiderstände. Die sollen erstmal grundsätzlich über 1 Megaohm sein.
+
+(0:07:19 - 0:07:29)
+Das haben wir hier, das ist super. Wir sind im Gigaohmbereich, also die Isolation passt. Was wir noch prüfen würden, ist, dass wir auch die richtigen Verkettungen prüfen.
+
+(0:07:29 - 0:07:46)
+Da steht jetzt L1 gegen N, das ist okay. Ich gebe aber auch gerne zu, dass wir uns im Vorfeld schon überlegt haben, das eigentlich L1 gegen PE nennen zu sollen, weil wir überhaupt keine N-Leiter mehr verlegen in unseren aktuellen Projekten. Das steht da jetzt, deswegen will ich nicht darüber weggehen, sondern es erklären.
+
+(0:07:47 - 0:08:00)
+Also das ist richtig, es könnte auch L1 gegen PE sein. So, dann auch eben den zweiten gegen den N oder den PE und auch den dritten. Und da haben wir wieder einen reingeschmuggelt.
+
+(0:08:00 - 0:08:08)
+Der ist zu niedrig, Daumen nach unten. Passt also nicht. Letzte Prüfung, die Drehrichtung geben wir mit rechts vor.
+
+(0:08:09 - 0:08:29)
+Der Prüfer hat ja immer rechts gemessen und deswegen hat er in Ordnung reingeschrieben. Also diese fünf Prüfungen, die ich jetzt hier aufgeschrieben habe, haben wir hier, finde ich, sinnhaft gut nachvollziehbar dargestellt und können so ein Protokoll mit gutem Gewissen durchwinken. Jetzt abgesehen von den negativen Prüfergebnissen natürlich.
+
+(0:08:29 - 0:08:37)
+Das würde man markieren, wieder zurückschicken. Da muss man es halt nochmal neu prüfen. So, und das vierte, das ist mehr so eine Projektmanagementgeschichte.
+
+(0:08:37 - 0:08:52)
+Ich halte es aber für wichtig. Wir gucken rein, ob da irgendwelche Bemerkungen noch drinstehen. Vielleicht Zustand der Anlage, vielleicht hat er irgendwas erkannt, was jetzt nur indirekt mit seiner Aufgabe als Prüfer hier zusammenhängt.
+
+(0:08:52 - 0:09:00)
+Finde ich aber gut, wenn er es trotzdem reinschreibt, dann kann man ja damit umgehen. Die verwendeten Messgewerte, das ist ganz wichtig. Der Hersteller, die Seriennummern.
+
+(0:09:00 - 0:09:18)
+Nur so kann man, wenn man will, nochmal überprüfen, ob die Kalibrierung noch aktuell ist oder ob dieses Messgerät für diese Prüfung überhaupt zugelassen ist. Also das ist ein wichtiger Bestandteil von so einem Standardprüfprotokoll. So, und dann gibt es nochmal eine Unterschrift drauf.
+
+(0:09:18 - 0:09:30)
+Auch das ist wichtig. Ohne die würde ich es direkt wieder zurückschicken. Einmal zusammengefasst, das, was wir gerade gesagt haben, wären also hier die vier Punkte mit den jeweiligen Unterpunkten.
+
+(0:09:31 - 0:09:40)
+Wenn man das so nacheinander durchgeht, dann kann man mit gutem Gewissen seinen eigenen Stempel drauf machen und das Messprotokoll dann in die Dokumentation schieben.

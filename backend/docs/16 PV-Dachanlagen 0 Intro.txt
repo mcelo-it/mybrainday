@@ -1,0 +1,32 @@
+(0:00:00 - 0:00:23)
+Herzlich willkommen zum heutigen Brain Day Spezial Dachanlagen. Wir schauen uns heute also ein ganz spezielles Kapitel der Photovoltaik ein. Ich wollte vorab noch einmal kurz beschreiben, dass wir die elektrische technische Planung von so einer Photovoltaikanlage in 40 Teilschritte unterteilt haben.
+
+(0:00:23 - 0:00:47)
+Die meisten von euch wissen das, ich sage es trotzdem noch einmal, dass wir das absichtlich so gemacht haben, damit man wirklich in die Details gehen kann bei diesen vielen Teilaufgaben, die wir als Elektroplaner haben. Und dann wollten wir nicht nur einfach kurz beschreiben, was das so für ein Transformator ist, sondern wir erklären die Bauteile, die Arbeitsschritte wirklich im Detail. Das machen wir immer am Beispiel von Freilandanlagen.
+
+(0:00:47 - 0:01:06)
+Das ist meistens Mittelspannungs- oder Hochspannungstechnik, weil das eben so unseren Arbeitsalltag widerspiegelt und einen gewissen Schwierigkeitsgrad darstellt. Dabei fällt manchmal so ein bisschen runter, dass man das gleiche auch analog auf einem Dach bauen kann, und dann gibt es aber diffizile Unterschiede. Und auf genau diese Unterschiede wollen wir heute eingehen.
+
+(0:01:06 - 0:01:38)
+Das heißt, um hier den Bogen zu schlagen, wir gehen heute explizit nicht bis ins allerletzte Detail von diesen sechs Themen, die ich da im Hintergrund zeige, sondern ich zeige es eher oberflächlich, die elektrotechnischen Hintergründe, Details dazu, findet ihr dann sozusagen in den analogen Braindays dazu, die ja immer zwei Stunden lang dann sowas im Detail betrachten. Heute geht es mehr darum, wie sieht dann sowas im Unterschied zur Freilandanlage bei einer Dachanlage aus. Und wir starten da wie immer mit der Frage, warum.
+
+(0:01:38 - 0:01:55)
+Also warum Dachanlagen, gebe ich gleich ein bisschen Motivationshilfe, warum dieser Brainday heute auf jeden Fall auch wieder Sinn ergibt. Und dann kommt eben so ein Beispiel, wie es ich gerade beschrieben habe. Also bei der Kabelberechnung gibt es Unterschiede zwischen Freilandanlagen und Dachanlagen und genau auf die gehen wir heute ein.
+
+(0:01:55 - 0:02:09)
+Ich zeige euch, wie ich das auf einem Dach machen würde. Beim Anlagenschema ist es ähnlich. Wir bauen das mal auf für so eine typische Logistikhalle, zeigen wir euch, wie wir da so ein Anlagenschema zeichnen würden und gehen eben vor allem auf die Unterschiede ein.
+
+(0:02:09 - 0:02:19)
+Die werden dann auch wunderbar orange gehighlighted. Dann gibt es einen praktischen Teil. Die, die das schon mal gesehen haben, freuen sich hoffentlich, so wie ich da drauf.
+
+(0:02:19 - 0:02:32)
+Das ist eine tolle Geschichte. Wir laufen gemeinsam über eine Dachanlage und ich zeige euch da genau das, was wir in diesen Kapiteln ansonsten nur so theoretisch behandeln. Regelungskonzept ist ein ganz wichtiges Thema.
+
+(0:02:32 - 0:02:42)
+Da gehen wir darauf ein und auch hier wieder auf die Eigenheiten bei so einem Dachkonzept. Das ist ehrlich gesagt ein bisschen komplizierter als bei Freilandanlagen. Beim Schutzkonzept sieht es ähnlich aus.
+
+(0:02:42 - 0:02:53)
+Und am Schluss schauen wir nochmal auf den Blitzschutz. Auch da, ich betone es gern, weil das ist so ein großes, so ein heikles Thema. Man könnte da Stunden oder Tage wahrscheinlich eine Schulung darüber halten.
+
+(0:02:53 - 0:03:01)
+Das machen wir eben heute nicht. Wir machen nur einen ganz kurzen Exkurs und gehen auf die Details bei einem anderen Brain Day dann.

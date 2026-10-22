@@ -1,0 +1,126 @@
+(0:00:00 - 0:00:24)
+Schauen wir uns jetzt das Kapitel Normen an und starten mit der DIN EN 62271-202. Ich nehme das gleich so ein bisschen vorweg, das ist jetzt vielleicht nicht unbedingt eine Norm, die nur den Transformator betrifft, sehen wir gleich. Aber für uns in jedem Fall eine ganz wichtige Norm.
+
+(0:00:24 - 0:00:42)
+Wir gehen jetzt hier tiefer ein auf diesen Teil 202 und da haben wir dann auch ein paar Bullet Points zusammengeschrieben. Und zwar geht es jetzt hier in dieser Norm erstmal um fabrikfertige Stationen. Also der Transformator, der ist dann natürlich ein Teil von der fabrikfertigen Station.
+
+(0:00:42 - 0:01:06)
+Aber diese Norm beschreibt jetzt nicht nur den Transformator im Kern, sondern vielleicht den Transformator in seiner Gesamtheit in der TRAFO-Station. Und diese Norm definiert dann eben Bemessungswerte, die man so zu berücksichtigen hat bei der Konstruktion von diesen Gebäuden. Und zwar sowas wie IK, IP, den Puls-Kurzschlussstrom und den Kurzschlussstrom.
+
+(0:01:07 - 0:01:24)
+Und Betriebsbedingungen werden hier eben auch definiert. Das heißt, man darf jetzt einen Transformator nicht bei allen möglichen Bedingungen betreiben, sondern ein Gehäuse muss zu diesem Transformator passen, beziehungsweise auch zu der Belastung des Transformators. Kommen wir später noch ein bisschen mehr im Detail dazu.
+
+(0:01:25 - 0:01:48)
+Ganz wichtiger Punkt hier in dieser 202-Norm, deshalb vielleicht hat es ja bei manchen schon geklingelt, 202, aha, das ist die Störlichtbogenprüfung. Das ist ein wesentlicher Bestandteil dieser Norm, beziehungsweise des Normenabschnitts 202. Der Normabschnitt 202 beschreibt aber eben nicht nur Störlichtbogenprüfung, sondern eben auch viele, viele andere Themen.
+
+(0:01:48 - 0:02:07)
+Für mich war das früher ehrlich gesagt, ja, ja, Störlichtbogenprüfung 202 ist aber wirklich nur ein kleinerer Teil hier, natürlich ein wesentlicher Teil, aber die Störlichtbogenprüfung steht eben genau in dieser Norm drin. Und zwar, wie sie durchgeführt werden muss und was es dafür für Varianten gibt. Kommen wir dann später nochmal im Detail drauf zu sprechen.
+
+(0:02:09 - 0:02:46)
+Dann geht es hier um Typprüfung und Stückprüfung, um Konstruktionsanforderungen, wie so eine Station eben aussehen muss, Ölwannen und so weiter stehen drin und eben Gehäuseklassen. Und das ist für uns ein sehr wichtiger Punkt, weil wir häufig auch gefragt werden, ja, wie weit kann man jetzt den Transformator belasten? Dürfen wir ihn überlasten? Dürfen wir ihn nur mit 90 Prozent belasten? Und diese Norm hier gibt erstmal einen klaren Ansatz. Ja, es gibt verschiedene Gehäuseklassen, die wir gleich auch zeigen und die dann eben dafür sorgen, dass der Transformator gut belüftet wird.
+
+(0:02:46 - 0:03:02)
+So, wir gehen nochmal ein bisschen genauer darauf ein und zeigen euch dann hier diese Tabelle oder diese Grafik, die so auch aus der Norm stammt. Gehäuseklassen und die erste Gehäuseklasse wäre erstmal das Optimum. Das Optimum im Sinne von Belüftung des Transformators, also kein Gehäuse.
+
+(0:03:02 - 0:03:38)
+Der Trafo steht frei an der Luft, also frei in der Umgebungstemperatur, kann seine Temperatur also gut abführen. Und dann kann man den Transformator also bei null Grad zum Beispiel mit 120 Prozent belasten. Das ist ja erstmal so der Startpunkt. 
+
+Es gibt dann bei 20 Grad Temperatur eben einen Belastungsgrad von 1. Und unten steht dann auch dieser Hinweis aus der Norm. Es geht hier um eine jährliche Durchschnittstemperatur. Also diese 20 Grad sind eine jährliche Durchschnittstemperatur und beziehen sich jetzt nicht auf ein Tagesmaximum.
+
+(0:03:40 - 0:04:12)
+Und da finde ich persönlich wird diese ganze Thematik schon relativ schwer greifbar, weil wir natürlich im Sommer dann auch mal einige Tage haben können, wo die Temperatur auch nachts nicht unter 20 Grad fällt, tagsüber Richtung 40 Grad geht. Dann hat man ja auch über einen Wochenmittel häufig deutlich wärmere Werte als 20 Grad, was dann natürlich auch für eine starke Erwärmung des Trafos sorgt. Aber hier in der Norm ist es erstmal so definiert. 
+
+Das ist erstmal unser Startpunkt. Jetzt kommt das zweite Gehäuse. Klasse 10 haben wir hier nochmal eingefügt.
+
+(0:04:12 - 0:04:39)
+Und bei Klasse 10 sieht man auch gleich, braucht man schon geringere Umgebungstemperaturen, um die gleiche Belastung zu erreichen. Bei der 1, bei Lastfaktor 1 sieht man jetzt schon, das kann man nicht mal bei 20 Grad, sondern vielleicht eher bei 10 Grad. Und bei 20 Grad schafft eben unser Transformator in diesem Gehäuse nur noch einen Belastungsgrad von ungefähr 90 Prozent, ganz ungefähr.
+
+(0:04:40 - 0:05:01)
+Also das sind, sag ich mal, erstmal Ansätze hier, die die Norm bietet. Am Ende braucht ihr dafür natürlich euren Stationslieferanten, der das dann bestätigt oder ermittelt, weil da viele, viele verschiedene Faktoren sicherlich zusätzlich noch mit reinfließen. Die dritte Gehäuseklasse, die wir hier dazu gefügt haben, ist die 20 Grad Klasse.
+
+(0:05:03 - 0:05:28)
+Ist ja fast dann der warme Winterpullover für die Trafostation, wenn man so will. Aber je höher diese Klasse geht, desto schlechter wird der Trafo im Grunde genommen belüftet, desto weniger Lüftungsschlitze hat diese Station, desto eher staut sich vielleicht so ein bisschen die Wärme in dieser Transformatorstation und desto weniger können wir den Trafo am Ende belasten. Diese Klasse 10, das ist das, was wir dann tatsächlich häufig in unseren Projekten sehen.
+
+(0:05:29 - 0:05:50)
+Das erreichen die Hersteller von diesen Gehäusen, von diesen Kompaktstationen im Grunde genommen dadurch, dass sie da sehr, sehr große Türen einbauen mit sehr, sehr großen oder im Grunde genommen bestehen die Stationen teilweise fast nur noch aus Lüftungsschlitzen. Das wird mit solchen Stationen erreicht. Viel weiter drunter kommt man dann kaum.
+
+(0:05:51 - 0:06:05)
+Also Klasse 10 könnt ihr euch mal so im Hinterkopf behalten. Das ist die Klasse, die man da ganz gut einsetzen kann, weil der Trafo gut belüftet ist und viel weiter runter kommt man da noch kaum. Außer man setzt dann irgendwann mechanische Belüftung rein.
+
+(0:06:07 - 0:06:33)
+So, dann kommen wir weiter zur nächsten Norm und das ist jetzt die DIN EN 505881. Hier geht es jetzt eben um Mittelspannungstransformatoren, 50 Hertz, genau mit einer Spannung bis 36 kV. Und das ist jetzt für uns, der Teil 1, vielleicht gar nicht so entscheidend im Projektgeschäft, weil für uns in Deutschland ist das irgendwie Usus.
+
+(0:06:33 - 0:06:42)
+Das prüfe ich fast gar nicht mehr. Aber wenn ich hier so einen Transformator bestelle, dann muss der nach dieser Norm gebaut sein. Und in Deutschland trifft das dann auch eigentlich immer zu.
+
+(0:06:42 - 0:06:57)
+Also auf dem Typenschild des Trafos, da erwarte ich dann die DIN EN 505881. Danach muss dieser Transformator eben errichtet und gebaut sein. Was da jetzt im Detail drin steht, wie der Trafo zu bauen ist, das wissen die Hersteller.
+
+(0:06:57 - 0:07:09)
+Das ist für euch dann am Ende gar nicht mehr so entscheidend. Da könnt ihr euch dann darauf verlassen, wenn das auf dem Typenschild steht, dass der auch so gebaut ist. Trotzdem wichtig zu kennen, gehört zu haben, dass es diese Norm natürlich gibt.
+
+(0:07:10 - 0:07:26)
+Dann haben wir die DIN IEC 6767. Hier geht es um Leistungstransformatoren. Und in dem Teil 7 geht es eben um den Leitfaden für eine Belastung von Mineralöl gefüllten Leistungstransformatoren.
+
+(0:07:27 - 0:07:42)
+Also unsere Öltrafos, die wir so klassischerweise einsetzen, die werden hier nochmal definiert. Ölklassen werden definiert. Häufig sehen wir 60 bis 65 K. Das ist sowas, was die meisten Trafos, denke ich, haben.
+
+(0:07:42 - 0:08:01)
+Und was wir hier sehr interessant finden an dieser Norm, ist, dass diese Norm tatsächlich einen Berechnungsansatz zur Transformator-Lebensdauer liefert. Das gucken wir uns gleich auch ein bisschen im Detail an. Am Ende ist das auch schon so, dass das für uns als Planer schwer greifbar ist.
+
+(0:08:02 - 0:08:09)
+Das können dann die Hersteller natürlich viel besser. Die haben viel mehr Infos als wir. Und dann müssen wir uns eben auch auf deren Expertise meistens verlassen.
+
+(0:08:09 - 0:08:23)
+Aber trotzdem ist es natürlich eminent wichtig, dass wir das erstmal kennen. Dass wir da erstmal mitreden können und uns von den Herstellern nicht alles Mögliche erzählen lassen müssen. Also in dieser Norm geht es darum, dass eine hohe Leistung die Lebensdauer reduziert.
+
+(0:08:23 - 0:08:38)
+Hohe Leistung bedeutet, wenn der Trafo ständig, sagen wir mal, an einer 100% Nennlastgrenze arbeitet. Also ständig relativ warm ist. Vielleicht noch die Umgebungstemperaturen eine Rolle spielen und den Trafo weiter erwärmen.
+
+(0:08:39 - 0:08:49)
+Das reduziert eben die Lebensdauer. Das ist erstmal so der Ansatz. Und dann gibt es zusätzlich noch den Ansatz, wenn das Öl etwas mehr Feuchte oder etwas mehr Sauerstoff enthält.
+
+(0:08:50 - 0:09:00)
+Auch das hat Auswirkungen auf die Lebensdauer des Trafos. Und das wird dann hier eben definiert. Also eine Überlastung des Trafos, das sieht man dann auch in der Norm.
+
+(0:09:00 - 0:09:13)
+Mit zum Beispiel 103% ist erstmal grundsätzlich möglich. Das würden wir erstmal so auch bestätigen als Planer. Allerdings muss man sich das dann eben von dem Stationslieferanten auf jeden Fall freigeben lassen.
+
+(0:09:13 - 0:09:20)
+Weil das ist nicht nur einfach einmal, ja, ja, das geht schon. Sondern hier muss man viele, viele Sachen beachten. Umgebungstemperaturen.
+
+(0:09:20 - 0:09:36)
+Wie oft ist der Trafo denn dann tatsächlich mit über 100% belastet? Wie ist eben Feuchte und Sauerstoffgehalt im Öl und so weiter. Also wir gehen mal weiter und schauen uns das dann jetzt nochmal im Detail an. Wie diese Norm das versucht zu greifen.
+
+(0:09:37 - 0:09:49)
+Und da würde ich aus meiner Sicht schon mal vorwegnehmen, dass das relativ komplex ist. Relativ schwierig ist am Ende tatsächlich dann eine Lebensdauer festzulegen. Weil ihr seht das ja jetzt hier schon.
+
+(0:09:50 - 0:10:04)
+Es gibt hier Kennlinien, die auch abhängig sind von der Heißpunkttemperatur des Trafos. Also von der heißesten Punkt an der Windung. Und die Lebensdauern bei einer Heißpunkttemperatur von 100°.
+
+(0:10:04 - 0:10:17)
+Die gehen dann Richtung 35 Jahre. Das ist natürlich für einen Solarpakt auf jeden Fall ausreichend. Allerdings sieht man ja jetzt auch, dass wir hier für unsere 100° und 35 Jahre erstmal ein sehr gutes Öl angenommen haben.
+
+(0:10:18 - 0:10:33)
+Also nur 5% Feuchte und ein geringer Sauerstoffgehalt. Also so wäre erstmal der Gedankenansatz, um hier die Lebensdauer eines Trafos zu definieren. Und fragt mal nach, wie viel Sauerstoff, wie viel Feuchte in eurem Öl ist.
+
+(0:10:33 - 0:10:47)
+Und dann könnt ihr mal sehen, ob das ungefähr hinhaut. Ob ihr da ungefähr zumindest die 25 Jahre, die euer Solarpark leben soll oder in Betrieb sein soll, ob ihr das auch schafft. Aber ich bin da in der Regel guter Dinge, dass die Trafos das aushalten.
+
+(0:10:49 - 0:11:02)
+So, zum Schluss kommt noch die IEC 619361. Und hier geht es dann eben um Starkstromanlagen mit Nennwechselspannung über 1 kV. Das ist eine Norm, die wir öfter sehen, auch in anderen Brain Days.
+
+(0:11:02 - 0:11:21)
+Und diese Norm gibt uns nochmal zum Beispiel Aufstellhinweise, Abstände zwischen Transformatoren. Also wenn ihr jetzt hier im Umspannwerksbereich zum Beispiel seid und zwei parallele Trafos habt oder zwei Trafos nebeneinander, da stehen dann eben Abstände. Wie nah dürft ihr sie zusammenstellen? Da geht es dann vor allem auch um Brandlasten und so weiter.
+
+(0:11:22 - 0:11:34)
+Aber ist erstmal gut zu wissen, dass es das hier gibt. Der Trafoschutz wird definiert, auf den wir später auch nochmal zu sprechen kommen. Und Anforderungen an Ölauffangwannen werden hier eben auch gezeigt.
+
+(0:11:34 - 0:11:44)
+Es gibt dann auch tatsächlich Zeichnungen, wie das so gebaut sein kann. Wie man da mit dem Wasser umgehen kann, was da eventuell reinregnet. Also sehr hilfreich für alle, die da noch nicht so viel mitgearbeitet haben.
+
+(0:11:45 - 0:11:57)
+Schaut hier in diese Norm, da gibt es tolle Ansätze. Viel, viel Inhalt, viel, viel Wissen, was da vermittelt wird. Im Grunde genommen über das hinaus, was man so im Grunde genommen im Projektgeschäft mal aufgeschnappt hat.
+
+(0:11:57 - 0:12:02)
+Viel Inhalt, viel Wissen, also nehmt euch mal die Zeit und lest diese Norm. Das hilft wirklich sehr.

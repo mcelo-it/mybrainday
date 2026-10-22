@@ -1,0 +1,77 @@
+(0:00:00 - 0:00:19)
+Schauen wir uns mal genau an, wie man so eine Messung vor Ort aufbaut. Also wir fangen mal an mit, welche Prüfgeräte gibt es denn dafür überhaupt? Da haben wir hier uns eine riesige Liste gebastelt. Es gibt natürlich viele Anbieter mit verschiedenen Typen und das haben jetzt keinen Anspruch auf Vollständigkeit.
+
+(0:00:19 - 0:00:36)
+Um Gottes Willen, das ist gerade so unser Stand, den wir gerade 2024 von Baustellen kennen. Und wir haben sortiert nach verschiedenen Prüfpunkten, also was diese Geräte dann können. Den RISO messen, die Leerlaufspannung messen, den Kurzschlussstrom messen, die Polarität.
+
+(0:00:37 - 0:00:58)
+Oder, das ist meistens so ein On-Top-Ding, auch noch die EU-Kennlinie. Und das Ganze hat sich jetzt seit ein paar Jahren klar unterteilt in 1000-Volt-Systeme und Messgeräte, die bis zu 1500 Volt können. Da werden wir auch immer wieder gefragt, welche Messgeräte empfehlt ihr denn dafür, die Messung vor Ort? Und deswegen haben wir uns mal diese Übersicht gebastelt.
+
+(0:00:58 - 0:01:13)
+Los geht's mit so einem alten Hasen sozusagen der PV-Branche, das Benning PV-1. Das kenne ich seit vielen, vielen Jahren. Und die Darstellung zeigt schon, es ist für 1000 Volt nur zugelassen, nicht 1500.
+
+(0:01:14 - 0:01:33)
+Und es würde jetzt auch keine Kennlinie messen. Für den 1000-Volt-System kann es aber diese nach Kategorie 1 erforderlichen Messungen alle durchführen. Dann gibt es eben das Benning PV-2, ist dann wahrscheinlich auch ein bisschen teurer und kann zusätzlich eben eine EU-Kennlinien-Messung machen.
+
+(0:01:33 - 0:01:47)
+Das wäre dann Kategorie 2 nach Norm. In der Reihe fortlaufend das Benning PV-3, da ist der Sprung gelungen in die 1500-Volt-Kategorie. Deswegen gehen da drei Daumen nach oben.
+
+(0:01:47 - 0:02:04)
+Aber man sieht es schon, bei der Kennlinie ist erstmal gähnende Leere und vor allem auch beim R-ISO. Also das kann keinen Isolationswiderstand in dieser weder für 1000 noch für 1500 Volt abbilden. Das ist aber zwingend erforderlich für eine Inbetriebnahmeprüfung.
+
+(0:02:05 - 0:02:34)
+Also bräuchte man dann immer in Kombination noch ein zweites Messgerät, das die Isolationswiderstände mit abdeckt. Das könnte zum Beispiel sein, deswegen kommt ja jetzt hier ja auch die typische Kombination, wie wir sie kennen, das HT-PV-ISO-Tester-Messgerät. Das konzentriert sich dann aber auf den Isolationswiderstand und wenn man die jetzt zusammenfügt, geistig die zwei, dann hat man wieder alles, was man nach Kategorie 1 braucht.
+
+(0:02:37 - 0:02:53)
+Dann haben wir das HT-PV-PRO-Plus. Das ist sozusagen die Kombination aus diesen zwei Geräten, wie ich sie gerade genannt habe. Und damit wären wir für 1500 und für 1000 Volt Kategorie 1 erstmal alle durch.
+
+(0:02:53 - 0:03:07)
+Jetzt muss ich gleich hier aus dem Weg rausspringen, weil die Tabelle geht noch weiter. Und zwar kommt hier von der Firma Metrell jetzt das MI3114. Da gehen alle Daumen hoch.
+
+(0:03:08 - 0:03:27)
+Wenn man so will, war das das Ergebnis unserer Suche für Freiflächenanlagen, große Dachanlagen, 1500 Volt Systeme. Dachanlagen natürlich nur, wenn es 1500 Volt Systeme auch wirklich sind, sonst geht das ja nicht. Dieses Gerät vereint also alles, was wir da so nach unserer Tabelle erstmal brauchen.
+
+(0:03:27 - 0:03:44)
+Und jetzt kommt noch ein Spezialhinweis. Das ist ein Wechselrichterhersteller, der das anbietet und zwar nur im Betrieb logischerweise. Und zwar auch die Messung all dieser Prüfpunkte, wie wir sie dargestellt haben.
+
+(0:03:44 - 0:03:59)
+Also dieser Wechselrichter würde das im Betrieb ausgeben können. Die Kenndaten ISO, Leerlaufspannung, Kurzschlussstrom, Polarität und auch die Kennlinienmessung. Alles außer die Kennlinienmessung macht er sowieso in seinem Betrieb.
+
+(0:03:59 - 0:04:17)
+Dafür ist er natürlich auch ausgelegt, wenn es ein 1500 Volt Gerät ist, bedingt das ja sozusagen die korrekte Auslegung nach dem Spannungsniveau. Das geht aber dann eben nur im Betrieb. Das müsste man sich jetzt im Kopf oben nochmal wirklich groß highlighten, Wechselrichter im Betrieb.
+
+(0:04:17 - 0:04:40)
+Wir brauchen aber ja die Prüfungen Kategorie 1 auch schon vor der Inbetriebnahme. Deswegen ist nur der Wechselrichter hier nicht ausreichend. So, wenn wir uns mal diese Übersicht so ein bisschen merken mit den verschiedenen Prüfpunkten, dann zeige ich jetzt hier nochmal in unserem 3D-Modell, wie man die da anschließen würde.
+
+(0:04:40 - 0:05:03)
+Erstmal um den Leerlaufspannung und den Kurzschlussstrom zu messen, ein vermeintlich kleineres Messgerät. Ihr habt es gesehen, ich zeige es aber nochmal, weil das sozusagen der Hint hier in dieser Animation ist. Man steckt die Stecker sinnhafterweise am Wechselrichter ab und geht dann da direkt aufs Messgerät dran.
+
+(0:05:03 - 0:05:26)
+Nicht am Modul, sondern am Wechselrichter, weil man sonst den Isolationswiderstand der Kabel nicht mitmessen würde. Also am Wechselrichter abtrennen und da dann das Messgerät anschließen. Da können wir dann einen Kurzschlussstrom raus und eine Leerlaufspannung, hier ist immer eingezeichnet, und das Diagramm, das kennt auch jeder, haben wir auch in dem Brand sehr ausführlich erklärt, wie das entsteht.
+
+(0:05:26 - 0:05:51)
+Da würde man jetzt diese zwei grünen Messpunkte, die Leerlaufspannung und den Kurzschlussstrom, fliegen da mal rüber, messen. Und jetzt kam oben schon noch ein neuer Bulletpoint mit dazu, die UI-Kennlinie, Kategorie 2, könnte man also auch machen. Bei diesem Messgerät drückt man jetzt zusätzlich noch auf UI-Kennlinie und dann misst sie diese Kennlinie einmal rüber, indem es intern einen variablen Widerstand verstellt.
+
+(0:05:52 - 0:06:13)
+Haben wir schon mal Leerlaufspannung, Kurzschlussstrom und auch die Kennlinie gemessen, jetzt brauchen wir den Isolationswiderstand. Und dazu steckt man nochmal ein separates Messkabel rein und erdet da den Anschluss. Das ist ganz wichtig, das muss man jetzt also an den PE vom Wechselrichter oder an die Unterkonstruktion anbinden, sonst funktioniert das nicht.
+
+(0:06:13 - 0:06:37)
+Sinnhaft, wenn man den in der Luft hält sozusagen, dann ist die Isolation grundsätzlich gegeben. Also sauber erden und dann geht es los und dann kommt dann Isolationswett über ein Megaohm raus und alle sind erstmal froh. Jetzt tauschen wir das Gerät einmal aus, einfach symbolisch sage ich jetzt mal, gegen ein größeres Gerät, weil Achtung 1500 Volt.
+
+(0:06:37 - 0:07:06)
+Darauf ist dringend zu achten. Ich kenne auch schon viele Erfahrungsberichte von Baustellen, wo das nicht beachtet wurde, gerade in der Übergangsphase zu den höheren Spannungsklassen und dann hat man das eine oder andere Gerät zerschossen. Also darauf achten, dass die Geräte das können und jetzt haben wir ein Gerät hier, das ein bisschen größer ist, ein bisschen teurer ist und das alles drei kann, also 1500 Volt und dann Strom, Spannung, Kennlinie und Isolationswiderstand.
+
+(0:07:07 - 0:07:35)
+Das schieben wir jetzt nochmal ein bisschen zur Seite, um noch die zusätzlichen Bauteile, die das wahrscheinlich mitbringt, nochmal darzustellen. Nachdem wir jetzt die elektrischen Kennwerte gemessen haben, müssen wir aber im gleichen Messprozess unbedingt auch die Umgebungsbedingungen mitmessen und auch die Ergebnisse speichern. Das wäre der Einstrahlungssensor, die Modultemperatur und die Umgebungstemperatur.
+
+(0:07:35 - 0:07:58)
+Die gehören zwingend dazu, um später die elektrischen Messwerte sinnhaft bewerten zu können. So einen Einstrahlungssensor legt man neben die Module in Modulneigung. Beides wichtige Hinweise, nicht aufs Modul legen, dann verschattet man es, aber auch nicht neben das Modul so bauen, dass es auf dem Boden liegt, weil dann hat es nicht die gleiche Modulneigung.
+
+(0:07:58 - 0:08:17)
+Das ist wichtig, in Modulneigung neben dem Modultisch installieren. Dann gibt es die Modultemperatur, die haben wir jetzt mal hinter das Modul geklemmt und hat aber sinnhafterweise klaren Verbindungen zum Modul. Die Module sind teilweise deutlich wärmer, je nach Einstrahlung, als die Umgebung.
+
+(0:08:18 - 0:08:38)
+Also müssen diese Sensoren auch wirklich an unterschiedlichen Stellen sein, sonst verfälschen die die Messergebnisse ja unmittelbar. Den verbinden wir da irgendwie und dann hat man in modernen Messgeräten auch die Möglichkeit, drahtlose Kommunikation. Das hilft natürlich sehr, dann ist man viel flexibler vor Ort.
+
+(0:08:38 - 0:08:52)
+Also das wäre so ein typischer Messaufbau, Messgerät, Spannungsebene beachten, welche Prüffunktion will ich eigentlich machen und dann braucht man noch zusätzliche Messgeräte, Einstrahlungssensor, Modultemperatur und Umgebungstemperatur.

@@ -1,0 +1,170 @@
+(0:00:00 - 0:00:19)
+Und das wäre jetzt Trafostation. Also nochmal zurück zum Anfang. Wir haben uns eben die Übergabestation angeschaut und es endete dann da, wo das 20 kV Kabel rausging aus der Übergabestation und zur Trafostation führt.
+
+(0:00:19 - 0:00:28)
+Das heißt Freiflächenanlage, nächstes Bauteil Trafostation. Und wir fangen hier an mit der Schaltanlage. Und um das hier ein bisschen abzukürzen.
+
+(0:00:28 - 0:00:39)
+Die Komponenten von so einer Schaltanlage in so einer Trafostation sind sehr, sehr ähnlich zu dem der Übergabestation. Da brauchen wir nicht unbedingt so sehr ins Detail gehen wie vorhin. Das können wir ein bisschen schneller abfrühstücken.
+
+(0:00:40 - 0:00:50)
+Der Unterschied vielleicht, den wir haben, ist ein Ringkabelfeld hier. Also wir haben J01, wie eben auch mit einem Lasttrenner. Und hier kommt auch das Kabel an, was von der Übergabestation kommt.
+
+(0:00:51 - 0:00:59)
+Es gibt ja aber auch noch ein zweites Feld, das J02. Und das ist auch ein Lasttrenner. Und die haben beide eben keine Schutzfunktion.
+
+(0:01:00 - 0:01:09)
+Hier sind jetzt an beiden auch noch Kurzschlussanzeige angezeigt oder dargestellt. Das müsst ihr euch in eurem Projekt überlegen. Das ist nicht verpflichtend.
+
+(0:01:09 - 0:01:17)
+Wenn ihr einen sehr großen Park habt, kann das vielleicht helfen, um Fehler besser einzugrenzen. Kurzschlüsse. In der Regel sehen wir das nicht.
+
+(0:01:17 - 0:01:24)
+Das wird in der Regel nicht eingesetzt innerhalb des Parks. Und jetzt gibt es noch J03. Das kommt noch hinzu.
+
+(0:01:24 - 0:01:41)
+Das ist dann eben das Feld zum Transformator. Hier haben wir dann wieder ein Leistungsschalterfeld und sehen auch schon Stromwandler und einen kapazitiven Spannungsanzeiger. Das Schutzrelais wird euch natürlich nicht vorenthalten.
+
+(0:01:41 - 0:01:51)
+Das Schutzrelais wird unten an den Stromwandler angeschlossen. Hier ist jetzt mal ein WIC 1 aufgeführt. Da gibt es auch viele, viele andere Typen, viele, viele andere Hersteller.
+
+(0:01:53 - 0:02:08)
+Was wir hier im Grunde genommen zeigen wollen, ist, dass man hier erst mal kein aufwändiges Relais hat wie in der Übergabestation. Also hier wird meistens wirklich nur der Strom gemessen. Und diese Relais werden dann meistens auch nicht gepuffert mit einer USV, sondern sehr, sehr einfach gehalten.
+
+(0:02:08 - 0:02:18)
+Kein Display. Hier ist die Funktion, sage ich mal, Trumpf. Es muss den UMZ-Schutz erfüllen, also den Kurzschlussschutz und vielleicht auch den Erdschlussschutz.
+
+(0:02:19 - 0:02:26)
+Und das Ganze funktioniert hier meist mit einem Arbeitsstromauslöser. Zeigen wir beides. Und dieses Relais wirkt auf den Leistungsschalter.
+
+(0:02:27 - 0:02:35)
+Das Ganze ist, wie wir sagen, kostenoptimiert. Ja, wie gesagt, kein Relais, Display, keine USV und so weiter. Das haben wir hier alles nicht.
+
+(0:02:36 - 0:03:01)
+Wir wollen hier nur den UMZ-Schutz erfüllen. Wenn man jetzt Anlagen hat oder Trafos hat, die vielleicht kleiner sind als 2 Megawatt, da gibt es unterschiedliche Grenzwerte bei unterschiedlichen Herstellern, auch spannungsniveauabhängig, dann ist es auch möglich, auf dieses Schutzrelais und den Leistungsschalter zu verzichten und stattdessen so eine HH-Sicherung einzubauen. Das kann man projektspezifisch prüfen.
+
+(0:03:02 - 0:03:18)
+Dann hat man eben den Lasttrenner oben, also man kann ein- und ausschalten, ganz normal. Im Kurzschlussfall würde allerdings die Sicherung die Schutzfunktion übernehmen und nicht der Lasttrenner, weil der es ja eben nicht kann. Hier bleibt es aber ein Relais und hier bleibt es ein Leistungsschalter.
+
+(0:03:19 - 0:03:34)
+Wenn wir dann Anlagen, Trafostationen haben, 4, 5, 6 Megawatt oder noch größer, dann ist das ohnehin die einzige Möglichkeit, das abzusichern. Dann funktionieren diese HH-Sicherungen nicht mehr. Jetzt kommt schon die Kabelverbindung von Feld J03 zum Trafo.
+
+(0:03:35 - 0:03:43)
+Die wird hier dargestellt. Ist eine äußerst kurze Verbindung, wahrscheinlich 3 bis 5 Meter wieder. Der Typ wird gezeigt und der Querschnitt.
+
+(0:03:45 - 0:03:55)
+Dann kommt auch das Herzstück dieser Trafo-Station und das ist eben der Transformator. Wir zoomen euch den mal rein. Wir zeigen euch ein 3D-Modell.
+
+(0:03:56 - 0:04:06)
+Wir zeigen euch jetzt nicht alle Details und erklären auch nicht alle Details. Dafür gibt es einen anderen Brain Day. Aber die Daten, die ihr für das Anlagenschema braucht, die zeigen wir euch natürlich.
+
+(0:04:06 - 0:04:21)
+Also das Übersetzungsverhältnis, zum Beispiel 20.000 zu 0,8 kV. Die Nennleistung geben wir an mit 3.150 kV. In unserem Beispiel den Stufenschalter geben wir an oder dass es überhaupt einen gibt, zeigen wir hier.
+
+(0:04:21 - 0:04:32)
+Und wir zeigen die Schaltgruppe DYN 5. Da kann man auch andere nehmen. Da kann man auch für isolierte Netze andere Schaltgruppen verwenden. Hier ist es jetzt als Beispiel dieser Trafo.
+
+(0:04:33 - 0:04:52)
+Und es gibt eine Kurzschlussspannung für die Kurzschlussströme auf der Niederspannungsseite. Wichtig und wichtig für das Blindleistungsverhalten dieses Trafos, damit der Zertifizierer am Ende das Blindleistungsverhalten der Gesamtanlage korrekt ausrechnen kann. Die Position des Stufenschalters tragen wir auch ein.
+
+(0:04:53 - 0:05:05)
+Und in der Regel ist das die Stufe 3. Würde ich auch den meisten erst mal empfehlen, damit ins Rennen zu gehen. Damit kommt man auch meistens gut zurecht. So, dann geht es weiter.
+
+(0:05:05 - 0:05:11)
+Der Trafo fliegt zurück. Das nächste Bauteil ist der Transformatorschutz. Das zeigen wir hier.
+
+(0:05:11 - 0:05:35)
+Ist nicht unbedingt für das Anlagenzertifikat relevant, aber der Vollständigkeit halber tragen wir den mit ein. Und hier geht es eben darum, dass auf dem Trafo ein Bauteil ist, was zum Beispiel die Temperatur überwacht oder vielleicht auch den Öldruck des Trafos überwacht und dann eben für eine Auslösung sorgt. Ein bisschen Philosophiesache, wo das auslösen soll.
+
+(0:05:35 - 0:05:47)
+Hier ist es gezeigt auf J03. Also Mittelspannung schalten wir aus. Alternativ kann man auch die Niederspannung auslösen, weil von dort kommt ja die Energie, die Wechselrichterleistung.
+
+(0:05:47 - 0:05:56)
+Man kann auch beides auslösen. Ein bisschen Philosophiesache. Muss man sich projektspezifisch vielleicht überlegen und am Ende gut argumentieren können, wie man es machen möchte.
+
+(0:06:00 - 0:06:10)
+So, jetzt kommt die Kabelverbindung zur NSRV. Ist auch ein kurzes Stückchen Kabel. Auch da macht es dann natürlich Sinn anzugeben, was für ein Kabel, wie lang das Kabel ist.
+
+(0:06:10 - 0:06:31)
+Hier sprechen wir ja wirklich nur noch von zwei Metern und dann kommt dort, das Kabel wird dann aufgelegt auf so einen Niederspannungsleistungsschalter. Hier haben wir ein 4000 Ampere Gerät mit einer Unterspannungsspule dran und wir zeigen es jetzt erstmal im Detail, wie so ein Niederspannungsleistungsschalter aussieht. Das ist ein 3D Modell.
+
+(0:06:32 - 0:06:38)
+Der hat jetzt laut Schema erstmal einen Motorantrieb. In dem Modell selbst sieht man das nicht. Der steckt da drinne.
+
+(0:06:38 - 0:06:46)
+Also das sieht man von außen erstmal nicht unbedingt, ob er einen Motorantrieb hat oder nicht. Ein Unterspannungsauslöser ist dabei. Auch das sieht man an dem Bild nicht.
+
+(0:06:46 - 0:06:52)
+Der ist innen eingebaut. Also Unterspannungsauslöser ist da. Erkennt ihr nur an den Stromlaufplänen.
+
+(0:06:53 - 0:07:09)
+Und dann hat dieser Leistungsschalter oben drauf zum Beispiel Hilfskontakte oder eben diese Eingänge für das Schutzrelais, damit die Unterspannungsspule angesteuert werden kann. Das alles findet sich dann eben oben drauf. Den Motorantrieb kann man dort mit Spannung versorgen.
+
+(0:07:10 - 0:07:23)
+Da gibt es deshalb eben auch eine ganze Reihe Klemmstellen, wo man seine vielen Drähte eben anschließen kann. Und das muss natürlich am Ende auch geprüft werden. Dann haben diese Leistungsschalter meistens einen integrierten UMZ-Schutz.
+
+(0:07:24 - 0:07:39)
+Häufig sieht man es in Form von kleinen Drehrädchen oder von einem kleinen digitalen Display. Das kann man für verschiedene oder für jeden Leistungsschalter meistens in verschiedenen Varianten bestellen, je nachdem, wie man es gerne hätte. Dann haben wir noch so einen manuellen Antrieb.
+
+(0:07:39 - 0:08:00)
+Also wenn der Motor mal nicht läuft, warum auch immer, dann hat man immer die Möglichkeit, manuell mit so einem Hebel ist es meistens, diesen Leistungsschalter, diese Leistungsschalterfeder zu spannen. Und dann kann man danach über den Ein- und Ausschalter diesen Leistungsschalter ein- oder ausschalten. So, das fliegt wieder zurück.
+
+(0:08:01 - 0:08:14)
+Und von dort geht es über eine Sammelschiene auf die verschiedenen NH-Trenner, die wir jetzt in unserem Beispiel hier mal aufgeführt haben. Diese NH-Trenner sehen genau so aus. Von vorne ist das jetzt.
+
+(0:08:14 - 0:08:35)
+Die sind auf die Sammelschiene draufgeschraubt. Also die stellen im Grunde genommen die Verbindung her zwischen Wechselrichterkabel zur Sammelschiene. In unserem Stromlaufplan geben wir die maximale Stromtragfähigkeit von so einem NH-3-Trenner, NH-3 ist die Größe, geben wir an.
+
+(0:08:35 - 0:08:43)
+Die können bis 630 Ampere. Und wir setzen jetzt hier in diesen NH-3-Trenner eine Sicherung ein. So sehen die aus.
+
+(0:08:43 - 0:08:59)
+Drei Stück habt ihr da übereinander und jede Sicherung hat jetzt hier 250 Ampere. Das haben wir berechnet, damit das Kabel geschützt ist und damit die Sicherung den Strom vom Wechselrichter tragen kann. Diese Größe steht eben im Schema.
+
+(0:09:03 - 0:09:20)
+Von dort kommt jetzt ein Kabel an den NH-Trenner und dieses Kabel hat dann eben einen Querschnitt, einen Typ und Querschnitt. Den geben wir meistens noch an. Wir geben dann aber hier, das hatte ich ganz am Anfang gesagt, nicht unbedingt an, wie lang das Kabel ist.
+
+(0:09:20 - 0:09:45)
+Weil dann habt ihr hier unter Umständen 20 Wechselrichter und habt dann 20 verschiedene Längen hier drin und macht euer Schema dadurch vielleicht nicht unbedingt besser, sondern eher unübersichtlicher. Deshalb schreiben wir meistens einen Kommentar rein, Längen siehe Tabelle 3 oder Kabel Tabelle 3 oder so. Also einfach ein Verweis zu eurer Tabelle, wo ihr dann die Kabellängen aufführt.
+
+(0:09:47 - 0:09:58)
+Jetzt kommen die Wechselrichter. Die zeigen wir hier so, symbolisieren sie mit diesem Symbol. Das sind Wechselrichter an jeder NH-Leiste, ein Wechselrichter.
+
+(0:09:58 - 0:10:12)
+Wir zoomen es mal rein und die können so aussehen. Das sind die Geräte, wie wir sie so kennen aus Freiflächenanlagen in der Größe. Und für den Wechselrichter machen wir jetzt Angaben im Plankopf.
+
+(0:10:12 - 0:10:43)
+Im Schema schreiben wir meistens noch rein 11, 12, 13 und so weiter oder welche Nummer der Wechselrichter dann im Grunde bekommt, ist projektspezifisch euch überlassen. Aber wir nummerieren sie durch und weitere Angaben, welche Leistung er hat und so weiter, findet ihr im Plankopf. Jetzt kommen noch die Module dran und das ist jetzt im Grunde genommen euch überlassen, ob ihr versucht, in euren Schemen dann die Stringlängen und Stringanzahlen noch mit rein zu skizzieren.
+
+(0:10:43 - 0:11:09)
+Es hilft in jedem Fall später, ist jetzt aus meiner Sicht aber nicht zwingend notwendig. Wichtiger ist, dass sich das dann vielleicht im Plankopf irgendwo wiederfindet, was für ein Modul, wie viele Strings, welche Stringlängen. Dann haben wir hier zum Schluss noch den Überspannungsableiter, wollten wir euch nicht vorenthalten, hat jetzt aber für unser Schema vielleicht oder für die Anlagenzertifizierung keine große Relevanz.
+
+(0:11:09 - 0:11:38)
+Wichtig ist, dass ihr so einen Überspannungsableiter einbaut, wird in einem anderen Brainday nochmal im Detail beleuchtet, das ist der innere Blitzschutz. Wir sehen meistens Klasse 1 und 2 und damit ist dann euer System erstmal vor Überspannung gesichert. Die meisten Überspannungsableiter brauchen noch eine Vorsicherung, für den Fall, dass eben der Überspannungsableiter defekt gehen würde, würdet ihr ja sonst die Sammelschiene erden und das darf natürlich nicht sein.
+
+(0:11:38 - 0:12:14)
+Für so einen Fall hat man eine Vorsicherung, die dann eben auslöst und den Überspannungsableiter abschaltet. Eigenbedarfswandler, jetzt kommen wir so ein bisschen zu dem Sekundärteil dieser ganzen Anlage, also ihr braucht einen Eigenbedarfswandler in den meisten Freiflächenanlagen, weil ihr jetzt in der Regel 800 Volt Nennspannung habt auf der Niederspannungseite und die könnt ihr ja erstmal nicht verwenden, um eure Verbraucher zu versorgen. Deshalb gibt es ein Trafo 800 zu 400 Volt oder eben zu 230 Volt, je nachdem.
+
+(0:12:15 - 0:12:25)
+Wir zoomen ihn mal rein. So sieht er aus. Das sind die Werte und er versorgt die Station, das Monitoring, gegebenenfalls den Schutz, die USV und so weiter.
+
+(0:12:26 - 0:12:53)
+Das sehen wir gleich auch nochmal ein bisschen detaillierter. Leistungsklassen, ja 2 bis 10 kVA, je nachdem, was ihr vielleicht zusätzlich über diese Trafostation noch versorgen wollt. So, jetzt kommt die Niederspannungsverteilung, also diese 400 Volt vom Eigenbedarfstrafo, die müssen ja verteilt werden in eurer Anlage und das sieht dann in der Regel so aus oder kann so aussehen.
+
+(0:12:54 - 0:13:27)
+Ihr habt einmal genau diese Stationsverteilung, verschiedene Abgänge, ein Abgang versorgt zum Beispiel die USV, der andere Abgang versorgt das Monitoring und diese Bestückung ist im Grunde genommen projektspezifisch. Ein wichtiger Punkt, der hier so ein bisschen links von der Verteilung steht, ist eben die Steckdose. Finden wir immer sehr wichtig, dass man so eine hat für den Service, wenn da mal jemand im Betrieb vor Ort ist, kann er da seinen Laptop laden und kann dort eben dann besser an der Anlage arbeiten.
+
+(0:13:30 - 0:14:07)
+So, jetzt kommen die Spannungswandler, 800 Volt System, gleiches Problem wie bei der Eigenbedarfsversorgung. 800 Volt können unsere Schutzrelais meistens nicht messen, deshalb brauchen wir hier einen Spannungswandler und dieser Spannungswandler misst im Grunde genommen die Spannung für den NA-Schutz. Das ist der Spannungswandler, so können die aussehen, sind irgendwo in der Niederspannungsverteilung verbaut und die haben dann eben eine Klasse 800 Volt zu 100 ist das Übersetzungsverhältnis, Klasse 3P und eine Leistung von 5 VA.
+
+(0:14:08 - 0:14:36)
+Kann so sein, das muss natürlich projektspezifisch dimensioniert werden. Mit Vorsicherung noch, so macht man das, Spannungswandler müssen abgesichert werden auf der Primärseite und auf der Sekundärseite, die seht ihr hier links im Bild nochmal, so wurde es hier in dem Projekt realisiert. Das Ganze muss dann natürlich VDEIN 4110, 4120 konform sein und dann seid ihr da auf der sicheren Seite und könnt mit so einem Schema euer Anlagenzertifikat kriegen.
+
+(0:14:36 - 0:15:47)
+Der zwischengelagerte Schutz wird an den Spannungswandler angeschlossen, meinetwegen hier im Beispiel das ABB-Relais, als Variante gibt es das Zielrelais und das sieht so aus, das überwacht eben Spannung und Frequenz und wirkt auf den Niederspannungsleistungsschalter. Die Einstellwerte dafür kriegt ihr aus dem E9-Bogen vom Netzbetreiber und ihr müsst dieses Gerät vor Ort prüfen und vielleicht als Zusatz noch, dieses Relais kann dann auch automatisch wieder einschalten, nachdem vielleicht Spannung oder Frequenz ausgelöst hatten, gibt es dort die Funktion der Wiedereinschaltung und am Schluss noch vielleicht der Hinweis, Prüfklemmleisten müssen auf jeden Fall vorhanden sein, werden aber nicht im Anlagenschema dargestellt. So, jetzt haben wir noch die Monitoringbox und die USV, das wird hier zusammen eingeblendet, also da ist die USV, hier ist auch die Kapazität mitgezeigt und die Pufferzeit und das Monitoring, die Monitoringbox zeigen wir ja auch noch und die Versorgung von den entsprechenden Sicherungen.
+
+(0:15:49 - 0:16:44)
+Monitoringboxen können so aussehen, wir nennen das meistens dann Parkregler Slave, meistens ist dann Datenlogger drin, entweder vom Hersteller des Wechselrichters oder Produkte von anderen Herstellern, das ist dann auch im Prinzip ein Firmenstandard bei vielen, die verwenden dann immer das oder der Kunde möchte immer das Gerät haben, das ist dann projektspezifisch völlig frei zu entscheiden. Zusätzlich noch ein Ethernet-LWL-Switch, den wir hier noch mit sehen, ganz unten rechts, der dann eben für die Verbindung von Station zu Station sorgt, weil wir das dann meistens mit LWL, mit Glasfaserkabel durchführen. Hier nochmal alle Punkte aufgeführt als Übersicht und daran kann man sich langhangeln, um dann ein übersichtliches Schema von der Trafostation zu haben.
+
+(0:16:44 - 0:17:35)
+Und jetzt kommt noch am Schluss der Plankopf, wo wir dann diese einzelnen Punkte, die wir eben alle mal durchgesprochen hatten, also Module, Leistungsanzahlen, die man hier alle aufführen kann, das kann man so machen, wie es jetzt hier steht, man kann da noch viel mehr Information reinbringen oder die Information kürzen. Es hilft am Ende wirklich, wenn man das Projekt später nochmal bearbeitet oder für einen schnellen Überblick zum Projekt, diesen Plankopf, diese Inhalte möglichst detailliert und korrekt darzustellen und der letzte Punkt eben Revisionsnummer, Ersteller und so weiter, dass das eben alles drin ist, dann rundet das euer Anlagenschema natürlich ab. So, hier in der Übersicht wird das eben auch noch dargestellt und dann ist das Ganze geprüft und euer Schema ist fertig und komplett vollständig.

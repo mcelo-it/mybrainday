@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:28)
+Also gehen wir weiter zu den Messprotokollen und schauen uns die mal ganz konkret und zwar in aller Ruhe an. Wir haben das, sage ich mal, inhaltlich übernommen aus der genannten Norm von gerade und haben das noch mal in unser Layout ausgepasst und gehen jetzt da ganz tief rein und schauen uns eins nach dem anderen mal an. Und zwar oben steht eben der Kopf, das ist kein Soll, sondern das ist wirklich ein Muss, hat man ja gerade in der Norm schon gelernt.
+
+(0:00:28 - 0:00:50)
+Also da kommt man nicht drumrum. Zweiter Teil ist die Topologie der Anlage, die muss beschrieben werden und dann natürlich ganz viel Platz für die Messwerte, die ja dann wirklich aus dem Messgerät rauskommen. Und unten finden wir absolut üblich, völlig normal, nicht zu diskutieren, gibt es eine Fußzeile, in der auch noch mal ein paar Informationen dargestellt werden.
+
+(0:00:51 - 0:01:21)
+Wir gucken uns den Kopf an und zoomen da einfach mal mit unserem Fokussiergerät sozusagen diesen rechten Teil an. Da würden wir allgemeine Daten finden, gehört zu jedem Prüfprotokoll dazu, ist eine Selbstverständlichkeit. Je nach Qualität, sage ich mal, der Firma, die diese Messgeräte, diese Messprotokolle erstellt, ist es aber vielleicht nicht immer klar, dass man das auch bekommt.
+
+(0:01:21 - 0:01:41)
+Also hier müssen Projektdaten rein, hier müssen die Stationen rein, die gerade gemessen wurden. Hier muss irgendwie eine Adresse rein, damit klar ist, welche Anlage oder welche Anlagenteil denn genau geprüft wird. Da muss auch mit rein, was ist eigentlich der Grund für die Prüfung? Das wäre jetzt bei mir meistens eben die Erstprüfung, aber das ist völlig irrelevant.
+
+(0:01:41 - 0:01:58)
+Das kann auch eine wiederkehrende Prüfung sein. Oder auch ganz wichtig, nach einer Reparatur und wenn man dann so eine Chronologie von diesen Messprotokollen hat, kann man eben die langfristige Qualität sichern. Ich habe es am Anfang gesagt, man würde ja dann erkennen, ob sich diese Messwerte verändern über die Zeit.
+
+(0:02:01 - 0:02:09)
+Dann gibt es noch weitere Bewertungspunkte. Das ist mehr so aus dem Rahmen Besichtigung, auch wenn es da ein extra Deckblatt in der Norm ja gibt. Wir haben trotzdem die wichtigsten hier mit reingenommen.
+
+(0:02:10 - 0:02:26)
+Also wie ist jetzt der Zustand der Anlage? Ich sage es nochmal, der Elektriker hat nicht nur blind zu messen, sondern wenn er sieht, dass da irgendwas nicht ganz richtig ist, dann muss er das auch aufschreiben und mitteilen. Bei uns ist erstmal, glaube ich, alles okay oder erforderlich. Das ist auch schon mal eine gute Aussage.
+
+(0:02:27 - 0:02:42)
+Also so würde so ein Kopf aussehen von so einem Messprotokoll. Dann habe ich erstmal verstanden, um welches Projekt es eigentlich geht und ob das jetzt vor der Inbetriebnahme ist oder nicht. Jetzt die Topologie, da gehen wir dann tiefer rein, weil dann spare ich mir auch meine Stichpunkte.
+
+(0:02:43 - 0:02:53)
+Erstmal muss eben in der Topologie eben diese beschrieben werden. Das haben wir mit Bezeichnungen mal übergeordnet benannt. Also WR steht für Wechselrichter.
+
+(0:02:53 - 0:03:04)
+Die Nummerierung muss da drin stehen und dann hat der Wechselrichter meinetwegen verschiedene Strings. Wir haben hier 14 und dann werden die auch durchnummeriert. Das muss also klar zu erkennen sein, welcher String denn hier überhaupt gemessen wird.
+
+(0:03:05 - 0:03:12)
+Es muss rein, ist ja Topologie, wie viele Module pro String. Das hat man am Anfang gesehen, was ein String überhaupt ist. Das muss hier drin stehen.
+
+(0:03:12 - 0:03:22)
+Jetzt bei mir alle 27. Interessanter wird es ja erst, wenn das nicht so ist, wenn mal ein String nur 26 hat oder der andere 28. Dann ist das für die Bewertung extrem wichtig.
+
+(0:03:22 - 0:03:30)
+Deswegen muss das hier mit drin stehen. So, dann Kenndaten vom Tisch haben wir es genannt. Das wäre hier einmal die Orientierung.
+
+(0:03:31 - 0:03:36)
+Typischerweise Süd oder Ost-West. Alles ist möglich, aber auch dazwischen. Das muss hier drin stehen.
+
+(0:03:36 - 0:03:46)
+Auch sonst wird die Bewertung später im Verhältnis zu den Einstrahlungsdaten schwierig. Und hier mit Positionen haben wir es genannt. Das ist ja für Freilandanlagen wichtig.
+
+(0:03:47 - 0:04:01)
+In meinem Beispiel vorhin waren es obere, mittlere, untere Reihe. Diese Position 1, 2 und 3 muss rein, weil es immer wieder vorkommt, dass normal gemessen wird, während schon untere Reihen verschattet werden. Und das kann man dann wunderbar aus den Protokollen herauslesen.
+
+(0:04:01 - 0:04:14)
+Das ist auch nicht falsch, sondern man muss nur wissen, dass meinetwegen die Position 3, also die untere Linie, schon verschattet ist. Und dann sieht man das hier auch in den Messprotokollen wunderbar wiedergespiegelt. Und da ist ja der Stringtyp vom Anfang.
+
+(0:04:15 - 0:04:37)
+Auch den muss ich kennen, sonst kann ich die Strings nicht mehr miteinander vergleichen. Also da habe ich mal so eine Anlagentopologie reingesetzt, um jetzt, das würde jetzt in dem Messprotokoll pro Zeile einfach nach rechts weiterwandern, hier für jeden String jetzt so einen Messwert einzutragen. Habe ich auch reingezoomt und zeige ich nochmal einzeln.
+
+(0:04:38 - 0:04:49)
+Von oben sind noch ein paar Screenshots aus dem Messaufbau, den wir da ja genauer erklärt haben. Und dann würde man also eine Leerlaufspannung messen. Über mir ist ja eingezeichnet, wo man die misst.
+
+(0:04:49 - 0:04:57)
+Das Messgerät sieht man ja auch. Also zwischen Plus und Minus wird eine Leerlaufspannung gemessen. Bei mir sind die so um die 1200, 1300 Volt.
+
+(0:04:58 - 0:05:07)
+Das macht das Messgerät von ganz alleine, dass es auch den Kurzschlussstrom misst. Sind bei mir jetzt hier zwischen 13 und 14 Ampere. Haben wir auch eingezeichnet über mir.
+
+(0:05:07 - 0:05:23)
+Dann der wichtigste Wert noch in dieser ersten Prio-Gruppe ist der Isolationswiderstand. Auch ganz wichtig, das Messgerät erden. Und dann kriegt man da im Megaohm-Bereich je nach Prüfspannung sehr hohe Werte.
+
+(0:05:23 - 0:05:31)
+Also in meinem Beispiel sieht man das schon. Das sind ja sogar Gigaohm, die da angegeben sind. Das ist je nach Messbereich vom Messgerät abhängig.
+
+(0:05:31 - 0:05:41)
+Auf jeden Fall sagt die Norm mehr als ein Megaohm. Jetzt kommt mehr so die zweite Gruppe, nenne ich sie mal. Also nicht mehr elektrische Kenndaten, sondern andere.
+
+(0:05:41 - 0:05:50)
+Und die sind aber essentiell. Ohne die komme ich sonst nicht weiter in der Bewertung. Also da wäre zum ersten Mal mein Einstrahlungswert in Watt pro Quadratmeter.
+
+(0:05:50 - 0:05:56)
+Ich habe oben so ein Einstrahlungsgerät reingezeichnet. So würde das aussehen. In Modulebene geneigt.
+
+(0:05:57 - 0:06:05)
+Warum, werden wir später noch sehen, dass das ganz wichtig ist. Da kriege ich also meinen Einstrahlungswert her. Bei mir waren das jetzt hier so 980 Watt pro Quadratmeter.
+
+(0:06:06 - 0:06:12)
+Dann kommen noch zwei Temperaturen. Zwei Temperaturen. Einmal hier die Umgebungstemperatur.
+
+(0:06:12 - 0:06:25)
+Haben wir hier mit so einem Bluetooth- oder WLAN-Signal dargestellt. Also in großflächigen Anlagen empfehlen wir das dringend. Weil wenn man das mit einem Hardwire verbindet, dann sind das sehr lange Leitungen.
+
+(0:06:25 - 0:06:32)
+Das funktioniert oft so nicht so wirklich. Ich würde das so modern machen, wie das so über mir dargestellt ist. Also viele machen das so.
+
+(0:06:33 - 0:06:39)
+Und dann gibt es eben die Umgebungstemperatur, habe ich dargestellt. Und ganz wichtig, es gibt auch die Modultemperatur. Das ist ein enormer Unterschied.
+
+(0:06:40 - 0:06:56)
+Gerade bei hohen Einstrahlungswerten ist der Temperaturunterschied enorm. Das können 50, 60 Grad Differenz sein. Und dann ist es ja ganz wichtig zu wissen, welcher ist jetzt hier mein Modultemperaturwert und welcher ist mein Umgebungstemperaturwert.
+
+(0:06:58 - 0:07:11)
+Dann auch wichtig, habe ich aber auch schon mehrfach gesagt, ist offensichtlich alles wichtig, ist die Uhr über mir. Also der Tag und die Uhrzeit müssen notiert werden. Warum, sehen wir später noch.
+
+(0:07:11 - 0:07:20)
+Gehört zum Pflichtprogramm. Und der Letzte, ich habe ein Plus und ein Minus nochmal extra dahin gezeichnet. Also die Polarität muss geprüft werden.
+
+(0:07:20 - 0:07:36)
+Man kann die Kabel verdrehen, man kann sie falsch beschriften. Man muss nochmal die Polarität prüfen und das ist für uns dann ein Okay. Also das waren die Messwerte, die man dann wunderbar aufgelistet in so einem schönen, übersichtlichen Prüfprotokoll erstmal geliefert bekommt.
+
+(0:07:37 - 0:07:53)
+Und in der Fußseile, das ist mehr so eine Randnotiz, sage ich mal aus technischer Sicht, aber aus Projektmanagementsicht ist sie genauso wichtig. Ich gucke mir das tatsächlich ganz genau an, mache ich. Bei Großprojekten, finde ich, ist das absolut erforderlich.
+
+(0:07:54 - 0:08:19)
+Was ist da überhaupt für ein Messgerät verwendet worden? Ist das Messgerät zertifiziert nach den Normen, die ich oben genannt habe? Das muss nämlich der gleichen Norm auch tatsächlich folgen. Seriennummer, Datum der Kalibrierung, das schreiben wir hier rein, weil das wird auch ernst genommen. Wenn das jetzt vor fünf Jahren das letzte Mal kalibriert wurde, könnte man tatsächlich darauf hinaus wollen, dass die ganze Messung nochmal wiederholt wird.
+
+(0:08:21 - 0:08:30)
+Dafür brauche ich Seriennummer und Kalibrierschein, sonst kriege ich es nicht zusammen. Und es muss im Prüfprotokoll stehen, um das Puzzle sozusagen perfekt zu kriegen. Meinen Prüfer, den schreibe ich hier auch rein.
+
+(0:08:31 - 0:08:37)
+Ich bin sogar derjenige, der es hier verifiziert hat. Das ist doch super. Also der Prüfer muss persönlich unterschreiben.
+
+(0:08:37 - 0:08:49)
+Das hat einen enormen Effekt. Die Leute wollen nicht irgendwas unterschreiben, sondern sie wollen dann auch wissen, was da drin steht und geben sich dann auch Mühe, dass es richtig ist. Und deswegen kommt da auch eine Unterschrift rein und ein Datum.
+
+(0:08:49 - 0:09:00)
+Sonst ist das Prüfprotokoll nicht freigegeben, nicht gültig. Wir haben es hier nochmal zusammengefasst. Das ist genau das, was ich gerade gemacht habe.
+
+(0:09:00 - 0:09:11)
+Also darauf würde ich achten. Diese Stichpunkte würde ich einen nach dem anderen abhaken, um jetzt im ersten Schritt erstmal geguckt zu haben, ob ich denn sozusagen ein vollständiges Messprotokoll bekommen habe.

@@ -1,0 +1,387 @@
+(0:00:00 - 0:00:09)
+Wir steigen jetzt gleich in das größte Kapitel ein, was wir hier haben, oder mit größtem Kapitel. Das sind jetzt die Stromwandler. Wir haben euch das aufgebaut.
+
+(0:00:09 - 0:00:26)
+Hier gibt es ein Inhaltsverzeichnis. Wir starten hier erstmal mit der Theorie und wir bauen euch das so Stück für Stück auf. Also erstmal in der Theorie ist so ein Stromwandler, den wir hier betrachten, erstmal ein induktiver Stromwandler.
+
+(0:00:26 - 0:00:43)
+Das sind die Stromwandler, die wir zu über 90% im Einsatz haben in unseren Projekten. Deshalb fokussieren wir uns hier auch auf diese Stromwandler, auf diese induktiven Stromwandler. Und die folgen jetzt erstmal dem Induktionsgesetz.
+
+(0:00:43 - 0:00:58)
+Das ist erstmal ganz wichtig zu wissen. Es gibt dann eben auch noch Rogowski-Spulen, ein anderes Prinzip, ein bisschen anderes Prinzip und auch noch weitere Stromwandler. Aber unser Fokus eben konventionelle Stromwandler, so würde ich sie nennen, die eben induktiv arbeiten.
+
+(0:01:00 - 0:01:26)
+Der Stromwandler, den wir jetzt hier sehen, besteht aus einem Eisenkern und aus einer Wicklung. Durch diesen Stromwandler wird ein Primärleiter durchgeführt und der führt einen Strom, zum Beispiel 1000 Ampere, was in so einer Niederspannungsinstallation durchaus üblich ist. Der Strom fließt dort durch, durch den Eisenkern, der induziert in dem Eisenkern dann einen magnetischen Fluss.
+
+(0:01:27 - 0:01:54)
+Und dieser magnetische Fluss wiederum, der induziert dann in der Sekundärwicklung dieses Wandlers einen Strom von zum Beispiel 1 oder 5 Ampere, wenn wir eben diesen Nennstrom von 1000 Ampere haben. Dieser Strom, der dort induziert wird, der ist auch sehr, sehr stabil. Das heißt, ob man da jetzt ein Messgerät dran hängt oder zwei Messgeräte, das beeinflusst durch diesen fließenden Strom nur sehr, sehr wenig bis gar nicht.
+
+(0:01:55 - 0:02:11)
+Das ist eben genau hier die Idee. Er übersetzt, ich sage mal ungefähr knallhart, diese 1000 Ampere dann in 1 Ampere und versucht das auch mit allen Mitteln zu treiben. Das heißt, man muss eben immer sehen, dass diese Klemmen auf der linken Seite auch geschlossen sind, dass der Stromwandler das auch kann.
+
+(0:02:12 - 0:02:25)
+Weil wenn er das nicht kann, diesen Strom durch seine Sekundärwicklung treiben, dann besteht eine große Gefahr der Zerstörung des Wandlers. Da muss man immer sehr, sehr vorsichtig sein. Diese Ströme sind eben konstant und wollen das auch sein.
+
+(0:02:25 - 0:02:48)
+Und dann muss man sie auch auf der Sekundärseite fließen lassen. Dann sehen wir jetzt noch das Übersetzungsverhältnis hier beziehungsweise die Abhängigkeit zwischen Primär- und Sekundärstrom. Und in unserem Beispiel ist das jetzt relativ einfach, weil der Primärleiter, der hier durch den Wandler geführt wird, der entspricht im Grunde genommen einer Wicklung.
+
+(0:02:48 - 0:03:16)
+Das heißt, die Wicklungsanzahl N1 wäre 1 und die Wicklungsanzahl N2, das könnte man jetzt hier durchzählen, oder man könnte zum Beispiel einfach mal 50 annehmen oder 1000 annehmen. Dann hätte man eben ein Übersetzungsverhältnis und dementsprechend würden sich eben die Ströme reduzieren. Wenn man sich jetzt noch mal das Ersatzschaltbild von so einem Stromwandler anschauen wollte, so findet man das in Stromlaufplänen dann wieder.
+
+(0:03:16 - 0:03:32)
+Dann sieht das in der Regel genauso aus, wie es jetzt hier dargestellt ist. Wir haben jetzt auch die Farben noch mal übernommen von unserem theoretischen Modell. Also wird ein Leiter durch einen Eisenkern geführt und es wird eben in Wicklungen ein Strom induziert.
+
+(0:03:33 - 0:03:51)
+P1 und P2 sind die Primäranschlüsse von diesem Stromwandler und S1 und S2 sind dann die Sekundäranschlüsse von dem Stromwandler. So seht ihr das in den detaillierten Stromlaufplänen in eurer Trafostation, Umspannwerk und so weiter. Das wäre die Theorie.
+
+(0:03:52 - 0:04:06)
+Vielleicht merkt ihr euch, Induktionsgesetz ist wichtig. Der Strom will fließen. Der Strom wird durch die Induktion getrieben und ist dann eben sehr, sehr konstant, wenn er eben induziert wird.
+
+(0:04:08 - 0:04:25)
+Jetzt schauen wir uns an, wie diese Theorie, die wir uns eben angesehen haben, umgesetzt wird in Bauformen von verschiedenen Wandlern. Wir haben eine Auswahl getroffen. Es gibt bestimmt noch viel, viel mehr Wandlertypen, Wandlerarten, aber das sind jetzt die, die wir aus unseren Projekten so kennen.
+
+(0:04:25 - 0:04:31)
+Wir fangen mal an mit dem Stützerstromwandler. Das ist ein Wandler. Hier sieht man ihn in relativ klein.
+
+(0:04:32 - 0:04:52)
+Den gibt es als Stromwandler und der wird verbaut in der Regel in luftisolierten Messfeldern. Wenn man eine Übergabestation hat, da hat man fast immer ein luftisoliertes Messfeld drin. In diesen luftisolierten Messfeldern findet man diese sehr massiven, schweren Blockwandler.
+
+(0:04:52 - 0:04:59)
+So werden sie auch manchmal genannt. Die sind da fest verschraubt. Oben an diesen Wandlern werden dann Kupferschienen in der Regel angeschlossen, die den Strom führen.
+
+(0:05:01 - 0:05:15)
+Dann wird eben der Strom durch diesen Wandler hindurchgeführt und gemessen. Dann ein sehr üblicher Wandler, den wir in fast jedem Projekt sehen, ist der Kabelumbauwandler. Der sieht dann so aus, wie er hier dargestellt ist.
+
+(0:05:16 - 0:05:38)
+Der hat in der Mitte ein Loch, da kann man dann das Mittelspannungskabel oder Niederspannungskabel durchführen. Dieses Niederspannungskabel leitet den Strom durch den Wandler, sodass der Wandler das erfassen kann und in Sekunderwerte umsetzen kann. Also der Einbauort ist dann Kabel und das Kabel kann im Kabelkeller liegen.
+
+(0:05:38 - 0:05:57)
+Das Kabel kann aber durchaus auch im Kabelfeld der Schaltanlage installiert sein, sodass diese Wandler sowohl in der Schaltanlage als auch im Kabelkeller zu finden sind. Dann gibt es den Summenstromwandler. Das ist im Grunde genommen genau das gleiche wie ein Kabelumbauwandler.
+
+(0:05:57 - 0:06:10)
+Deshalb haben wir hier auch das Bild nicht geändert. Allerdings gibt es einen kleinen Unterschied. Der Summenstromwandler hat in der Mitte ein deutlich größeres Loch, weil durch den Summenstromwandler immer ein Kabelsystem geführt wird.
+
+(0:06:10 - 0:06:27)
+Wobei wir bei dem Kabelumbauwandler, wie wir ihn vorher beschrieben hatten, immer ein Wandler pro Kabel verwendet wird. Beim Summenstromwandler verwendet man einen und der misst dann eben die Summe aller drei Phasen. Das heißt, wenn wir ein symmetrisches System haben, dann misst er in der Regel gar nichts.
+
+(0:06:27 - 0:06:45)
+Wenn wir Erdfehler haben, dann kommt dieser Summenstromwandler zum Einsatz und er erfasst eine Unsynchronität in unserem Kabelsystem. Er ist für die Schutztechnik gedacht, für die Erdfehlererkennung. Dann gibt es Aufsteckstromwandler.
+
+(0:06:48 - 0:06:58)
+Vielleicht findet man in der Literatur auch immer mal andere Begriffe. Für uns ist das ein üblicher, gängiger Begriff. Aufsteckstromwandler sehen erst einmal ähnlich aus wie die Kabelumbauwandler.
+
+(0:06:58 - 0:07:19)
+Wenn man sich aber im Detail die Öffnung in der Mitte ansieht, dann stellt man schnell fest, dass sie nicht ganz rund ist, sondern dass sie eher eckig ist. Das hat den Grund, dass diese Wandler häufig in den Niederspannungsverteilungen zu finden sind für Messungen für Schutz usw. Und eben auf Sammelschienen aufgesteckt werden können.
+
+(0:07:20 - 0:07:31)
+Deshalb sind die in der Mitte nicht rund, sonst würden die ja lose rum an der Sammelschiene vielleicht baumeln. Deshalb haben die diese leicht eckige Form in der Mitte. Dann sitzen die fest auf der entsprechenden Sammelschiene.
+
+(0:07:31 - 0:07:43)
+Da gibt es dann die passenden Größen. Er unterscheidet sich im Grunde genommen zu dem Kabelumbauwandler nur in der Form der Öffnung in der Mitte. Dann gibt es Brillenwandler.
+
+(0:07:43 - 0:07:54)
+Auch hier dieser Begriff Brillenwandler ist für mich geläufig, der ist für mich gängig. Der ist aber, denke ich, auch kein normativer Begriff. Also Brillenwandler, die sehen so ein bisschen aus wie vielleicht eine Brille.
+
+(0:07:55 - 0:08:06)
+Wenn man das Bild hier gut erkennt, es ist relativ klein. Aber für mich ist es ersichtlich, so könnte auch eine Brille aussehen. Diese Wandler, das sind Spezialwandler, würde ich sagen.
+
+(0:08:06 - 0:08:30)
+Die finde ich in Schaltanlagen z.B. Und die werden dann auf die drei Mittelspannungskonusse z.B. aufgesteckt. Und dann sind die fester Bestandteil der Schaltanlage und messen dann eben in einer Schaltanlage, in einer SF6 oder luftisolierten Schaltanlage die Ströme direkt an den Endverschlüssen. So, der letzte Wandler, den wir hier noch sehen, das ist jetzt die Rogowski-Spule.
+
+(0:08:30 - 0:08:42)
+Die, finde ich, findet immer mehr Beliebtheit. Vor allem, wenn es darum geht, Stromwandler nachzurüsten. Diese Rogowski-Spulen, die verfolgen ein bisschen anderes Prinzip.
+
+(0:08:42 - 0:09:01)
+Das ist nicht das Induktionsprinzip wie die Wandler, die wir zuvor gezeigt haben. Dieser Wandler hat z.B. keinen Eisenkern und da hat man eben den ganz großen Vorteil, dass der sehr flexibel ist. Man kann ihn öffnen, man kann dann eben diese Schlaufe aufmachen und kann den Wandler einfach um ein Kabel legen und kann ihn schließen.
+
+(0:09:01 - 0:09:21)
+Oder um eine Sammelschiene, wo auch immer Platz ist für dieses sehr schlanke Messgerät im Grunde genommen. Der Wandler hat jetzt allerdings dann keinen Stromausgang von 1 oder 5 Ampere, sondern gibt Spannung raus. Das heißt, dann braucht man nochmal einen Umsetzer, der diese Spannung wieder auf Ströme konvertiert.
+
+(0:09:23 - 0:09:49)
+Trotzdem funktionieren die sehr, sehr gut, übertragen auch sehr, sehr gut. Und wenn ihr da mal bei einem Projekt im Grunde genommen etwas nachrüsten müsst, ist das, glaube ich, sehr hilfreich, wenn man diese Option kennt. Und dann kann man mal prüfen, ob Genauigkeiten usw. 
+
+von der Rogowski-Spule ausreichen für eure Anwendung. Das waren die Bauformen. Das gibt, glaube ich, erstmal einen ganz guten Überblick, was es so gibt, was man so einsetzen kann.
+
+(0:09:50 - 0:10:05)
+Und jetzt kommen wir mal zu dem Aufbau von den induktiven Stromwandlern. Und hier ist mit Aufbau gemeint, wir schauen uns mal so einen Kabelumbau-Wandler hier von der Seite an und schneiden ihn durch. Das ist jetzt im Grunde der Schnitt in der Mitte.
+
+(0:10:05 - 0:10:22)
+Wir sehen den Stromwandler, wir sehen das Innere wirklich des Stromwandlers. Wir drehen uns den nochmal hin. Und damit es besser verständlich ist, in der Mitte dieses Stromwandlers würde jetzt normalerweise das Kabel liegen, was den Primärstrom führt, also der Primärleiter.
+
+(0:10:23 - 0:10:41)
+Dieser Primärleiter erzeugt ein Magnetfeld, wenn er von Strom durchflossen wird. Und dieses Magnetfeld würde dann eben einen magnetischen Fluss in dem Eisenkern erzeugen. Der Eisenkern geht einmal um dieses Kabel drum herum und ist eben der schwarze Bereich, den wir hier sehen.
+
+(0:10:42 - 0:11:02)
+Dieser magnetische Fluss wiederum, der induziert dann in die Wicklungen dieses Stromwandlers einen Strom. Und dieser Strom fließt dann im Grunde genommen oben zu den Sekundäranschlussklemmen des Stromwandlers. Wie bei diesen Kabeldurchführungswandlern sitzen die Anschlussklemmen meistens oben.
+
+(0:11:02 - 0:11:20)
+Wenn man jetzt diese Stützerstromwandler hat im Messfeld, dann sitzen die Anschlussklemmen eher unten. Das soll aber hier erstmal reichen, um das beispielhaft zu verstehen, wie das funktioniert. Dieses ganze Gebilde ist dann vergossen mit einem Gießharz.
+
+(0:11:20 - 0:11:29)
+Deshalb nennt man diese Wandler auch häufig Gießharzwandler. Das sorgt für viel Stabilität. Die sind sehr robust und eben auch für eine sehr gute Isolation.
+
+(0:11:30 - 0:11:45)
+Zum Schluss gibt es unten noch die Bodenplatte. Da kann man den Wandler verschrauben, wo auch immer er sich befindet, im Messfeld oder im Kabelkeller. Und man kann dort auch die Erdung mit anschließen.
+
+(0:11:49 - 0:12:07)
+So, das war der Aufbau. Jetzt kommen wir mal zu Kennwerten. Kennwerte von Stromwandlern. 
+
+Wir würden mal anfangen. Wir starten mit dem primären Bemessungsstrom des Wandlers. Wichtig ist hier, der Wandler muss entsprechend dimensioniert sein für die Anlage, die wir errichten.
+
+(0:12:08 - 0:12:19)
+Hier in dem Fall sehen wir das Kabel, das durch den Wandler führt. Und wir müssen jetzt wissen, was für ein Strom durch dieses Kabel fließt. Sonst haben wir erstmal überhaupt keine Möglichkeit, diesen Wandler zu dimensionieren.
+
+(0:12:20 - 0:12:33)
+Typische Werte für Stromwandler sind hier steht jetzt 10 oder 12,5 Ampere. Ganz wichtig ist aber, dass da noch mal n steht. Das heißt, ihr könnt ein Vielfaches von diesen beiden Größen bestellen.
+
+(0:12:33 - 0:12:44)
+Das heißt, ihr könnt 10 mal 10 bestellen, dann habt ihr 100. Oder ihr könnt auch 100 mal 12,5 bestellen, dann habt ihr 1250. Diese beiden Zahlen sind die Grunddaten.
+
+(0:12:45 - 0:12:55)
+Und vielfache Übersetzungsverhältnisse oder Primärstromverhältnisse sind eben möglich. Daraus könnt ihr euch das dann ableiten. Wir schauen uns jetzt mal ein Beispiel an.
+
+(0:12:56 - 0:13:20)
+Und zwar haben wir jetzt bei unserer Anlage hier einen maximalen Betriebsstrom. Und der muss kleiner sein als der primäre Bemessungsstrom des Wandlers. Wenn wir jetzt beispielsweise einen maximalen Betriebsstrom haben von 1154, dann muss der primäre Bemessungsstrom des Wandlers erstmal größer sein.
+
+(0:13:20 - 0:13:36)
+Und jetzt suchen wir uns natürlich einen raus, der vielleicht nicht viel zu groß ist, sondern der ungefähr diese Größe hat. Und ich hatte eben schon das Beispiel genannt, 12,5 könnte mit 100 multiplizieren. Und dann ist eine übliche Stromwandlergröße 1250 Ampere.
+
+(0:13:37 - 0:14:04)
+Dann habt ihr den Wandler etwas größer gewählt als den zu erwartenden Nennstrom und erstmal ausreichend dimensioniert. Wichtig ist, wenn ihr den Stromwandler unterdimensioniert, das heißt, wenn ihr jetzt zum Beispiel einen 1000 Ampere Stromwandler ausgewählt hättet, dann hättet ihr riskiert, dass der Stromwandler bei dauerhafter Überlastung einfach beschädigt wird. Da muss man darauf achten.
+
+(0:14:06 - 0:14:18)
+Irgendwann überträgt er auch nicht mehr sauber die Werte. Das heißt, eine Unterdimensionierung des Wandlers ist zwingend zu vermeiden. Man muss aber auch aufpassen, dass man diese Stromwandler nicht überdimensioniert.
+
+(0:14:19 - 0:14:54)
+Das heißt, in diesem Beispiel dürftet ihr jetzt auch nicht einfach einen 4000 Ampere Wandler einsetzen, weil wenn man das tun würde, dann hätte man keine ausreichende Messgenauigkeit mehr. Zu dem Thema Messgenauigkeit und was das genau bedeutet, kommen wir später noch. Aber hier soll es erstmal ausreichen, wenn ihr den Wandler nicht passend dimensioniert, kann er entweder beschädigt werden bei der Unterdimensionierung oder bei der Überdimensionierung, lauft die Gefahr, dass ihr dann eben nicht hinreichend genau die Messwerte, die Primärströme übertragen könnt.
+
+(0:14:58 - 0:15:12)
+So, jetzt schauen wir uns an den sekundären Bemessungsstrom. Das ist ISR des Wandlers. Das heißt, aus dem Primärstrom, der geflossen ist, muss der Wandler jetzt einen sekundären Strom erzeugen.
+
+(0:15:12 - 0:15:38)
+Das macht er, wie wir es vorher schon in der Theorie erklärt haben. Es wird über den Eisenkern in die Sekundärwicklung ein Strom induziert und der folgt im Grunde dem Übersetzungsverhältnis zwischen Leiter und Sekundärwicklung und den kann man jetzt auswählen, diesen Sekundärstrom mit 1 Ampere oder eben 5 Ampere. Das sind die zwei gängigen Größen, die wir in Deutschland wahrscheinlich sogar weltweit kennen.
+
+(0:15:40 - 0:16:18)
+Aus meiner Erfahrung ist es in der Regel so, dass wir die 1 Ampere Stromwander häufig in der Schutztechnik sehen, weil wir da im Fehlerfall, das erklären wir auch später noch genauer, sehr hohe Ströme übertragen müssen und dann ist es erstmal hilfreich, da nur 1 Ampere übertragen zu müssen. Für die Messtechnik oder für die Messung des Netzbetreibers, da sehe ich häufig die 5 Ampere Sekundärströme. Hier vielleicht noch der wichtige Hinweis, ob man 1 Ampere oder 5 Ampere verwendet, macht erstmal keinen Unterschied in der Genauigkeit dieser Geräte.
+
+(0:16:18 - 0:16:37)
+Wenn wir uns später die Klassifizierung anschauen, Thema Genauigkeit, dann sieht man das, die haben eine Genauigkeit und ob die jetzt 1 Ampere Sekundär machen oder 5 Ampere, das macht den Wandler nicht genauer oder ungenauer. Das sollte man hier vielleicht nochmal mitnehmen. Deshalb ist bei mir meistens, wenn ich wählen kann, die Wahl klar, welchen Wandler ich nehme.
+
+(0:16:37 - 0:16:51)
+Bei mir ist es in der Regel der 1 Ampere Wandler, das ist aber sicherlich auch eine Philosophie. Wir machen den Stromwandler wieder zu. Wir gehen weiter durch die Kennwerte, die der Wandler hat.
+
+(0:16:51 - 0:17:02)
+Wir haben jetzt eine Bemessungsübersetzung, die führen wir hier auf. Diese Bemessungsübersetzung, die kenne ich so nicht von Typenschildern. Ich selbst verwende die aber häufig, wenn ich zum Beispiel vor Ort bin.
+
+(0:17:03 - 0:17:26)
+Dann hilft mir das meistens vielmehr, die Übersetzung zu kennen, als das Übersetzungsverhältnis. Wenn ich zum Beispiel einen 250 zu 5 Ampere Wandler sehe, dann merke ich mir eher, der hat vielleicht ein Übersetzungsverhältnis von 50. Also ich muss die Sekundärwerte mit 50 multiplizieren, damit ich dann eben auf den Primärwert komme.
+
+(0:17:26 - 0:17:40)
+Das ist für mich erst mal ein kleines bisschen einfacher, als diese zwei einzelnen Primär- und Sekundär-Kenngrößen zu kennen. Da hilft mir das einfach ein bisschen. Hilfreich in der Praxis, das ist das, was wir hier sagen wollen.
+
+(0:17:42 - 0:17:56)
+Theoretisch hat es im Grunde genommen keine Relevanz, weil durch I Primär und I Sekundär ist das natürlich klar. Jetzt haben wir noch die Bemessungsleistung des Stromwandlers. Das ist immer ein ganz wichtiger Punkt.
+
+(0:17:57 - 0:18:15)
+Hier muss man sich vielleicht vorstellen, so ein Wandler, warum hat er eine Leistung? Das ist schon schwer zu greifen vielleicht erst mal. Aber der Wandler, der treibt seinen Strom, sagen wir von zum Beispiel 1 Ampere. Und das tut er eben, indem er die Spannung immer weiter anhebt.
+
+(0:18:16 - 0:18:30)
+Also es fließt ein Strom, es muss 1 Ampere fließen auf der Sekundärseite. Wenn man jetzt sehr lange Kabel anschließt, sehr viele Messgeräte vielleicht an den gleichen Kern, dann muss der Wandler eben die Spannung anheben. 1 Volt, 2 Volt, 3 Volt, 4 Volt, 5 Volt.
+
+(0:18:31 - 0:18:41)
+Das ist leicht zu rechnen. Bei 5 Volt und 1 Ampere braucht der Wandler dann eben 5 VA-Leistung. Das ist erst mal der Grund, warum das so ist.
+
+(0:18:41 - 0:18:59)
+Der Wandler ist nicht in der Lage, diese Spannung unendlich hochzuheben, weil dann hätte er unendlich Leistung. Der Wandler ist da begrenzt und man darf ihn da eben nicht zu sehr stressen. Diese Leistung ist jetzt, ich habe es eigentlich schon gesagt, ist jetzt abhängig von den Verbrauchern, die wir anschließen.
+
+(0:19:00 - 0:19:17)
+Moderne Messgeräte haben einen sehr geringeren Leistungsbedarf an den Strommesseingängen. Also der liegt im Watt-Bereich deutlich drunter, also 0,1 Watt vielleicht. Dann habt ihr das, glaube ich, großzügig dimensioniert.
+
+(0:19:18 - 0:19:38)
+Und es kommt aber auch noch hinzu, der Leistungsbedarf der angeschlossenen Kabel. Das heißt, wenn euer Messgerät relativ weit weg ist, dann ist der Leistungsbedarf der Kabel relativ hoch. Wir geben das jetzt in VA an, die Bemessungsleistung des Wandlers.
+
+(0:19:38 - 0:19:56)
+Und wie wir jetzt die Bürde der angeschlossenen Betriebsmittel ermitteln, das kommt noch im nächsten Punkt. Aber hier sei erstmal klar, der Wandler hat eine Leistung 5 VA, 10 VA, manche haben sogar 30 VA. Das sind dann die sehr großzügig ausgelegten Stromwandler.
+
+(0:19:58 - 0:20:08)
+So, jetzt kommt die Bürde. Ich hatte sie eben schon kurz erklärt oder kurz vorweggenommen, was die Bürde bedeutet. Die Bürde bedeutet im Grunde genommen, was schließen wir denn jetzt an diesen Wandler wirklich an.
+
+(0:20:09 - 0:20:27)
+Und das ist im Grunde genommen das S-Gerät, die Bürde des Geräts. Und dazu kommt noch die Bürde der Leitung von unserem Stromwandler zu unserem Messgerät oder Schutzgerät zum Beispiel. Hier steht dann zweimal, weil wir müssen dann immer Hin- und Rückleiter bei den Stromwandlern betrachten.
+
+(0:20:28 - 0:20:40)
+Je nachdem, wie ihr sie verschaltet, man kann das auch anders machen. Aber erstmal würde ich sagen, wir führen von einem Stromwandler Hin- und Rückleiter zu unserem Messgerät und wieder zurück. Dann müssen wir eben das I² mal R doppelt nehmen.
+
+(0:20:41 - 0:21:34)
+Und hier aus dem I² sehen die Elektroingenieure, die mathematisch fit sind, sofort, wenn man jetzt einen 1-Ampere-Wandler hat, dann ist das viel weniger Leistung, als wenn man einen 5-Ampere-Wandler hat, weil 5 zum Quadrat ist 25, 1 zum Quadrat ist 1. Das heißt, wenn ich einen 1-Ampere-Wandler habe, dann kann man entweder die Leitung zum Messgerät dünner auslegen oder man braucht einfach viel weniger Bemessungsleistung am Stromwandler, um den Strom von 1 Ampere zu treiben. Die Bürde unserer angeschlossenen Geräte muss dann auf jeden Fall kleiner sein, als die Bemessungsleistung des Wandlers. Wenn ich jetzt einen 5-VA-Wandler habe, dann darf ich dort maximal 5-VA-Kabel und Geräte anschließen, um diesen Wandler eben nicht zu überlasten.
+
+(0:21:35 - 0:22:07)
+Wichtig aber, die Bürde, die wir anschließen, die muss aber auch mindestens 50% von der Bemessungsbürde unseres Wandlers entsprechen. Das heißt, man könnte es sich ja leicht machen und immer ins Regal greifen und den 30-VA-Stromwandler wählen, und man schließt aber nur 1-VA an, weil der Wandler sehr nah an unserem Messgerät ist und die Kabel strecken sehr kurz. Dann wiederum ist dieser Stromwandler natürlich völlig unterbürdet, und dann wäre er nicht spezifiziert.
+
+(0:22:07 - 0:22:20)
+Ich will nicht sagen, dass er dann nicht funktioniert, aber erst mal ist er dann nicht spezifiziert, und man weiß dann nicht genau normativ, welche Genauigkeiten er noch erfüllen kann. Also da muss man darauf achten. Wir gehen nochmal zurück zu dem 5-VA-Stromwandler.
+
+(0:22:21 - 0:22:40)
+Da müssen wir dann auch mindestens 2,5-VA an Messgeräten und Kabeln anschließen, damit der Wandler spezifiziert ist nach Norm. Das heißt, dass er die normativen Vorgaben, die wir später sehen, auch erfüllt. So, jetzt kommen wir zu den Grenzwerten.
+
+(0:22:41 - 0:22:55)
+Das ist etwas, was wir in der Regel nicht sofort im Fokus haben, wenn wir unsere Stromwandler dimensionieren. Aber was natürlich zumindest mal bekannt sein soll, dass es diese Werte gibt. Es gibt erstmal einen thermischen Bemessungskurzzeitstrom, also ITH.
+
+(0:22:56 - 0:23:20)
+Und den Wert muss man im Auge haben, wenn man den Wandler dimensioniert. Und hier lohnt es sich dann immer, vielleicht auch mal einen Blick auf die Schaltanlage zu werfen, weil häufig sind Schaltanlagen dann dimensioniert 16 Kiloampere eine Sekunde oder 20 Kiloampere eine Sekunde. Und wenn man sich daran orientiert, dann ist man meistens auf der richtigen Seite.
+
+(0:23:21 - 0:23:32)
+Es sei denn, die Schaltanlage ist falsch dimensioniert. Dann hat man aber ein deutlich größeres Problem. Aber genau diesen Wert, den man vielleicht von Schaltanlagen gut kennt, 20 Kiloampere für eine Sekunde, das ist das, was die Schaltanlage tragen kann.
+
+(0:23:33 - 0:23:43)
+Diesen Wert gibt es auch für Stromwandler. Also einen Sekundenwert. Was kann der Wandler eine Sekunde aushalten? Dann gibt es den thermischen Bemessungsdauerstrom.
+
+(0:23:44 - 0:23:56)
+Ein wichtiger Wert, weil wir haben eben gesagt, wir legen die Wandler kleiner aus als den Nennstrom. Und so daran halten wir uns auch. Aber diese Stromwandler können im Grunde genommen auch etwas mehr.
+
+(0:23:56 - 0:24:21)
+Diese Stromwandler in der Mittelspannung sind schon ausgelegt in der Regel für 100 Prozent, 120 Prozent des Nennstroms oder des primären Bemessungsstroms. Das heißt, wir könnten an den 1250 Ampere Wandler auch problemlos 1300 Ampere anschließen. Das ist erst mal nicht unser Ziel von Anfang an, sondern behaltet es mal im Kopf, man kann das.
+
+(0:24:21 - 0:24:36)
+Der Wandler ist dann tatsächlich nach Norm auch spezifiziert und erfüllt dann auch noch seine Genauigkeitsklassen. Über 120 Prozent wird es dann allerdings schwierig. Und wir, wenn wir auslegen, bleiben wir bei 100 Prozent als Grenze.
+
+(0:24:36 - 0:24:53)
+Und dann gibt es noch den Bemessungsstoßstrom, i dynamisch. Der ist dann eben deutlich höher und da geht es dann eben um den maximalen möglichen Scheitelwert bei kurzgeschlossener Sekunderwicklung. Also der Wert ist deutlich höher, da geht es um sehr kurze Zeiträume.
+
+(0:24:54 - 0:25:24)
+Finden wir später auch noch auf dem Typenschild. Wenn ihr jetzt zum Beispiel noch mal eine Schutzstudie zur Hand habt, dann könnt ihr natürlich da mal reinschauen und prüfen, welche Stoßströme es gibt, welche maximalen Kurzzeitströme für eine Sekunde es gibt und danach noch mal eure Stromwandler dimensionieren beziehungsweise eure Dimensionierung überprüfen. So, der letzte Punkt, aber auch einer der wichtigsten Punkte, ist die Genauigkeitsklassen.
+
+(0:25:26 - 0:25:39)
+Hier schauen wir uns das erst mal an. Auf einem Zeitstrahl ist es nicht, es ist ja ein Stromstrahl, der startet bei 0 Prozent. Wir haben hier die Faktoren angegeben zum Primärstrom.
+
+(0:25:40 - 0:26:06)
+Wir teilen das jetzt erst mal auf in den Betriebsbereich und wie ich es gerade vorher schon gesagt habe, geht der Betriebsbereich nicht nur bis 100 Prozent des Wandlers, sondern bis 120 Prozent des Primärstroms des Wandlers. Hier müssen unsere Messwandler, so nennen wir sie dann, gewisse Kriterien erfüllen. Und zwar sollen sie in diesem Bereich von 0 bis 120 Prozent erst mal genau messen.
+
+(0:26:06 - 0:26:28)
+Also hier ist die Anforderung, eine hohe Genauigkeit in diesem normalen Arbeitsbereich unserer PV-Anlage zum Beispiel zu erreichen. Als zweites Kriterium ist ja auch gesagt, dass diese Wandler aber auch in Sättigung gehen sollen. Das ist ja wirklich eine Anforderung, wenn wir diesen Bereich verlassen.
+
+(0:26:28 - 0:26:46)
+Das heißt, im Fehlerfall, im Kurzschlussfall sollen diese Wandler sättigen und nicht alles übertragen. Das ist dann im Grunde wichtig, damit wir unsere Messgeräte, die ja zum Teil hochsensibel sind und eben nicht für Kurzschlussströme ausgelegt sind, dass wir die eben schützen. Das heißt, Kurzschluss wollen wir gar nicht übertragen.
+
+(0:26:46 - 0:27:00)
+Das hat für unseren zum Beispiel EVU-Zähler überhaupt keine Relevanz, ob wir dafür 100 Millisekunden oder für eine halbe Sekunde einen riesenhohen Strom haben. Das wollen wir nicht mit unseren Messgeräten erfassen. Das ist gar nicht notwendig.
+
+(0:27:00 - 0:27:10)
+Dafür haben wir dann später die Schutzgeräte. Deshalb teilen sich diese Klassen so auf. Und für die Messwandler gibt es dann verschiedene Genauigkeitsklassen.
+
+(0:27:11 - 0:27:18)
+Hier ist mal die Tabelle dargestellt. Wir fangen ganz oben an. Genauigkeitsklasse 5, das ist der, ich würde sagen, ungenauste Wandler.
+
+(0:27:19 - 0:27:35)
+Und ungenau bedeutet, zwischen 50% und 120% erfüllt der eine Genauigkeit von ca. 5%. Also man sieht dann vielleicht 50% des Primärstroms und der könnte dann 5% abweichen.
+
+(0:27:35 - 0:27:51)
+Diese Wandlergenauigkeit habe ich, ehrlich gesagt, noch nie gesehen. Wenn wir Wandler sehen im Schutzbereich oder im Messbereich, dann gehen wir deutlich weiter runter in der Tabelle. Da kommt dann irgendwann eine 1. Die 0,5 fehlt jetzt.
+
+(0:27:51 - 0:28:19)
+Das ist auch eine sehr bekannte Genauigkeitsklasse für Stromwandler. Aber die 0,2 und 0,2s, das sind dann für große Solarparks eher Genauigkeiten, die wir vorfinden. Und wenn wir uns jetzt die 0,2 mal anschauen, dann bedeutet das erstmal, dass dieser Stromwandler bei Nennstrom, also bei 100% des Primärstroms, eine Genauigkeit hat von 0,2%, was ich ehrlich gesagt für sehr genau halte.
+
+(0:28:21 - 0:28:38)
+Die halten wir uns mal fest. Wir sehen aber auch, wenn wir hier in den Teillastbereich gehen, also 20%, 5%, dass wir dann deutlich ungenauer werden. Das heißt, wir kommen da bei 5% auf eine Messungenauigkeit von ungefähr 0,75.
+
+(0:28:39 - 0:29:17)
+Deshalb hatte ich das vorhin gesagt, wenn man Wandler auslegt, sollte man schon sehen, dass man den auch sehr nah an seinen primären Betriebsstrom auslegt, weil da ist er im Grunde am genauesten. Und unsere Solarparks verhalten sich natürlich häufig in diesem Teillastbereich. Und deshalb auch immer nochmal der Hinweis, der unterste Stromwandler hier in der Tabelle 0,2s, der ist dann eben nochmal etwas weiter spezifiziert als der 0,2er, weil der kann dann auch im unteren Bereich Genauigkeiten übertragen oder ist hier zumindest spezifiziert bei 1% mit 0,75.
+
+(0:29:19 - 0:29:31)
+Wir nehmen mal das 0,2 mit. Also wir haben den 0,2er, die 0,2-Klasse ausgewählt. Wir nehmen das mit hier auf die nächste Seite, weil die Bezeichnung der Genauigkeitsklasse ist jetzt noch nicht am Ende.
+
+(0:29:33 - 0:29:40)
+Wir schreiben nochmal auf, 0,2 ist die Abweichung beim Nennstrom. Das halten wir hier fest. Und jetzt kommt nochmal fs.
+
+(0:29:41 - 0:29:53)
+Das ist immer ein Kürzel, das finden wir auf jeder Spezifikation. Und fs ist eben ein Überstrombegrenzungsfaktor. Ich habe hier aufgeschrieben, 5 oder 10 ist üblich.
+
+(0:29:53 - 0:30:13)
+Das sehe ich bei den meisten Stromwandlern, die wir spezifizieren. Wir tragen hier mal fs5 ein. Und das bedeutet, dass der bei mindestens 10% Abweichung bei x-fachem Nennstrom betragen soll.
+
+(0:30:13 - 0:30:22)
+Also wir haben jetzt einen 5-fachen Nennstrom. Und hier muss der Wandler jetzt in Sättigung gehen. Das ist hier das Ziel.
+
+(0:30:22 - 0:30:38)
+Das heißt, er muss dann mindestens 10% abweichen. Wir wollen jetzt hier bei dem 5-fachen Strom überhaupt keine Genauigkeit mehr erreichen, sondern im Gegenteil, wir wollen den 5-fachen Strom nicht mehr übertragen. Und deshalb geht der Wandler dann in Sättigung und schützt eben die angeschlossenen Geräte.
+
+(0:30:38 - 0:30:53)
+Das ist hier das Ziel. Und wenn man den eben als 10 verwendet, dann würde der bis zum 10-fachen Nennstrom funktionieren und erst dann stark in Sättigung gehen. Und das ist es genau.
+
+(0:30:53 - 0:31:02)
+Es schützt die angeschlossenen sensiblen Messgeräte. Das war jetzt der Betriebsbereich. Den haben wir jetzt, glaube ich, durch.
+
+(0:31:03 - 0:31:14)
+Und jetzt würden wir uns den größeren Bereich tatsächlich anschauen, der aber hoffentlich deutlich weniger zum Einsatz kommt. Aber wenn er zum Einsatz kommt, dann natürlich hoch wichtig ist. Und das ist der Fehlerbereich.
+
+(0:31:14 - 0:31:27)
+Also hier starten wir dann bei 120% des primären Bemessungsstroms. Und wir verwenden hier Schutzwandler. Das ist eine andere Kategorie von Wandlern.
+
+(0:31:27 - 0:31:34)
+Die haben eine ganz andere Aufgabe. Und deshalb gibt es hier auch ein separates Feld. Diese Wandler starten.
+
+(0:31:35 - 0:31:55)
+Sie können natürlich auch 0,0% des Stroms messen, erfüllen dann aber keine hohe Genauigkeit und können aber zum Teil bis zum 100-fachen Primärstrom messen beziehungsweise sind sie so spezifiziert oder können so spezifiziert sein. Was da üblich ist, kommen wir später noch dazu. Aber grundsätzlich ist das möglich.
+
+(0:31:56 - 0:32:17)
+Und diese Wandler sind erstmal ungenau im Arbeitsbereich und sollen aber dafür im Schutzbereich thermisch stabil bleiben und eben nicht in die Sättigung geraten. Das ist hier eben wichtig. Also es interessiert uns gar nicht, ob wir bei 30% 1% genau sind oder 0,5% genau sind.
+
+(0:32:17 - 0:32:25)
+Das ist hier für diesen Wandler nicht wichtig. Wir sehen es aber auch später. Er ist selbst bei 50% oder bei 100% noch ziemlich genau.
+
+(0:32:26 - 0:32:33)
+Aber darum geht es bei diesem Wandlertyp nicht. Er ist für den Kurzschluss gedacht. So und da schauen wir uns das mal an.
+
+(0:32:34 - 0:32:47)
+Weil erstmal ist die Bezeichnung von diesen Genauigkeitsklassen unterschiedlich. Wir haben ja ein P, das steht erstmal für Protection. Und vor dem P steht eine 5. Diese 5 bedeutet jetzt, dass wir 5% Abweichung haben.
+
+(0:32:47 - 0:33:02)
+Und jetzt muss man aber noch etwas dazu sagen. Nämlich bei 5P10, bei dem 10-fachen Nennstrom. Das heißt, wenn der Strom 10-fach ist, 10-fach des primären Bemessungsstrom, dann haben wir 5% Abweichung.
+
+(0:33:03 - 0:33:14)
+Das ist hier erstmal die Idee. Und erst dann, frühestens dann, darf dieser Wandler in Sättigung gehen. Beziehungsweise muss er thermisch stabil sein und weiterhin diese hohen Ströme übertragen können.
+
+(0:33:18 - 0:33:41)
+Und dadurch, dass er dann eben stabil bleibt und weiterhin überträgt, ist die Fehlererkennung, die Kurzschlussstromübertragung gewährleistet und die Schutzrelais detektieren lassen können, auslösen. Die Kurzschlussberechnung kann man dann natürlich immer nochmal gegenprüfen, welche Ströme auftreten, bei welchen Strömen wir auslösen sollen. Und kann damit seinen spezifizierten Wandler nochmal gegenprüfen.
+
+(0:33:43 - 0:34:01)
+Hier haben wir nochmal ein Beispiel aufgeführt. Also 5P10 bedeutet im Grunde genommen auf der rechten Seite der Tabelle 5% Abweichung bei dem 20-fachen Primärstrom. Es ist aber auch spezifiziert, dass diese Stromwandler bei dem Nennstrom 1% Abweichung haben.
+
+(0:34:02 - 0:34:34)
+Und wenn ihr jetzt vor Ort seid bei so einer Anlage und auf so einen Schutzrelais guckt und ihr wisst jetzt, der Stromwandler, der Schutzwandler hat 1% Abweichung, dann könnt ihr natürlich bedenkenlos diesen Werten auf dem Schutzrelais trauen, weil 1% Abweichung hat für euch dann in der Praxis vor Ort überhaupt keine relevanten Einflüsse. Hier nochmal in einer anderen Darstellung gezeigt, den Betriebsbereich und den Fehlerbereich. Und dass die Stromwandler für Messzwecke sättigen sollen.
+
+(0:34:35 - 0:34:43)
+Das sehen wir jetzt hier. Also bei dem 5-fachen Nennstrom sollen die wirklich in Sättigung gehen. Das ist die Grenze FS5.
+
+(0:34:43 - 0:34:56)
+Und die Schutzwandler, die sollen eben nicht in Sättigung gehen. Deshalb müssen die bei dem 10-fachen Strom immer noch 5% genau übertragen. Da ist die Anforderung genau umgekehrt.
+
+(0:34:58 - 0:35:09)
+So, das waren jetzt die Genauigkeitsklassen. Und jetzt kommen zum Schluss nochmal die Kennwerte und das Typenschild. Das haben wir jetzt hier in einer Slide zusammengefügt.
+
+(0:35:10 - 0:35:20)
+Wir schauen uns hier den Stromwandler an und sehen, dass da oben drauf ein Typenschild ist. Man erkennt es so ein bisschen in Gelblicht dargestellt. Wir machen euch das natürlich ein bisschen größer, damit ihr es besser lesen könnt.
+
+(0:35:21 - 0:35:28)
+Und wir gehen jetzt diese Kennwerte, die wir eben gesehen haben, einmal durch. Also es gibt den primären Bemessungsstrom. Den sehen wir hier.
+
+(0:35:29 - 0:35:39)
+Das ist jetzt ein Wandler, der umschaltbar ist von 100 auf 200 Ampere primär. Dann sehen wir direkt daneben den sekundären Bemessungsstrom. Es gibt hier drei Kerne.
+
+(0:35:39 - 0:35:56)
+Man kann diesen Wandler mit 5 Ampere betreiben oder eben den Schutzkern, das ist der unterste, mit 1 Ampere. Und dann gibt es noch die Bemessungsleistung. Die folgt dann rechts davon mit 10 VA für die ersten beiden Messkerne und mit 5 VA für den Schutzkern.
+
+(0:35:57 - 0:36:12)
+Dann kommt die Genauigkeitsklasse, Klasse 0,2 FS5. Und unten ist der letzte, der dritte Kern, die Klasse 5P20 eben als Schutzkern. Dann haben wir noch den thermischen Bemessungskurzzeitstrom.
+
+(0:36:13 - 0:36:21)
+Der ist da unten auch genannt. 20 Kiloampere eine Sekunde. Und den Bemessungsstoßstrom, der ist eben deutlich höher.
+
+(0:36:21 - 0:36:32)
+Der ist dann auf 50 Kiloampere dimensioniert. Und wir haben noch den thermischen Bemessungsdauerstrom. Das sind diese 120 Prozent der Punkt 7, den wir da eingerahmt haben.
+
+(0:36:33 - 0:36:43)
+Ein wichtiger Punkt, den ich hier noch zeigen wollte. Ihr seht da dieses Z, da wo jetzt die 8 auftaucht. Das steht dann immer dafür, dass die Stromwandler geeicht sind.
+
+(0:36:43 - 0:36:53)
+Jetzt seht ihr hier noch mehr Sachen, Seriennummern, die entsprechenden Normen, die da relevant sind. Die lassen wir jetzt mal raus und gehen weiter ins Menti.

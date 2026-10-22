@@ -1,0 +1,133 @@
+(0:00:00 - 0:01:06)
+Jetzt kommen wir zum letzten Kapitel für heute, das ist das Datenblatt. Das Datenblatt beinhaltet natürlich alle Themen, die wir vorher besprochen haben und sind hier dann für jeden TRAFO-Projekt spezifisch nochmal aufgeführt und das wollen wir jetzt im Folgenden einfach mal mit euch durchgehen, damit ihr im Grunde genommen einfach mal ein Gefühl habt, was muss da drinstehen, was sollte da drinstehen oder was kann da drinstehen und für euer nächstes Projekt dann im Grunde genommen die TRAFO-Datenblätter selbst mal prüfen könnt, ist das komplett oder nicht, sind vielleicht manche Werte nicht so, wie ihr euch die gewünscht habt und so weiter. Also es gibt erstmal allgemeine Informationen, die stehen oben im Kopf in blau markiert und dann gibt es die elektrischen Informationen, die stehen dann dort drunter und darunter wiederum kommen dann mechanische Informationen, so ist jetzt dieses Datenblatt hier unterteilt und ganz zum Schluss gibt es hier nochmal Informationen zu dem Schutzkonzept und zu den eingehaltenen Normen.
+
+(0:01:06 - 0:01:38)
+Jetzt gehen wir mal in das Detail und bei den allgemeinen Informationen sehen wir jetzt hier erstmal, dass da aufgeschrieben wurde, dass dieser Mittelspannungstransformator für Wechselrichteranwendungen gebaut ist. Das sieht man nicht immer so in diesen Datenblättern. Im Grunde ist das der Hinweis ein Stück weit, dass Wechselrichter vielleicht nicht immer den ganz 100% sauberen Sinus liefern, sondern vielleicht Oberwellen haben könnten und dass dieser Transformator jetzt aber erstmal dafür geeignet ist.
+
+(0:01:38 - 0:02:25)
+Das ist ja erstmal ein netter Hinweis, den geben nicht alle TRAFO-Hersteller so, aber für uns ist das natürlich erstmal sehr hilfreich, um zu sagen können, der ist erstmal für eine PV-Anlage, für eine Wechselrichteranwendung oder für eine Windkraftanlagenanwendung mit Wechselrichter eben geeignet. Das Design, was wir jetzt hier haben, ist eben ein dreiphasiger Öltransformator, hermetisch abgedichtet und das ist hier nochmal eine Zusatzinfo, die man auch nicht immer so bekommt, der ist für Volllast, 24 Stunden Betrieb geeignet. Ich würde das hier natürlich auch nochmal ein Stück weit in ein kleines Fragezeichen hinter machen, weil man jetzt natürlich nicht genau weiß, welche Umgebungsbedingungen hier jetzt angesetzt sind.
+
+(0:02:25 - 0:02:57)
+Wenn der in der 40 Grad Umgebung steht, dann kann der wahrscheinlich nicht Volllast und auch nicht 24 Stunden, aber erstmal ist das hier für dieses Datenblatt eine hilfreiche Info, mit der man dann arbeiten kann. Dann geht es weiter zu den elektrischen Eigenschaften. Lukas, bitte, muss das jetzt sein? Bitte, bitte, bitte! Ja, aber hier will ständig schnell jemand durchrennen, wirklich, ich bin echt ein bisschen platt schon und ständig will hier jemand was, ständig steht hier die Tür auf.
+
+(0:02:59 - 0:03:34)
+Ja, kann das nicht in einer halben Stunde runter? Lukas? Ach, Mann ey, der kommt doch jetzt in zwei Minuten wieder rein. Ich gehe nochmal, ich sage da bitte nochmal Bescheid. Könnt ihr jetzt bitte darauf achten, dass nicht jedes Mal hier einer durchrennt? Es ist mir schon klar, dass jeder immer nur eine Sache will, aber es kommen alle fünf Minuten, kommt jemand, einer braucht Brot, einer will zum Auto, einer will zum Auto, weil einer hat gesagt, dass er zum Auto will.
+
+(0:03:34 - 0:04:01)
+Wird jetzt noch einmal eine Viertelstunde nicht hier durchgehen, ja? 15 Minuten, danke. Was? Ich habe jetzt gerade einmal abgebrochen, weil zum vierten Mal einer durchläuft, aber jetzt mache ich weiter. Also, naja, ich mache jetzt Datenblatt, ihr könnt anfangen und dann, ja, das war nicht gut, ich hätte weitermachen müssen, ich mache nochmal von vorne, weil da war auch schon ein Fehler drin.
+
+(0:04:04 - 0:04:38)
+Okay, ich trinke einen Schluck Wasser. Und das ist jetzt die ganze Zeit gefilmt und du markierst dir irgendwie dann, ja, na warte mal jetzt, zack, zack, zack, noch einmal zurück. So, jetzt kommen wir zum letzten Kapitel Datenblatt.
+
+(0:04:40 - 0:05:27)
+Hier in so einem Datenblatt, da sammeln sich jetzt natürlich alle Informationen, die wir vorher erklärt haben in den ganzen unterschiedlichen Kapiteln und so ein Datenblatt, das bedeutet baut sich jetzt zumindest hier in diesem Beispiel einer gewissen Art und Weise an einer Struktur auf und zwar haben wir zuerst mal hier allgemeine Informationen, die im oberen Bereich dieses Datenblatts erklärt werden. Dann gibt es die elektrischen Eigenschaften, von denen wir auch schon gesprochen haben vorhin, die stehen auch auf der oberen Hälfte, aber eben unter den allgemeinen Informationen. Danach gibt es die mechanischen Eigenschaften und zum Schluss gibt es noch Angaben zum Schutz oder Informationen zum Schutzsystem, was wir auch vorher schon beschrieben hatten.
+
+(0:05:27 - 0:05:54)
+Und als letztes ganz unten auf der Seite, da wir werden dann noch mal die geltenden Normen beschrieben. So, jetzt gehen wir einmal rein in die einzelnen Kapitel. Wir starten natürlich oben bei den allgemeinen Informationen und jetzt haben wir hier erst mal die allgemeine Information, die nicht zwingend auf so ein Datenblatt gehört, aber hier hat es der Hersteller draufgeschrieben, dass es sich um einen Mittelspannungstransformator für Wechselrichteranwendungen handelt.
+
+(0:05:54 - 0:06:06)
+Das ist natürlich für uns gut, gibt uns eine gewisse Sicherheit in der Planung. Der Trafo ist erst mal für das geeignet, was wir mit ihm vorhaben. Dann ein Punkt zum Design.
+
+(0:06:06 - 0:06:20)
+Es handelt sich hier um einen Dreiphasen-Öltrafo. Dreiphasig sind sie fast alle, die wir da einsetzen oder alle, würde ich sagen. Und es ist eben ein Öltransformator, also kein Trockentrafo, sondern Öl und er ist hermetisch abgedichtet.
+
+(0:06:20 - 0:06:49)
+Das heißt, es ist wirklich abgeschlossener Trafo und der ist für einen Volllastbetrieb über 24 Stunden geeignet. Hier vielleicht ein bisschen einschränkend, je nach Umgebungstemperaturen kann das natürlich sein, dass ein Volllastbetrieb dann nicht gewährleistet sein kann. Aber ich denke, hier ist es erst mal wahrscheinlich in Kombination mit einer gewissen Wechselrichterkonfiguration gedacht, also mit einer gewissen Belastung und eben für europäische Umgebungsbedingungen.
+
+(0:06:49 - 0:07:29)
+Dann kann man das wahrscheinlich so stehen lassen. Im Zweifel würde ich es aber schon noch mal hinterfragen, was genau steht hier hinter dieser Aussage? Welche Belastung denn genau? Welche Umgebungstemperaturen? Welche Gehäuseklasse? Dann kommen wir zu den elektrischen Eigenschaften und hier haben wir erst mal ganz wichtig obendrauf eine Nennenleistung bei 40 Grad, also Umgebungstemperatur von 40 Grad haben wir 3960 kVa. Also die Scheinleistung ist hier erst mal angegeben und ein ähnlicher Wert, ein höherer Wert ist für andere Umgebungstemperaturen angegeben.
+
+(0:07:30 - 0:08:10)
+Also bei 30 Grad kann dieser Trafo 4400 kVa. Der Nennstrom des Trafos bei 40 Grad ist dann eben umgerechnet über die Spannung, beträgt 3464 Ampere und die Spannung, die dieser Trafo hat, daraus ergibt sich, das sind dann eben 33 kV zu 0,66. Also unsere Netzspannung muss hier eben 33 kV sein und der Wechselrichter, der an den Transformator angeschlossen wird, der sollte oder muss für eine Spannung von 660 Volt ausgelegt sein oder dimensioniert sein und dann haben wir hier den passenden Trafo.
+
+(0:08:10 - 0:08:47)
+Dann hat der Trafo, wie fast alle Trafos, die ich in dieser Größenordnung kenne, eben einen Stufenschalter und der kann in positive und negative Richtung jeweils in zwei Stufen gestuft werden, also plus 2,2, 2,5 Prozent und minus 2 mal 2,5 Prozent. So ist es richtig. Die Frequenz, für die der Trafo errichtet wurde, steht hier auch drin, weil bei anderen Frequenzen, zum Beispiel in Amerika mit 60 Hertz, hätten Induktivitäten und Kapazitäten einen anderen Einfluss auf die Verluste des Trafos.
+
+(0:08:47 - 0:09:05)
+Also hier ist es erstmal für 50 Hertz gedacht und das passt natürlich für den europäischen Bereich ganz hervorragend. Die Schaltgruppe des Trafos ist ein DY11, hatten wir erklärt. Hier Oberspannungsseite im Dreieck, Unterspannung im Stern und der Sternpunkt ist nicht herausgeführt.
+
+(0:09:05 - 0:09:39)
+Das heißt, wir können hier erstmal den Sternpunkt nicht erden. Wir können hier mit diesem Trafo nur ein isoliertes Netz aufbauen und die Phasenverschiebung zwischen Ober- und Unterspannung ist dann eben 11 mal 30, also 330 Grad. Nächster Punkt wären die Leerlaufverluste bei Nennspannung und die sind hier angegeben mit P0 gleich 3,96 kW und die Kurzschlussverluste, die werden hier angegeben mit 37,8 kW.
+
+(0:09:39 - 0:10:00)
+Beide Verluste hatten wir vorher bei den elektrischen Eigenschaften auch gezeigt, wie man sie messtechnisch ermittelt. Das braucht man natürlich nicht für jeden einzelnen Trafo wissen. Diese Messung, die hier dann tatsächlich durchgeführt wird und der tatsächliche Verlustwert jedes einzelnen Trafos, den bekommt man dann eben im Prüfprotokoll mitgeteilt.
+
+(0:10:01 - 0:10:23)
+Das hier auf den Datenblättern sind immer garantierte Werte. Was dann tatsächlich rauskommt, ist dann meistens ein klein wenig besser oder hoffentlich genauso gut und ihr wisst jetzt halt, wo es steht und wie man es ermittelt. Der Wirkungsgrad ermittelt sich dann im Grunde genommen aus diesen beiden vorher genannten Verlusten und der ist hier bei diesem Transformator bei 99,531 Prozent.
+
+(0:10:24 - 0:10:57)
+Das ist, denke ich, ein sehr guter Wert. Jetzt gibt es hier noch die Kurzschlussspannung und hier ist eine Range angegeben, also zwischen 6 und 8,5 Prozent UK. Auch hier gilt, das ist der Bereich, am Ende müssen die Kurzschlussverluste passen und der Wert, den dann der Trafo tatsächlich hat, der liegt dann wahrscheinlich irgendwo dazwischen und wird am Ende nach der Produktion des Trafos gemessen und im Prüfprotokoll festgehalten.
+
+(0:10:59 - 0:11:15)
+Die maximale Spannung ist hier angegeben, 36 kV. Das ist üblich, so sind dann ja auch die Kabel und alles Weitere an diesem Trafo, was dort angeschlossen ist, dimensioniert und das passt. Jetzt kommen die mechanischen Eigenschaften des Transformators.
+
+(0:11:16 - 0:11:27)
+Da haben wir hier erstmal den Kühlungstyp. K-Nan, so würde ich es mal nennen. Also es ist nicht O-Nan, nicht Oil, sondern K ist eben das synthetische Öl.
+
+(0:11:27 - 0:11:43)
+Aber das synthetische Öl, das konvektiert erstmal natürlich und die Luft eben auch. Es ist im Grunde genommen ein normaler Transformator mit natürlicher Konvektion. Das Öl ist eben nur ein Nicht-Mineralöl.
+
+(0:11:46 - 0:12:02)
+Wichtiger Punkt auch, man darf diese Transformator nicht überall auf der Welt installieren. Es gibt hier Grenzen und hier ist es angegeben mit 4000 Meter über dem Meeresspiegel für Deutschland reicht das erstmal. Ich denke für fast ganz Europa reicht das.
+
+(0:12:03 - 0:12:27)
+Aber wenn man jetzt irgendwo im Hochgebirge diesen Transformator errichtet, dann muss man hier definitiv mal Rücksprache halten, weil wenn die Luft dünner wird dort oben, dann ist die Kühlung nicht mehr so gut. Und es gibt gegebenenfalls noch andere Auswirkungen. Alle, die vielleicht mal mit einer Schippstüte ins Flugzeug gestiegen sind, die merken, dass die dann in größerer Höhe irgendwann aufplatzt.
+
+(0:12:27 - 0:12:54)
+Bei so einem Transformator muss man sicherlich auch auf solche Aspekte achten und dann zumindest mal hinterfragen, was müssen wir tun, um diesen Transformator denn auch in größeren Höhen einzusetzen. Jetzt gibt es hier noch verschiedene Umgebungstemperaturen auf unterschiedlichen Geländehöhen, die hier vorgegeben werden. Das ist sicherlich auch eine Information, die nicht in jedem Datenblatt angegeben werden.
+
+(0:12:54 - 0:13:07)
+Hier ist es aber so gemacht, also auf 1000 Metern gelten 40 Grad. Je höher man jetzt kommt, desto geringer wird die Temperatur. Das ist aber auch, denke ich, erstmal natürlich so gedacht.
+
+(0:13:07 - 0:13:18)
+Je höher man sich in der Welt befindet, desto kälter wird es dort oben. Das würde ich jetzt erstmal so mitnehmen. Brauchen wir, glaube ich, für unsere normalen Projekte erstmal gar nicht so sehr hinterfragen.
+
+(0:13:19 - 0:13:28)
+Wir gehen zum nächsten Punkt. Hier haben wir genau die maximale Übertemperatur. Hotspot, Windung oder Öl.
+
+(0:13:29 - 0:13:46)
+Das Öl erstmal, das umgebende Öl, das würde man jetzt hier mit 90 Grad als maximale Übertemperatur angeben. Wir hätten jetzt unser DCMR-Relais zum Beispiel, was auf dem Transformator sitzt. Das würde man jetzt auf 90 Grad stellen für die Abschaltung.
+
+(0:13:47 - 0:13:59)
+Die Temperatur an der Windung messen wir meistens gar nicht. Bei diesem Mittelspannungstrafus, bei Hochspannungstrafus gegebenenfalls schon. Bedeutet aber, dass wir diese Windungstemperatur vielleicht gar nicht kennen.
+
+(0:13:59 - 0:14:20)
+Und den Hotspot in so einer Windung, den können wir dann ohnehin nicht ermitteln, weil wir wissen ja nicht genau, wie warm es an jeder Stelle der Wicklung ist. Also die 90 Grad des Öls, das wäre hier für uns die Maßgabe. Und wenn wir jetzt den Trafo in Betrieb nehmen, dann würde ich einmal auf dieses Schutzrelais gucken vom Trafo und prüfen, ob da auch 90 Grad eingestellt sind.
+
+(0:14:22 - 0:14:29)
+Gebaut ist der Trafo dann noch für eine Kurzschlussdauer von 2 Sekunden. Das kann der. Also wir haben jetzt meinetwegen einen Kurzschluss auf der Niederspannungseite.
+
+(0:14:29 - 0:14:48)
+Dann muss der volle Leistung, volle Kurzschlussleistung bringen für 2 Sekunden und das Ganze dann auch überstehen können. So, dann haben wir hier noch ein Isolationsniveau. Das ist irgendwie ein kryptischer Code, der jetzt für uns, für unsere Anwendung auch erstmal gar nicht so relevant ist.
+
+(0:14:49 - 0:15:11)
+Aber diese Trafos, die können erstmal eine sehr hohe Isolationsspannung ab. Dann haben wir noch die Hochspannungsanschlüsse mit Außenkonus und die Niederspannungsanschlüsse sind hier eben auch dargestellt mit 3,6 kV Durchführung für mindestens 4000 Ampere. Das ist eine Information, die auch nicht unbedingt ins Datenblatt rein muss.
+
+(0:15:11 - 0:15:31)
+Aber jetzt hilft es uns erstmal, um vielleicht zu wissen, wie kann man an dem Trafo anschließen. Wenn ihr so ein Trafo in einer Kompaktstation bestellt, dann ist das eh vorverdrahtet und ihr würdet ja nur noch an Trennern, Leistungsschaltern oder an der Mittelspannungsschaltanlage anschließen müssen. Die Abmessungen sind nochmal ein wichtiger Punkt, die hier stehen.
+
+(0:15:32 - 0:15:51)
+Und vor allem dann ja auch immer wieder interessant das Gewicht. Er hat ein Gesamtgewicht von 7,5 Tonnen und das Öl, was sich in diesem Trafo befindet, wiegt auch knapp 2 Tonnen. Das Öl war ja vorher schon bei der Kühlung, bei dem Karnan kurz angedeutet.
+
+(0:15:52 - 0:16:22)
+Das Öl, was jetzt tatsächlich drin ist, ist kein Mineralöl, das war klar. Es ist jetzt ein Öl auf Ästerbasis, so ist es hier im Datenblatt beschrieben. Der Schutzgrad des Trafos, das ist ein IP23 Trafo, also der ist erstmal geschützt, da dringt erstmal kein Staub ein, keine Feuchtigkeit. 
+
+Man darf ihn jetzt aber auch nicht in den Regen stellen. Das ist ja erstmal ein wichtiger Punkt. Jetzt kommt nach den mechanischen Eigenschaften kommt noch der Schutz.
+
+(0:16:22 - 0:16:45)
+Das Schutzsystem, was jetzt hier an diesem Transformator erstmal aufgebracht ist und hier stehen jetzt erstmal unterschiedliche Punkte. Also Transformatorschutz, ein Widerstandsthermometer, PT100 für analoge Öltemperaturerfassung. Dann gibt es noch eine Vollschutzeinrichtung mit zwei Relaiskontakten für Überdruck und Ölstand.
+
+(0:16:46 - 0:17:07)
+Also wir haben Überdruck, wir haben Ölstand, wir haben die Temperaturmessung und dann haben wir noch ein Überdruck-Sicherheitsventil. Also im Grunde genommen so ein DMCR-Relais könnte das, was hier jetzt aufgeführt ist, so durchführen. Das Überdruck-Sicherheitsventil, das wäre nochmal eine zusätzliche Einrichtung, die so ein DMCR dann erstmal nicht drin hat.
+
+(0:17:08 - 0:17:27)
+Aber hier an dem Trafo ist es erstmal vorgesehen. So, zum Schluss kommen noch die Normen und hier ist dieser Trafo eben nach der IEC 607-6 gebaut. Das ist eine Herstellernorm, die für uns jetzt gar nicht so weiter wichtig ist.
+
+(0:17:27 - 0:17:47)
+Wichtig ist, es gibt sie, diese internationale europäische Norm, an der sich die Hersteller halten und wenn sie das tun, dann haben wir ja erstmal gute Karten, sind wir auf der sicheren Seite und dürfen den dann eben auch einsetzen. So, das war es dann für heute. Vielen Dank für Ihre Teilnahme.
+
+(0:17:47 - 0:17:56)
+Ich hoffe, es hat Ihnen gefallen. Ich hoffe, wir konnten das Thema Transformatoren gut und anschaulich vermitteln. Ich würde mich freuen, wenn alle Teilnehmer beim nächsten Mal wieder dabei sind.
+
+(0:17:57 - 0:17:59)
+Bis bald und ein schönes Wochenende.

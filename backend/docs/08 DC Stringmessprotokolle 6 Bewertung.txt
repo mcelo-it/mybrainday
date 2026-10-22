@@ -1,0 +1,407 @@
+(0:00:00 - 0:00:38)
+Einen Schritt weiter und bewerten jetzt sozusagen gemeinsam. Also aus dem Messprotokoll kriegen wir ja mit die Messergebnisse der realen Anlage und wir haben ausgerechnet, welche Sollwerte wir denn erwarten, abhängig von den Temperaturen und von den Einstrahlungsbedingungen, die wir bei unserem Messprotokoll mit aufgenommen haben. In diese Bewertung springen wir jetzt in aller Ruhe rein und haben da auch genügend Zeit, uns die am Anfang einfachen und am Ende sehr komplex werdenden Zusammenhänge noch mal genauer anzugucken.
+
+(0:00:39 - 0:00:58)
+Also jetzt heißt es, fokussiert bleiben. In 20 Minuten gibt es dann auch auf jeden Fall eine Pause. Wir bauen das Ganze jetzt so auf, dass wir uns das Kapitel Bewertung, also von unseren Messergebnissen, zweiteilen und zwar immer mit einem Prüfschritt, den zeige ich jetzt hier auch mal.
+
+(0:00:58 - 0:01:10)
+Einfach mal ein erster Prüfschritt ist die Anzahl der Messungen. Das ist also das allererste, was ich prüfen werde. Und später zeige ich dann auch mögliche Fehler, die daraus entstehen können.
+
+(0:01:11 - 0:01:23)
+Aber erst mal die Prüfung selbst. Ich sage es ja, es ist, finde ich, ein relativ einfacher Einstieg. Also jeder, der jetzt noch voll mitkommt, darf sich natürlich freuen, aber auf keinen Fall zurücklehnen, weil später wird es ein bisschen komplizierter.
+
+(0:01:23 - 0:01:39)
+Die Anzahl der Messungen, was weine ich damit? Hier ist wieder mein Messprotokoll, das ich gerade ja sehr genau gezeigt habe, mit meiner Leerlaufspannung, mit meinem Kurzschlussströme, mit meinem Datum. Also genau so sieht ja mein Protokoll aus. Und jetzt habe ich in meinem Beispiel 1, 2 und 3 Messungen.
+
+(0:01:40 - 0:02:06)
+Und ich akzeptiere das nicht einfach so, sondern ich habe mir vorher überlegt, wie viele Messungen erwarte ich denn überhaupt? Und jetzt sage ich mal 3, vielleicht um mich selbst an der Stelle ein bisschen zu verteidigen. Mein letztes Projekt ist aber tatsächlich eine sehr große Freilandanlage. Da steht jetzt hier nicht 3, sondern da steht dann ungefähr 43.000. Das sind also riesige Systeme, die ja dann da gebaut werden.
+
+(0:02:06 - 0:02:24)
+Und da ist es dann vielleicht durchaus sinnhaft, dass man sich da so einen Excel-Vergleich oder so baut, weil man das ja überhaupt nicht mehr sonst überblicken kann. Wir machen es natürlich nicht im Tausenderbereich, sondern wir machen es sehr, sehr simpel, damit man sofort sehen kann, worauf ich hinaus will. Also ich erwarte 3 Stringmessungen.
+
+(0:02:25 - 0:02:35)
+Ich sehe hier, also deswegen über mir die Zahl 3, dass 3 Messungen vorliegen. Und dann kann ich ja erstmal daraus Schlussfolgern, dass da keine fehlt. Ganz hervorragend.
+
+(0:02:36 - 0:02:45)
+Jetzt in der Logik, die ich zeigen will, geht der Daumen nach oben. Und Achtung, mittig oben zeige ich es nochmal. Jetzt will ich auf typische Fehler hinaus.
+
+(0:02:45 - 0:02:58)
+Also wenn ich jetzt eben bei dieser ersten Prüfung einen Fehler finde, dann will ich ja gleich wissen, was könnte denn passiert sein. Okay, eine fehlende Messung. Wie würde das aussehen bei uns? Da die Nummer 3, die fehlt.
+
+(0:02:59 - 0:03:12)
+Das heißt über mir, ich mache das jetzt immer so mit einer grünen Lupe, sozusagen angedeutet, würde sich was ändern. Da würde jetzt also eine 2 stehen und dann ist da fehlend eine 1. Das ist natürlich schlecht. Also jetzt fehlt da einer.
+
+(0:03:13 - 0:03:28)
+Das ist natürlich nicht gut. Und dann gebe ich das zurück an den Sub. Und dann sage ich gleich, gerade bei Großanlagen kann das äußerst unangenehm werden, wenn man sagt, es fehlt eine Messung von 4.000. Welche ist es denn? Die Frage lasse ich einfach mal so stehen.
+
+(0:03:29 - 0:03:37)
+Gleiche ist doppelte Messung. Das passiert ehrlich gesagt auch. Ich selbst wäre einer von denen gewesen, die auch schon oft selbst gemessen haben.
+
+(0:03:37 - 0:03:44)
+Einfach auch nur, um mal zu gucken, wie das da so funktioniert. Und da ist mir genau das auch schon passiert. Man führt eine Messung durch und ist sich jetzt nicht mehr sicher.
+
+(0:03:44 - 0:03:56)
+Habe ich jetzt den String 7.8.3 schon gemessen? Oder muss ich den noch messen? Das liegt in der Routine. Das liegt in der Masse. Und dann sieht das Ganze einfach so aus.
+
+(0:03:56 - 0:04:06)
+Dann würden ja jetzt plötzlich 4 Messergebnisse in meiner Exportdatei liegen, obwohl ich doch nur 3 erwarte. Gleiches Prinzip, gleiches Problem. Jetzt fehlt sozusagen minus einer.
+
+(0:04:07 - 0:04:11)
+Also ich habe einen zu viel. Wir highlighten es hier nochmal. Daumen nach unten.
+
+(0:04:11 - 0:04:22)
+Das ist schlecht, weil ich weiß ja jetzt wirklich, ich kann es im Grunde nicht nachvollziehen, welcher denn jetzt da doppelt gemessen ist. Und dann habe ich ja überhaupt keine Zuordnung mehr. Sagen wir mal, der erste ist gleich doppelt gemessen worden.
+
+(0:04:22 - 0:04:33)
+Dann stimmt ja die Zuordnung aller anderen Stringmessungen nicht mehr. Finde ich, ist am Ende eigentlich ein großes Problem. Dafür, dass es natürlich technisch gesehen eine total simple Problematik ist.
+
+(0:04:34 - 0:04:42)
+Also ich habe jetzt die Anzahl gemessen. Und gehe in die nächste Bewertung. Weil ich sage, passt schon jetzt meine Anzahl.
+
+(0:04:42 - 0:04:48)
+Der Isolationswiderstand. Endlich mal eine elektrische Größe. Und das zeige ich jetzt auch.
+
+(0:04:48 - 0:05:10)
+Und ich mache absichtlich jetzt nicht immer alle Spalten meines Messprotokolls, weil das zu unübersichtlich wird. Also diejenigen, die sich hoffentlich noch erinnern können, an meine Messwertdarstellung, das waren irgendwie 6, 7 Spalten nebeneinander. Und ich ziehe mir jetzt immer die raus, die ich gerade brauche, um es ein bisschen übersichtlicher zu gestalten.
+
+(0:05:10 - 0:05:18)
+Also den Messwert Riso haben wir gemessen. In Megaohm sind das hier. Und da war meine Normvorgabe größer als 1 Megaohm.
+
+(0:05:19 - 0:05:28)
+Ich mache es selbst tatsächlich mit einer ziemlich einfachen Excel-Regel. Ich suche mir den kleinsten raus. Und dann sehe ich ja schon, ob der größer ist als 1 Megaohm.
+
+(0:05:28 - 0:05:36)
+Bei mir wäre das jetzt hier so. Also Achtung, das sind Megaohm. Also irgendwie weit über dem Grenzwert.
+
+(0:05:36 - 0:05:41)
+Alles in Ordnung. Der typische Fehler erscheint oben. Eine defekte Isolierung, klar.
+
+(0:05:41 - 0:05:48)
+Irgendwo ist die Isolierung also kaputt. Und dann habe ich einen Durchgang gegen Erde. Mein Riso bricht ein.
+
+(0:05:48 - 0:05:57)
+Ich mache es hier im Beispiel mit der grünen Lupe. 0,023. Also das ist jetzt so ein richtig harter Durchgang gegen Erde.
+
+(0:05:58 - 0:06:06)
+Damit ist mein Riso an der Stelle kleiner als 1 Megaohm. Der Daumen geht nach unten. Und das ist eine ganz typische Sache auf der Baustelle.
+
+(0:06:07 - 0:06:17)
+Meistens kriegen wir Planer oder Dokumentprüfer diese Werte gar nicht mehr mit. Weil der Elektriker das ja sofort selber sieht. Und gleich auf der Suche nach dem Fehler ist.
+
+(0:06:17 - 0:06:23)
+Diesen Messwert gar nicht abspeichert. Sondern erstmal das Stringkabel austauscht. Und dann nochmal neu misst.
+
+(0:06:23 - 0:06:31)
+Und dann geht der Daumen ja auch wieder nach oben. Wir haben hier noch was gehighlightet. Und zwar sollen das jetzt Megaohm sein.
+
+(0:06:31 - 0:06:40)
+Achtung, das ist vielleicht ein kleiner Grafikfehler. Also sagen wir jetzt bitte Achtung zuhören. An der Stelle ist gemeint, das wären jetzt 1,1 Megaohm.
+
+(0:06:41 - 0:06:47)
+1,1 Megaohm. Also ganz knapp über der Grenze. Dann sagt ja die Norm, das ist in Ordnung.
+
+(0:06:47 - 0:06:51)
+Wir sagen das dann nicht. Wir sagen, das ist nicht in Ordnung. Bei Neuinstallationen kann das nicht sein.
+
+(0:06:51 - 0:07:07)
+Da müssen die über 10, vielleicht ehrlich gesagt sogar 100 Megawatt liegen. Eine klare Isolierung von so einem Kabel geht weit über 1 Megaohm hinaus. Also auch da würden wir sagen, Ausrufezeichen nochmal neu verlegen.
+
+(0:07:09 - 0:07:16)
+Die dritte Prüfung, die Polarität. Haben wir vorhin auch gesehen in der Norm. Klare Vorgabe.
+
+(0:07:16 - 0:07:40)
+Ich habe es in meiner Tabelle so gebaut, dass ich da ja sehe, die Leerlaufspannung UOC, 1256 Volt haben wir hier dargestellt. Und dann sagt das Messgerät meinetwegen oder auch ich, Polarität ist größer null, also ist das ja in Ordnung. Alle Strings müssen sozusagen die gleiche Polarität haben und die wiederum am Wechselrichter richtig angeschlossen sein.
+
+(0:07:41 - 0:07:51)
+Sonst ist es nicht zulässig in Betrieb zu gehen beziehungsweise auch gar nicht zulässig anzuschließen. Jetzt sagen wir mal, was passieren könnte. Der typische Fehler ist also, ja, erstmal Daumen hoch.
+
+(0:07:52 - 0:07:59)
+Der typische Fehler, ich habe die Pole vertauscht. Und wie sieht das aus? Meinetwegen also in unserer Grafik. Zack, der hat Minus und Plus vertauscht.
+
+(0:07:59 - 0:08:13)
+Mit dem Male und Female Steckern selbst kann das so nicht passieren. Aber dann hat er offensichtlich ja das falsche Kabel an den Stecker gesteckt oder halt falsch beschriftet und schon hat er ein Dreher drin. Das muss er unbedingt rauskriegen, bevor er die an den Wechselrichter steckt.
+
+(0:08:14 - 0:08:23)
+Sonst ist das eben nicht zulässig. In unserer Tabelle fliegt da die Lupe hin. Wir hätten jetzt Minus 1200 in unserer Logik.
+
+(0:08:23 - 0:08:30)
+Plus und Minus sind verdreht. Also im Gegensatz zur vorherigen Prüfung hätte man jetzt das Minus drin. Dann ist das nicht mehr okay.
+
+(0:08:30 - 0:08:40)
+Der Daumen geht nach unten und wir haben unsere Polarität auch überprüft. Der vierte Schritt. So, bis jetzt war es einfach.
+
+(0:08:40 - 0:08:49)
+Jetzt kommt mittelschwer. Der Mittelwert von der Leerlaufspannung. Wir machen es mit Tabellen, damit es einfacher nachvollziehbar ist.
+
+(0:08:49 - 0:08:54)
+Im Handout ist es ja auch. Und wir machen das gleiche auch als Übung. Da habt ihr es auch noch in der Excel.
+
+(0:08:55 - 0:09:01)
+Also, hier sind meine Messwerte pro String. Achtung, Messwerte. Und sie sind pro String.
+
+(0:09:01 - 0:09:09)
+Also 1256 Volt. Jetzt kommt meine Bewertung, die ich mir selber gebastelt habe. Das macht das Messgerät vielleicht auch noch.
+
+(0:09:09 - 0:09:14)
+Automatisch ist jetzt aber nicht der Punkt. Ich mache es jetzt erstmal selbst. Und wie mache ich das? Ich rechne erstmal um.
+
+(0:09:14 - 0:09:23)
+Oben ist die Formel. Sehr simpel, aber ich muss es richtig machen. Die Stringspannung teile ich durch die Anzahl der Module im String.
+
+(0:09:23 - 0:09:32)
+Wenn die bei den Strings unterschiedlich ist, wird das schon hochkomplex. Wenn sie alle gleich sind, ist es ja schon relativ einfach. Aber sagen wir mal, einer hat 27, der andere 26, der dritte 25.
+
+(0:09:33 - 0:09:39)
+Wird schon schwierig. Darf man hier keine Fehler machen. Also UOC pro Modul bitte umgerechnet.
+
+(0:09:40 - 0:09:45)
+Und daraus mache ich jetzt Mittelwert. Bei mir sind es jetzt vier. Das kann man sich aus der Topologie überlegen.
+
+(0:09:46 - 0:09:57)
+Am besten nimmt man gleichartige. Also vielleicht alle Is, alle Us, alle X. Vielleicht alle unteren Reihen, alle oberen Reihen zusammen. Das ist anlagenabhängig, wie man es sinnhaft gestaltet.
+
+(0:09:57 - 0:10:08)
+Ich sage mal, gleiche Strings kommen in ein Team. Daraus mache ich Mittelwert. Und jetzt rechne ich die Abweichung aus den Werten, die ich gerade genannt habe.
+
+(0:10:08 - 0:10:21)
+Also den Mittelwert bezogen auf die einzelnen Messwerte. Und da sehe ich jetzt schon, ich habe ja fast überhaupt keine Abweichung. Das heißt in anderen Worten, die Spannungen dieses Viererteams sind alle ungefähr gleich.
+
+(0:10:23 - 0:10:27)
+Da geht der Daumen sofort nach oben. Also die Abweichung ist kleiner, zwei Prozent. Das ist ja alles super.
+
+(0:10:27 - 0:10:32)
+Jetzt kommt aber natürlich der Fehler. Ich habe eine fehlerhafte Verschaltung gemacht. Man sieht es mit diesem orangenen Bogen.
+
+(0:10:33 - 0:10:40)
+Die haben einfach ein Modul vergessen. Wenn die Kabel lang genug sind, kann das auch passieren. Gerade bei Dachanlagen hatte ich das in der Vergangenheit sehr häufig.
+
+(0:10:40 - 0:10:49)
+Das ist ja auch kompliziert, wenn man da so viele Module miteinander verbinden muss. Und jetzt haben die da eins vergessen. Was passiert? Der Messwert wird sinken.
+
+(0:10:49 - 0:10:58)
+Die Spannung ist ja dann kleiner, 1209. Dieser eine Wert pro Modul wird kleiner. Der Mittelwert verschiebt sich ehrlich gesagt ja nur ein bisschen.
+
+(0:10:58 - 0:11:12)
+Umso größer das Team ist, umso weniger verschiebt sich der Mittelwert. Aber die Abweichung vom Mittelwert gegenüber diesem einen Messwert, der wird sich an der Stelle deutlicher verändern. Jetzt sind wir aus den zwei Prozent rausgerutscht.
+
+(0:11:12 - 0:11:19)
+Minus 3,4 Prozent. Also das würde ich jetzt erkennen. An der Stelle finden wir am besten im Teamvergleich.
+
+(0:11:19 - 0:11:24)
+Die Norm gibt das auch so vor. Das kann man machen. Man guckt sich quasi gleiche Strings im Team an.
+
+(0:11:24 - 0:11:33)
+Und wenn da einer komischerweise rausrutscht, dann schaut man ihn sich nochmal genauer an. Und repariert den Fehler. Das war das erste.
+
+(0:11:33 - 0:11:40)
+Und das andere ist ein Messzeitpunkt. Ein verschiedener Messzeitpunkt. Was meinen wir damit? Ich zeige es auch wieder am besten in der Tabelle unten.
+
+(0:11:41 - 0:11:44)
+Also erstmal alles gut. Daumen nach oben. Irgendwie alle ziemlich gleich.
+
+(0:11:45 - 0:11:52)
+Und jetzt sieht man es ganz unten in der Ecke. Jetzt hat einer plötzlich eine höhere Spannung. Und das Messdatum ist ein anderes.
+
+(0:11:52 - 0:11:59)
+Also bei uns sind das gleich drei Wochen später. Bei Großprojekten kann das auf jeden Fall passieren. Man kann ja nicht 40.000 Strings gleichzeitig messen.
+
+(0:12:00 - 0:12:05)
+Das ist jetzt drei Wochen später. Völlig andere Umgebungsbedingungen. Also Einstrahlung und Temperatur.
+
+(0:12:06 - 0:12:10)
+Und ich sage mal schon vorausschauend. In der Theorie kann man das jetzt auf die Sollwerte umrechnen. Dafür ist das ja da.
+
+(0:12:11 - 0:12:21)
+In Realität entstehen dadurch aber große Abweichungen. Und das wird man sehen in diesen Sollwertvergleichen. Aber man sieht es auch hier im Mittelwertvergleich.
+
+(0:12:22 - 0:12:30)
+Also dieser Modulwert jetzt gemessen ist jetzt auch höher. Dadurch ändert sich auch da wieder der Durchschnittswert. Aber vor allem erkennt man es jetzt in der Abweichung.
+
+(0:12:31 - 0:12:41)
+Ja, würde ich sofort versuchen zu sagen. In meiner Logik kann ich den jetzt eben nicht bewerten. Weil er an einem Tag drei Wochen später gemessen wurde.
+
+(0:12:41 - 0:12:47)
+Also bitte das ganze Team nochmal messen. So würde ich es erstmal versuchen. Ob das dann mitmacht, ist wieder eine andere Frage.
+
+(0:12:47 - 0:13:00)
+Aber meine Bewertung wäre jetzt hier erstmal negativ. Weil der rutscht aus meinem Gruppenvergleich raus. So, maximal ist auch noch mittel bis einfach schwierig diese Prüfung.
+
+(0:13:01 - 0:13:11)
+Was meinen wir damit? Wir nehmen unseren Messwert 1256 wieder. Und gucken, dass der weniger ist als 1500 Volt. Achtung, natürlich im 1500 Volt System.
+
+(0:13:12 - 0:13:19)
+Könnte man hier noch anmerken. In einem 1000 Volt System muss er unbedingt bitte unter 1000 sein. Also er muss kleiner sein als die maximale Systemspannung.
+
+(0:13:19 - 0:13:29)
+Und jetzt kommt in meinem Beispiel, wenn da oben der String ist. Irgendwie ein katastrophaler Verdrahtungsfehler. Der hat jetzt noch einen zweiten String zusätzlich in Reihe gepackt.
+
+(0:13:29 - 0:13:36)
+Oder halt zumindest ein paar Module zu viel reingebaut. Dann geht dieser Wert nach oben. Und ja genau, da geht er jetzt mal nach oben.
+
+(0:13:36 - 0:13:43)
+Auf 1800, extrem fell. Jetzt dreht sich sozusagen das größere Gleichzeichen. Und der Daumen geht nach unten.
+
+(0:13:43 - 0:13:52)
+Und das ist jetzt kritisch. Also ich sag mal, für die Module und die Kabel und Stecker auch schon. Die sind auch nur für 1500 ausgelegt.
+
+(0:13:53 - 0:13:59)
+Aber jetzt auf keinen Fall in irgendeinem Sammelkasten. Oder in irgendeinem Wechselrichter anschließen. Sonst haben wir mit dem ja auch noch ein Problem.
+
+(0:13:59 - 0:14:07)
+Wichtige Prüfung vor der Inbetriebnahme. Der Maximalwert. Jetzt kommt endlich der Sollwert.
+
+(0:14:07 - 0:14:16)
+Den wir im Kapitel vorher ja so schön ausgerechnet haben. Und den müssen wir uns auch noch mal in Ruhe angucken. Also einmal wieder die Messwerte.
+
+(0:14:17 - 0:14:26)
+Wir sind bei der Spannung. Also ist das jetzt die Leerlaufspannung pro String. Ist wieder genau der gleiche wie den wir gerade hatten.
+
+(0:14:27 - 0:14:35)
+Und jetzt zeige ich aber noch die gemessene Einstrahlung. Und die gemessene Temperatur am Modul. Außerdem zeige ich jetzt Sollwerte.
+
+(0:14:36 - 0:14:44)
+Die habe ich bis jetzt nicht gezeigt. Die haben wir im Kapitel vorher ja selbst ausgerechnet. Und wir nennen die, so kann man es finde ich am besten nachvollziehen.
+
+(0:14:44 - 0:14:51)
+Das ist jetzt die Leerlaufspannung Soll. Und zwar schon umgerechnet auf die IR. Auf die Einstrahlung.
+
+(0:14:51 - 0:14:58)
+Die tatsächlich während dieser Messung vor Ort aufgetreten ist. Also in der ersten Spalte. In der ersten Zeile.
+
+(0:14:59 - 0:15:05)
+980 Watt pro Quadratmeter. Und das hat man umgerechnet. Und jetzt ist das also der theoretische Sollwert.
+
+(0:15:05 - 0:15:13)
+Abhängig von der Einstrahlung vor Ort. Und in der nächsten Spalte rechnet man den dann noch mal um. Auf die tatsächlichen Temperaturwerte.
+
+(0:15:13 - 0:15:20)
+Also was haben wir hier? 39 Grad. STC ist das ja nicht, also muss man es umrechnen. Und genau das machen wir hier.
+
+(0:15:21 - 0:15:27)
+Und dann kommt da 47,7 raus. Der Sollwert. Und jetzt bewerte ich das Ganze.
+
+(0:15:27 - 0:15:36)
+Auch mathematisch, wenn man es einmal gebastelt hat, sehr einfach. Ich rechne ja einfach nur die Abweichung aus. Über mir mache ich die Formel auch rein.
+
+(0:15:36 - 0:15:46)
+Also die Abweichung mache ich ja einfach nur zwischen dem Sollwert. Und umgerechnet auf die Umgebungsbedingungen vor Ort. Mit dem tatsächlichen Messwert.
+
+(0:15:47 - 0:15:56)
+Also hier wären das dann diese 46,5 Volt. Und die 49,88 Volt. Die vergleiche ich miteinander.
+
+(0:15:57 - 0:16:04)
+Und dann kriege ich eine Abweichung raus. Und sage jetzt erstmal, super, das ist Norm. Innerhalb dieser 5% Range.
+
+(0:16:04 - 0:16:12)
+Das heißt alles ist in Ordnung, Daumen nach oben. Diese theoretisch berechneten Werte decken sich sehr gut. Mit meinen wirklichen Messergebnissen vor Ort.
+
+(0:16:13 - 0:16:18)
+Der erste ist der Sollwertvergleich. Steht in der Norm genauso drin. Und würde ich auch unbedingt machen.
+
+(0:16:18 - 0:16:23)
+Bei der Spannung ist der auch noch ziemlich einfach. Jetzt kommt mal ein typischer Fehler. Die mixen sich jetzt auch so ein bisschen.
+
+(0:16:23 - 0:16:31)
+Ich habe aber einen zugeordnet, immer zu so einer Prüfung. Ein falscher Modultyp wurde verbaut. Schwarz heißt jetzt, anderer Modultyp.
+
+(0:16:31 - 0:16:39)
+Es ist einfach das falsche Modul geliefert worden. Wir haben die Projektlieferadressen vertauscht. Und man hat jetzt plötzlich einen anderen Modultyp vor Ort.
+
+(0:16:39 - 0:16:45)
+Jetzt passiert wieder folgendes. Achtung, unten in der Tabelle haben sich die Zahlen verändert. Die sind jetzt orange.
+
+(0:16:45 - 0:16:55)
+Orange heißt, das ist nicht gut. Die Spannungen sind niedriger geworden, die ich gemessen habe. Die Sollwerte, die ich mir berechnet habe, die ändern sich nicht.
+
+(0:16:55 - 0:17:02)
+Das sind ja die theoretischen Sollwerte, die ich erwarte. Und wenn aber der Messwert sich ändert. Und die Sollwerte gleich bleiben.
+
+(0:17:03 - 0:17:09)
+Dann verändert sich eben auch die Abweichung. In meinem Fall drastisch. Aber so könnte das tatsächlich sein.
+
+(0:17:09 - 0:17:18)
+Da sehe ich jetzt ganz deutlich, dass da irgendwas schiefgelaufen ist. Könnten verschiedene Gründe haben. Aber jetzt will ich ja den typischen Fehler falscher Modultyp darstellen.
+
+(0:17:18 - 0:17:28)
+Also würde ich jetzt nochmal nachgucken, ob ich nicht vielleicht doch ein falsches Modul an der Stelle verbaut habe. Daumen geht nach unten. So, das war die Spannung.
+
+(0:17:29 - 0:17:36)
+Jetzt geht es in den schwierigen Teil. Jetzt kommt der schwierige Teil. Und zwar erstmal der Kurzschlussstrom Mittelwertbildung.
+
+(0:17:37 - 0:17:44)
+Gleiches Prinzip, Mathematik. Ich habe jetzt nur meine Ströme und nicht meine Spannung. Und mache mir eine Mittelwertbildung draus.
+
+(0:17:44 - 0:17:51)
+Da ist der ISC-Durchschnitt. Habe dann meine Abweichung berechnet. Die sind innerhalb von 5%.
+
+(0:17:51 - 0:17:57)
+Daumen nach oben, alles ist gut. Jetzt kommen offensichtlich Fehler. Sonst wäre es langweilig.
+
+(0:17:57 - 0:18:09)
+Ich zeige mal einen typischen aus meiner Praxiserfahrung. Da hat jemand ein Modul verschattet. Das könnte zum Beispiel sein, indem er den Messsensor oben aufs Modul gelegt hat.
+
+(0:18:10 - 0:18:21)
+Das ist ein typischer Anfängerfehler bei Stringmessungen. Wo soll ich jetzt diesen Sensor hinlegen, damit er ja auch noch die gleiche Neigungswinkel hat wie die Module. Also lege ich ihn aufs Modul drauf.
+
+(0:18:22 - 0:18:27)
+Meistens ist die Abweichung dadurch nicht groß. Trotzdem ist es ein Fehler. Jetzt hat das Modul einen kleineren Messwert.
+
+(0:18:27 - 0:18:32)
+Hier sieht man es wieder. 13,8 war es vorher. Der wird jetzt kleiner, weniger Strom.
+
+(0:18:33 - 0:18:41)
+Dadurch habe ich wieder diesen Abweichungseffekt im Team. Jetzt sehe ich, der rutscht da raus. Dieser eine String, irgendwas stimmt da nicht.
+
+(0:18:41 - 0:18:56)
+Die Logik greift nur dann, wenn die anderen Strings ohne diese Verschattung gemessen wurden. Ich habe in einem String eine Verschattung hingebastelt, aus Versehen, Fehler. Dann würde ich das im Team-Vergleich wieder ganz gut rauskriegen.
+
+(0:18:57 - 0:19:16)
+Wir reparieren das erstmal und setzen den Sensor an die richtige Stelle und haben den gleichen Effekt, wenn einzelne Module verschattet werden. Zum Beispiel durch die Reihe vorher, zum Beispiel durch einen Baum. Immer wenn das Messgerät diese Verschattung nicht mitkriegt, dann ist da ein Dreher schon im Team drin.
+
+(0:19:16 - 0:19:29)
+Hier sieht man es nochmal mit den Wolken. Wenn drei von diesen vier Strings nicht verschattet werden, dann würde ich das sehr gut in diesem Team-Vergleich rauskriegen, weil ich da eine klare Differenz sehen würde. Daumen nach unten.
+
+(0:19:32 - 0:19:41)
+Das war der Mittelwert. Jetzt kommt als letztes nochmal der Sollwert. Gleiches Prinzip haben wir in dem Kapitel vorher erklärt.
+
+(0:19:41 - 0:19:56)
+Die Umrechnung der STC-Werte auf die tatsächlichen Rahmenbedingungen vor Ort über die Einstrahlung in erster Linie. Das hat den größten Einfluss auf diese Sollwerte des Stromes. Dann mache ich auch da wieder eine Bewertung draus.
+
+(0:19:56 - 0:20:07)
+Die Bewertung ist erstmal hier alles irgendwie in Ordnung. Achtung, habe ich auch reingeschrieben, da brauche ich möglichst hohe Einstrahlungswerte, sonst passt das nicht so gut. Also hohe Einstrahlungswerte sind immer sinnhaft hier.
+
+(0:20:08 - 0:20:24)
+Sonst sind diese Stromvergleiche ehrlich gesagt gar nicht möglich. Deswegen haben wir die absichtlich an den Schluss gepasst, weil diese Stromvergleiche sind immer etwas schwieriger als alles andere, was wir bisher gezeigt haben. Aber schöner Einfluss hier zu erkennen, der Sensor ist in der falschen Neigung.
+
+(0:20:25 - 0:20:35)
+Also fehlerhafte Position, Sensor falscher Winkel. Und jetzt sage ich mal, wir sind in der Nordhemisphäre, ich glaube, dann funktioniert es. Die Module sind nach Süden, und der schaut jetzt aber direkt nach oben.
+
+(0:20:35 - 0:21:09)
+Und dann wäre es jetzt in meinem Beispiel so, Achtung, da kommt wieder der Balken reingeflogen, der Messwert von diesem Sensor, der ist jetzt geringer, weil er nicht mehr so schön Richtung Süden in die Sonne reinguckt. Also ich zeige es nochmal, von 980 Watt auf 890 Watt reduziert worden. Das hat einen Effekt in meiner Bewertung, weil, ihr wisst es noch, meine Bewertung war ja die Abweichung zwischen dem Sollwert, und der basiert auf den Messwerten des Einstrahlungssensors, und meinem tatsächlichen Messwert.
+
+(0:21:09 - 0:21:29)
+Und wenn sich jetzt einer davon ändert, dann ändert sich eben auch die Bewertung. Hier ist es, auf einmal sind es 10%, und dann geht der Daumen nach unten, da ist irgendwas komisch. Und das würde jetzt ehrlich gesagt, um Gottes Willen, das gebe ich jetzt dazu, das würde jetzt auch alle anderen Strings hier in dem Team treffen.
+
+(0:21:29 - 0:21:37)
+Deswegen wäre die Mittelwertbildung wahrscheinlich gar nicht betroffen. Müssten wir hier noch anpassen. Also alle vier Einstrahlungswerte würden sich jetzt hier ändern.
+
+(0:21:38 - 0:21:58)
+Die Mittelwertvergleichsgeschichte, die ich gerade hatte, begreift dann nicht mehr, weil sich hier alle ändern, aber die Bewertung über den Sollwert, die würde das erkennen. Und gleiches Prinzip, Daumen nach unten, gleiches Prinzip wäre auch, wenn der Sensor am falschen Messort ist. Große Anlage, Riesending, und der hintere Tisch, der ist gerade verschattet.
+
+(0:21:58 - 0:22:05)
+Mein gemessener Wert ist in der Sonne. So funktioniert es auch nicht. Ähnliches Prinzip bei wechselhaften Bedingungen, halt schwierig.
+
+(0:22:06 - 0:22:22)
+Also umso weiter dieser Sensor, den ich benutze, weg ist, umso verfälschter sind dann am Ende genau diese Kenndaten hier. Lösung, theoretisch praktisch unmöglich bei großen Anlagen, ist immer nur bei perfekten Einstrahlungsbedingungen messen. Dann kann sowas auch nicht passieren.
+
+(0:22:22 - 0:22:32)
+Ist aber nicht realistisch. Deswegen ist das, was ich gerade gezeigt habe, ganz normal. Das gleiche auch bei ISC im Winter.
+
+(0:22:32 - 0:22:44)
+Da wollen wir darauf hinaus den ISO und die Leerlaufspannung und die Polarität bitte unbedingt messen. Aber den Kurzschlussstrom, den kann man dann nicht wirklich bewerten. Im Winter geht das einfach nicht.
+
+(0:22:44 - 0:22:51)
+Die Einstrahlungswerte sind so niedrig. Und dann muss man ihn einfach nur später nachholen. Das ist jetzt nur ein kleiner Punkt dafür, dass das große Auswirkungen hat.
+
+(0:22:52 - 0:23:08)
+Also ISO, Leerlaufspannung und Polarität unbedingt, zwingend erforderlich vor der Inbetriebnahme. Diesen Kurzschlussstrom messen kann ich ihn, aber bewerten kann ich ihn ehrlich gesagt nicht. Wenn die Einstrahlungswerte so niedrig sind, dann ist er nicht wirklich aussagekräftig.

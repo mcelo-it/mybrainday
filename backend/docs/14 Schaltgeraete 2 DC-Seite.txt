@@ -1,0 +1,475 @@
+(0:00:00 - 0:00:18)
+Wir gehen direkt weiter ins erste Kapitel. Wir fangen also auf der DC-Seite an und fragen uns, wie gerade kurz beschrieben, erstmal, wo es eigentlich die erste Komponente gibt. Und die erste Komponente, das ist die DC-Stringsicherung, die wir uns da anschauen.
+
+(0:00:18 - 0:00:34)
+Wir folgen ja, wie gesagt, erstmal sozusagen der Energierichtung. Bei der Stringsicherung ist es tatsächlich schon eigentlich mit am schwierigsten herzuleiten, wo und warum man sie da eigentlich findet. Wir haben es folgendermaßen gemacht.
+
+(0:00:34 - 0:00:48)
+Wir haben hier mal einen dezentralen Stringwechselrichter dargestellt und da schließen wir jetzt mal einen String an. Das ist auch gleich wichtig, deswegen haben wir auch über mir mehr Platz noch gelassen, weil da kommen dann noch mehr Strings dran. So ist das ja dann meist in Realität.
+
+(0:00:48 - 0:01:02)
+Aber das ist mal so ein ganz typischer Aufbau. Und jetzt gibt es mal einen Fehler, sagen wir mal, einen Kurzschluss irgendwo da in diesem String. Und rein elektrotechnisch wird das dann passieren, dass es dann einen sogenannten Rückstrom gibt.
+
+(0:01:03 - 0:01:20)
+Der ist auch in der Norm so definiert. Deswegen nennen wir ihn auch I-Rück. Und dann gibt es eine Regel, die so definiert ist, dass der Rückstrom jetzt erstmal kleiner sein muss, als dieser etwas kompliziert, finde ich, ausgedrückte I-Mod-Max-UCPR.
+
+(0:01:20 - 0:01:27)
+Ich habe es oben in die Legende geschrieben. Das bedeutet Maximum Serious Fuse Rating. Finde ich jetzt auch noch nicht so ganz klar.
+
+(0:01:28 - 0:01:36)
+Okay, es geht also um eine Sicherung und deren Dimensionierung. Aber jetzt ist wichtig und deswegen zeige ich das auch gleich. Ich mache es schon mal vorne weg.
+
+(0:01:37 - 0:02:00)
+Ja, genau gleich, dass dieser Wert im Datenblatt des Moduls zu finden ist, weil er im Grunde definiert, welcher maximale Strom mein Modul belasten darf. Also welcher maximale Strom das Modul sozusagen aushält. Und jetzt habe ich das genau hier einmal dargestellt.
+
+(0:02:01 - 0:02:19)
+Achtung, wenn dieser Wert, den ich da angebe, größer ist als der tatsächliche Rückstrom im Feld, dann geht mein Daumen nach oben und dann ist erstmal alles in Ordnung. Mein Modul ist sicher, obwohl da ein Kurzschluss stattfindet. Das ist ganz wichtig, da gibt es einen Kurzschluss und trotzdem ist alles in Ordnung, da brauche ich nichts machen, keine Sicherung.
+
+(0:02:20 - 0:02:38)
+Jetzt drehe ich das um, das Vorzeichen, und jetzt ist plötzlich der Rückstrom größer als dieser im Moduldatenblatt angegebene Wert. Und dann, da ist er, brauche ich meine Stringsicherung. Das ist erstmal die Grundlage, die goldene Regel, warum ich überhaupt dann Stringsicherung finden würde in meiner Anlage.
+
+(0:02:39 - 0:03:18)
+Jetzt gehe ich endlich in das Moduldatenblatt rein, zoome da mal an die Stelle, wo das steht, und da ist er also, Maximum Serious Fuse Rating ist in meinem Beispiel 25 Ampere. Jetzt will ich noch dazu sagen, das hat mir zumindest sehr geholfen zu verstehen, warum das so wichtig ist mit diesem Serious Fuse Rating. Es gibt Modulherstellernormen, zum Beispiel die 61730, da steht drin, wie man so ein Modul zu prüfen hat, und da steht drin, dass das Modul 1,35 mal diesen genannten Wert hier für zwei Minuten tragen muss, ohne dass es kaputt geht, zwei Stunden.
+
+(0:03:19 - 0:03:47)
+Und die PV-Sicherungshersteller, die wissen das, und die haben sozusagen den gleichen Gedanken, nur machen sie es halt so, dass die Sicherung nach dem 1,35-fachen Innenstrom bereits nach einer Stunde auslöst. Und wenn man die zwei Zahlen gegenüberhält, ist erstmal klar, dass das dann funktioniert, dass die Sicherung, also das Modul, schützt. Die Sicherung würde bei gleichem Strom schneller abschalten, als das Modul kaputt geht.
+
+(0:03:47 - 0:04:11)
+Das ist der Trick, und deswegen sagt der Modulhersteller, 25 Ampere, wenn du eine 25-Ampere-Sicherung nimmst, dann haben wir uns gut aufeinander abgestimmt, kleiner kann sie immer sein, und dann gehe ich auch nicht kaputt. Jetzt gucken wir uns das mal an, was das im realen Beispiel dann bedeuten würde. Ich sammle hier mal die String-Anzahlen auf, fange mal an mit 1, das ist das Beispiel, das wir oben sehen.
+
+(0:04:11 - 0:04:29)
+Und jetzt schreibe ich hin, haben wir auch schon fleißig rausgesucht, dass das Modul eben maximal einen Wert von 25 Ampere dafür angibt. Jetzt kommt noch eine zweite Geschichte mit rein, die will ich jetzt auch noch sagen, und dann geht es aber endlich in die Berechnung, nämlich das String-Kabel selbst. Das darf man auch nicht vergessen.
+
+(0:04:29 - 0:04:39)
+Wie gesagt, auch die Stecker und den Wechselrichter. Aber jetzt machen wir erst mal das String-Kabel. Die anderen Sachen funktionieren in der Regel dann auch einfach gleich mit.
+
+(0:04:39 - 0:04:51)
+Beim Kabel ist es das Gleiche. Das String-Kabel muss höher dimensioniert sein als dieser Rückstrom. Wenn das nicht so ist, brauchen wir eine String-Sicherung, die dann wiederum auch das Kabel schützt.
+
+(0:04:52 - 0:05:16)
+Und da kann man das hier so mitmachen, das macht auch die Norm so. Die sagt dann erst mal, dann nimm doch 125% von deinem Kurzschlussstrom und das kannst du dann erst mal als Kabelwert annehmen. In unserem Brainday Kabelauslegung machen wir das anders und auch detaillierter, aber das ist für mich jetzt hier nicht so relevant, sondern wir wollen das ja im großen Kontext der Sicherung beschreiben und da reicht mir diese kleine Formel.
+
+(0:05:16 - 0:05:35)
+Im Datenblatt seht ihr es, bin ich einfach ein bisschen nach oben gerutscht, 14,01 Ampere, das hole ich mir raus, multipliziere es mit 1,25 und bin dann bei 17,51 Ampere. Jetzt habe ich erst mal meine Maximalwerte, die mein Modul und mein Kabel tragen können. Und jetzt rechne ich endlich aus, wie mein I-Rück eigentlich ist.
+
+(0:05:36 - 0:05:55)
+Und da muss man sich die Formel merken. Die Anzahl der Strings minus 1, warum seht ihr das gleich, multipliziert mit dem ISC, das ist der Rückstrom, den man da oben sieht. Und jetzt haben wir nur einen String, 1-1 mal 14,01 ist 0, weil 1-1 0 ist.
+
+(0:05:56 - 0:06:08)
+Interessant wird es erst, wenn wir ein bisschen mehr Strings dazukommen. Deswegen holen wir uns auf jeden Fall gleich mal einen zweiten String, hier ist er. Und jetzt passiert nämlich folgender Effekt, den man visuell sehr gut darstellen kann.
+
+(0:06:08 - 0:06:33)
+In diesem Fall würde jetzt aus diesem zweiten String ein Stringstrom ISTR fließen, rückwärts würde der fließen und deswegen addiert der sich mit dem I-Rück aus dem ersten String auf. Der war ja 0, jetzt kommt einmal ein Stringstrom dazu, also 14,01. Das ist genau diese Formel, die das da auch beschreibt.
+
+(0:06:33 - 0:06:48)
+Also jetzt hätten wir bei zwei Strings 14 Ampere. Ist auch noch kleiner als 25, ist kleiner als 17,5, also brauchen wir keine Sicherung. Jetzt kommt aber der dritte und ich gebe es nicht mit hängen, jetzt kommt hoffentlich der Aha-Effekt.
+
+(0:06:48 - 0:07:19)
+Es kommt also wieder ein Stringstrom mit dazu, 3-1 ist 2 mal die 14 sind 28,02 und das haben wir jetzt rot gefärbt oder orange, weil das ist jetzt größer als 17, das ist größer als 25, das wäre nicht zulässig. Deswegen setzen wir jetzt hier mal Stringsicherungen ein. Wir machen das auf der Plus- und auf der Minusseite und dann wird das Ganze auch wieder entspannt grün, weil wir jetzt die Vorgaben der Norm einhalten wieder.
+
+(0:07:20 - 0:07:44)
+Das heißt, man kann natürlich da mehr Strings parallel dranhängen, aber wenn man es macht, dann braucht man halt eine Stringsicherung. Wir machen das nur mal der Form halber noch weiter. Bei vier Stück, das wäre hinter mir, da muss man mich ganz kurz mal rausnehmen, kommt man auf 42 Ampere und dann eben abhängig von der Anzahl der Strings, wird diese Stromgröße vom I-Rück immer größer und das kann man trotzdem so bauen.
+
+(0:07:44 - 0:08:03)
+Das ist klar, gerade bei Combiner-Boxen, also DC-Sammelboxen, macht man das ja auch so. Das sind ja dann vielleicht mal 20 oder so 25 Strings parallel, also kann man machen. Nur dann wird hier hoffentlich jetzt klar, warum man dann eine Stringsicherung braucht und wo man diesen Maximum Serious Fuse Rating-Wert herkriegt.
+
+(0:08:03 - 0:08:46)
+Man kann also gar nicht größere Stringsicherung einsetzen, weil sonst das Modul nicht mehr geschützt wäre. Okay, ich hoffe, das war der Ausflug erst mal wert, wie wir auf diese Zahl 3 kommen. Jetzt mache ich hier noch ein Beispiel von so einem typischen dezentralen Wechselrichter, wie die heutzutage so aussehen. 
+
+Das sind ja Riesendinger mittlerweile. Und dann sind die oft so, wie wir es hier machen, dass man da nämlich also erst mal die Stringsicherung, wenn man sie braucht, im Wechselrichter installieren würde. Ich muss zugeben, das ist bei mir schon lange her, dass ich das das letzte Mal gesehen habe, aber das war früher so. 
+
+Man könnte im Wechselrichter also Sicherungen einsetzen. Das wäre dann im Wechselrichter. Die Frage ist ja, wo eigentlich man sie einsetzt.
+
+(0:08:47 - 0:09:00)
+Und wenn wir jetzt aber in unserem Beispiel sagen, da haben wir ja nur zwei Strings pro MPP, dann greift ja die Idee von unten, ja gut, dann brauche ich ja gar keine Stringsicherung. Das hat sich der Hersteller da natürlich auch so gedacht. Das hat er also auch gewusst.
+
+(0:09:02 - 0:09:09)
+Und komme zu dem Schluss, dass ich in diesem Fall überhaupt keine Stringsicherung bräuchte. Und das habe ich auch so geschrieben. Das war mir wichtig.
+
+(0:09:09 - 0:09:25)
+Bei den dezentralen Wechselrichtern ist das meistens so. Deswegen haben viele ja vielleicht auch noch gar nicht so darüber nachgedacht, ehrlich gesagt. Aber jetzt wisst ihr, warum ihr dann in eurem Projekt mit so einem dezentralen Wechselrichter, der nur zwei Strings pro MPP haben darf, keine Stringsicherung braucht.
+
+(0:09:27 - 0:09:52)
+Aber zentrale Anlagen, da ist das anders, da ist das wohl viel interessanter. Wir machen das erstmal anhand von so einem typischen einpoligen Schema. So sieht das immer so aus. 
+
+Das kommt jetzt ganz oft. Und jetzt zoome ich da aber erstmal unten rein in meine Angabe, wo die DC-Komponenten sind. Und dann graue ich da ein bisschen aus, weil da ja vieles jetzt gerade gar nicht so wichtig ist.
+
+(0:09:52 - 0:10:04)
+Und dann seht ihr, da ist dargestellt so eine DC-Sammelbox. Und da sind die Stringsicherungen drin. Also elektrisch ist jetzt erstmal klar definiert, wo man die DC-Stringsicherungen findet.
+
+(0:10:05 - 0:10:17)
+Und dann machen wir das immer noch so mit unseren 3D-Modellen, dass man hier auch zeigt, wo das in der Anlage ist. Also typische PV-Anlage im Feld verteilt sind die DC-Boxen. Und da drin findet ihr die DC-Stringsicherung.
+
+(0:10:19 - 0:10:30)
+Jetzt nehmen wir mal so eine DC-Box, machen den Deckel auf und sehen da drin erstmal die Stringsicherungshalter. Immer Plus und Minus, obere Reihe, untere Reihe. Das sieht man schon, vielleicht kann man es ja ahnen.
+
+(0:10:30 - 0:10:36)
+Das sind bestimmt 20 Stück. Und da nehmen wir jetzt wiederum eine raus. Die haben wir jetzt mal aufgemacht, diese Halterung.
+
+(0:10:36 - 0:10:44)
+Und da drin ist die Sicherung. Und um die geht es jetzt gerade. Da stehen auch schon viele Kenndaten drauf, die jetzt auch gleich wichtig werden.
+
+(0:10:44 - 0:10:59)
+So, damit wäre erstmal die Frage geklärt, wo wir eigentlich DC-Stringsicherungen finden. Und ich hoffe, die Brücke ist einigermaßen gelungen. Nicht nur physisch wo, sondern wo im Sinne von, wenn es da gar keine erforderlich sind, dann findet man sie sozusagen gar nicht.
+
+(0:11:01 - 0:11:18)
+Die nächste Frage. Warum brauchen wir überhaupt so eine Stringsicherung? Also gerade sehr ausführlich erklärt, weil sie Kurzschlussströme unterbricht. Vielleicht hätte man noch sagen können, fehlerhafte Kurzschlussströme.
+
+(0:11:19 - 0:11:36)
+Und aus diesen fehlerhaften Kurzschlussströmen ergeben sich sozusagen Rückströme. Und dadurch schützt die Stringsicherung also den einzelnen String vor Rückströmen aus den jeweils parallelen Strings. Das führt zu einer selektiven Abschaltung eines einzelnen Strings.
+
+(0:11:36 - 0:11:49)
+Das ist natürlich extrem sinnvoll, auch im Sinne der Anlagenbetriebsfähigkeit. Und es reduziert das Risiko von Brandschäden. Gerade auf DC-Seite ist das immer ein ganz, ganz heißes Thema, im wahrsten Sinne des Wortes.
+
+(0:11:50 - 0:12:03)
+Da entstehen dann Lichtbögen. Und das wisst ihr alle, das Problem, die Ursache erlischt ja dann nur noch, falls die Sonne untergeht. Und solange es aber hell ist, schwelt dieser Brand vor sich hin.
+
+(0:12:03 - 0:12:22)
+Und wenn dann erstmal die ganze Box brennt, dann hilft es auch nicht mehr, wenn die Sonne untergeht. Also das war die Motivationsfrage, warum brauche ich denn die Stringsicherung überhaupt? Jetzt gucken wir uns nochmal an, was schütze ich mit so einer Stringsicherung? Ich habe es, glaube ich, schon die meisten genannt. Das Modul, das schütze ich auf jeden Fall.
+
+(0:12:22 - 0:12:29)
+Das ist wahrscheinlich auch das Wertvollste an der ganzen Sache. Aber auch die Stecker, die hängen da ja auch dran. Und auch die Stringkabel.
+
+(0:12:32 - 0:12:44)
+Wechselrichter haben wir auch noch hinzugenommen, aber dezentral in Klammern geschrieben. Das ist deshalb so, weil bei zentralen Systemen wäre das nicht so. Also wenn wir hier von 14 Ampere, haben wir ja gesagt, sprechen.
+
+(0:12:44 - 0:12:58)
+Selbst wenn es 20 Stück sind, da kommt man irgendwie auf 300 Ampere. Das juckt so einen zentralen Wechselrichter nicht. Das ist für den Betriebsstrom, also diese Stringsicherung von 25 Ampere, hat nichts mit einem zentralen Wechselrichter am Hut.
+
+(0:12:58 - 0:13:06)
+Also der sieht das gar nicht. Aber bei den dezentralen ist das natürlich schon so. Wenn man die da einsetzt, dann schützen die auch den Wechselrichter mit.
+
+(0:13:07 - 0:13:14)
+Die DC-Sammelbox auch. Da geht es vor allem ums Indirekte. Also wenn das dann zu heiß wird und Feuer fängt, dann schützen wir auch die DC-Sammelbox.
+
+(0:13:14 - 0:13:27)
+Man sieht also, diese Stringsicherungen sind sehr sinnvoll. Die schützen im Grunde die ganze DC-Kette. So, was gibt es da für Typen? Wichtig, GPV.
+
+(0:13:27 - 0:13:39)
+Das findet man auf den Sicherungen, haben wir bei uns auch mit drauf geschrieben. Und darauf achtet ihr auch bitte, wenn ihr in euren Projekten Stringsicherungen einsetzt. Normen haben wir dazu geschrieben, das wissen die Hersteller dann aber selber viel besser.
+
+(0:13:40 - 0:13:54)
+Wichtig ist GPV. G steht für Ganzbereichs und das PV, na gut, das steht für Photovoltaik. Also es geht darum, dass die Sicherung den ganzen Bereich nach dem Nennstrom auch abdeckt.
+
+(0:13:55 - 0:14:05)
+Also 25,01 Ampere und dann. Aber auch richtig nach oben weg. Und wenn man das so spezifizieren würde, dann finden wir, achtet man erstmal auf den Nennstrom.
+
+(0:14:05 - 0:14:18)
+Den zeige ich auch gleich im Kapitel Dimensionierung noch, wie man das macht. Also da gibt es jetzt verschiedenste Größen natürlich. Die müsste man sich dann dimensionieren und den ausgewählten richtigen Wert hier in der Spezifikation angeben.
+
+(0:14:18 - 0:14:31)
+Dann 1.500 Volt Spannung muss man angeben. Wir bauen nur noch 1.500 Volt Systeme, also ist der Wert für mich gesetzt. Die Kontaktart finde ich vor allem sinnvoll.
+
+(0:14:31 - 0:14:42)
+Also die sind aus meiner Sicht immer kupferverzinkt. Okay, das haben wir da so hingestellt, aber die Kontakte selbst haben verschiedene Formen. Hier haben wir so eine runde, aber es gibt auch so S-Formen, die man dann so einhakt.
+
+(0:14:42 - 0:14:57)
+Und es gibt auch Inline-Sicherungen, die also im Stringkabel integriert sind. Das sind also verschiedenste Typen. Und dieser Kontaktstecker, dieser Kontakt, der muss natürlich gut definiert sein.
+
+(0:14:57 - 0:15:10)
+Sonst kann man ja vor Ort die Sicherung am Ende gar nicht einsetzen. Zweipolig ist ganz wichtig, steht so in der Norm. Also immer bitte pro String zwei Sicherungen, einmal auf die Plus- und auf die Minusseite eine einsetzen.
+
+(0:15:11 - 0:15:19)
+Und dann fand man auch interessant, dass man da so eine Diode drin hat. Man sieht das auch hier im Schaltbild. Da sieht man die Diode, die schützt vor Verpolung.
+
+(0:15:19 - 0:15:40)
+Also sagen wir mal, ihr habt die Stringsicherung eingesetzt und jetzt steckt ihr außen die MC4-Stecker an, an der Sammelbox und verpolt. Dann würde hier die Diode davor schützen, dass der Strom überhaupt erst fließen kann. Die Dimensionierung, da haben wir erstmal die Norm rausgesucht.
+
+(0:15:40 - 0:15:56)
+Das ist die 62548, da steht das drin, wie man so eine Stringsicherung zu dimensionieren hat. Und das sind im Grunde erstmal drei Regeln. Die erste sagt, nimm den 1,5-fachen Wert von dem Kurzschlussstrom des Moduls.
+
+(0:15:56 - 0:16:13)
+Aus dem Datenblatt hatten wir gerade gesehen, wo man das findet, 1,5-fachen Wert. Und die Sicherung, den Nennstrom der Sicherung, muss dann größer sein als dieses Produkt. Gleichzeitig sagen die, soll er aber nicht größer sein als 2,4-facher Wert.
+
+(0:16:14 - 0:16:27)
+Dass das gar nicht so relevant ist, nehme ich schon mal vorneweg. Aber beachtet das. Aber es passiert immer von ganz allein, weil unsere Erfahrung nach, dieser dritte Wert sowieso dazu führt, dass der Wert kleiner ist als das 2,4-fache.
+
+(0:16:27 - 0:16:41)
+Das ist nämlich dieser Modul Maximum Fuse Rating Wert aus dem Datenblatt, damit das Modul geschützt wird. Der ist ja sowieso einzuhalten. Und der ist meistens niedriger als der 2,4-fache Wert vom Kurzschlussstrom.
+
+(0:16:41 - 0:16:47)
+Wie auch immer, das muss nicht immer so sein. Deswegen geben die beides an. Also dazwischen muss die Sicherung liegen.
+
+(0:16:47 - 0:16:56)
+Und das finde ich, kann man am besten mal in so einem Beispiel sehen. Unser Kurzschlussstrom 14,01 Ampere. Und jetzt im ersten Schritt gucken wir uns an.
+
+(0:16:56 - 0:17:11)
+1,5 mal 14,01 sind 21,02 Ampere. Das ist erstmal gut und führt in meiner Logik, schaut man dann so Datenblättern nach, zu einer 25 Ampere Sicherung. Daumen hoch.
+
+(0:17:12 - 0:17:23)
+Der zweite Schritt, das ist dann auch hier die zweite Zeile oben gewesen. Die 25 Ampere sind kleiner als das 2,4-fache von dem ISC. Das wäre nämlich 33,6.
+
+(0:17:23 - 0:17:33)
+Also auch Daumen nach oben. Der dritte Schritt, jetzt kommt dieser Moduldatenblattwert. Wenn ihr euch erinnert, der war in unserem Beispiel 25 Ampere.
+
+(0:17:34 - 0:17:49)
+Und deswegen würde hier stehen, 25 Ampere ist kleiner gleich 25 Ampere. So wäre es aus meinen Projekten der Erfahrung nach ehrlich gesagt auch meistens. Man dimensioniert im Grunde meistens ja nach diesem Moduldatenblattwert.
+
+(0:17:49 - 0:17:57)
+Also das ist der Startpunkt. Insofern ist man da meiner Erfahrung nach eh nicht kleiner. Gut, 25 Ampere ist der maximale Wert, den wir da nehmen dürfen.
+
+(0:17:57 - 0:18:06)
+Und deswegen ist jetzt erstmal auch hier die dritte Prüfung. Daumen nach oben. Jetzt macht man aber noch einen vierten Schritt.
+
+(0:18:07 - 0:18:22)
+Und zwar prüft man die Angaben des Sicherungsherstellers nochmal nach. Das steht in der Norm nur so indirekt drin. In der Norm steht, dass bei diesem Faktor 1,5, da geht es ja darum, dass die Sicherung nicht zu früh auslöst.
+
+(0:18:22 - 0:18:38)
+Also dieses 1,5 mal den ISC nimmt man, damit nicht aus Versehen sozusagen die Sicherung auslöst. Dann hat man da so einen Sicherheitswert drin. Aber genau das würde ich nochmal gegenprüfen mit den Herstellern.
+
+(0:18:38 - 0:18:49)
+Weil, steht auch so in der Norm drin, es sind projektspezifische Rahmenbedingungen zu betrachten. Das ist vor allem die Häufung. In so einer Compound Box sind ja ganz viele drin.
+
+(0:18:49 - 0:18:55)
+Und die Temperatur. Das ist die Umgebungstemperatur. Aber auch aus der Häufung ergibt sich im Grunde ein Temperaturwert.
+
+(0:18:55 - 0:19:09)
+Also diese Sicherungen werden warm, auf gut Deutsch. Und das kann man jetzt nochmal mit realen Temperaturen gegenprüfen. Das machen wir hier auch einfach mal im Beispiel von dem Hersteller, wo er jetzt diese tausenden von Sicherungen kauft, kriegt er so ein Datenblatt oder so ein Diagramm.
+
+(0:19:10 - 0:19:21)
+Das ist dann Umgebungstemperatur der Sicherung. Also in der Box drin wäre das die Temperatur. Und die davon abhängige Nenn-Tragfähigkeit der Sicherung sozusagen.
+
+(0:19:21 - 0:19:31)
+Also bei wie viel Strom sie dann im Endeffekt auslöst. Und das ist dann eben so eine Kurve. Das heißt, mit höheren Temperaturen löst die Sicherung auch früher aus.
+
+(0:19:32 - 0:19:42)
+Jetzt sagen wir, wir haben 60 Grad bei uns in der Box. Und dann kommen da jetzt irgendwie 20 Ampere raus. Und jetzt vergleichen wir das nochmal oben mit den 21,02, die wir ausgerechnet haben.
+
+(0:19:42 - 0:19:52)
+Und stellen fest, dass das nicht in Ordnung ist. Ja, genau. Also das hätten wir jetzt festgestellt, dass das nicht funktioniert.
+
+(0:19:53 - 0:20:08)
+Und sagen dann, ja gut, dann geht das nicht. Das geht dann nicht, weil unsere Sicherungen in den Umgebungsbedingungen der Box zu früh, also im Betrieb auslösen würden. Und dann habe ich jetzt hier mal gesagt, wir zeigen dann halt niedrigere Temperaturen.
+
+(0:20:08 - 0:20:18)
+Und zwar deshalb, Achtung, jetzt bitte gut folgen. Deshalb, weil die Siehungsgröße kann ich ja nicht größer machen. Die ist von den Angaben in dem Moduldatenblatt fix limitiert.
+
+(0:20:18 - 0:20:24)
+25 Ampere, mehr darf ich ja gar nicht nehmen. Also kann ich nicht einfach eine größere Sicherung nehmen. Geht nicht.
+
+(0:20:25 - 0:20:37)
+Meine Variante hier ist jetzt, ich sage dem Hersteller der Box, dass 60 Grad nicht geht. Geht auch 45 Grad. Und dann sagt er, ja, ja, also wir machen ein bisschen größere Abstände zum Beispiel.
+
+(0:20:38 - 0:20:45)
+Oder ja, ihr macht das ja in den Schatten. Und deswegen kommen wir eh nicht auf 60 Grad Umgebungstemperatur. Ist jetzt hier nur ein Beispiel.
+
+(0:20:45 - 0:21:00)
+Und bei 45 Grad, da geht der Daumen hoch, weil dann die 23 Ampere größer sind als die 21,02. Ja, also die 25 Ampere konnte ich nicht größer machen, die Sicherung. Also muss ich dafür sorgen, dass die Umgebungstemperaturen dementsprechend passen.
+
+(0:21:01 - 0:21:15)
+So dimensioniere ich meine Stringsicherung. Schieben wir wieder rein in unser Diagramm und gehen weiter zum nächsten Schaltgerät. Mein zweites Schaltgerät ist die DC-Lasttrennschalter.
+
+(0:21:16 - 0:21:21)
+Auch in der Box drin. Achtung, jetzt gute Augen haben. Jetzt frage ich mich wieder, wo.
+
+(0:21:21 - 0:21:34)
+Und in meinem Schema ändere ich so ein bisschen das Grau-Nivellierte. Jetzt habe ich die Sicherung nicht mehr gehighlighted, sondern diesen Hauptschalter sozusagen, diesen Lasttrennschalter. Der ist auch in der Box.
+
+(0:21:35 - 0:21:43)
+Deswegen wäre das jetzt hier in dieser Übersicht wieder die gleiche Stelle, ehrlich gesagt. Aber ich mache wieder die Box auf, dann sieht man das ein bisschen besser. Und das ist der, der auf der linken Seite.
+
+(0:21:43 - 0:21:54)
+Ich hole mir den raus, da ist er. Das ist mein DC-Lasttrennschalter in der DC-Box. Jetzt müssen wir erst mal, wo der zu finden ist, fragen wir uns.
+
+(0:21:55 - 0:22:09)
+Warum brauche ich den überhaupt? Und da geht es jetzt los mit dem Wording, das mir in meinem einführenden Kapitel so wichtig war. Also, der ermöglicht sicheres Abschalten unter Last. Das wiederhole ich jetzt auf keinen Fall.
+
+(0:22:09 - 0:22:22)
+Sonst schafft man sich einfach das erste Kapitel jetzt einfach nochmal an. Aber er ermöglicht es unter Last. Dann bietet er außerdem eine sichtbare und wartungsfreie Trennstelle.
+
+(0:22:22 - 0:22:35)
+Kann also benutzt werden, um dann im Feld zu arbeiten. Wichtig ist, er trennt die gesamte String-Gruppe vom Wechselrichter. Also alle String-Gruppen hin zu den Strings werden aufgetrennt.
+
+(0:22:35 - 0:22:53)
+Aber, ne, Entschuldigung, die werden nicht aufgetrennt, die sind unberührt. Aber die ganze Box gegenüber dem Wechselrichter wird komplett abgeschaltet. Also die ganze String-Gruppe ist dann erst mal vom Wechselrichter getrennt.
+
+(0:22:54 - 0:23:02)
+Außerdem, wenn man es andersrum betrachtet, wird auch das DC-Hauptkabel freigeschaltet. Aber ganz wichtig, nur von einer Seite. Deswegen haben wir das gehighlighted.
+
+(0:23:03 - 0:23:23)
+Nur eine Seite vom DC-Kabel ist jetzt freigeschaltet. Von der anderen Seite, wo die vielleicht parallele DC-Hauptkabel mit aufliegen, gibt es auch immer noch eine Rückspannung. Das heißt, die Kabel sind nicht spannungsfrei, sondern man müsste dann schon alle DC-Hauptlast-Trennschalter in der Gruppe freischalten, damit dann auch das Kabel freigeschaltet ist.
+
+(0:23:25 - 0:23:40)
+Genau, und er ermöglicht nicht nur den Hauptkabel freizuschalten, sondern auch das Freischalten von der Wechselrichter-DC-Seite. Aber Gleiches gilt hier, die ganze Gruppe muss dann geöffnet sein. Ja, das wird in mehreren Normen gefordert.
+
+(0:23:40 - 0:23:54)
+Also dieser Schalter ist nicht zu diskutieren, den braucht man dann auf jeden Fall. Was schützt dieser Schalter? Und alle, die ganz aufmerksam waren bei der Einführung, wissen es jetzt schon, der schützt überhaupt nichts. Das ist nämlich nur ein Last-Trennschalter.
+
+(0:23:54 - 0:24:11)
+Der hat keine Schutzfunktion. Und ich finde, an der Stelle wird das einfach ein bisschen sinnhaft, dass wir da so lange drauf rumgeritten sind am Anfang, was eigentlich Schutz ist und Trennen ist und Bedienen ist. Also dieser Last-Trennschalter, der kann trennen und bedienen, er kann aber nicht schützen.
+
+(0:24:13 - 0:24:28)
+Was gibt es da für Typen? Wir spezifizieren den einfach wieder und sehen an, da gibt es eine Norm, die Niederspannungsschaltgeräten-Norm, das ist ein Riesending. Und da wird auch dieser Schaltertyp beschrieben. Das heißt, die Hersteller wissen das dann schon, ich würde das aber trotzdem mit angeben.
+
+(0:24:29 - 0:24:40)
+Nennstrom ist ganz wichtig, machen wir gleich in der Dimensionierung. Und die Spannungsart. Also so ein DC-Trenner ist aufwendiger, schwieriger als ein AC-Trenner.
+
+(0:24:40 - 0:24:58)
+Das hat physikalische Gründe, aber umso wichtiger ist, dass man das auch angibt. Also man nimmt nicht einfach einen Trenner 400 Ampere, sondern der muss auch für DC spezifiziert ausgelegt und geeignet sein. Nennspannung 1.500 Volt, finde ich erst mal klar.
+
+(0:24:59 - 0:25:16)
+Und dann gibt es da noch Impulsspannungswert, ich glaube es gibt noch ein, zwei andere, die haben wir aber nicht mit aufgenommen. Die ergeben sich dann aus der IEC 60947, da wird das definiert. Ich wollte es nur darstellen, dass der auch kurzzeitig, sage ich mal so, deutlich höhere Spannungen kann.
+
+(0:25:17 - 0:25:29)
+Das ist aber bei allen Schaltern so. Ja, und der kann auch deutlich höhere Ströme als die 400 Ampere, aber das dann eben auch nur ganz kurz. Also für so eine Sekunde kann der sogar 10.000 Ampere.
+
+(0:25:29 - 0:25:47)
+Das ist auch wichtig, weil wir haben es ja vorhin gesagt, der hat ja unglaublich viele Stringgruppen parallel und auch DC-Hauptgruppen parallel. Das heißt, die Gesamtströme, die da laufen können, im Fehlerfall sind deutlich größer. Die Dimensionierung.
+
+(0:25:47 - 0:26:13)
+Wir konzentrieren uns wieder auf den Strom. Da hätte man dann eine Norm, in der erstmal sowas drinsteht. Aber für uns wichtiger, deswegen war ich jetzt auch so schnell, da kommt unser Brainday-Symbol, wir machen das so, dass der Nennstrom von diesem DC-Lastrendschalter größer sein muss, als die Anzahl der Strings multipliziert mit dem Kurzschlussstrom eines Strings.
+
+(0:26:14 - 0:26:24)
+Und dann haben wir aber auch noch einen Sicherheitsfaktor drin. Der ist auch normativ so bekannt. 1,25 haben wir uns jetzt nicht so überlegt, aber das ist aus unserer Sicht sinnvoll.
+
+(0:26:24 - 0:26:53)
+Der beinhaltet dann solche Ungenauigkeiten, natürlich auch ein bisschen Puffer ist ja immer sinnvoll und dass es ja auch mal mehr als 1.000 Watt Einstrahlung sein könnten. Also Beispiel, wir haben unsere 14,01 Kurzschlussstrom, 21 Strings haben wir und dann führt das dazu, dass man auf 367 Ampere kommt. Das würde für mich dazu führen, dass man, Entschuldigung, da war ich jetzt zu schnell, einen 400 Ampere Lastrendschalter dimensioniert.
+
+(0:26:54 - 0:27:04)
+Relativ einfache Geschichte. Deswegen geht es auch gleich weiter. So, der Strom fließt weiter Richtung Netz und trifft dann auf eine Hauptsicherung.
+
+(0:27:05 - 0:27:25)
+Also jetzt sind wir durch das DC-Hauptkabel bis zum Wechselrichter gelaufen und kommen dann hier an der Stelle elektrisch gesehen auf den Punkt, wo nochmal eine Sicherung verbaut wird. Die DC-Hauptsicherung. Elektrosymbolen nehmen wir mit und hier schematisch dargestellt, da wäre die dann zu finden.
+
+(0:27:25 - 0:27:48)
+Jetzt nehmen wir mal diesen ganzen riesen Wechselrichter da ran und machen einmal die Tür auf und da sind sie, so sieht das so beispielhaft aus, da sind jetzt wieder Plus und Minus, obere Reihe, untere Reihe, die DC-Hauptsicherung. Viel größer, also die sind jetzt schon so richtig Hand oder große Hand groß sozusagen. Wir ziehen sie mal raus und so sieht so eine ganz typische Sicherung aus.
+
+(0:27:50 - 0:28:13)
+Warum brauchen wir diese Sicherung? Also es geht wieder los. Es gibt einen Kurzschlussschutz und zwar diesmal der DC-Hauptleitung zum Wechselrichter. Die wird geschützt, nicht die Strings, sondern jetzt schützen wir die DC-Hauptleitung vor Kurzschluss und wir schützen vor Rückströmen aus parallelen Systemen von der DC-Sammelbox.
+
+(0:28:14 - 0:28:29)
+Der Wechselrichter hat auch Energie geladen, sage ich mal, in seinen Kondensatoren. Da will ich jetzt nicht weiter darauf eingehen. Ich meine nur, wenn es mal zu einem Kurzschluss kommt, dann gibt es da enorme Rückströme, auch von diesen Kondensatorbänken vom Wechselrichter und da schützt die Sicherung also das Kabel.
+
+(0:28:31 - 0:28:41)
+Es ist keine Trennstelle. Hier sieht man das. Ich hatte es vorhin gesagt, wenn man das in so eine Sicherungslast-Trennschaltleiste einsetzen würde, dann wäre die wiederum die Trennstelle.
+
+(0:28:41 - 0:28:56)
+Aber die Sicherung selbst ist selbst keine Trennstelle. Das ist hier auch so, dass die nur so Messer hier haben, in dem Fall, aber die werden auch verschraubt. Also das ist gar nicht so einfach, da ranzukommen.
+
+(0:28:57 - 0:29:13)
+Dann hat man die Gewährleistung der Selektivität durch die DC-Hauptsicherung realisiert. Man versucht die Sicherungen jetzt selektiv darzustellen. Das ist in dem Fall relativ einfach.
+
+(0:29:13 - 0:29:23)
+Die sind deutlich größer als die String-Sicherung. Und es gibt wieder Normen, die den Einsatz sowieso fordern. Also wir schützen unsere DC-Hauptkabel.
+
+(0:29:24 - 0:29:29)
+Ja, genau, haben wir gerade genannt. Und deswegen haben wir es hier auch noch mal dargestellt. Und weiter geht's.
+
+(0:29:31 - 0:29:45)
+Wie ist der Typ von so einer DC-Hauptsicherung? Also erst mal GPV kommt mir schon sehr bekannt vor, aber dieses NH ist neu. Deswegen schreibe ich es hier einmal kurz da. NH steht für Niederspannungs-Hochleistungssicherung.
+
+(0:29:46 - 0:29:53)
+Das ist so eine typische NH-Sicherung. Ich habe noch nie eine andere gesehen. Aber jetzt weiß man mal, warum da NH überhaupt draufsteht.
+
+(0:29:53 - 0:30:13)
+GPV muss auch draufstehen. Das ist auch wichtig, weil die NH-Sicherungen auf der AC-Seite, die sehen ehrlich gesagt genauso aus, haben aber eben andere Auslösekennlinien. Und deswegen werden sie dann nicht zulässig, sondern nur hier diese GPV, also für DC-Seite ausgelegten Photovoltaik-Schutz-Sicherung.
+
+(0:30:14 - 0:30:19)
+Wie spezifizieren wir die? Wir haben verschiedene Typgrößen. Machen wir gleich eine Dimensionierung. Wir haben 1500 Volt.
+
+(0:30:20 - 0:30:27)
+Wir haben auch wieder unsere Kuppe verzinkt meistens. Dann können die auch andere Baugruppen haben. Wie gesagt, verschraubt kann sein.
+
+(0:30:28 - 0:30:32)
+Und Inline, das ist ein Fehler. Das streicht ihr mal raus. Das hätten wir hier löschen müssen.
+
+(0:30:32 - 0:30:46)
+Das gibt es so nicht, das ist ein Kombinationsfehler. Aber trotzdem grundsätzlich auf den Kontakt, auf den Anschluss achten, auf die Baugröße achten, dass die dann vor Ort überhaupt da reinpassen. Zweipolig müssen sie sein, Plus und Minus.
+
+(0:30:46 - 0:31:02)
+Und auch die haben dann wieder so eine Diode da drin, sind also für polsicher ausgelegt. Dimensionierung. Wir haben wieder eine Norm dafür, die 62548.
+
+(0:31:02 - 0:31:12)
+Da steht drin, wie das gemacht wird. Und da haben wir uns mal Folgendes rausgesucht. Also es gibt da tatsächlich auch andere Kennzahlen.
+
+(0:31:12 - 0:31:21)
+Ich meine, es war 1,2 als Faktor. Also wir machen die gleiche Logik wie gerade. 1,5 und 2,4.
+
+(0:31:21 - 0:31:35)
+Und diesmal aber nicht von dem String den ISC, sondern von dem ganzen Array. Also von dem ganzen System sozusagen. Wichtig finde ich noch, dass man weiß, dass die sogenannte Überlast nicht betrachtet wird.
+
+(0:31:36 - 0:31:52)
+Deswegen kann auch durchaus der Nennstrom der Sicherung größer sein als dieser IZ von dem DC-Hauptkabel. Also der reduzierte maximale Tragfähigkeit von dem DC-Hauptkabel. Das ist ein anderer Brainday.
+
+(0:31:52 - 0:31:57)
+Da machen wir die Kabeldimensionierung. Aber jetzt habt ihr dann ein Kabel. Ihr wisst, wie viel das maximal trägt.
+
+(0:31:57 - 0:32:09)
+Unter diesen Umgebungsbedingungen. Und dann würde man eigentlich sagen, na ja, dieser Wert muss schon größer sein als der von der Sicherung, damit erst die Sicherung kommt und dann das Kabel kaputt geht. Das macht man nicht unbedingt.
+
+(0:32:10 - 0:32:19)
+Man kann das machen, aber man macht das nicht unbedingt, wenn man nämlich den Überlastfall gar nicht beachtet. Und das machen wir jetzt in unseren Projekten eben nicht. Deswegen habe ich es ja hingeschrieben.
+
+(0:32:20 - 0:32:31)
+Weil es gar nicht zur Überlast kommen kann sozusagen. Es gibt ja nur den Fehlerfall eines Kurzschlusses. Also mehr Strom kann halt dieses Modul nicht und dieser String.
+
+(0:32:31 - 0:32:38)
+Deswegen gibt es die Überlast nicht. Aber den Kurzschluss gibt es schon. Dagegen ist aber ja dann auch wieder mit dieser Sicherung geschützt.
+
+(0:32:38 - 0:32:44)
+Deswegen ist das dann trotzdem noch in Ordnung. Nehmt das mal mit. Überlast wird nicht betrachtet.
+
+(0:32:44 - 0:32:50)
+Deswegen ist diese zweite Bedingung nicht erforderlich. Diese dritte, die ich da hingeschrieben habe. Ein Beispiel.
+
+(0:32:51 - 0:32:56)
+Die 14,01 Ampere wieder. Wir haben 21 Strings. Deswegen rechnen wir erst mal 21 mal 14.
+
+(0:32:57 - 0:33:09)
+Das sind 294 Ampere. Da sage ich erst mal Daumen hoch. Dann sage ich mit dem Sicherheitsfaktor von 1,5 komme ich auf 440 Ampere.
+
+(0:33:09 - 0:33:17)
+Und jetzt erst mal. Ich kenne meine Folie ja auswendig. Jetzt erst mal sage ich 450 Ampere ist doch dann super ausreichend.
+
+(0:33:17 - 0:33:23)
+Daumen hoch. Dritter Schritt. Und diese 2,4 werden beachtet.
+
+(0:33:24 - 0:33:36)
+706 ist größer als diese 450. Deswegen ist diese zweite Bedingung, die oben steht, auch erfüllt. Aber jetzt kommt wieder der Realitätscheck sozusagen.
+
+(0:33:36 - 0:34:00)
+Ich hole mir auch hier sinnhafterweise vom Hersteller die Kurven. Und hier finde ich ist es bei mir zumindest oft so, dass der Hersteller von diesen, das sind ja jetzt zentrale Wechselrichter, Zentralwechselrichterstationen meistens, die kennen ja ihre Sicherungen sozusagen und ihre Umgebungsbedingungen am besten. Deswegen kennen die auch diese Kurve ganz hervorragend.
+
+(0:34:00 - 0:34:12)
+Also in diesem Wechselrichter, den ich vorhin, wo ich die Platte aufgemacht habe, da drin wird es halt nun mal warm. Und am besten weiß der Wechselrichterhersteller, wie warm es da drin wird. Jetzt machen wir auch wieder ein Beispiel.
+
+(0:34:12 - 0:34:25)
+Jetzt haben wir hier unsere 450 Ampere Sicherung. Und jetzt sagt aber der Hersteller, na ja, na ja, also bei mir sind es aber schon 60 Grad da drin. Und dann würde die Sicherung ja nur 430 Ampere halten.
+
+(0:34:25 - 0:34:54)
+Bitte beachte das. Ich gucke bei mir oben bei Schritt 2 und stelle fest, dann geht es nicht. Dann kann ich das nicht machen. 
+
+Daumen nach unten. Also ändere ich meine Sicherungsgröße dann doch auf 500, nehme doch eine größere Stufe sozusagen, gucke dann ja in eine andere Kennlinie und stelle fest, alles klar, bei der 500 Ampere Sicherung, da klappt es auch bei 60 Grad. Weil die Logik, die ich bei der String Sicherung hatte, die greift hier eben nicht.
+
+(0:34:55 - 0:35:07)
+Also bei der String Sicherung hatte ich gesagt, ihr könnt gar nicht mehr als 25 Ampere, weil ich kann ja nicht das Modul einfach irgendwie sozusagen stabiler bauen. Geht nicht. Also hätte ich den Parameter Temperatur irgendwie nach unten schieben müssen.
+
+(0:35:08 - 0:35:16)
+Hier ist das genau andersrum. Ich werde jetzt nicht den Wechselrichter Hersteller dazu kriegen, dass der weniger Temperatur in seinem Wechselrichter hat. Ich kann aber ja die String Sicherung erhöhen.
+
+(0:35:16 - 0:35:28)
+Und genau das mache ich an dieser Stelle. DC Hauptsicherung auch erledigt. Wir wissen, wo sie ist, warum und wie wir sie auslegen.
+
+(0:35:29 - 0:35:36)
+Jetzt haben wir da noch einen DC Schalter drin oben im Wechselrichter. Einfach den gibt es. Ich finde, das ist auch sinnvoll zu wissen.
+
+(0:35:36 - 0:35:46)
+Das geht aber jetzt relativ schnell. Ihr werdet gleich sehen, warum. Also wo ist da so ein DC Schalter? Der ist im Wechselrichter drin.
+
+(0:35:46 - 0:36:01)
+Alles klar. Aber warum? Also der kann jetzt nochmal abschalten unter DC Last Pro MPPT und er schützt bei Wechselrichterfehlern. Aber ich zeige den auch so gar nicht groß, weil ich als PV Planer habe damit nichts am Hut.
+
+(0:36:02 - 0:36:16)
+Der Wechselrichter Hersteller, der macht das richtig und gut. Der weiß schon, wie er da seinen Schalter zu dimensionieren hat. Ich habe ihn aber hier mit reingenommen, weil ich wollte, dass allen klar ist, dass da auch nochmal ein Schaltgerät verbaut ist.
+
+(0:36:17 - 0:36:36)
+Das, was jetzt kommt, geht aber dadurch sehr schnell. Also die MPPT internen Komponenten, das ist meistens so, dass diese DC Schalter Pro MPPT sind, die werden geschützt. Und der Typ, da gehe ich null drauf ein, weil ich sage, das war ein bisschen selbst für null zu schnell, dass der Wechselrichter Hersteller das macht.
+
+(0:36:36 - 0:36:43)
+Ich habe da keine Aktien mit drin. Und das gilt dann natürlich auch für die Dimensionierung. Auch da ist es so, der Wechselrichter Hersteller, der macht das.
+
+(0:36:44 - 0:36:54)
+Und darauf kann ich mich verlassen. Und dann ist dieser DC Schalter im Wechselrichter auch erstmal abgearbeitet. So, das war die DC Seite.
+
+(0:36:54 - 0:37:05)
+Ein großes Kapitel, gar nicht so einfach. Aber deswegen ist es ja auch interessant, überhaupt PV Planer zu sein. Wir machen jetzt gleich weiter mit der AC Niederspannung.

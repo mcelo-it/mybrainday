@@ -1,0 +1,275 @@
+(0:00:00 - 0:00:22)
+Wir gehen direkt weiter in das nächste Kapitel Kabelberechnung. So, wir machen es eben wie am Anfang angekündigt. Ich zeige die grundlegende Vorgehensweise einer Kabelberechnung und doch viel weiter ins Detail kann man dann im Kabelberechnungs Brain Day gehen, wenn man das denn möchte.
+
+(0:00:22 - 0:00:35)
+Wir zeigen jetzt erst mal, welche Parameter man braucht, wenn man die Kabel von so einer Dachanlage auslegen möchte. Da fangen wir an mit der Leiterart. Also grundsätzlich gibt es da Kupfer und Aluminium.
+
+(0:00:35 - 0:00:48)
+Ich sage mal Kupfer ist teurer. Dafür ist die Belastungsfähigkeit größer und bei Aluminium sieht es dann eben genau andersherum aus. In der Tendenz nimmt man für die Stringkabel auf dem Dach, die DC Stringkabel auf dem Dach Kupfer.
+
+(0:00:48 - 0:00:56)
+Das hat sich auf jeden Fall etabliert. Ich kenne nichts anderes. Und im Gebäude, da nehmen wir meistens, ne, gebe ich keine Wertung ab.
+
+(0:00:56 - 0:01:10)
+Das kann unterschiedlich sein. Das muss man sich im Projekt eben genau angucken. Also erst mal die Entscheidung, nehme ich Kupfer oder Aluminium? Wenn ich die Entscheidung erst mal getroffen habe, dann kommen wir zum nächsten Parameterpunkt, dem Kabeltyp.
+
+(0:01:10 - 0:01:33)
+Da gibt es dann vor allem die Unterscheidung zwischen PVC und VPE. Und man sieht es in Klammern dahinter schon der entscheidende, der entscheidende Punkt, der daraus resultiert, ist die Wärmefähigkeit von diesen Materialien. Und die wiederum sind entscheidend, weil bei der Kabelberechnung geht es im Endeffekt um Temperaturauslegung.
+
+(0:01:33 - 0:01:42)
+Also die Kabel werden belastet. Dadurch entstehen Verluste und die wiederum resultieren in einer Erwärmung des Kabels. Und genau das sieht man hier.
+
+(0:01:42 - 0:01:53)
+Dafür gibt es Grenzwerte. Also diesen ganzen Prozess, diese ganze Berechnung macht man genau nur, damit man am Ende sicher sein kann, dass diese Temperaturgrenzwerte eingehalten werden. So, wenn man jetzt VPE nimmt, sieht man es schon.
+
+(0:01:53 - 0:02:04)
+Dann hat man ein höheres Limit sozusagen und dann kann man die Kabel auch höher belasten. Also die Frage stellen wir uns dann eben auch. Dann nehmen wir eins davon und weiter geht's.
+
+(0:02:05 - 0:02:20)
+Geschirmt oder nicht geschirmt? Das ist eine völlig andere technische Frage. Muss man nur grundsätzlich entscheiden, weil wenn man diese Parameter jetzt eben so auswählt, man in verschiedenen Tabellen in den Normen landet. Ich will es hier wie gesagt nur stichpunktartig nennen.
+
+(0:02:20 - 0:02:27)
+Die Tabellen zeigen wir gar nicht im Detail. Wir zeigen nur später ein Beispiel noch. Grundsätzlich muss man sich aber entscheiden, so Schritt für Schritt, wie ich es hier mache.
+
+(0:02:28 - 0:02:42)
+Und dann rutscht man nach und nach in die richtigen Tabellen und zieht sich die richtigen Werte raus. Halogenfrei haben wir nochmal reingenommen, weil das bei Dachanlagen, finde ich, eine gute Fragestellung ist. Freilandanlagen kenne ich die Herausforderung so nicht.
+
+(0:02:43 - 0:02:55)
+Im Grunde geht es darum, den Brandschutz, die Brandschutzsicherheit zu erhöhen. Deswegen kann man sich diese Frage bei Dachanlagen stellen. Der dritte Parameter ist der Belastungsgrad.
+
+(0:02:55 - 0:03:20)
+Da wird es für so Elektroplaner, die vielleicht mit Gutachtern in Projekten zusammenarbeiten, immer ganz, ganz spannend, weil da, finde ich, gibt es sehr viele verschiedene Interpretationsmöglichkeiten. Bei DC erst mal nicht unserer Meinung nach. Da gibt es diese VDE 0283-618 und die wiederum verweist auf die 0100712.
+
+(0:03:20 - 0:03:31)
+Das muss man nicht auswendig wissen, sondern ich finde, man muss nur wissen, dass dieser Belastungsgrad auf der DC-Seite da sehr deutlich mit 1,0 angegeben ist. Der ist für mich unstrittig. Den würde ich mitnehmen.
+
+(0:03:31 - 0:03:49)
+Den würde ich in meiner Kabelberechnung so annehmen. Auf der AC-Seite zeige ich gleich, sieht es vielleicht ein bisschen anders aus. Wir machen es uns erst mal einfach und setzen den auch auf 1,0, weil in dieser 0100712 auf das gesamte Photovoltaiksystem verwiesen wird.
+
+(0:03:49 - 0:03:58)
+Da gehört dann auch das Wechselstromsystem dazu. Das steht da auch genau so drin. Und deswegen sagen wir jetzt erst mal, auch auf der Seite nehmen wir den Belastungsgrad 1,0.
+
+(0:03:59 - 0:04:06)
+Der ist für uns eine Herausforderung. Deswegen kann man folgendes versuchen. Ich habe da mal so einen Gutachter symbolisch mit hingeschrieben.
+
+(0:04:06 - 0:04:19)
+Man kann an der Stelle auf jeden Fall jetzt versuchen, auf die althergebrachten Faktoren sich runter zu argumentieren. 0,7 Belastungsgrad, da wird das Leben für so eine Kabelauslegung schon deutlich einfacher. Also auf gut Deutsch.
+
+(0:04:19 - 0:04:30)
+Die Kabel werden dann, die Querschnitte verringern sich. Und das ist die 0276-1000, da steht der mit 0,7 drin. Das kommt aus den Bezugszeiten, sage ich mal.
+
+(0:04:30 - 0:04:43)
+Eine typische Belastungskurve ist da die Grundlage. Und den habe ich aber orange gemacht, weil wenn man mit 1,0 ins Rennen geht, kann erst mal nichts schief gehen. 0,7 würde ich unbedingt mit dem Kundenprojektleiter Gutachter abstimmen.
+
+(0:04:46 - 0:05:01)
+Der nächste ist die Verlegeart. Bei der Verlegeart habe ich auch nur die Norm genannt, die wir später uns angucken werden bei der detaillierten Kabelberechnung. 0298-4, da stehen verschiedene Verlegearten drin.
+
+(0:05:02 - 0:05:09)
+Ich habe mal hingeschrieben, zum Beispiel Kabelrinne ohne Deckel, Kabelrinne mit Deckel. Da gibt es noch viel mehr. Aber das muss man sich natürlich immer genau angucken.
+
+(0:05:10 - 0:05:25)
+Welches Kabel liegt jetzt wo und dann die jeweilige Verlegeart sich raussuchen. Der nächste Parameter ist die Umgebungstemperatur. Ich fürchte, da fliege ich jetzt auch gleich wieder raus, weil die hinter mir steht.
+
+(0:05:25 - 0:05:41)
+Also bei der Freilandanlage nehmen wir erst mal 30 Grad an. Auch einer von diesen Punkten, die ich unbedingt mit den Gutachtern oder den Kunden abstimmen würde. Da gibt es eine große Bandbreite an Interpretationsmöglichkeiten, Maximalwerte, Durchschnittswerte.
+
+(0:05:42 - 0:06:00)
+Also am Ende ist es, glaube ich, das wert, vor allem bei großen Projekten, das wirklich abzustimmen, damit man da nicht die Gefahr läuft, hinten raus eine Riesendiskussion aufzumachen, wenn aber schon alle Kabel verlegt sind. Also Freilandanlage 30 Grad würden wir erst mal so ansetzen. Im Gebäude sagen wir einfach mal, da kann es durchaus wärmer werden.
+
+(0:06:00 - 0:06:11)
+Vielleicht auch je nach Nutzen des Gebäudes kann es da vielleicht auch kühler sein. Aber jetzt sagen wir einfach mal, da ist es ein bisschen wärmer. Und genau dieser Punkt ist dann entscheidend bei der Kabelauslegung.
+
+(0:06:12 - 0:06:16)
+Auf dem Dach definitiv höhere Temperaturen. Das kann man sich vorstellen. Das ist exponierte Lage.
+
+(0:06:16 - 0:06:24)
+Die Lügser haut die Sonne richtig drauf. Und jetzt haben wir es für uns noch mal unterteilt in DC und AC. Die Norm macht das so nicht explizit.
+
+(0:06:25 - 0:06:40)
+Also für DC steht da sehr deutlich drin, dass die Kabel ausgelegt sind für 60 Grad. Solche diese Strombelastbarkeiten stehen da drin. Also kann man ja auch mal sagen, na ja, dann nimmt man eben 60 Grad an, weil genau dafür ist die Belastbarkeit im Datenblatt angegeben.
+
+(0:06:41 - 0:07:00)
+Beim AC-Kabel würden wir es nicht unbedingt machen. Dann kriegt man schon sehr harte Belastungsfaktoren raus, sondern da sagt man sich dieses Stückchen AC-Kabel, wenn der Wechselrichter auf dem Dach steht, sonst hat man das Problem ja eh nicht. Da haben wir jetzt nicht 45 Grad, sondern die 60 Grad kommen unserer Meinung nach eher daher, dass die Kabel direkt unter den Modulen liegen.
+
+(0:07:00 - 0:07:15)
+Da wird, da staut sich die Wärme. Da ist es halt dann doch noch mal deutlich wärmer als völlig frei in Luft. So und der letzte Parameter, wir nehmen ihn der Form halber rein, weil es ihn gibt, ist die Erdbodentemperatur.
+
+(0:07:15 - 0:07:24)
+Nehmen wir immer 20 Grad und beim Erdbodenwiderstand ist ein typischer Wert. 1,5 Kelvinmeter pro Watt, aber den graue ich auch gleich aus. Und das mache ich ganz schnell.
+
+(0:07:25 - 0:07:39)
+Den brauchen wir heute nicht, weil bei PV-Dachanlagen gibt es keine Kabelgräben, sondern das ist halt eine typische Freilandanwendung. Also der wird gleich grauen, dann brauchen wir ihn auch nicht mehr. Und jetzt sagen wir nur in unserem Beispiel Daumen runter.
+
+(0:07:39 - 0:07:47)
+Irgendwie funktioniert das jetzt nicht, die Kabelauslegung. Dann wäre es grundsätzlich so, man fängt einfach wieder von vorne an. Also ganzes Spiel wieder von vorne starten.
+
+(0:07:47 - 0:08:04)
+Man ändert zum Beispiel die Leiterart, man ändert den Kabeltyp oder den Belastungsgrad, solange bis hinten der Daumen nach oben geht. Hier nochmal zusammengefasst, das, was wir gerade gesagt haben. Also wenn man jetzt irgendwie mir da folgen konnte und davon gehe ich mal ganz fest aus, dann reicht diese Seite.
+
+(0:08:04 - 0:08:12)
+Das davor war halt eine visuelle Darstellung des Ganzen. Gut, jetzt machen wir das mal. Jetzt machen wir das mal.
+
+(0:08:12 - 0:08:24)
+Wir gehen jetzt diese Parameter durch für so ein AC-Kabel. Dazu hilft mir so eine kleine 3D-Animation, die ich da jetzt mitführe. Also hier ist unsere Logistikhalle mit mindestens 5000 Quadratmeter.
+
+(0:08:25 - 0:08:49)
+Und jetzt sage ich als allererstes mal, ich verlege mit Abstand D, so nennen die das so, also einen gewissen Abstand auf einer Wand. Ich nenne gleich ein Beispiel dazu und eben die Belastbarkeit, die Temperaturfaktoren und den Häufungsfaktoren, weil das sind genau die Punkte, die man sich aus den Normen jetzt raussuchen muss. Also hier sind unsere Kabel.
+
+(0:08:49 - 0:09:07)
+Wir haben da jetzt mal drei Stück und jetzt legen wir die auf die Wand und haben eben einen gewissen Abstand dazwischen. Betone ich gerne an der Stelle, weil das für so einen Planer immer ziemlich einfach ist, da jetzt einfach den Abstand anzunehmen. Ich persönlich finde die Transformation der Information auf die Baustelle ist die große Herausforderung.
+
+(0:09:07 - 0:09:20)
+Das müssen ja die Monteure wirklich dann auch erst mal wissen und auch machen. Wenn da jetzt einer sagt 3 Zentimeter, dann wirkt das auf der Baustelle immer. Was meint er denn? Und man legt halt die Kabel einfach, wie man sie legen möchte.
+
+(0:09:20 - 0:09:32)
+Also bitte achtet darauf, dass diese Information auch bis zum Ende durchkommt. Das wäre für mich jetzt zum Beispiel bei so einem Wechselrichter oder bei einer Niederspannungsverteilung. Die sehen wir später auch noch ganz viel.
+
+(0:09:32 - 0:09:43)
+Also eine typische Verteilung im Gebäude. Da kommen jetzt unsere ganzen Kabel vom Wechselrichter an. An der Stelle würde man diesen Verlegeart jetzt annehmen.
+
+(0:09:43 - 0:09:55)
+Und jetzt geht's los. Jetzt holt man sich die Belastbarkeit von so einem Kabel aus der 0298 aus der Tabelle 4 machen wir das jetzt in unserem Beispiel. Dann nimmt man den Temperaturfaktor aus der gleichen Norm Tabelle 17.
+
+(0:09:56 - 0:10:09)
+Da hört man schon die vielen Zahlen. Also da gibt es schon einige Tabellen und diese Parameter, die ich jetzt vorhin gezeigt habe, die musste man definiert haben. Diese Liste, die ihr gerade gesehen habt, damit man jetzt hier schnell die richtige Tabelle und die richtige Zeile findet.
+
+(0:10:10 - 0:10:22)
+Und bei der Häufung ist es das Gleiche. Ich habe es orange gemacht. Also jetzt brauchen wir erst mal die Zeile 3. Jetzt kommt sozusagen eine Veränderung, damit man überhaupt sieht, welche Einflüsse das Ganze jetzt hat.
+
+(0:10:22 - 0:10:34)
+Jetzt Achtung 3D Modell Wir schieben jetzt die Kabel zusammen. Also das jetzt sagen wir mal, der Monteur wusste die Vorgabe nicht so ganz genau. Dann hat er plötzlich jetzt eine andere Verlegeart sozusagen gewählt, ohne das natürlich absichtlich zu machen.
+
+(0:10:34 - 0:10:41)
+Also ohne Abstand ist jetzt unterstrichen. Ihr seht die Belastbarkeit bei gleich. Die Temperaturen bleiben ja auch gleich.
+
+(0:10:41 - 0:10:55)
+Aber der Häufungsfaktor, da muss man jetzt einen anderen nehmen und zwar aus Zeile 2 und nicht aus Zeile 3 aus der gleichen Tabelle, aus der gleichen Norm. Jetzt machen wir das Ganze auf einer Kabelrinne. Also wir lagen jetzt irgendwie so an der Wand.
+
+(0:10:55 - 0:11:03)
+Jetzt machen wir das Ganze aber mal mit einer Kabelrinne. Da kommt es ja auch schon rein und zwar in Luft. Jetzt haben wir wieder einen Abstand dazwischen gewählt.
+
+(0:11:03 - 0:11:12)
+Und das wäre jetzt als Beispiel Kabel gehen von der Verteilung hoch aufs Dach. Da ist genau das, was wir hier zeigen. Man eine Kabelrinne und die hat keinen Deckel.
+
+(0:11:12 - 0:11:22)
+Das ist ganz wichtig, dass die keinen Deckel hat. Dann nimmt man die Tabelle 22, also ist direkt neben der 21, aber eben doch nicht die gleiche. Und wie wir gleich sehen werden, kommen dann auch andere Zahlen raus.
+
+(0:11:24 - 0:11:54)
+Jetzt machen wir das Ganze ohne Abstand. Da gehen wir wieder zusammen und dann nimmt man hinten die Zeile 6 anstatt der Zeile 7. Diese Verlegevarianten laufen in der Norm alle unter den Buchstaben E. Also ich weiß das jetzt nicht auswendig, aber wenn man das in seiner Berechnung mit angibt, dann ist es den anderen Projektleitern, Kunden, Gutachtern auch einfacher, die in den Normen wiederzufinden, um nachzuvollziehen, was ihr da gerechnet habt. Und um noch ein anderes Beispiel zu nennen.
+
+(0:11:55 - 0:12:13)
+B2 finden wir ein sehr häufiger Anwendungsfall bei Dachanlagen. Jetzt haben wir die Kabelrinne und da kommt ein Deckel drauf. Das ist für einen erfahrenen Planer von Dachanlagen jetzt ein ganz wichtiger Punkt, weil, wie wir später sehen werden, hat das enormen Einfluss auf die Kabelberechnung.
+
+(0:12:13 - 0:12:23)
+Also nur, weil wir jetzt einen Deckel drauf gemacht haben. Wir haben die Kabel nicht verändert, wir haben die gleichen Kabel genommen, aber wir haben den Deckel drauf gemacht. Ändert sich nämlich jetzt die Belastbarkeit? Wir werden es in den Zahlen gleich sehen.
+
+(0:12:24 - 0:12:35)
+Also kommt jetzt eine andere Tabelle zum Einsatz. Und für die Häufung brauchen wir jetzt auch einen anderen Wert. Und damit man das besser greifen kann, nehmen wir jetzt einfach mal so ein Kabel hier.
+
+(0:12:36 - 0:12:49)
+35 Quadrat aus PVC und setzen jetzt Zahlen ein. 96 Ampere kommt für die Belastbarkeit raus. Und wenn wir eben die Kabelrinne mit einem Deckel machen, kommt faszinierenderweise ein um ein Drittel reduzierter Wert raus.
+
+(0:12:50 - 0:13:02)
+Also jetzt, obwohl das gleiche Kabel drin liegt, kann das schon nur noch 65 Ampere statt 96. Und das, wie gesagt, hat enormen Einfluss auf unsere Berechnung. Also den Punkt finde ich, den kann man mitnehmen und sich merken.
+
+(0:13:02 - 0:13:14)
+Deckel braucht man meist also auf dem Dach, zumindest in jedem Fall. Aber achtet dann darauf, dass ihr hier auch in der Tabelle sozusagen weiter rutscht. So, wir haben jetzt hier mal 40 Grad genommen.
+
+(0:13:14 - 0:13:23)
+Das ist nur ein Beispiel. Dann kommt der Faktor aus den Tabellen raus. Und jetzt kann man hinten die Strombelastbarkeit ausrechnen, indem man das einfach auf multipliziert.
+
+(0:13:24 - 0:13:32)
+Also für das erste Beispiel 0,94 bei zwei Systemen. Dann kommen 79 Ampere raus. Der absolute Wert ist jetzt völlig irrelevant.
+
+(0:13:32 - 0:13:44)
+Es geht darum, dass ich hier jetzt einen niedrigeren Wert kriege, weil ich jetzt den Abstand auf null gesetzt habe. Ihr erinnert euch, links sieht man das. Erst hatte ich einen Abstand, den habe ich zusammengezogen, die Kabel.
+
+(0:13:45 - 0:13:58)
+Und jetzt habe ich weniger Strombelastbarkeit für mein Kabel. Also ich kann das Kabel mit einer niedrigeren Leistung belasten. Wenn ich das Ganze mache mit der Kabelrinne, dann geht es wieder nach oben.
+
+(0:13:58 - 0:14:12)
+Wenn ich da jetzt wieder die Kabel zusammenziehe, geht es natürlich auch wieder nach unten. Und ich gehe einfach einen Schritt zur Seite, dann kann ich auch bleiben. Wenn ich jetzt die Kabelrinne schließe, das hatte ich gesagt, das ist für uns der Orange eigentlich zur Highlight der Wert.
+
+(0:14:12 - 0:14:32)
+Achtung, Achtung, jetzt seht ihr, das hat sich fast halbiert gegenüber dem besten Wert, den 84 Ampere, also fast halbiert. Einfach nur, weil ich einen Deckel auf diese Kabelrinne draufgemacht habe. So, wir haben schon ganz viel erzählt, sage ich mal, und sind aber erst beim AC-Kabel.
+
+(0:14:33 - 0:14:57)
+Und bevor ich zum DC-Kabel komme, muss ich mich hier nochmal konzentrieren oder fokussieren auf diesen F2-Faktor Häufung. Die Frage kommt oft, deswegen nehmen wir es hier mit rein. Also bei diesem Häufungsfaktor, also wie viele Kabel liegen denn da jetzt eigentlich, stößt man häufig an sprichwörtlich Grenzen, weil in der Norm irgendwann die Anzahl der Kabel einfach endet.
+
+(0:14:57 - 0:15:14)
+Wir haben das hier mit Kabelanzahl n tituliert. Also irgendwann geht es halt nicht mehr weiter. Was machen wir dann? Und da sagen wir, gibt es zwei Möglichkeiten, also um diesen Häufungsfaktor auszuwählen, holt man sich erst mal hier dargestellt die tatsächlichen Werte, die man in der Norm findet.
+
+(0:15:14 - 0:15:26)
+Also Nmax heißt, mehr steht nicht drin. Und dann kommt da der F2 bei Nmax raus. So wird das also aussehen, wenn ich meine Normtabelle mal in einen Diagramm überführe.
+
+(0:15:26 - 0:15:37)
+Und jetzt gibt es aus unserer Sicht zwei Varianten. Einmal ich interpoliere. Das ist, glaube ich, der beliebteste Ansatz, weil da aus meiner Erfahrung nach überhaupt keine Diskussionen auftreten.
+
+(0:15:37 - 0:15:49)
+Also so kann man das machen. Nicht linear in unserem Fall, sondern schon der Kurve folgend. Und dann würde man für größere Kabelanzahlen als in der Norm abgebildet werden, auch einen F2-Faktor finden.
+
+(0:15:50 - 0:16:06)
+Die andere Variante, die ich bevorzuge, weil sie halt für uns als Planer vorteilhaft ist, man zieht da mal so ein Limit mit dem Argument, dass das nicht immer weiter ableitbar ist. Also es hat ein Ende, dass sich die Kabel gegenseitig thermisch belasten. Darum geht es hier.
+
+(0:16:07 - 0:16:34)
+Und deswegen kann man sagen, wenn die Norm endet, dann endet aber da jetzt auch mal der Ansatz, die Kabel immer weiter sozusagen schlecht zu rechnen oder die Belastung immer größer zu berechnen. Also das wäre die zweite Variante, dass man sagt, das Maximum ist dann auch mein Maximum und wenn jetzt noch mehr Kabel da liegen, dann nehme ich weiterhin den gleichen F2-Wert an. So, meine DC-Kabel kommen als nächstes dran.
+
+(0:16:35 - 0:16:42)
+Die sind natürlich super photovoltaik spezifisch. Und da sieht man es schon in meinem Modell. Die liegen dann ja auch naturgemäß auf dem Dach.
+
+(0:16:42 - 0:16:49)
+Da haben wir dann einfach ein bisschen anderen. Nein, der Ansatz ist genau der gleiche. Ihr seht auch schon die Tabelle.
+
+(0:16:49 - 0:17:00)
+Die sieht wieder genauso aus wie gerade nur die Normen und Tabellen, aus denen wir die Werte raussuchen. Die sind halt ein bisschen anders. Also erstes Beispiel mehr lagig auf der Wand.
+
+(0:17:00 - 0:17:07)
+Wir zoomen hier mal rein, dann sieht man das besser. Da mache ich jetzt einfach so ein paar String Kabel rein, ein paar DC-String Kabel rein. Da seht ihr es schon.
+
+(0:17:08 - 0:17:16)
+Also zum Beispiel in der Unterkonstruktion, unter dem Modul, unterm Wechselrichter. Das sind so typische Beispiele dafür. Dann nehmen wir jetzt die 0283.
+
+(0:17:16 - 0:17:21)
+Wer aufgepasst hat, das ist jetzt eben eine andere. Das ist eine Photovoltaik spezifische Norm. Die ist wichtig.
+
+(0:17:22 - 0:17:27)
+Tabelle A3. Also um die kommen wir nicht drum rum. Der Temperaturfaktor steht in der A4.
+
+(0:17:27 - 0:17:33)
+Das ist auch eine sehr einfache Geschichte. Und bei der Häufung, da wird es ein bisschen schwieriger. Deswegen steht da auch mehr Text.
+
+(0:17:33 - 0:17:49)
+Da muss man jetzt springen von dem Verweis auf der 0283 in so eine IEC-Norm, die 60364. Die wiederum hat ein, sage ich mal, deutsch abgeleitetes Pendant sozusagen. Und das wäre dann die 0298.
+
+(0:17:49 - 0:17:57)
+Und da haben wir auch die Tabelle und die Zeile hingeschrieben. Also den Schritt zu gehen, finde ich, ist schon nicht mehr ganz so einfach. Wir haben es jetzt hier mal hingeschrieben.
+
+(0:17:57 - 0:18:04)
+Dann kann man das sicher auch mal in Ruhe zu Hause nachvollziehen. Jetzt Achtung, das war mehrlagig. Jetzt machen wir einlagig.
+
+(0:18:04 - 0:18:11)
+Also wer es gesehen hat, hier nochmal. Wir haben so ein paar String Kabel einfach mal rausgeschmissen. Jetzt ist da nur noch eine Lage.
+
+(0:18:11 - 0:18:22)
+Dann nimmt man einfach eine andere Zeile in orange markiert. Der einzige Unterschied, den man hier findet. Was gibt es noch für typische Anwendungsfälle? B1, nicht gelochte Kabelrinne, da haben wir sie schon wieder.
+
+(0:18:22 - 0:18:30)
+Und zwar haben wir sie jetzt gleich mal zugemacht. Also der Deckel ist gleich oben drauf. Da sind die ganzen Kabel, finde ich, typischer Anwendungsfall auf der Dachfläche.
+
+(0:18:31 - 0:18:43)
+Ohne Deckel zeigen wir gar nicht erst, weil das halten wir für grundfalsch, auf einem Dach Kabel frei zu verlegen. Dann sind sie völlig ungeschützt, permanent Sonne und anderen Witterungsbedingungen ausgesetzt. Würden wir nicht machen.
+
+(0:18:43 - 0:19:00)
+Das wird schön gedeckelt. Und dann hat man ja gleich das Problem, also PVC-Lohr Kabelrinne mit Deckel, dass man also da in einen Bereich fällt, der stark reduzierte Werte resultieren wird. Unser Beispiel ist ein Vierquadrat.
+
+(0:19:00 - 0:19:09)
+Wir machen das gleiche wie gerade. Also die Belastbarkeit hat sich schon auf 44 Ampere hier gerade eingestellt. Dann Temperaturfaktor ist eins.
+
+(0:19:09 - 0:19:20)
+Das hatte ich ganz am Anfang auch mal gesagt. Die fängt nämlich bei 60 Grad an, die Norm. Und wenn wir jetzt sagen, na ja, auf ein Dach maximal 60 Grad gehen wir mit, dann haben wir doch schon unseren Faktor 1, da sind wir auf der sicheren Seite.
+
+(0:19:21 - 0:19:33)
+Und jetzt hinten die Häufungswerte, die ändern sich einfach wieder. 0,5, 22 Ampere, 0,7, 31 Ampere und 0,5. Dann haben wir es nochmal 22 Ampere.
+
+(0:19:33 - 0:19:41)
+So würden wir das machen. Und damit haben wir dann erst mal auch unser DC Kabel auf einem Dach ausgelegt.

@@ -1,0 +1,178 @@
+(0:00:00 - 0:00:14)
+Und jetzt kommen wir zu dem Kapitel Spannungswandler. Das ist ähnlich strukturiert, ähnlich aufgebaut oder genauso aufgebaut wie das Kapitel Stromwandler. Und wir starten auch hier mit der Theorie.
+
+(0:00:14 - 0:00:30)
+Und auch hier sind diese Spannungswandler, die wir hier betrachten, sind erst einmal induktive Spannungswandler. Also es gibt auch kapazitive Spannungswandler, die lassen wir aber hier ein Stückchen außen vor. Vielleicht für euch wichtig, die gibt es, aber es geht hier um die induktiven Spannungswandler.
+
+(0:00:30 - 0:00:47)
+Wir haben auch hier einen Eisenkern. Und wir haben jetzt in unserem Beispiel mal eine Primärspannung angenommen von 30 kV. Und diese Primärspannung, die würden wir jetzt hier auf eine Wicklung oder an einer Wicklung anschließen, die um den Eisenkern herum geführt ist.
+
+(0:00:47 - 0:00:57)
+Und wir hätten eine Sekundärwicklung. Zum Beispiel haben wir jetzt mal 0,1 kV angenommen. Das ist eine übliche Sekundärspannung für Spannungswandler.
+
+(0:00:58 - 0:01:19)
+Und die Primärwicklung erzeugt jetzt einen magnetischen Fluss in dem Eisenkern und induziert dann eben eine Spannung auf der Sekundärseite dieses Spannungswandlers. Hier gibt es dann einen Unterschied zu dem Stromwandler, nämlich dieser Spannungswandler. Der will jetzt erstmal die Spannung konstant halten.
+
+(0:01:19 - 0:01:34)
+Und um das zu tun, ist er bereit, einen sehr, sehr großen Strom im Zweifel zu treiben. Das heißt, unsere Spannungsmessgeräte sind erstmal sehr hochohmig, damit da wenig Strom fließt. Wenn man da aber einen Kurzschluss auf der Sekundärseite einbaut, fließt auch tatsächlich ein Kurzschlussstrom.
+
+(0:01:35 - 0:02:01)
+Als Hinweis, behaltet das mal im Kopf, der funktioniert ein bisschen umgekehrt zu dem Stromwandler. Und hier muss man eben auf der Sekundärseite aufpassen, dass man den möglichst mit hohen Widerständen belastet. Das Übersetzungsverhältnis, was wir hier in so einem Spannungswandler haben, entspricht dann eben der Primärspannung zur Sekundärspannung, ist im gleichen Verhältnis wie die Primärwicklung zur Sekundärwicklung.
+
+(0:02:01 - 0:02:12)
+Das kann man sich mal merken, je nachdem, wie viele Wicklungen man hat. So ist dann eben auch das Übersetzungsverhältnis der Spannung. Das Ersatzschaltbild sehen wir hier nochmal.
+
+(0:02:12 - 0:02:27)
+Das ist das Ersatzschaltbild wie von einem Transformator, wie man es so kennt. Und so funktioniert auch dieser Spannungswandler. Nur einfach ist sein Ziel nicht, möglichst viel Leistung zu übertragen, sondern möglichst genau zu übertragen.
+
+(0:02:27 - 0:02:39)
+Jetzt gibt es verschiedene Bauformen, die wir uns anschauen. Wir haben ja nicht so viele wie bei den Stromwandlern ausgewählt. Aber auch hier nochmal vielleicht ein Gedankenanschluss für manche, was es da so gibt.
+
+(0:02:39 - 0:02:55)
+Also Stützer-Spannungswandler oder Block-Spannungswandler gibt es. Die sehen dann den Stützer-Stromwandlern sehr ähnlich. Der wichtige Unterschied ist, die haben oben nur einen Anschluss, wo man dann eben die Primärspannung anschließt.
+
+(0:02:56 - 0:03:11)
+Aber das Gleiche, was sie gemeinsam haben, ist beide. Sowohl der Stützer-Spannungswandler als auch der Stützer-Stromwandler werden in einem luftisolierten Messfeld installiert. Das ist ein bisschen ein Nachteil, dass die natürlich sehr, sehr viel Platz benötigen, diese luftisolierten Messfelder.
+
+(0:03:11 - 0:03:22)
+Aber gehört zu unseren Übergabestationen einfach dazu. Dann gibt es Spannungssensoren. Ist ein bisschen neu, will ich nicht sagen.
+
+(0:03:22 - 0:03:33)
+Aber die genießen immer größere Beliebtheit. Spannungssensoren sind eben relativ einfach nachzurüsten. Hier haben wir mal so einen Satz von drei Spannungssensoren gezeigt.
+
+(0:03:33 - 0:03:48)
+Diese Spannungssensoren, die kann man dann nämlich relativ einfach auf die Endverschlüsse hinten draufstecken. Das heißt, man nimmt den Endverschluss, öffnet ihn hinten, schraubt hinten diesen Stopfen raus, diesen Isolationsstopfen. Dafür kann man dann eben den Spannungssensor reinschrauben.
+
+(0:03:48 - 0:04:18)
+Und dann hat man eine sehr, sehr einfache Möglichkeit, eine Spannungsmessung nachzurüsten. Die Entwicklung geht dann natürlich immer weiter, immer weiter. Was ich bei meinem letzten Projekt festgestellt hatte, war, dass die Genauigkeit dann nicht ganz die Ansprüche erfüllt, wie dieser Stützerspannungswandler, weil da vor allem dann auch noch ein Umsetzer mit dazwischen geschaltet werden muss, sodass man dann, glaube ich, bei 0,5 Klasse am Ende war.
+
+(0:04:18 - 0:04:29)
+Aber das prüft bitte für eure Projekte. Vielleicht ist das ja mal die Lösung, um eine Spannungsmessung kostengünstig nachzurüsten. Dann gibt es noch Kombiwandler, die sind berührungssicher.
+
+(0:04:29 - 0:04:41)
+Auch das ist eine gute Nachrüstmöglichkeit. Diese Kombiwandler, die können erstmal Strom und Spannung messen. Also wir hätten diesen Wandler, diesen Typ auch bei den Stromwandlern zeigen können.
+
+(0:04:41 - 0:04:58)
+Den gibt es aber auch als reinen Spannungswandler. Das wichtige Merkmal ist halt hier, der ist in einem Metallgehäuse und der hat Konusse für den Anschluss von Kabeln. Das heißt, der Vorteil von diesen Spannungswandlern oder Kombiwandlern ist, dass der sehr variabel einsetzbar ist.
+
+(0:04:58 - 0:05:26)
+Ich kenne das dann so, dass die häufig im Doppelboden liegen können und dann muss man eben mit einem Kabel in den Doppelboden und kann dann diesen Wandler anschließen. Man braucht dann kein neues Messfeld. Der Nachrüstaufwand wäre dann relativ gering bzw. 
+
+der Platzbedarf kann da sehr flexibel ermittelt werden. Das waren die Bauformen, mehr haben wir da nicht. Es gibt auch noch mehr, aber das reicht hier an dieser Stelle für unsere Solarparkprojekte.
+
+(0:05:26 - 0:05:35)
+Wir schauen uns jetzt den Aufbau an. Auch hier nehmen wir so einen Spannungswandler her. Das ist dieser Stützer-Stromwandler, so nennt er sich.
+
+(0:05:35 - 0:05:45)
+Wir schneiden den mal durch und jetzt baut er sich auf. Oben ist der Primäranschluss. Das müsst ihr euch so vorstellen, das ist eine Schraube.
+
+(0:05:46 - 0:06:04)
+Von dort gibt es dann in der Regel im Messfeld eine Verbindung zur stromführenden Kupferschiene. Im Grunde greift er die Spannung ab, aber es fließt dort kein Strom oder ein sehr geringer Strom maximal. Es ist im Grunde genommen nur ein Spannungsabgriff.
+
+(0:06:05 - 0:06:25)
+Dadurch erhält man dann im Eisenkern einen magnetischen Fluss, weil die Spannung über die Primärwicklung um diesen Eisenkern geführt ist. Unter der Primärwicklung befindet sich dann die Sekundärwicklung, in die dann wiederum eine Spannung induziert wird. Diese Spannung können wir dann an den Sekundärklemmen des Wandlers abgreifen.
+
+(0:06:25 - 0:06:38)
+Vorhin hatten wir 30 kV, das kann auch ein 20 kV Wandler sein, zu 100 Volt. Dann hätten wir an den Sekundärklemmen zum Beispiel 100 Volt. Dann gibt es noch die Bodenplatte.
+
+(0:06:38 - 0:06:55)
+Damit wird er im Messfeld befestigt, verschraubt. Diese Bodenplatte dient auch meistens gleichzeitig der Erdung. Wenn man jetzt diese Schrauben tiefer in die Sekundärklemmen reinschraubt, dann ist häufig gleich schon der Stromwandlerkern mitgeerdet.
+
+(0:06:56 - 0:07:16)
+Außenrum, wie beim Stromwandler auch, gibt es dann das Vergussharz, das dient der Isolierung und Fixierung, Stabilität dieses Konstrukts. Jetzt kommen die Kennwerte. Welche Kennwerte gibt es beim Spannungswandler? Es gibt primäre Bemessungsspannung.
+
+(0:07:17 - 0:07:32)
+Diese primäre Bemessungsspannung wird oben am Spannungswandler angeschlossen. Die ist erstmal abhängig von der Netzspannung. Die wählen wir nicht frei aus, sondern wir gucken in das Netz, in die Vorgabe des Netzbetreibers, in den E9-Bogen oder E7-Bogen.
+
+(0:07:33 - 0:07:44)
+Da steht dann eine Spannung drin. Danach wird dieser Spannungswandler dimensioniert. Beispielsweise 20.000 zu Wurzel 3. Das ist dann die primäre Spannung.
+
+(0:07:44 - 0:07:54)
+Wichtig, das wird immer so angegeben. Leiter-Leiter-Spannung 20.000 geteilt durch Wurzel 3 ist dann die Leiter-Erd-Spannung. Darauf müsst ihr achten.
+
+(0:07:54 - 0:08:18)
+Seid dann nicht verunsichert, wenn ihr dann Wurzel 3 seht. Das ist ganz normal. Die sekundäre Spannung, die wir dann an den Sekundär-Klemmen des Wandlers abgreifen können, an den AN-Klemmstellen, so nennen die sich in der Regel, das ist dann 100 zu Wurzel 3. Wir hatten 20.000 durch Wurzel 3 zu 100 durch Wurzel 3. Umgangssprachlich sagen wir dann immer 20.000 zu 100.
+
+(0:08:19 - 0:08:25)
+Das Wurzel 3 kürzen wir uns im Kopf sofort raus. Das nehmen wir gar nicht mit. Umgangssprachlich sagen wir 20.000 zu 100.
+
+(0:08:26 - 0:08:39)
+In der tatsächlichen technischen Bezeichnung steht dann immer Wurzel 3 noch mit drin. Zusätzlich gibt es bei den Spannungswandlern meistens einen weiteren Kern. Das ist dann die DA-DN-Wicklung.
+
+(0:08:39 - 0:08:50)
+Da müsst ihr aufpassen. Das ist dann meistens nicht für Messzwecke geeignet, sondern rein für Schutzzwecke. Das ist dann nicht durch Wurzel 3, sondern durch 3. Das ist kein Tippfehler, sondern tatsächlich so.
+
+(0:08:51 - 0:09:05)
+Der hat ein anderes Übersetzungsverhältnis. Jetzt kommt die Bemessungsübersetzung. Die setzt sich dann wie bei dem Stromwandler auch aus der Primärspannung zu der Sekundärspannung zusammen.
+
+(0:09:06 - 0:09:21)
+Dieses Wurzel 3 würde sich rauskürzen und so ein 20.000 zu 100 hätte ein Übersetzungsverhältnis von 200. Die Bemessungsleistung kommt jetzt. Hier ist es andersherum als bei den Stromwandlern.
+
+(0:09:21 - 0:09:42)
+Wir haben hier eine konstante Spannung und die will der Spannungswandler aufrechterhalten. Wenn wir jetzt den Widerstand, die angeschlossenen Betriebsmittel, zu klein wählen, dann treibt er im Zweifel einen sehr hohen Strom durch. Das heißt, wenn wir einen Fehler drin haben, einen Kurzschluss, dann will er einen unendlichen Strom treiben.
+
+(0:09:42 - 0:09:53)
+Das kann er natürlich nicht. Irgendwann wird er da einen Schaden nehmen. Deshalb müssen wir die Sekundärleitungen des Spannungswandlers absichern, damit das eben ausgeschlossen ist.
+
+(0:09:53 - 0:10:09)
+Die Bemessungsleistung ist dann natürlich abhängig von der Verbraucherbürde, d.h. von den Geräten, die ich dort anschließe. Bei Spannungswandlern schließe ich auch gerne mal zwei Geräte an, z.B. ein Schutzgerät und ein Netzanalysegerät. Dann sind die Kabel auch länger.
+
+(0:10:09 - 0:10:23)
+Das heißt, die Bürde, die dort angeschlossen werden muss, bestimmt dann die Bemessungsbürde des Wandlers. Auch hier geben wir es in VA an. Jetzt schauen wir uns an, welche Bemessungsspannungsfaktoren es noch gibt.
+
+(0:10:24 - 0:10:50)
+Und zwar ist das hier wichtig bei verschiedenen Arten von Sternpunktbehandlung. Wenn wir in isolierten oder kompensierten Netzen unterwegs sind, dann ist es möglich, dass die Spannung im Erdfehler, die Leitererdspannung mal das Wurzeldreifache beträgt, also 1,73-fache. Deshalb müssen diese Wandler hier unter Umständen für eine deutlich höhere Spannung für eine gewisse Zeit dimensioniert sein.
+
+(0:10:53 - 0:11:01)
+Jetzt kommen wir noch zu den Genauigkeiten. Und zwar haben wir hier auch eine Unterteilung der Spannungswandler. Einmal in Messwandler.
+
+(0:11:02 - 0:11:17)
+Da gibt es Genauigklassen von 0,1 bis 3. Oben ist die genaueste Klasse. Die haben dann erst mal eine Spannungsmessabweichung. Die Amplitude wird dann erst mal mit 0,1 % sauber übertragen.
+
+(0:11:17 - 0:11:38)
+Beziehungsweise mit 3 % bei der Klasse 3 etwas unsauberer. Dann gibt es zusätzlich noch einen Winkelfehler. Das heißt, der Wandler muss auch gewährleisten, dass der Primärstrom möglichst phasengetreu zur Sekundärspannung übertragen wird.
+
+(0:11:38 - 0:12:00)
+Also die Primärspannung phasengetreu zur Sekundärspannung. Der Messbereich für die Messwandler, die wir hier sehen, ist dann 80 bis 120 %. Wir reden hier von den Messwandlern. In unserem deutschen Netz oder europäischen Netz ist es so, dass die Spannung des Netzes in der Regel 100 % plus minus 5 % beträgt.
+
+(0:12:00 - 0:12:13)
+Das ist dann zu 99 % des Jahres. Deshalb müssen wir genau in diesem Bereich messen. Bei 20 % der Netzspannung oder 150 % sind diese Wandler erst mal nicht spezifiziert.
+
+(0:12:13 - 0:12:22)
+Die können das sicherlich immer noch übertragen. Aber es ist laut Norm erst mal nicht gefordert von diesen Wandlern. Dafür gibt es dann wiederum die Schutzwandlerklasse.
+
+(0:12:23 - 0:12:31)
+Die hat dann diese Bezeichnung 3P und 6P. Aus unseren Solarprojekten kenne ich dieses 3P. Das wird häufig für die Zertifizierung gefordert.
+
+(0:12:32 - 0:12:50)
+Die haben erst mal eine deutlich höhere Messabweichung. Also 3 % in der Amplitude und beispielsweise 3,5 % bei dem 3P-Kern im Winkel. Was die dann aber unterscheidet zu den Messwandlerkernen ist eben der Messbereich.
+
+(0:12:50 - 0:13:07)
+Und zwar steht da 5 bis 100 % multipliziert mit dem Spannungsfaktor. Der Spannungsfaktor, den wir vorher hatten, kann zum Beispiel 1,9 betragen. Das heißt, der kann dann bis 190 % übertragen und startet schon bei 5 % mit der Genauigkeit, die wir hier sehen.
+
+(0:13:08 - 0:13:26)
+Auch wenn diese Genauigkeit, die wir hier sehen, von 3P erst mal deutlich schlechter ist als zum Beispiel die Genauigkeit von 0,2 aus dem Messbereich. Aber der Bereich ist einfach weiter spezifiziert. Also wir müssen einfach in größeren Bereichen übertragen können, auch wenn es am Ende nicht so genau ist.
+
+(0:13:28 - 0:13:44)
+Das alles gilt natürlich bei der Bemessungsfrequenz von 50 Hz. Und wichtig auch hier, die Bürde, die wir anschließen an die Wandler, die muss mindestens 25 % der Bemessungsbürde entsprechen. Dann gelten diese Werte.
+
+(0:13:44 - 0:14:08)
+Wenn ihr unter 25 % seid oder über 100 %, kann das natürlich sein, dass euer Wandler das noch kann und noch erfüllt, aber erst mal ist das nicht mehr gefordert, nicht mehr spezifiziert nach Norm. So, das waren die Kennwerte. Und jetzt gehen wir auch hier nochmal schnell das Typenschild durch, zeigen euch, wo diese Kennwerte aufgeschrieben sind.
+
+(0:14:08 - 0:14:19)
+So sieht das Typenschild aus von so einem klassischen Spannungswandler. Wir haben erstmal eine primäre Bemessungsspannung, die seht ihr hier oben. Das ist ein umschaltbarer Wandler von 15.000 Volt auf 20.
+
+(0:14:19 - 0:14:37)
+Das gibt es, wenn manchmal in den Stromnetzen eine Spannungsumschaltung vorgesehen wird, dann kann man das so vorsehen. Also dann wird das Netz mit 15 kV noch betrieben und in der Zukunft wollen die mal auf 20 umschalten, dann kann man das so bestellen. Dann gibt es noch die sekundäre Bemessungsspannung.
+
+(0:14:38 - 0:14:51)
+Das seht ihr hier. Und auch hier seht ihr diese Messkerne und ihr seht den Schutzkern unten, der eben nicht Wurzel 3, sondern nur durch 3 übersetzt. Dann gibt es die Bemessungsleistung.
+
+(0:14:52 - 0:15:19)
+Auch hier 10 bis 15 Va, je nachdem auf welche Primärspannung der Wandler gestuft ist, habt ihr da etwas mehr oder weniger Leistung zur Verfügung. Und dann gibt es hier eine Genauigkeitsklasse und dieser Kern, der erste und der zweite, die erfüllen sowohl die Genauigkeit der Messkerne, also 0,2, als auch diese 3p für den Schutzkern. Das heißt, er kann sowohl sehr genau messen als auch über einen sehr großen Messbereich messen.
+
+(0:15:20 - 0:15:39)
+Das heißt, das ist erstmal ein Wandlerkern, den wir so für die Messung und für den Schutz verwenden können. Dann gibt es den Bemessungsspannungsfaktor, sehen wir da unten, 1,9 mal unenn für 8 Stunden. Das liegt daran, dass meistens Erdfehler 8 Stunden betrieben werden in so einem EVU-Netz und deshalb muss der Wandler das auch für 8 Stunden können.
+
+(0:15:40 - 0:15:45)
+Und auch hier sehen wir noch, dass 2 der 3 Messkerne geeicht sind.

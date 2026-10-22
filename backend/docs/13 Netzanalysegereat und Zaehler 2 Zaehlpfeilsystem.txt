@@ -1,0 +1,98 @@
+(0:00:00 - 0:00:25)
+Nächste Kapitel, Zellpfeilsystem. Also das sind jetzt so fünf, sechs Minuten Theorie, die man gehört haben muss, damit man besser einordnen kann, woher eigentlich die physikalische Logik sozusagen kommt. Ich fange einfach mal an und frage mich, warum braucht man ein Zellpfeilsystem? Und da ist es nun erst mal so, dass es sowohl Wirk als auch Blindleistung gibt.
+
+(0:00:25 - 0:00:37)
+Aber ganz wichtig dabei für heute ist, dass sie sowohl positiv als auch negativ sein kann. Wo ist das wichtig? Im Grunde haben wir es gerade schon gesagt. Einmal beim Zähler des Netzbetreibers.
+
+(0:00:37 - 0:01:03)
+Ich hatte es ja schon gesagt, da ist natürlich essentiell, ob der Zähler jetzt als Bezug oder als Einspeisung definierte Energie mitschreibt. Beim Parkregler ist es aber genau das Gleiche, weil der im Zweifel sonst sozusagen destabilisierend wirkt, als er viel mehr stabilisierend werden soll. Und beim Schutzrelais ist es auch so, es gibt Schutzfunktionen, die sind abhängig von der Richtung der Wirk- oder der Blindleistung.
+
+(0:01:03 - 0:01:27)
+Und wenn die das falsch herum detektieren, lösen sie vermeintlich zu früh aus oder gar nicht. Und wie geht das? Also wie kann ich jetzt dafür sorgen, dass alle Beteiligten wissen, dass die Richtung korrekt definiert ist? Und das macht man über sogenannte Zellpfeilsysteme. Da gibt es dann zwei Stück und einmal das Verbraucher Zellpfeilsystem und einmal das Erzeuger Zellpfeilsystem.
+
+(0:01:27 - 0:01:47)
+Das kann man sich jetzt bitte, bitte schon mal merken, dass es diese zwei sind, Verbraucher und Erzeuger Zellpfeilsystem. Und wir schauen uns jetzt erst mal das Verbraucher Zellpfeilsystem an. Das ist auch das, in dem wir hier, ich sag mal, denken, weil das kommt aus der Historie, so von den Netzbetreibern übertragen.
+
+(0:01:47 - 0:02:17)
+Die denken auch im Verbraucher Zellpfeilsystem, weil ja nun mal die überwiegende Zeit unserer Elektrizitätsgeschichte der Kunde ein Verbraucher war und ja meistens auch immer noch ist und der Netzbetreiber selbst sozusagen also gegenüber dem Verbraucher verpflichtend ist. Also gucken wir uns das mal an, wie er sich das dann so denkt. Wir haben einmal das Netz und dann haben wir auf der anderen Seite jetzt ein Kraftwerk, also einen Erzeuger.
+
+(0:02:18 - 0:02:23)
+Und jetzt kommt da unser Auge, also die Blickrichtung. Das ist ganz wichtig. Die drehen wir nämlich später.
+
+(0:02:23 - 0:02:39)
+Aber wir machen es jetzt erst mal so, dass wir aus Sicht des Netzes zum Kraftwerk hinschauen. Und das ist dann unser Verbraucher Zellpfeilsystem in Definition. Wie macht man das? Man braucht eine X- und eine Y-Achse und ich nehme es gleich schon vorweg.
+
+(0:02:40 - 0:02:47)
+Ich habe jetzt hier noch keine Achsen beschriftet. Das mache ich gleich noch. Das mache ich, während ich meine Beispiele durchlaufen lasse.
+
+(0:02:47 - 0:02:55)
+Also erst mal in der X-Achse hier dargestellt. Auf der rechten Seite ist Verbrauch definiert. Auf der linken Seite ist Einspeisung definiert.
+
+(0:02:55 - 0:03:05)
+Und jetzt geht's. Jetzt geht's los. Jetzt tun wir mal so mit unserem orangenen Pfeil, als würde das Netz Wirkenergie zum Kraftwerk hinschieben.
+
+(0:03:06 - 0:03:13)
+Dann habe ich das hier orange markiert. Dann wären wir jetzt im ersten oder im vierten Quadranten. Warum eins und vier kommt gleich noch.
+
+(0:03:13 - 0:03:23)
+Jetzt fangen wir erst mal an. Wir sind sozusagen auf der X-Achse in die positive Seite gerutscht. Die Wirkleistung wird positiv definiert.
+
+(0:03:23 - 0:03:39)
+Also aus Sicht des Netzbetreibers hat man jetzt positive Energie erzeugt, wenn man so will. Also im Fachjagdgebrauch des Netzbetreibers genannt. Der Anschlussnehmer verbraucht jetzt gerade Energie.
+
+(0:03:39 - 0:03:54)
+So würde er sie positiv definieren. Wenn wir mal das Gegenbeispiel nehmen, das wäre dann einfach jetzt umgedreht mein Pfeil. Dann sind wir im zweiten und im dritten Quadranten.
+
+(0:03:54 - 0:04:09)
+Da ist jetzt aus Sicht des Verbraucherzellpfeilsystems die Wirkenergie negativ. Auch wenn man sieht es ja am Pfeil sehr gut, auch wenn jetzt ja unsere Solaranlage gerade Energie ins Netz einspeist. Also das ist vielleicht ja schon der entscheidende Punkt.
+
+(0:04:09 - 0:04:39)
+Wenn man am Zähler oder am Netzanalysegerät eine negative Wirkleistung sieht, obwohl die Anlage im Betrieb ist, Energie einspeist, muss das jetzt erst mal nichts Schlechtes sein, sondern wenn man sich dann überlegt, dass man ja im Verbraucherzellpfeilsystem unterwegs ist, ist das eben genau richtig. Also eine einspeisende Photovoltaikanlage im Verbraucherzellpfeilsystem würde eine negative Wirkleistung erzeugen. Da war mal erst mal nur der erste Schritt, weil jetzt im zweiten Schritt kommt ja die berühmte Blindleistung noch mit dazu.
+
+(0:04:39 - 0:04:54)
+Jetzt kommen also hier meine Y-Achse, Spannungs absenken, Spannungs anhebend. Und dann nehme ich hier unten mal die Spule als Symbol mit rein. Und das würde man jetzt definieren als positive Blindleistung im Verbraucherzellpfeilsystem.
+
+(0:04:55 - 0:05:16)
+Viel einfacher, finde ich, im Sprachgebrauch, wäre das Spannungs absenkend zu benutzen, weil das im Grunde die Konsequenz aus dieser Blindleistung ist. Und das ist ja auch das Ziel oder die Anwendungsmöglichkeit dann von so einer Anlagensteuerung im Blindleistungsbereich. Also wir sollen Spannungs absenkend wirken für das Netz.
+
+(0:05:17 - 0:05:40)
+Dann würde der Netzbetreiber im Verbraucherzellpfeil definiert eine positive Blindleistung anfordern. Das wäre dann also der erste und zweite Quadrant. Das Ganze wirkt untererregt und man könnte noch als dritte Darstellungsform das Ganze als induktive Blindleistungsabgabe definieren.
+
+(0:05:40 - 0:05:53)
+Das sind drei verschiedene Worte, die ich da verwende. Einmal Spannungs absenkend, einmal untererregt und einmal induktive Blindleistungsabgabe. Das ist recht komplex, sehen ich jedenfalls so.
+
+(0:05:53 - 0:06:05)
+Ich würde es trotzdem mir genauso aufschreiben und merken, im Verbraucherzellpfeilsystem gelten jetzt diese Begrifflichkeiten. Jetzt machen wir ein Gegenbeispiel. Wir sollen Spannungs anhebend wirken.
+
+(0:06:05 - 0:06:24)
+Das ist dann, als wären wir eine Kapazität und dann sind wir im dritten und vierten Quadranten. Wir wirken übererregt und das Ganze ist definiert als eine kapazitive Blindleistungsabgabe. So, jetzt machen wir die Kombination aus ersten und zweiten.
+
+(0:06:24 - 0:06:40)
+Man sieht also zwei Pfeile, orange und grün. Beide Pfeile nach unten bedeutet, wir haben jetzt einen Wirkleistungsverbrauch. Die Wirkleistung ist größer null und gleichzeitig dienen wir Spannungs absenkend.
+
+(0:06:40 - 0:06:48)
+Dann kommt da so ein Vieh mit rein, den kennen die meisten bestimmt. Machen wir in einem anderen Brain, der ist noch mal viel genauer. Also der Kusinusvieh, der wäre jetzt induktiv.
+
+(0:06:48 - 0:06:58)
+Und so würden wir da uns im Zellpfeilsystem befinden. Zweites Beispiel. Der Pfeil vom Kraftwerk hat sich gedreht, der Wirkleistungspfeil.
+
+(0:06:58 - 0:07:08)
+Jetzt sind wir einspeisend, aber immer noch Spannungs absenkend. Jetzt könnte der Netzbetreiber mal sagen, ich brauche aber doch wieder die andere Richtung. Spannungs anhebend bitte wirken.
+
+(0:07:08 - 0:07:23)
+Gleichzeitig speisen wir aber immer noch Wirkenergie ein. Dann sind wir im dritten Quadranten und der Form halber gehen wir auch noch in den vierten Quadranten. Da wäre dann unser Kusinusvieh da unten angesiedelt.
+
+(0:07:23 - 0:07:38)
+Und damit sind wir einmal durch das ganze Zellpfeilsystem durchgelaufen. Das war das Verbraucher Zellpfeilsystem. Und um das Ganze zu komplizieren, sage ich das jetzt in der Logik nochmal im Erzeuger Pfeilsystem, aber deutlich abgekürzt.
+
+(0:07:38 - 0:07:50)
+Keine Sorge, deutlich abgekürzt. Es geht jetzt nur darum, was ändert sich im Erzeuger Pfeilsystem? Das versuchen wir jetzt mal so darzustellen. Achtung, mein Blickwinkel verändert sich.
+
+(0:07:50 - 0:08:01)
+Der geht jetzt nämlich vom Netz runter zum Kraftwerk. Ich gucke sozusagen in die andere Richtung, wenn man so will. Und was dann mit meinen X und Y Achsen passiert, ist Folgendes.
+
+(0:08:01 - 0:08:17)
+Auf der X Achse tauschen sozusagen die Seiten P größer 0 und P kleiner 0. Achtung, Einspeisung und Verbrauch bleiben gleich. Es hat sich sozusagen das Vorzeichen gedreht, auf das ich achten muss. Und bei der Y Achse ist es das gleiche Spiel.
+
+(0:08:18 - 0:08:32)
+Spannungs absenken bleibt in der Logik oben. Aber dann brauche ich negative Blindleistungswerte. Also ich habe X und Y Achse in meiner Logik komplett gedreht, weil ich jetzt im Erzeuger Pfeilsystem unterwegs bin und nicht mehr im Verbraucher Zellpfeilsystem.

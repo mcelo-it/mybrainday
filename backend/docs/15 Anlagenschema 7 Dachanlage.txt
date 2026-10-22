@@ -1,0 +1,44 @@
+(0:00:00 - 0:00:20)
+So, jetzt kommen wir zum nächsten Kapitel, Dachanlage. Wir wollten euch im Grunde hier einfach nur noch mal zeigen, welche Unterschiede relevant sind zwischen einer Freiflächenanlage und einer Dachanlage. Die Komponenten, die man so sieht in der Mittelspannung und in der Niederspannung, die Schaltbilder, die sind im Wesentlichen gleich.
+
+(0:00:21 - 0:00:43)
+Also wer einen Stromlaufplan lesen kann von einer Freiflächenanlage, da wird das auch verstehen für eine Dachanlage. Da gibt es keine wesentlichen Unterschiede. Wesentliche Unterschiede aus unserer Sicht gibt es dann aber schon, wenn man sich beispielsweise das Schutzrelais mal anschaut beziehungsweise wenn man überlegt, welche Themen man hat, wenn man in einem Bestand jetzt erst mal eine Anlage errichtet.
+
+(0:00:44 - 0:00:52)
+Wir nennen das hier mal Problematik Bestand. Es gibt hier eine Schaltanlage, die ist dort vorhanden. Die hat jetzt vielleicht noch keine Motorantriebe.
+
+(0:00:52 - 0:01:21)
+Die hat vielleicht noch keine kapazitiven Spannungsanzeiger. Und wenn man jetzt anfängt, dort eine Photovoltaikanlage zu errichten, dann wird es oft gefordert vom Netzbetreiber, dass man diese Punkte eben nachrüstet. Das kann dann schnell dazu führen, dass man eben diese Schaltanlage, diese Mittelspannungsschaltanlage gar nicht mehr verwenden kann beziehungsweise die Umbaumaßnahmen so umfangreich sind, dass das nicht sinnvoll ist, diese Anlage zu erweitern.
+
+(0:01:22 - 0:01:39)
+Außerdem gibt es dann natürlich schon Strom- und Spannungswandler in den Bestandsanlagen. Allerdings erfüllen die oft nicht den Anforderungen. Und die Schutzrelais, die dort vorhanden sind, die erfüllen meistens auch nicht die Funktion NA-Schutz und QU-Schutz.
+
+(0:01:39 - 0:02:58)
+Das sind dann Themen, die man wirklich abprüfen muss im Detail und sich dann überlegen muss, wie man diese Anlage dann am Netzanschlusspunkt zunächst erst mal fit macht für den Anschluss einer PV-Anlage. Also Schutzrelais tauschen, Strom- und Spannungswandler austauschen, prüfen, ob die Schaltanlage, die verbaut ist, den aktuellen TABs, den aktuellen Anforderungen entspricht und dann mit einem Lieferanten für Schaltanlagen, für Stationen mit dem Netzbetreiber wirklich abstimmen, was man jetzt anpassen muss, was man optimieren muss beziehungsweise auf welche Komponenten der Netzbetreiber hier im Einzelfall vielleicht verzichten will. Hat man das dann umgesetzt, hat man es hingekriegt, dann NA-Schutz zum Beispiel in der Mittelspannung zu installieren, dann hat man oft zusätzlich das Thema, dass dieser NA-Schutz, der ja jetzt Spannung, Frequenz und auch den Kurzschlussstrom überwacht, bei einem Spannungs- und Frequenzproblem des Netzes natürlich nicht die Produktion des angeschlossenen Gebäudes abschalten soll, sondern Spannungs- und Frequenzschutz sind ausschließlich dafür gedacht, die Erzeuger abzuschalten, also die PV-Anlage.
+
+(0:02:59 - 0:03:25)
+Und deshalb würde man jetzt in so einem Schutzrelais, wenn man diese Funktion kombiniert in einem Multifunktionsrelais, den Kurzschlussschutz weiterhin auf den Übergabe-Leistungsschalter führen und den NA-Schutz, so nenne ich es mal, auf den Niederspannungs-PV-Schrank. Und der ist dann häufig oder regelmäßig in weiter Ferne zu dem Netzanschlusspunkt. Da muss man dann gerne mal 100, 200, 300 Meter überbrücken.
+
+(0:03:26 - 0:03:40)
+Und das ist dann häufig ein großes Problem für die oder in der Umsetzung. Da muss man sich was überlegen. Wie kriege ich Leitungen verlegt zwischen Netzanschlusspunkt und PV-Schrank? Hier sehen wir dann mal so eine Verbindung.
+
+(0:03:40 - 0:03:55)
+Die Länge ist nicht dargestellt. Das ist dann natürlich projektspezifisch, kann aber durchaus mehrere 100 Meter betragen. Der PV-Schrank, den man dann bei diesen Anlagen hat, der würde so aussehen.
+
+(0:03:56 - 0:04:01)
+Ganz grob kann auch natürlich anders aussehen. Hier ist es ein Beispiel. Da ist er so gedacht.
+
+(0:04:02 - 0:04:35)
+Und zusätzlich zu dem Schutz hat man dann natürlich auch noch die Problematik, dass der Datenlogger eine Verbindung zum Parkregler benötigt. Der Parkregler eben auch eine Verbindung zum Netzanschlusspunkt, weil er ja dort die Regelwerte empfängt, die Werte, die Strom- und Spannungswerte vom Netzanschlusspunkt. Und eben auch nicht nur wegen der Schutzthematik, sondern auch wegen der Parkregelung muss man sich irgendwie überlegen, wie man eine Kommunikationsstrecke aufbaut zwischen PV-Schrank und Netzanschlusspunkt.
+
+(0:04:36 - 0:04:55)
+Hier in dem PV-Schrank sieht man, dass wir einen redundanten Niederspannungsleistungsschalter haben. Und das ist eine Forderung aus der 4110. Der Hintergrund ist, dass man diese beiden Schutzfunktionen, den übergeordneten NA-Schutz und den zwischengelagerten NA-Schutz auf zwei verschiedene Schaltgeräte führen muss.
+
+(0:04:55 - 0:05:21)
+Und das hat dann eben zur Folge, dass der erste, der obere Leistungsschalter für den übergeordneten NA-Schutz meistens verwendet wird. Und der untere, hier ist es als Lasttrenner dargestellt, für den zwischengelagerten NA-Schutz ist als Lasttrenner auch völlig in Ordnung, weil wir ja nur Spannungs- und Frequenzfehler abschalten, keine Kurzschlüsse. Aber das ist eben der Grund für diese Redundanz, die wir da sehen.
+
+(0:05:22 - 0:05:38)
+Und dann muss man das im Grunde so umsetzen. Es sei denn, der Netzbetreiber ist da kompromissbereit. Das waren aus unserer Sicht auch die wesentlichen Unterschiede im Anlagenschema zwischen diesen beiden Anlagentopologien.
+
+(0:05:39 - 0:05:46)
+Und weitere Details zu Dachanlagen gibt es dann in einem weiteren Brand Day. Vielen Dank für eure Teilnahme.

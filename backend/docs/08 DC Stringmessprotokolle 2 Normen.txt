@@ -1,0 +1,125 @@
+(0:00:00 - 0:00:13)
+Weiter mit dem Kapitel Normen. Ist diesmal keine trockene Angelegenheit, weil relativ zügig und sehr, sehr konkret auf unseren Anwendungsfall bezogen. Die IEC 62446-1.
+
+(0:00:13 - 0:00:20)
+Das ist sie. Kann man sich aufschreiben, merken, wie auch immer hier immer wieder nachschlagen. Die heißt sogar genauso wie unser Thema heute.
+
+(0:00:21 - 0:00:31)
+Also Photovoltaik Systeme Anforderungen an Prüfung. So wunderbar. Und wenn man sich das anguckt, das sind auch nur fünf, sechs Seiten, dann steht da genau drin, was wir also heute machen sollen.
+
+(0:00:32 - 0:00:41)
+Oder dann auch am Ende des Projektes und vor der Inbetriebnahme, nämlich Inbetriebnahme Prüfungen steht im Teil 1 drin. Es gibt noch einen zweiten Teil. Das haben wir nur der Form halber hier reingenommen.
+
+(0:00:41 - 0:00:45)
+Da schauen wir uns heute nicht an. Graue ich gleich mal aus. Da geht es um Standhaltung.
+
+(0:00:45 - 0:00:54)
+Wir machen das jetzt erst mal die Prüfung in Teil 1. Habe ich mir rüber geschrieben als Deckblatt. So sieht die Norm aus. Und jetzt gucken wir mal ins Kapitel 4 rein.
+
+(0:00:54 - 0:01:07)
+Das Kapitel 4 heißt Dokumentation. Und da steht jetzt erst mal ganz allgemein drin, dass man gewisse Angaben und Dokumente zu liefern hat. Zum Beispiel grundlegende Systemtaten.
+
+(0:01:07 - 0:01:18)
+Okay, geht es heute nicht drum. Und einmal genau. Mein Systementwickler Schaltpläne und Datenblätter müssen da rein.
+
+(0:01:19 - 0:01:27)
+Angaben zur Unterkonstruktion müssen da rein. Betriebs- und Wartungsangaben. Und da bin ich relativ zügig durchgegangen, weil es darum heute nicht geht, sondern um das Grüne geht es heute.
+
+(0:01:27 - 0:01:51)
+Da müssen Prüfergebnisse rein. Also diese Norm sagt schon ganz klar, überlegt euch nicht selber, wie ihr diese Dokumentation später aufbaut, sondern ich sage euch ganz konkret, dass die Prüfergebnisse dann auch in die Dokumentation rein müssen, damit der Kunde oder der, der später die Wartung übernimmt, auch genau weiß, was er denn da übernimmt. Kernkapitel 5. Die Prüfung selbst.
+
+(0:01:52 - 0:02:01)
+Ich habe es mir so als Rand-Bulletpoint mit reingenommen. Verweist auf die 0 100 600. Sehen wir tatsächlich im Brain Day AC-Messprotokolle dann noch viel genauer.
+
+(0:02:01 - 0:02:09)
+Das ist, wenn man so will, 0 100 weist schon immer darauf hin. So eine richtige Basisnorm. Und der Teil 6, da geht es um Errichten von Niederspannungsanlagen.
+
+(0:02:10 - 0:02:21)
+Konkret um Prüfungen. Also da werden ganz konkret Prüfungen beschrieben. Deswegen sagt diese IEC 62446 nur so ein bisschen zusätzliche Informationen zu Photovoltaik-Prüfungen.
+
+(0:02:22 - 0:02:39)
+Und zwar also nicht eben die Solarnorm ausschließlich, sondern allgemein die Normen sagen Erst- und Wiederholprüfungen sind Pflicht. Habe ich grün markiert? Ich hätte auch Elektrofachkraft grün machen können und Erst- und Wiederholprüfungen grün machen. Also das ist, finde ich, für mich ein ganz, ganz wichtiger Punkt.
+
+(0:02:39 - 0:02:47)
+Wir denken uns das nicht aus. Das denkt sich auch kein Kunde aus, sondern das geben uns die Normen so vor. Eine Elektrofachkraft, die weiß, was sie da tut.
+
+(0:02:47 - 0:02:57)
+Weil wenn man falsch misst, bringt einem ja auch die Bewertung nichts. Muss verpflichtend das System messen. Zwei Teile unterscheidet die Norm da.
+
+(0:02:57 - 0:03:07)
+Der erste, sage ich gleich, ist für uns heute nicht so wichtig. Ich sage Ihnen trotzdem einmal kurz, die Elektrofachkraft muss sich also das System auch angucken. Und dann jetzt konkret Photovoltaik sagen.
+
+(0:03:08 - 0:03:15)
+Also DC-Seite, elektrischer Schlag. Passt, ist richtig ausgeführt. Gegen Isolationsfehler ist das geschützt aufgebaut.
+
+(0:03:15 - 0:03:26)
+Gegen Überstrom, also Sicherungen zum Beispiel, sind verbaut. Potentialausgleich, Riesen-Brain-Day ist richtig angebracht. Blitzspannung und Überspannung sind beachtet.
+
+(0:03:27 - 0:03:36)
+Die richtigen Betriebsmittel sind ausgelählt und eine Beschriftung ist vorhanden. Achtung, ich mache das sofort wieder weg, weil das ist heute nicht unser Kern. Ich wollte es nur mal gesagt haben.
+
+(0:03:36 - 0:03:48)
+In der Norm steht schon auch drin, dass die Elektrofachkraft sich das ganz genau angucken muss. Sie hängt damit drin. Nicht nur der Planer alleine ist verantwortlich, sondern auch der Prüfer muss sich angucken, was genau er da prüft.
+
+(0:03:49 - 0:04:01)
+Gut, jetzt aber endlich wieder ein bisschen grün gehighlighted. Eigentlich soll er ja heute erproben, nennt die Norm das. Im zweiten Teil steht das so drin und da steht jetzt drin, welche Prüfschritte er machen soll.
+
+(0:04:02 - 0:04:25)
+Es gibt verschiedene Kategorien, die ich gleich noch mal ganz kurz zeige. Und es gibt zusätzliche Prüfungen, auf die wir heute aber auch nicht eingehen, sondern auf die Kategorie 1. Und jetzt sind wir wirklich, jetzt sind wir unmittelbar davor zu sehen, was wir heute machen sollen. Als Mindestanforderungen für alle Systeme, damit meinen die zum Beispiel alle Strings, ist Folgendes vorgegeben.
+
+(0:04:25 - 0:04:39)
+Eine Durchgangsprüfung der Erdungs- und Potentialausgleichsleiter. Alles klar, haben wir in einem anderen Protokoll, in einem anderen Render schon gemacht, aber eine Polaritätsprüfung der Strings steht da drin. Die Leerlaufspannung, UOC, muss gemüht werden.
+
+(0:04:39 - 0:04:51)
+Der Kurzschlussstrom ISC, also eine Stromprüfung, muss durchgeführt werden. Da steht auch noch drin, dass man Betriebsstrom prüfen kann. Machen wir jetzt heute nicht, sondern das würde man dann später im Monitoring im Betrieb sehen.
+
+(0:04:51 - 0:05:04)
+Aber es steht hier drin, dass auch dieser Betriebsstrom zu erfassen und zu bewerten ist. Eine Funktionsprüfung im Allgemeinen ist zu machen. Das passiert bei meinen Projekten ziemlich automatisch, weil wenn es erst mal losgeht, gucken ja alle ganz genau, ob es funktioniert.
+
+(0:05:05 - 0:05:14)
+Aber nichtsdestotrotz ist es auch eine Prüfung. Und der Isolationswiderstand R-ISO, der ist auch zu prüfen. Ich zeige es nochmal.
+
+(0:05:15 - 0:05:24)
+Also das sind die A bis F, die die Norm so vorgibt. Und genau die gucken wir uns heute genauer an. Der Form halber schreibe ich trotzdem noch hier rein.
+
+(0:05:24 - 0:05:36)
+Die Kategorie 2, das wäre dann eine erweiterte Prüfung, sagt die Norm. Von mir in Klammern kommt optional oder Stichproben. Also folgendes kann man machen, muss man aber nicht nach Norm.
+
+(0:05:36 - 0:05:52)
+Und wenn man es doch macht, könnte man es stichprobenhaft machen. Jetzt vielleicht nicht für alle, gerade wenn es große Anlagen sind, nicht für alle eine EU-Kennlinienprüfung, sondern für Teile davon. Aber vielleicht ist wichtiger für mich hier zu sagen, die Kategorie 2, das ist also optional und stichprobenhaft.
+
+(0:05:52 - 0:06:07)
+UI-Kennlinienprüfung können auch jeder, ist aber nicht unbedingt erforderlich nach Norm, sondern die Kategorie 1, die war wirklich verpflichtend. Infrarotprüfung wäre auch noch ein Teil dieser zweiten Kategorie. Und dann gibt es noch zusätzliche Prüfungen.
+
+(0:06:07 - 0:06:17)
+Da kommt unser Sonnenschirm, weil um den kümmern wir uns in der Regel nicht. Deswegen haben wir sie hier ehrlich gesagt auch nicht mit aufgenommen. Das sind wirklich Spezialprüfungen, die da dann drinsteht.
+
+(0:06:18 - 0:06:26)
+So, dann steht da noch ein ganz wichtiger Punkt, und zwar Grenzwerte und Abweichungen. Die werden wir später bei der Bewertung unbedingt brauchen. Also hier kommen sie her für diese Prüfungen.
+
+(0:06:26 - 0:06:38)
+A bis F, nenne ich sie jetzt mal, stehen dann auch Grenzwerte drin. Also für die Leerlaufspannung plus minus 5 Prozent. Für den Strom plus minus 10 Prozent, die nehmen wir mal mit aus der VDE.
+
+(0:06:40 - 0:06:52)
+Der Isolationswiderstand muss größer ein Megaohm sein. Der Betriebsstrom sollte auch nicht mehr als 5 Prozent vom Sollwert abweichen. Und bei der EU-Kennlinienmessung sind dann auch von 5 oder 10 Prozent.
+
+(0:06:53 - 0:07:16)
+Je nach Einstrahlung, das ist bei der Kennlinienmessung ganz, ganz wichtig. Die meisten Messgeräte können das automatisiert, beziehen sich dann ja schon auf die richtigen Normen. Aber jetzt hat man sozusagen die Darstellung der Prüfung und der Grenzwerte gegenübergesetzt, weil wahrscheinlich passiert es den einen oder anderen ja doch mal, dass sie sich so ein Prüfprotokoll anschauen, aber ja gar nicht so genau wissen, was eigentlich der Grenzwert sein müsste.
+
+(0:07:17 - 0:07:27)
+Und dann ist die Bewertung nicht möglich. So, wir gehen noch mal ins Kapitel 9. Das ist ehrlich gesagt ganz, ganz kurz. Deswegen ist es ja auch ganz, ganz kurz.
+
+(0:07:27 - 0:07:40)
+Da steht also nochmal drin, dass man vor der Inbetriebnahme unbedingt die erste Prüfung gemacht haben muss. Sonst ist die Inbetriebnahme nicht zulässig. Da steht drin, dass man wiederkehrend prüfen muss und super gemacht.
+
+(0:07:41 - 0:07:53)
+Sie haben auch Vorlagen erstellt, in den Anhang gehängt. Und diese Vorlagen A bis D nummeriere ich hier nochmal auf. Das ist ein Muster für einen Prüfbericht und zwar unterteilt in ein Deckblatt.
+
+(0:07:53 - 0:08:15)
+Da steht dann eben so Systemdaten drin und Inbetriebnahmedatum zum Beispiel. Da ist eine Checkliste vorbereitet für die Besichtigung, auch enorm hilfreich. Und hier wieder grün markiert, weil das haben wir einfach abgeschrieben, noch ein bisschen unser Layout drauf gebastelt und zeigen wir heute wirklich Spalte für Spalte diese Erprobung, also die Messung selbst.
+
+(0:08:15 - 0:08:27)
+Da wird auch ein Muster in der Norm im Anhang C dargestellt. Interpretation kennen den Verlauf machen wir heute nicht. Habe ich oben mal so reingebastelt, wie die Norm das macht.
+
+(0:08:27 - 0:08:32)
+Also wir machen diese Zusatzprüfung heute nicht. Deswegen ist das mehr so ein kleiner Hint.

@@ -1,0 +1,64 @@
+(0:00:00 - 0:00:14)
+Gehen wir noch mal in die letzte Runde. Das haben wir reingeschoben, auch wenn es für heute nicht mehr geplant war, damit wir pünktlich sind. Aber wer möchte, der geht jetzt gerne in den Link, den wir euch geschickt haben, und sucht zwei Sachen.
+
+(0:00:14 - 0:00:39)
+Einmal, welcher Wert in Megaohm wird auf der Niederspannungsseite im Messgerät gemessen? Und das andere ist das mittlere Mittelspannungsschaltfeld richtig vorbereitet? Das machen wir jetzt live gemeinsam, dann ist das auch nicht so kompliziert. Vielleicht habt ihr euch in der 360-Grad-Tour schon ein bisschen umgeguckt. Also wir gehen bitte auf meinen Bildschirm.
+
+(0:00:41 - 0:00:58)
+Wie ist denn das groß? So, alles klar. Und kriege ich das hier weg? Ja, so, das funktioniert so für alle, die es noch nicht gemacht haben. Wir haben das für viele, viele von unseren Brain Days so umgesetzt, 360-Grad-Touren, sodass ihr dann ganz alleine euch mal ein bisschen umschauen könnt.
+
+(0:00:58 - 0:01:11)
+Und worauf wollen wir hier hinaus? Ich laufe mal zu so einer Trafo-Station, ist egal, was für ein Typ ist. Da kann man eine Tür aufmachen. Und jetzt, wenn man so ein bisschen, das man öfter mal gesehen hat, ist einem klar, dass das so eine Mittelspannungstür ist.
+
+(0:01:12 - 0:01:19)
+Da könnte man dann jetzt reingucken. Aber ich, weil ich die Tour ja selbst gebaut habe, weiß, dass ich hier mein Messgerät nicht finde. Aber da wären die Niederspannungsabschlüsse.
+
+(0:01:20 - 0:01:26)
+Wir haben das an zwei anderen Stellen gemacht. Hier ist es einmal die Stirnseite. Da kann man nämlich auch reinlaufen bei diesem Stationstyp.
+
+(0:01:27 - 0:01:35)
+So, und da wäre jetzt die Messung. Da ist sie jetzt, kann ich gucken. 3069 Megaohm, die Isolationsprüfung.
+
+(0:01:35 - 0:01:44)
+Und hier sieht man das ganz gut zwischen Phase und PE gemessen. So sieht das aus in Realität. Das ist so eine Niederspannungsverteilung.
+
+(0:01:45 - 0:01:54)
+Wie gesagt, die Hersteller machen das natürlich völlig unterschiedlich. Aber das sieht zum Beispiel so aus. Und dann könnte man jetzt hier die Isolation zwischen dem PE und einer Phase messen.
+
+(0:01:55 - 0:02:03)
+Ich gehe wieder raus. Das ist so eine Niederspannungsprüfung, die die da hundertfach machen. Ich gehe wieder raus, mache die Tür zu, glaube ich.
+
+(0:02:03 - 0:02:07)
+Sonst komme ich nicht weiter. Ja, genau. Und gehe auf die Mittelspannungsseite.
+
+(0:02:07 - 0:02:16)
+Das wäre meine zweite Frage gewesen. Ich war auf der falschen Seite. Hier ist meine Mittelspannung und mache da mal die Tür auf.
+
+(0:02:16 - 0:02:22)
+Da sieht man schon Medium Voltage Room. Da ist er. Und jetzt geht es um die Kabelprüfung, um die Mittelspannungskabelprüfung.
+
+(0:02:22 - 0:02:33)
+Ich glaube, ich wollte die Mantelprüfung wissen. Ist das richtig vorbereitet? Und das, finde ich, kann man hier sehr gut sehen. Man kann in das Schaltfeld reingehen und jetzt kann man sich im Schaltfeld nochmal umgucken.
+
+(0:02:33 - 0:02:46)
+Ihr habt das 3D-Modell ja vielleicht noch im Kopf. Also das ist so ein Schirm, der da eben rauskommt. Ihr erinnert euch, Mantelprüfung ist zwischen Schirm und PE, damit man diesen schwarzen Mantel, die Isolierung prüfen kann.
+
+(0:02:47 - 0:02:53)
+Das ist der Trick. Und dazu drehe ich mich jetzt mal um und sehe, die haben das super gemacht. Also so baut man sowas.
+
+(0:02:53 - 0:03:05)
+So schließt man so einen Schirm an so einer Erdung an. Hier ist sie sogar mit Erdungssymbol. Und da sehe ich jetzt alle sechs wunderbar sauber aufgelegt auf den PE.
+
+(0:03:06 - 0:03:20)
+Und wenn ich jetzt prüfen würde, hier sieht man es ja, den Schirm gegen die PE-Schiene, dann kann ich natürlich keinen Widerstand messen. Das ist klar, weil der ist ja miteinander verbunden. Also nein, das ist nicht richtig vorbereitet.
+
+(0:03:20 - 0:03:37)
+In Wirklichkeit würden die diesen Schalter noch mal lösen und dann erst messen. So alles klar. Dann bitte zurück in die PowerPoint-Präsentation, um da noch einen schönen Abschluss für heute wieder zu finden.
+
+(0:03:37 - 0:03:42)
+Da sind wir durch. Das haben wir gemacht. Das sind die Lösungen der Übungen genau.
+
+(0:03:42 - 0:03:51)
+Und ich sage für heute mal wieder vielen Dank fürs Zuhören und bis zum nächsten Mal. Ich wünsche euch ein schönes Wochenende. Danke. 
+
+Bis bald. Tschüss.

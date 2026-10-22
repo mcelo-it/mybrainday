@@ -1,0 +1,230 @@
+(0:00:00 - 0:00:19)
+Als nächstes das Kapitel AC Niederspannung. Los geht's. Wir springen auf die AC-Seite und da schauen wir uns als allererste Komponente, als allererstes Gerät mal den Sicherungslasttrennschalter an.
+
+(0:00:19 - 0:00:34)
+Gleiches Spiel. Erstmal, wo finden wir auf der AC-Niederspannungsseite eigentlich einen Sicherungslasttrennschalter? Dahinter mir genau das Schema und das ist jetzt mal eine Transformator-Station. Da steht ganz viel drin.
+
+(0:00:34 - 0:00:44)
+Machen wir in einem anderen Rainday, was das alles so ist. Wir konzentrieren uns jetzt hier im unteren Bereich sozusagen auf die Sicherungslasttrennschalter. Da sind sie.
+
+(0:00:45 - 0:00:53)
+Hier eine ganze Reihe davon, weil da sind ja dann mehrere Wechselrichter an einer Station angeschlossen. Uns reicht jetzt natürlich einer mal. Das ist der, den wir hier weiß highlighten.
+
+(0:00:53 - 0:01:14)
+Haben wir auch die Eins daneben geschrieben und dann haben wir unser elektrisches Schaltsymbol für diese Sicherungslasttrennschalter. Also elektrisch gesehen, sag ich mal, finden wir ihn hier. Jetzt ziehen wir den wieder mit rüber und gucken uns an, wo wir den in der Anlage, in der Realität finden würden.
+
+(0:01:14 - 0:01:43)
+Jetzt ganz wichtig gegenüber dem DC-Beispiel, dem anderen Kapitel von vorhin, haben wir jetzt hier eine dezentrale Anlage dargestellt. Das sieht man jetzt daran, dass die Box im Feld ist jetzt ein Wechselrichter und die Trafostation, das ist so eine typische Kompakt-Trafostation. So, wo finden wir den Sicherungslasttrennschalter? Wir nehmen die Station mal ein bisschen weiter rausgezogen und jetzt machen wir hier noch mal die Tür auf.
+
+(0:01:43 - 0:01:50)
+Und so würde das sein, wenn man da in die Station reinguckt, auf der Niederspannungsseite. Und da sieht man sie jetzt schon. Sechs Stück hätten wir da.
+
+(0:01:50 - 0:02:05)
+Die hängen da so, das sind mal drei-phasig, deswegen sind die so ein bisschen symmetrisch aufgebaut. Und den sehen wir uns jetzt auch noch mal ein bisschen genauer an. Also so sieht so ein typischer Sicherungslasttrennschalter aus auf einer PV-Anlage auf der Niederspannungsseite.
+
+(0:02:06 - 0:02:20)
+Und ich habe es in dem Eingangskapitel warum schon erklärt. Hier bei dem Gerät kommt es auf die Kombination an, sozusagen, wenn man sehr kleinteilig ins Wording geht. Die Sicherung haben wir jetzt separat daneben gelegt.
+
+(0:02:20 - 0:02:37)
+Die würde man dann in Realität in diesen Schalter öffnen, nach vorne schieben, ziehen sozusagen. Dann kann man die Sicherung reinschieben und dann kann man es wieder schließen. Und nur die Kombination macht es, wenn man so will.
+
+(0:02:37 - 0:03:01)
+Aber wir haben das bewusst hier geteilt, dargestellt als Schaltgerät, sozusagen Schaltgerätekombination, weil, wenn wir uns die Frage, warum stellen man das, eben trennen muss. Also erst mal die Sicherung für sich, nur die Sicherung, die dient dem Schutz und zwar gegen Kurzschluss, meinetwegen auch gegenüber Last. Aber bei uns, das sehen wir später, geht es jetzt erst mal um Kurzschluss.
+
+(0:03:02 - 0:03:09)
+Und im Eingang hatte ich das erklärt. Es geht also um Schutz. Das ist quasi die Grundfunktion von dieser Sicherung.
+
+(0:03:10 - 0:03:23)
+Naja, durch den Schutz an sich erhält man eine Selektivität. Also würden dann nur dieser Wechselrichterabgang abschalten und nicht gleich die ganze Trafostation zum Beispiel. Und das erhöht die Anlagenverfügbarkeit.
+
+(0:03:24 - 0:03:42)
+So, und das zweite Bauteil, das da zwangsläufig dazugehört, sonst nur die Sicherung allein, in dem Fall würde nicht funktionieren, gibt es eine Lastschaltleiste. Und gemeinsam ist es dann eine Sicherungslastschaltleiste oder ein Sicherungslasttrennschalter. Das finde ich, ist in der Grundlogik erst mal das Gleiche.
+
+(0:03:42 - 0:04:01)
+Aber nur jetzt die Leiste selbst, die ermöglicht ein Schalten unter Last und sie ermöglicht ein sicheres Trennen. Man würde das Ding öffnen, dann ist es eine sichtbare Trennstelle und dann kann man am AC-Kabel arbeiten, wenn man fünf Sicherheitsregeln befolgt. Aber das ist ein anderes Thema.
+
+(0:04:02 - 0:04:24)
+Also ich hoffe, wir haben das hier klargemacht, dass man dieses Gerät zwei teilt und dann hat das auch tatsächlich eben verschiedene Funktionen. Und gemeinsam ist es sozusagen eine Sicherungslasttrennschalter mit allen möglichen Funktionen. Was ist das Schutzobjekt von diesem Sicherungslasttrennschalter? Es ist einzig und allein das AC-Kabel vom Wechselrichter.
+
+(0:04:24 - 0:04:40)
+Das schützen wir mit dieser Sicherung. Was für einen Typ würden wir da auswählen? Da habe ich erst mal hier wieder ein bisschen in diesem grünen gehighlight NH und GG. Das ist also der Typ, der nach gewissen Normen definiert wird.
+
+(0:04:40 - 0:04:53)
+Aber diesen Typ, auf den muss man schon achten. Das hatte ich vorhin auch bei der DC-Hauptsicherung gesagt. Da steht GPV und das sind zwei Buchstaben, aber die machen dann halt den kleinen Unterschied.
+
+(0:04:53 - 0:05:06)
+Wofür steht jetzt hier das GG? Einmal das kleine G bedeutet auch wieder Ganzbereichs und das große G bedeutet allgemeiner Gebrauch. So definieren die das in der Norm. Finde ich persönlich gar nicht so wichtig.
+
+(0:05:06 - 0:05:13)
+Die Buchstaben allein reichen völlig. Aber auf die würde ich dann eben schon achten. Sehen wir auch gleich noch mal in der 360-Grad-Tour.
+
+(0:05:14 - 0:05:25)
+Und dann das NH, das steht für Niederspannungs-Hochleistungssicherung. Auch da achtet man drauf. Aber wenn die so aussehen wie hier in dem 3D-Bild, dann handelt es sich sicherlich auch um eine NH-Sicherung.
+
+(0:05:27 - 0:05:41)
+Wie spezifiziere ich die? Der Nennstrom, klar, machen wir auch gleich. Da habe ich mal so ein paar typische Größen in unserer typischen PV-Welt hingeschrieben, gibt natürlich alle möglichen, aber das sind mal so typische Spannung. Absolut gibt es verschiedene Levels.
+
+(0:05:41 - 0:05:49)
+400 Volt gibt es auch. Man kann auch mehr als 1000 Volt AC-Spannung anliegen haben. Aber ein typischer Wert sind 800 Volt.
+
+(0:05:50 - 0:06:14)
+Dann ganz wichtig, wir haben dreiphasige Systeme und solche Sicherungen sind einphasig. Das heißt, wir brauchen insgesamt immer drei pro System, eine Sicherung pro Phase. So, dieses NH hatte ich schon beschrieben, was das ist, und das hat aber verschiedene Nummern noch dahinter im kleinteiligen Betrachtung, und das definiert die Größe und zwar nicht im elektrischen Sinne.
+
+(0:06:15 - 0:06:30)
+Das ist der Nennstrom, der das definiert, sondern das definiert die physische Größe. Das ist wichtig, wenn man versucht, die Sicherungen einzulegen in diese Schaltleisten und irgendwie passt sie nicht rein. Dann hat man eben hier auf die Zahlen nicht richtig geachtet.
+
+(0:06:30 - 0:06:43)
+Und das mache ich nur so, um es mal gezeigt zu haben. So eine NH3-Sicherung, die geht zum Beispiel von 100 bis 630 Ampere. So eine NH2 geht von 35 bis 400 Ampere.
+
+(0:06:43 - 0:06:59)
+Und da sieht man schon, dass diese Bereiche auch überlappen. Also das geht nicht unmittelbar ineinander über, sondern die überschneiden sich. Und da würde man dann eher darauf achten, wie viel Platz hat man denn in der Station überhaupt? Dadurch sind diese Größen schon mal limitiert, rein physisch sozusagen.
+
+(0:06:59 - 0:07:11)
+Aber ich meine, ein Vorteil ist es bei der Erwärmung. Wenn man größere nimmt physisch, dann erwärmen die sich halt weniger als die kleinen. So, und bei der Dimensionierung schauen wir ja wieder auf den Strom.
+
+(0:07:11 - 0:07:23)
+Also wo sind wir? Sicherung AC-Seite. Ja, genau, wird erst mal in so einer Norm definiert. Und jetzt gibt es den Betriebsstrom von unserem Wechselrichter und der muss kleiner sein als die Sicherung.
+
+(0:07:23 - 0:07:30)
+Ich finde auch noch ein bisschen besser. Die Sicherung muss größer sein als der Betriebsstrom vom Wechselrichter. Sonst kommt es ja zu Fehlauslösungen.
+
+(0:07:30 - 0:07:50)
+Also die Sicherung darf auf keinen Fall im normalen Betrieb so einen schönen Sommertag mittags einfach durchbrennen. Das ist natürlich dann eine Fehlauslegung gewesen. Und gleichzeitig aber auch kleiner gleich IZ, also von unserem Kabel der reale maximal zulässige Belastungsstrom.
+
+(0:07:52 - 0:07:58)
+Der muss wiederum größer sein. Das Kabel muss also größer dimensioniert sein als die Sicherung. So, wir machen das an einem Beispiel.
+
+(0:07:58 - 0:08:10)
+Zahlen sind immer einfach zu lesen. 350 kV Wechselrichter würde ich erst mal im ersten Schritt sagen kommt raus 230,9 Ampere. Das ist erst mal mein Betriebsstrom.
+
+(0:08:10 - 0:08:23)
+Dann im zweiten Schritt habe ich jetzt einfach so festgelegt mein Kabel mit Reduktionsfaktoren Kabel Auslastungsbrände. Einmal hinter mir komme ich in meinem Kabel auf 310 Ampere. Und jetzt im dritten Schritt.
+
+(0:08:23 - 0:08:34)
+Jetzt soll also die Sicherung irgendwie im besten Fall dazwischen liegen. Dann könnte man eine 250 Ampere Sicherung wählen. Das wäre jetzt erst mal so ein grundsätzlicher Gedanke.
+
+(0:08:34 - 0:09:02)
+Achtung bei diesem Faktor Sicherheitsfaktor vielleicht, dass man die Sicherung größer auslegt als den Betriebsstrom. Da muss man jetzt wirklich auch wieder aufpassen. Hat man bei den DC Sicherungen ganz, ganz, ganz, ganz ausführlich gemacht, dass man dann, nehme ich mal vorweg den Schritt hier, den letzten Schritt 4, dass man dann mit dem Hersteller wieder gegenprüft, dass bei realen Temperaturen in der Trafostation, da wird es halt wärmer, da hat es dann 40 Grad.
+
+(0:09:02 - 0:09:26)
+Finde ich, ist ein sinnhafter Wert in so einer Trafostation, dass man Temperatur und Häufungs Realprojekt Bedingungen sozusagen damit einplant und dann ja die 250 Ampere vielleicht doch nicht passen. Aber das ist dieser Sicherheitsfaktor, der gilt für Sicherungen im Allgemeinen. Und das kann man mit 1,2, 1,3 gut machen.
+
+(0:09:26 - 0:09:46)
+Dann ist man auf der sicheren Seite. Aber am Ende schaut man am besten noch mal mit dem Hersteller drauf und der sagt dann Ja, für meine Anwendung kann man das so machen. So und dieses Ausrufezeichen, dass ich in der Mitte jetzt gerade übersprungen habe, da noch mal kurz darauf eingegangen, wäre diese zweite Bedingung nicht beachtet.
+
+(0:09:47 - 0:10:10)
+Also ich würde sagen, dass die die Sicherung auch durchaus mal kleiner sein kann als der mit der maximal Betriebsstrom für das Kabel, also das IZ und zwar, weil wir nicht zwangsläufig gegenüber Last schützen müssen. Ich hatte es, glaube ich, vorhin im anderen folgenden Kapitel auf der DC-Seite ein bisschen ausführlicher erklärt. Hier ist es genau das gleiche Prinzip.
+
+(0:10:10 - 0:10:33)
+Man versucht ja, die Kabelquerschnitte möglichst ökonomisch zu gestalten, also zu reduzieren, so weit es geht. Und dann hat man oft die Entscheidung, dass man nicht mehr mit der Sicherung gegen Überlast schützt, weil man argumentiert, dass der Wechselrichter ja gar nicht mehr physikalisch dazu in der Lage ist, mehr Strom zu generieren, als sein Datenblatt vorgibt. Und deswegen gibt es den Überlastfall gar nicht.
+
+(0:10:34 - 0:10:43)
+Ergo muss ich ihn auch nicht betrachten. So und gegen Kurzschluss, das sind ganz andere Stromlevels. Da ist dann die Sicherung trotzdem richtig dimensioniert.
+
+(0:10:44 - 0:10:54)
+Gut, das war mein Sicherungslast Trennschalter auf der AC-Seite. Gehen wir weiter. Niederspannungsleistungsschalter, der ist weiter oben.
+
+(0:10:54 - 0:10:59)
+Ich zoome gleich mal. Ja, genau, wir haben schon genug zoomt. Ich highlighte ihn neu mit meiner Zahl zwei.
+
+(0:10:59 - 0:11:06)
+Da oben ist er, so sieht er aus. Elektrisches Symbol, ganz wichtig. Ein X. Und dann sieht er schon in der 3D-Darstellung.
+
+(0:11:07 - 0:11:19)
+Also das ist natürlich irgendwie im gleichen Gebäude jetzt. Deswegen mache ich wieder die gleiche Tür auf. Aber wie man sehen kann, sitzt er jetzt in dem Fall mittig zwischen den zwei, zwischen den Last Sicherungslast Trennschaltern.
+
+(0:11:20 - 0:11:28)
+So nehme ich den mal wieder raus und da haben wir ihn. Das wäre jetzt so ein Niederspannungsleistungsschalter. So sieht er typischerweise aus.
+
+(0:11:29 - 0:11:41)
+Warum brauchen wir einen Niederspannungsleistungsschalter? Also ich habe es gehighlighted. Kurzschluss, ja, da geht es also um Schutz. Der Kurzschluss, aber auch Überlast und Erdschluss, das sind andere Fehler.
+
+(0:11:42 - 0:11:55)
+Die müssen sicher abschaltbar sein. Das kann dieser Niederspannungsleistungsschalter übernehmen. Dann gewährleitet das das wieder eine gewisse Selektivität, hatte ich ja vorhin auch bei der Niederspannungssicherung gesagt.
+
+(0:11:56 - 0:12:09)
+Das wäre jetzt sozusagen ein Level höher. Also mit dem kann man diese Selektivität aufbauen. Und dann, ja, jetzt wird das Kapitel, warum hoffentlich immer, immer sinnhafter im Nachhinein sozusagen.
+
+(0:12:09 - 0:12:27)
+Warum hat er da so viel drüber geredet, dass hier also jetzt klar ist, dass er auch im Betrieb ein- und ausschalten kann. So ein Leistungsschalter kann also Fehler schalten. Kurzschluss, aber er kann auch im Betrieb verwendet werden fürs, ich sag mal, tägliche Ein- und Ausschalten.
+
+(0:12:29 - 0:12:41)
+Gut, und bei uns PV-Leuten gibt es den berühmten zwischengelagerten NA-Schutz. In Freilandanlagen, aber auch bei Dachanlagen, dann hier im Wandlerschrank wäre das Pendant dazu, gibt es diesen zwischengelagerten NA-Schutz. Den gibt es im Grunde immer.
+
+(0:12:42 - 0:12:48)
+Und der Schutz selbst ist aber nur ein Relais. Der kann jetzt nicht schalten. Der braucht immer einen Partner, der für ihn schaltet.
+
+(0:12:48 - 0:13:21)
+Und das wäre dann dieser Niederspannungs-Leistungsschalter typischerweise. Was schützt der Niederspannungs-Leistungsschalter? Der Niederspannungs-Leistungsschalter schützt erst mal die Sammelschiene, die Niederspannungssammelschiene, die in dem Bild vorhin war, das unter ihm liegt, also von dem Leistungsschalter. Da geht ja der gesamte Strom aller Wechselrichter, sozusagen aller NH-Leisten über eine Sammelschiene gesammelt zu diesem Niederspannungssammelschalter.
+
+(0:13:22 - 0:13:30)
+Und die würde er erst mal im Fehlerfall schützen. Auch das Kabel dann hinter ihm zum Transformator. Und wenn man so will, auch den Transformator selbst.
+
+(0:13:31 - 0:13:39)
+Jetzt geht es sehr tief in die Schutztechnik. Das mache ich jetzt hier nicht. Das kann man fein justieren, weil auf der anderen Seite von dem Trafo ist der Mittelspannungsleistungsschalter, da kommen wir noch dazu.
+
+(0:13:40 - 0:13:54)
+Und er hat auch ein Schutzrelais und er schützt auch den Transformator. Also man kann das von beiden Seiten sozusagen so betrachten. Absichtlich stehen hier jetzt nicht die Wechselrichter, weil die schützt er höchstens indirekt sozusagen.
+
+(0:13:55 - 0:14:11)
+Die werden eben durch die Sicherung, hatte ich gerade ja beschleunigt, geschützt. So, und dann Netz und Anlage musste ich reinnehmen, weil ich habe gerade gesagt, dass der NA-Schutz, der Netz- und Anlagenschutz auf diesen Leistungsschalter wirkt. Also gut, insofern schützt er auch das Netz und die ganze Anlage.
+
+(0:14:11 - 0:14:23)
+Da ging es ja dann um Spannung und Frequenz. Welche Typen würde man sich da so vorstellen? Die berühmte, die übliche Spezifikation wieder. Ja, also das macht der Hersteller natürlich.
+
+(0:14:24 - 0:14:35)
+Der achtet dann auf die Schaltgeräte-Norm. Da steht drin, wie dieser Schalter ausgelegt werden muss. Es gibt viele, viele, viele, viele Nennströme, die wir uns in der Dimensionierung gleich anschauen.
+
+(0:14:35 - 0:15:00)
+Mache ich jetzt an der Stelle ja nicht. Da wollte ich ja nur so beispielhaft zeigen, dass man diese Nennströme natürlich definieren muss. Also das ist ein ganz wichtiger Punkt für den Elektro-Planer, dass dieser Wert, der kommt von uns dann genauso wichtig wie beim DC-Schalter rot oder grün oder orange zu markieren, dass es eine DC-Schalter sein muss, muss man hier highlighten, dass es sich um einen AC-Schalter handelt.
+
+(0:15:01 - 0:15:12)
+Da greifen dann einfach andere Anforderungen aus der Norm. Betriebsspannung. Wir haben vielleicht ein typisches 800 Volt AC-System, wenn wir später sehen, die Schalter sind oft höher ausgelegt.
+
+(0:15:12 - 0:15:29)
+Die können auch 1000 oder 1100 Volt. Aber für mich ist jetzt erst mal grundsätzlich die Vorgabe an den Hersteller, dass er beachtet, dass ich eine Betriebsspannung von 800 Volt AC habe. Kutschlussstrom 50 Kiloampere eine Sekunde wirkt sehr hoch, ist aber in der Tat üblich.
+
+(0:15:29 - 0:15:42)
+Und das kann man auch ausrechnen. Mache ich hier nicht. An anderer Stelle mache ich das, dass man das abhängig betrachtet von der Transformator-Größe und genau dem UK des Transformators.
+
+(0:15:42 - 0:15:47)
+So kann man das ausrechnen. Die Schutztechniker machen das auch. In der Schutzstudie würde ich das auch immer betrachten.
+
+(0:15:48 - 0:16:10)
+Die Transformatoren werden immer größer. Und die sind die Bauteile, die diesen Kutschlussstrom auf der Niederspannungseite vorgeben oder limitieren, wenn man das sehen will. Und weil aber ja die, die immer größer werden, müssen auch die Leistungsschalter auf der Niederspannungseite sozusagen dementsprechend mithalten.
+
+(0:16:10 - 0:16:22)
+Also das ist ein Wert, der aus meiner Erfahrung heraus in den letzten Jahren sich immer weiter erhöht hat, weil eben die Transformatoren größer wurden. Und dann muss eben der Schalter dann mithalten. Stoßspannungsfestigkeit.
+
+(0:16:22 - 0:16:30)
+Das ergibt sich aus der Norm. Ich wollte nur mal zeigen, dass der Spannung, dass der mehr kann als die 800 Volt. Dann aber halt nur für kurze Fehlerfälle.
+
+(0:16:30 - 0:16:44)
+Ja, genau. Da steht das nochmal, dass das abhängig ist von der Trafo-Leistung. Dann finde ich wichtig, dass so ein Niederspannungsleistungsschalter integrierte Schutzfunktionen hat, beziehungsweise dass wir als Planer das wissen, dass er das haben wird.
+
+(0:16:45 - 0:16:56)
+Weil das war ja eine seiner Hauptaufgaben. Warum Aufgaben, dass er hier gegenüberlast und kurzschluss schützt. Und dazu braucht er entweder ein externes Relais.
+
+(0:16:56 - 0:17:03)
+Das ist aber unüblich. Oder man integriert sozusagen die Funktion in dem Leistungsschalter. Und das muss man bei der Spezifikation beachten.
+
+(0:17:03 - 0:17:21)
+Der hat dann oft so Drehrädchen außen oder so ein wirklich simples Display, in dem man dann die Schutzfunktion bezüglich Strom eintippt. Der hat dann also intern kann er den Strom messen und dann auch gleich dementsprechend auswerten. Ja, und was haben wir noch? Schnittstelle Monitoring fand ich wichtig.
+
+(0:17:22 - 0:17:33)
+Also das wären dann zum Beispiel die Stellungsmeldungen. Bin ich ein, bin ich ausgeschaltet? Das kann man ans Monitoring übertragen mit potenzialfreien Kontakten oder deswegen Schnittstelle. Die haben natürlich auch alle möglichen Schnittstellen.
+
+(0:17:33 - 0:17:50)
+Die kann man auch mit spezifizieren und dann kann man so auch mit benutzen. So die Dimensionierung. Ja, laufen wir wieder nach dieser üblichen Norm und klar ist, der Nennstrom von diesem Schalter muss größer sein als der Betriebsstrom.
+
+(0:17:51 - 0:18:06)
+Ja, haben wir mal wieder unser Beispiel mit irgendwelchen 320 KVA Wechselrichtern in dem Fall. Und dann sage ich, jetzt komme ich da auf 230 Ampere. Dann mache ich das mal 15 und Achtung, da sieht man schon, da haben wir jetzt auch so einen Sicherheitsfaktor mit drin.
+
+(0:18:06 - 0:18:16)
+Haben wir wieder gemacht. Finde ich, ist immer sinnvoll. Komme ich mit dem Faktor auf 3800? Na gut, und 3800 Ampere Schalter gibt es nicht.
+
+(0:18:16 - 0:18:27)
+Dann nehme ich also den 4000 Ampere Schalter und dann erst mal einen Daumen hoch, dass das erfüllt ist. Und wie immer würde ich dann auch noch mal nachgucken. Macht der Stationsbauer.
+
+(0:18:27 - 0:18:43)
+Der hat ja diesen Schalter ausgelegt. Der sagt dann Ja, ja, ich habe natürlich beachtet, dass der meine, meinetwegen 40 Grad Innentemperatur auch aushält. Ja, das war erst mal das Kapitel AC Niederspannung.

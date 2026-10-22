@@ -1,0 +1,384 @@
+(0:00:00 - 0:00:21)
+Hallo zurück, es geht weiter mit voller Fahrt. Wir kommen zum nächsten Thema Aufbau. Wir haben jetzt ein bisschen die Normen besprochen, wir haben euch das Umspannwerk mal live in der 360°-Tour gezeigt, wie eine Freileitung aussieht, wie man dort anschließt, haben wir euch gezeigt.
+
+(0:00:21 - 0:00:42)
+Und jetzt kommen wir zu dem Kern, zu dem Aufbau des Umspannwerks, was für Komponenten sind da drin, wie geht es weiter. So, also den Mast hatten wir gerade ausführlich besprochen, da gehen wir jetzt nicht mehr so im Detail ein. Wir zeigen euch jetzt in verschiedenen Ebenen, so würde ich sagen, das Umspannwerk.
+
+(0:00:42 - 0:01:22)
+Also wir zeigen euch jetzt einmal in der Single Line Variante das Umspannwerk. Und im ersten Schritt zeigen wir euch zu dem Single Line Diagramm die Komponenten im Modell, wie die aussehen und erklären euch so ein paar technische Rahmenparameter, gehen aber natürlich jetzt nicht darauf ein, wie ein Stromwandler im Detail funktioniert, da machen wir andere Braindays für, aber zumindest, dass ihr die Eckdaten habt. Und im zweiten Schritt zeigen wir euch dann, wie diese Komponenten aufgebaut und zusammengeschaltet werden sind im Umspannwerk, also in so einem Schnitt und einmal in einer Obenaufsicht, dann habt ihr, glaube ich, ein relativ komplettes Bild vom Umspannwerk, von den Komponenten, was die können, was die machen und wo sie stehen.
+
+(0:01:22 - 0:01:49)
+Also erstmal fangen wir an mit dem SLD und wir zeigen euch hier im SLD oder vor allem zeigen wir das dann dem Netzbetreiber, wo wir an so einer Freileitung anschließen. Oben seht ihr auf der grünen Linie M32, das ist dann beispielsweise der Mast, an den wir anschließen sollen und da kommt dann das Umspannwerk dran, hier mit so einer Traversenlösung als Beispiel. Das kann eben aber auch eine Unterspannungslösung sein oder eine Erdkabellösung.
+
+(0:01:50 - 0:02:04)
+Also das ist hier diese Darstellung, wir haben sie eben ausführlich besprochen, deshalb jetzt noch einmal gezeigt. Das ist genau der Punkt im SLD, der diese Anschlussvariante darstellt. Dann kommen dazu meistens noch die Eigentumsgrenzen, die wir beschreiben müssen.
+
+(0:02:04 - 0:02:25)
+Bei den Netzbetreibern wird das in der Regel gefordert und dann ist es meistens so, dass die Eigentumsgrenze tatsächlich die Anschlussklemme oben an dem Leiterseil ist. Also das, was dann schon runterführt vom Leiterseil und was zu dem Umspannwerk führt, das bleibt euer Eigentum und so wird es dann auch dargestellt. Die Freileitung natürlich bleibt Eigentum des Netzbetreibers.
+
+(0:02:27 - 0:02:38)
+Das tragen wir auch ein, also nach oben Netzbetreiber, nach unten Kunde. Das sind die kleinen Pfeile, die gerade eingeblendet wurden. Und dann kommen wir auch gleich zu der ersten Komponente, die wir euch zeigen wollen.
+
+(0:02:39 - 0:02:46)
+Wir starten mit einem Spannungswandler. Es kann auch sein, dass es jetzt vielleicht erstmal noch einen Überspannungsableiter gibt. Den gibt es hier in unserem Beispiel nicht.
+
+(0:02:46 - 0:02:55)
+Wir starten direkt mit dem Spannungswandler. Der wird hier angeschlossen. Baulich zeigen wir es später, unter dem Portal ungefähr angeordnet.
+
+(0:02:56 - 0:03:10)
+Jetzt geht es um das SLD und um die Komponente. Spannungswandler sehen so aus im Symbol und in der Realität als Bauteil tatsächlich dann so. Unten drunter ist ein guter Meter Stahlkonstruktion.
+
+(0:03:11 - 0:04:00)
+Das heißt, dieser Spannungswandler würde jetzt erstmal relativ weit oben stehen, sodass er natürlich nicht gleich auf dem Erdboden steht, sondern als Isolation vor Schmutz, vor Bebauung, vor Leuten, die dort vielleicht in der Nähe stehen, stellt man den stark erhöht, sodass die an diese leitenden Teile oben nicht direkt drankommen würden. Unten an dem Spannungswandler oder oben hat man dann den Primäranschluss und im unteren Bereich, da wo dann so ungefähr diese Stahlkonstruktion anfängt, da hätte man dann den Sekundäranschluss. Also oben schließen die Leiterseile an, die 110 kV Leiterseile, und unten würden dann dünne Steuerkabel vielleicht abgehen, die dann die Spannungswerte sekundärseitig übertragen an Schutzrelais, Parkregler, Messgeräte.
+
+(0:04:01 - 0:04:13)
+Dieser Spannungswandler hat dann mehrere Wicklungen, so kennen wir das in der Mittelspannung auch. Wie viele Wicklungen das genau sind, sieht man in dem Bild erstmal nicht. Das würden wir dann aber im SLD versuchen aufzuschreiben und darzustellen.
+
+(0:04:14 - 0:04:31)
+Die Kenndaten von dem Wandler, die jetzt hier eingesetzt werden, und eben auch die Anzahl der Wicklungen, machen wir jetzt hier so ein bisschen im Schnelldurchgang. Also es gibt die Wicklung 1 beispielsweise, das ist die Messewicklung erstmal, und die hat ein Übersetzungsverhältnis von 110 zu 0,1 kV. So ist die Abkürzung.
+
+(0:04:31 - 0:04:52)
+In Wirklichkeit ist es 110 durch Wurzel 3 geteilt durch 0,1 durch Wurzel 3 in kV. Das ist die übliche Größe, die Standardgröße für die Spannungswandler. Und dann haben diese Wandler eine Genauigkeitsklasse 0,5 und 3 p. Da gehen wir jetzt im Detail nicht drauf ein, das wäre zu aufwendig.
+
+(0:04:52 - 0:05:04)
+Da kann ich verweisen auf den Brainday Strom- und Spannungswandler. Da erklären wir das im Detail, was 0,5 und 3 p bedeuten. Hier reicht es so, dass ihr diese Kenndaten mal seht.
+
+(0:05:05 - 0:05:24)
+Bemessungsleistung von 50 Watt oder 50 VA. Die haben hier häufig ein bisschen größere Leistung als die Wandler in der Mittelspannung, weil man hier ja auch erstmal größere Strecken überwinden muss, um dann eben zu den Messgeräten überhaupt zu gelangen, die dort angeschlossen werden. Dann gibt es eine weitere Wicklung, zum Beispiel die Zellwicklung.
+
+(0:05:24 - 0:05:46)
+Die hat jetzt eine höhere Genauigkeit und eine etwas geringere Leistungsklasse. Und für uns dann eben wichtig, deshalb hier in grün gehighlighted, die Wicklung 3 für den Parkregler. Und das für euch als Planer, da müsst ihr natürlich dann als Solarparkplaner, da müsst ihr natürlich dann wirklich im Detail darauf achten, dass diese Wicklung eure Anforderungen erfüllt.
+
+(0:05:46 - 0:06:17)
+Das heißt vor allem die Anforderungen dann aus der 4120. Das sind dann die Genauigkeitsanforderungen, weil das Umspannwerk selbst, das könnte natürlich auch Schutztechnik, Zähltechnik und alles mögliche auch wunderbar funktionieren, wenn euer Wandlerkern jetzt der falsche ist. Das heißt, hier müsst ihr Verantwortung übernehmen und hier dem Planer des Umspannwerks sagen, was ihr braucht, beziehungsweise ihn korrigieren, wenn er da die falsche Genauigkeit ausgewählt hat oder für euch vielleicht gar keine Wicklung am Spannungswandler vorgesehen hat.
+
+(0:06:18 - 0:06:37)
+Dann gibt es zum Schluss noch die EN-Wicklung, die ist für den Schutz. Die hat ein etwas anderes Übersetzungsverhältnis, nämlich 100 durch 3 und nicht 100 durch Wurzel 3 und hat eine andere Genauigkeit und eine andere Leistung. Die wird eben nur für Schutzrelais, für Schutzfunktionen, bei der Erdschlusserfassung zum Beispiel verwendet.
+
+(0:06:37 - 0:06:47)
+Ist jetzt hier für uns ausreichend, das zu wissen. Ist ein separater Kern für die Erdfehlererfassung. Das Ganze fliegt jetzt zurück ins SLD.
+
+(0:06:47 - 0:07:03)
+Wir nehmen diese Werte, diese Kennwerte mit auf. Dieses SLD hilft uns dann natürlich auch später bei der Anlagenzertifizierung und bei der Anmeldung beim Netzbetreiber und so weiter. Deshalb gehen alle diese Infos in dieses Übersichtsbild und wir gucken uns die nächste Komponente an.
+
+(0:07:04 - 0:07:20)
+Das ist der Trennschalter und der Trennschalter, das nehme ich jetzt schon mal vorweg, das ist nicht nur ein Trennschalter, sondern hier ist auch noch eine Erdungsfunktion mit drin. So sieht das Symbol erst mal aus und so sieht die Komponente aus. Also der kann nicht nur trennen, sondern auch erden.
+
+(0:07:21 - 0:07:38)
+Das Trennen zeigen wir euch gleich, das Erden zeigen wir euch nicht, aber das Trennen zumindest. Also er erdet jetzt auch in Richtung der Freileitung. Das heißt, wenn ihr jetzt diesen Schalter betätigen dürftet oder würdet, würdet ihr das 110 kV Netz des Netzbetreibers erden.
+
+(0:07:38 - 0:07:51)
+Das ist natürlich erst mal nicht zulässig. Deshalb kommt gleich noch eine Info in das SLD, dass ihr das auch gar nicht dürft. So, wenn man den jetzt betätigt, diesen Trenner zumindest, dann dreht der auf.
+
+(0:07:51 - 0:08:17)
+Und aufdrehen bedeutet, ihr seht es gerade, er öffnet sich wirklich so und sehr langsam und bleibt dann eben so offen stehen. Das heißt, für Leute, die im Umspannwerk arbeiten, ist dieser aufgedrehte Trenner ganz klar zu erkennen, dass er getrennt ist. Er ist eine sichtbare Trennstelle und man kann dann, wenn man natürlich die anderen Sicherheitsmaßnahmen eingehalten hat, sicher arbeiten und weiß, es ist wirklich getrennt.
+
+(0:08:18 - 0:08:31)
+Es kommt keine Spannung aus dem 110 kV Netz. Für die Erdfunktion wird es jetzt noch eine zweite Mechanik geben, die dann eben das Ganze nochmal erdet. Das können wir jetzt hier in diesem Modell nicht darstellen, aber das würde es eben geben.
+
+(0:08:33 - 0:09:06)
+Das Ganze ist natürlich fernschaltbar. Da geht jetzt keiner hin und kurbelt diesen Schalter, sondern in der Regel haben die Motorantriebe, so ist es im SLD ja auch dargestellt, das heißt, aus der Leitwarte oder aus dem Schaltraum, aus dem Schalthaus könnte man diese Schalter einfach betätigen und aus sicherer Entfernung öffnen, dann wieder raus aus dem Gebäude und wirklich sehen, dass wir getrennt sind und dass wir dann spannungsfrei sind. Wir schließen ihn wieder und haben jetzt wieder die Möglichkeit, das Umspannwerk unter Spannung zu stellen.
+
+(0:09:09 - 0:09:31)
+Kenndaten von so einem Trenner, also eine Bemessungsspannung hat er erstmal von 123 kV. Das ist das Übliche, was wir so im 110 kV Netz kennen oder für 110 kV Komponenten und ein Bemessungsstrom von 1600 Ampere. Das ist dann natürlich wichtig zu wissen, was an diesem Umspannwerk wirklich angeschlossen wird, damit diese 1600 Ampere dann auch nicht überschritten werden.
+
+(0:09:31 - 0:09:58)
+In der Regel limitiert ja der Trafo, der davor steht, sodass der Trenner und der Trafo aufeinander abgestimmt sein sollten. Bemessungskurzzeitstrom 40 Kiloampere, hier der Hinweis, das etabliert sich gerade so ein Stück weit in Deutschland, 40 Kiloampere für eine Sekunde, nicht unbedingt 31,5 Kiloampere für eine Sekunde, sondern 40. Und dann haben diese Komponenten erstmal eine Steuerspannung von 220 Volt DC.
+
+(0:09:58 - 0:10:09)
+Das ist ein Unterschied zur Mittelspannung, wo wir meistens mit 24 Volt DC arbeiten. Hier sind es halt 220, sind größere Motoren, größere Komponenten, längere Strecken. Deshalb wählt man hier höhere Spannungen.
+
+(0:10:09 - 0:10:30)
+Und was dieser Schalter auch hat, was die meisten Freiluftkomponenten, die wir hier beschreiben, dann später haben, ist eben eine Spannung für die Heizung. Weil dieser Schalter, der muss natürlich auch im Winter funktionieren. Wenn es dann mal ein bisschen feucht ist und gefroren hat, dann muss der natürlich aufdrehen können und darf dann eben nicht festgefroren sein.
+
+(0:10:30 - 0:10:47)
+Deshalb heizen wir den ein Stück weit, damit er auch im Winter gängig und funktionstüchtig ist. So, jetzt kommt die versprochene Verfügungsgrenze, die ich eben schon angekündigt hatte. Also ihr habt den Trenner zwar gekauft und eingebaut oben und den Erder, ihr dürft ihn aber nicht bedienen.
+
+(0:10:47 - 0:11:02)
+Hier ist es ganz klar definiert, dass nur der Netzbetreiber diesen Schalter eben betätigen darf und nur der Netzbetreiber darf bei Bedarf eben sein 110 kV Netz erden. Also ihr dürft da nicht ran. Das ist ganz wichtig und so wird es hier dargestellt.
+
+(0:11:02 - 0:11:14)
+Das will der Netzbetreiber auch wirklich im SLD so sehen. Nächste Komponente ist dann der Leistungsschalter. Wird hier gezeigt, das Symbol ist das gleiche wie in der Mittelspannung, das Kreuz für den Leistungsschalter.
+
+(0:11:14 - 0:11:28)
+Wir ziehen es mal kurz raus. Der Aufbau eines solchen Leistungsschalters sieht dann eben so aus wie das Modell, was sich hier so schön dreht. Wir haben unten wieder eben eine Stahlkonstruktion, auf der dieser Schalter steht.
+
+(0:11:29 - 0:11:44)
+Dann teilt er sich in zwei Bereiche. Auf der unteren Isolatorteil, das ist wirklich nur ein Isolator, das ist ohne Funktion. Dann gibt es ganz oben drauf einen Anschlusspunkt und es gibt noch in der Mitte einen Anschlusspunkt.
+
+(0:11:44 - 0:11:59)
+Zwischen diesen beiden Anschlusspunkten ganz oben und in der Mitte, da sitzt dann eben der Schalter. Weil wir brauchen Isolation zu der Stahlkonstruktion und oben drauf dann erst diesen Schalter. Dieser Leistungsschalter dient dann als Hauptschutz.
+
+(0:11:59 - 0:12:15)
+Hier kriegen wir dann die Vorgaben für das Schutzsystem in der Regel vom Netzbetreiber. Und wenn irgendwas mit unserem Transformator zum Beispiel sein sollte, dann sollte dieser Leistungsschalter auslösen. Wenn wir Fehler im Solarpack haben, dann natürlich nicht unbedingt.
+
+(0:12:15 - 0:12:29)
+Dann wollen wir immer selektiv auslösen. Dann sollte vorher irgendwo beispielsweise der Mittelspannungsleistungsschalter öffnen und eben nicht dieser hier. Aber das ist erstmal der Übergabeleistungsschalter des Netzbetreibers zum Netzanschlusspunkt.
+
+(0:12:33 - 0:12:49)
+Kenndaten auch hier, die Bemessungsspannung wie üblich. Der Bemessungsstrom liegt hier bei 3150 Ampere. Auch hier der gleiche Bemessungskurzzeitstrom, also Kurzschlussstrom 40 Kiloampere eine Sekunde.
+
+(0:12:50 - 0:13:02)
+Und dann noch ein Hinweis für die, die nicht so häufig in dieser 110 kV sind, weil ich es ganz interessant fand. Dieser Schalter kann man nicht beliebig oft und schnell ein-aus-ein-aus schalten. Es gibt hier eine Sequenz, die man da einhalten muss.
+
+(0:13:03 - 0:13:11)
+Also der Schalter öffnet natürlich erstmal, wenn er muss. Und ihr könnt ihn erst 300 Millisekunden später wieder schließen. Dann könnt ihr ihn sofort wieder öffnen.
+
+(0:13:11 - 0:13:31)
+Dieses Nachschließen und Öffnen gibt es dann keine Verzögerung. Es kann ja sein, dass ihr auf einen Kurzschluss schaltet und dann muss man sofort wieder öffnen können. Und dann aber für den nächsten Schließvorgang müsstet ihr erstmal drei Minuten warten, dass man wegen dieser Schalter sich erstmal wieder ein bisschen beruhigt, ein bisschen abkühlt und erst dann könnt ihr die nächste Schaltsequenz wieder initiieren.
+
+(0:13:32 - 0:13:52)
+Hier auch die Steuerspannung 220 Volt DC und eben auch hier eine Heizung, damit auch hier intern dann nichts festfriert, dass das alles funktionstüchtig ist. So, jetzt kommt auf der langen Linie, die wir hier zeigen, die Stromwandler. Und die reihen sich dann hier so an.
+
+(0:13:52 - 0:14:00)
+Das sind nicht viele verschiedene Wandler, sondern das ist in der Regel eine Komponente. Wir ziehen es mal raus. Die Komponente sieht genau so aus.
+
+(0:14:00 - 0:14:10)
+Und das ist dann eben der Stromwandler, der hier in dem Fall mehrere Kerne hat. Der hat immer mehrere Kerne. Hier sind es jetzt mal sechs Kerne.
+
+(0:14:11 - 0:14:19)
+Man könnte es im SLD durchzählen. Sechs Kreise müsste man da sehen für sechs Kerne. Und diese sechs Kerne, die haben dann natürlich alle eine Funktion.
+
+(0:14:20 - 0:14:27)
+Und zwar zum Beispiel Zählung, Messung, Schutz. Zählung ist dann immer das für den Netzbetreiber. Die Messung ist dann eher das für unseren Parkregler.
+
+(0:14:27 - 0:14:38)
+Und der Schutz ist eben der Schutz für unsere Schutzrelais, Überstromschutz und so weiter. Wir schauen uns auch hier mal die Kenndaten an. Und wir zeigen nicht alle sechs Kerne.
+
+(0:14:38 - 0:14:48)
+Das ist jetzt kein Fehler, sondern wir zeigen hier nur die Kerne, die wir jetzt mal für wichtig erachten. Also Kern 1 mit einem Übersetzungsverhältnis umschaltbar von 300 auf 600. Also ihr könnt es wählen.
+
+(0:14:48 - 0:15:03)
+Wie viel Anschlussleistung habt ihr denn genau? 300 Ampere oder 600? Dann könnt ihr den umschalten. Und Kern 1 mit einer Genauigkeitsklasse zum Beispiel von 0,5. Dazu gibt es dann noch den Überstrombegrenzungsfaktor und die Bemessungsleistung.
+
+(0:15:03 - 0:15:21)
+Das sind eben die Kenndaten für den Kern 1, für den Messkern. Und dann gibt es für den Kern 2 eben andere Genauigkeitsklassen, andere Überstrombegrenzungsfaktoren, aber eben auch ein Kern in diesem Wandler, der dann eben für den Schutz verwendet wird. K4, also K3 überspringen wir.
+
+(0:15:21 - 0:15:43)
+Wir nehmen jetzt K4 als Zellkern. Das ist dann die Messung zum Beispiel des Netzbetreibers, die mit 0,2 eine sehr hohe Genauigkeit hat und dann eben andere Überstrombegrenzungsfaktoren und eine andere Bemessungsleistung. Zum Schluss kommt noch der Kern 6. Auch hier bitte euren Fokus drauflegen, weil das wäre jetzt euer Parkreglerkern.
+
+(0:15:43 - 0:16:00)
+Das ist jetzt wieder eure Solarparkplanerverantwortlichkeit, auch wirklich hier darauf zu achten, dass der Kern dem entspricht, was eben die 4120 vorgibt, was ihr da braucht. Da müsst ihr den Planer des Umspannwerks an die Hand nehmen. Häufig planen die euch gar nicht mit ein.
+
+(0:16:01 - 0:16:06)
+Häufig wissen die nicht genau, was ein Solarpark braucht. Also da achtet bitte drauf. Kommt später dann auch in der Schnittstellenliste.
+
+(0:16:06 - 0:16:24)
+Das ist ein ganz wichtiger Punkt, damit ihr mit der Anlagenzertifizierung auch keine Schwierigkeiten bekommt. So, jetzt kommt nochmal ein Überspannungsableiter. Der ist bei fast allen Umspannwerken mit dabei, vor dem Transformator.
+
+(0:16:24 - 0:16:34)
+Und der sieht dann so aus. Also die Komponenten, ob es Leistungsschalter ist, Stromwandler, Spannungswandler ähneln sich sehr. Sie bestehen alle zum großen Teil aus diesen Isolatoren.
+
+(0:16:35 - 0:16:51)
+Und hier ist es jetzt eben ein Überspannungsableiter, also vielleicht ein SPD in der Niederspannung genannt. Und hier kriegt jede Phase seinen eigenen Überspannungsableiter. Und am Sternpunkt des Transformators gibt es nochmal einen separaten Überspannungsableiter.
+
+(0:16:51 - 0:17:01)
+Das ist eine kleine Besonderheit. Hier ist das so umgesetzt worden. Da wollen wir jetzt auch gar nicht im Detail drauf eingehen, warum das so ist, sondern es gibt diese Überspannungsableiter.
+
+(0:17:01 - 0:17:13)
+Und sie haben auch eine Spezifikation, die wir hier jetzt darstellen. Aber um Gottes willen, da können wir auf keinen Fall im Detail drauf eingehen. Es gibt eben dann drei Metalloxid-Überspannungsableiter für die Phasen.
+
+(0:17:13 - 0:17:30)
+Und dann gibt es nochmal einen für den Sternpunkt mit etwas anderer Charakteristik. Aber das reicht für hier. Habt das bitte im Kopf. 
+
+Es gibt das. Und wie die genau ausgelegt werden, das ist für heute nicht so wichtig. So, jetzt kommt der Transformator.
+
+(0:17:30 - 0:17:42)
+Das Herzstück des Umspannwerks wird hier als so ein Symbol dargestellt. Also hier haben wir ein YY-Trafo offensichtlich. Der Sternpunkt-Überspannungsableiter ist jetzt auch da.
+
+(0:17:42 - 0:17:50)
+Und wir gucken uns jetzt aber den Transformator im Detail an. So würde so ein Transformator aussehen. In der 360° war er ein bisschen anders.
+
+(0:17:51 - 0:18:06)
+Vor allem die Lüfter saßen an einer anderen Stelle. Im Detail unterscheiden die sich sicherlich. Aber die Vorstellung ist halt, man hat da wirklich einen riesengroßen Transformator, tonnenschwer, der ungefähr diese Optik hat.
+
+(0:18:08 - 0:18:17)
+So, der Transformator, gucken wir uns mal die Kenndaten an. Wir haben eine Bemessungsleistung erstmal. Für dieses Umspannwerk sind es 40-50 MVa.
+
+(0:18:17 - 0:18:32)
+Der Unterschied liegt eben daran, 40 MVa, wenn man ihn nicht mechanisch belüftet, also Oil-Natural-Air-Natural, oder eben mechanisch belüftet als Oil-Natural-Air-Forced. Das sind die Unterschiede. Dann, wenn man ihn mechanisch belüftet hat, hat er mehr Leistung.
+
+(0:18:34 - 0:18:43)
+Oberspannungsseite ist definiert mit 115 kV. Dann ist die Unterspannungsseite mit 31,5 kV definiert. Daraus resultiert natürlich ein Übersetzungsverhältnis.
+
+(0:18:43 - 0:18:59)
+Das heißt, wenn ihr 110 kV anschließt, kommen auf der Unterspannungsseite nicht 31,5 raus, sondern annähernd 30. Das kann man genau ausrechnen. Und was dann am Ende wirklich rauskommt, das definiert euer Stufensteller, weil der das Übersetzungsverhältnis dann ja immer noch variieren kann.
+
+(0:19:01 - 0:19:15)
+Dann gibt es eine Kurzschlussspannung, die angegeben wird. Das ist wichtig für unsere Kurzschlussberechnungen, für unsere Blindleistungsberechnungen. Und es gibt eine Innenimpedanz des Trafos, die eben größer sein muss als 40 Ohm.
+
+(0:19:15 - 0:19:27)
+Das ist die Vorgabe aus der TAP und aus der 4120. Die Schaltgruppe ist hier angegeben. Wir haben zwei Schaltgruppen, weil wir in der Regel zwei unterschiedliche Trafos sehen.
+
+(0:19:27 - 0:19:40)
+Es gibt einmal den YND5, den sieht man häufig. Und hier in dem Beispiel ist es eben der YNYN0 mit einer Hilfswicklung, mit einer Dreieckshilfswicklung zwischendrin. Funktionieren beide.
+
+(0:19:41 - 0:19:57)
+Da müsst ihr wirklich im Projekt schauen, welchen Trafo ihr da wählt, welchen ihr nehmen könnt. Eine Schallleistung ist noch angegeben, dass vielleicht, wenn euer Umspannwerk in der Nähe von Wohnbebauung ist, könnte das wichtig sein. Und es gibt dann noch die Angabe für die Durchführung auf der Mittelspannungsseite.
+
+(0:19:58 - 0:20:11)
+Es gibt sicherlich noch viele, viele, viele mehr Informationen, die man von so einem Trafo bekommen kann. Wir haben es jetzt mal auf das begrenzt, was wir euch hier gezeigt haben. Sonst schaut gerne in die Handbücher des Trafos, in die Datenblätter, auch alle anderen Komponenten.
+
+(0:20:11 - 0:20:23)
+Da gibt es noch viel, viel mehr Informationen, die wir euch jetzt aber nicht alle hier vorführen können. So, jetzt kommt noch die NOSPE. Und das heißt dann auf Deutsch Niederohmige Sternpunkterdung.
+
+(0:20:23 - 0:20:31)
+Das ist hier so gewählt worden. Hier ist sie dargestellt an der Niederspannungsseite des Trafos. Und zwar niederohmig.
+
+(0:20:31 - 0:20:53)
+Das heißt, man baut einen kleinen, einen niederohmigen Widerstand in den Sternpunkt des Trafos ein. Das heißt, im Erdfehlerfall sind wir nicht starr geerdet und haben einen sehr, sehr großen Erdfehler-Kurzschlussstrom, sondern wir begrenzen eben über diese NOSPE den Erdfehlerstrom. Ich glaube, hier in dem Fall sind das dann 1000 Ampere.
+
+(0:20:53 - 0:21:18)
+Das heißt, im Erd-Kurzschlussfall kriegen wir nicht mehr als 1000 Ampere Erdfehler-Kurzschlussstrom. Genau, am Sternpunkt des Trafos wird er angeschlossen. Wenn man in dieses Bild nachher gerne in der 360-Grad-Tour noch mal genauer reinschaut, dann sieht man, dass da sehr, sehr einfache Widerstände sind, die da einfach nur in Reihe geschaltet werden, damit man den Widerstandswert erreicht, der eben genau den gewünschten Erdfehlerstrom begrenzt.
+
+(0:21:22 - 0:21:32)
+So, jetzt kommen wir dann zur Mittelspannungsschaltanlage. Da fühlen sich dann ja viele aus der Mittelspannungstechnik dann eher zu Hause. Wir gehen jetzt von dem Trafo rüber.
+
+(0:21:32 - 0:21:48)
+Meistens nicht mit einem Kabelsystem, sondern mit mehreren. Auch in der Tour hatten wir es eben gesehen. Das waren, glaube ich, zwei Mittelspannungssysteme, die dann vom Trafo rübergelegt werden, einfach weil da viel Strom fließen muss, den man über ein System meistens nicht so einfach wegkriegt.
+
+(0:21:48 - 0:22:02)
+Deshalb macht man zwei parallele Systeme und schließt dann diese zwei parallelen Systeme eben an die Mittelspannungsschaltanlage an. So würde das Ersatzschaltbild dann mal aussehen von der Mittelspannungsschaltanlage. Das ziehen wir auch hier wieder raus.
+
+(0:22:02 - 0:22:25)
+Und so sieht jetzt im Beispiel mal so eine Schaltanlage aus. Ist jetzt größer, deutlich größer, als die, die wir in den kompakten Trafostationen sehen, weil vor allem die Kurzschlussstrombelastbarkeit höher sein muss und die Anlagen einfach für die Primärverteilung eher gedacht sind als für die Sekundärstromverteilung. Deshalb ist das einfach ein bisschen größer und robuster.
+
+(0:22:26 - 0:22:36)
+Abgang zum Transformator. Das heißt, dieser Schalter, der muss den gesamten Strom der PV-Anlage tragen und eben auch abschalten können. Darauf also achten.
+
+(0:22:36 - 0:22:48)
+Ja, da stehen dann zum Beispiel 1250 Ampere. Dann darf euer Solarpark auch nur 1250 Ampere machen, sonst ist dieser Schalter überlastet. Diese Schalter sind in einem Gebäude installiert.
+
+(0:22:49 - 0:23:01)
+Wir hatten es in der Tour ja auch schon gesehen, wo sie stehen und zeigen euch gleich auch noch mal im Modell, wie das dann wirklich angeordnet wird. Dann geht es zur Sammelschiene. Und von dieser Sammelschiene gibt es dann natürlich noch mehr Abgänge.
+
+(0:23:01 - 0:23:16)
+Jetzt haben wir erst mal zwei Abgänge, H2 und H3. Die würden jetzt beispielsweise zum Solarpark gehen, zu den Trafostationen. Und es würde hier noch ein weiteres Feld geben, was dann eben zu dem Eigenbedarfstrafo führt.
+
+(0:23:17 - 0:23:26)
+Das ist dann das Feld 4. Auch hier immer den Nennstrom beachten. Also beim Eigenbedarfstrafo, schaut mal auf die Stromwandler. 50 Ampere zu 5, die sind deutlich kleiner.
+
+(0:23:27 - 0:23:38)
+Für den Eigenbedarf wahrscheinlich immer noch viel zu groß. Und die Leistungsschalter zum PV-Feld, die müssen natürlich entsprechend dimensioniert sein und möglichst auch die Stromwandler. Guckt euch das im Detail an.
+
+(0:23:38 - 0:23:51)
+Da seid ihr dann als Planer gefragt, weil das eine klassische Schnittstelle ist. Dann müsst ihr den Umspannwerkserrichter ein Stück weit unterstützen. Jetzt quergelegt das gesamte SLD, weil es hochkant nicht reinpasst.
+
+(0:23:52 - 0:24:03)
+Jetzt zoomen wir es mal so ein bisschen zusammen. Also vor allem den Mittelspannungsteil, den reduzieren wir euch, weil wir wollen uns jetzt ein bisschen mehr auf die Freiluftkomponenten konzentrieren. Wir ziehen das hoch.
+
+(0:24:03 - 0:24:18)
+Und jetzt gehen wir es noch mal, wie ich es am Anfang schon beschrieben hatte, in einer anderen Dimension noch mal durch. Wir haben jetzt die Komponenten verstanden, wie sie aussehen, welche Kenndaten sie haben. Und jetzt schauen wir noch mal, wie das Ganze im Feldschnitt aussieht.
+
+(0:24:18 - 0:24:26)
+Also wir kommen von der Freileitung und gehen dann erstmal zum Portal. Das ist diese Mastanbindung, haben wir genau gesehen. Und so stellt es sich im SLD dann eben auch dar.
+
+(0:24:26 - 0:24:37)
+Grün markiert. Und als erste Komponente, die wir jetzt hier aufbauen, am Portal direkt, kommt jetzt der Spannungswandler erstmal rein. Der steht dann auch tatsächlich da, direkt unterm Portal in der Regel.
+
+(0:24:38 - 0:24:43)
+Vielleicht noch ein Spannungswandler links davor. In unserem Beispiel jetzt nicht. Könnte aber sein.
+
+(0:24:44 - 0:24:53)
+Von dem Spannungswandler geht es weiter zu dem Lasttrenner. Der Lasttrenner, der steht dann direkt daneben. Ihr seht dann immer die Seilanbindung, die greift dann auch oben an diesen Schalter an.
+
+(0:24:54 - 0:25:09)
+Und diesen Schalter könnte man jetzt trennen, damit man sein gesamtes Umspannwerk, alles was dahinter ist, von der Freileitung trennt. Von dem Trenner geht es dann zu dem Leistungsschalter. Hier seht ihr wieder diese beiden, den mittleren Anschluss und den oberen Anschluss.
+
+(0:25:09 - 0:25:14)
+Das hatten wir eben so erklärt. In der Mitte wird das Seil angeschlossen. Hier seht ihr es jetzt mal besser, was gemeint ist.
+
+(0:25:14 - 0:25:48)
+Der untere Teil des Schalters ist wirklich Isolation, damit unser Leiterseil nicht direkt auf der Stahlkonstruktion liegt, weil dann hätten wir sofort einen Erdfehler, sondern es muss in einer gewissen Höhe mit dem Isolator erst mal aufgebaut werden, um dann unten an den Leistungsschalter anzufassen. Und dann geht es von oben vom Leistungsschalter weiter zum Stromwandler, der dann so aussieht. Vom Stromwandler geht es dann weiter an den Überspannungsableiter und von dort zu dem großen Transformator, erst mal auf die Hochspannungsseite.
+
+(0:25:49 - 0:26:08)
+Und von dem Transformator seht ihr jetzt noch die Nospe, die niederohmige Sternpunkterdung und den anderen Überspannungsableiter. Stellt euch vor, die sind auf der anderen Seite vom Trafo, weil wir das jetzt nicht einblenden. Und von dort, von dem Hochspannungstrafo, gehen wir in das Schalthaus, weil da befindet sich jetzt die Mittelspannungsschaltanlage.
+
+(0:26:09 - 0:26:37)
+Jetzt drehen wir das Ganze nochmal und jetzt seht ihr in der Vogelperspektive im Grunde genommen, dass man jetzt diese Verbindung, die wir nochmal aufbauen, natürlich für jedes Leiterseil, was wir hier verwenden, dreimal haben. Also dreimal vom Spannungswandler zum Trenner, zum Leistungsschalter, zum Stromwandler, zum Überspannungsableiter glaube ich und dann zum Transformator. Hier sehen wir jetzt nochmal den Überspannungsableiter im Sternpunkt.
+
+(0:26:38 - 0:28:38)
+Entschuldigung, das ist die niederohmige Sternpunkterdung und wir sehen noch den Spannungs... den Überspannungsableiter. So, jetzt haben wir für euch eine Übung. Ich habe jetzt viel gesprochen, euch viel durchs Umspannwerk mitgenommen, viel erklärt und jetzt gibt es Übung 1. Es gibt eine Checkliste, die müsstet ihr jetzt im Chat finden und diese Checkliste, die müsstet ihr dann gleich einmal ausfüllen und im Umspannwerk abprüfen. 
+
+Also nehmt bitte das Blatt 1, Checkliste, Ü 1, Checkliste, spaziert gerne in Ruhe durch das Umspannwerk, füllt die Checkliste aus, 5 Minuten sagt mir gerade mein Kollege, also müsst ihr schon relativ schnell durchs Umspannwerk gehen und dann könnt ihr diese Checkliste, also alle gelb markierten Felder bitte ausfüllen, damit wir das dann später im Menti nochmal abfragen. Also 5 Minuten Zeit, viel Spaß, viel Erfolg, bis gleich. So, die 5 Minuten sind um, ihr seht im Hintergrund, der Timer ist runtergelaufen, herzlich willkommen zurück. 
+
+Wir würden jetzt diese Fragen im Menti abfragen, also alle rein ins Menti, mein Kollege macht das auch und ich würde dann versuchen, im Hintergrund euch zu den entsprechenden Punkten zu führen. So, ich bin in der 360°-Tour, das Menti kommt jeden Moment dazu. Da geht's los und dann würden wir starten mit der ersten Menti-Frage. 
+
+Und ich halte mich bereit und schau mal, wo ich hin muss. Ich orientiere mich erstmal an meinem Übersichtsplan. Wie viele Stufen hat der Stufensteller des Trafos? Boah, da muss ich erstmal zum Transformator laufen.
+
+(0:28:40 - 0:28:59)
+Ja. Gucken, ob ich das schnell genug... Sekunde, Sekunde, Sekunde. Wie viele Stufen hat der Stufenschalter des Transformators? Ich muss das untere Typenschild öffnen, Entschuldigung.
+
+(0:29:00 - 0:29:10)
+Das ist gar nicht so einfach. Links unten hier sieht man, dass es 19 Stufen gibt. Hier.
+
+(0:29:12 - 0:29:19)
+Dann kommt die nächste Frage. So, hier sind wir im Menti. Nächste Frage.
+
+(0:29:22 - 0:29:30)
+Ich spring schnell in meine Übersicht, damit ich schnell reagieren kann. Wo muss ich hin? In welcher Position steht der? Okay, dann muss ich zurück. Ganz schnell.
+
+(0:29:31 - 0:29:37)
+Und ich muss zum Stufenschalter, denke ich. Und muss dann hier mal auf den Stufenschalter schauen. Hm.
+
+(0:29:38 - 0:30:15)
+Ich würde sagen, er steht auf Position 12. Ja, genau. Das sieht man jetzt hier. 
+
+Ich habe das Bild eingeblendet. Der Schwarze ist die Anzeige, wo er jetzt ist. Und dann gibt es auch hier Schleppzeiger, so heißt es, glaube ich, die eben anzeigen, wo er sich schon mal befunden hatte. 
+
+Also er war beispielsweise noch nie auf der 1. Er hat sich immer zwischen 9 und 13 irgendwo eingependelt. Dann geht es weiter zur nächsten Frage. Welcher Widerstand in Ohm ist verbaut? Okay, ich glaube, das kann ich am besten hier.
+
+(0:30:16 - 0:30:33)
+Zack. Es wird hier wahrscheinlich um die Nospe gehen. Oh, ich bin, ja, der Kollege sagt mir gerade, ich muss wahrscheinlich in der anderen Nospe nachschauen.
+
+(0:30:41 - 0:30:50)
+Hier haben wir es. Jaja, ist nicht so einfach zu finden. Ich würde sagen, wir haben hier einen Widerstand von 20 Ohm.
+
+(0:30:54 - 0:31:16)
+Nächste Frage. Also welche Genauigkeitsklasse hat der Kern 6 des Stromwandlers? Ich versuche auch da jetzt sehr schnell genug hinzulaufen. Stromwandler sind dann, denke ich, hier.
+
+(0:31:17 - 0:31:31)
+Ja, jetzt muss ich noch das Typenschild finden. Ja, dann würde ich mal sagen, ich finde es jetzt nicht so schnell. Wahrscheinlich muss ich jetzt zum anderen Stromwandler rüberlaufen.
+
+(0:31:33 - 0:31:42)
+Hier ist was. Genau, hier sehe ich den Stromwandler Kern 6 0,2. So, weiter geht's.
+
+(0:31:43 - 0:31:58)
+Nächste Frage. Welchen Betriebsstrom in Ampere hat der 110 kV Leistungsschalter? Der Leistungsschalter müsste genau hinter mir sein. Ich warte noch kurz die paar Sekunden ab.
+
+(0:31:58 - 0:32:02)
+Hier, denke ich, ist das Typenschild. Jetzt habe ich aus Versehen gedrückt. Hier ist das Typenschild.
+
+(0:32:05 - 0:32:26)
+Ich sehe hier eine 2500 und das ist dann auch die richtige Antwort. Weiter geht's. Welche Nennspannung im kV hat der 110 kV Trennschalter? Trennschalter, da muss ich ein Stückchen weiter laufen.
+
+(0:32:28 - 0:32:34)
+Hier ist der Trennschalter. Hier habe ich eine Lupe. Hier schaue ich mal drauf.
+
+(0:32:35 - 0:32:40)
+Die Spannung ist 123 kV. Korrekt. Dann gehen wir zur nächsten Frage.
+
+(0:32:45 - 0:32:54)
+Wie viele Kerne hat der Spannungswandler? Der Spannungswandler war ganz vorne. Ziemlich direkt unter dem Portal. Hier ist er.
+
+(0:32:54 - 0:33:04)
+Noch 5 Sekunden. Ich öffne schon mal das Bild. 1, 2, 3, 4, 5 Kerne habe ich hier gezählt und das ist auch die richtige Antwort.
+
+(0:33:05 - 0:33:29)
+Nächste Frage. Welche Nennleistung im kV hat der Eigenversorgungstrafo? Da springe ich schnell in meiner Übersicht zu dem Eigenversorgungstrafo und öffne die Tür und finde hier eine Lupe. Da ist dann wahrscheinlich das Typenschild.
+
+(0:33:30 - 0:33:39)
+Wie viel kV hat er denn? Ich sehe hier oben 50 kV. Also richtige Antwort 50. Nächste Frage.
+
+(0:33:46 - 0:33:58)
+Welche Spannung steht im Moment an der Sammelschiene an? Ja, das ist nicht so einfach zu finden. Da muss man jetzt erstmal dahin, wo man Displays hat, würde ich sagen. Sammelschiene, meinen wir hier Mittelspannungssammelschiene.
+
+(0:33:59 - 0:34:47)
+Da können wir uns erstmal hier die Schaltfelder anschauen. Ich muss hier nochmal tiefer rein und kann hier auf das Relais schauen und sehe hier eine Spannung von 30,6 auf dem Display und das ist die richtige Antwort. Nächste Frage. 
+
+Welcher Umrechnungsfaktor der Zählerimpuls ist eingestellt? Da nehme ich die Abkürzung zum Zählerraum, springe nach draußen und stehe schon direkt vorm Zähler. Ich öffne mal hier den Zähler und der Zählerimpuls, der Umrechnungsfaktor Erstmal gibt es hier einen Umrechnungsfaktor für die Zählermesswerte. Das ist die richtige Antwort, also 330.000. Nächste Frage.
+
+(0:34:51 - 0:35:05)
+So, dann wollen wir mal schauen. Wer ist vorne? Lola scheint gut abgeschnitten zu haben. Hervorragend. 
+
+Dann geht es weiter zurück in die PowerPoint-Präsentation. Jetzt kommt noch das letzte Thema.

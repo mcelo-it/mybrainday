@@ -1,0 +1,151 @@
+(0:00:00 - 0:00:54)
+Es geht los mit der Frage, warum sollte man sich das jetzt ein bis zwei Stunden hier konzentriert anhören und sich dann im besten Fall natürlich selber auch noch mal für seine Projekte ganz, ganz viele Gedanken machen? Also zum Ersten, weil es sehr viele Beteiligte an so einer Inbetriebnahme gibt. Da fällt uns erstmal ein, der Netzbetreiber selbst, der hat auch auf die Sicht der Inbetriebnahme eine ganz andere Perspektive, nimmt der ein, kann man sich ja vielleicht mal in seine Rolle versetzen, der macht das vielleicht sozusagen jeden Tag, hat hunderte von Anträgen, der konzentriert sich also nicht auf euer Projekt alleine, sondern konzentriert sich auf wenige Aufgaben innerhalb der Inbetriebnahme und die schauen wir uns dann auch gleich an. Also den muss man auf jeden Fall mitnehmen und vielleicht auch mal aus seiner Perspektive sich das kurz überlegen.
+
+(0:00:54 - 0:01:05)
+Dann gibt es den Anlagenbetreiber. Das ist nicht meine Funktion. Ich als Planer, als Generalunternehmer bin nicht der Anlagenbetreiber.
+
+(0:01:06 - 0:01:50)
+Meistens taucht er in so einem Projektablauf gar nicht so häufig auf. Im Hintergrund bestimmt, weil er immer geprüft, ob alles richtig läuft. Aber bei der Inbetriebnahme, da ist er auf jeden Fall relevant und sei es nur, um an der richtigen Stelle Unterschriften zu setzen, weil nämlich die Inbetriebnahme am Netzanschlusspunkt zwischen Netzbetreiber und Anlagenbetreiber abläuft und nicht zwischen Netzbetreiber und zum Beispiel Elektroplaner. 
+
+Dann haben wir es genannt, den Lieferant der Übergabestation und Trafostation. Wir haben extra Schutzprüfer in Klammern dahinter geschrieben, weil der Lieferant selbst, meinetwegen der Geschäftsführer, der bringt einem jetzt auch nichts, sondern es geht schon um die Techniker. Das sind meistens Schutzprüfer, so werden sie dann meiner Meinung nach auch meistens genannt.
+
+(0:01:50 - 0:02:20)
+Die sind zwingend erforderlich, zum Beispiel bei der Inbetriebnahme der Übergabestation muss jemand vor Ort sein, der wirklich genau weiß, wie die Schutzrelais zu parametrieren sind, welche Schalter einzulegen sind und im Zweifel, wenn irgendwo Fehler auch tauchen, diese dann auch schnell findet. Sonst sagt der Netzbetreiber, der dann ja auch dabei ist, sehr, sehr schnell, also wenn ihr selber nicht wisst, wie eure Station funktioniert, dann fahren wir jetzt auch wieder nach Hause, ihr könnt einen neuen Termin ausmachen. Also diese Person sozusagen ist aus unserer Sicht zwingend erforderlich.
+
+(0:02:20 - 0:02:56)
+Wir kürzen das in Zukunft jetzt ab, UGS ist Übergabestation, TS ist Trafostation, das kommt jetzt ganz, ganz häufig, habe ich jetzt einmal hier nochmal konkret darauf hingewiesen, merkt es euch, die UGS und die Trafostation zu unterscheiden. Der Lieferant des Parkreglers, ähnliches Prinzip, da geht es mir um den Techniker, der also genau weiß, wie man seine Schnittstelle einstellt, wie man die ganzen Datenpunkte prüft, der ist auch wichtig für die Durchführung von so einem ganzen Inbetriebnahmeprozess. Meiner Erfahrung nach sind die dann im Großteil der Inbetriebnahme online mit dabei.
+
+(0:02:56 - 0:03:27)
+Da muss man vorher mal festgestellt haben, dass der Internetzugang auch wirklich reibungslos funktioniert. Aber das ist jetzt für mich hier nicht relevant, ob der physisch vor Ort ist oder online, das ist nicht der Punkt. Er muss aber auf jeden Fall mit integriert werden in den Inbetriebnahmeablauf und vielleicht an der Stelle mal kurz auch für mich nochmal deutlich gemacht, wenn ich von Inbetriebnahme spreche, sind das bei großen Projekten, also im Multi-Megawatt-Bereich, nicht Stunden oder Tage, sondern der Gesamt-Inbetriebnahmeprozess zieht sich meiner Meinung nach über Wochen.
+
+(0:03:28 - 0:03:47)
+Die einzelnen Punkte mögen sozusagen an einem Tag abgearbeitet sein, aber die Gesamt-Inbetriebnahme seht ihr später auch noch von erster Leistungsschalter in der Übergabestation bis Probebetrieb endet, Monitoring funktioniert reibungslos, alle Wechselrichter laufen. Da können mehrere Wochen dazwischen liegen. Dann gibt es den Messstellenbetreiber.
+
+(0:03:47 - 0:04:00)
+Genau, der gehört nicht zum Netzbetreiber. Das ist sozusagen eine eigenständige Person, wenn man so will, und der hat eine relativ kleine, aber dafür unglaublich wichtige Rolle. Der muss den Zähler setzen und der muss auch die Anlaufprüfung machen.
+
+(0:04:00 - 0:04:13)
+Also der gehört auch mit dazu. Dann gibt es den Inbetriebnehmer, so nennen wir ihn jedenfalls. Also das ist für mich eine übergeordnete Person, meistens aus meiner Erfahrung nach beauftragt vom Generalunternehmer.
+
+(0:04:13 - 0:04:28)
+Ich selbst oder Kollegen von mir nehmen die Rolle manchmal ein bei den Projekten, die wir betreuen. Das ist eine übergeordnete Verantwortlichkeit, die den Sicht auf die gesamten Dinge, die ich heute erkläre, haben muss. Der muss nicht alles selber machen.
+
+(0:04:28 - 0:04:48)
+Im Gegenteil, es macht sehr viel mehr Sinn. Er verteilt sehr viele Aufgaben, aber er muss den Gesamtkontext greifen können, er muss alle diese Beteiligten kennen, er muss sie alle koordinieren, alle informiert haben und dann vor Ort auch die Verantwortung tragen für das, was dann die Projektbeteiligten so machen. Zum Beispiel die Nachunternehmer.
+
+(0:04:49 - 0:05:01)
+Das können dann verschiedenste Firmen sein. Also großes Projekt. Da bin ich sicher, gibt es einen anderen Nachunternehmer für die DC-Montage als für die AC-Montage, als für die Mittelspannungs-Montage haben wir hier separat ja auch aufgeliefert.
+
+(0:05:01 - 0:05:23)
+Übergabestation, Trafostation, das sind alles unterschiedliche Nachunternehmer und die sind aber mit Sicherheit alle mindestens indirekt auch bei der Inbetriebnahme beteiligt. Also ich glaube, diese Übersicht zeigt jetzt schon mal, dass wenn man die Inbetriebnahme als gesamten Prozess begleitet, ist das ziemlich komplex. Das waren erstmal die Beteiligten, die wir so genannt haben.
+
+(0:05:24 - 0:05:44)
+Jetzt gucken wir uns so einen Zeitplan erstmal in Bullet Points an. Später machen wir das ja noch ganz genau für ein Projekt als Beispiel. Wichtig ist für mich erstmal zu verstehen, dass so ein Inbetriebnahme-Zeitplan immer aus bedingten Einzelbausteinen besteht, also aus Einzelbausteinen, die sich gegenseitig bedingen.
+
+(0:05:45 - 0:06:00)
+Und dann wird da eine Terminkette daraus, die in sich erstens mal lang ist, aus verschiedenen Einzelteilen besteht, aber ganz wichtig, dass sich die einzelnen Schritte gegenseitig bedingen. Das werden wir später sehen. Ich kann also nicht einfach die einzelnen Arbeitsschritte machen, wann ich möchte.
+
+(0:06:00 - 0:06:12)
+Das geht so nicht, sondern ich muss meistens warten, dass der vorangegangene abgeschlossen ist, damit ich mit dem nächsten überhaupt starten kann. Das macht so eine Inbetriebnahme so kompliziert. Aber ehrlich gesagt macht das eben auch super interessant.
+
+(0:06:12 - 0:06:34)
+Und wenn man das dann im Kontext in sich alles so begriffen hat, macht das auch einfach sehr viel Spaß, da auf der Baustelle dann Entscheidungen zu treffen, mit anderen zu diskutieren und natürlich einen reibungslosen Inbetriebnahmeablauf hinzukriegen. Dann wird das meistens so eingerahmt von vertraglichen Vereinbarungen, also so Inbetriebnahmetermine. Schaut im Vertrag nach, dass es projektspezifisch definiert.
+
+(0:06:34 - 0:06:41)
+Aber ist natürlich ganz wichtig. Das muss man sich vorher mal durchlesen. Und meistens macht es das eben auch noch mal so ein bisschen anspruchsvoller.
+
+(0:06:43 - 0:06:54)
+Sonst hagelt es im Zweifel Vertragsstrafen oder Mehrkosten, weil man ein bisschen später in Betrieb gegangen ist oder nicht alles in Betrieb genommen hat. Wie auch immer. Das sind so die die Rahmenbedingungen, die beachtet werden müssen.
+
+(0:06:57 - 0:07:14)
+Jetzt kommt Komplexität als Überbegriff. Also ich glaube, was ich gerade schon beschrieben habe, zeigt wahrscheinlich schon, dass es komplex sein kann. In diesem Bulletpoint wollen wir noch mal zusätzlich darauf hinweisen, dass das viele, viele, viele Arbeitsschritte sind.
+
+(0:07:14 - 0:07:25)
+Also es ist nicht die eine Inbetriebnahme, sondern ich glaube, später sind es ungefähr 40 Punkte, die wir da einzeln aufgesammelt haben. Und im Zweifel sind es ja tatsächlich auch noch mehr. So Unterpunkte haben wir dann irgendwie auch irgendwann mal weggelassen.
+
+(0:07:25 - 0:07:33)
+Also das sind viele, viele Arbeitsschritte. Dazu gehören jede Menge Protokolle, die sich auch grundlegend unterscheiden. Also das macht es schon mal sehr komplex.
+
+(0:07:33 - 0:07:48)
+Die Arbeitsabläufe selbst sind oft nicht trivial. Als ein Beispiel will ich nennen so eine Mittelspannung Schaltsequenz, die wir ja später ganz im Detail auseinandernehmen, ganz einzeln mal darstellen. Da wird man das sehen, wie kompliziert das ist.
+
+(0:07:49 - 0:08:14)
+Also wenn man einfach mal so sagt Nimm doch bitte die Mittelspannungs Linie 3 in Betrieb, dann ist das nicht einfach mal so schnell gemacht, sondern da muss man sich schon sehr genau überlegen, wie diese komplexen Arbeitsabläufe eigentlich dargestellt werden sollen. Genau und dann gibt es eben immer Abhängigkeiten. Also man kann die Mittelspannung nicht in Betrieb nehmen, ohne da gewisse Prüfprotokolle zum Beispiel vorliegen zu haben.
+
+(0:08:14 - 0:08:28)
+Oder ich kann ja auch meine Transformatoren nicht in Betrieb nehmen, wenn nicht vorher die Übergabestation schon in Betrieb genommen wird. Also alle würde ich fast schon behaupten, Prozessschritte sind mindestens von einem anderen abhängig. Und das macht es eben so komplex.
+
+(0:08:30 - 0:08:41)
+Gleichzeitig will man es zügig machen. Ultra optimiert. Klar, das macht doch dann eben auch viel mehr Spaß nochmal, wenn man sagen kann, dass man das einzeln auseinandergezogen hat.
+
+(0:08:41 - 0:08:56)
+Diese Abhängigkeiten und die, die jetzt nicht grundlegend voneinander abhängig sind, kann man parallel ausführen. Aber dazu muss man den Gesamtkontext verstanden haben. Sonst geht das auf jeden Fall schief und dann kriegt man auf der Baustelle mehrere Subunternehmer, die sich da gegenseitig auf den Füßen stehen.
+
+(0:09:00 - 0:09:05)
+Richtlinien und Normen. Das machen wir heute ganz kurz. Da können jetzt alle erstmal tief durchatmen.
+
+(0:09:05 - 0:09:21)
+Wir haben ja kein extra Kapitel reingenommen, sondern ich zeige nur mal eine kurze Übersicht. Also auch für die Inbetriebnahme gibt es Richtlinien und Normen, die muss dieser Inbetriebnehmer, den ich genannt habe, kennen und sich vorher nochmal durchgelesen haben. Die helfen, die Abläufe zu vereinfachen.
+
+(0:09:22 - 0:09:34)
+Die helfen, den zeitlichen und inhaltlichen Rahmen nochmal zu definieren. Die gelten beidseitig. Das finde ich ist immer ein ganz toller Punkt bei Normen und Richtlinien.
+
+(0:09:34 - 0:09:44)
+Der ein oder andere mag ja vielleicht denken, ach, das macht es jetzt natürlich etwas schwieriger. Das ist aber nicht unbedingt so, weil die gelten ja eben in beide Richtungen. Ich sage nur mal ein Beispiel.
+
+(0:09:45 - 0:10:04)
+Wenn man da sagt seinem Nachunternehmer, er soll die AC-Kabel nach einer gewissen Richtlinie, die ich gleich zeige, prüfen, dann gilt das beidseitig. Wenn man also später nochmal die Idee hat, dass man da noch weitere Prüfungen haben will, dann kann er sagen, so war das nicht vereinbart. Wir wollten das nach Richtlinie machen.
+
+(0:10:04 - 0:10:28)
+Und dann hilft das sozusagen auch demjenigen, der damit beauftragt wurde, in die andere Richtung argumentieren zu können, wo dann auch mal die Grenzen gesetzt werden, dass man nicht immer weiter irgendwie machen muss. Spannungsebene beachten. Genau das würde ich sagen gilt grundsätzlich bei diesen 41, 10, 20, 30 Geschichten ist das erstmal sehr eindeutig.
+
+(0:10:28 - 0:10:42)
+Bei der Sicherheit, die schiebe ich hier extra nochmal raus und nehme alles andere weg, weil sie uns grundsätzlich natürlich wichtig ist. Aber bei der Inbetriebnahme muss sie immer an allererster Position stehen. Sie muss ganz, ganz oben stehen.
+
+(0:10:42 - 0:10:56)
+Das sagen wir auch immer zu unseren Teamkollegen oder zu unseren Subunternehmern auf der Baustelle. Wenn irgendwo Unsicherheiten auftreten, dann immer erst mal einen Schritt zurück gehen. Erst mal sich abstimmen mit anderen Kollegen.
+
+(0:10:56 - 0:11:17)
+Ich persönlich erachte das als etwas sehr Positives, habe dann von dem Kollegen da einen guten Eindruck, wenn er im Zweifel Fragen dazu stellt, was er denn da machen soll, als wenn er einfach loslegt. Ich würde sagen, mit der Erfahrung kriegt man das dann schon sehr schnell raus, wer da eigentlich weiß, was er tut und wer nicht. Und wer weiß, was er tut, der achtet auf Sicherheit.
+
+(0:11:17 - 0:11:36)
+Und der hat dann auch die richtigen Schulungen besucht. Der hat die richtigen Zertifikate, dass er überhaupt berechtigt und befähigt ist, die einzelnen Arbeitsschritte auszuführen. Wir wollen an der Stelle nur einmal ganz kurz klarstellen, dass die Verantwortung für diese Arbeiten dann bei der ausführenden Person selbst liegt.
+
+(0:11:36 - 0:11:50)
+Also ich versuche hier wirklich, mein gesamtes Wissen zu vermitteln, dass ihr dann auch so eine Inbetriebnahme wunderbar selber durchführen könnt. Aber es gibt nicht die Möglichkeit, sozusagen zu sagen, das Team von My Brain Day hat mir das gesagt. Ich soll das so machen.
+
+(0:11:50 - 0:11:54)
+Und jetzt habe ich das gemacht. Und jetzt hat das nicht funktioniert. Das ist ausgeschlossen.
+
+(0:11:54 - 0:12:12)
+Und das liegt einfach daran, dass das immer projektspezifisch zu betrachten. Es muss einen projektspezifischen Verantwortlichen geben, der das gerne meinetwegen mit Teilen meines Inputs von heute sich überlegt und aufbaut. Aber am Ende steht er dafür gerade, dass er das Ganze nochmal geprüft hat und dann auch richtig ist.
+
+(0:12:14 - 0:12:25)
+Einmal kurz die Richtlinien rausgezogen, nur dass wir sie genannt haben. Es gibt die 0100600. Da stehen jede Menge Prüfungen drin im Teil 6. Ich habe die mal hier dargestellt.
+
+(0:12:25 - 0:12:33)
+Mach mal in einer anderen Schulungseinheit. Heute nicht, nur dass man es mal so gesehen hat. Also Polarität, Durchgängigkeit, Isolationsfähigkeit.
+
+(0:12:33 - 0:12:42)
+Das steht da alles drin. Diese Grundlage ist ganz wichtig für die Prüfung, bevor man überhaupt eine Inbetriebnahme machen kann. Dann die DGU V3, Unfallverhütungsschrift.
+
+(0:12:42 - 0:12:54)
+Da steht auch ganz viel zur Sicherheit drin. Also der Inbetriebnehmer, der da übergeordnet verantwortlich ist, sollte so eine Schulung auf jeden Fall besucht haben. Der sollte da die Grundlagen kennen.
+
+(0:12:56 - 0:13:09)
+Genau, ist eine Elektrofachkraft und außerdem die Richterbestätigung für die Trafostation. Da steht das auch nochmal drin. Dann die berühmte Bibel, die 4110 Technischen Regeln für den Anschluss von Kundenanlagen.
+
+(0:13:09 - 0:13:13)
+Mache ich ja gleich nochmal im Detail. Ist gleich das nächste Kapitel. Deswegen gehe ich jetzt an der Stelle nicht drauf an.
+
+(0:13:13 - 0:13:19)
+Die ist auf jeden Fall wichtig. Das ist eine Basis für so eine Inbetriebnahme. Und dann noch eine reine PV-Norm.
+
+(0:13:19 - 0:13:31)
+Deswegen haben wir sie genannt. Das ist, finde ich, auch immer wichtig, die mit reinzunehmen, die IC62446. Die spricht nämlich von Systemdokumentation und Inbetriebnahmeprüfung.
+
+(0:13:31 - 0:13:40)
+Die heißt ja schon so. Dann habe ich hier auch nochmal die wichtigsten Inbetriebnahmeprüfungen dargestellt. Also Besichtigung, Durchgängigkeit, Polarität, Kurzschlussstrom.
+
+(0:13:40 - 0:13:58)
+Da gibt es auch eine Schulungseinheit in unserer Reihe, die sich nur mit diesen Prüfungen beschäftigt und erklärt, wie die gehen. Deswegen machen wir das heute nicht. Aber jetzt habt ihr mal so einen Rahmen gekriegt, was, finde ich, die Basis an Richtlinien und Normen für so eine Inbetriebnahme sein kann.

@@ -1,0 +1,106 @@
+(0:00:00 - 0:00:27)
+Die letzten acht Minuten noch mal in das letzte Kapitel. Das nennt sich Messkonzepte. Und da möchte ich vorwegnehmen, dass es komplexe Messkonzepte und Logiken gibt, kleinteilige, und auf die gehen wir heute hier nicht ein, sondern wir schauen uns übergeordnet die aus meiner Sicht zwei wichtigsten Messkonzepte an.
+
+(0:00:28 - 0:00:48)
+Und dazu zeige ich dann vielleicht noch kleine Beispiele, damit man mal so einen Eindruck gewonnen hat und vielleicht in der ersten Diskussionsebene gut mithalten kann. Nummer eins und die einfachste von allen ist die sogenannte Volleinspeisung. Das wäre zum Beispiel eine PV-Freiflächenanlage.
+
+(0:00:48 - 0:01:06)
+Ich zeichne sie hier einmal schematisch auf. Wir haben unseren Netzverknüpfungspunkt und wir haben auf der anderen Seite unsere Solaranlage. Und dazwischen ist das als Symbol gemeint, ein Transformator, der zum Beispiel also mit zum Beispiel meine ich den Transformator Wirkleistungsverluste erzeugt.
+
+(0:01:06 - 0:01:22)
+Das ist jetzt eine typische Freiflächenanlage und die hätte jetzt hier einen Zähler. Achtung, der heißt jetzt bei uns Z1 und ich sage aber gleich dazu, es gibt jetzt keinen Zähler Z2. Der kommt später bei den anderen Konzepten.
+
+(0:01:22 - 0:01:44)
+Und worauf ich hier noch hinaus möchte, ist, dass es, weil es ja nur einen Zähler gibt, der aber ein Vierquadranten Zähler ist in diesem Fall. Das heißt, er kann Bezug und Einspeisung getrennt messen. Aber es ist nicht möglich, kontinuierlich Erzeugung und Verbrauch getrennt zu messen und damit darzustellen.
+
+(0:01:45 - 0:02:09)
+Das ist nicht möglich. Der Zähler hier am Netzverknüpfungspunkt, der misst ja nur in Anführungsstrichen die Summe quasi der Verluste und der Erzeuger. Er kann ja nicht dadurch identifizieren, welchen Teil hat denn jetzt irgendwie der Transformator verbraucht oder eine Lampe in der Übergabestation, sondern wenn man so will, wird dieser Verbrauch während die Anlage Strom erzeugt vom Solarstrom abgedeckt.
+
+(0:02:09 - 0:02:26)
+Also eine kontinuierliche Trennung von Erzeugung und Verbrauch ist nicht möglich. Erst wenn die Anlage keinen Strom erzeugt, dann sehe ich natürlich den Verbrauch, weil der Zähler mir dann den anderen Quadrant anzeigt. Jetzt machen wir es ein bisschen komplizierter.
+
+(0:02:27 - 0:02:36)
+Typischer Anwendungsfall für alle Kollegen von den Dachanlagen. Ganz wichtig, da ist das anders. Deswegen ist meine Volleinspeisung auch schon grau geworden.
+
+(0:02:36 - 0:03:00)
+Und jetzt kommt die Kaufmännisch-Bilanzielle Weitergabe. Für mich ist das der übergeordnete Begriff für das, was wir das Konzept, das wir jetzt hier zeigen und das ich kurz darstellen möchte. Also wir haben jetzt logischerweise einen Verbraucher, der war ja wahrscheinlich zuerst da. 
+
+Das ist halt die Fabrik. Und jetzt haben wir noch mal eine PV-Anlage oben aufs Dach gesetzt. Jetzt ist es wichtig, dass man hier einen zweiten Zähler setzt.
+
+(0:03:01 - 0:03:10)
+Und zwar genau an die Stelle, an der ich es gerade gezeigt habe. Jetzt passiert nämlich Folgendes. Man kann den Verbrauch aus Z1 und Z2 ausrechnen.
+
+(0:03:11 - 0:03:18)
+Wichtig ist, das Verbraucher-Zähler-System richtig zu definieren. In beiden Zählern gleich. Nur dann funktioniert diese Logik.
+
+(0:03:19 - 0:03:37)
+Und ich brauche dafür ein Zahlenbeispiel, sonst werde ich nicht glücklich. Wir nehmen das Verbraucher-Zähler-System und schauen uns mal eine Variante an. Der Zähler Z2, meine PV-Anlage, Verbraucher-Zähler-System sagt minus 100 kW und gleichzeitig sagt dieser Zähler Z1 auch minus 100 kW.
+
+(0:03:37 - 0:03:45)
+Das heißt im Umkehrschluss, wir haben gerade überhaupt keinen Verbraucher. Die Fabrik ist aus, alle Lichter aus, alle Heizungen aus. Der macht gar nichts.
+
+(0:03:45 - 0:04:03)
+Das kann man sich quasi kaufmännisch bilanziell errechnen aus Z1 und Z2. Wenn man das einmal richtig gemacht hat, dann ist die Variante 2 auch ziemlich simpel. Man hat jetzt meinetwegen weiterhin die 100 kW, aber plötzlich zeigt dieser Zähler Z1 nur noch 50 kW an.
+
+(0:04:03 - 0:04:14)
+Im Umkehrschluss heißt das, jetzt hat die Fabrik angefangen zu arbeiten. Der Verbraucher hat 50 kW verbraucht. Und einfach nur, um die Logik zu Ende zu führen.
+
+(0:04:14 - 0:04:26)
+Jetzt wird plötzlich die PV-Anlage bewölkt, nur noch halbe Leistung. Der Zähler sagt, er dreht um, der andere Quadrant wird angezeigt. Er hat plötzlich plus 50 kW.
+
+(0:04:27 - 0:04:48)
+Das heißt, jetzt hat die Fabrik gleichzeitig zur weniger einspeisenden Solaranlage richtig angezogen und auf einmal haben wir in Summe einen Bezug. Über mir habe ich es dargestellt, jetzt wird es grün. Also eine kontinuierliche Trennung von Erzeugung und Verbrauch ist jetzt plötzlich möglich, weil man das in getrennten Zählern abrechnen kann.
+
+(0:04:51 - 0:05:13)
+Jetzt kommt fünf Jahre später einer und sagt, ich habe noch ein Dach und noch eine Dachfläche frei, Geld zum Investieren. Er baut eine neue Solaranlage und jetzt erhalten wir bewusst das Ganze weiter im Messkonzept kaufen, wenn nicht bilanziell, weil es in der Logik für uns immer noch das gleiche Messkonzept ist. Es wird halt nur ein bisschen komplizierter, weil man ja jetzt noch einen Zähler mehr hat.
+
+(0:05:14 - 0:05:30)
+Aber das Prinzip ist das Gleiche. Ich kann weiterhin meinen Verbrauch ausrechnen, wenn man so will, aus der kaufmännischen Summe, aus der Bilanz der anderen Zähler. Das Prinzip ist also genau das Gleiche, auch wenn jetzt hier völlig verschiedene Vergütungsmodelle beispielsweise anzusetzen sind.
+
+(0:05:32 - 0:05:47)
+Vergütungsmodell ist hier nicht mit drin. Ich habe jetzt erst mal nur meine verschiedenen Anlagen unterschiedlich und einzeln gezählt und welche Vergütung ich jetzt für welchen Zähler kriege, das sollen bitte andere Personen entscheiden. Ich habe nur oben grünen Daumen hoch.
+
+(0:05:47 - 0:05:59)
+Ich kann kontinuierlich trennen zwischen Erzeugung und Verbrauch. Jetzt haben wir ein anderes Beispiel wieder eine Mischanlage. So in Projekten bin ich auch sehr gerne unterwegs tatsächlich.
+
+(0:06:00 - 0:06:06)
+Also das sind jetzt vielleicht nur im Beispiel. Das könnte jetzt ein Umspannwerk sein oben. Und da sind jetzt mehrere Solarparks dran.
+
+(0:06:06 - 0:06:15)
+Jetzt kommen die mit einem Windpark noch und natürlich in Zukunft hoffentlich auch mit ganz vielen Batteriespeichern. Ich bleib dabei. Das Prinzip ist erst mal das Gleiche.
+
+(0:06:16 - 0:06:28)
+Ich habe eine Kauf mit einer spilenziellen Weitergabe. Unterschied hier ist, ich habe jetzt noch einen zusätzlichen Zähler eingesetzt. Also der Verbraucher ist hier sozusagen rausgenommen worden.
+
+(0:06:32 - 0:06:39)
+Genau. Letzter Punkt für heute. Ich will den kurzen, einminütigen Sprung schaffen zu.
+
+(0:06:40 - 0:06:48)
+Jetzt haben wir die Zähler alle gesetzt, ganz schön viele. Und was war jetzt noch mal mit meinem Netzanalyse Gerät? Genau. Also Volleinspeisung.
+
+(0:06:48 - 0:06:55)
+Oben ist ein Zähler. Oben ist eine Regelung und oben ist ein Monitoring Freiflächenanlage. Das haben wir auf jeden Fall.
+
+(0:06:56 - 0:07:11)
+Jetzt haben wir unten auch noch ein Monitoring eingesetzt, um so eine Sammelstation einfach mal separat messen zu können. Das zweite Beispiel von gerade erinnert euch, weil meine Dachanlage kaufmännisch bilanziell meine zwei Zähler hier. Da hätte ich jetzt ist komplexer.
+
+(0:07:11 - 0:07:21)
+Unten ein Regelungswert als Sollwert angenommen. Also hier soll geregelt werden. Und hier habe ich auch Monitoring drin, damit ich weiß, was meine Solaranlage überhaupt macht.
+
+(0:07:21 - 0:07:36)
+Aber wichtig ist, gibt es ein Brainday Dachanlagen dazu? Haben wir auch ein Spezial in unseren Regelungssystemen? Wichtig ist, dass die Messung von dieser Regelung am Netzverknüpfungspunkt sein kann. Abstimmung im Netzbetreiber erforderlich. Aber schon wird das Ganze so ein bisschen komplizierter.
+
+(0:07:38 - 0:08:05)
+Dritter Fall war mehrere Dachanlagen, aber dann noch komplizierter. Jetzt haben wir unten Regelung Sollwert 1, Regelung Sollwert 2. Die verschiedenen Anlagen werden vielleicht vom Netzbetreiber separat angesteuert und trotzdem haben sie ja nur einen Regelungspunkt, an dem gemessen wird, weil es gibt ja nur einen Verknüpfungspunkt. Wird schon komplizierter, ist alles machbar, zeichnet man sich auf mit solchen Regelungskonzepten und dann geht man in die Abstimmung mit dem Netzbetreiber.
+
+(0:08:05 - 0:08:22)
+Wichtiger Punkt für mich ist ja hier nur zu übermitteln, die Zähler werden sozusagen unabhängig von den Netzanalysegeräten gesetzt, wenn man so will. So, und bei Mischanlagen, das ist der allerletzte Punkt, da haben wir es genannt Master-Slave-Prinzip. Da ist es jetzt noch mal anders.
+
+(0:08:23 - 0:08:42)
+Der Master steuert für einen Netzverknüpfungspunkt, Stichwort einen Netzverknüpfungspunkt, alle Anlagen. Er gibt vor, was er da will und die Slaves entscheiden, was dann sozusagen, welche Einheit so macht. Also hier sieht es noch mal ein bisschen anders aus.
+
+(0:08:43 - 0:08:55)
+Das Menti, das sparen wir uns für heute. Da werden einfach noch mal kleine Fragen dazu abgefragt geworden. Also vielen Dank auch heute wieder für eure Teilnahme am Brain Day.
+
+(0:08:55 - 0:09:04)
+Mir hat es Spaß gemacht. Ich hoffe, ihr habt das gut aufgenommen mit der Live-Kamera und habt einiges mitgenommen. Vielen Dank fürs Zuschauen und bis zum nächsten Mal.

@@ -1,0 +1,92 @@
+(0:00:00 - 0:00:15)
+Genau, und zwar typische Fehler. Typische Fehler ergeben sich jetzt im Grunde schon aus dem, was ich sehr, sehr detailliert jetzt schon erklärt habe. Ich gehe sie trotzdem nochmal durch, weil jetzt ist man also vor Ort und stellt fest, das macht keinen Sinn.
+
+(0:00:15 - 0:00:32)
+Das, was da angezeigt wird, das macht keinen Sinn. Und dann habt ihr jetzt ein wunderbares Gefühl dafür, wie man so eine Checkliste abarbeiten könnte. Dann findet man den Fehler, dann stimmt alles und dann kann ich euch versprechen, hat man 20 Augenpaare, die bewundernd auf einen blicken.
+
+(0:00:32 - 0:00:43)
+Also, wir gucken erst mal uns den Stromwandleranschluss an. Und der hat mehrere Fehlerquellen. Ich gehe rein, damit das einfacher zu beschreiben ist, was ich da mache.
+
+(0:00:44 - 0:01:05)
+Man kann jetzt mal, wenn man so will, vom Stromflussrichtung aus angefangen, gleich schon beim Stromwandler alles falsch machen, indem man den falschrum einbaut. Was meine ich damit? Hier ist er und rechts ist jetzt immer die Planung, so soll es sein, das ist richtig. Aber die Umsetzung, die haben wir jetzt vielleicht falsch gemacht, das ist ja dann eben der Fehler.
+
+(0:01:05 - 0:01:21)
+So, so wäre es erst mal richtig, das P2 schaut zur PV-Anlage, alles ist richtig. Ihr seht das P2, das ist der Primäreingang, deswegen P, der zum PV-Anlage gerichtet sein soll. Jetzt hat jemand diesen Wandler falschrum eingebaut.
+
+(0:01:21 - 0:01:27)
+Das geht ja super schnell. Der sieht ja auf beiden Seiten ziemlich ähnlich aus. Man fühlt sich in so einem Kabelkeller auch nicht pudelwohl.
+
+(0:01:27 - 0:01:40)
+Also hat man das Kabel falschrum reingesteckt, wenn man so will, und schon funktioniert die ganze Messung nicht mehr korrekt. Das Vorzeichen wäre jetzt nicht mehr richtig. Wir drehen es schnell wieder um, um das Ganze richtig zu machen.
+
+(0:01:41 - 0:02:05)
+Die zweite Fehlerquelle, wenn man sozusagen weitergeht jetzt in unserer Verdrahtungskette, liegt am Janitzer. Machen wir mal unsere Verdrahtung hier rein, S1 auf 1, S2 auf 2. Und jetzt hat man erst mal alles richtig gemacht, aber jetzt stellen wir vor, wir haben es doch nicht richtig gemacht. Also man hat diese zwei kleinen Drähtchen am Stromwandler vertauscht.
+
+(0:02:05 - 0:02:24)
+Dazu muss man in den Kabelkeller runterkriechen, sonst kann man das gar nicht finden, den Fehler. Gleiches Prinzip, aber doch an einer anderen Stelle oben in der Schaltnische. Da wo das Janitzer oder das Netzanalysegerät verbaut ist, da hat jemand verdreht, auch das geht genauso schnell.
+
+(0:02:24 - 0:02:43)
+Das kann man gar nicht wirklich sehen, da muss man auf die ADA-Kennzeichnung gucken, sonst findet man diesen Fehler nicht. Also auch hier könnte man es aus Versehen verdreht haben. Vierter Fehler, man hat nicht die S1 und S2 vertauscht, sondern man hat eine ganze Phase verschoben.
+
+(0:02:43 - 0:02:51)
+Das würde also so aussehen. Man hat jetzt das L1 aus Versehen auf die 3 und 4 geschoben. Auch das wird dann Auswirkungen haben.
+
+(0:02:51 - 0:03:17)
+Das Netzanalysegerät macht dann alles richtig unter den Voraussetzungen, unter denen es ja nun mal diese Messeingänge zugeordnet bekommt. Aber so würde man dann falsche Messergebnisse kriegen und dann hätte man schon mal vom Stromwandleranschluss her vier Fehlerquellen gehabt, bei denen ich immer gern dazu sage, wenn man von denen eine gerade Anzahl falsch macht, dann kann es sein, dass es sich auch wieder Minus und Minusplus ergibt. Aber das wollen wir natürlich nicht.
+
+(0:03:17 - 0:03:26)
+Wir machen alle Anschlüsse korrekt. Beim Spannungswandler ist es ähnlich, sage ich jetzt mal. Wir fangen mal an, gehen wieder da rein.
+
+(0:03:27 - 0:03:35)
+Diesmal müssen wir in dem Schema so ein bisschen zur Seite rutschen. Hier ist unser Spannungswandler, hier ist unser Netzanalysegerät. Und jetzt ist es ein ähnliches Prinzip.
+
+(0:03:35 - 0:03:45)
+Ich habe jetzt an irgendeiner Stelle erst mal beim Spannungswandler alles richtig gemacht und jetzt habe ich das doch vertauscht. So geht es nicht. Daumen nach unten ist eine Fehlerquelle.
+
+(0:03:45 - 0:03:53)
+Das gleiche Prinzip auf der anderen Seite. Das ist jetzt in unserer Darstellung natürlich total simpel. In Wirklichkeit ist das viel schwieriger.
+
+(0:03:53 - 0:04:04)
+Da hat man einen Kabelkeller, da ist es kalt, da muss man erst mal das Kabel finden oder diese Leitung. Da gibt es hunderte davon. Also allein die Zuordnung ist gar nicht so einfach.
+
+(0:04:04 - 0:04:12)
+Hier bei uns ist das ziemlich einfach dargestellt. In Wirklichkeit ist das deutlich schwieriger. Also habt Geduld mit demjenigen, der den Fehler sucht.
+
+(0:04:13 - 0:04:21)
+Daumen nach unten. Und die dritte Variante ist dann wiederum eine ganze Phase verschoben. Das wäre dann so.
+
+(0:04:22 - 0:04:30)
+Auch hier reden wir von zwei Millimetern. Aber es kann ja mal passieren, dass da irgendwas verdreht wird. Und schon hat man auch hier einen Fehler drin.
+
+(0:04:31 - 0:04:37)
+Also typische Fehlerquellen. Spannungswandleranschluss ist irgendwo verdreht. Stromwandleranschluss ist irgendwo verdreht.
+
+(0:04:38 - 0:04:50)
+Jetzt ein bisschen weniger energietechnisch. Man hat die IP-Adresse falsch eingestellt und schon hat man keine Kommunikation. Das ist natürlich auch ganz schlecht, weil dann kann einem aus der Leitwarte keiner helfen.
+
+(0:04:51 - 0:05:04)
+Dann hat man die Wandlerverhältnisse vielleicht falsch eingestellt. Ich zeige das mal kurz, was da passieren könnte. Hier ist so ein Spannungswandler und da steht drauf 20.000 zu 100 Volt.
+
+(0:05:04 - 0:05:08)
+Man sieht es ein bisschen, glaube ich. Ich habe es nicht umrandet. Ich hoffe, ihr könnt es erkennen.
+
+(0:05:08 - 0:05:23)
+Daneben steht 15.000. Dieser Spannungswandler ist umschaltbar. Der kann beides. Und jetzt sagen wir mal, wir wollen ja die 20.000 zu Wurzel 3. Dann käme raus, 20.000 durch 100 ist ein Übersetzungsverhältnis von 200.
+
+(0:05:24 - 0:05:53)
+Wenn ich jetzt in der Realität diese andere Einstellung gewählt habe, das ist einfach eine kleine Brücke an dem Wandler, die falsch gesetzt wurde, dann hätte ich 15.000 zu 100 und ein Übersetzungsverhältnis von 150. Das hätte zur Folge, dass mein Netzanalysegerät, das vielleicht die richtigen Einstellungen hat, aber der Wandler falsch angeschlossen ist, nur 3 Viertel des Sollwerts anzeigt. Das muss ich erstmal rauskriegen, so einfach ist das ja gar nicht.
+
+(0:05:54 - 0:06:05)
+Aber genau das machen wir gleich nach der Pause in unserer Übung. Also zusammengefasst, ich habe da eine Brücke am Spannungswandler falsch gesetzt. Gar nicht so einfach zu identifizieren.
+
+(0:06:05 - 0:06:17)
+Das muss man genau wissen, wo da der Fehler liegen könnte. Und das hat aber zur Folge, dass mein Netzanalysegerät nur 3 Viertel des realen Wirkenergie anzeigt. Daumen nach unten, großes Problem.
+
+(0:06:18 - 0:06:28)
+Da gibt es natürlich auch richtig Ärger von allen Beteiligten. So, Zellpfeilsystem falsch. Das hat man wirklich ausführlich erklärt am Anfang.
+
+(0:06:28 - 0:06:40)
+Da kann man sich nochmal das ganze Kapitel angucken. Wenn das Zellpfeilsystem falsch definiert ist, ist Erzeugung und Bezug vertauscht. Das führt zu einer völlig falschen Performance-Ratio-Berechnung.
+
+(0:06:40 - 0:06:51)
+Und noch wichtiger finde ich, weil PR-Berechnungen sieht man ja sofort, aber bei der Regelung sieht man das nicht unmittelbar. Das ist gar nicht so einfach. Der regelt in die falsche Richtung, das muss man erstmal rauskriegen.

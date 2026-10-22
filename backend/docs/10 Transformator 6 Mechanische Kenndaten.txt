@@ -1,0 +1,86 @@
+(0:00:00 - 0:00:20)
+Jetzt geht es weiter mit den mechanischen Kenndaten. Wir hatten jetzt im vorigen Kapitel die elektrischen Daten von einem Transformator durchgearbeitet und würden uns jetzt nochmal die mechanischen Kenndaten angucken. Ein wichtiger Aspekt, den wir auch schon vorher häufig angesprochen haben, ist die Kühlung des Transformators.
+
+(0:00:22 - 0:00:41)
+Diese Kühlung wird erst einmal in der Literatur mit verschiedenen Buchstaben beschrieben. Hier sieht man oben zwei fehlende Buchstaben. Das ist die innere Kühlung des Transformators und das ist jetzt erst einmal freigelassen.
+
+(0:00:41 - 0:01:02)
+Und die beiden rechten Buchstaben, das ist dann die äußere Kühlung des Transformators. Wir sprechen hier dann zum Beispiel von O-None, das ist dann Oil-Natural und Air-Natural. Das heißt, der Transformator ist erst einmal Öl gefüllt und das Öl im Transformator bewegt sich dann auf natürliche Art und Weise.
+
+(0:01:02 - 0:01:21)
+Das heißt, es wird warm, steigt auf, bewegt sich in die Kühlrippen, kühlt dort wieder ab. Dann hat man da eine Art Kreislauf und das Öl bewegt sich eben von selbst und kühlt die Wicklung. Und der Trafo bleibt dann eben in seinen zugelassenen Temperaturbereichen.
+
+(0:01:23 - 0:01:45)
+Man hätte jetzt dann zum Beispiel auch noch das Oil-Forced oder Oil-Natural könnte man vielleicht auch sagen, das ist ein bisschen häufiger. Oil-Natural und Air-Forced, das ist der Wert oder die Angabe, die wir oben haben. Das sehen wir häufig bei unseren 110 kV-Transformatoren, hatten wir in unserer 360-Grad-Tour ja auch schon gezeigt.
+
+(0:01:45 - 0:02:25)
+Dann würde das Öl innerhalb des Transformators nach wie vor natürlich sich bewegen und natürlich durch die Kühlrippen strömen, durch eben Erwärmung und dadurch diese natürliche hervorgerufene Bewegung. Aber die Ventilatoren, die dann eben an dem Transformator angebracht sind, die würden eben für eine zusätzliche Kühlung von außen durch eine mechanische oder Forced, durch eine unterstützte Luftbewegung eben außen den Transformator besser kühlen. Unten links haben wir es jetzt nochmal eingeblendet, die Buchstaben A und B, das ist eben die interne Kühlung und C und D ist die äußere Kühlung.
+
+(0:02:26 - 0:02:54)
+Nochmal aufgeschrieben in Worten, das A steht eben für Luft oder für Air, Air gleich Luft, das Englische. W ist für Kühlwasser, O ist Mineralöl und K ist dann eben ein Nicht-Mineralöl. Und für den äußeren Bereich gibt es dann, was uns so häufig über den Weg läuft, gibt es eben diese natürliche Konvektion, das ist das N, so wie es bei unseren Hermetik-Transformatoren meistens in den Kompaktstationen ist.
+
+(0:02:54 - 0:03:32)
+Oder eben das F wäre dann für die gezwungene Konvektion oder eben mit Ventilatoren unterstützte Konvektion beziehungsweise unterstützte Ventilatorkühlung der Transformatoren. Und wenn man das jetzt sich mal in so einem Projektbeispiel anschauen würde, eben gerade dieses Oil-Natural-Air-Forced, dann wäre das vielleicht so ein klassischer 110 kV-Transformator mit einer Leistung von 50 zu 63 MVa und dann steht immer dahinter Oil-Natural-Air-Natural oder Oil-Natural-Air-Forced. Das heißt, dieser Transformator, der kann ohne Ventilatoren 50 MVa übertragen.
+
+(0:03:33 - 0:04:00)
+Und wenn wir jetzt aber eine unterstützte Kühlung außen anbringen, also Ventilatoren auf die Kühlrippen installieren und eben bei entsprechend steigenden Temperaturen diese Ventilatoren anschmeißen, dann kann so ein Transformator anstatt 50 MVa tatsächlich 63 MVa. Also da hat man dann einen großen Effekt, wie ich finde, erzielt. Einfach nur dadurch, dass man eben diesen Transformator besser kühlt.
+
+(0:04:00 - 0:04:32)
+Er selbst muss ja trotzdem noch die gleiche Arbeit leisten, aber man kühlt ihn besser und dann kann der das. So, jetzt schauen wir uns das nochmal an, im Grunde genommen in so einem Schnitt. Wir sehen jetzt hier drinnen das Öl und das Öl ist erstmal, wenn das erstmal grundsätzlich kalt ist nach so einer Nacht, dann hat es irgendwie 20 Grad bei unserem PV-Trafo, dann ist das natürlich erstmal kühlend und es würde jetzt von den Wicklungen nach und nach erwärmt werden.
+
+(0:04:33 - 0:05:07)
+Und wenn das Öl dann auch wärmer wird an den Wicklungen, dann würde das vermutlich aufsteigen. Warmes Öl genauso wie warme Luft steigt dann langsam auf und bewegt sich dann in die Kühlrippen hinein, kühlt dann dort ab und sinkt wieder herunter und so hat man dann eben diesen Kreislauf, der hier dargestellt wird, von einer natürlichen Ölkonvektion innerhalb dieses Transformators oder Ölzirkulation, so würde man es vielleicht nennen. Und für die Luft würde im Grunde genommen das Gleiche gelten.
+
+(0:05:08 - 0:05:49)
+Die Luft würde innerhalb der Kühlrippen sich erwärmen und würde dann eben aufsteigen und von unten würde frische, kühle Luft nachströmen und dann eben sich auch in den Kühlrippen erwärmen, aufsteigen. Und auch da hätte man dann eben eine natürliche Konvektion, eine natürliche Bewegung der Luft und eine natürliche Bewegung des Öls erreicht, sodass man hier von einem Oil-Natural-Air-Natural-Transformator sprechen würde. So, und wenn wir jetzt das Ganze nochmal adaptieren auf unsere 110 kV-Transformatoren zum Beispiel, die dann meist Oil-Natural-Air-Forced gekühlt sind, dann wäre das im Grunde genommen so.
+
+(0:05:49 - 0:06:04)
+Das Öl zirkuliert innerhalb des Strafos weiterhin auf natürliche Art und Weise, keine Unterstützung. Und außerhalb würde man jetzt hier Ventilatoren anbringen. Wir haben sie in unserem 3D-Modell mal hier an die Stirnseite angebracht.
+
+(0:06:04 - 0:06:27)
+In der Realität sitzen sie auch häufig unter den Kühlrippen. Macht dann, denke ich, auch Sinn, weil man den natürlich schon entstehenden oder die bestehende natürliche Konvektion, die meist von unten nach oben geht durch die aufsteigende Luft, dann eben unterstützen würde. Hier hätte man jetzt natürlich nochmal einen Querwind, der so ein bisschen kollidieren würde mit der natürlichen Konvektion.
+
+(0:06:27 - 0:06:57)
+Aber hier sind sie jetzt angebracht und dann würde diese Konvektion erzwungen werden durch die Ventilatoren und natürlich ein deutlich höherer Luftdurchsatz durch diese Kühlrippen geblasen werden. Von der Seite sähe das dann im Grunde so aus. Der Wind geht jetzt oder die Luft strömt jetzt natürlich mit viel höherer Geschwindigkeit von links nach rechts durch die Kühlrippen und sorgt so natürlich für eine viel bessere Belüftung und eben Abkühlung des Transformators.
+
+(0:07:00 - 0:07:15)
+Jetzt gibt es noch Isolierstoffe unterschiedlicher Art. Je nach Trafotyp sind das eben unterschiedliche. Wir unterscheiden in erster Linie zwischen den Trockentransformatoren oder Gießharztransformatoren, werden sie auch häufig bezeichnet.
+
+(0:07:17 - 0:07:29)
+Die Trockentransformatoren bringen halt gewisse Vorteile mit sich. Im Grunde der wichtigste ist erstmal, dass er umweltfreundlicher ist und deshalb kommt er auch häufig zum Einsatz. Er hat ein geringeres Brandrisiko.
+
+(0:07:29 - 0:07:54)
+Das liegt natürlich daran, dass das Öl bei den Öltrafos einfach brennbar ist und deshalb einfach ein höheres Risiko birgt als der Trockentrafos. Dann sind diese Trockentrafos im Verhältnis teurer. Bauteile sind immer sichtbar und dieser Trafo ist weniger wartungsanfällig oder ist wartungsarm, sagen wir es mal so.
+
+(0:07:54 - 0:08:05)
+Trifft aber im Grunde genommen auch sehr ähnlich zu dem Öltransformator zu. Der kommt jetzt hier auf dieser Seite. Auch hier haben wir ein paar Punkte aufgeschrieben.
+
+(0:08:05 - 0:08:20)
+Also effiziente Kühlung durch dieses Öl bzw. ist dieser Transformator dadurch, dass der eben so ein massives, schweres oder massiges Konstrukt ist, einfach sehr gut erstmal gekühlt bzw. verhält sich da sehr träge.
+
+(0:08:20 - 0:08:46)
+Wenn man mal kurzzeitig Überlast hat, heißt das nicht, dass der Trafo gleich warm ist, weil dieses ganze Öl schon eine gewisse Zeit braucht, bis es dann eben warm wird und so eben erstmal von vornherein eine gewisse Kühlung mit sich bringt oder eine gewisse Trägheit. Dann hat das Öl natürlich auch eine verbesserte Isolierung zufolge. Und diese Öltransformatoren, die sind einfach robust, zuverlässig und langlebig, so würde ich es mal bezeichnen.
+
+(0:08:47 - 0:09:06)
+Ich hatte mit Trockentransformatoren in meinem Projektgeschäft bisher größere Probleme, würde ich es mal so beschreiben, als mit Öltrafos. Die Öltrafos haben sich aus meiner Erfahrung als deutlich robuster gezeigt als die Trockentrafos. Aber da haben bestimmt viele Leute auch unterschiedliche Erfahrungen gesammelt.
+
+(0:09:06 - 0:09:29)
+Vielleicht waren die Auslegungen auch nicht gleichwertig gut oder schlecht. Für mich ist aber der Öltrafo im PV-Geschäft dann eher das Mittel der Wahl, weil wir meistens mit Brandrisiko und Umweltfreundlichkeit jetzt nicht unbedingt ein Thema haben, bzw. wenn das Öl mal ausläuft, haben wir Ölwannen und können dieses Risiko eingrenzen.
+
+(0:09:30 - 0:09:49)
+Dann gibt es hier noch eine effektive Dämpfung von Geräuschen und Vibrationen beim Öltrafo, weil der aktive Teil eben im Öl gelagert ist. Trotzdem hört man das, wenn man daneben steht, ist aber bei Trockentrafos tendenziell noch ein bisschen lauter. Und dann haben wir noch eine verbesserte Isolierung und Überlastfähigkeit.
+
+(0:09:50 - 0:10:09)
+Genau, also so ein Öltrafo kann man kurz auch ein bisschen mehr ab, dann erwärmt er sich. Und wenn das aber nur über einen kurzen Zeitraum passiert, ist das für diesen Trafo kein großes Problem. So, das Öl, das wollen wir jetzt ja auch nochmal in zwei Bereiche unterteilen.
+
+(0:10:10 - 0:10:43)
+Es gibt einmal das Mineralöl und das ist erstmal günstig, hat einen niedrigen Fußabdruck, Footprint würde ich sagen, und kleinere Trafokörper kann man damit erreichen. Dann gibt es dagegen noch das Nichtmineralöl. Das ist dann erstmal natürlich teurer, wenn das eine billiger ist, aber als Vorteil hier zu sehen, es ist deutlich weniger brennbar als dieses Mineralöl und der Brennpunkt liegt dann eben bei ungefähr 300 Grad.
+
+(0:10:47 - 0:11:28)
+Welche Mineralöle gibt es da? Das ist dann Silikonöl, synthetische Ester, Midel 7131, gut, kann man sich mal merken, wenn man es mal irgendwo liest, oder eben natürliche Ester, FR3, so heißen die. Vielleicht mal gut gehört zu haben und dann hilft einem das im nächsten Projekt weiter, wenn man das mal sieht, aha, weiß ich, kenne ich, habe ich schon mal gehört, damit kann man arbeiten. So, jetzt kommt hier der Trafo wieder rein und jetzt schauen wir uns nochmal die Beschichtung an, die so ein Trafo haben muss, für alle, die sich im Photovoltaik-Bereich bewegen und auch vielleicht mit Unterkonstruktion zu tun haben.
+
+(0:11:28 - 0:11:56)
+Die kennen hier, denke ich, erstmal diese Einteilung in C1 bis C6, also es gibt dann eben verschiedene Beschichtungsstärken, sind das meistens, die man hier verwenden kann. C1 ist eben für ganz, ganz wenig Korrosionsanfällig oder Korrosionsrisiko bis zu C6. Ich denke, dann steht der Trafo schon direkt an der Küste, wo man sehr salzhaltiges Wasser hat und ein sehr hohes Korrosionsrisiko hat.
+
+(0:11:56 - 0:12:10)
+Wenn wir unsere Transformatoren auslegen und dieses Risiko erstmal nicht sehen, weil wir nicht im Küstenbereich sind, dann ist man mit C2 bestimmt gut bedient, C3 ist, denke ich, auch in Ordnung, aber höher muss man dann in der Regel gar nicht gehen.

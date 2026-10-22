@@ -1,0 +1,166 @@
+(0:00:00 - 0:00:31)
+Schnittstellen, wie wir finden, für alle die, die so einen ähnlichen Job machen wie wir, für die ist das jetzt nochmal ein sehr wichtiger Block, weil wir bauen das Umspannwerk ja in der Regel nicht selbst. Wir sind genau die Schnittstelle zwischen Solarpark und Umspannwerk oder Umspannwerk und Netzbetreiber. Deshalb ist es für uns eben genau wichtig zu definieren oder zu wissen, an welchen Stellen wir welche Fragen zu stellen haben.
+
+(0:00:31 - 0:00:57)
+Deshalb eben dieses Thema Schnittstellen. Am Ende kriegt ihr auch nochmal eine Übersicht, eine Übersicht-Seite, wo man dann alle Punkte nochmal aufgeschrieben hat, die man dann auch gerne im Projekt nochmal rausholen kann und eben dann prüfen kann, ob alle Punkte, die da stehen, vielleicht mal angesprochen wurden, besprochen wurden und geklärt sind. Also Schnittstellen, das ist die Übersicht Umspannwerk und hier gibt es jetzt eben verschiedene Punkte, die wir uns nochmal im Detail angucken.
+
+(0:00:58 - 0:01:38)
+Punkt 1 ist eben erstmal die Mastanbindung. Das ist ein Thema, das ist hoffentlich relativ schnell geklärt, je nachdem, wie früh ihr in so ein Projekt einsteigt. Ihr kriegt da eine Einspeisezusage, kriegt da Masten genannt und dann ist es meinetwegen die Mast Nummer 31, auf die man sich einigt, weil man auch da das Land pachten konnte oder kaufen konnte und dann ist es natürlich wichtig, dass am Ende alle Beteiligten wissen, dass der Mast 31 der Mast ist, wo wir ans Umspannwerk anschließen sollen und dann im Detail auch noch Leiterseil A oder B, weil das steht eben auch in der Einspeisezusage und das soll natürlich nicht am linken oder am rechten Seil sein, sondern eben an dem genau definierten Leiterseil, wo wir dann anzuschließen haben.
+
+(0:01:39 - 0:02:01)
+Also legt das bitte gerne allen Beteiligten dann nochmal auf den Tisch. Sind wir uns alle einig, ist das unser Mast. Gerne auch im Meeting mit dem Netzbetreiber, dass das alle einmal abnicken können. 
+
+Nicht, dass es da Verwechslungen gibt, weil das wäre dann natürlich höchst kritisch. Spannungswandler 110 KV. Der Errichter des Umspannwerks liefert natürlich erstmal Spannungswandler.
+
+(0:02:02 - 0:02:37)
+Wie viele Kerne, das ist vielleicht erstmal unklar. Das ist wahrscheinlich noch gar nicht so genau definiert worden, als ihr das Umspannwerk bestellt habt. Und welches Übersetzungsverhältnis, das ist wahrscheinlich schon klar, aber die Anzahl der Kerne nicht unbedingt. 
+
+Prüft es in jedem Fall ab. Und hier, wie auch schon im vorigen Kapitel erwähnt, schaut euch vor allem die Kerne an, für die ihr wirklich dann am Ende auch gerade stehen müsst, zumindest zum Teil gerade stehen müsst, die in euer Parkreglerkonzept passen, die für euch für die Anlagenzertifizierung wichtig sind. Und das ist dann vor allem eben der Kern für den Parkregler.
+
+(0:02:37 - 0:02:49)
+Hier in dem Fall wäre es eben Kern 6. Stimmt das bitte ab. Fragt, welcher Kern für euch ist. Prüft, ob dann die Genauigkeit meistens passt, damit ihr da kein böses Erwachen später kriegt.
+
+(0:02:49 - 0:02:58)
+Und ach ja, den haben wir vergessen oder der ist nicht genau genug. Das ist dann immer sehr, sehr ärgerlich später. Stromwandler ist im Grunde genommen genau das gleiche Thema.
+
+(0:02:58 - 0:03:16)
+Auch hier kommt ein Stromwandler, der wird bestellt. Der hat ein Übersetzungsverhältnis meinetwegen 600 zu 1 zu 1. Der Umspannwerkserrichter legt das meistens so standardmäßig aus, gemäß der Leistung seines Hochspannungstrafos. Vielleicht habt ihr ja aber noch andere Gedanken, andere Anmerkungen.
+
+(0:03:18 - 0:03:45)
+Aber vor allem schaut dann bitte auf die Genauigkeit eurer Wicklung für den Parkregler, dass der eben auch hier, wie beim Spannungswandler, dass der genau genug ist, damit ihr hier die Anlagenzertifizierung hinbekommt. Dann kommt der Hochspannungstransformator, das Herzstück, wie ich es vorher schon so gern beschrieben habe. Und der soll natürlich erstmal eine Unterspannung haben.
+
+(0:03:45 - 0:03:58)
+Hier in dem Fall sind es 31,5 kV. Da kann man natürlich ein bisschen spielen. Ist es 30 kV, ist es 31,5 oder ist es 33 kV? Das kann man dann abstimmen bei der Bestellung des Transformators.
+
+(0:03:58 - 0:04:07)
+Wenn er erstmal da ist, ist er schon da, ist es schon erledigt. Aber im Grunde kann man es abstimmen. Je höher ihr mit der Spannung geht, desto weniger Verluste habt ihr vielleicht.
+
+(0:04:07 - 0:04:23)
+Oder desto dünner könnt ihr vielleicht in einem Kabelquerschnitt noch mal ein Stückchen runtergehen. Das kann man dann frühzeitig abstimmen und sich dann eben auf eine Spannung einigen. Wichtig ist natürlich, dass die Leistung des Trafos mit der Leistung eures PV-Parks zusammenpasst.
+
+(0:04:23 - 0:04:37)
+Ihr habt also 76 MVa. Dann würde ich mich jetzt hier in unser Beispiel erinnern, wo wir nur einen 50 MVa Trafo hatten, dass man da jetzt ein Problem hat. Weil der Trafo würde jetzt natürlich die Einspeisekapazität auf 50 MVa limitieren.
+
+(0:04:38 - 0:04:54)
+Also hier stimmt das ab, spricht das ab. Und dann für die Anlagenzertifizierung am Ende auch immer ein Punkt, der dann sehr, sehr spät bekannt gegeben wird. Was genau ist die Regler-Soll-Spannung? Also wir haben die Unterspannung des Trafos, 31,5 kV.
+
+(0:04:55 - 0:05:13)
+Und jetzt gibt es eben diesen Stufenschalter, der ja vielleicht gar nicht so eingestellt ist, dass der auf 31,5 kV regelt, sondern vielleicht ja auf 33 kV. Das heißt, der Stufenschalter ist gar nicht in Mittelstellung dauerhaft, sondern in irgendeiner anderen Position, die er dann natürlich versucht zu halten. Also Regler-Soll-Spannung ist dann das Stichwort.
+
+(0:05:14 - 0:05:35)
+Die müsst ihr definieren, die müsst ihr klären mit dem Umspannwerkserrichter. Weil das fließt in euer Anlagenzertifikat ein, in eure Kabelberechnung und so weiter. Und ihr müsst dann gegebenenfalls eure Trafos im Solarpark daran nochmal ausrichten und vielleicht die Stufenschalter im Umspannwerkstransformator gegebenenfalls nochmal anpassen.
+
+(0:05:39 - 0:06:01)
+Sternpunktbehandlung ist dann natürlich immer entscheidend, wenn es um Schutztechnik geht, um Erdfehlererkennung und Erdfehlerklärung oder Abschaltung ist das niederohmige Sternpunkterdung oder ein isolierter Sternpunkt, dann braucht man andere Schutzrelais. Das ist dann die Schutztechnik, die im Umspannwerk stattfindet. Dafür ist das dann entscheidend, für eure Trafostationen dann eher weniger.
+
+(0:06:02 - 0:06:17)
+Aber zumindest mal diese Frage gestellt zu haben, das hilft erstmal allen. So, jetzt gehen wir rüber ins Mittelspannungsschaltfeld. Die Mittelspannungsschaltfelder sind in dem Gebäude, da wo die 5 drin ist.
+
+(0:06:17 - 0:06:27)
+Und das Gebäude im Schnitt würde dann zum Beispiel so aussehen. Das ist natürlich eine ganz klare Schnittstelle, weil hier schließen wir ja unseren Park an. Also offensichtlicher geht die Schnittstelle kaum.
+
+(0:06:27 - 0:06:50)
+Feld H01, das ist der Anschluss an den Hochspannungstrafo, vielleicht noch nicht so entscheidend für uns. Aber dann kommen die Felder H02 für Trafostation 1, die wir jetzt hier in unserem Beispiel anschließen würden und H03, da schließen wir jetzt die Trafostation 7 ein. Jetzt kommt ihr mit euren Kabeln bis vor den Zaun des Umspannwerks und jetzt fangen im Grunde genommen die Abstimmungen an.
+
+(0:06:50 - 0:07:07)
+Wer zieht jetzt den Rest des Kabels, wer macht den Kabelgraben, wer macht vielleicht die Endschlüsse, wer prüft das Kabel. Da gibt es jetzt keine klare Vorgabe, das könnt ihr projektspezifisch natürlich klären. Stimmt euch ab, große Runden, Projektleiter, Umspannwerkserrichter, Kunde, alle dabei.
+
+(0:07:08 - 0:07:32)
+Wo machen wir sinnhaft unsere Schnittstelle? Und dann definiert man das, legt das klar fest und dann ist das bei der Inbetriebnahme hoffentlich kein großes Problem, dass der Umspannwerkserrichter euer Kabel prüft oder ihr im Umspannwerk euer Kabel prüft. Man muss es nur vorher einmal angesprochen haben und dann ist das, glaube ich, keine große Sache. Der Beziribstrom der PVA, das weiß das Umspannwerk nicht.
+
+(0:07:33 - 0:08:04)
+Hier sind es eben 591 Ampere, müsst ihr dem Umspannwerkserrichter mitteilen und dann kann der die Stromwandler in den Mittelspannungsfeldern auswählen. Zum Beispiel würde er jetzt hier den 600 zu 1 zu 1 Wandler nehmen und nicht den 500 zu 1, der wäre dann eben zu klein, er würde jetzt eben in das richtige Regal greifen. Spannungswandler, das Gleiche, man würde sie vorsehen und ihr wüsstet, es gibt sie, damit ihr vielleicht weitere Komponenten in den Mittelspannungsfeldern einbauen könnt, Netzanalysegeräte, Zähler und so weiter.
+
+(0:08:05 - 0:08:20)
+Dann kommt noch die Frage, wie viele Kabel wollt ihr denn an dem Feld anschließen? Zum Beispiel zwei. Ja, im Feld H01 sind es jetzt beispielsweise sogar bis zu drei, die man anschließen könnte. Richtung Solarpark ist es dann manchmal nur eins, manchmal aber auch zwei.
+
+(0:08:20 - 0:08:57)
+Also das, wenn es da Punkte gibt, die abweichend sind, vielleicht zu einem Standard oder wenn es auch Standard ist, sprecht es an, geht es einmal durch, weil sonst sind es einfach unbesprochene Themen, die am Ende jedem auf die Füße fallen können. Kabeltyp, Nennspannung der Kabel und dann eben auch der Kabelquerschnitt, weil nicht unbedingt alle Kabelquerschnitte können in allen Schaltanlagen einfach so eingeführt und angeschlossen werden. Kabeldurchführung, wer liefert erstmal? Also Durchführungen an sich sind erstmal wahrscheinlich in dem Gebäude vorgesehen, aber fragt sicherheitshalber nochmal danach.
+
+(0:08:57 - 0:09:23)
+Und dann muss ja auch jemand diese Einführung, diese HDT-Hauf-Einführung mitbringen, die für eure Mittelspannungskabel geeignet ist. Und in den meisten Fällen ist es dann so, kurz bevor die Kabel eingeführt werden, stellt jemand die Frage und diese Einführung ist eben nicht da. Orientiert euch an so einer Checkliste, dann kann man diese Punkte frühzeitig klären und ist dann gut vorbereitet, wenn es dann soweit ist.
+
+(0:09:24 - 0:10:22)
+Wo werden die Kabel eingeführt? Ja, zum Beispiel gegenüber der Schaltanlage, da ist es dann vielleicht wichtig, dass ihr so ein bisschen Gefühl habt, dass die Kabel natürlich dann auch Biegeradien einhalten müssen, vielleicht nochmal ein bisschen nach links und rechts rangiert werden müssen in dem Keller, sodass die Schaltanlage möglichst ein Stückchen entfernt von den Kabeldurchführungen steht, damit man noch ein bisschen Raum hat, um eben die Kabel zu biegen und dann entspannt an die Schaltanlage anzuschließen. So, Punkt 6 ist eben SCADA. SCADA befindet sich dann eben in dem Gebäude, in dem Raum, der dann eben von außen zugänglich ist. 
+
+Wir hatten das vorhin gesehen. Wir gehen mal rein in so einen SCADA-Raum und das Erste, was wir jetzt prüfen müssen, ist, ist denn überhaupt Platz für unseren Parkreglerschrank? Haben wir einen Hängeschrank, haben wir einen Standschrank? In dem Projekt eben war es ein Standschrank. Deshalb haben wir auch hier erstmal gezeigt, da ist ein Platz für unseren Reglerschrank.
+
+(0:10:22 - 0:10:37)
+Da passt das auch so ungefähr auf diese Struktur des Fußbodens, dass man da eben den Schrank entsprechend hinbauen kann. In der Regel sind die nicht allzu schwer. Wir hatten aber auch schon Projekte, da hieß es dann, dass der Parkregler 600 Kilo wiegt.
+
+(0:10:37 - 0:10:55)
+Da muss man natürlich auch die Statik des Bodens prüfen, ob das dann so hinhaut. So, was ist jetzt drin in so einem Schrank? In dem Brain Day Parkregler und so weiter gehen wir auf solche Themen natürlich nochmal viel detaillierter ein. Aber hier geht es jetzt erstmal darum, Parkreglerkunde, der muss da erstmal rein.
+
+(0:10:55 - 0:11:07)
+Hier ist es jetzt mal so ein kleines Modul, was wir darstellen. Das kann auch eine SPS-Lösung sein, da gibt es viele verschiedene. Der Parkregler ist also da drin und der muss jetzt im Umspannwerk installiert werden.
+
+(0:11:08 - 0:11:32)
+Also wer macht das jetzt erstmal? Ihr errichtet das Umspannwerk nicht, deshalb könnte es ja erstmal sein, dass ihr auch keinen Zugang habt. Also ihr müsst das jetzt erstmal fragen, wer stellt das Ding auf? Wer macht zum Beispiel eine Aussparung in den Fußboden? Solltet ihr da mit euren Monteuren kommen oder macht das der Errichter des Umspannwerks mit? Gewicht hatte ich schon angesprochen, das muss einmal geklärt werden. Und dann gibt es hier noch die Thematik Internetanschluss.
+
+(0:11:33 - 0:12:31)
+Meistens haben so Umspannwerke ja einen Festnetzanschluss und da würde man sich dann mit dem Parkregler auch irgendwann mit anklemmen beziehungsweise mit dem SCADA-System. Für die Inbetriebnahme empfehlen wir in der Regel einen eigenen Router erstmal zu installieren, der dann aber meistens während des Betriebs wieder raus muss, weil wir diese Kritisanforderungen erfüllen müssen. Also Festnetz, wer liefert das Festnetz? Wie können wir da ran? Wer kümmert sich um die Firewall fürs Festnetz? Wie sind unsere Zugänge? Wie kann man das gewährleisten, dass wir da auch unsere Betriebs- oder unsere Monitoring-Jungs regelmäßig Zugriff auf die Anlage haben? Leistungsgrenze PVA, Beistellung, Installation, das ist dann unsere Grenze, könnte unsere Grenze sein, das muss dann eben projektspezifisch definiert werden und die 230 Volt, die brauchen wir dann erstmal von dem Kunden, vorausgesetzt, dass wir unsere eigene USV mitbringen.
+
+(0:12:32 - 0:13:16)
+Also Anschlussstrom- und Spannungswandler wäre auch abzustimmen, weil die Strom- und Spannungswandler sind ja irgendwo in der Freiluftanlage, Freiflächenanlage und jetzt muss jemand die Drähte in das Gebäude ziehen und möglichst dann auch noch weiter zu unserem Parkreglerschrank, weil wir ja im Umspannwerk eigentlich wenig arbeiten wollen. Also stimmt das ab, dass ihr möglichst Strom- und Spannungsmesswerte in eurem Schrank habt und dann könnt ihr euer Netzanalysegerät auch in euren Schrank hängen und von da eben die Auswertung, was ist am Netzanschlusspunkt los, durchführen. So, USV würden wir häufig tatsächlich in unseren Parkreglerschrank mit einbauen.
+
+(0:13:17 - 0:13:30)
+Es gibt aber natürlich auch die Möglichkeit, unseren Parkregler mit an die USV des Umspannwerks zu hängen. Das macht es dann natürlich ein bisschen einfacher beziehungsweise weniger Komponenten für uns. Allerdings hat man dann mehr Abstimmungsbedarf mit dem Umspannwerk.
+
+(0:13:30 - 0:13:52)
+Es wird ein bisschen schwieriger, wahrscheinlich die USV-Berechnung für den Parkregler zu bekommen. Deshalb gehen wir meistens den etwas leichteren Weg und bauen unsere USV selbst ein und dann hat man eben eine USV für den Parkregler und eine USV für das Umspannwerk getrennt. Nächster Punkt wäre dann LWL.
+
+(0:13:53 - 0:14:06)
+Wir haben eine Spleißbox, die würden wir jetzt zum Beispiel auch in unseren Parkreglerschrank hängen. Hier ist es ja ein großes Modell mit viel, viel Platz. Das heißt, unser LWL-Kabel muss dann irgendwie erst mal da reingeführt werden.
+
+(0:14:06 - 0:14:32)
+Also wir haben dann hier einen Typ ausgewählt, der kommt vom Solarpark, wird in das Umspannwerk eingeführt. Ein System haben wir verwendet und jetzt zieht es jemand eben durch die Kabelverschraubung, durch die Haufeinführung beispielsweise in das Umspannwerk an unsere Spleißbox, legt es da auf und muss es dann eben auch noch prüfen. Und wer das genau macht, das ist dann eben immer zu definieren und abzustimmen.
+
+(0:14:38 - 0:14:59)
+Fernweganlage e.V.U. Im Umspannwerken ist es meistens so, dass der Netzbetreiber seine eigenen Schränke liefert. Wenn das mal nicht so ist, dann kann das natürlich auch so sein, dass es ein kleiner Schrank ist, wo dann die Fernweganlage des Netzbetreibers drin ist. Wer montiert dann diese Fernweganlage? Wer kümmert sich darum? Wer bestellt das Ganze? Das ist dann erst mal zu erfragen.
+
+(0:14:59 - 0:15:14)
+Und dann gibt es den Installationsort im Umspannwerksraum, im Skalarraum, den man definieren muss. Zusammen natürlich mit dem Errichter des Umspannwerks, weil der hat natürlich noch viele, viele andere Pläne, um da in diesem Raum Sachen zu montieren. Der Kasten ist sehr leicht.
+
+(0:15:14 - 0:15:28)
+Mit 50 kg sind wir da, glaube ich, sehr großzügig schon dabei. Das, was wir hier sehen, ist wahrscheinlich viel, viel einfacher. Wie gesagt, manchmal gibt es dann eben auch die Standschranklösung für diese Umspannwerke, wo das Skalar-System des Netzbetreibers schon verbaut ist.
+
+(0:15:28 - 0:15:44)
+Dann braucht man diesen Schrank gar nicht. Aber das ist natürlich dann auch ein Punkt, den man einfach mal ansprechen kann und fragen kann, wie das funktioniert, was da wo eingebaut wird. Wer bestellt es? Wer installiert es? So, Zuarbeit-Umspannwerk, auch die brauchen wir wieder.
+
+(0:15:44 - 0:16:01)
+Wir brauchen dann eben einen Anschluss an die Kommunikation. Wir brauchen vielleicht eine 24-Volt-Spannung für dieses Skalar-System des Netzbetreibers und eben eine USV. So, der nächste Punkt wäre jetzt das Messkonzept.
+
+(0:16:02 - 0:16:15)
+Auch hier sind wir als Solarparkplaner natürlich geplant. Also es gibt einen Zählpunkt auf der 110KV-Seite, einen Vergleichszähler. Könnt ihr vielleicht direkt mit Ja beantworten, weil ihr habt das in der TAB ja schon so nachgelesen und in der 4120.
+
+(0:16:16 - 0:16:53)
+Und dann wäre eure Frage, Leute, kann ich denn diesen Zähler auch auslesen? Das ist wichtig für euer Monitoring, wichtig vielleicht für euren Kunden, damit er das am Ende nachvollziehen kann, welche Erträge er erwirtschaftet hat, wie gut läuft die Anlage für die Performance-Ratio-Berechnung. Und wenn ihr jetzt eine Modbus-Schnittstelle bekommen könntet von diesem Zähler, dann ist das erstmal von Vorteil, weil diese Modbus-Schnittstellen natürlich da einen sehr hohen Komfort beim Auslesen bieten. Den zuständigen Messstellenbetreiber oder den Messstellenbetreiber grundsätzlich muss man auswählen.
+
+(0:16:54 - 0:17:13)
+Unsere Empfehlung ist, dass man hier den zuständigen Messstellenbetreiber auswählt. Also wenn man im Netzbereich der Edis ist, dann würde ich erstmal, um die Prozesse einfach zu halten, die Edis auch als Messstellenbetreiber mit dazunehmen, weil dann gibt es keine oder weniger Schnittstellen. Das macht die ganze Sache einfacher.
+
+(0:17:13 - 0:17:31)
+Der Parkbetreiber kann dann natürlich gerne irgendwann nochmal die Zähler wechseln, wenn er das möchte, wenn ihm die Edis oder wer auch immer dann zu teuer ist. Aber für den Betriebnahmeprozess ist das, denke ich, der leichteste Weg. Und dann könnte man nochmal definieren, ob es auch am Mittelspannungsabgang nochmal eine Zählung geben soll für die PV-Anlage.
+
+(0:17:32 - 0:18:11)
+Wenn wir jetzt nur einen PV-Park hätten beispielsweise, dann macht das vielleicht nicht so viel Sinn. Wenn man jetzt aber noch einen zweiten Solarpark anschließt und vielleicht noch einen Windpark, dann macht es natürlich auch Sinn, in den Mittelspannungsabgängen zu messen, um dann später die Erträge auf die unterschiedlichen Erzeuger aufzuteilen. Wir machen das dann meistens so, dass wir im Mittelspannungsabgangsfeld nochmal ein Netzanalysegerät installieren, damit wir das besser monitoren können, damit wir vielleicht für die Regelungstests dann nochmal einen Messpunkt haben und einfach vielleicht auch die gemessenen Werte des Netzbetreibers nochmal verifizieren können.
+
+(0:18:14 - 0:18:24)
+Der letzte Punkt ist jetzt die Dokumentation des Umspannwerks. Danach haben wir es auch geschafft. Also wir brauchen eine gute Dokumentation vom Umspannwerk.
+
+(0:18:24 - 0:18:45)
+Die ganzen Punkte, die jetzt stehen, müssen da alle drin sein, müssen alle aufgeführt sein. Und vor allem brauchen wir das Ganze dann ja am Ende damit wir unser Anlagenzertifikat am Ende erhalten können. Das heißt, für mich ist das ja immer terminlich so, dass wir da sehr, sehr lange, lange in so einem Umspannwerksprozess drin sind.
+
+(0:18:45 - 0:19:11)
+Aber die Dokumentation, Stufungskonzept, die Pläne der Mittelspannungsschaltanlage, dass wir die ja sehr, sehr, sehr spät kriegen und wir dann immer so ein bisschen in so ein Zeitproblem laufen, dass das Anlagenzertifikat ja auch noch ein bisschen braucht. Das heißt, die fangen jetzt schon an, die Mittelspannungsschaltanlage zu installieren im Umspannwerk. Wir sind kurz vor der Inbetriebnahme und erst dann kriege ich meinetwegen die Schaltpläne und erst danach kriege ich irgendwann mein Anlagenzertifikat.
+
+(0:19:12 - 0:19:34)
+Also das ist für mich ein sehr kritischer Punkt, den man vielleicht frühzeitig definieren muss. Wann brauche ich denn meine Dokumente, damit ich mein Anlagenzertifikat frühzeitig kriege, damit ich dann die Terminkette eben für die Inbetriebnahme auch halten kann. So, wir schieben euch das Ganze nochmal zusammen, damit ihr es noch einmal in einer Übersicht vor euch habt.
+
+(0:19:35 - 0:20:00)
+Und wenn ihr jetzt in einem Projekt seid, streicht euch die einzelnen Punkte gerne alle ab, dass ihr sie zumindest alle mal angesprochen habt. Macht euch eine Excel-Checkliste draus, dass ihr die Punkte durchsprecht, Kommentare dazu aufschreibt und dann, denke ich, steht da einer erfolgreichen, termingerechten Inbetriebnahme von eurem Umspannwerk nichts im Wege. So, wir sind für heute durch.
+
+(0:20:00 - 0:20:06)
+Das hat mich sehr gefreut. Ich freue mich, euch nächsten Freitag hier wiederzusehen. Bis bald, schönes Wochenende. 
+
+Tschüss.

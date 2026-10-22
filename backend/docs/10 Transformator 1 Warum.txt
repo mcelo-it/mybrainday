@@ -1,0 +1,38 @@
+(0:00:00 - 0:00:24)
+So, wir starten jetzt los mit dem Thema, warum, und das ist dann eben die Frage, die wir uns jedes Mal stellen. Warum brauchen wir eigentlich Transformatoren? Wir haben natürlich ein Stromnetz in Deutschland und das hat verschiedene Spannungslevel. Das ist erstmal so, erstmal vielleicht nicht unbedingt Gott gegeben, das hat sich jemand mal überlegt, warum das so ist.
+
+(0:00:24 - 0:00:50)
+Und der Grund, warum man das so macht, ist, dass man durch höhere Spannung eben bei gleicher Leistungsübertragung, das ist hier ganz wichtig, einfach viel weniger Strom braucht oder weniger Strom braucht, das ist sehr proportional. Also, hohe Leistungsübertragung bei höherer Spannung bedeutet weniger Strom, den wir transportieren müssen. Das hat dann natürlich zur Folge, dass man bei weniger Strom auch weniger Verluste hat.
+
+(0:00:50 - 0:01:09)
+So würden wir es erstmal hier darlegen, sagen, also weniger Verluste bei höheren Spannungen, das ist natürlich ein Vorteil. Und das ist dann eben der Grund, warum wir das machen. Nicht zuletzt ist es dann natürlich auch wichtig, dass man diese hohen Spannungen hat, um eben große Strecken zu überbrücken.
+
+(0:01:09 - 0:01:24)
+Also Übertragungsnetze haben dann die höchsten Spannungen. Das hilft dann natürlich mit relativ dünnen Leitungen, relativ große Leistungen über relativ weite Distanzen mit wenig Verlusten zu übertragen. Und das ist einfach ein klarer Vorteil.
+
+(0:01:24 - 0:01:42)
+Und so hat sich dann nicht zuletzt, meine ich, auch die Wechselspannung gegenüber der Gleichspannung vor wahrscheinlich 100 Jahren durchgesetzt. So, hohe Spannung ist natürlich ein großer Vorteil für die Übertragung, aber Vorteile bringen auch oft Nachteile mit sich. Und deshalb gibt es eben auch die niedrige Spannung.
+
+(0:01:42 - 0:02:12)
+Und das ist dann einfach ganz klar, wenn wir hier bei uns im Büro sitzen würden und nur 20.000 Volt in der Steckdose zur Verfügung hätten, dann hätten wir wahrscheinlich einen relativ großen Aufwand, um diese Leistung ein- und auszuschalten oder diese Spannung ein- und auszuschalten. Also unsere Verbraucher, die wir hier am Ende in unserem Zuhause, in unserem Büro, in unserem täglichen Leben haben, die funktionieren dann eben mit niedriger Spannung. Das ist erst mal ganz klar.
+
+(0:02:12 - 0:02:28)
+Und man muss sich das dann im Grunde genommen auch vorstellen, wenn man hohe Spannungen hat, braucht man auch immer hohe Abstände zwischen den Komponenten. Es sind große Komponenten und das kann man einfach so zu Hause gar nicht realisieren. Also wir haben jetzt hohe Spannung, niedrige Spannung.
+
+(0:02:28 - 0:02:43)
+Und was steht dazwischen? Das ist klar, das ist jetzt der Transformator. Der sorgt eben dafür, dass wir aus dem unteren Bereich in den oberen Bereich kommen oder eben andersrum. Hier haben wir mal dargestellt, das ist eben die Schnittstelle zwischen diesen beiden Spannungsleveln.
+
+(0:02:45 - 0:03:02)
+Um das jetzt nochmal für euch ein bisschen greifbarer zu machen, für viele ist das glaube ich selbstverständlich, zeigen wir euch nochmal die vier Spannungsebenen, die wir in Deutschland so kennen. Niederspannung, das ist eben der Endverbraucher. Da steht jetzt 0,4 kV oder 0,8 kV.
+
+(0:03:03 - 0:03:32)
+Die 0,8 haben wir ja aufgenommen, weil viele PV-Wechselrichter ja mittlerweile auf 800 Volt Leiter-Leiter-Spannung laufen. Das ist das Niederspannungslevel und von da würde man, wenn man höhere Leistungen hat, diese hoch transformieren, eben erst mal auf das nächste Level, zum Beispiel auf die Mittelspannung. Da hätten wir dann unsere klassischen PV-Transformatoren, Transformatorstationen, die eben von 800 auf zum Beispiel 20 oder 30 kV hoch transformieren.
+
+(0:03:33 - 0:04:01)
+Und hier haben wir dann Trafo nochmal dargestellt. Wenn jetzt die Leistung größer wird, wir haben größere Solarparks, ich denke mal, Mittelspannung sind wir so mit 10 Megawatt immer noch ganz gut bedient, aber wenn wir auf 20, 30, 50 Megawatt hochgehen, dann muss man eben in die Hochspannung gehen, auf die 110 kV. Und auch da braucht man dann eben von unseren Transformatorstationen einen zusätzlichen, einen weiteren Transformator, der dann eben auf die 110 kV hochspannt.
+
+(0:04:02 - 0:04:36)
+Und wenn wir jetzt noch größere Solarparks bauen oder eben in das Übertragungsnetz gehen, wo dann die großen Kraftwerke auch drin sind, dann spannt man eben nochmal von der 110 kV-Ebene ins Höchstspannungsnetz, 380 kV oder 220 kV hoch und dann hat man wirklich diese Leitungsstrecken von Nord nach Süddeutschland, Ost nach West und spielt dann eben in der allerhöchsten Liga mit. Und da sind wir tatsächlich mit den ersten Solarparks mittlerweile angekommen. PV spielt eben mittlerweile in so einer hohen Liga mit, muss man ganz klar auch mit etwas Stolz so sagen.
+
+(0:04:36 - 0:04:48)
+Wir sind jetzt ganz oben angekommen und erfüllen mittlerweile oder liefern ja mittlerweile auch schon 50 Prozent des Stromverbrauchs aus erneuerbaren Energien.

@@ -1,0 +1,152 @@
+(0:00:00 - 0:00:17)
+Jetzt kommen wir zum Kapitel Zähler. Zwei haben wir also noch vor uns. Und wie ich es am Anfang schon mal kurz beschrieben hatte, viele Grundlagen, die wir für Netzanalysegeräte jetzt schon dargestellt haben, gelten auch für Zähler.
+
+(0:00:17 - 0:00:36)
+Deswegen ist das viel einfacher und kürzer, jetzt nochmal an so einem Zähler sich abzuarbeiten. Wir fangen an mit dem Hersteller und dem Typ. Hinter mir ist einfach nur so ein Bild von so einem typischen Zähler und dann zeige ich euch mal kurz, was man da immer so sehen kann.
+
+(0:00:36 - 0:00:51)
+Da oben wäre er mal, das ist irgendwie ein Hersteller. Ich kenne auch ehrlich gesagt nicht so viele, weil, das hatten wir am Anfang mal gesagt, dafür hat man selbst wenig Entscheidungsspielraum. Das macht der Messstellenbetreiber, den man sich da auswählt.
+
+(0:00:52 - 0:01:09)
+Der hat wahrscheinlich Kooperationspartner und dann dementsprechend Lieferanten, die also geeichte Stromwandler zur Verfügung stellen. Aber dann hätte man da oben mal so irgendwie seinen Typ notiert. Dann hat so ein Zähler immer eine Nummer.
+
+(0:01:09 - 0:01:18)
+Das ist auch wichtig. Die muss bitte bei der Inbetriebnahme aller spätestens notiert werden. Früher oder später wird man sowieso nach dieser Nummer gefragt.
+
+(0:01:18 - 0:01:30)
+Also die ist wirklich essentiell für die saubere Dokumentation. Bitte gut aufschreiben, vielleicht eben auch ein Foto machen. Es gibt dann auch noch eine Marktlokationsnummer, die da zugeordnet wird.
+
+(0:01:31 - 0:01:48)
+Aber vielleicht gerade in Projekten, bei denen es mehr als einen Zähler gibt, sehen wir später noch, ist also diese Zuordnung ganz relevant. Und meiner Erfahrung nach geht sowas am Ende des Projektes in vielleicht so einer positiven Aufregung dann immer auch gerne mal unter. Man hat ja da nach der Inbetriebnahme viele Dinge gleichzeitig zu prüfen.
+
+(0:01:49 - 0:02:06)
+Und dann darf man das aber eben nicht vergessen. Was sehen wir noch auf so einem typischen Stromwanderer? Das Wanderverhältnis. Haben wir ja schon mehrfach jetzt beschrieben, warum das so unglaublich wichtig ist.
+
+(0:02:06 - 0:02:23)
+Wir haben es im letzten Brainday auch gezeigt, wo das bei Strom- und Spannungswandern abzulesen ist. Und jetzt muss also auch der Stromwander, genauso wie das Netzanalysegerät, genau eben diese Wanderverhältnisse kennen. Sonst wird es kritisch.
+
+(0:02:23 - 0:02:35)
+Da ist es. Da hat es jemand mit der Hand draufgeschrieben. Ist auch wirklich nachvollziehbar, finde ich, warum das jetzt handschriftlich gemacht wurde, weil das nämlich im Werk ja gar keiner wissen kann.
+
+(0:02:35 - 0:02:53)
+Das wird projektspezifisch gemacht und dann auch parametriert. Also hier hat jemand aufgeschrieben, das ist jetzt ein Umspannwerk, in dem Fall 110.000 Volt zu 100, das ist der Spannungswandler, und 300 Ampere zu 1 Ampere. Also genau das, was wir gerade im Netzanalysegerät gemacht haben, kann man hier dann auftun.
+
+(0:02:55 - 0:03:03)
+Dann haben wir hier ein Display. Jetzt haben wir mal die Anlage in Betrieb genommen, wenn das aufgefallen ist. Und zack, sieht man das Display.
+
+(0:03:03 - 0:03:09)
+Ist ja wandlergespeist, dieser Stromwander. Also so könnte das aussehen. Da stehen jetzt alle möglichen Zahlen.
+
+(0:03:09 - 0:03:19)
+Aber man hat ja schon vielleicht den ersten Eindruck, da stehen jetzt 10,73 Kilowattstunden. Das ist doch schon mal gut. Also irgendeine Energie scheint da geflossen zu sein.
+
+(0:03:19 - 0:03:37)
+Und was ich hier betonen möchte, ist, dass man jetzt genau das gleiche machen kann, wie bei einem Netzanalysegerät, wie gerade in unserer Live-Übung. Man kann da jetzt hingehen zum Display und mal auf diese Pfeile da oben gucken. Ich weiß, dass das jetzt sehr klein ist, aber ich hoffe, man kann es lesen, sonst muss man es mir jetzt glauben.
+
+(0:03:37 - 0:03:59)
+Da würde jetzt ein Plus P stehen. Und da steht, glaube ich, ein Minus Q. Also genau das Prinzip, was wir in diesem etwas unangenehmen Kapitel 2 beschrieben haben, wird jetzt ganz essenziell. Der Zähler sagt, dass er gerade eine positive Wirkleistung erkennt und würde dann ja auch positive Wirkenergie aufsummieren.
+
+(0:04:00 - 0:04:13)
+Das heißt, weil der Zähler ja im Verbraucherzell-Fallsystem aktiv ist, ist diese positive Energie jetzt gerade ein Verbrauch. Also wir beziehen. Das wäre vielleicht eben der letzte Fall, den wir gerade in der Übung hatten.
+
+(0:04:14 - 0:04:18)
+Anlagewechselrichter abgeschaltet. Wir verbrauchen Energie. Genau das könnte jetzt sein.
+
+(0:04:18 - 0:04:53)
+Also jetzt hat man eben die Möglichkeit, Zähler links, Netzanalysegerät rechts, da auch mal von links nach rechts zu gucken, ob das wirklich sinnhaft ist. Und wenn ihr das jetzt macht, um jetzt vielleicht nochmal eine Motivationsspritze zu geben und das danach per E-Mail in die Runde schickt, dass das eben nicht richtig ist, ich glaube, dann habt ihr einen Riesenvorsprung gegenüber allen anderen im Projektteam, die ja vielleicht erst nach Wochen oder Monaten nach irgendeinem Abrechnungshinweis von den Messstellenbetreibern erst rauskriegen würden, dass da irgendwas noch nicht ganz richtig ist. Also hier kann man drauf gucken und Punkte sammeln.
+
+(0:04:55 - 0:05:04)
+So, dann gehen wir in die Kommunikationsschnittstelle. Bei dem Netzanalysegerät war das, finde ich, ein einfacher Punkt. Da waren ja gleich drei oder vier Stück und man sucht die sich raus.
+
+(0:05:04 - 0:05:17)
+Dafür ist das gebaut. Bei den Zählern ist das nicht so. Die kommen erst mal aus der Historie heraus, ohne die Anwendungsmöglichkeit, dass der Kunde da auch mit drauf guckt.
+
+(0:05:17 - 0:05:39)
+Also das geht zwar, ist aber deutlich schwieriger, sowohl technisch als auch vor allem in der Kommunikation, weil der Messstellenbetreiber da ja ehrlich gesagt gar kein großes Interesse dran hat. Wir brauchen aber diese Kommunikationsschnittstelle, weil wir ja über diese Werte den Performance Ratio berechnen wollen. Das heißt, das ist für mich in jedem Projekt ein relativ heikler Punkt.
+
+(0:05:40 - 0:05:58)
+Wie kriege ich diese Kommunikationsschnittstelle definiert und zum Laufen? Was wir hier erst mal machen, ist, man sieht erst mal da, welche Kommunikationsschnittstelle vorgesehen ist. Ich nenne mal ein paar, die für mich üblich sind. Also einmal so ein potenzialfreier Kontakt.
+
+(0:05:59 - 0:06:22)
+Meiner Sicht überhaupt nicht mehr Stand der Technik, aber trotzdem noch bei vielen Zählern so vorhanden, weil er halt so unglaublich einfach ist. Also ein potenzialfreier Kontakt, der einfach immer nur Pulse schickt. Das gibt es auch als Lichtimpuls, das sieht man auch hier schon auf dem Bild oben mittig, sieht man so eine kleine LED, die würde dann tatsächlich blinken und das kommen wir gleich dazu.
+
+(0:06:23 - 0:06:35)
+Ein Lichtimpuls wäre dann ein Indikator für einen gewissen Energiewert. Umrechnung machen wir gleich. Viel besser natürlich ist so eine Schnittstelle RS485.
+
+(0:06:38 - 0:07:17)
+Das wäre natürlich deutlich besser, ich gehe noch mal kurz zurück zu einer hochwertigeren Schnittstelle, aber das muss man dann abstimmen mit dem Messstellenbetreiber, dass man die richtige zugeordnet bekommt. Dann ein wichtiger Punkt für alle, die über der Mittelspannungsebene aktiv sind, also ab der Hochspannungsebene, ab 110 kV ist es so, dass ein Hauptzähler und ein Vergleichszähler vorgesehen sind. Man sieht das bei mir im Hintergrund, da sind zwei Zähler verbaut, das ist also jetzt nicht so, dass man da jetzt gerade zwei Anlagen hat, sondern die messen genau das gleiche.
+
+(0:07:17 - 0:08:36)
+Das ist eine Redundanz, das ist vorgesehen ab der 110 kV, deswegen ist hinter mir das Bild aus einem Umspannwerk. Dann sehen wir rechts oben noch so eine Antenne und einen Router. Das war die Kommunikationsmöglichkeit, die auch auf dem Display oder auf dem Bild angegeben war. 
+
+Das ist aber nicht unsere Antenne, sondern das ist die vom Messstellenbetreiber. Also der kommuniziert mit seinem Zähler über diese LTE-Antenne, deswegen ist die auch in dem Zählerkasten verbaut, damit haben wir nichts zu tun, aber ist ja schon mal gut zu wissen, dass zumindest der Messstellenbetreiber da permanenten Zugriff hat auf seinen Zähler. Mehr wieder aus der Energietechnik, die Strom- und Spannungswandler-Anschlüsse. 
+
+Da unten sind sie, genauer zeige ich sie auch nicht. Genau das ist vielleicht ein gutes Beispiel dafür, dass das jetzt 1 zu 1 vergleichbar ist mit dem Kapitel Netzanalysegerät. Da habe ich ja sehr genau gezeigt, in dem einpoligen Schema in 3D-Elementen, wie man die Strom- und Spannungswandler anschließt. 
+
+Das machen wir jetzt hier nicht nochmal, weil die Technik genau die gleiche ist. Aber wenn man jetzt mal vor so einem Zählerkasten steht, hat man beim nächsten Mal vielleicht einen besseren Eindruck. Da unten sieht man sie noch und so rechts, mittig und ganz rechts sieht man da sind sie ja noch frei.
+
+(0:08:37 - 0:08:46)
+Da kann man sich vorstellen, da kommen so irgendwie die Drähte raus. Die kommen vom 110 kV Strom- und Spannungswandler in diesem Fall. Also das andere Ende ist an einem riesen Gerät angeschlossen.
+
+(0:08:47 - 0:09:26)
+Hier im Zählerkasten sind sie dann relativ kleinteilig und müssen richtig aufgelegt werden. So, die Verantwortung. Das hatten wir ganz am Anfang auf der Warum schon mal gesagt. 
+
+Jetzt vielleicht schließt sich der Kreis besser. Beim Zähler ist es wichtig, der Anlagenbetreiber ist erstmal für die Beauftragung des Zählers verantwortlich. Das macht er nicht, indem er eine Zählerbestellung auslöst, sondern er muss mit dem Messstellenbetreiber kooperieren. 
+
+Aber das ist eben die Verantwortung vom Anlagenbetreiber. Den Einbau selbst, das macht dann der Messstellenbetreiber. Ihr habt es vorhin gesehen in der Tour auch, da war eine leere Box.
+
+(0:09:27 - 0:09:36)
+Die gilt es zu füllen. Das macht der Messstellenbetreiber. Die Verdrahtung wiederum, das macht der Stationslieferant.
+
+(0:09:36 - 0:09:43)
+Das ist auch immer eine spannende Geschichte. Wird meistens dann noch mal gemeinsam geprüft. Das ist der Punkt hier bei der Inbetriebnahmeprüfung.
+
+(0:09:43 - 0:10:11)
+Also typisches Schnittstellenproblem. Zwei Parteien, jetzt muss man sicherstellen, dass beide gleich gedacht haben und deswegen gibt es dann auch eine Inbetriebnahmeprüfung, die wird vom Messstellenbetreiber koordiniert. Aber der Stationslieferant oder Vertreter muss immer dabei sein, weil der Messstellenbetreiber tatsächlich nur guckt. 
+
+Der prüft nur, ob alles richtig ist. Der würde sich nie in die Sekundärvertrautung der zum Beispiel Übergabestationen wagen. Das darf er auch gar nicht.
+
+(0:10:11 - 0:10:29)
+Deswegen ist das ein typisches Schnittstellenthema. Koordination vom Elektroplaner, die gemeinsamen Parteien da im richtigen Moment vor Ort zu haben, damit eine Inbetriebnahmeprüfung durchgeführt werden kann. Also das waren die verschiedenen Verantwortlichkeiten beim Zähler.
+
+(0:10:29 - 0:10:52)
+Und dann, ja, im Bild nicht zu sehen, deswegen haben wir schon auch gar kein Bild mehr. Doch, da ist es. Da gibt es immer eine Plombe, die wird am Schluss nochmal draufgesetzt. 
+
+Das macht er tatsächlich mit so, ich weiß nicht, ob das Blei ist, aber irgendwelche bleiartiges Material. Das wird verplombt, sodass dann niemand mehr unbemerkt sozusagen an diesen Zähler ran kann. Der ist ja nun mal sensibel.
+
+(0:10:53 - 0:11:10)
+Ich hatte jetzt auch noch nie gehört, dass da mal einer versucht hat, was zu manipulieren. Aber von der Grundlogik ist es ja so, der ist ja Zähler, der ist geeicht, der wird von einer unabhängigen Stelle zur Verfügung gestellt und geprüft. Und dann darf da natürlich keiner mehr ran, um zum Beispiel ein Spannungswandlerverhältnis zu verändern.
+
+(0:11:11 - 0:11:28)
+Weil wenn er das machen würde, hätte man ja plötzlich deutlich mehr oder weniger eingespeiste Energie gemessen, als man tatsächlich erzeugt. So, jetzt kommt nochmal ein Kapitel zum Mitdenken und dann auch mitmachen. Die Umrechnung der Impulse.
+
+(0:11:28 - 0:12:55)
+Also vielleicht erst nochmal kurz erklärt. Hier sind erstmal so eine kleine Darstellung, die wir auch gleich noch größer machen. Warum müssen wir denn jetzt überhaupt irgendwas umrechnen? Der Hintergrund ist, dass dieser Stromzähler also verschiedene elektrische Parameter auswertet und diese dann auch nach außen weiterleiten kann. 
+
+Das sind jetzt zum Beispiel, ich glaube wir konzentrieren uns auf die Energie, genau das sind zum Beispiel Energiewerte, die er bezieht oder die er exportiert. Und die stellt er nicht als irgendeine Kenngröße dar, sondern das macht er in Form von Pulsen. Wie kann man sich das vorstellen? Also wenn so ein Zähler mit uns kommuniziert, dann schickt er uns Pulse. 
+
+Und dann stellen wir uns jetzt einfach mal eine Frage, die wir jetzt beantworten und dann haben wir es glaube ich auch eingekreist, das Problem. Wie viel eingespeiste Energie in Kilowattstunden sind 6.900 Impulse? Anders gesagt, der schickt uns 6.900 Impulse und ihr sollt jetzt sagen, wie viel Energie ist das denn eigentlich? Und das funktioniert so. Man nimmt als erstes den Faktor für den Zählerimpuls, das ist das, was da hinter mir ist. 
+
+Dann zoomen wir nochmal rein. Da guckt man also auf das Foto, das man gemacht hat, geht da rein und da sind dann diese verrückten Zahlen. Und da steht jetzt K1, K2 bis K6.
+
+(0:12:55 - 0:13:12)
+Ich erkläre kurz, was das bedeutet. K3 ist eine positive Wirkenergie, Active Power, deswegen dieses A und das ist plus positiv im Verbraucher-Safety-System. Gott sei Dank wird dieses Kapitel 2 immer wieder wichtig, weil das war ja etwas unangenehm am Anfang.
+
+(0:13:13 - 0:13:35)
+Aber jetzt weiß man, warum wir das so kleinteilig dargestellt haben. Also man muss jetzt wieder wissen, aus welcher Richtung guckt der denn eigentlich? Und warum ist dann die Wirkenergie positiv? Also das wäre ein Verbrauch im Zellpfeilsystem. Das K4 ist negative Active Power, also erzeugte Wirkenergie im Zellpfeilsystem.
+
+(0:13:35 - 0:14:07)
+Und dann das gleiche Prinzip K5 und K6, aber mit Reactive Power, deswegen da dieses R, aber das gibt es, haben wir ja gesehen, auch positiv und negativ. Also der kann uns erstmal diese vier Kenndaten übermitteln und zwar mit Impulsen und da steht es jetzt, was brauchen wir? Wir erinnern uns vom Anfang, Erzeuger-Pfeilsystem, das Auge ist oben beim Strommast, deswegen brauchen wir dieses K4. Also die negative Wirkenergie, weil wir wollen ja wissen, wie viel haben wir ins Netz eingespeist.
+
+(0:14:08 - 0:14:57)
+Über mir habe ich es markiert, das ist also der Wert, denn wir brauchen 50.000 Impulse pro Kilowattstunde. Da haben wir sie. Das ist schon mal ein ganz wichtiger Schritt. 
+
+Jetzt kommt der nächste Schritt, wie rechne ich aus diesen Impulsen meine sekundären Energiewerte aus? Das ist ein sehr einfacher Dreisatz, ich zeige es trotzdem einmal in Ruhe. Ich will also meine Energie mir ausrechnen, dafür brauche ich die Anzahl der Impulse, ihr erinnert euch, 6.900 haben wir mal so vorgegeben, und die teile ich jetzt durch meine 50.000 Impulse pro Kilowattstunde und zack, da kommen jetzt 0,138 Kilowattstunden raus. Jetzt habe ich schon mal eine Energie, das ist der zweite Schritt, den ich tue und schon bin ich sehr nah dran an meinem Ziel.
+
+(0:14:59 - 0:16:06)
+Merke ich mir, schiebe ich nach oben, brauche ich mehr Platz und habe die dritten und letzten Schritt. Jetzt muss ich umrechnen, sekundär auf primär. Das haben wir vorhin gesehen, ist dann links unten handschriftlich hat er es aufgeschrieben, also seine 110.000 zu 100 und seine 300 zu 1 hat er ja angegeben, jetzt wissen wieder alle, was alle so treiben und können jetzt selber rechnen. 
+
+Also einmal die sekundär Energie mal 110.000 durch 100 mal 300 durch 1, kann man auch später meinetwegen nochmal nachvollziehen, warum das dann eine Energie ist, aber jetzt glaubt es mir erst mal und dann kommen verrückte 45.540 Kilowattstunden raus. Also diese 6.900 Impulse sagen, dass ich 45 Megawattstunden eingespeist habe. Das ist schon eine ganz schöne Brücke, die man da mal schlagen muss, aber das machen Leute im Hintergrund und nur deswegen hat man die Möglichkeit, wenn man so eine Zählerschnittstelle hat, auch im Monitoring live mitzutracken, was eigentlich der Zähler misst.
+
+(0:16:08 - 0:16:09)
+Genau, da sind sie, die Megawatt.
